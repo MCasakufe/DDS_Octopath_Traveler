@@ -14,9 +14,7 @@ public class Game
     private readonly TeamFileParser _teamFileParser;
     private readonly TeamSetupValidator _teamSetupValidator;
     private readonly TeamSetupBattleStateFactory _battleStateFactory;
-    private readonly RoundTurnQueueBuilder _roundTurnQueueBuilder;
-    private readonly RoundStateRenderer _roundStateRenderer;
-    private readonly TravelerTurnFlow _travelerTurnFlow;
+    private readonly BattleLoopRunner _battleLoopRunner;
 
     public Game(View view, string teamsFolder)
     {
@@ -25,9 +23,14 @@ public class Game
         _teamFileParser = new TeamFileParser();
         _teamSetupValidator = new TeamSetupValidator(new JsonValidationCatalogProvider(teamsFolder));
         _battleStateFactory = new TeamSetupBattleStateFactory(new RuntimeDataCatalogProvider(teamsFolder));
-        _roundTurnQueueBuilder = new RoundTurnQueueBuilder();
-        _roundStateRenderer = new RoundStateRenderer(view);
-        _travelerTurnFlow = new TravelerTurnFlow(view);
+        var damageCalculator = new E1DamageCalculator();
+        _battleLoopRunner = new BattleLoopRunner(
+            new RoundTurnQueueBuilder(),
+            new RoundStateRenderer(view),
+            new TravelerTurnFlow(view),
+            new TravelerBasicAttackResolver(view, damageCalculator),
+            new BeastAttackResolver(view, damageCalculator),
+            new BattleVictoryResolver(view));
     }
 
     public void Play()
@@ -58,35 +61,7 @@ public class Game
             WriteInvalidTeamFileMessage();
             return;
         }
-
-        var actedParticipants = new HashSet<TurnParticipantKey>();
-        var roundTurnQueues = _roundTurnQueueBuilder.CreateQueues(battleState, actedParticipants);
-        _roundStateRenderer.RenderRoundState(battleState, roundTurnQueues);
-
-        var travelerTurnOutcome = TryRunNextTravelerTurn(roundTurnQueues, battleState);
-        if (travelerTurnOutcome.Resolution == TravelerTurnResolution.Fled)
-            WriteEnemyVictoryAfterFlee();
-    }
-
-    private TravelerTurnOutcome TryRunNextTravelerTurn(RoundTurnQueues roundTurnQueues, BattleState battleState)
-    {
-        if (roundTurnQueues.CurrentRound.Count == 0)
-            return TravelerTurnOutcome.NoAction();
-
-        var nextParticipant = roundTurnQueues.CurrentRound[0];
-        if (nextParticipant.Side != BattleSide.Traveler)
-            return TravelerTurnOutcome.NoAction();
-
-        var traveler = battleState.TravelerTeam[nextParticipant.BoardSlotIndex];
-        return _travelerTurnFlow.RunTurn(traveler, battleState);
-    }
-
-    private void WriteEnemyVictoryAfterFlee()
-    {
-        _view.WriteLine("----------------------------------------");
-        _view.WriteLine("El equipo de viajeros ha huido!");
-        _view.WriteLine("----------------------------------------");
-        _view.WriteLine("Gana equipo del enemigo");
+        _battleLoopRunner.Run(battleState);
     }
 
     private void WriteInvalidTeamFileMessage()

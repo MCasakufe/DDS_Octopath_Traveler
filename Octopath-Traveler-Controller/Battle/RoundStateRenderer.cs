@@ -21,6 +21,14 @@ public sealed class RoundStateRenderer
         WriteQueueBlock("Turnos de la siguiente ronda", roundTurnQueues.NextRound);
     }
 
+    public void RenderBattleSnapshot(BattleState battleState, RoundTurnQueues roundTurnQueues)
+    {
+        _view.WriteLine(SeparatorLine);
+        WriteTeamState(battleState);
+        WriteQueueBlock("Turnos de la ronda", roundTurnQueues.CurrentRound);
+        WriteQueueBlock("Turnos de la siguiente ronda", roundTurnQueues.NextRound);
+    }
+
     private void WriteRoundHeader(int roundNumber)
     {
         _view.WriteLine(SeparatorLine);
