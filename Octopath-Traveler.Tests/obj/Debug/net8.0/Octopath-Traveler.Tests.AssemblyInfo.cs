@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Octopath-Traveler.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d3a060d00ee1d8c7b18cbda879e45f83c5e8225")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce70a9f8ad7b10f8ebe895cb2804b92e18c5575c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Octopath-Traveler.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Octopath-Traveler.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
