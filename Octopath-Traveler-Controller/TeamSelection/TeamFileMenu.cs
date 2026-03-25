@@ -18,10 +18,10 @@ public sealed class TeamFileMenu
         var availableTeamFileNames = GetAvailableTeamFileNames();
         WriteTeamFileSelection(availableTeamFileNames);
 
-        var selectedIndex = ReadSelectedFileIndex();
-        return IsValidFileIndex(selectedIndex, availableTeamFileNames.Count)
-            ? BuildTeamFilePath(availableTeamFileNames[selectedIndex!.Value])
-            : null;
+        if (!TryReadSelectedFileIndex(availableTeamFileNames.Count, out var selectedFileIndex))
+            return null;
+
+        return BuildTeamFilePath(availableTeamFileNames[selectedFileIndex]);
     }
 
     private List<string> GetAvailableTeamFileNames()
@@ -40,14 +40,14 @@ public sealed class TeamFileMenu
             _view.WriteLine($"{index}: {teamFileNames[index]}");
     }
 
-    private int? ReadSelectedFileIndex()
+    private bool TryReadSelectedFileIndex(int fileCount, out int selectedFileIndex)
     {
         var selectedIndexText = _view.ReadLine();
-        return int.TryParse(selectedIndexText, out var selectedIndex) ? selectedIndex : null;
-    }
+        if (!int.TryParse(selectedIndexText, out selectedFileIndex))
+            return false;
 
-    private static bool IsValidFileIndex(int? index, int fileCount)
-        => index is >= 0 && index < fileCount;
+        return selectedFileIndex >= 0 && selectedFileIndex < fileCount;
+    }
 
     private string BuildTeamFilePath(string fileName)
         => Path.Combine(_teamFilesFolder, fileName);

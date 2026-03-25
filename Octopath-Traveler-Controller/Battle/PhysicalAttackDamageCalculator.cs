@@ -1,6 +1,6 @@
 namespace Octopath_Traveler.Battle;
 
-public sealed class E1DamageCalculator
+public sealed class PhysicalAttackDamageCalculator
 {
     private const double AttackModifier = 1.3;
 

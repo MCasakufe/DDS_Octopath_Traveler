@@ -4,6 +4,23 @@ namespace Octopath_Traveler.RuntimeData;
 
 public sealed class RuntimeDataCatalogProvider
 {
+    private const string CharactersFileName = "characters.json";
+    private const string EnemiesFileName = "enemies.json";
+    private const string ActiveSkillsFileName = "skills.json";
+    private const string PassiveSkillsFileName = "passive_skills.json";
+    private const string BeastSkillsFileName = "beast_skills.json";
+
+    private const string NamePropertyName = "Name";
+    private const string StatsPropertyName = "Stats";
+    private const string HpPropertyName = "HP";
+    private const string SpPropertyName = "SP";
+    private const string PhysAtkPropertyName = "PhysAtk";
+    private const string PhysDefPropertyName = "PhysDef";
+    private const string SpeedPropertyName = "Speed";
+    private const string WeaponsPropertyName = "Weapons";
+    private const string ShieldsPropertyName = "Shields";
+    private const string SkillPropertyName = "Skill";
+
     private readonly string _dataFolderPath;
 
     public RuntimeDataCatalogProvider(string teamsFolder)
@@ -15,9 +32,9 @@ public sealed class RuntimeDataCatalogProvider
     {
         var travelersByName = TryLoadTravelerDefinitions();
         var beastsByName = TryLoadBeastDefinitions();
-        var activeSkillNames = TryLoadNameSet("skills.json");
-        var passiveSkillNames = TryLoadNameSet("passive_skills.json");
-        var beastSkillNames = TryLoadNameSet("beast_skills.json");
+        var activeSkillNames = TryLoadNameSet(ActiveSkillsFileName);
+        var passiveSkillNames = TryLoadNameSet(PassiveSkillsFileName);
+        var beastSkillNames = TryLoadNameSet(BeastSkillsFileName);
 
         if (travelersByName is null
             || beastsByName is null
@@ -37,40 +54,16 @@ public sealed class RuntimeDataCatalogProvider
     }
 
     private Dictionary<string, TravelerDefinition>? TryLoadTravelerDefinitions()
-    {
-        var jsonContent = TryReadJsonContent("characters.json");
-        if (jsonContent is null)
-            return null;
-
-        try
-        {
-            using var document = JsonDocument.Parse(jsonContent);
-            return ParseTravelerDefinitions(document.RootElement);
-        }
-        catch (JsonException)
-        {
-            return null;
-        }
-    }
+        => TryLoadFromJsonFile(CharactersFileName, ParseTravelerDefinitions);
 
     private Dictionary<string, BeastDefinition>? TryLoadBeastDefinitions()
-    {
-        var jsonContent = TryReadJsonContent("enemies.json");
-        if (jsonContent is null)
-            return null;
+        => TryLoadFromJsonFile(EnemiesFileName, ParseBeastDefinitions);
 
-        try
-        {
-            using var document = JsonDocument.Parse(jsonContent);
-            return ParseBeastDefinitions(document.RootElement);
-        }
-        catch (JsonException)
-        {
-            return null;
-        }
-    }
+    private IReadOnlySet<string>? TryLoadNameSet(string fileName)
+        => TryLoadFromJsonFile(fileName, ParseNameSet);
 
-    private HashSet<string>? TryLoadNameSet(string fileName)
+    private TData? TryLoadFromJsonFile<TData>(string fileName, Func<JsonElement, TData?> parser)
+        where TData : class
     {
         var jsonContent = TryReadJsonContent(fileName);
         if (jsonContent is null)
@@ -79,7 +72,7 @@ public sealed class RuntimeDataCatalogProvider
         try
         {
             using var document = JsonDocument.Parse(jsonContent);
-            return ParseNameSet(document.RootElement);
+            return parser(document.RootElement);
         }
         catch (JsonException)
         {
@@ -128,14 +121,14 @@ public sealed class RuntimeDataCatalogProvider
 
     private static TravelerDefinition? TryParseTravelerDefinition(JsonElement travelerElement)
     {
-        if (!TryGetRequiredString(travelerElement, "Name", out var travelerName)
-            || !travelerElement.TryGetProperty("Stats", out var statsElement)
-            || !TryGetRequiredInt(statsElement, "HP", out var maxHp)
-            || !TryGetRequiredInt(statsElement, "SP", out var maxSp)
-            || !TryGetRequiredInt(statsElement, "PhysAtk", out var physAtk)
-            || !TryGetRequiredInt(statsElement, "PhysDef", out var physDef)
-            || !TryGetRequiredInt(statsElement, "Speed", out var speed)
-            || !TryReadStringList(travelerElement, "Weapons", out var weapons))
+        if (!TryGetRequiredString(travelerElement, NamePropertyName, out var travelerName)
+            || !travelerElement.TryGetProperty(StatsPropertyName, out var statsElement)
+            || !TryGetRequiredInt(statsElement, HpPropertyName, out var maxHp)
+            || !TryGetRequiredInt(statsElement, SpPropertyName, out var maxSp)
+            || !TryGetRequiredInt(statsElement, PhysAtkPropertyName, out var physAtk)
+            || !TryGetRequiredInt(statsElement, PhysDefPropertyName, out var physDef)
+            || !TryGetRequiredInt(statsElement, SpeedPropertyName, out var speed)
+            || !TryReadStringList(travelerElement, WeaponsPropertyName, out var weapons))
         {
             return null;
         }
@@ -164,14 +157,14 @@ public sealed class RuntimeDataCatalogProvider
 
     private static BeastDefinition? TryParseBeastDefinition(JsonElement beastElement)
     {
-        if (!TryGetRequiredString(beastElement, "Name", out var beastName)
-            || !beastElement.TryGetProperty("Stats", out var statsElement)
-            || !TryGetRequiredInt(statsElement, "HP", out var maxHp)
-            || !TryGetRequiredInt(statsElement, "PhysAtk", out var physAtk)
-            || !TryGetRequiredInt(statsElement, "PhysDef", out var physDef)
-            || !TryGetRequiredInt(statsElement, "Speed", out var speed)
-            || !TryGetRequiredInt(beastElement, "Shields", out var maxShields)
-            || !TryGetRequiredString(beastElement, "Skill", out var skillName))
+        if (!TryGetRequiredString(beastElement, NamePropertyName, out var beastName)
+            || !beastElement.TryGetProperty(StatsPropertyName, out var statsElement)
+            || !TryGetRequiredInt(statsElement, HpPropertyName, out var maxHp)
+            || !TryGetRequiredInt(statsElement, PhysAtkPropertyName, out var physAtk)
+            || !TryGetRequiredInt(statsElement, PhysDefPropertyName, out var physDef)
+            || !TryGetRequiredInt(statsElement, SpeedPropertyName, out var speed)
+            || !TryGetRequiredInt(beastElement, ShieldsPropertyName, out var maxShields)
+            || !TryGetRequiredString(beastElement, SkillPropertyName, out var skillName))
         {
             return null;
         }
@@ -179,7 +172,7 @@ public sealed class RuntimeDataCatalogProvider
         return new BeastDefinition(beastName, maxHp, physAtk, physDef, speed, maxShields, skillName);
     }
 
-    private static HashSet<string>? ParseNameSet(JsonElement rootElement)
+    private static IReadOnlySet<string>? ParseNameSet(JsonElement rootElement)
     {
         if (rootElement.ValueKind != JsonValueKind.Array)
             return null;
@@ -187,7 +180,7 @@ public sealed class RuntimeDataCatalogProvider
         var names = new HashSet<string>(StringComparer.Ordinal);
         foreach (var itemElement in rootElement.EnumerateArray())
         {
-            if (!TryGetRequiredString(itemElement, "Name", out var name))
+            if (!TryGetRequiredString(itemElement, NamePropertyName, out var name))
                 return null;
 
             names.Add(name);

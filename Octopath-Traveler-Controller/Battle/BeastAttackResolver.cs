@@ -7,9 +7,9 @@ public sealed class BeastAttackResolver
     private const string SeparatorLine = "----------------------------------------";
 
     private readonly View _view;
-    private readonly E1DamageCalculator _damageCalculator;
+    private readonly PhysicalAttackDamageCalculator _damageCalculator;
 
-    public BeastAttackResolver(View view, E1DamageCalculator damageCalculator)
+    public BeastAttackResolver(View view, PhysicalAttackDamageCalculator damageCalculator)
     {
         _view = view;
         _damageCalculator = damageCalculator;

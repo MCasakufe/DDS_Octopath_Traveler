@@ -2,6 +2,8 @@ namespace Octopath_Traveler.Battle;
 
 public sealed class BattleLoopRunner
 {
+    private const int MaxTravelerBp = 5;
+
     private readonly RoundTurnQueueBuilder _roundTurnQueueBuilder;
     private readonly RoundStateRenderer _roundStateRenderer;
     private readonly TravelerTurnFlow _travelerTurnFlow;
@@ -27,57 +29,62 @@ public sealed class BattleLoopRunner
 
     public void Run(BattleState battleState)
     {
-        while (true)
-        {
-            var actedParticipants = new HashSet<TurnParticipantKey>();
-            var initialQueues = _roundTurnQueueBuilder.CreateQueues(battleState, actedParticipants);
-            _roundStateRenderer.RenderRoundState(battleState, initialQueues);
-
-            var roundEnded = RunRoundTurns(battleState, actedParticipants);
-            if (!roundEnded)
-                return;
-
-            IncreaseAliveTravelerBp(battleState);
-            battleState.RoundNumber += 1;
-        }
+        while (TryRunRound(battleState))
+            StartNextRound(battleState);
     }
 
-    private bool RunRoundTurns(BattleState battleState, HashSet<TurnParticipantKey> actedParticipants)
+    private bool TryRunRound(BattleState battleState)
     {
-        while (true)
-        {
-            var queues = _roundTurnQueueBuilder.CreateQueues(battleState, actedParticipants);
-            if (queues.CurrentRound.Count == 0)
-                return true;
+        var actedParticipants = new HashSet<TurnParticipantKey>();
+        RenderRoundStart(battleState, actedParticipants);
 
-            var nextParticipant = queues.CurrentRound[0];
-            if (!ResolveTurn(nextParticipant, battleState))
+        while (TryGetNextRoundParticipant(battleState, actedParticipants, out var participant))
+        {
+            if (!TryResolveTurn(participant, battleState))
                 return false;
 
-            actedParticipants.Add(new TurnParticipantKey(nextParticipant.Side, nextParticipant.BoardSlotIndex));
+            actedParticipants.Add(new TurnParticipantKey(participant.Side, participant.BoardSlotIndex));
 
-            var winner = _battleVictoryResolver.Evaluate(battleState);
-            if (winner != BattleWinner.None)
-            {
-                _battleVictoryResolver.WriteWinner(winner);
+            if (TryWriteWinnerIfBattleEnded(battleState))
                 return false;
-            }
 
-            var updatedQueues = _roundTurnQueueBuilder.CreateQueues(battleState, actedParticipants);
-            if (updatedQueues.CurrentRound.Count > 0)
-                _roundStateRenderer.RenderBattleSnapshot(battleState, updatedQueues);
+            RenderBattleSnapshotIfRoundContinues(battleState, actedParticipants);
         }
+
+        return true;
     }
 
-    private bool ResolveTurn(TurnParticipant participant, BattleState battleState)
+    private void RenderRoundStart(BattleState battleState, IReadOnlySet<TurnParticipantKey> actedParticipants)
     {
-        if (participant.Side == BattleSide.Traveler)
-            return ResolveTravelerTurn(participant, battleState);
-
-        return ResolveBeastTurn(participant, battleState);
+        var initialQueues = _roundTurnQueueBuilder.CreateQueues(battleState, actedParticipants);
+        _roundStateRenderer.RenderRoundState(battleState, initialQueues);
     }
 
-    private bool ResolveTravelerTurn(TurnParticipant participant, BattleState battleState)
+    private bool TryGetNextRoundParticipant(
+        BattleState battleState,
+        IReadOnlySet<TurnParticipantKey> actedParticipants,
+        out TurnParticipant participant)
+    {
+        var queues = _roundTurnQueueBuilder.CreateQueues(battleState, actedParticipants);
+        if (queues.CurrentRound.Count == 0)
+        {
+            participant = null!;
+            return false;
+        }
+
+        participant = queues.CurrentRound[0];
+        return true;
+    }
+
+    private bool TryResolveTurn(TurnParticipant participant, BattleState battleState)
+        => participant.Side switch
+        {
+            BattleSide.Traveler => TryResolveTravelerTurn(participant, battleState),
+            BattleSide.Beast => ResolveBeastTurn(participant, battleState),
+            _ => false
+        };
+
+    private bool TryResolveTravelerTurn(TurnParticipant participant, BattleState battleState)
     {
         var traveler = battleState.TravelerTeam[participant.BoardSlotIndex];
         var turnOutcome = _travelerTurnFlow.RunTurn(traveler, battleState);
@@ -98,6 +105,25 @@ public sealed class BattleLoopRunner
         return true;
     }
 
+    private bool TryWriteWinnerIfBattleEnded(BattleState battleState)
+    {
+        var winner = _battleVictoryResolver.Evaluate(battleState);
+        if (winner == BattleWinner.None)
+            return false;
+
+        _battleVictoryResolver.WriteWinner(winner);
+        return true;
+    }
+
+    private void RenderBattleSnapshotIfRoundContinues(
+        BattleState battleState,
+        IReadOnlySet<TurnParticipantKey> actedParticipants)
+    {
+        var updatedQueues = _roundTurnQueueBuilder.CreateQueues(battleState, actedParticipants);
+        if (updatedQueues.CurrentRound.Count > 0)
+            _roundStateRenderer.RenderBattleSnapshot(battleState, updatedQueues);
+    }
+
     private bool ResolveBeastTurn(TurnParticipant participant, BattleState battleState)
     {
         var beast = battleState.BeastTeam[participant.BoardSlotIndex];
@@ -105,9 +131,15 @@ public sealed class BattleLoopRunner
         return true;
     }
 
+    private static void StartNextRound(BattleState battleState)
+    {
+        IncreaseAliveTravelerBp(battleState);
+        battleState.RoundNumber += 1;
+    }
+
     private static void IncreaseAliveTravelerBp(BattleState battleState)
     {
         foreach (var traveler in battleState.TravelerTeam.Where(traveler => traveler.IsAlive))
-            traveler.CurrentBp = Math.Min(5, traveler.CurrentBp + 1);
+            traveler.CurrentBp = Math.Min(MaxTravelerBp, traveler.CurrentBp + 1);
     }
 }

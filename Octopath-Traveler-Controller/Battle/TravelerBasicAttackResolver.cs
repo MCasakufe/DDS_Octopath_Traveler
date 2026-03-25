@@ -7,9 +7,9 @@ public sealed class TravelerBasicAttackResolver
     private const string SeparatorLine = "----------------------------------------";
 
     private readonly View _view;
-    private readonly E1DamageCalculator _damageCalculator;
+    private readonly PhysicalAttackDamageCalculator _damageCalculator;
 
-    public TravelerBasicAttackResolver(View view, E1DamageCalculator damageCalculator)
+    public TravelerBasicAttackResolver(View view, PhysicalAttackDamageCalculator damageCalculator)
     {
         _view = view;
         _damageCalculator = damageCalculator;

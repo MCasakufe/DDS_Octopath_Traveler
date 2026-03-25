@@ -39,6 +39,14 @@ public sealed class TravelerTurnFlow
 
     private readonly View _view;
 
+    private enum TravelerActionOption
+    {
+        BasicAttack = 1,
+        Skill = 2,
+        Defend = 3,
+        Flee = 4
+    }
+
     public TravelerTurnFlow(View view)
     {
         _view = view;
@@ -49,37 +57,46 @@ public sealed class TravelerTurnFlow
         while (true)
         {
             WriteActionMenu(traveler.Name);
-            var selectedAction = ReadMenuOption();
-
-            if (selectedAction == 1)
-            {
-                var selectedWeapon = TrySelectWeapon(traveler);
-                if (selectedWeapon is null)
-                    continue;
-
-                var selectedTarget = TrySelectTarget(traveler.Name, battleState);
-                if (selectedTarget is null)
-                    continue;
-
-                var usedBp = ReadUsedBp(traveler.CurrentBp);
-                return TravelerTurnOutcome.BasicAttack(selectedWeapon, selectedTarget, usedBp);
-            }
-
-            if (selectedAction == 2)
-            {
-                var selectedSkill = TrySelectSkill(traveler);
-                if (selectedSkill is null)
-                    continue;
-
-                return TravelerTurnOutcome.Skill();
-            }
-
-            if (selectedAction == 3)
-                return TravelerTurnOutcome.Defend();
-
-            if (selectedAction == 4)
-                return TravelerTurnOutcome.Flee();
+            var selectedAction = TryReadActionOption();
+            var turnOutcome = TryCreateOutcome(selectedAction, traveler, battleState);
+            if (turnOutcome is not null)
+                return turnOutcome;
         }
+    }
+
+    private TravelerTurnOutcome? TryCreateOutcome(
+        TravelerActionOption? selectedAction,
+        TravelerCombatUnit traveler,
+        BattleState battleState)
+        => selectedAction switch
+        {
+            TravelerActionOption.BasicAttack => TryCreateBasicAttackOutcome(traveler, battleState),
+            TravelerActionOption.Skill => TryCreateSkillOutcome(traveler),
+            TravelerActionOption.Defend => TravelerTurnOutcome.Defend(),
+            TravelerActionOption.Flee => TravelerTurnOutcome.Flee(),
+            _ => null
+        };
+
+    private TravelerTurnOutcome? TryCreateBasicAttackOutcome(TravelerCombatUnit traveler, BattleState battleState)
+    {
+        var selectedWeapon = TrySelectWeapon(traveler);
+        if (selectedWeapon is null)
+            return null;
+
+        var selectedTarget = TrySelectTarget(traveler.Name, battleState);
+        if (selectedTarget is null)
+            return null;
+
+        var usedBp = ReadUsedBp(traveler.CurrentBp);
+        return TravelerTurnOutcome.BasicAttack(selectedWeapon, selectedTarget, usedBp);
+    }
+
+    private TravelerTurnOutcome? TryCreateSkillOutcome(TravelerCombatUnit traveler)
+    {
+        var selectedSkill = TrySelectSkill(traveler);
+        return selectedSkill is null
+            ? null
+            : TravelerTurnOutcome.Skill();
     }
 
     private void WriteActionMenu(string travelerName)
@@ -104,13 +121,16 @@ public sealed class TravelerTurnFlow
         _view.WriteLine($"{cancelOption}: Cancelar");
 
         var selectedWeaponOption = ReadMenuOption();
+        if (selectedWeaponOption is not int selectedWeaponIndex)
+            return null;
+
         if (selectedWeaponOption == cancelOption)
             return null;
 
-        if (selectedWeaponOption is < 1 || selectedWeaponOption > traveler.Weapons.Count)
+        if (selectedWeaponIndex < 1 || selectedWeaponIndex > traveler.Weapons.Count)
             return null;
 
-        return traveler.Weapons[selectedWeaponOption.Value - 1];
+        return traveler.Weapons[selectedWeaponIndex - 1];
     }
 
     private BeastCombatUnit? TrySelectTarget(string travelerName, BattleState battleState)
@@ -130,13 +150,16 @@ public sealed class TravelerTurnFlow
         _view.WriteLine($"{cancelOption}: Cancelar");
 
         var selectedTargetOption = ReadMenuOption();
+        if (selectedTargetOption is not int selectedTargetIndex)
+            return null;
+
         if (selectedTargetOption == cancelOption)
             return null;
 
-        if (selectedTargetOption is < 1 || selectedTargetOption > aliveBeasts.Count)
+        if (selectedTargetIndex < 1 || selectedTargetIndex > aliveBeasts.Count)
             return null;
 
-        return aliveBeasts[selectedTargetOption.Value - 1];
+        return aliveBeasts[selectedTargetIndex - 1];
     }
 
     private string? TrySelectSkill(TravelerCombatUnit traveler)
@@ -151,13 +174,16 @@ public sealed class TravelerTurnFlow
         _view.WriteLine($"{cancelOption}: Cancelar");
 
         var selectedSkillOption = ReadMenuOption();
+        if (selectedSkillOption is not int selectedSkillIndex)
+            return null;
+
         if (selectedSkillOption == cancelOption)
             return null;
 
-        if (selectedSkillOption is < 1 || selectedSkillOption > traveler.AssignedActiveSkillNames.Count)
+        if (selectedSkillIndex < 1 || selectedSkillIndex > traveler.AssignedActiveSkillNames.Count)
             return null;
 
-        return traveler.AssignedActiveSkillNames[selectedSkillOption.Value - 1];
+        return traveler.AssignedActiveSkillNames[selectedSkillIndex - 1];
     }
 
     private int ReadUsedBp(int currentBp)
@@ -175,5 +201,18 @@ public sealed class TravelerTurnFlow
     {
         var optionText = _view.ReadLine();
         return int.TryParse(optionText, out var option) ? option : null;
+    }
+
+    private TravelerActionOption? TryReadActionOption()
+    {
+        var option = ReadMenuOption();
+        return option switch
+        {
+            (int)TravelerActionOption.BasicAttack => TravelerActionOption.BasicAttack,
+            (int)TravelerActionOption.Skill => TravelerActionOption.Skill,
+            (int)TravelerActionOption.Defend => TravelerActionOption.Defend,
+            (int)TravelerActionOption.Flee => TravelerActionOption.Flee,
+            _ => null
+        };
     }
 }

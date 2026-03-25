@@ -5,7 +5,7 @@ using Octopath_Traveler_View;
 
 namespace Octopath_Traveler;
 
-public class Game
+public sealed class Game
 {
     private const string InvalidTeamFileMessage = "Archivo de equipos no válido";
 
@@ -23,8 +23,41 @@ public class Game
         _teamFileParser = new TeamFileParser();
         _teamSetupValidator = new TeamSetupValidator(new JsonValidationCatalogProvider(teamsFolder));
         _battleStateFactory = new TeamSetupBattleStateFactory(new RuntimeDataCatalogProvider(teamsFolder));
-        var damageCalculator = new E1DamageCalculator();
-        _battleLoopRunner = new BattleLoopRunner(
+        _battleLoopRunner = CreateBattleLoopRunner(view);
+    }
+
+    public void Play()
+    {
+        var battleState = TryLoadBattleState();
+        if (battleState is null)
+        {
+            WriteInvalidTeamFileMessage();
+            return;
+        }
+
+        _battleLoopRunner.Run(battleState);
+    }
+
+    private BattleState? TryLoadBattleState()
+    {
+        var selectedTeamFilePath = _teamFileMenu.SelectTeamFilePath();
+        if (selectedTeamFilePath is null)
+            return null;
+
+        var teamSetup = _teamFileParser.Parse(selectedTeamFilePath);
+        if (teamSetup is null || !_teamSetupValidator.IsValid(teamSetup))
+            return null;
+
+        return _battleStateFactory.TryCreate(teamSetup);
+    }
+
+    private void WriteInvalidTeamFileMessage()
+        => _view.WriteLine(InvalidTeamFileMessage);
+
+    private static BattleLoopRunner CreateBattleLoopRunner(View view)
+    {
+        var damageCalculator = new PhysicalAttackDamageCalculator();
+        return new BattleLoopRunner(
             new RoundTurnQueueBuilder(),
             new RoundStateRenderer(view),
             new TravelerTurnFlow(view),
@@ -32,38 +65,4 @@ public class Game
             new BeastAttackResolver(view, damageCalculator),
             new BattleVictoryResolver(view));
     }
-
-    public void Play()
-    {
-        var selectedTeamFilePath = _teamFileMenu.SelectTeamFilePath();
-        if (selectedTeamFilePath is null)
-        {
-            WriteInvalidTeamFileMessage();
-            return;
-        }
-
-        var teamSetup = _teamFileParser.Parse(selectedTeamFilePath);
-        if (teamSetup is null)
-        {
-            WriteInvalidTeamFileMessage();
-            return;
-        }
-
-        if (!_teamSetupValidator.IsValid(teamSetup))
-        {
-            WriteInvalidTeamFileMessage();
-            return;
-        }
-
-        var battleState = _battleStateFactory.TryCreate(teamSetup);
-        if (battleState is null)
-        {
-            WriteInvalidTeamFileMessage();
-            return;
-        }
-        _battleLoopRunner.Run(battleState);
-    }
-
-    private void WriteInvalidTeamFileMessage()
-        => _view.WriteLine(InvalidTeamFileMessage);
 }

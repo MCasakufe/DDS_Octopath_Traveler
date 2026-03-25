@@ -4,6 +4,11 @@ namespace Octopath_Traveler.TeamSelection;
 
 public sealed class JsonValidationCatalogProvider
 {
+    private const string CharactersFileName = "characters.json";
+    private const string EnemiesFileName = "enemies.json";
+    private const string SkillsFileName = "skills.json";
+    private const string PassiveSkillsFileName = "passive_skills.json";
+
     private readonly string _dataFolderPath;
 
     public JsonValidationCatalogProvider(string teamsFolder)
@@ -13,10 +18,10 @@ public sealed class JsonValidationCatalogProvider
 
     public ValidationCatalog? TryLoad()
     {
-        var validTravelerNames = TryLoadNameSet("characters.json");
-        var validBeastNames = TryLoadNameSet("enemies.json");
-        var validActiveSkillNames = TryLoadNameSet("skills.json");
-        var validPassiveSkillNames = TryLoadNameSet("passive_skills.json");
+        var validTravelerNames = TryLoadNameSet(CharactersFileName);
+        var validBeastNames = TryLoadNameSet(EnemiesFileName);
+        var validActiveSkillNames = TryLoadNameSet(SkillsFileName);
+        var validPassiveSkillNames = TryLoadNameSet(PassiveSkillsFileName);
 
         if (validTravelerNames is null
             || validBeastNames is null
@@ -29,7 +34,7 @@ public sealed class JsonValidationCatalogProvider
         return new ValidationCatalog(validTravelerNames, validBeastNames, validActiveSkillNames, validPassiveSkillNames);
     }
 
-    private HashSet<string>? TryLoadNameSet(string fileName)
+    private IReadOnlySet<string>? TryLoadNameSet(string fileName)
     {
         var fullPath = Path.Combine(_dataFolderPath, fileName);
         if (!File.Exists(fullPath))
@@ -39,7 +44,7 @@ public sealed class JsonValidationCatalogProvider
         {
             var json = File.ReadAllText(fullPath);
             using var document = JsonDocument.Parse(json);
-            return ReadNames(document.RootElement);
+            return TryReadNames(document.RootElement);
         }
         catch (IOException)
         {
@@ -55,8 +60,11 @@ public sealed class JsonValidationCatalogProvider
         }
     }
 
-    private static HashSet<string> ReadNames(JsonElement rootElement)
+    private static IReadOnlySet<string>? TryReadNames(JsonElement rootElement)
     {
+        if (rootElement.ValueKind != JsonValueKind.Array)
+            return null;
+
         var names = new HashSet<string>(StringComparer.Ordinal);
         foreach (var item in rootElement.EnumerateArray())
         {

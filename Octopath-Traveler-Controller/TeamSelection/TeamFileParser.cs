@@ -4,6 +4,9 @@ namespace Octopath_Traveler.TeamSelection;
 
 public sealed class TeamFileParser
 {
+    private const string PlayerTeamHeader = "Player Team";
+    private const string EnemyTeamHeader = "Enemy Team";
+
     public TeamSetup? Parse(string teamFilePath)
     {
         if (!File.Exists(teamFilePath))
@@ -12,7 +15,7 @@ public sealed class TeamFileParser
         try
         {
             var lines = File.ReadAllLines(teamFilePath);
-            return ParseTeamSetup(lines);
+            return TryParseTeamSetup(lines);
         }
         catch (IOException)
         {
@@ -24,20 +27,20 @@ public sealed class TeamFileParser
         }
     }
 
-    private TeamSetup? ParseTeamSetup(IReadOnlyList<string> lines)
+    private TeamSetup? TryParseTeamSetup(IReadOnlyList<string> lines)
     {
-        var sectionLines = ParseSectionLines(lines);
+        var sectionLines = TryParseSectionLines(lines);
         if (sectionLines is null)
             return null;
 
-        var travelers = ParseTravelers(sectionLines.TravelerLines);
+        var travelers = TryParseTravelers(sectionLines.TravelerLines);
         if (travelers is null)
             return null;
 
         return new TeamSetup(travelers, sectionLines.BeastLines);
     }
 
-    private SectionLines? ParseSectionLines(IReadOnlyList<string> lines)
+    private SectionLines? TryParseSectionLines(IReadOnlyList<string> lines)
     {
         var sectionLinesBuilder = new SectionLinesBuilder();
         var currentSection = TeamFileSection.None;
@@ -48,7 +51,7 @@ public sealed class TeamFileParser
             if (line.Length == 0)
                 continue;
 
-            var parsedSectionHeader = ParseSectionHeader(line);
+            var parsedSectionHeader = TryParseSectionHeader(line);
             if (parsedSectionHeader is not null)
             {
                 currentSection = parsedSectionHeader.Value;
@@ -62,23 +65,23 @@ public sealed class TeamFileParser
         return sectionLinesBuilder.Build();
     }
 
-    private static TeamFileSection? ParseSectionHeader(string line)
+    private static TeamFileSection? TryParseSectionHeader(string line)
     {
-        if (line == "Player Team")
+        if (line == PlayerTeamHeader)
             return TeamFileSection.PlayerTeam;
 
-        if (line == "Enemy Team")
+        if (line == EnemyTeamHeader)
             return TeamFileSection.EnemyTeam;
 
         return null;
     }
 
-    private static List<TravelerSetup>? ParseTravelers(IEnumerable<string> travelerLines)
+    private static List<TravelerSetup>? TryParseTravelers(IEnumerable<string> travelerLines)
     {
         var travelers = new List<TravelerSetup>();
         foreach (var travelerLine in travelerLines)
         {
-            var traveler = ParseTravelerLine(travelerLine);
+            var traveler = TryParseTraveler(travelerLine);
             if (traveler is null)
                 return null;
 
@@ -88,7 +91,7 @@ public sealed class TeamFileParser
         return travelers;
     }
 
-    private static TravelerSetup? ParseTravelerLine(string line)
+    private static TravelerSetup? TryParseTraveler(string line)
     {
         var travelerName = ExtractTravelerName(line);
         if (string.IsNullOrWhiteSpace(travelerName))
