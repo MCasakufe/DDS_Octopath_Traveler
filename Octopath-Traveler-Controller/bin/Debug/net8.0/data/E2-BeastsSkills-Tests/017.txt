@@ -1,0 +1,877 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+INPUT: 16
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+Equipo del enemigo
+A-Fire Elemental - HP:1354/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Ophilia
+3.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Ophilia
+3.Fire Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Fire Elemental - HP:1354/1354 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Fire Elemental recibe 152 de daño de tipo Axe
+Fire Elemental termina con HP:1202
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+Equipo del enemigo
+A-Fire Elemental - HP:1202/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Ophilia
+3.Fire Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Fire Elemental - HP:1202/1354 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Fire Elemental recibe 0 de daño de tipo Stave
+Fire Elemental termina con HP:1202
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+Equipo del enemigo
+A-Fire Elemental - HP:1202/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Ophilia
+3.Fire Elemental
+----------------------------------------
+Fire Elemental usa Firesand
+Z'aanta recibe 271 de daño elemental
+Z'aanta termina con HP:2951
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:2
+B-Z'aanta - HP:2951/3222 SP:371/371 BP:2
+Equipo del enemigo
+A-Fire Elemental - HP:1202/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Ophilia
+3.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Ophilia
+3.Fire Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Fire Elemental - HP:1202/1354 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Fire Elemental recibe 152 de daño de tipo Bow
+Fire Elemental termina con HP:1050
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:2
+B-Z'aanta - HP:2951/3222 SP:371/371 BP:2
+Equipo del enemigo
+A-Fire Elemental - HP:1050/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Ophilia
+3.Fire Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Fire Elemental - HP:1050/1354 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Fire Elemental recibe 0 de daño de tipo Stave
+Fire Elemental termina con HP:1050
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:2
+B-Z'aanta - HP:2951/3222 SP:371/371 BP:2
+Equipo del enemigo
+A-Fire Elemental - HP:1050/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Ophilia
+3.Fire Elemental
+----------------------------------------
+Fire Elemental usa Firesand
+Z'aanta recibe 271 de daño elemental
+Z'aanta termina con HP:2680
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:3
+B-Z'aanta - HP:2680/3222 SP:371/371 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:1050/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Ophilia
+3.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Ophilia
+3.Fire Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Fire Elemental - HP:1050/1354 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Fire Elemental recibe 152 de daño de tipo Axe
+Fire Elemental termina con HP:898
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:3
+B-Z'aanta - HP:2680/3222 SP:371/371 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:898/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Ophilia
+3.Fire Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Fire Elemental - HP:898/1354 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Fire Elemental recibe 0 de daño de tipo Stave
+Fire Elemental termina con HP:898
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:3
+B-Z'aanta - HP:2680/3222 SP:371/371 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:898/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Ophilia
+3.Fire Elemental
+----------------------------------------
+Fire Elemental usa Firesand
+Z'aanta recibe 271 de daño elemental
+Z'aanta termina con HP:2409
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:4
+B-Z'aanta - HP:2409/3222 SP:371/371 BP:4
+Equipo del enemigo
+A-Fire Elemental - HP:898/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Ophilia
+3.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Ophilia
+3.Fire Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Fire Elemental - HP:898/1354 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Fire Elemental recibe 152 de daño de tipo Axe
+Fire Elemental termina con HP:746
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:4
+B-Z'aanta - HP:2409/3222 SP:371/371 BP:4
+Equipo del enemigo
+A-Fire Elemental - HP:746/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Ophilia
+3.Fire Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Fire Elemental - HP:746/1354 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Fire Elemental recibe 0 de daño de tipo Stave
+Fire Elemental termina con HP:746
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:4
+B-Z'aanta - HP:2409/3222 SP:371/371 BP:4
+Equipo del enemigo
+A-Fire Elemental - HP:746/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Ophilia
+3.Fire Elemental
+----------------------------------------
+Fire Elemental usa Firesand
+Z'aanta recibe 271 de daño elemental
+Z'aanta termina con HP:2138
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-Z'aanta - HP:2138/3222 SP:371/371 BP:5
+Equipo del enemigo
+A-Fire Elemental - HP:746/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Ophilia
+3.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Ophilia
+3.Fire Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Fire Elemental - HP:746/1354 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Fire Elemental recibe 152 de daño de tipo Axe
+Fire Elemental termina con HP:594
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-Z'aanta - HP:2138/3222 SP:371/371 BP:5
+Equipo del enemigo
+A-Fire Elemental - HP:594/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Ophilia
+3.Fire Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Fire Elemental - HP:594/1354 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Fire Elemental recibe 0 de daño de tipo Stave
+Fire Elemental termina con HP:594
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-Z'aanta - HP:2138/3222 SP:371/371 BP:5
+Equipo del enemigo
+A-Fire Elemental - HP:594/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Ophilia
+3.Fire Elemental
+----------------------------------------
+Fire Elemental usa Firesand
+Z'aanta recibe 271 de daño elemental
+Z'aanta termina con HP:1867
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-Z'aanta - HP:1867/3222 SP:371/371 BP:5
+Equipo del enemigo
+A-Fire Elemental - HP:594/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Ophilia
+3.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Ophilia
+3.Fire Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Fire Elemental - HP:594/1354 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Fire Elemental recibe 152 de daño de tipo Axe
+Fire Elemental termina con HP:442
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-Z'aanta - HP:1867/3222 SP:371/371 BP:5
+Equipo del enemigo
+A-Fire Elemental - HP:442/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Ophilia
+3.Fire Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Fire Elemental - HP:442/1354 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Fire Elemental recibe 0 de daño de tipo Stave
+Fire Elemental termina con HP:442
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-Z'aanta - HP:1867/3222 SP:371/371 BP:5
+Equipo del enemigo
+A-Fire Elemental - HP:442/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Ophilia
+3.Fire Elemental
+----------------------------------------
+Fire Elemental usa Firesand
+Z'aanta recibe 271 de daño elemental
+Z'aanta termina con HP:1596
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-Z'aanta - HP:1596/3222 SP:371/371 BP:5
+Equipo del enemigo
+A-Fire Elemental - HP:442/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Ophilia
+3.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Ophilia
+3.Fire Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Fire Elemental - HP:442/1354 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Fire Elemental recibe 152 de daño de tipo Axe
+Fire Elemental termina con HP:290
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-Z'aanta - HP:1596/3222 SP:371/371 BP:5
+Equipo del enemigo
+A-Fire Elemental - HP:290/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Ophilia
+3.Fire Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Fire Elemental - HP:290/1354 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Fire Elemental recibe 0 de daño de tipo Stave
+Fire Elemental termina con HP:290
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-Z'aanta - HP:1596/3222 SP:371/371 BP:5
+Equipo del enemigo
+A-Fire Elemental - HP:290/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Ophilia
+3.Fire Elemental
+----------------------------------------
+Fire Elemental usa Firesand
+Z'aanta recibe 271 de daño elemental
+Z'aanta termina con HP:1325
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-Z'aanta - HP:1325/3222 SP:371/371 BP:5
+Equipo del enemigo
+A-Fire Elemental - HP:290/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Ophilia
+3.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Ophilia
+3.Fire Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Fire Elemental - HP:290/1354 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Fire Elemental recibe 152 de daño de tipo Axe
+Fire Elemental termina con HP:138
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-Z'aanta - HP:1325/3222 SP:371/371 BP:5
+Equipo del enemigo
+A-Fire Elemental - HP:138/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Ophilia
+3.Fire Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Fire Elemental - HP:138/1354 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Fire Elemental recibe 0 de daño de tipo Stave
+Fire Elemental termina con HP:138
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-Z'aanta - HP:1325/3222 SP:371/371 BP:5
+Equipo del enemigo
+A-Fire Elemental - HP:138/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Ophilia
+3.Fire Elemental
+----------------------------------------
+Fire Elemental usa Firesand
+Z'aanta recibe 271 de daño elemental
+Z'aanta termina con HP:1054
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-Z'aanta - HP:1054/3222 SP:371/371 BP:5
+Equipo del enemigo
+A-Fire Elemental - HP:138/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Ophilia
+3.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Ophilia
+3.Fire Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Fire Elemental - HP:138/1354 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Fire Elemental recibe 152 de daño de tipo Axe
+Fire Elemental termina con HP:0
+----------------------------------------
+Gana equipo del jugador

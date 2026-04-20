@@ -1,0 +1,700 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+INPUT: 3
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:383/383 BP:1
+B-H'aanit - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Horse Fly - HP:2857/2857 Shields:2
+B-Guardian - HP:1201/1201 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Alfyn
+3.Horse Fly
+4.Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Horse Fly
+4.Guardian
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Horse Fly - HP:2857/2857 Shields:2
+2: Guardian - HP:1201/1201 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Horse Fly recibe 100 de daño de tipo Axe
+Horse Fly termina con HP:2757
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:383/383 BP:1
+B-H'aanit - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Horse Fly - HP:2757/2857 Shields:2
+B-Guardian - HP:1201/1201 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Horse Fly
+3.Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Horse Fly
+4.Guardian
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Horse Fly - HP:2757/2857 Shields:2
+2: Guardian - HP:1201/1201 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Horse Fly recibe 90 de daño de tipo Axe
+Horse Fly termina con HP:2667
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:383/383 BP:1
+B-H'aanit - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Horse Fly - HP:2667/2857 Shields:2
+B-Guardian - HP:1201/1201 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Horse Fly
+2.Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Horse Fly
+4.Guardian
+----------------------------------------
+Horse Fly usa Attack
+Alfyn recibe 148 de daño físico
+Alfyn termina con HP:5188
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5188/5336 SP:383/383 BP:1
+B-H'aanit - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Horse Fly - HP:2667/2857 Shields:2
+B-Guardian - HP:1201/1201 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Horse Fly
+4.Guardian
+----------------------------------------
+Guardian usa Attack
+Alfyn recibe 0 de daño físico
+Alfyn termina con HP:5188
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5188/5336 SP:383/383 BP:2
+B-H'aanit - HP:4447/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Horse Fly - HP:2667/2857 Shields:2
+B-Guardian - HP:1201/1201 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Alfyn
+3.Horse Fly
+4.Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Horse Fly
+4.Guardian
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Horse Fly - HP:2667/2857 Shields:2
+2: Guardian - HP:1201/1201 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Horse Fly recibe 100 de daño de tipo Axe
+Horse Fly termina con HP:2567
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5188/5336 SP:383/383 BP:2
+B-H'aanit - HP:4447/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Horse Fly - HP:2567/2857 Shields:2
+B-Guardian - HP:1201/1201 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Horse Fly
+3.Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Horse Fly
+4.Guardian
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Horse Fly - HP:2567/2857 Shields:2
+2: Guardian - HP:1201/1201 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Guardian recibe 237 de daño de tipo Axe
+Guardian termina con HP:964
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5188/5336 SP:383/383 BP:2
+B-H'aanit - HP:4447/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Horse Fly - HP:2567/2857 Shields:2
+B-Guardian - HP:964/1201 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Horse Fly
+2.Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Horse Fly
+4.Guardian
+----------------------------------------
+Horse Fly usa Attack
+Alfyn recibe 148 de daño físico
+Alfyn termina con HP:5040
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5040/5336 SP:383/383 BP:2
+B-H'aanit - HP:4447/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Horse Fly - HP:2567/2857 Shields:2
+B-Guardian - HP:964/1201 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Horse Fly
+4.Guardian
+----------------------------------------
+Guardian usa Attack
+Alfyn recibe 0 de daño físico
+Alfyn termina con HP:5040
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5040/5336 SP:383/383 BP:3
+B-H'aanit - HP:4447/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Horse Fly - HP:2567/2857 Shields:2
+B-Guardian - HP:964/1201 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Alfyn
+3.Horse Fly
+4.Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Horse Fly
+4.Guardian
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Horse Fly - HP:2567/2857 Shields:2
+2: Guardian - HP:964/1201 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Horse Fly recibe 100 de daño de tipo Axe
+Horse Fly termina con HP:2467
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5040/5336 SP:383/383 BP:3
+B-H'aanit - HP:4447/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Horse Fly - HP:2467/2857 Shields:2
+B-Guardian - HP:964/1201 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Horse Fly
+3.Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Horse Fly
+4.Guardian
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Horse Fly - HP:2467/2857 Shields:2
+2: Guardian - HP:964/1201 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Guardian recibe 237 de daño de tipo Axe
+Guardian termina con HP:727
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5040/5336 SP:383/383 BP:3
+B-H'aanit - HP:4447/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Horse Fly - HP:2467/2857 Shields:2
+B-Guardian - HP:727/1201 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Horse Fly
+2.Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Horse Fly
+4.Guardian
+----------------------------------------
+Horse Fly usa Attack
+Alfyn recibe 148 de daño físico
+Alfyn termina con HP:4892
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4892/5336 SP:383/383 BP:3
+B-H'aanit - HP:4447/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Horse Fly - HP:2467/2857 Shields:2
+B-Guardian - HP:727/1201 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Horse Fly
+4.Guardian
+----------------------------------------
+Guardian usa Attack
+Alfyn recibe 0 de daño físico
+Alfyn termina con HP:4892
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4892/5336 SP:383/383 BP:4
+B-H'aanit - HP:4447/4447 SP:369/369 BP:4
+Equipo del enemigo
+A-Horse Fly - HP:2467/2857 Shields:2
+B-Guardian - HP:727/1201 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Alfyn
+3.Horse Fly
+4.Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Horse Fly
+4.Guardian
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Horse Fly - HP:2467/2857 Shields:2
+2: Guardian - HP:727/1201 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Horse Fly recibe 100 de daño de tipo Axe
+Horse Fly termina con HP:2367
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4892/5336 SP:383/383 BP:4
+B-H'aanit - HP:4447/4447 SP:369/369 BP:4
+Equipo del enemigo
+A-Horse Fly - HP:2367/2857 Shields:2
+B-Guardian - HP:727/1201 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Horse Fly
+3.Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Horse Fly
+4.Guardian
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: First Aid
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Alfyn - HP:4892/5336 SP:383/383 BP:4
+2: H'aanit - HP:4447/4447 SP:369/369 BP:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa First Aid
+Alfyn recupera 357 de vida
+Alfyn termina con HP:5249
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5249/5336 SP:379/383 BP:4
+B-H'aanit - HP:4447/4447 SP:369/369 BP:4
+Equipo del enemigo
+A-Horse Fly - HP:2367/2857 Shields:2
+B-Guardian - HP:727/1201 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Horse Fly
+2.Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Horse Fly
+4.Guardian
+----------------------------------------
+Horse Fly usa Attack
+Alfyn recibe 148 de daño físico
+Alfyn termina con HP:5101
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5101/5336 SP:379/383 BP:4
+B-H'aanit - HP:4447/4447 SP:369/369 BP:4
+Equipo del enemigo
+A-Horse Fly - HP:2367/2857 Shields:2
+B-Guardian - HP:727/1201 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Horse Fly
+4.Guardian
+----------------------------------------
+Guardian usa Attack
+Alfyn recibe 0 de daño físico
+Alfyn termina con HP:5101
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5101/5336 SP:379/383 BP:5
+B-H'aanit - HP:4447/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Horse Fly - HP:2367/2857 Shields:2
+B-Guardian - HP:727/1201 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Alfyn
+3.Horse Fly
+4.Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Horse Fly
+4.Guardian
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Horse Fly - HP:2367/2857 Shields:2
+2: Guardian - HP:727/1201 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Horse Fly recibe 100 de daño de tipo Axe
+Horse Fly termina con HP:2267
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5101/5336 SP:379/383 BP:5
+B-H'aanit - HP:4447/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Horse Fly - HP:2267/2857 Shields:2
+B-Guardian - HP:727/1201 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Horse Fly
+3.Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Horse Fly
+4.Guardian
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: First Aid
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Alfyn - HP:5101/5336 SP:379/383 BP:5
+2: H'aanit - HP:4447/4447 SP:369/369 BP:5
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa First Aid
+H'aanit recupera 357 de vida
+H'aanit termina con HP:4447
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5101/5336 SP:375/383 BP:5
+B-H'aanit - HP:4447/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Horse Fly - HP:2267/2857 Shields:2
+B-Guardian - HP:727/1201 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Horse Fly
+2.Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Horse Fly
+4.Guardian
+----------------------------------------
+Horse Fly usa Attack
+Alfyn recibe 148 de daño físico
+Alfyn termina con HP:4953
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4953/5336 SP:375/383 BP:5
+B-H'aanit - HP:4447/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Horse Fly - HP:2267/2857 Shields:2
+B-Guardian - HP:727/1201 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Horse Fly
+4.Guardian
+----------------------------------------
+Guardian usa Attack
+Alfyn recibe 0 de daño físico
+Alfyn termina con HP:4953
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4953/5336 SP:375/383 BP:5
+B-H'aanit - HP:4447/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Horse Fly - HP:2267/2857 Shields:2
+B-Guardian - HP:727/1201 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Alfyn
+3.Horse Fly
+4.Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Horse Fly
+4.Guardian
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo

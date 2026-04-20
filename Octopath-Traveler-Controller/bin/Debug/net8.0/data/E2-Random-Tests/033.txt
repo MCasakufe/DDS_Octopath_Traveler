@@ -1,0 +1,4237 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 32
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:1
+B-Partitio - HP:5391/5391 SP:314/314 BP:1
+Equipo del enemigo
+A-Highland Ratkin I - HP:1000/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Highland Ratkin I - HP:1000/1000 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Highland Ratkin I recibe 0 de daño de tipo Spear
+Highland Ratkin I termina con HP:1000
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:1
+B-Partitio - HP:5391/5391 SP:314/314 BP:1
+Equipo del enemigo
+A-Highland Ratkin I - HP:1000/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio recibe 322 de daño físico
+Partitio termina con HP:5069
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:1
+B-Partitio - HP:5069/5391 SP:314/314 BP:1
+Equipo del enemigo
+A-Highland Ratkin I - HP:1000/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:2
+B-Partitio - HP:5069/5391 SP:314/314 BP:2
+Equipo del enemigo
+A-Highland Ratkin I - HP:1000/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Hikari
+3.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:2
+B-Partitio - HP:5069/5391 SP:314/314 BP:2
+Equipo del enemigo
+A-Highland Ratkin I - HP:1000/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Hikari
+3.Highland Ratkin I
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:2
+B-Partitio - HP:5069/5391 SP:314/314 BP:2
+Equipo del enemigo
+A-Highland Ratkin I - HP:1000/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Partitio
+3.Highland Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio se defiende
+Partitio recibe 161 de daño físico
+Partitio termina con HP:4908
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:3
+B-Partitio - HP:4908/5391 SP:314/314 BP:3
+Equipo del enemigo
+A-Highland Ratkin I - HP:1000/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Partitio
+3.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Highland Ratkin I - HP:1000/1000 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Highland Ratkin I recibe 0 de daño de tipo Spear
+Highland Ratkin I termina con HP:1000
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:3
+B-Partitio - HP:4908/5391 SP:314/314 BP:3
+Equipo del enemigo
+A-Highland Ratkin I - HP:1000/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Trade Tempest
+2: Thunderbird
+3: Wildfire
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio usa Trade Tempest
+Highland Ratkin I recibe 38 de daño de tipo Wind
+Highland Ratkin I termina con HP:962
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:3
+B-Partitio - HP:4908/5391 SP:304/314 BP:3
+Equipo del enemigo
+A-Highland Ratkin I - HP:962/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio recibe 322 de daño físico
+Partitio termina con HP:4586
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:4
+B-Partitio - HP:4586/5391 SP:304/314 BP:4
+Equipo del enemigo
+A-Highland Ratkin I - HP:962/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Highland Ratkin I - HP:962/1000 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Highland Ratkin I recibe 0 de daño de tipo Spear
+Highland Ratkin I termina con HP:962
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:4
+B-Partitio - HP:4586/5391 SP:304/314 BP:4
+Equipo del enemigo
+A-Highland Ratkin I - HP:962/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio recibe 322 de daño físico
+Partitio termina con HP:4264
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:4
+B-Partitio - HP:4264/5391 SP:304/314 BP:4
+Equipo del enemigo
+A-Highland Ratkin I - HP:962/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Trade Tempest
+2: Thunderbird
+3: Wildfire
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Highland Ratkin I - HP:962/1000 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio usa Thunderbird
+Highland Ratkin I recibe 103 de daño de tipo Lightning con debilidad
+Highland Ratkin I entra en Breaking Point
+Highland Ratkin I termina con HP:859
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:4264/5391 SP:297/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:859/1000 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Hikari
+3.Partitio
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Highland Ratkin I - HP:859/1000 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Highland Ratkin I recibe 0 de daño de tipo Spear
+Highland Ratkin I termina con HP:859
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:4264/5391 SP:297/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:859/1000 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Hikari
+3.Partitio
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:4264/5391 SP:297/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:859/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Partitio
+3.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio recibe 322 de daño físico
+Partitio termina con HP:3942
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:3942/5391 SP:297/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:859/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Trade Tempest
+2: Thunderbird
+3: Wildfire
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Highland Ratkin I - HP:859/1000 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio usa Thunderbird
+Highland Ratkin I recibe 103 de daño de tipo Lightning con debilidad
+Highland Ratkin I entra en Breaking Point
+Highland Ratkin I termina con HP:756
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:3942/5391 SP:290/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:756/1000 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Partitio
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Highland Ratkin I - HP:756/1000 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Highland Ratkin I recibe 0 de daño de tipo Sword con debilidad
+Highland Ratkin I termina con HP:756
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:3942/5391 SP:290/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:756/1000 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Hikari
+3.Partitio
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Highland Ratkin I - HP:756/1000 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Highland Ratkin I recibe 0 de daño de tipo Spear
+Highland Ratkin I termina con HP:756
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:3942/5391 SP:290/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:756/1000 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Hikari
+3.Partitio
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Highland Ratkin I - HP:756/1000 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Highland Ratkin I recibe 0 de daño de tipo Bow con debilidad
+Highland Ratkin I termina con HP:756
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:3942/5391 SP:290/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:756/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Hikari
+3.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio recibe 322 de daño físico
+Partitio termina con HP:3620
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:3620/5391 SP:290/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:756/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Highland Ratkin I - HP:756/1000 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Highland Ratkin I recibe 0 de daño de tipo Sword con debilidad
+Highland Ratkin I termina con HP:756
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:3620/5391 SP:290/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:756/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Trade Tempest
+2: Thunderbird
+3: Wildfire
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio usa Trade Tempest
+Highland Ratkin I recibe 38 de daño de tipo Wind
+Highland Ratkin I termina con HP:718
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:3620/5391 SP:280/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:718/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:3620/5391 SP:280/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:718/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio recibe 322 de daño físico
+Partitio termina con HP:3298
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:3298/5391 SP:280/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:718/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:3298/5391 SP:280/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:718/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Partitio
+3.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Highland Ratkin I - HP:718/1000 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Highland Ratkin I recibe 0 de daño de tipo Sword con debilidad
+Highland Ratkin I termina con HP:718
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:3298/5391 SP:280/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:718/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:3298/5391 SP:280/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:718/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Hikari
+3.Highland Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio se defiende
+Partitio recibe 161 de daño físico
+Partitio termina con HP:3137
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:3137/5391 SP:280/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:718/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Hikari
+3.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:3137/5391 SP:280/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:718/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Hikari
+3.Highland Ratkin I
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Highland Ratkin I - HP:718/1000 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Highland Ratkin I recibe 0 de daño de tipo Sword con debilidad
+Highland Ratkin I termina con HP:718
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:3137/5391 SP:280/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:718/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Hikari
+3.Highland Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio se defiende
+Partitio recibe 161 de daño físico
+Partitio termina con HP:2976
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:2976/5391 SP:280/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:718/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Hikari
+3.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Highland Ratkin I - HP:718/1000 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Highland Ratkin I recibe 0 de daño de tipo Spear
+Highland Ratkin I termina con HP:718
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:2976/5391 SP:280/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:718/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:2976/5391 SP:280/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:718/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio recibe 322 de daño físico
+Partitio termina con HP:2654
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:2654/5391 SP:280/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:718/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:2654/5391 SP:280/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:718/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio recibe 322 de daño físico
+Partitio termina con HP:2332
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:2332/5391 SP:280/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:718/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Highland Ratkin I - HP:718/1000 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Highland Ratkin I recibe 0 de daño de tipo Spear
+Highland Ratkin I termina con HP:718
+----------------------------------------
+INICIA RONDA 14
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:2332/5391 SP:280/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:718/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Highland Ratkin I - HP:718/1000 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Highland Ratkin I recibe 0 de daño de tipo Spear
+Highland Ratkin I termina con HP:718
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:2332/5391 SP:280/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:718/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio recibe 322 de daño físico
+Partitio termina con HP:2010
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:2010/5391 SP:280/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:718/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Highland Ratkin I - HP:718/1000 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Highland Ratkin I recibe 0 de daño de tipo Spear
+Highland Ratkin I termina con HP:718
+----------------------------------------
+INICIA RONDA 15
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:2010/5391 SP:280/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:718/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Highland Ratkin I - HP:718/1000 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Highland Ratkin I recibe 0 de daño de tipo Sword con debilidad
+Highland Ratkin I termina con HP:718
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:2010/5391 SP:280/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:718/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio recibe 322 de daño físico
+Partitio termina con HP:1688
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:1688/5391 SP:280/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:718/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Trade Tempest
+2: Thunderbird
+3: Wildfire
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio usa Trade Tempest
+Highland Ratkin I recibe 38 de daño de tipo Wind
+Highland Ratkin I termina con HP:680
+----------------------------------------
+INICIA RONDA 16
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:1688/5391 SP:270/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:680/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:1688/5391 SP:270/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:680/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio recibe 322 de daño físico
+Partitio termina con HP:1366
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:1366/5391 SP:270/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:680/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Highland Ratkin I - HP:680/1000 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Highland Ratkin I recibe 0 de daño de tipo Bow con debilidad
+Highland Ratkin I termina con HP:680
+----------------------------------------
+INICIA RONDA 17
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:1366/5391 SP:270/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:680/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Highland Ratkin I - HP:680/1000 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Highland Ratkin I recibe 0 de daño de tipo Spear
+Highland Ratkin I termina con HP:680
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:1366/5391 SP:270/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:680/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio recibe 322 de daño físico
+Partitio termina con HP:1044
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:1044/5391 SP:270/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:680/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Trade Tempest
+2: Thunderbird
+3: Wildfire
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Highland Ratkin I - HP:680/1000 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio usa Thunderbird
+Highland Ratkin I recibe 103 de daño de tipo Lightning con debilidad
+Highland Ratkin I entra en Breaking Point
+Highland Ratkin I termina con HP:577
+----------------------------------------
+INICIA RONDA 18
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:1044/5391 SP:263/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:577/1000 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Hikari
+3.Partitio
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Highland Ratkin I - HP:577/1000 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Highland Ratkin I recibe 0 de daño de tipo Sword con debilidad
+Highland Ratkin I termina con HP:577
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:1044/5391 SP:263/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:577/1000 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Hikari
+3.Partitio
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Highland Ratkin I - HP:577/1000 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Highland Ratkin I recibe 0 de daño de tipo Spear
+Highland Ratkin I termina con HP:577
+----------------------------------------
+INICIA RONDA 19
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:1044/5391 SP:263/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:577/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Hikari
+3.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio recibe 322 de daño físico
+Partitio termina con HP:722
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:722/5391 SP:263/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:577/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:722/5391 SP:263/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:577/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Highland Ratkin I - HP:577/1000 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Highland Ratkin I recibe 0 de daño de tipo Spear
+Highland Ratkin I termina con HP:577
+----------------------------------------
+INICIA RONDA 20
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:722/5391 SP:263/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:577/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Highland Ratkin I - HP:577/1000 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Highland Ratkin I recibe 0 de daño de tipo Sword con debilidad
+Highland Ratkin I termina con HP:577
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:722/5391 SP:263/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:577/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio recibe 322 de daño físico
+Partitio termina con HP:400
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:400/5391 SP:263/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:577/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Trade Tempest
+2: Thunderbird
+3: Wildfire
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Highland Ratkin I - HP:577/1000 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio usa Wildfire
+Highland Ratkin I recibe 69 de daño de tipo Fire
+Highland Ratkin I termina con HP:508
+----------------------------------------
+INICIA RONDA 21
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:400/5391 SP:256/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:508/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:400/5391 SP:256/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:508/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio recibe 322 de daño físico
+Partitio termina con HP:78
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:78/5391 SP:256/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:508/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 22
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:78/5391 SP:256/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:508/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Partitio
+3.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:78/5391 SP:256/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:508/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Trade Tempest
+2: Thunderbird
+3: Wildfire
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Highland Ratkin I - HP:508/1000 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio usa Wildfire
+Highland Ratkin I recibe 69 de daño de tipo Fire
+Highland Ratkin I termina con HP:439
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:78/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio recibe 322 de daño físico
+Partitio termina con HP:0
+----------------------------------------
+INICIA RONDA 23
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Highland Ratkin I - HP:439/1000 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Highland Ratkin I recibe 0 de daño de tipo Spear
+Highland Ratkin I termina con HP:439
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Hikari recibe 277 de daño físico
+Hikari termina con HP:5504
+----------------------------------------
+INICIA RONDA 24
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5504/5781 SP:317/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Highland Ratkin I - HP:439/1000 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Highland Ratkin I recibe 0 de daño de tipo Sword con debilidad
+Highland Ratkin I termina con HP:439
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5504/5781 SP:317/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Hikari recibe 277 de daño físico
+Hikari termina con HP:5227
+----------------------------------------
+INICIA RONDA 25
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5227/5781 SP:317/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Highland Ratkin I - HP:439/1000 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Highland Ratkin I recibe 0 de daño de tipo Spear
+Highland Ratkin I termina con HP:439
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5227/5781 SP:317/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Hikari recibe 277 de daño físico
+Hikari termina con HP:4950
+----------------------------------------
+INICIA RONDA 26
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4950/5781 SP:317/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Partitio - HP:0/5391 SP:249/314 BP:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Vivify
+Partitio revive
+Partitio recupera 406 de vida
+Partitio termina con HP:407
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4950/5781 SP:301/317 BP:5
+B-Partitio - HP:407/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio recibe 322 de daño físico
+Partitio termina con HP:85
+----------------------------------------
+INICIA RONDA 27
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4950/5781 SP:301/317 BP:5
+B-Partitio - HP:85/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4950/5781 SP:301/317 BP:5
+B-Partitio - HP:85/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio recibe 322 de daño físico
+Partitio termina con HP:0
+----------------------------------------
+INICIA RONDA 28
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4950/5781 SP:301/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4950/5781 SP:301/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Hikari se defiende
+Hikari recibe 138 de daño físico
+Hikari termina con HP:4812
+----------------------------------------
+INICIA RONDA 29
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4812/5781 SP:301/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Highland Ratkin I - HP:439/1000 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Highland Ratkin I recibe 0 de daño de tipo Spear
+Highland Ratkin I termina con HP:439
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4812/5781 SP:301/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Hikari recibe 277 de daño físico
+Hikari termina con HP:4535
+----------------------------------------
+INICIA RONDA 30
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4535/5781 SP:301/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Highland Ratkin I - HP:439/1000 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Highland Ratkin I recibe 0 de daño de tipo Sword con debilidad
+Highland Ratkin I termina con HP:439
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4535/5781 SP:301/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Hikari recibe 277 de daño físico
+Hikari termina con HP:4258
+----------------------------------------
+INICIA RONDA 31
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4258/5781 SP:301/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4258/5781 SP:301/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Hikari se defiende
+Hikari recibe 138 de daño físico
+Hikari termina con HP:4120
+----------------------------------------
+INICIA RONDA 32
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4120/5781 SP:301/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Highland Ratkin I - HP:439/1000 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Highland Ratkin I recibe 0 de daño de tipo Spear
+Highland Ratkin I termina con HP:439
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4120/5781 SP:301/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Hikari recibe 277 de daño físico
+Hikari termina con HP:3843
+----------------------------------------
+INICIA RONDA 33
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3843/5781 SP:301/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Partitio - HP:0/5391 SP:249/314 BP:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Vivify
+Partitio revive
+Partitio recupera 406 de vida
+Partitio termina con HP:407
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3843/5781 SP:285/317 BP:5
+B-Partitio - HP:407/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio recibe 322 de daño físico
+Partitio termina con HP:85
+----------------------------------------
+INICIA RONDA 34
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3843/5781 SP:285/317 BP:5
+B-Partitio - HP:85/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3843/5781 SP:285/317 BP:5
+B-Partitio - HP:85/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio recibe 322 de daño físico
+Partitio termina con HP:0
+----------------------------------------
+INICIA RONDA 35
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3843/5781 SP:285/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Partitio - HP:0/5391 SP:249/314 BP:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Vivify
+Partitio revive
+Partitio recupera 406 de vida
+Partitio termina con HP:407
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3843/5781 SP:269/317 BP:5
+B-Partitio - HP:407/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio recibe 322 de daño físico
+Partitio termina con HP:85
+----------------------------------------
+INICIA RONDA 36
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3843/5781 SP:269/317 BP:5
+B-Partitio - HP:85/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3843/5781 SP:269/317 BP:5
+B-Partitio - HP:85/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio recibe 322 de daño físico
+Partitio termina con HP:0
+----------------------------------------
+INICIA RONDA 37
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3843/5781 SP:269/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Partitio - HP:0/5391 SP:249/314 BP:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Vivify
+Partitio revive
+Partitio recupera 406 de vida
+Partitio termina con HP:407
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3843/5781 SP:253/317 BP:5
+B-Partitio - HP:407/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio recibe 322 de daño físico
+Partitio termina con HP:85
+----------------------------------------
+INICIA RONDA 38
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3843/5781 SP:253/317 BP:5
+B-Partitio - HP:85/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3843/5781 SP:253/317 BP:5
+B-Partitio - HP:85/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio recibe 322 de daño físico
+Partitio termina con HP:0
+----------------------------------------
+INICIA RONDA 39
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3843/5781 SP:253/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3843/5781 SP:253/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Hikari se defiende
+Hikari recibe 138 de daño físico
+Hikari termina con HP:3705
+----------------------------------------
+INICIA RONDA 40
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3705/5781 SP:253/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3705/5781 SP:253/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Hikari se defiende
+Hikari recibe 138 de daño físico
+Hikari termina con HP:3567
+----------------------------------------
+INICIA RONDA 41
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3567/5781 SP:253/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Highland Ratkin I - HP:439/1000 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Highland Ratkin I recibe 0 de daño de tipo Sword con debilidad
+Highland Ratkin I termina con HP:439
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3567/5781 SP:253/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Hikari recibe 277 de daño físico
+Hikari termina con HP:3290
+----------------------------------------
+INICIA RONDA 42
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3290/5781 SP:253/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Highland Ratkin I - HP:439/1000 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Highland Ratkin I recibe 0 de daño de tipo Sword con debilidad
+Highland Ratkin I termina con HP:439
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3290/5781 SP:253/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Hikari recibe 277 de daño físico
+Hikari termina con HP:3013
+----------------------------------------
+INICIA RONDA 43
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3013/5781 SP:253/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3013/5781 SP:253/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Hikari se defiende
+Hikari recibe 138 de daño físico
+Hikari termina con HP:2875
+----------------------------------------
+INICIA RONDA 44
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2875/5781 SP:253/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Highland Ratkin I - HP:439/1000 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Highland Ratkin I recibe 0 de daño de tipo Sword con debilidad
+Highland Ratkin I termina con HP:439
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2875/5781 SP:253/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Hikari recibe 277 de daño físico
+Hikari termina con HP:2598
+----------------------------------------
+INICIA RONDA 45
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2598/5781 SP:253/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Highland Ratkin I - HP:439/1000 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Highland Ratkin I recibe 0 de daño de tipo Spear
+Highland Ratkin I termina con HP:439
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2598/5781 SP:253/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Hikari recibe 277 de daño físico
+Hikari termina con HP:2321
+----------------------------------------
+INICIA RONDA 46
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2321/5781 SP:253/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2321/5781 SP:253/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Hikari se defiende
+Hikari recibe 138 de daño físico
+Hikari termina con HP:2183
+----------------------------------------
+INICIA RONDA 47
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2183/5781 SP:253/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Highland Ratkin I - HP:439/1000 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Highland Ratkin I recibe 0 de daño de tipo Spear
+Highland Ratkin I termina con HP:439
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2183/5781 SP:253/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Hikari recibe 277 de daño físico
+Hikari termina con HP:1906
+----------------------------------------
+INICIA RONDA 48
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1906/5781 SP:253/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Highland Ratkin I - HP:439/1000 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Highland Ratkin I recibe 0 de daño de tipo Spear
+Highland Ratkin I termina con HP:439
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1906/5781 SP:253/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Hikari recibe 277 de daño físico
+Hikari termina con HP:1629
+----------------------------------------
+INICIA RONDA 49
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1629/5781 SP:253/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1629/5781 SP:253/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Hikari se defiende
+Hikari recibe 138 de daño físico
+Hikari termina con HP:1491
+----------------------------------------
+INICIA RONDA 50
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1491/5781 SP:253/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1491/5781 SP:253/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Hikari se defiende
+Hikari recibe 138 de daño físico
+Hikari termina con HP:1353
+----------------------------------------
+INICIA RONDA 51
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1353/5781 SP:253/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1353/5781 SP:253/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Hikari se defiende
+Hikari recibe 138 de daño físico
+Hikari termina con HP:1215
+----------------------------------------
+INICIA RONDA 52
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1215/5781 SP:253/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Highland Ratkin I - HP:439/1000 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Highland Ratkin I recibe 0 de daño de tipo Spear
+Highland Ratkin I termina con HP:439
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1215/5781 SP:253/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Hikari recibe 277 de daño físico
+Hikari termina con HP:938
+----------------------------------------
+INICIA RONDA 53
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:938/5781 SP:253/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:938/5781 SP:253/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Hikari se defiende
+Hikari recibe 138 de daño físico
+Hikari termina con HP:800
+----------------------------------------
+INICIA RONDA 54
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:800/5781 SP:253/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Partitio - HP:0/5391 SP:249/314 BP:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Vivify
+Partitio revive
+Partitio recupera 406 de vida
+Partitio termina con HP:407
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:800/5781 SP:237/317 BP:5
+B-Partitio - HP:407/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio recibe 322 de daño físico
+Partitio termina con HP:85
+----------------------------------------
+INICIA RONDA 55
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:800/5781 SP:237/317 BP:5
+B-Partitio - HP:85/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:800/5781 SP:237/317 BP:5
+B-Partitio - HP:85/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio recibe 322 de daño físico
+Partitio termina con HP:0
+----------------------------------------
+INICIA RONDA 56
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:800/5781 SP:237/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:800/5781 SP:237/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Hikari se defiende
+Hikari recibe 138 de daño físico
+Hikari termina con HP:662
+----------------------------------------
+INICIA RONDA 57
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:662/5781 SP:237/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Partitio - HP:0/5391 SP:249/314 BP:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Vivify
+Partitio revive
+Partitio recupera 406 de vida
+Partitio termina con HP:407
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:662/5781 SP:221/317 BP:5
+B-Partitio - HP:407/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio recibe 322 de daño físico
+Partitio termina con HP:85
+----------------------------------------
+INICIA RONDA 58
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:662/5781 SP:221/317 BP:5
+B-Partitio - HP:85/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:662/5781 SP:221/317 BP:5
+B-Partitio - HP:85/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio recibe 322 de daño físico
+Partitio termina con HP:0
+----------------------------------------
+INICIA RONDA 59
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:662/5781 SP:221/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Highland Ratkin I - HP:439/1000 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Highland Ratkin I recibe 0 de daño de tipo Spear
+Highland Ratkin I termina con HP:439
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:662/5781 SP:221/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Hikari recibe 277 de daño físico
+Hikari termina con HP:385
+----------------------------------------
+INICIA RONDA 60
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:385/5781 SP:221/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Partitio - HP:0/5391 SP:249/314 BP:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Vivify
+Partitio revive
+Partitio recupera 406 de vida
+Partitio termina con HP:407
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:385/5781 SP:205/317 BP:5
+B-Partitio - HP:407/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio recibe 322 de daño físico
+Partitio termina con HP:85
+----------------------------------------
+INICIA RONDA 61
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:385/5781 SP:205/317 BP:5
+B-Partitio - HP:85/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:385/5781 SP:205/317 BP:5
+B-Partitio - HP:85/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Partitio
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio recibe 322 de daño físico
+Partitio termina con HP:0
+----------------------------------------
+INICIA RONDA 62
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:385/5781 SP:205/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:385/5781 SP:205/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Hikari se defiende
+Hikari recibe 138 de daño físico
+Hikari termina con HP:247
+----------------------------------------
+INICIA RONDA 63
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:247/5781 SP:205/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Highland Ratkin I - HP:439/1000 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Highland Ratkin I recibe 0 de daño de tipo Sword con debilidad
+Highland Ratkin I termina con HP:439
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:247/5781 SP:205/317 BP:5
+B-Partitio - HP:0/5391 SP:249/314 BP:5
+Equipo del enemigo
+A-Highland Ratkin I - HP:439/1000 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Hikari recibe 277 de daño físico
+Hikari termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

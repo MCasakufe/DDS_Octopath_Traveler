@@ -1,0 +1,507 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+INPUT: 13
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:383/383 BP:1
+B-H'aanit - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Wanderweed - HP:1533/1533 Shields:3
+B-Withered Wanderweed - HP:2314/2314 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Alfyn
+3.Wanderweed
+4.Withered Wanderweed
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wanderweed
+4.Withered Wanderweed
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Mercy Strike
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Wanderweed - HP:1533/1533 Shields:3
+2: Withered Wanderweed - HP:2314/2314 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit usa Mercy Strike
+Wanderweed recibe 505 de daño de tipo Bow con debilidad
+Wanderweed termina con HP:1028
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:383/383 BP:1
+B-H'aanit - HP:4447/4447 SP:365/369 BP:1
+Equipo del enemigo
+A-Wanderweed - HP:1028/1533 Shields:2
+B-Withered Wanderweed - HP:2314/2314 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Wanderweed
+3.Withered Wanderweed
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wanderweed
+4.Withered Wanderweed
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Last Stand
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Last Stand
+Wanderweed recibe 287 de daño de tipo Axe
+Withered Wanderweed recibe 375 de daño de tipo Axe con debilidad
+Withered Wanderweed entra en Breaking Point
+Wanderweed termina con HP:741
+Withered Wanderweed termina con HP:1939
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:367/383 BP:1
+B-H'aanit - HP:4447/4447 SP:365/369 BP:1
+Equipo del enemigo
+A-Wanderweed - HP:741/1533 Shields:2
+B-Withered Wanderweed - HP:1939/2314 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Wanderweed
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wanderweed
+----------------------------------------
+Wanderweed usa Attack
+Alfyn recibe 0 de daño físico
+Alfyn termina con HP:5336
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:367/383 BP:2
+B-H'aanit - HP:4447/4447 SP:365/369 BP:2
+Equipo del enemigo
+A-Wanderweed - HP:741/1533 Shields:2
+B-Withered Wanderweed - HP:1939/2314 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Alfyn
+3.Wanderweed
+----------------------------------------
+Turnos de la siguiente ronda
+1.Withered Wanderweed
+2.H'aanit
+3.Alfyn
+4.Wanderweed
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Mercy Strike
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Wanderweed - HP:741/1533 Shields:2
+2: Withered Wanderweed - HP:1939/2314 Shields:0
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit usa Mercy Strike
+Withered Wanderweed recibe 450 de daño de tipo Bow
+Withered Wanderweed termina con HP:1489
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:367/383 BP:2
+B-H'aanit - HP:4447/4447 SP:361/369 BP:2
+Equipo del enemigo
+A-Wanderweed - HP:741/1533 Shields:2
+B-Withered Wanderweed - HP:1489/2314 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Wanderweed
+----------------------------------------
+Turnos de la siguiente ronda
+1.Withered Wanderweed
+2.H'aanit
+3.Alfyn
+4.Wanderweed
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Last Stand
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Last Stand
+Wanderweed recibe 287 de daño de tipo Axe
+Withered Wanderweed recibe 500 de daño de tipo Axe con debilidad
+Wanderweed termina con HP:454
+Withered Wanderweed termina con HP:989
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:351/383 BP:2
+B-H'aanit - HP:4447/4447 SP:361/369 BP:2
+Equipo del enemigo
+A-Wanderweed - HP:454/1533 Shields:2
+B-Withered Wanderweed - HP:989/2314 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Wanderweed
+----------------------------------------
+Turnos de la siguiente ronda
+1.Withered Wanderweed
+2.H'aanit
+3.Alfyn
+4.Wanderweed
+----------------------------------------
+Wanderweed usa Attack
+Alfyn recibe 0 de daño físico
+Alfyn termina con HP:5336
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:351/383 BP:3
+B-H'aanit - HP:4447/4447 SP:361/369 BP:3
+Equipo del enemigo
+A-Wanderweed - HP:454/1533 Shields:2
+B-Withered Wanderweed - HP:989/2314 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Withered Wanderweed
+2.H'aanit
+3.Alfyn
+4.Wanderweed
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wanderweed
+4.Withered Wanderweed
+----------------------------------------
+Withered Wanderweed usa Attack
+Alfyn recibe 3 de daño físico
+Alfyn termina con HP:5333
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5333/5336 SP:351/383 BP:3
+B-H'aanit - HP:4447/4447 SP:361/369 BP:3
+Equipo del enemigo
+A-Wanderweed - HP:454/1533 Shields:2
+B-Withered Wanderweed - HP:989/2314 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Alfyn
+3.Wanderweed
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wanderweed
+4.Withered Wanderweed
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Mercy Strike
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Wanderweed - HP:454/1533 Shields:2
+2: Withered Wanderweed - HP:989/2314 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit usa Mercy Strike
+Wanderweed recibe 453 de daño de tipo Bow con debilidad
+Wanderweed termina con HP:1
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5333/5336 SP:351/383 BP:3
+B-H'aanit - HP:4447/4447 SP:357/369 BP:3
+Equipo del enemigo
+A-Wanderweed - HP:1/1533 Shields:1
+B-Withered Wanderweed - HP:989/2314 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Wanderweed
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wanderweed
+4.Withered Wanderweed
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Wanderweed - HP:1/1533 Shields:1
+2: Withered Wanderweed - HP:989/2314 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Wanderweed recibe 249 de daño de tipo Axe
+Wanderweed termina con HP:0
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5333/5336 SP:351/383 BP:4
+B-H'aanit - HP:4447/4447 SP:357/369 BP:4
+Equipo del enemigo
+A-Wanderweed - HP:0/1533 Shields:1
+B-Withered Wanderweed - HP:989/2314 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Alfyn
+3.Withered Wanderweed
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Withered Wanderweed
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Mercy Strike
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Withered Wanderweed - HP:989/2314 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit usa Mercy Strike
+Withered Wanderweed recibe 300 de daño de tipo Bow
+Withered Wanderweed termina con HP:689
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5333/5336 SP:351/383 BP:4
+B-H'aanit - HP:4447/4447 SP:353/369 BP:4
+Equipo del enemigo
+A-Wanderweed - HP:0/1533 Shields:1
+B-Withered Wanderweed - HP:689/2314 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Withered Wanderweed
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Withered Wanderweed
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Last Stand
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Last Stand
+Withered Wanderweed recibe 375 de daño de tipo Axe con debilidad
+Withered Wanderweed entra en Breaking Point
+Withered Wanderweed termina con HP:314
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5333/5336 SP:335/383 BP:5
+B-H'aanit - HP:4447/4447 SP:353/369 BP:5
+Equipo del enemigo
+A-Wanderweed - HP:0/1533 Shields:1
+B-Withered Wanderweed - HP:314/2314 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Alfyn
+----------------------------------------
+Turnos de la siguiente ronda
+1.Withered Wanderweed
+2.H'aanit
+3.Alfyn
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Mercy Strike
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Withered Wanderweed - HP:314/2314 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit usa Mercy Strike
+Withered Wanderweed recibe 313 de daño de tipo Bow
+Withered Wanderweed termina con HP:1
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5333/5336 SP:335/383 BP:5
+B-H'aanit - HP:4447/4447 SP:349/369 BP:5
+Equipo del enemigo
+A-Wanderweed - HP:0/1533 Shields:1
+B-Withered Wanderweed - HP:1/2314 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+----------------------------------------
+Turnos de la siguiente ronda
+1.Withered Wanderweed
+2.H'aanit
+3.Alfyn
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Withered Wanderweed - HP:1/2314 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Withered Wanderweed recibe 424 de daño de tipo Axe con debilidad
+Withered Wanderweed termina con HP:0
+----------------------------------------
+Gana equipo del jugador

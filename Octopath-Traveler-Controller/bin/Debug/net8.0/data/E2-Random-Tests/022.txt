@@ -1,0 +1,588 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 21
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Devil Deer - HP:2002/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Devil Deer
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Devil Deer - HP:2002/2002 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Devil Deer recibe 170 de daño de tipo Axe con debilidad
+Devil Deer termina con HP:1832
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Devil Deer - HP:1832/2002 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Devil Deer
+----------------------------------------
+Devil Deer usa Boar Rush
+H'aanit recibe 619 de daño físico
+H'aanit termina con HP:3828
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3828/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Devil Deer - HP:1832/2002 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Devil Deer
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3828/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Devil Deer - HP:1832/2002 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Devil Deer
+----------------------------------------
+Devil Deer usa Boar Rush
+H'aanit se defiende
+H'aanit recibe 309 de daño físico
+H'aanit termina con HP:3519
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3519/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Devil Deer - HP:1832/2002 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Devil Deer
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Devil Deer - HP:1832/2002 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Devil Deer recibe 113 de daño de tipo Bow
+Devil Deer termina con HP:1719
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3519/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Devil Deer - HP:1719/2002 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Devil Deer
+----------------------------------------
+Devil Deer usa Boar Rush
+H'aanit recibe 619 de daño físico
+H'aanit termina con HP:2900
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:2900/4447 SP:369/369 BP:4
+Equipo del enemigo
+A-Devil Deer - HP:1719/2002 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Devil Deer
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Shooting Stars
+2: Last Stand
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit usa Last Stand
+Devil Deer recibe 476 de daño de tipo Axe con debilidad
+Devil Deer termina con HP:1243
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:2900/4447 SP:353/369 BP:4
+Equipo del enemigo
+A-Devil Deer - HP:1243/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Devil Deer
+----------------------------------------
+Devil Deer usa Boar Rush
+H'aanit recibe 619 de daño físico
+H'aanit termina con HP:2281
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:2281/4447 SP:353/369 BP:5
+Equipo del enemigo
+A-Devil Deer - HP:1243/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Devil Deer
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Devil Deer - HP:1243/2002 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Devil Deer recibe 170 de daño de tipo Axe con debilidad
+Devil Deer termina con HP:1073
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:2281/4447 SP:353/369 BP:5
+Equipo del enemigo
+A-Devil Deer - HP:1073/2002 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Devil Deer
+----------------------------------------
+Devil Deer usa Boar Rush
+H'aanit recibe 619 de daño físico
+H'aanit termina con HP:1662
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:1662/4447 SP:353/369 BP:5
+Equipo del enemigo
+A-Devil Deer - HP:1073/2002 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Devil Deer
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Shooting Stars
+2: Last Stand
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit usa Shooting Stars
+Devil Deer recibe 0 de daño de tipo Wind con debilidad
+Devil Deer recibe 0 de daño de tipo Light
+Devil Deer recibe 0 de daño de tipo Dark con debilidad
+Devil Deer termina con HP:1073
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:1662/4447 SP:318/369 BP:5
+Equipo del enemigo
+A-Devil Deer - HP:1073/2002 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Devil Deer
+----------------------------------------
+Devil Deer usa Boar Rush
+H'aanit recibe 619 de daño físico
+H'aanit termina con HP:1043
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:1043/4447 SP:318/369 BP:5
+Equipo del enemigo
+A-Devil Deer - HP:1073/2002 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Devil Deer
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:1043/4447 SP:318/369 BP:5
+Equipo del enemigo
+A-Devil Deer - HP:1073/2002 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Devil Deer
+----------------------------------------
+Devil Deer usa Boar Rush
+H'aanit se defiende
+H'aanit recibe 309 de daño físico
+H'aanit termina con HP:734
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:734/4447 SP:318/369 BP:5
+Equipo del enemigo
+A-Devil Deer - HP:1073/2002 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Devil Deer
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:734/4447 SP:318/369 BP:5
+Equipo del enemigo
+A-Devil Deer - HP:1073/2002 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Devil Deer
+----------------------------------------
+Devil Deer usa Boar Rush
+H'aanit se defiende
+H'aanit recibe 309 de daño físico
+H'aanit termina con HP:425
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:425/4447 SP:318/369 BP:5
+Equipo del enemigo
+A-Devil Deer - HP:1073/2002 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Devil Deer
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:425/4447 SP:318/369 BP:5
+Equipo del enemigo
+A-Devil Deer - HP:1073/2002 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Devil Deer
+----------------------------------------
+Devil Deer usa Boar Rush
+H'aanit se defiende
+H'aanit recibe 309 de daño físico
+H'aanit termina con HP:116
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:116/4447 SP:318/369 BP:5
+Equipo del enemigo
+A-Devil Deer - HP:1073/2002 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Devil Deer
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Devil Deer - HP:1073/2002 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Devil Deer recibe 170 de daño de tipo Axe con debilidad
+Devil Deer termina con HP:903
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:116/4447 SP:318/369 BP:5
+Equipo del enemigo
+A-Devil Deer - HP:903/2002 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Devil Deer
+----------------------------------------
+Devil Deer usa Boar Rush
+H'aanit recibe 619 de daño físico
+H'aanit termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

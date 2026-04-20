@@ -1,0 +1,749 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+INPUT: 19
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+B-Osvald - HP:3557/3557 SP:541/541 BP:1
+C-Ochette - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Z'aanta
+3.Osvald
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Z'aanta
+3.Osvald
+4.Ice Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Ice Elemental - HP:2160/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette ataca
+Ice Elemental recibe 84 de daño de tipo Axe
+Ice Elemental termina con HP:2076
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+B-Osvald - HP:3557/3557 SP:541/541 BP:1
+C-Ochette - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:2076/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Osvald
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Z'aanta
+3.Osvald
+4.Ice Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Ice Elemental - HP:2076/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Ice Elemental recibe 47 de daño de tipo Axe
+Ice Elemental termina con HP:2029
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+B-Osvald - HP:3557/3557 SP:541/541 BP:1
+C-Ochette - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:2029/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Z'aanta
+3.Osvald
+4.Ice Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Ice Elemental - HP:2029/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Ice Elemental recibe 0 de daño de tipo Stave
+Ice Elemental termina con HP:2029
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+B-Osvald - HP:3557/3557 SP:541/541 BP:1
+C-Ochette - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:2029/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Z'aanta
+3.Osvald
+4.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Z'aanta recibe 242 de daño elemental
+Z'aanta termina con HP:2980
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2980/3222 SP:371/371 BP:2
+B-Osvald - HP:3557/3557 SP:541/541 BP:2
+C-Ochette - HP:4447/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Ice Elemental - HP:2029/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Z'aanta
+3.Osvald
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Z'aanta
+3.Osvald
+4.Ice Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Ice Elemental - HP:2029/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette ataca
+Ice Elemental recibe 84 de daño de tipo Axe
+Ice Elemental termina con HP:1945
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2980/3222 SP:371/371 BP:2
+B-Osvald - HP:3557/3557 SP:541/541 BP:2
+C-Ochette - HP:4447/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Ice Elemental - HP:1945/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Osvald
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Z'aanta
+3.Osvald
+4.Ice Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Ice Elemental - HP:1945/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Ice Elemental recibe 47 de daño de tipo Axe
+Ice Elemental termina con HP:1898
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2980/3222 SP:371/371 BP:2
+B-Osvald - HP:3557/3557 SP:541/541 BP:2
+C-Ochette - HP:4447/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Ice Elemental - HP:1898/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Z'aanta
+3.Osvald
+4.Ice Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Ice Elemental - HP:1898/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Ice Elemental recibe 0 de daño de tipo Stave
+Ice Elemental termina con HP:1898
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2980/3222 SP:371/371 BP:2
+B-Osvald - HP:3557/3557 SP:541/541 BP:2
+C-Ochette - HP:4447/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Ice Elemental - HP:1898/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Z'aanta
+3.Osvald
+4.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Z'aanta recibe 242 de daño elemental
+Z'aanta termina con HP:2738
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2738/3222 SP:371/371 BP:3
+B-Osvald - HP:3557/3557 SP:541/541 BP:3
+C-Ochette - HP:4447/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Ice Elemental - HP:1898/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Z'aanta
+3.Osvald
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Z'aanta
+3.Osvald
+4.Ice Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Ice Elemental - HP:1898/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette ataca
+Ice Elemental recibe 84 de daño de tipo Axe
+Ice Elemental termina con HP:1814
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2738/3222 SP:371/371 BP:3
+B-Osvald - HP:3557/3557 SP:541/541 BP:3
+C-Ochette - HP:4447/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Ice Elemental - HP:1814/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Osvald
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Z'aanta
+3.Osvald
+4.Ice Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Ice Elemental - HP:1814/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Ice Elemental recibe 47 de daño de tipo Axe
+Ice Elemental termina con HP:1767
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2738/3222 SP:371/371 BP:3
+B-Osvald - HP:3557/3557 SP:541/541 BP:3
+C-Ochette - HP:4447/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Ice Elemental - HP:1767/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Z'aanta
+3.Osvald
+4.Ice Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Ice Elemental - HP:1767/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Ice Elemental recibe 0 de daño de tipo Stave
+Ice Elemental termina con HP:1767
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2738/3222 SP:371/371 BP:3
+B-Osvald - HP:3557/3557 SP:541/541 BP:3
+C-Ochette - HP:4447/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Ice Elemental - HP:1767/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Z'aanta
+3.Osvald
+4.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Z'aanta recibe 242 de daño elemental
+Z'aanta termina con HP:2496
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2496/3222 SP:371/371 BP:4
+B-Osvald - HP:3557/3557 SP:541/541 BP:4
+C-Ochette - HP:4447/4447 SP:369/369 BP:4
+Equipo del enemigo
+A-Ice Elemental - HP:1767/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Z'aanta
+3.Osvald
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Z'aanta
+3.Osvald
+4.Ice Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Ice Elemental - HP:1767/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette ataca
+Ice Elemental recibe 84 de daño de tipo Axe
+Ice Elemental termina con HP:1683
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2496/3222 SP:371/371 BP:4
+B-Osvald - HP:3557/3557 SP:541/541 BP:4
+C-Ochette - HP:4447/4447 SP:369/369 BP:4
+Equipo del enemigo
+A-Ice Elemental - HP:1683/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Osvald
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Z'aanta
+3.Osvald
+4.Ice Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Ice Elemental - HP:1683/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Ice Elemental recibe 47 de daño de tipo Axe
+Ice Elemental termina con HP:1636
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2496/3222 SP:371/371 BP:4
+B-Osvald - HP:3557/3557 SP:541/541 BP:4
+C-Ochette - HP:4447/4447 SP:369/369 BP:4
+Equipo del enemigo
+A-Ice Elemental - HP:1636/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Z'aanta
+3.Osvald
+4.Ice Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Ice Elemental - HP:1636/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Ice Elemental recibe 0 de daño de tipo Stave
+Ice Elemental termina con HP:1636
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2496/3222 SP:371/371 BP:4
+B-Osvald - HP:3557/3557 SP:541/541 BP:4
+C-Ochette - HP:4447/4447 SP:369/369 BP:4
+Equipo del enemigo
+A-Ice Elemental - HP:1636/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Z'aanta
+3.Osvald
+4.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Z'aanta recibe 242 de daño elemental
+Z'aanta termina con HP:2254
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2254/3222 SP:371/371 BP:5
+B-Osvald - HP:3557/3557 SP:541/541 BP:5
+C-Ochette - HP:4447/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:1636/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Z'aanta
+3.Osvald
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Z'aanta
+3.Osvald
+4.Ice Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Ice Elemental - HP:1636/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette ataca
+Ice Elemental recibe 84 de daño de tipo Axe
+Ice Elemental termina con HP:1552
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2254/3222 SP:371/371 BP:5
+B-Osvald - HP:3557/3557 SP:541/541 BP:5
+C-Ochette - HP:4447/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:1552/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Osvald
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Z'aanta
+3.Osvald
+4.Ice Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Ice Elemental - HP:1552/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Ice Elemental recibe 47 de daño de tipo Axe
+Ice Elemental termina con HP:1505
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2254/3222 SP:371/371 BP:5
+B-Osvald - HP:3557/3557 SP:541/541 BP:5
+C-Ochette - HP:4447/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:1505/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Z'aanta
+3.Osvald
+4.Ice Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo

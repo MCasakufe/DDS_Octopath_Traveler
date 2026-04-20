@@ -1,0 +1,353 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+INPUT: 7
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-Tressa - HP:4891/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Forest Ratkin I - HP:1348/1348 Shields:1
+B-Horned Fly - HP:1205/1205 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Tressa
+3.Horned Fly
+4.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Tressa
+3.Horned Fly
+4.Forest Ratkin I
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Luminescence
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Luminescence
+Forest Ratkin I recibe 541 de daño de tipo Light con debilidad
+Forest Ratkin I entra en Breaking Point
+Horned Fly recibe 219 de daño de tipo Light
+Forest Ratkin I termina con HP:807
+Horned Fly termina con HP:986
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:461/470 BP:1
+B-Tressa - HP:4891/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Forest Ratkin I - HP:807/1348 Shields:0
+B-Horned Fly - HP:986/1205 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Horned Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Tressa
+3.Horned Fly
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Forest Ratkin I - HP:807/1348 Shields:0
+2: Horned Fly - HP:986/1205 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Tradewinds
+Forest Ratkin I recibe 496 de daño de tipo Wind
+Forest Ratkin I termina con HP:311
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:461/470 BP:1
+B-Tressa - HP:4891/4891 SP:350/357 BP:1
+Equipo del enemigo
+A-Forest Ratkin I - HP:311/1348 Shields:0
+B-Horned Fly - HP:986/1205 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Horned Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Tressa
+3.Horned Fly
+----------------------------------------
+Horned Fly usa Attack
+Tressa recibe 179 de daño físico
+Tressa termina con HP:4712
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:461/470 BP:2
+B-Tressa - HP:4712/4891 SP:350/357 BP:2
+Equipo del enemigo
+A-Forest Ratkin I - HP:311/1348 Shields:0
+B-Horned Fly - HP:986/1205 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Tressa
+3.Horned Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Forest Ratkin I
+2.Ophilia
+3.Tressa
+4.Horned Fly
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Luminescence
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Luminescence
+Forest Ratkin I recibe 722 de daño de tipo Light con debilidad
+Horned Fly recibe 219 de daño de tipo Light
+Forest Ratkin I termina con HP:0
+Horned Fly termina con HP:767
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:452/470 BP:2
+B-Tressa - HP:4712/4891 SP:350/357 BP:2
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Horned Fly - HP:767/1205 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Horned Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Tressa
+3.Horned Fly
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Horned Fly - HP:767/1205 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Tradewinds
+Horned Fly recibe 283 de daño de tipo Wind con debilidad
+Horned Fly termina con HP:484
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:452/470 BP:2
+B-Tressa - HP:4712/4891 SP:343/357 BP:2
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Horned Fly - HP:484/1205 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Horned Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Tressa
+3.Horned Fly
+----------------------------------------
+Horned Fly usa Attack
+Tressa recibe 179 de daño físico
+Tressa termina con HP:4533
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:452/470 BP:3
+B-Tressa - HP:4533/4891 SP:343/357 BP:3
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Horned Fly - HP:484/1205 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Tressa
+3.Horned Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Tressa
+3.Horned Fly
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Horned Fly - HP:484/1205 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Horned Fly recibe 0 de daño de tipo Stave
+Horned Fly termina con HP:484
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:452/470 BP:3
+B-Tressa - HP:4533/4891 SP:343/357 BP:3
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Horned Fly - HP:484/1205 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Horned Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Tressa
+3.Horned Fly
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Horned Fly - HP:484/1205 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Tradewinds
+Horned Fly recibe 283 de daño de tipo Wind con debilidad
+Horned Fly entra en Breaking Point
+Horned Fly termina con HP:201
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:452/470 BP:4
+B-Tressa - HP:4533/4891 SP:336/357 BP:4
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Horned Fly - HP:201/1205 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Horned Fly
+2.Ophilia
+3.Tressa
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Luminescence
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Luminescence
+Horned Fly recibe 328 de daño de tipo Light
+Horned Fly termina con HP:0
+----------------------------------------
+Gana equipo del jugador

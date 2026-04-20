@@ -1,0 +1,484 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+INPUT: 8
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Frost Bear - HP:1197/1197 Shields:3
+B-Horned Fly - HP:1205/1205 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Horned Fly
+3.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Horned Fly
+3.Frost Bear
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Cross Strike
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Frost Bear - HP:1197/1197 Shields:3
+2: Horned Fly - HP:1205/1205 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Cross Strike
+Horned Fly recibe 389 de daño de tipo Sword
+Horned Fly termina con HP:816
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:279/291 BP:1
+Equipo del enemigo
+A-Frost Bear - HP:1197/1197 Shields:3
+B-Horned Fly - HP:816/1205 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Horned Fly
+2.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Horned Fly
+3.Frost Bear
+----------------------------------------
+Horned Fly usa Attack
+Olberic recibe 134 de daño físico
+Olberic termina con HP:5647
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5647/5781 SP:279/291 BP:1
+Equipo del enemigo
+A-Frost Bear - HP:1197/1197 Shields:3
+B-Horned Fly - HP:816/1205 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Horned Fly
+3.Frost Bear
+----------------------------------------
+Frost Bear usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:5647
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5647/5781 SP:279/291 BP:2
+Equipo del enemigo
+A-Frost Bear - HP:1197/1197 Shields:3
+B-Horned Fly - HP:816/1205 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Horned Fly
+3.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Horned Fly
+3.Frost Bear
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Cross Strike
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Frost Bear - HP:1197/1197 Shields:3
+2: Horned Fly - HP:816/1205 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Cross Strike
+Frost Bear recibe 574 de daño de tipo Sword
+Frost Bear termina con HP:623
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5647/5781 SP:267/291 BP:2
+Equipo del enemigo
+A-Frost Bear - HP:623/1197 Shields:3
+B-Horned Fly - HP:816/1205 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Horned Fly
+2.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Horned Fly
+3.Frost Bear
+----------------------------------------
+Horned Fly usa Attack
+Olberic recibe 134 de daño físico
+Olberic termina con HP:5513
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5513/5781 SP:267/291 BP:2
+Equipo del enemigo
+A-Frost Bear - HP:623/1197 Shields:3
+B-Horned Fly - HP:816/1205 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Horned Fly
+3.Frost Bear
+----------------------------------------
+Frost Bear usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:5513
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5513/5781 SP:267/291 BP:3
+Equipo del enemigo
+A-Frost Bear - HP:623/1197 Shields:3
+B-Horned Fly - HP:816/1205 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Horned Fly
+3.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Horned Fly
+3.Frost Bear
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Cross Strike
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Frost Bear - HP:623/1197 Shields:3
+2: Horned Fly - HP:816/1205 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Cross Strike
+Frost Bear recibe 574 de daño de tipo Sword
+Frost Bear termina con HP:49
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5513/5781 SP:255/291 BP:3
+Equipo del enemigo
+A-Frost Bear - HP:49/1197 Shields:3
+B-Horned Fly - HP:816/1205 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Horned Fly
+2.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Horned Fly
+3.Frost Bear
+----------------------------------------
+Horned Fly usa Attack
+Olberic recibe 134 de daño físico
+Olberic termina con HP:5379
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5379/5781 SP:255/291 BP:3
+Equipo del enemigo
+A-Frost Bear - HP:49/1197 Shields:3
+B-Horned Fly - HP:816/1205 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Horned Fly
+3.Frost Bear
+----------------------------------------
+Frost Bear usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:5379
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5379/5781 SP:255/291 BP:4
+Equipo del enemigo
+A-Frost Bear - HP:49/1197 Shields:3
+B-Horned Fly - HP:816/1205 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Horned Fly
+3.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Horned Fly
+3.Frost Bear
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Frost Bear - HP:49/1197 Shields:3
+2: Horned Fly - HP:816/1205 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Frost Bear recibe 401 de daño de tipo Sword
+Frost Bear termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5379/5781 SP:255/291 BP:4
+Equipo del enemigo
+A-Frost Bear - HP:0/1197 Shields:3
+B-Horned Fly - HP:816/1205 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Horned Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Horned Fly
+----------------------------------------
+Horned Fly usa Attack
+Olberic recibe 134 de daño físico
+Olberic termina con HP:5245
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5245/5781 SP:255/291 BP:5
+Equipo del enemigo
+A-Frost Bear - HP:0/1197 Shields:3
+B-Horned Fly - HP:816/1205 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Horned Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Horned Fly
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Cross Strike
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Horned Fly - HP:816/1205 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Cross Strike
+Horned Fly recibe 389 de daño de tipo Sword
+Horned Fly termina con HP:427
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5245/5781 SP:243/291 BP:5
+Equipo del enemigo
+A-Frost Bear - HP:0/1197 Shields:3
+B-Horned Fly - HP:427/1205 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Horned Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Horned Fly
+----------------------------------------
+Horned Fly usa Attack
+Olberic recibe 134 de daño físico
+Olberic termina con HP:5111
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5111/5781 SP:243/291 BP:5
+Equipo del enemigo
+A-Frost Bear - HP:0/1197 Shields:3
+B-Horned Fly - HP:427/1205 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Horned Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Horned Fly
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Cross Strike
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Horned Fly - HP:427/1205 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Cross Strike
+Horned Fly recibe 389 de daño de tipo Sword
+Horned Fly termina con HP:38
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5111/5781 SP:231/291 BP:5
+Equipo del enemigo
+A-Frost Bear - HP:0/1197 Shields:3
+B-Horned Fly - HP:38/1205 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Horned Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Horned Fly
+----------------------------------------
+Horned Fly usa Attack
+Olberic recibe 134 de daño físico
+Olberic termina con HP:4977
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4977/5781 SP:231/291 BP:5
+Equipo del enemigo
+A-Frost Bear - HP:0/1197 Shields:3
+B-Horned Fly - HP:38/1205 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Horned Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Horned Fly
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Cross Strike
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Horned Fly - HP:38/1205 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Cross Strike
+Horned Fly recibe 389 de daño de tipo Sword
+Horned Fly termina con HP:0
+----------------------------------------
+Gana equipo del jugador

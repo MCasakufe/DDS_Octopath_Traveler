@@ -1,0 +1,2520 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 39
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:632/632 BP:1
+B-Ophilia - HP:4002/4002 SP:470/470 BP:1
+C-Olberic - HP:5781/5781 SP:341/341 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Ice Wisp - HP:801/801 Shields:1
+C-Wind Wisp - HP:1740/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Dreadwolf
+3.Cyrus
+4.Olberic
+5.Wind Wisp
+6.Ice Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Cyrus
+4.Olberic
+5.Wind Wisp
+6.Ice Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:632/632 BP:1
+B-Ophilia - HP:4002/4002 SP:470/470 BP:1
+C-Olberic - HP:5781/5781 SP:341/341 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Ice Wisp - HP:801/801 Shields:1
+C-Wind Wisp - HP:1740/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Cyrus
+3.Olberic
+4.Wind Wisp
+5.Ice Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Cyrus
+4.Olberic
+5.Wind Wisp
+6.Ice Wisp
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Cyrus recibe 761 de daño físico
+Cyrus termina con HP:2796
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2796/3557 SP:632/632 BP:1
+B-Ophilia - HP:4002/4002 SP:470/470 BP:1
+C-Olberic - HP:5781/5781 SP:341/341 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Ice Wisp - HP:801/801 Shields:1
+C-Wind Wisp - HP:1740/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Olberic
+3.Wind Wisp
+4.Ice Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Cyrus
+4.Olberic
+5.Wind Wisp
+6.Ice Wisp
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Holy Light
+2: Wildfire
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Dreadwolf - HP:7530/7530 Shields:9
+2: Ice Wisp - HP:801/801 Shields:1
+3: Wind Wisp - HP:1740/1740 Shields:1
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Wildfire
+Wind Wisp recibe 459 de daño de tipo Fire
+Wind Wisp termina con HP:1281
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2796/3557 SP:625/632 BP:1
+B-Ophilia - HP:4002/4002 SP:470/470 BP:1
+C-Olberic - HP:5781/5781 SP:341/341 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Ice Wisp - HP:801/801 Shields:1
+C-Wind Wisp - HP:1281/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Wind Wisp
+3.Ice Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Cyrus
+4.Olberic
+5.Wind Wisp
+6.Ice Wisp
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Heal More
+2: Amputation
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Heal More
+Cyrus recupera 542 de vida
+Ophilia recupera 542 de vida
+Olberic recupera 542 de vida
+Cyrus termina con HP:3338
+Ophilia termina con HP:4002
+Olberic termina con HP:5781
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3338/3557 SP:625/632 BP:1
+B-Ophilia - HP:4002/4002 SP:470/470 BP:1
+C-Olberic - HP:5781/5781 SP:316/341 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Ice Wisp - HP:801/801 Shields:1
+C-Wind Wisp - HP:1281/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+2.Ice Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Cyrus
+4.Olberic
+5.Wind Wisp
+6.Ice Wisp
+----------------------------------------
+Wind Wisp usa Wind slash
+Ophilia se defiende
+Ophilia recibe 158 de daño elemental
+Ophilia termina con HP:3844
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3338/3557 SP:625/632 BP:1
+B-Ophilia - HP:3844/4002 SP:470/470 BP:1
+C-Olberic - HP:5781/5781 SP:316/341 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Ice Wisp - HP:801/801 Shields:1
+C-Wind Wisp - HP:1281/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Cyrus
+4.Olberic
+5.Wind Wisp
+6.Ice Wisp
+----------------------------------------
+Ice Wisp usa Freeze
+Ophilia se defiende
+Ophilia recibe 0 de daño elemental
+Ophilia termina con HP:3844
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3338/3557 SP:625/632 BP:2
+B-Ophilia - HP:3844/4002 SP:470/470 BP:2
+C-Olberic - HP:5781/5781 SP:316/341 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Ice Wisp - HP:801/801 Shields:1
+C-Wind Wisp - HP:1281/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Dreadwolf
+3.Cyrus
+4.Olberic
+5.Wind Wisp
+6.Ice Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Cyrus
+4.Olberic
+5.Wind Wisp
+6.Ice Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Last Stand
+2: Mercy Strike
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Last Stand
+Dreadwolf recibe 0 de daño de tipo Axe con debilidad
+Ice Wisp recibe 53 de daño de tipo Axe
+Wind Wisp recibe 0 de daño de tipo Axe
+Dreadwolf termina con HP:7530
+Ice Wisp termina con HP:748
+Wind Wisp termina con HP:1281
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3338/3557 SP:625/632 BP:2
+B-Ophilia - HP:3844/4002 SP:454/470 BP:2
+C-Olberic - HP:5781/5781 SP:316/341 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Ice Wisp - HP:748/801 Shields:1
+C-Wind Wisp - HP:1281/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Cyrus
+3.Olberic
+4.Wind Wisp
+5.Ice Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Cyrus
+4.Olberic
+5.Wind Wisp
+6.Ice Wisp
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Cyrus recibe 761 de daño físico
+Cyrus termina con HP:2577
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2577/3557 SP:625/632 BP:2
+B-Ophilia - HP:3844/4002 SP:454/470 BP:2
+C-Olberic - HP:5781/5781 SP:316/341 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Ice Wisp - HP:748/801 Shields:1
+C-Wind Wisp - HP:1281/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Olberic
+3.Wind Wisp
+4.Ice Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Cyrus
+4.Olberic
+5.Wind Wisp
+6.Ice Wisp
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Dreadwolf - HP:7530/7530 Shields:9
+2: Ice Wisp - HP:748/801 Shields:1
+3: Wind Wisp - HP:1281/1740 Shields:1
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Ice Wisp recibe 4 de daño de tipo Stave
+Ice Wisp termina con HP:744
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2577/3557 SP:625/632 BP:2
+B-Ophilia - HP:3844/4002 SP:454/470 BP:2
+C-Olberic - HP:5781/5781 SP:316/341 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Ice Wisp - HP:744/801 Shields:1
+C-Wind Wisp - HP:1281/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Wind Wisp
+3.Ice Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Cyrus
+4.Olberic
+5.Wind Wisp
+6.Ice Wisp
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2577/3557 SP:625/632 BP:2
+B-Ophilia - HP:3844/4002 SP:454/470 BP:2
+C-Olberic - HP:5781/5781 SP:316/341 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Ice Wisp - HP:744/801 Shields:1
+C-Wind Wisp - HP:1281/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+2.Ice Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Ophilia
+3.Dreadwolf
+4.Cyrus
+5.Wind Wisp
+6.Ice Wisp
+----------------------------------------
+Wind Wisp usa Wind slash
+Ophilia recibe 316 de daño elemental
+Ophilia termina con HP:3528
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2577/3557 SP:625/632 BP:2
+B-Ophilia - HP:3528/4002 SP:454/470 BP:2
+C-Olberic - HP:5781/5781 SP:316/341 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Ice Wisp - HP:744/801 Shields:1
+C-Wind Wisp - HP:1281/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Ophilia
+3.Dreadwolf
+4.Cyrus
+5.Wind Wisp
+6.Ice Wisp
+----------------------------------------
+Ice Wisp usa Freeze
+Ophilia recibe 0 de daño elemental
+Ophilia termina con HP:3528
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2577/3557 SP:625/632 BP:3
+B-Ophilia - HP:3528/4002 SP:454/470 BP:3
+C-Olberic - HP:5781/5781 SP:316/341 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Ice Wisp - HP:744/801 Shields:1
+C-Wind Wisp - HP:1281/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Ophilia
+3.Dreadwolf
+4.Cyrus
+5.Wind Wisp
+6.Ice Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Cyrus
+4.Olberic
+5.Wind Wisp
+6.Ice Wisp
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Heal More
+2: Amputation
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Heal More
+Cyrus recupera 542 de vida
+Ophilia recupera 542 de vida
+Olberic recupera 542 de vida
+Cyrus termina con HP:3119
+Ophilia termina con HP:4002
+Olberic termina con HP:5781
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3119/3557 SP:625/632 BP:3
+B-Ophilia - HP:4002/4002 SP:454/470 BP:3
+C-Olberic - HP:5781/5781 SP:291/341 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Ice Wisp - HP:744/801 Shields:1
+C-Wind Wisp - HP:1281/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Dreadwolf
+3.Cyrus
+4.Wind Wisp
+5.Ice Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Cyrus
+4.Olberic
+5.Wind Wisp
+6.Ice Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Last Stand
+2: Mercy Strike
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Last Stand
+Dreadwolf recibe 0 de daño de tipo Axe con debilidad
+Ice Wisp recibe 49 de daño de tipo Axe
+Wind Wisp recibe 0 de daño de tipo Axe
+Dreadwolf termina con HP:7530
+Ice Wisp termina con HP:695
+Wind Wisp termina con HP:1281
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3119/3557 SP:625/632 BP:3
+B-Ophilia - HP:4002/4002 SP:438/470 BP:3
+C-Olberic - HP:5781/5781 SP:291/341 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Ice Wisp - HP:695/801 Shields:1
+C-Wind Wisp - HP:1281/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Cyrus
+3.Wind Wisp
+4.Ice Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Cyrus
+4.Olberic
+5.Wind Wisp
+6.Ice Wisp
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Cyrus recibe 761 de daño físico
+Cyrus termina con HP:2358
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2358/3557 SP:625/632 BP:3
+B-Ophilia - HP:4002/4002 SP:438/470 BP:3
+C-Olberic - HP:5781/5781 SP:291/341 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Ice Wisp - HP:695/801 Shields:1
+C-Wind Wisp - HP:1281/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Wind Wisp
+3.Ice Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Cyrus
+4.Olberic
+5.Wind Wisp
+6.Ice Wisp
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Holy Light
+2: Wildfire
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Dreadwolf - HP:7530/7530 Shields:9
+2: Ice Wisp - HP:695/801 Shields:1
+3: Wind Wisp - HP:1281/1740 Shields:1
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Wildfire
+Ice Wisp recibe 815 de daño de tipo Fire con debilidad
+Ice Wisp entra en Breaking Point
+Ice Wisp termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2358/3557 SP:618/632 BP:3
+B-Ophilia - HP:4002/4002 SP:438/470 BP:3
+C-Olberic - HP:5781/5781 SP:291/341 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:1281/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Cyrus
+4.Olberic
+5.Wind Wisp
+----------------------------------------
+Wind Wisp usa Wind slash
+Ophilia recibe 316 de daño elemental
+Ophilia termina con HP:3686
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2358/3557 SP:618/632 BP:4
+B-Ophilia - HP:3686/4002 SP:438/470 BP:4
+C-Olberic - HP:5781/5781 SP:291/341 BP:4
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:1281/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Dreadwolf
+3.Cyrus
+4.Olberic
+5.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Cyrus
+4.Olberic
+5.Wind Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2358/3557 SP:618/632 BP:4
+B-Ophilia - HP:3686/4002 SP:438/470 BP:4
+C-Olberic - HP:5781/5781 SP:291/341 BP:4
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:1281/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Cyrus
+3.Olberic
+4.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Cyrus
+4.Olberic
+5.Wind Wisp
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Cyrus recibe 761 de daño físico
+Cyrus termina con HP:1597
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1597/3557 SP:618/632 BP:4
+B-Ophilia - HP:3686/4002 SP:438/470 BP:4
+C-Olberic - HP:5781/5781 SP:291/341 BP:4
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:1281/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Olberic
+3.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Cyrus
+4.Olberic
+5.Wind Wisp
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1597/3557 SP:618/632 BP:4
+B-Ophilia - HP:3686/4002 SP:438/470 BP:4
+C-Olberic - HP:5781/5781 SP:291/341 BP:4
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:1281/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Dreadwolf
+4.Olberic
+5.Wind Wisp
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1597/3557 SP:618/632 BP:4
+B-Ophilia - HP:3686/4002 SP:438/470 BP:4
+C-Olberic - HP:5781/5781 SP:291/341 BP:4
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:1281/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Olberic
+4.Dreadwolf
+5.Wind Wisp
+----------------------------------------
+Wind Wisp usa Wind slash
+Ophilia se defiende
+Ophilia recibe 158 de daño elemental
+Ophilia termina con HP:3528
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1597/3557 SP:618/632 BP:5
+B-Ophilia - HP:3528/4002 SP:438/470 BP:5
+C-Olberic - HP:5781/5781 SP:291/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:1281/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Cyrus
+3.Olberic
+4.Dreadwolf
+5.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Cyrus
+4.Olberic
+5.Wind Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Last Stand
+2: Mercy Strike
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Dreadwolf - HP:7530/7530 Shields:9
+2: Wind Wisp - HP:1281/1740 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Mercy Strike
+Dreadwolf recibe 0 de daño de tipo Bow
+Dreadwolf termina con HP:7530
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1597/3557 SP:618/632 BP:5
+B-Ophilia - HP:3528/4002 SP:434/470 BP:5
+C-Olberic - HP:5781/5781 SP:291/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:1281/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Olberic
+3.Dreadwolf
+4.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Cyrus
+4.Olberic
+5.Wind Wisp
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1597/3557 SP:618/632 BP:5
+B-Ophilia - HP:3528/4002 SP:434/470 BP:5
+C-Olberic - HP:5781/5781 SP:291/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:1281/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Dreadwolf
+3.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Dreadwolf
+4.Olberic
+5.Wind Wisp
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Dreadwolf - HP:7530/7530 Shields:9
+2: Wind Wisp - HP:1281/1740 Shields:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Wind Wisp recibe 94 de daño de tipo Spear
+Wind Wisp termina con HP:1187
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1597/3557 SP:618/632 BP:5
+B-Ophilia - HP:3528/4002 SP:434/470 BP:5
+C-Olberic - HP:5781/5781 SP:291/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:1187/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Dreadwolf
+4.Olberic
+5.Wind Wisp
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Cyrus se defiende
+Cyrus recibe 380 de daño físico
+Cyrus termina con HP:1217
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1217/3557 SP:618/632 BP:5
+B-Ophilia - HP:3528/4002 SP:434/470 BP:5
+C-Olberic - HP:5781/5781 SP:291/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:1187/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Dreadwolf
+4.Olberic
+5.Wind Wisp
+----------------------------------------
+Wind Wisp usa Wind slash
+Ophilia recibe 316 de daño elemental
+Ophilia termina con HP:3212
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1217/3557 SP:618/632 BP:5
+B-Ophilia - HP:3212/4002 SP:434/470 BP:5
+C-Olberic - HP:5781/5781 SP:291/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:1187/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Ophilia
+3.Dreadwolf
+4.Olberic
+5.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Cyrus
+4.Olberic
+5.Wind Wisp
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Dreadwolf - HP:7530/7530 Shields:9
+2: Wind Wisp - HP:1187/1740 Shields:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Wind Wisp recibe 0 de daño de tipo Stave
+Wind Wisp termina con HP:1187
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1217/3557 SP:618/632 BP:5
+B-Ophilia - HP:3212/4002 SP:434/470 BP:5
+C-Olberic - HP:5781/5781 SP:291/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:1187/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Dreadwolf
+3.Olberic
+4.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Cyrus
+4.Olberic
+5.Wind Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Last Stand
+2: Mercy Strike
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Dreadwolf - HP:7530/7530 Shields:9
+2: Wind Wisp - HP:1187/1740 Shields:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Mercy Strike
+Wind Wisp recibe 0 de daño de tipo Bow
+Wind Wisp termina con HP:1187
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1217/3557 SP:618/632 BP:5
+B-Ophilia - HP:3212/4002 SP:430/470 BP:5
+C-Olberic - HP:5781/5781 SP:291/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:1187/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Olberic
+3.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Cyrus
+4.Olberic
+5.Wind Wisp
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Cyrus recibe 761 de daño físico
+Cyrus termina con HP:456
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:456/3557 SP:618/632 BP:5
+B-Ophilia - HP:3212/4002 SP:430/470 BP:5
+C-Olberic - HP:5781/5781 SP:291/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:1187/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Cyrus
+4.Olberic
+5.Wind Wisp
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Heal More
+2: Amputation
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Dreadwolf - HP:7530/7530 Shields:9
+2: Wind Wisp - HP:1187/1740 Shields:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Amputation
+Wind Wisp recibe 287 de daño de tipo Axe
+Wind Wisp termina con HP:900
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:456/3557 SP:618/632 BP:5
+B-Ophilia - HP:3212/4002 SP:430/470 BP:5
+C-Olberic - HP:5781/5781 SP:283/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:900/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Cyrus
+4.Olberic
+5.Wind Wisp
+----------------------------------------
+Wind Wisp usa Wind slash
+Ophilia recibe 316 de daño elemental
+Ophilia termina con HP:2896
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:456/3557 SP:618/632 BP:5
+B-Ophilia - HP:2896/4002 SP:430/470 BP:5
+C-Olberic - HP:5781/5781 SP:283/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:900/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Dreadwolf
+3.Cyrus
+4.Olberic
+5.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Cyrus
+4.Olberic
+5.Wind Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:456/3557 SP:618/632 BP:5
+B-Ophilia - HP:2896/4002 SP:430/470 BP:5
+C-Olberic - HP:5781/5781 SP:283/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:900/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Cyrus
+3.Olberic
+4.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Cyrus
+4.Olberic
+5.Wind Wisp
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Cyrus recibe 761 de daño físico
+Cyrus termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:2896/4002 SP:430/470 BP:5
+C-Olberic - HP:5781/5781 SP:283/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:900/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Olberic
+4.Wind Wisp
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Dreadwolf - HP:7530/7530 Shields:9
+2: Wind Wisp - HP:900/1740 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Dreadwolf recibe 247 de daño de tipo Spear con debilidad
+Dreadwolf termina con HP:7283
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:2896/4002 SP:430/470 BP:5
+C-Olberic - HP:5781/5781 SP:283/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7283/7530 Shields:8
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:900/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Olberic
+4.Wind Wisp
+----------------------------------------
+Wind Wisp usa Wind slash
+Ophilia se defiende
+Ophilia recibe 158 de daño elemental
+Ophilia termina con HP:2738
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:2738/4002 SP:430/470 BP:5
+C-Olberic - HP:5781/5781 SP:283/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7283/7530 Shields:8
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:900/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Dreadwolf
+3.Olberic
+4.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Olberic
+4.Wind Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Last Stand
+2: Mercy Strike
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Dreadwolf - HP:7283/7530 Shields:8
+2: Wind Wisp - HP:900/1740 Shields:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Mercy Strike
+Wind Wisp recibe 0 de daño de tipo Bow
+Wind Wisp termina con HP:900
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:2738/4002 SP:426/470 BP:5
+C-Olberic - HP:5781/5781 SP:283/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7283/7530 Shields:8
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:900/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Olberic
+3.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Olberic
+4.Wind Wisp
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Ophilia recibe 750 de daño físico
+Ophilia termina con HP:1988
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:1988/4002 SP:426/470 BP:5
+C-Olberic - HP:5781/5781 SP:283/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7283/7530 Shields:8
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:900/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Olberic
+4.Wind Wisp
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Heal More
+2: Amputation
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Dreadwolf - HP:7283/7530 Shields:8
+2: Wind Wisp - HP:900/1740 Shields:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Amputation
+Wind Wisp recibe 287 de daño de tipo Axe
+Wind Wisp termina con HP:613
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:1988/4002 SP:426/470 BP:5
+C-Olberic - HP:5781/5781 SP:275/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7283/7530 Shields:8
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:613/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Olberic
+4.Wind Wisp
+----------------------------------------
+Wind Wisp usa Wind slash
+Ophilia recibe 316 de daño elemental
+Ophilia termina con HP:1672
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:1672/4002 SP:426/470 BP:5
+C-Olberic - HP:5781/5781 SP:275/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7283/7530 Shields:8
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:613/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Dreadwolf
+3.Olberic
+4.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Olberic
+4.Wind Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Dreadwolf - HP:7283/7530 Shields:8
+2: Wind Wisp - HP:613/1740 Shields:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Wind Wisp recibe 0 de daño de tipo Stave
+Wind Wisp termina con HP:613
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:1672/4002 SP:426/470 BP:5
+C-Olberic - HP:5781/5781 SP:275/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7283/7530 Shields:8
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:613/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Olberic
+3.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Olberic
+4.Wind Wisp
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Ophilia recibe 750 de daño físico
+Ophilia termina con HP:922
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:922/4002 SP:426/470 BP:5
+C-Olberic - HP:5781/5781 SP:275/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7283/7530 Shields:8
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:613/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Olberic
+4.Wind Wisp
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Heal More
+2: Amputation
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Heal More
+Ophilia recupera 542 de vida
+Olberic recupera 542 de vida
+Ophilia termina con HP:1464
+Olberic termina con HP:5781
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:1464/4002 SP:426/470 BP:5
+C-Olberic - HP:5781/5781 SP:250/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7283/7530 Shields:8
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:613/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Olberic
+4.Wind Wisp
+----------------------------------------
+Wind Wisp usa Wind slash
+Ophilia recibe 316 de daño elemental
+Ophilia termina con HP:1148
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:1148/4002 SP:426/470 BP:5
+C-Olberic - HP:5781/5781 SP:250/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7283/7530 Shields:8
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:613/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Dreadwolf
+3.Olberic
+4.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Olberic
+4.Wind Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Last Stand
+2: Mercy Strike
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Last Stand
+Dreadwolf recibe 0 de daño de tipo Axe con debilidad
+Wind Wisp recibe 0 de daño de tipo Axe
+Dreadwolf termina con HP:7283
+Wind Wisp termina con HP:613
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:1148/4002 SP:410/470 BP:5
+C-Olberic - HP:5781/5781 SP:250/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7283/7530 Shields:8
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:613/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Olberic
+3.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Olberic
+4.Wind Wisp
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Ophilia recibe 750 de daño físico
+Ophilia termina con HP:398
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:398/4002 SP:410/470 BP:5
+C-Olberic - HP:5781/5781 SP:250/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7283/7530 Shields:8
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:613/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Olberic
+4.Wind Wisp
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Heal More
+2: Amputation
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Heal More
+Ophilia recupera 542 de vida
+Olberic recupera 542 de vida
+Ophilia termina con HP:940
+Olberic termina con HP:5781
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:940/4002 SP:410/470 BP:5
+C-Olberic - HP:5781/5781 SP:225/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7283/7530 Shields:8
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:613/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Olberic
+4.Wind Wisp
+----------------------------------------
+Wind Wisp usa Wind slash
+Ophilia recibe 316 de daño elemental
+Ophilia termina con HP:624
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:624/4002 SP:410/470 BP:5
+C-Olberic - HP:5781/5781 SP:225/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7283/7530 Shields:8
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:613/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Dreadwolf
+3.Olberic
+4.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Olberic
+4.Wind Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:624/4002 SP:410/470 BP:5
+C-Olberic - HP:5781/5781 SP:225/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7283/7530 Shields:8
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:613/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Olberic
+3.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Olberic
+4.Wind Wisp
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Ophilia se defiende
+Ophilia recibe 375 de daño físico
+Ophilia termina con HP:249
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:249/4002 SP:410/470 BP:5
+C-Olberic - HP:5781/5781 SP:225/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7283/7530 Shields:8
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:613/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Olberic
+4.Wind Wisp
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Heal More
+2: Amputation
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Dreadwolf - HP:7283/7530 Shields:8
+2: Wind Wisp - HP:613/1740 Shields:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Amputation
+Wind Wisp recibe 287 de daño de tipo Axe
+Wind Wisp termina con HP:326
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:249/4002 SP:410/470 BP:5
+C-Olberic - HP:5781/5781 SP:217/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7283/7530 Shields:8
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:326/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Olberic
+4.Wind Wisp
+----------------------------------------
+Wind Wisp usa Wind slash
+Ophilia se defiende
+Ophilia recibe 158 de daño elemental
+Ophilia termina con HP:91
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:91/4002 SP:410/470 BP:5
+C-Olberic - HP:5781/5781 SP:217/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7283/7530 Shields:8
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:326/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Dreadwolf
+3.Olberic
+4.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Olberic
+4.Wind Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:91/4002 SP:410/470 BP:5
+C-Olberic - HP:5781/5781 SP:217/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7283/7530 Shields:8
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:326/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Olberic
+3.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+3.Olberic
+4.Wind Wisp
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Ophilia se defiende
+Ophilia recibe 375 de daño físico
+Ophilia termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:0/4002 SP:410/470 BP:5
+C-Olberic - HP:5781/5781 SP:217/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7283/7530 Shields:8
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:326/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Olberic
+3.Wind Wisp
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Dreadwolf - HP:7283/7530 Shields:8
+2: Wind Wisp - HP:326/1740 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Dreadwolf recibe 165 de daño de tipo Sword
+Dreadwolf termina con HP:7118
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:0/4002 SP:410/470 BP:5
+C-Olberic - HP:5781/5781 SP:217/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7118/7530 Shields:8
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:326/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Olberic
+3.Wind Wisp
+----------------------------------------
+Wind Wisp usa Wind slash
+Olberic recibe 444 de daño elemental
+Olberic termina con HP:5337
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:0/4002 SP:410/470 BP:5
+C-Olberic - HP:5337/5781 SP:217/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7118/7530 Shields:8
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:326/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Olberic
+3.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Olberic
+3.Wind Wisp
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Olberic recibe 664 de daño físico
+Olberic termina con HP:4673
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:0/4002 SP:410/470 BP:5
+C-Olberic - HP:4673/5781 SP:217/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7118/7530 Shields:8
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:326/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Olberic
+3.Wind Wisp
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Dreadwolf - HP:7118/7530 Shields:8
+2: Wind Wisp - HP:326/1740 Shields:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Wind Wisp recibe 94 de daño de tipo Spear
+Wind Wisp termina con HP:232
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:0/4002 SP:410/470 BP:5
+C-Olberic - HP:4673/5781 SP:217/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7118/7530 Shields:8
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:232/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Olberic
+3.Wind Wisp
+----------------------------------------
+Wind Wisp usa Wind slash
+Olberic recibe 444 de daño elemental
+Olberic termina con HP:4229
+----------------------------------------
+INICIA RONDA 14
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:0/4002 SP:410/470 BP:5
+C-Olberic - HP:4229/5781 SP:217/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7118/7530 Shields:8
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:232/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Olberic
+3.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Olberic
+3.Wind Wisp
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Olberic recibe 664 de daño físico
+Olberic termina con HP:3565
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:0/4002 SP:410/470 BP:5
+C-Olberic - HP:3565/5781 SP:217/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7118/7530 Shields:8
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:232/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Olberic
+3.Wind Wisp
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:0/4002 SP:410/470 BP:5
+C-Olberic - HP:3565/5781 SP:217/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7118/7530 Shields:8
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:232/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Dreadwolf
+3.Wind Wisp
+----------------------------------------
+Wind Wisp usa Wind slash
+Olberic se defiende
+Olberic recibe 222 de daño elemental
+Olberic termina con HP:3343
+----------------------------------------
+INICIA RONDA 15
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:0/4002 SP:410/470 BP:5
+C-Olberic - HP:3343/5781 SP:217/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7118/7530 Shields:8
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:232/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Dreadwolf
+3.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Olberic
+3.Wind Wisp
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:0/4002 SP:410/470 BP:5
+C-Olberic - HP:3343/5781 SP:217/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7118/7530 Shields:8
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:232/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Dreadwolf
+3.Wind Wisp
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Olberic se defiende
+Olberic recibe 332 de daño físico
+Olberic termina con HP:3011
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:0/4002 SP:410/470 BP:5
+C-Olberic - HP:3011/5781 SP:217/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7118/7530 Shields:8
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:232/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Dreadwolf
+3.Wind Wisp
+----------------------------------------
+Wind Wisp usa Wind slash
+Olberic se defiende
+Olberic recibe 222 de daño elemental
+Olberic termina con HP:2789
+----------------------------------------
+INICIA RONDA 16
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:0/4002 SP:410/470 BP:5
+C-Olberic - HP:2789/5781 SP:217/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7118/7530 Shields:8
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:232/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Dreadwolf
+3.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Olberic
+3.Wind Wisp
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Heal More
+2: Amputation
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Dreadwolf - HP:7118/7530 Shields:8
+2: Wind Wisp - HP:232/1740 Shields:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Amputation
+Wind Wisp recibe 287 de daño de tipo Axe
+Wind Wisp termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:0/4002 SP:410/470 BP:5
+C-Olberic - HP:2789/5781 SP:209/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7118/7530 Shields:8
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:0/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Olberic recibe 664 de daño físico
+Olberic termina con HP:2125
+----------------------------------------
+INICIA RONDA 17
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:0/4002 SP:410/470 BP:5
+C-Olberic - HP:2125/5781 SP:209/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7118/7530 Shields:8
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:0/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Olberic recibe 664 de daño físico
+Olberic termina con HP:1461
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:0/4002 SP:410/470 BP:5
+C-Olberic - HP:1461/5781 SP:209/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7118/7530 Shields:8
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:0/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 18
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:0/4002 SP:410/470 BP:5
+C-Olberic - HP:1461/5781 SP:209/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:7118/7530 Shields:8
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:0/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Dreadwolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Dreadwolf - HP:7118/7530 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Dreadwolf recibe 247 de daño de tipo Spear con debilidad
+Dreadwolf termina con HP:6871
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:0/4002 SP:410/470 BP:5
+C-Olberic - HP:1461/5781 SP:209/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:6871/7530 Shields:7
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:0/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Olberic recibe 664 de daño físico
+Olberic termina con HP:797
+----------------------------------------
+INICIA RONDA 19
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:0/4002 SP:410/470 BP:5
+C-Olberic - HP:797/5781 SP:209/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:6871/7530 Shields:7
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:0/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Olberic recibe 664 de daño físico
+Olberic termina con HP:133
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:0/4002 SP:410/470 BP:5
+C-Olberic - HP:133/5781 SP:209/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:6871/7530 Shields:7
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:0/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 20
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:0/4002 SP:410/470 BP:5
+C-Olberic - HP:133/5781 SP:209/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:6871/7530 Shields:7
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:0/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Dreadwolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Dreadwolf - HP:6871/7530 Shields:7
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Dreadwolf recibe 165 de daño de tipo Sword
+Dreadwolf termina con HP:6706
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:618/632 BP:5
+B-Ophilia - HP:0/4002 SP:410/470 BP:5
+C-Olberic - HP:133/5781 SP:209/341 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:6706/7530 Shields:7
+B-Ice Wisp - HP:0/801 Shields:0
+C-Wind Wisp - HP:0/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Olberic recibe 664 de daño físico
+Olberic termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

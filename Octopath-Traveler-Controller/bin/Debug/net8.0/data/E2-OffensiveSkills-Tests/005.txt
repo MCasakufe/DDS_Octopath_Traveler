@@ -1,0 +1,496 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+INPUT: 4
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+Equipo del enemigo
+A-Wolf - HP:1577/1577 Shields:2
+B-Light Guardian - HP:1129/1129 Shields:3
+C-Flame Guardian - HP:1470/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Wolf
+2.Ophilia
+3.Flame Guardian
+4.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wolf
+2.Ophilia
+3.Flame Guardian
+4.Light Guardian
+----------------------------------------
+Wolf usa Attack
+Ophilia recibe 153 de daño físico
+Ophilia termina con HP:3849
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3849/4002 SP:470/470 BP:1
+Equipo del enemigo
+A-Wolf - HP:1577/1577 Shields:2
+B-Light Guardian - HP:1129/1129 Shields:3
+C-Flame Guardian - HP:1470/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Flame Guardian
+3.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wolf
+2.Ophilia
+3.Flame Guardian
+4.Light Guardian
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Luminescence
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Luminescence
+Wolf recibe 297 de daño de tipo Light
+Light Guardian recibe 387 de daño de tipo Light
+Flame Guardian recibe 372 de daño de tipo Light
+Wolf termina con HP:1280
+Light Guardian termina con HP:742
+Flame Guardian termina con HP:1098
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3849/4002 SP:461/470 BP:1
+Equipo del enemigo
+A-Wolf - HP:1280/1577 Shields:2
+B-Light Guardian - HP:742/1129 Shields:3
+C-Flame Guardian - HP:1098/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Flame Guardian
+2.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wolf
+2.Ophilia
+3.Flame Guardian
+4.Light Guardian
+----------------------------------------
+Flame Guardian usa Attack
+Ophilia recibe 179 de daño físico
+Ophilia termina con HP:3670
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3670/4002 SP:461/470 BP:1
+Equipo del enemigo
+A-Wolf - HP:1280/1577 Shields:2
+B-Light Guardian - HP:742/1129 Shields:3
+C-Flame Guardian - HP:1098/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wolf
+2.Ophilia
+3.Flame Guardian
+4.Light Guardian
+----------------------------------------
+Light Guardian usa Attack
+Ophilia recibe 70 de daño físico
+Ophilia termina con HP:3600
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3600/4002 SP:461/470 BP:2
+Equipo del enemigo
+A-Wolf - HP:1280/1577 Shields:2
+B-Light Guardian - HP:742/1129 Shields:3
+C-Flame Guardian - HP:1098/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Wolf
+2.Ophilia
+3.Flame Guardian
+4.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wolf
+2.Ophilia
+3.Flame Guardian
+4.Light Guardian
+----------------------------------------
+Wolf usa Attack
+Ophilia recibe 153 de daño físico
+Ophilia termina con HP:3447
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3447/4002 SP:461/470 BP:2
+Equipo del enemigo
+A-Wolf - HP:1280/1577 Shields:2
+B-Light Guardian - HP:742/1129 Shields:3
+C-Flame Guardian - HP:1098/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Flame Guardian
+3.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wolf
+2.Ophilia
+3.Flame Guardian
+4.Light Guardian
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Luminescence
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Luminescence
+Wolf recibe 297 de daño de tipo Light
+Light Guardian recibe 387 de daño de tipo Light
+Flame Guardian recibe 372 de daño de tipo Light
+Wolf termina con HP:983
+Light Guardian termina con HP:355
+Flame Guardian termina con HP:726
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3447/4002 SP:452/470 BP:2
+Equipo del enemigo
+A-Wolf - HP:983/1577 Shields:2
+B-Light Guardian - HP:355/1129 Shields:3
+C-Flame Guardian - HP:726/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Flame Guardian
+2.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wolf
+2.Ophilia
+3.Flame Guardian
+4.Light Guardian
+----------------------------------------
+Flame Guardian usa Attack
+Ophilia recibe 179 de daño físico
+Ophilia termina con HP:3268
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3268/4002 SP:452/470 BP:2
+Equipo del enemigo
+A-Wolf - HP:983/1577 Shields:2
+B-Light Guardian - HP:355/1129 Shields:3
+C-Flame Guardian - HP:726/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wolf
+2.Ophilia
+3.Flame Guardian
+4.Light Guardian
+----------------------------------------
+Light Guardian usa Attack
+Ophilia recibe 70 de daño físico
+Ophilia termina con HP:3198
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3198/4002 SP:452/470 BP:3
+Equipo del enemigo
+A-Wolf - HP:983/1577 Shields:2
+B-Light Guardian - HP:355/1129 Shields:3
+C-Flame Guardian - HP:726/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Wolf
+2.Ophilia
+3.Flame Guardian
+4.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wolf
+2.Ophilia
+3.Flame Guardian
+4.Light Guardian
+----------------------------------------
+Wolf usa Attack
+Ophilia recibe 153 de daño físico
+Ophilia termina con HP:3045
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3045/4002 SP:452/470 BP:3
+Equipo del enemigo
+A-Wolf - HP:983/1577 Shields:2
+B-Light Guardian - HP:355/1129 Shields:3
+C-Flame Guardian - HP:726/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Flame Guardian
+3.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wolf
+2.Ophilia
+3.Flame Guardian
+4.Light Guardian
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Luminescence
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Luminescence
+Wolf recibe 297 de daño de tipo Light
+Light Guardian recibe 387 de daño de tipo Light
+Flame Guardian recibe 372 de daño de tipo Light
+Wolf termina con HP:686
+Light Guardian termina con HP:0
+Flame Guardian termina con HP:354
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3045/4002 SP:443/470 BP:3
+Equipo del enemigo
+A-Wolf - HP:686/1577 Shields:2
+B-Light Guardian - HP:0/1129 Shields:3
+C-Flame Guardian - HP:354/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Flame Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wolf
+2.Ophilia
+3.Flame Guardian
+----------------------------------------
+Flame Guardian usa Attack
+Ophilia recibe 179 de daño físico
+Ophilia termina con HP:2866
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2866/4002 SP:443/470 BP:4
+Equipo del enemigo
+A-Wolf - HP:686/1577 Shields:2
+B-Light Guardian - HP:0/1129 Shields:3
+C-Flame Guardian - HP:354/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Wolf
+2.Ophilia
+3.Flame Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wolf
+2.Ophilia
+3.Flame Guardian
+----------------------------------------
+Wolf usa Attack
+Ophilia recibe 153 de daño físico
+Ophilia termina con HP:2713
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2713/4002 SP:443/470 BP:4
+Equipo del enemigo
+A-Wolf - HP:686/1577 Shields:2
+B-Light Guardian - HP:0/1129 Shields:3
+C-Flame Guardian - HP:354/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Flame Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wolf
+2.Ophilia
+3.Flame Guardian
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Luminescence
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Luminescence
+Wolf recibe 297 de daño de tipo Light
+Flame Guardian recibe 372 de daño de tipo Light
+Wolf termina con HP:389
+Flame Guardian termina con HP:0
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2713/4002 SP:434/470 BP:5
+Equipo del enemigo
+A-Wolf - HP:389/1577 Shields:2
+B-Light Guardian - HP:0/1129 Shields:3
+C-Flame Guardian - HP:0/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Wolf
+2.Ophilia
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wolf
+2.Ophilia
+----------------------------------------
+Wolf usa Attack
+Ophilia recibe 153 de daño físico
+Ophilia termina con HP:2560
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2560/4002 SP:434/470 BP:5
+Equipo del enemigo
+A-Wolf - HP:389/1577 Shields:2
+B-Light Guardian - HP:0/1129 Shields:3
+C-Flame Guardian - HP:0/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wolf
+2.Ophilia
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Luminescence
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Luminescence
+Wolf recibe 297 de daño de tipo Light
+Wolf termina con HP:92
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2560/4002 SP:425/470 BP:5
+Equipo del enemigo
+A-Wolf - HP:92/1577 Shields:2
+B-Light Guardian - HP:0/1129 Shields:3
+C-Flame Guardian - HP:0/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Wolf
+2.Ophilia
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wolf
+2.Ophilia
+----------------------------------------
+Wolf usa Attack
+Ophilia recibe 153 de daño físico
+Ophilia termina con HP:2407
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2407/4002 SP:425/470 BP:5
+Equipo del enemigo
+A-Wolf - HP:92/1577 Shields:2
+B-Light Guardian - HP:0/1129 Shields:3
+C-Flame Guardian - HP:0/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wolf
+2.Ophilia
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Luminescence
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Luminescence
+Wolf recibe 297 de daño de tipo Light
+Wolf termina con HP:0
+----------------------------------------
+Gana equipo del jugador

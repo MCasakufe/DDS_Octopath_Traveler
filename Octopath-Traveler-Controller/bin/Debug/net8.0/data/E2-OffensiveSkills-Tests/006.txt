@@ -1,0 +1,819 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+INPUT: 5
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Red Fox - HP:1451/1451 Shields:3
+B-Snow Fox - HP:2600/2600 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Snow Fox
+2.Tressa
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Tressa
+3.Red Fox
+----------------------------------------
+Snow Fox usa Attack
+Tressa recibe 362 de daño físico
+Tressa termina con HP:4529
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4529/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Red Fox - HP:1451/1451 Shields:3
+B-Snow Fox - HP:2600/2600 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Tressa
+3.Red Fox
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Red Fox - HP:1451/1451 Shields:3
+2: Snow Fox - HP:2600/2600 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Tradewinds
+Red Fox recibe 321 de daño de tipo Wind
+Red Fox termina con HP:1130
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4529/4891 SP:350/357 BP:1
+Equipo del enemigo
+A-Red Fox - HP:1130/1451 Shields:3
+B-Snow Fox - HP:2600/2600 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Tressa
+3.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Tressa recibe 110 de daño físico
+Tressa termina con HP:4419
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4419/4891 SP:350/357 BP:2
+Equipo del enemigo
+A-Red Fox - HP:1130/1451 Shields:3
+B-Snow Fox - HP:2600/2600 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Snow Fox
+2.Tressa
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Tressa
+3.Red Fox
+----------------------------------------
+Snow Fox usa Attack
+Tressa recibe 362 de daño físico
+Tressa termina con HP:4057
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4057/4891 SP:350/357 BP:2
+Equipo del enemigo
+A-Red Fox - HP:1130/1451 Shields:3
+B-Snow Fox - HP:2600/2600 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Tressa
+3.Red Fox
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Red Fox - HP:1130/1451 Shields:3
+2: Snow Fox - HP:2600/2600 Shields:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Tradewinds
+Snow Fox recibe 119 de daño de tipo Wind
+Snow Fox termina con HP:2481
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4057/4891 SP:343/357 BP:2
+Equipo del enemigo
+A-Red Fox - HP:1130/1451 Shields:3
+B-Snow Fox - HP:2481/2600 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Tressa
+3.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Tressa recibe 110 de daño físico
+Tressa termina con HP:3947
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3947/4891 SP:343/357 BP:3
+Equipo del enemigo
+A-Red Fox - HP:1130/1451 Shields:3
+B-Snow Fox - HP:2481/2600 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Snow Fox
+2.Tressa
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Tressa
+3.Red Fox
+----------------------------------------
+Snow Fox usa Attack
+Tressa recibe 362 de daño físico
+Tressa termina con HP:3585
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3585/4891 SP:343/357 BP:3
+Equipo del enemigo
+A-Red Fox - HP:1130/1451 Shields:3
+B-Snow Fox - HP:2481/2600 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Tressa
+3.Red Fox
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Red Fox - HP:1130/1451 Shields:3
+2: Snow Fox - HP:2481/2600 Shields:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Tradewinds
+Snow Fox recibe 119 de daño de tipo Wind
+Snow Fox termina con HP:2362
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3585/4891 SP:336/357 BP:3
+Equipo del enemigo
+A-Red Fox - HP:1130/1451 Shields:3
+B-Snow Fox - HP:2362/2600 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Tressa
+3.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Tressa recibe 110 de daño físico
+Tressa termina con HP:3475
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3475/4891 SP:336/357 BP:4
+Equipo del enemigo
+A-Red Fox - HP:1130/1451 Shields:3
+B-Snow Fox - HP:2362/2600 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Snow Fox
+2.Tressa
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Tressa
+3.Red Fox
+----------------------------------------
+Snow Fox usa Attack
+Tressa recibe 362 de daño físico
+Tressa termina con HP:3113
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3113/4891 SP:336/357 BP:4
+Equipo del enemigo
+A-Red Fox - HP:1130/1451 Shields:3
+B-Snow Fox - HP:2362/2600 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Tressa
+3.Red Fox
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Red Fox - HP:1130/1451 Shields:3
+2: Snow Fox - HP:2362/2600 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Tradewinds
+Red Fox recibe 321 de daño de tipo Wind
+Red Fox termina con HP:809
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3113/4891 SP:329/357 BP:4
+Equipo del enemigo
+A-Red Fox - HP:809/1451 Shields:3
+B-Snow Fox - HP:2362/2600 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Tressa
+3.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Tressa recibe 110 de daño físico
+Tressa termina con HP:3003
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3003/4891 SP:329/357 BP:5
+Equipo del enemigo
+A-Red Fox - HP:809/1451 Shields:3
+B-Snow Fox - HP:2362/2600 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Snow Fox
+2.Tressa
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Tressa
+3.Red Fox
+----------------------------------------
+Snow Fox usa Attack
+Tressa recibe 362 de daño físico
+Tressa termina con HP:2641
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2641/4891 SP:329/357 BP:5
+Equipo del enemigo
+A-Red Fox - HP:809/1451 Shields:3
+B-Snow Fox - HP:2362/2600 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Tressa
+3.Red Fox
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Red Fox - HP:809/1451 Shields:3
+2: Snow Fox - HP:2362/2600 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Tradewinds
+Red Fox recibe 321 de daño de tipo Wind
+Red Fox termina con HP:488
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2641/4891 SP:322/357 BP:5
+Equipo del enemigo
+A-Red Fox - HP:488/1451 Shields:3
+B-Snow Fox - HP:2362/2600 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Tressa
+3.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Tressa recibe 110 de daño físico
+Tressa termina con HP:2531
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2531/4891 SP:322/357 BP:5
+Equipo del enemigo
+A-Red Fox - HP:488/1451 Shields:3
+B-Snow Fox - HP:2362/2600 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Snow Fox
+2.Tressa
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Tressa
+3.Red Fox
+----------------------------------------
+Snow Fox usa Attack
+Tressa recibe 362 de daño físico
+Tressa termina con HP:2169
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2169/4891 SP:322/357 BP:5
+Equipo del enemigo
+A-Red Fox - HP:488/1451 Shields:3
+B-Snow Fox - HP:2362/2600 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Tressa
+3.Red Fox
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Red Fox - HP:488/1451 Shields:3
+2: Snow Fox - HP:2362/2600 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Tradewinds
+Red Fox recibe 321 de daño de tipo Wind
+Red Fox termina con HP:167
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2169/4891 SP:315/357 BP:5
+Equipo del enemigo
+A-Red Fox - HP:167/1451 Shields:3
+B-Snow Fox - HP:2362/2600 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Tressa
+3.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Tressa recibe 110 de daño físico
+Tressa termina con HP:2059
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2059/4891 SP:315/357 BP:5
+Equipo del enemigo
+A-Red Fox - HP:167/1451 Shields:3
+B-Snow Fox - HP:2362/2600 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Snow Fox
+2.Tressa
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Tressa
+3.Red Fox
+----------------------------------------
+Snow Fox usa Attack
+Tressa recibe 362 de daño físico
+Tressa termina con HP:1697
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:1697/4891 SP:315/357 BP:5
+Equipo del enemigo
+A-Red Fox - HP:167/1451 Shields:3
+B-Snow Fox - HP:2362/2600 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Tressa
+3.Red Fox
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Red Fox - HP:167/1451 Shields:3
+2: Snow Fox - HP:2362/2600 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Tradewinds
+Red Fox recibe 321 de daño de tipo Wind
+Red Fox termina con HP:0
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:1697/4891 SP:308/357 BP:5
+Equipo del enemigo
+A-Red Fox - HP:0/1451 Shields:3
+B-Snow Fox - HP:2362/2600 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Snow Fox
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Tressa
+----------------------------------------
+Snow Fox usa Attack
+Tressa recibe 362 de daño físico
+Tressa termina con HP:1335
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:1335/4891 SP:308/357 BP:5
+Equipo del enemigo
+A-Red Fox - HP:0/1451 Shields:3
+B-Snow Fox - HP:2362/2600 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Snow Fox - HP:2362/2600 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Tradewinds
+Snow Fox recibe 119 de daño de tipo Wind
+Snow Fox termina con HP:2243
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:1335/4891 SP:301/357 BP:5
+Equipo del enemigo
+A-Red Fox - HP:0/1451 Shields:3
+B-Snow Fox - HP:2243/2600 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Snow Fox
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Tressa
+----------------------------------------
+Snow Fox usa Attack
+Tressa recibe 362 de daño físico
+Tressa termina con HP:973
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:973/4891 SP:301/357 BP:5
+Equipo del enemigo
+A-Red Fox - HP:0/1451 Shields:3
+B-Snow Fox - HP:2243/2600 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Snow Fox - HP:2243/2600 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Tradewinds
+Snow Fox recibe 119 de daño de tipo Wind
+Snow Fox termina con HP:2124
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:973/4891 SP:294/357 BP:5
+Equipo del enemigo
+A-Red Fox - HP:0/1451 Shields:3
+B-Snow Fox - HP:2124/2600 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Snow Fox
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Tressa
+----------------------------------------
+Snow Fox usa Attack
+Tressa recibe 362 de daño físico
+Tressa termina con HP:611
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:611/4891 SP:294/357 BP:5
+Equipo del enemigo
+A-Red Fox - HP:0/1451 Shields:3
+B-Snow Fox - HP:2124/2600 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Snow Fox - HP:2124/2600 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Tradewinds
+Snow Fox recibe 119 de daño de tipo Wind
+Snow Fox termina con HP:2005
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:611/4891 SP:287/357 BP:5
+Equipo del enemigo
+A-Red Fox - HP:0/1451 Shields:3
+B-Snow Fox - HP:2005/2600 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Snow Fox
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Tressa
+----------------------------------------
+Snow Fox usa Attack
+Tressa recibe 362 de daño físico
+Tressa termina con HP:249
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:249/4891 SP:287/357 BP:5
+Equipo del enemigo
+A-Red Fox - HP:0/1451 Shields:3
+B-Snow Fox - HP:2005/2600 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Snow Fox - HP:2005/2600 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Tradewinds
+Snow Fox recibe 119 de daño de tipo Wind
+Snow Fox termina con HP:1886
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:249/4891 SP:280/357 BP:5
+Equipo del enemigo
+A-Red Fox - HP:0/1451 Shields:3
+B-Snow Fox - HP:1886/2600 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Snow Fox
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Tressa
+----------------------------------------
+Snow Fox usa Attack
+Tressa recibe 362 de daño físico
+Tressa termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

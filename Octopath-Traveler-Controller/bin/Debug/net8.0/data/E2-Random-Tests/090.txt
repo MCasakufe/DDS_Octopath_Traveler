@@ -1,0 +1,449 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 89
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:421/421 BP:1
+B-Agnea - HP:4502/4502 SP:504/504 BP:1
+C-Ochette - HP:4447/4447 SP:369/369 BP:1
+D-Cyrus - HP:4057/4057 SP:632/632 BP:1
+Equipo del enemigo
+A-Wanderweed - HP:1533/1533 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Ochette
+3.Z'aanta
+4.Cyrus
+5.Wanderweed
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Z'aanta
+4.Cyrus
+5.Wanderweed
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Wanderweed - HP:1533/1533 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Wanderweed recibe 60 de daño de tipo Dagger
+Wanderweed termina con HP:1473
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:421/421 BP:1
+B-Agnea - HP:4502/4502 SP:504/504 BP:1
+C-Ochette - HP:4447/4447 SP:369/369 BP:1
+D-Cyrus - HP:4057/4057 SP:632/632 BP:1
+Equipo del enemigo
+A-Wanderweed - HP:1473/1533 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Z'aanta
+3.Cyrus
+4.Wanderweed
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Z'aanta
+4.Cyrus
+5.Wanderweed
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Shooting Stars
+2: Amputation
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Wanderweed - HP:1473/1533 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette usa Amputation
+Wanderweed recibe 479 de daño de tipo Axe
+Wanderweed termina con HP:994
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:421/421 BP:1
+B-Agnea - HP:4502/4502 SP:504/504 BP:1
+C-Ochette - HP:4447/4447 SP:361/369 BP:1
+D-Cyrus - HP:4057/4057 SP:632/632 BP:1
+Equipo del enemigo
+A-Wanderweed - HP:994/1533 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Cyrus
+3.Wanderweed
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Z'aanta
+4.Cyrus
+5.Wanderweed
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Leghold Trap
+2: Spearhead
+3: Moonlight Waltz
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Wanderweed - HP:994/1533 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta usa Moonlight Waltz
+Wanderweed recibe 202 de daño de tipo Dark
+Wanderweed termina con HP:792
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:414/421 BP:1
+B-Agnea - HP:4502/4502 SP:504/504 BP:1
+C-Ochette - HP:4447/4447 SP:361/369 BP:1
+D-Cyrus - HP:4057/4057 SP:632/632 BP:1
+Equipo del enemigo
+A-Wanderweed - HP:792/1533 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Wanderweed
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Z'aanta
+4.Cyrus
+5.Wanderweed
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Mercy Strike
+2: Leghold Trap
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Wanderweed - HP:792/1533 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Mercy Strike
+Wanderweed recibe 163 de daño de tipo Bow con debilidad
+Wanderweed termina con HP:629
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:414/421 BP:1
+B-Agnea - HP:4502/4502 SP:504/504 BP:1
+C-Ochette - HP:4447/4447 SP:361/369 BP:1
+D-Cyrus - HP:4057/4057 SP:628/632 BP:1
+Equipo del enemigo
+A-Wanderweed - HP:629/1533 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Wanderweed
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Z'aanta
+4.Cyrus
+5.Wanderweed
+----------------------------------------
+Wanderweed usa Attack
+Agnea recibe 104 de daño físico
+Agnea termina con HP:4398
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:414/421 BP:2
+B-Agnea - HP:4398/4502 SP:504/504 BP:2
+C-Ochette - HP:4447/4447 SP:361/369 BP:2
+D-Cyrus - HP:4057/4057 SP:628/632 BP:2
+Equipo del enemigo
+A-Wanderweed - HP:629/1533 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Ochette
+3.Z'aanta
+4.Cyrus
+5.Wanderweed
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Z'aanta
+4.Cyrus
+5.Wanderweed
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Wanderweed - HP:629/1533 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Wanderweed recibe 60 de daño de tipo Dagger
+Wanderweed termina con HP:569
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:414/421 BP:2
+B-Agnea - HP:4398/4502 SP:504/504 BP:2
+C-Ochette - HP:4447/4447 SP:361/369 BP:2
+D-Cyrus - HP:4057/4057 SP:628/632 BP:2
+Equipo del enemigo
+A-Wanderweed - HP:569/1533 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Z'aanta
+3.Cyrus
+4.Wanderweed
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Z'aanta
+4.Cyrus
+5.Wanderweed
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Wanderweed - HP:569/1533 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette ataca
+Wanderweed recibe 308 de daño de tipo Axe
+Wanderweed termina con HP:261
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:414/421 BP:2
+B-Agnea - HP:4398/4502 SP:504/504 BP:2
+C-Ochette - HP:4447/4447 SP:361/369 BP:2
+D-Cyrus - HP:4057/4057 SP:628/632 BP:2
+Equipo del enemigo
+A-Wanderweed - HP:261/1533 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Cyrus
+3.Wanderweed
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Z'aanta
+4.Cyrus
+5.Wanderweed
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Wanderweed - HP:261/1533 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Wanderweed recibe 504 de daño de tipo Bow con debilidad
+Wanderweed termina con HP:0
+----------------------------------------
+Gana equipo del jugador

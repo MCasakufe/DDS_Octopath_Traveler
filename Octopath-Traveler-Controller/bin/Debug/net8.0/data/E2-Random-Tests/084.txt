@@ -1,0 +1,4144 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 83
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:504/504 BP:1
+B-Hikari - HP:5781/5781 SP:367/367 BP:1
+C-Temenos - HP:4502/4502 SP:432/432 BP:1
+D-Castti - HP:5336/5336 SP:476/476 BP:1
+Equipo del enemigo
+A-Forest Ratkin I - HP:1348/1348 Shields:1
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Lightning Elemental - HP:2133/2133 Shields:4
+D-Ice Guardian - HP:1471/1471 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+8.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+8.Forest Ratkin I
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Forest Ratkin I - HP:1348/1348 Shields:1
+2: Wind Wisp - HP:1740/1740 Shields:1
+3: Lightning Elemental - HP:2133/2133 Shields:4
+4: Ice Guardian - HP:1471/1471 Shields:3
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Forest Ratkin I recibe 153 de daño de tipo Dagger con debilidad
+Forest Ratkin I entra en Breaking Point
+Forest Ratkin I termina con HP:1195
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:504/504 BP:1
+B-Hikari - HP:5781/5781 SP:367/367 BP:1
+C-Temenos - HP:4502/4502 SP:432/432 BP:1
+D-Castti - HP:5336/5336 SP:476/476 BP:1
+Equipo del enemigo
+A-Forest Ratkin I - HP:1195/1348 Shields:0
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Lightning Elemental - HP:2133/2133 Shields:4
+D-Ice Guardian - HP:1471/1471 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Hikari
+3.Temenos
+4.Wind Wisp
+5.Ice Guardian
+6.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Forest Ratkin I - HP:1195/1348 Shields:0
+2: Wind Wisp - HP:1740/1740 Shields:1
+3: Lightning Elemental - HP:2133/2133 Shields:4
+4: Ice Guardian - HP:1471/1471 Shields:3
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Wind Wisp recibe 24 de daño de tipo Axe
+Wind Wisp termina con HP:1716
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:504/504 BP:1
+B-Hikari - HP:5781/5781 SP:367/367 BP:1
+C-Temenos - HP:4502/4502 SP:432/432 BP:1
+D-Castti - HP:5336/5336 SP:476/476 BP:1
+Equipo del enemigo
+A-Forest Ratkin I - HP:1195/1348 Shields:0
+B-Wind Wisp - HP:1716/1740 Shields:1
+C-Lightning Elemental - HP:2133/2133 Shields:4
+D-Ice Guardian - HP:1471/1471 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Temenos
+3.Wind Wisp
+4.Ice Guardian
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:504/504 BP:1
+B-Hikari - HP:5781/5781 SP:367/367 BP:1
+C-Temenos - HP:4502/4502 SP:432/432 BP:1
+D-Castti - HP:5336/5336 SP:476/476 BP:1
+Equipo del enemigo
+A-Forest Ratkin I - HP:1195/1348 Shields:0
+B-Wind Wisp - HP:1716/1740 Shields:1
+C-Lightning Elemental - HP:2133/2133 Shields:4
+D-Ice Guardian - HP:1471/1471 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Wind Wisp
+3.Ice Guardian
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Primrose
+3.Castti
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:504/504 BP:1
+B-Hikari - HP:5781/5781 SP:367/367 BP:1
+C-Temenos - HP:4502/4502 SP:432/432 BP:1
+D-Castti - HP:5336/5336 SP:476/476 BP:1
+Equipo del enemigo
+A-Forest Ratkin I - HP:1195/1348 Shields:0
+B-Wind Wisp - HP:1716/1740 Shields:1
+C-Lightning Elemental - HP:2133/2133 Shields:4
+D-Ice Guardian - HP:1471/1471 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+2.Ice Guardian
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Temenos
+3.Primrose
+4.Castti
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Wind Wisp usa Wind slash
+Primrose recibe 383 de daño elemental
+Primrose termina con HP:4119
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4119/4502 SP:504/504 BP:1
+B-Hikari - HP:5781/5781 SP:367/367 BP:1
+C-Temenos - HP:4502/4502 SP:432/432 BP:1
+D-Castti - HP:5336/5336 SP:476/476 BP:1
+Equipo del enemigo
+A-Forest Ratkin I - HP:1195/1348 Shields:0
+B-Wind Wisp - HP:1716/1740 Shields:1
+C-Lightning Elemental - HP:2133/2133 Shields:4
+D-Ice Guardian - HP:1471/1471 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ice Guardian
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Temenos
+3.Primrose
+4.Castti
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Ice Guardian usa Attack
+Hikari se defiende
+Hikari recibe 41 de daño físico
+Hikari termina con HP:5740
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4119/4502 SP:504/504 BP:1
+B-Hikari - HP:5740/5781 SP:367/367 BP:1
+C-Temenos - HP:4502/4502 SP:432/432 BP:1
+D-Castti - HP:5336/5336 SP:476/476 BP:1
+Equipo del enemigo
+A-Forest Ratkin I - HP:1195/1348 Shields:0
+B-Wind Wisp - HP:1716/1740 Shields:1
+C-Lightning Elemental - HP:2133/2133 Shields:4
+D-Ice Guardian - HP:1471/1471 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Temenos
+3.Primrose
+4.Castti
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Hikari se defiende
+Hikari recibe 68 de daño elemental
+Hikari termina con HP:5672
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4119/4502 SP:504/504 BP:2
+B-Hikari - HP:5672/5781 SP:367/367 BP:2
+C-Temenos - HP:4502/4502 SP:432/432 BP:2
+D-Castti - HP:5336/5336 SP:476/476 BP:2
+Equipo del enemigo
+A-Forest Ratkin I - HP:1195/1348 Shields:0
+B-Wind Wisp - HP:1716/1740 Shields:1
+C-Lightning Elemental - HP:2133/2133 Shields:4
+D-Ice Guardian - HP:1471/1471 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Temenos
+3.Primrose
+4.Castti
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Forest Ratkin I
+2.Primrose
+3.Castti
+4.Hikari
+5.Temenos
+6.Wind Wisp
+7.Ice Guardian
+8.Lightning Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Forest Ratkin I - HP:1195/1348 Shields:0
+2: Wind Wisp - HP:1716/1740 Shields:1
+3: Lightning Elemental - HP:2133/2133 Shields:4
+4: Ice Guardian - HP:1471/1471 Shields:3
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Wind Wisp recibe 81 de daño de tipo Sword
+Wind Wisp termina con HP:1635
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4119/4502 SP:504/504 BP:2
+B-Hikari - HP:5672/5781 SP:367/367 BP:2
+C-Temenos - HP:4502/4502 SP:432/432 BP:2
+D-Castti - HP:5336/5336 SP:476/476 BP:2
+Equipo del enemigo
+A-Forest Ratkin I - HP:1195/1348 Shields:0
+B-Wind Wisp - HP:1635/1740 Shields:1
+C-Lightning Elemental - HP:2133/2133 Shields:4
+D-Ice Guardian - HP:1471/1471 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Primrose
+3.Castti
+4.Wind Wisp
+5.Ice Guardian
+6.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Forest Ratkin I
+2.Primrose
+3.Castti
+4.Hikari
+5.Temenos
+6.Wind Wisp
+7.Ice Guardian
+8.Lightning Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Mercy Strike
+2: Wildfire
+3: Luminescence
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Forest Ratkin I - HP:1195/1348 Shields:0
+2: Wind Wisp - HP:1635/1740 Shields:1
+3: Lightning Elemental - HP:2133/2133 Shields:4
+4: Ice Guardian - HP:1471/1471 Shields:3
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos usa Wildfire
+Wind Wisp recibe 337 de daño de tipo Fire
+Wind Wisp termina con HP:1298
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4119/4502 SP:504/504 BP:2
+B-Hikari - HP:5672/5781 SP:367/367 BP:2
+C-Temenos - HP:4502/4502 SP:425/432 BP:2
+D-Castti - HP:5336/5336 SP:476/476 BP:2
+Equipo del enemigo
+A-Forest Ratkin I - HP:1195/1348 Shields:0
+B-Wind Wisp - HP:1298/1740 Shields:1
+C-Lightning Elemental - HP:2133/2133 Shields:4
+D-Ice Guardian - HP:1471/1471 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Castti
+3.Wind Wisp
+4.Ice Guardian
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Forest Ratkin I
+2.Primrose
+3.Castti
+4.Hikari
+5.Temenos
+6.Wind Wisp
+7.Ice Guardian
+8.Lightning Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Forest Ratkin I - HP:1195/1348 Shields:0
+2: Wind Wisp - HP:1298/1740 Shields:1
+3: Lightning Elemental - HP:2133/2133 Shields:4
+4: Ice Guardian - HP:1471/1471 Shields:3
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Ice Guardian recibe 13 de daño de tipo Dagger con debilidad
+Ice Guardian termina con HP:1458
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4119/4502 SP:504/504 BP:2
+B-Hikari - HP:5672/5781 SP:367/367 BP:2
+C-Temenos - HP:4502/4502 SP:425/432 BP:2
+D-Castti - HP:5336/5336 SP:476/476 BP:2
+Equipo del enemigo
+A-Forest Ratkin I - HP:1195/1348 Shields:0
+B-Wind Wisp - HP:1298/1740 Shields:1
+C-Lightning Elemental - HP:2133/2133 Shields:4
+D-Ice Guardian - HP:1458/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Wind Wisp
+3.Ice Guardian
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Forest Ratkin I
+2.Primrose
+3.Castti
+4.Hikari
+5.Temenos
+6.Wind Wisp
+7.Ice Guardian
+8.Lightning Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Forest Ratkin I - HP:1195/1348 Shields:0
+2: Wind Wisp - HP:1298/1740 Shields:1
+3: Lightning Elemental - HP:2133/2133 Shields:4
+4: Ice Guardian - HP:1458/1471 Shields:2
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Lightning Elemental recibe 212 de daño de tipo Axe
+Lightning Elemental termina con HP:1921
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4119/4502 SP:504/504 BP:2
+B-Hikari - HP:5672/5781 SP:367/367 BP:2
+C-Temenos - HP:4502/4502 SP:425/432 BP:2
+D-Castti - HP:5336/5336 SP:476/476 BP:2
+Equipo del enemigo
+A-Forest Ratkin I - HP:1195/1348 Shields:0
+B-Wind Wisp - HP:1298/1740 Shields:1
+C-Lightning Elemental - HP:1921/2133 Shields:4
+D-Ice Guardian - HP:1458/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+2.Ice Guardian
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Forest Ratkin I
+2.Primrose
+3.Castti
+4.Hikari
+5.Temenos
+6.Wind Wisp
+7.Ice Guardian
+8.Lightning Elemental
+----------------------------------------
+Wind Wisp usa Wind slash
+Primrose recibe 383 de daño elemental
+Primrose termina con HP:3736
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3736/4502 SP:504/504 BP:2
+B-Hikari - HP:5672/5781 SP:367/367 BP:2
+C-Temenos - HP:4502/4502 SP:425/432 BP:2
+D-Castti - HP:5336/5336 SP:476/476 BP:2
+Equipo del enemigo
+A-Forest Ratkin I - HP:1195/1348 Shields:0
+B-Wind Wisp - HP:1298/1740 Shields:1
+C-Lightning Elemental - HP:1921/2133 Shields:4
+D-Ice Guardian - HP:1458/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ice Guardian
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Forest Ratkin I
+2.Primrose
+3.Castti
+4.Hikari
+5.Temenos
+6.Wind Wisp
+7.Ice Guardian
+8.Lightning Elemental
+----------------------------------------
+Ice Guardian usa Attack
+Hikari recibe 82 de daño físico
+Hikari termina con HP:5590
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3736/4502 SP:504/504 BP:2
+B-Hikari - HP:5590/5781 SP:367/367 BP:2
+C-Temenos - HP:4502/4502 SP:425/432 BP:2
+D-Castti - HP:5336/5336 SP:476/476 BP:2
+Equipo del enemigo
+A-Forest Ratkin I - HP:1195/1348 Shields:0
+B-Wind Wisp - HP:1298/1740 Shields:1
+C-Lightning Elemental - HP:1921/2133 Shields:4
+D-Ice Guardian - HP:1458/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Forest Ratkin I
+2.Primrose
+3.Castti
+4.Hikari
+5.Temenos
+6.Wind Wisp
+7.Ice Guardian
+8.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Hikari recibe 137 de daño elemental
+Hikari termina con HP:5453
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3736/4502 SP:504/504 BP:3
+B-Hikari - HP:5453/5781 SP:367/367 BP:3
+C-Temenos - HP:4502/4502 SP:425/432 BP:3
+D-Castti - HP:5336/5336 SP:476/476 BP:3
+Equipo del enemigo
+A-Forest Ratkin I - HP:1195/1348 Shields:1
+B-Wind Wisp - HP:1298/1740 Shields:1
+C-Lightning Elemental - HP:1921/2133 Shields:4
+D-Ice Guardian - HP:1458/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Forest Ratkin I
+2.Primrose
+3.Castti
+4.Hikari
+5.Temenos
+6.Wind Wisp
+7.Ice Guardian
+8.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+8.Forest Ratkin I
+----------------------------------------
+Forest Ratkin I usa Stab
+Primrose recibe 152 de daño físico
+Primrose termina con HP:3584
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3584/4502 SP:504/504 BP:3
+B-Hikari - HP:5453/5781 SP:367/367 BP:3
+C-Temenos - HP:4502/4502 SP:425/432 BP:3
+D-Castti - HP:5336/5336 SP:476/476 BP:3
+Equipo del enemigo
+A-Forest Ratkin I - HP:1195/1348 Shields:1
+B-Wind Wisp - HP:1298/1740 Shields:1
+C-Lightning Elemental - HP:1921/2133 Shields:4
+D-Ice Guardian - HP:1458/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+8.Forest Ratkin I
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3584/4502 SP:504/504 BP:3
+B-Hikari - HP:5453/5781 SP:367/367 BP:3
+C-Temenos - HP:4502/4502 SP:425/432 BP:3
+D-Castti - HP:5336/5336 SP:476/476 BP:3
+Equipo del enemigo
+A-Forest Ratkin I - HP:1195/1348 Shields:1
+B-Wind Wisp - HP:1298/1740 Shields:1
+C-Lightning Elemental - HP:1921/2133 Shields:4
+D-Ice Guardian - HP:1458/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Hikari
+3.Temenos
+4.Wind Wisp
+5.Ice Guardian
+6.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+8.Forest Ratkin I
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Forest Ratkin I - HP:1195/1348 Shields:1
+2: Wind Wisp - HP:1298/1740 Shields:1
+3: Lightning Elemental - HP:1921/2133 Shields:4
+4: Ice Guardian - HP:1458/1471 Shields:2
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Wind Wisp recibe 24 de daño de tipo Axe
+Wind Wisp termina con HP:1274
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3584/4502 SP:504/504 BP:3
+B-Hikari - HP:5453/5781 SP:367/367 BP:3
+C-Temenos - HP:4502/4502 SP:425/432 BP:3
+D-Castti - HP:5336/5336 SP:476/476 BP:3
+Equipo del enemigo
+A-Forest Ratkin I - HP:1195/1348 Shields:1
+B-Wind Wisp - HP:1274/1740 Shields:1
+C-Lightning Elemental - HP:1921/2133 Shields:4
+D-Ice Guardian - HP:1458/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Temenos
+3.Wind Wisp
+4.Ice Guardian
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+8.Forest Ratkin I
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3584/4502 SP:504/504 BP:3
+B-Hikari - HP:5453/5781 SP:367/367 BP:3
+C-Temenos - HP:4502/4502 SP:425/432 BP:3
+D-Castti - HP:5336/5336 SP:476/476 BP:3
+Equipo del enemigo
+A-Forest Ratkin I - HP:1195/1348 Shields:1
+B-Wind Wisp - HP:1274/1740 Shields:1
+C-Lightning Elemental - HP:1921/2133 Shields:4
+D-Ice Guardian - HP:1458/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Wind Wisp
+3.Ice Guardian
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Hikari
+3.Castti
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+8.Forest Ratkin I
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Mercy Strike
+2: Wildfire
+3: Luminescence
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos usa Luminescence
+Forest Ratkin I recibe 537 de daño de tipo Light con debilidad
+Forest Ratkin I entra en Breaking Point
+Wind Wisp recibe 450 de daño de tipo Light con debilidad
+Wind Wisp entra en Breaking Point
+Lightning Elemental recibe 218 de daño de tipo Light
+Ice Guardian recibe 213 de daño de tipo Light
+Forest Ratkin I termina con HP:658
+Wind Wisp termina con HP:824
+Lightning Elemental termina con HP:1703
+Ice Guardian termina con HP:1245
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3584/4502 SP:504/504 BP:3
+B-Hikari - HP:5453/5781 SP:367/367 BP:3
+C-Temenos - HP:4502/4502 SP:416/432 BP:3
+D-Castti - HP:5336/5336 SP:476/476 BP:3
+Equipo del enemigo
+A-Forest Ratkin I - HP:658/1348 Shields:0
+B-Wind Wisp - HP:824/1740 Shields:0
+C-Lightning Elemental - HP:1703/2133 Shields:4
+D-Ice Guardian - HP:1245/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ice Guardian
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Hikari
+3.Castti
+4.Temenos
+5.Ice Guardian
+6.Lightning Elemental
+----------------------------------------
+Ice Guardian usa Attack
+Hikari se defiende
+Hikari recibe 41 de daño físico
+Hikari termina con HP:5412
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3584/4502 SP:504/504 BP:3
+B-Hikari - HP:5412/5781 SP:367/367 BP:3
+C-Temenos - HP:4502/4502 SP:416/432 BP:3
+D-Castti - HP:5336/5336 SP:476/476 BP:3
+Equipo del enemigo
+A-Forest Ratkin I - HP:658/1348 Shields:0
+B-Wind Wisp - HP:824/1740 Shields:0
+C-Lightning Elemental - HP:1703/2133 Shields:4
+D-Ice Guardian - HP:1245/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Hikari
+3.Castti
+4.Temenos
+5.Ice Guardian
+6.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Hikari se defiende
+Hikari recibe 68 de daño elemental
+Hikari termina con HP:5344
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3584/4502 SP:504/504 BP:4
+B-Hikari - HP:5344/5781 SP:367/367 BP:4
+C-Temenos - HP:4502/4502 SP:416/432 BP:4
+D-Castti - HP:5336/5336 SP:476/476 BP:4
+Equipo del enemigo
+A-Forest Ratkin I - HP:658/1348 Shields:0
+B-Wind Wisp - HP:824/1740 Shields:0
+C-Lightning Elemental - HP:1703/2133 Shields:4
+D-Ice Guardian - HP:1245/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Hikari
+3.Castti
+4.Temenos
+5.Ice Guardian
+6.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wind Wisp
+2.Forest Ratkin I
+3.Primrose
+4.Castti
+5.Hikari
+6.Temenos
+7.Ice Guardian
+8.Lightning Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Revive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Revive
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3584/4502 SP:454/504 BP:4
+B-Hikari - HP:5344/5781 SP:367/367 BP:4
+C-Temenos - HP:4502/4502 SP:416/432 BP:4
+D-Castti - HP:5336/5336 SP:476/476 BP:4
+Equipo del enemigo
+A-Forest Ratkin I - HP:658/1348 Shields:0
+B-Wind Wisp - HP:824/1740 Shields:0
+C-Lightning Elemental - HP:1703/2133 Shields:4
+D-Ice Guardian - HP:1245/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Castti
+3.Temenos
+4.Ice Guardian
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wind Wisp
+2.Forest Ratkin I
+3.Primrose
+4.Castti
+5.Hikari
+6.Temenos
+7.Ice Guardian
+8.Lightning Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Lightning Bolt
+2: Icicle
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Forest Ratkin I - HP:658/1348 Shields:0
+2: Wind Wisp - HP:824/1740 Shields:0
+3: Lightning Elemental - HP:1703/2133 Shields:4
+4: Ice Guardian - HP:1245/1471 Shields:2
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Icicle
+Lightning Elemental recibe 111 de daño de tipo Ice
+Lightning Elemental termina con HP:1592
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3584/4502 SP:454/504 BP:4
+B-Hikari - HP:5344/5781 SP:360/367 BP:4
+C-Temenos - HP:4502/4502 SP:416/432 BP:4
+D-Castti - HP:5336/5336 SP:476/476 BP:4
+Equipo del enemigo
+A-Forest Ratkin I - HP:658/1348 Shields:0
+B-Wind Wisp - HP:824/1740 Shields:0
+C-Lightning Elemental - HP:1592/2133 Shields:4
+D-Ice Guardian - HP:1245/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Temenos
+3.Ice Guardian
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wind Wisp
+2.Forest Ratkin I
+3.Primrose
+4.Castti
+5.Hikari
+6.Temenos
+7.Ice Guardian
+8.Lightning Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3584/4502 SP:454/504 BP:4
+B-Hikari - HP:5344/5781 SP:360/367 BP:4
+C-Temenos - HP:4502/4502 SP:416/432 BP:4
+D-Castti - HP:5336/5336 SP:476/476 BP:4
+Equipo del enemigo
+A-Forest Ratkin I - HP:658/1348 Shields:0
+B-Wind Wisp - HP:824/1740 Shields:0
+C-Lightning Elemental - HP:1592/2133 Shields:4
+D-Ice Guardian - HP:1245/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Ice Guardian
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wind Wisp
+2.Forest Ratkin I
+3.Castti
+4.Primrose
+5.Hikari
+6.Temenos
+7.Ice Guardian
+8.Lightning Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3584/4502 SP:454/504 BP:4
+B-Hikari - HP:5344/5781 SP:360/367 BP:4
+C-Temenos - HP:4502/4502 SP:416/432 BP:4
+D-Castti - HP:5336/5336 SP:476/476 BP:4
+Equipo del enemigo
+A-Forest Ratkin I - HP:658/1348 Shields:0
+B-Wind Wisp - HP:824/1740 Shields:0
+C-Lightning Elemental - HP:1592/2133 Shields:4
+D-Ice Guardian - HP:1245/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ice Guardian
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wind Wisp
+2.Forest Ratkin I
+3.Castti
+4.Temenos
+5.Primrose
+6.Hikari
+7.Ice Guardian
+8.Lightning Elemental
+----------------------------------------
+Ice Guardian usa Attack
+Hikari recibe 82 de daño físico
+Hikari termina con HP:5262
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3584/4502 SP:454/504 BP:4
+B-Hikari - HP:5262/5781 SP:360/367 BP:4
+C-Temenos - HP:4502/4502 SP:416/432 BP:4
+D-Castti - HP:5336/5336 SP:476/476 BP:4
+Equipo del enemigo
+A-Forest Ratkin I - HP:658/1348 Shields:0
+B-Wind Wisp - HP:824/1740 Shields:0
+C-Lightning Elemental - HP:1592/2133 Shields:4
+D-Ice Guardian - HP:1245/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wind Wisp
+2.Forest Ratkin I
+3.Castti
+4.Temenos
+5.Primrose
+6.Hikari
+7.Ice Guardian
+8.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Hikari recibe 137 de daño elemental
+Hikari termina con HP:5125
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3584/4502 SP:454/504 BP:5
+B-Hikari - HP:5125/5781 SP:360/367 BP:5
+C-Temenos - HP:4502/4502 SP:416/432 BP:5
+D-Castti - HP:5336/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:658/1348 Shields:1
+B-Wind Wisp - HP:824/1740 Shields:1
+C-Lightning Elemental - HP:1592/2133 Shields:4
+D-Ice Guardian - HP:1245/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+2.Forest Ratkin I
+3.Castti
+4.Temenos
+5.Primrose
+6.Hikari
+7.Ice Guardian
+8.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+8.Forest Ratkin I
+----------------------------------------
+Wind Wisp usa Wind slash
+Primrose recibe 383 de daño elemental
+Primrose termina con HP:3201
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3201/4502 SP:454/504 BP:5
+B-Hikari - HP:5125/5781 SP:360/367 BP:5
+C-Temenos - HP:4502/4502 SP:416/432 BP:5
+D-Castti - HP:5336/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:658/1348 Shields:1
+B-Wind Wisp - HP:824/1740 Shields:1
+C-Lightning Elemental - HP:1592/2133 Shields:4
+D-Ice Guardian - HP:1245/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Forest Ratkin I
+2.Castti
+3.Temenos
+4.Primrose
+5.Hikari
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+8.Forest Ratkin I
+----------------------------------------
+Forest Ratkin I usa Stab
+Primrose recibe 152 de daño físico
+Primrose termina con HP:3049
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3049/4502 SP:454/504 BP:5
+B-Hikari - HP:5125/5781 SP:360/367 BP:5
+C-Temenos - HP:4502/4502 SP:416/432 BP:5
+D-Castti - HP:5336/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:658/1348 Shields:1
+B-Wind Wisp - HP:824/1740 Shields:1
+C-Lightning Elemental - HP:1592/2133 Shields:4
+D-Ice Guardian - HP:1245/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Temenos
+3.Primrose
+4.Hikari
+5.Ice Guardian
+6.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+8.Forest Ratkin I
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3049/4502 SP:454/504 BP:5
+B-Hikari - HP:5125/5781 SP:360/367 BP:5
+C-Temenos - HP:4502/4502 SP:416/432 BP:5
+D-Castti - HP:5336/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:658/1348 Shields:1
+B-Wind Wisp - HP:824/1740 Shields:1
+C-Lightning Elemental - HP:1592/2133 Shields:4
+D-Ice Guardian - HP:1245/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Primrose
+3.Hikari
+4.Ice Guardian
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Primrose
+3.Hikari
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+8.Forest Ratkin I
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3049/4502 SP:454/504 BP:5
+B-Hikari - HP:5125/5781 SP:360/367 BP:5
+C-Temenos - HP:4502/4502 SP:416/432 BP:5
+D-Castti - HP:5336/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:658/1348 Shields:1
+B-Wind Wisp - HP:824/1740 Shields:1
+C-Lightning Elemental - HP:1592/2133 Shields:4
+D-Ice Guardian - HP:1245/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Hikari
+3.Ice Guardian
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Temenos
+3.Primrose
+4.Hikari
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+8.Forest Ratkin I
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Revive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Revive
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3049/4502 SP:404/504 BP:5
+B-Hikari - HP:5125/5781 SP:360/367 BP:5
+C-Temenos - HP:4502/4502 SP:416/432 BP:5
+D-Castti - HP:5336/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:658/1348 Shields:1
+B-Wind Wisp - HP:824/1740 Shields:1
+C-Lightning Elemental - HP:1592/2133 Shields:4
+D-Ice Guardian - HP:1245/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Ice Guardian
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Temenos
+3.Primrose
+4.Hikari
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+8.Forest Ratkin I
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Forest Ratkin I - HP:658/1348 Shields:1
+2: Wind Wisp - HP:824/1740 Shields:1
+3: Lightning Elemental - HP:1592/2133 Shields:4
+4: Ice Guardian - HP:1245/1471 Shields:2
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Ice Guardian recibe 313 de daño de tipo Spear
+Ice Guardian termina con HP:932
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3049/4502 SP:404/504 BP:5
+B-Hikari - HP:5125/5781 SP:360/367 BP:5
+C-Temenos - HP:4502/4502 SP:416/432 BP:5
+D-Castti - HP:5336/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:658/1348 Shields:1
+B-Wind Wisp - HP:824/1740 Shields:1
+C-Lightning Elemental - HP:1592/2133 Shields:4
+D-Ice Guardian - HP:932/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ice Guardian
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Temenos
+3.Primrose
+4.Hikari
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+8.Forest Ratkin I
+----------------------------------------
+Ice Guardian usa Attack
+Castti se defiende
+Castti recibe 4 de daño físico
+Castti termina con HP:5332
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3049/4502 SP:404/504 BP:5
+B-Hikari - HP:5125/5781 SP:360/367 BP:5
+C-Temenos - HP:4502/4502 SP:416/432 BP:5
+D-Castti - HP:5332/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:658/1348 Shields:1
+B-Wind Wisp - HP:824/1740 Shields:1
+C-Lightning Elemental - HP:1592/2133 Shields:4
+D-Ice Guardian - HP:932/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Temenos
+3.Primrose
+4.Hikari
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+8.Forest Ratkin I
+----------------------------------------
+Lightning Elemental usa Thundershot
+Hikari recibe 137 de daño elemental
+Hikari termina con HP:4988
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3049/4502 SP:404/504 BP:5
+B-Hikari - HP:4988/5781 SP:360/367 BP:5
+C-Temenos - HP:4502/4502 SP:416/432 BP:5
+D-Castti - HP:5332/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:658/1348 Shields:1
+B-Wind Wisp - HP:824/1740 Shields:1
+C-Lightning Elemental - HP:1592/2133 Shields:4
+D-Ice Guardian - HP:932/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Temenos
+3.Primrose
+4.Hikari
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+8.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+8.Forest Ratkin I
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3049/4502 SP:404/504 BP:5
+B-Hikari - HP:4988/5781 SP:360/367 BP:5
+C-Temenos - HP:4502/4502 SP:416/432 BP:5
+D-Castti - HP:5332/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:658/1348 Shields:1
+B-Wind Wisp - HP:824/1740 Shields:1
+C-Lightning Elemental - HP:1592/2133 Shields:4
+D-Ice Guardian - HP:932/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Primrose
+3.Hikari
+4.Wind Wisp
+5.Ice Guardian
+6.Lightning Elemental
+7.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Primrose
+3.Hikari
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+8.Forest Ratkin I
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3049/4502 SP:404/504 BP:5
+B-Hikari - HP:4988/5781 SP:360/367 BP:5
+C-Temenos - HP:4502/4502 SP:416/432 BP:5
+D-Castti - HP:5332/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:658/1348 Shields:1
+B-Wind Wisp - HP:824/1740 Shields:1
+C-Lightning Elemental - HP:1592/2133 Shields:4
+D-Ice Guardian - HP:932/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Hikari
+3.Wind Wisp
+4.Ice Guardian
+5.Lightning Elemental
+6.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Temenos
+3.Primrose
+4.Hikari
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+8.Forest Ratkin I
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Revive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Revive
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3049/4502 SP:354/504 BP:5
+B-Hikari - HP:4988/5781 SP:360/367 BP:5
+C-Temenos - HP:4502/4502 SP:416/432 BP:5
+D-Castti - HP:5332/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:658/1348 Shields:1
+B-Wind Wisp - HP:824/1740 Shields:1
+C-Lightning Elemental - HP:1592/2133 Shields:4
+D-Ice Guardian - HP:932/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Wind Wisp
+3.Ice Guardian
+4.Lightning Elemental
+5.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Temenos
+3.Primrose
+4.Hikari
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+8.Forest Ratkin I
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Lightning Bolt
+2: Icicle
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Lightning Bolt
+Forest Ratkin I recibe 377 de daño de tipo Lightning con debilidad
+Forest Ratkin I entra en Breaking Point
+Wind Wisp recibe 290 de daño de tipo Lightning con debilidad
+Wind Wisp entra en Breaking Point
+Lightning Elemental recibe 111 de daño de tipo Lightning
+Ice Guardian recibe 106 de daño de tipo Lightning
+Forest Ratkin I termina con HP:281
+Wind Wisp termina con HP:534
+Lightning Elemental termina con HP:1481
+Ice Guardian termina con HP:826
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3049/4502 SP:354/504 BP:5
+B-Hikari - HP:4988/5781 SP:352/367 BP:5
+C-Temenos - HP:4502/4502 SP:416/432 BP:5
+D-Castti - HP:5332/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:281/1348 Shields:0
+B-Wind Wisp - HP:534/1740 Shields:0
+C-Lightning Elemental - HP:1481/2133 Shields:4
+D-Ice Guardian - HP:826/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ice Guardian
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Temenos
+3.Primrose
+4.Hikari
+5.Ice Guardian
+6.Lightning Elemental
+----------------------------------------
+Ice Guardian usa Attack
+Castti se defiende
+Castti recibe 4 de daño físico
+Castti termina con HP:5328
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3049/4502 SP:354/504 BP:5
+B-Hikari - HP:4988/5781 SP:352/367 BP:5
+C-Temenos - HP:4502/4502 SP:416/432 BP:5
+D-Castti - HP:5328/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:281/1348 Shields:0
+B-Wind Wisp - HP:534/1740 Shields:0
+C-Lightning Elemental - HP:1481/2133 Shields:4
+D-Ice Guardian - HP:826/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Temenos
+3.Primrose
+4.Hikari
+5.Ice Guardian
+6.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Hikari recibe 137 de daño elemental
+Hikari termina con HP:4851
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3049/4502 SP:354/504 BP:5
+B-Hikari - HP:4851/5781 SP:352/367 BP:5
+C-Temenos - HP:4502/4502 SP:416/432 BP:5
+D-Castti - HP:5328/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:281/1348 Shields:0
+B-Wind Wisp - HP:534/1740 Shields:0
+C-Lightning Elemental - HP:1481/2133 Shields:4
+D-Ice Guardian - HP:826/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Temenos
+3.Primrose
+4.Hikari
+5.Ice Guardian
+6.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wind Wisp
+2.Forest Ratkin I
+3.Primrose
+4.Castti
+5.Hikari
+6.Temenos
+7.Ice Guardian
+8.Lightning Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3049/4502 SP:354/504 BP:5
+B-Hikari - HP:4851/5781 SP:352/367 BP:5
+C-Temenos - HP:4502/4502 SP:416/432 BP:5
+D-Castti - HP:5328/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:281/1348 Shields:0
+B-Wind Wisp - HP:534/1740 Shields:0
+C-Lightning Elemental - HP:1481/2133 Shields:4
+D-Ice Guardian - HP:826/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Primrose
+3.Hikari
+4.Ice Guardian
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wind Wisp
+2.Forest Ratkin I
+3.Castti
+4.Primrose
+5.Hikari
+6.Temenos
+7.Ice Guardian
+8.Lightning Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Mercy Strike
+2: Wildfire
+3: Luminescence
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Forest Ratkin I - HP:281/1348 Shields:0
+2: Wind Wisp - HP:534/1740 Shields:0
+3: Lightning Elemental - HP:1481/2133 Shields:4
+4: Ice Guardian - HP:826/1471 Shields:2
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos usa Mercy Strike
+Wind Wisp recibe 0 de daño de tipo Bow
+Wind Wisp termina con HP:534
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3049/4502 SP:354/504 BP:5
+B-Hikari - HP:4851/5781 SP:352/367 BP:5
+C-Temenos - HP:4502/4502 SP:412/432 BP:5
+D-Castti - HP:5328/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:281/1348 Shields:0
+B-Wind Wisp - HP:534/1740 Shields:0
+C-Lightning Elemental - HP:1481/2133 Shields:4
+D-Ice Guardian - HP:826/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Hikari
+3.Ice Guardian
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wind Wisp
+2.Forest Ratkin I
+3.Castti
+4.Primrose
+5.Hikari
+6.Temenos
+7.Ice Guardian
+8.Lightning Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Forest Ratkin I - HP:281/1348 Shields:0
+2: Wind Wisp - HP:534/1740 Shields:0
+3: Lightning Elemental - HP:1481/2133 Shields:4
+4: Ice Guardian - HP:826/1471 Shields:2
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Wind Wisp recibe 0 de daño de tipo Dagger
+Wind Wisp termina con HP:534
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3049/4502 SP:354/504 BP:5
+B-Hikari - HP:4851/5781 SP:352/367 BP:5
+C-Temenos - HP:4502/4502 SP:412/432 BP:5
+D-Castti - HP:5328/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:281/1348 Shields:0
+B-Wind Wisp - HP:534/1740 Shields:0
+C-Lightning Elemental - HP:1481/2133 Shields:4
+D-Ice Guardian - HP:826/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Ice Guardian
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wind Wisp
+2.Forest Ratkin I
+3.Castti
+4.Primrose
+5.Hikari
+6.Temenos
+7.Ice Guardian
+8.Lightning Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Lightning Bolt
+2: Icicle
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Lightning Bolt
+Forest Ratkin I recibe 503 de daño de tipo Lightning con debilidad
+Wind Wisp recibe 387 de daño de tipo Lightning con debilidad
+Lightning Elemental recibe 111 de daño de tipo Lightning
+Ice Guardian recibe 106 de daño de tipo Lightning
+Forest Ratkin I termina con HP:0
+Wind Wisp termina con HP:147
+Lightning Elemental termina con HP:1370
+Ice Guardian termina con HP:720
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3049/4502 SP:354/504 BP:5
+B-Hikari - HP:4851/5781 SP:344/367 BP:5
+C-Temenos - HP:4502/4502 SP:412/432 BP:5
+D-Castti - HP:5328/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:147/1740 Shields:0
+C-Lightning Elemental - HP:1370/2133 Shields:4
+D-Ice Guardian - HP:720/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ice Guardian
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wind Wisp
+2.Castti
+3.Primrose
+4.Hikari
+5.Temenos
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Ice Guardian usa Attack
+Castti se defiende
+Castti recibe 4 de daño físico
+Castti termina con HP:5324
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3049/4502 SP:354/504 BP:5
+B-Hikari - HP:4851/5781 SP:344/367 BP:5
+C-Temenos - HP:4502/4502 SP:412/432 BP:5
+D-Castti - HP:5324/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:147/1740 Shields:0
+C-Lightning Elemental - HP:1370/2133 Shields:4
+D-Ice Guardian - HP:720/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wind Wisp
+2.Castti
+3.Primrose
+4.Hikari
+5.Temenos
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Hikari recibe 137 de daño elemental
+Hikari termina con HP:4714
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3049/4502 SP:354/504 BP:5
+B-Hikari - HP:4714/5781 SP:344/367 BP:5
+C-Temenos - HP:4502/4502 SP:412/432 BP:5
+D-Castti - HP:5324/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:147/1740 Shields:1
+C-Lightning Elemental - HP:1370/2133 Shields:4
+D-Ice Guardian - HP:720/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+2.Castti
+3.Primrose
+4.Hikari
+5.Temenos
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Wind Wisp usa Wind slash
+Primrose recibe 383 de daño elemental
+Primrose termina con HP:2666
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2666/4502 SP:354/504 BP:5
+B-Hikari - HP:4714/5781 SP:344/367 BP:5
+C-Temenos - HP:4502/4502 SP:412/432 BP:5
+D-Castti - HP:5324/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:147/1740 Shields:1
+C-Lightning Elemental - HP:1370/2133 Shields:4
+D-Ice Guardian - HP:720/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Primrose
+3.Hikari
+4.Temenos
+5.Ice Guardian
+6.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Wind Wisp - HP:147/1740 Shields:1
+2: Lightning Elemental - HP:1370/2133 Shields:4
+3: Ice Guardian - HP:720/1471 Shields:2
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Wind Wisp recibe 24 de daño de tipo Axe
+Wind Wisp termina con HP:123
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2666/4502 SP:354/504 BP:5
+B-Hikari - HP:4714/5781 SP:344/367 BP:5
+C-Temenos - HP:4502/4502 SP:412/432 BP:5
+D-Castti - HP:5324/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:123/1740 Shields:1
+C-Lightning Elemental - HP:1370/2133 Shields:4
+D-Ice Guardian - HP:720/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Hikari
+3.Temenos
+4.Ice Guardian
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Revive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Revive
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2666/4502 SP:304/504 BP:5
+B-Hikari - HP:4714/5781 SP:344/367 BP:5
+C-Temenos - HP:4502/4502 SP:412/432 BP:5
+D-Castti - HP:5324/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:123/1740 Shields:1
+C-Lightning Elemental - HP:1370/2133 Shields:4
+D-Ice Guardian - HP:720/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Temenos
+3.Ice Guardian
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Lightning Bolt
+2: Icicle
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Wind Wisp - HP:123/1740 Shields:1
+2: Lightning Elemental - HP:1370/2133 Shields:4
+3: Ice Guardian - HP:720/1471 Shields:2
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Icicle
+Lightning Elemental recibe 111 de daño de tipo Ice
+Lightning Elemental termina con HP:1259
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2666/4502 SP:304/504 BP:5
+B-Hikari - HP:4714/5781 SP:337/367 BP:5
+C-Temenos - HP:4502/4502 SP:412/432 BP:5
+D-Castti - HP:5324/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:123/1740 Shields:1
+C-Lightning Elemental - HP:1259/2133 Shields:4
+D-Ice Guardian - HP:720/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Ice Guardian
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Mercy Strike
+2: Wildfire
+3: Luminescence
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Wind Wisp - HP:123/1740 Shields:1
+2: Lightning Elemental - HP:1259/2133 Shields:4
+3: Ice Guardian - HP:720/1471 Shields:2
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos usa Wildfire
+Lightning Elemental recibe 383 de daño de tipo Fire con debilidad
+Lightning Elemental termina con HP:876
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2666/4502 SP:304/504 BP:5
+B-Hikari - HP:4714/5781 SP:337/367 BP:5
+C-Temenos - HP:4502/4502 SP:405/432 BP:5
+D-Castti - HP:5324/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:123/1740 Shields:1
+C-Lightning Elemental - HP:876/2133 Shields:3
+D-Ice Guardian - HP:720/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ice Guardian
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Ice Guardian usa Attack
+Castti recibe 8 de daño físico
+Castti termina con HP:5316
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2666/4502 SP:304/504 BP:5
+B-Hikari - HP:4714/5781 SP:337/367 BP:5
+C-Temenos - HP:4502/4502 SP:405/432 BP:5
+D-Castti - HP:5316/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:123/1740 Shields:1
+C-Lightning Elemental - HP:876/2133 Shields:3
+D-Ice Guardian - HP:720/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Hikari recibe 137 de daño elemental
+Hikari termina con HP:4577
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2666/4502 SP:304/504 BP:5
+B-Hikari - HP:4577/5781 SP:337/367 BP:5
+C-Temenos - HP:4502/4502 SP:405/432 BP:5
+D-Castti - HP:5316/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:123/1740 Shields:1
+C-Lightning Elemental - HP:876/2133 Shields:3
+D-Ice Guardian - HP:720/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2666/4502 SP:304/504 BP:5
+B-Hikari - HP:4577/5781 SP:337/367 BP:5
+C-Temenos - HP:4502/4502 SP:405/432 BP:5
+D-Castti - HP:5316/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:123/1740 Shields:1
+C-Lightning Elemental - HP:876/2133 Shields:3
+D-Ice Guardian - HP:720/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Hikari
+3.Temenos
+4.Wind Wisp
+5.Ice Guardian
+6.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2666/4502 SP:304/504 BP:5
+B-Hikari - HP:4577/5781 SP:337/367 BP:5
+C-Temenos - HP:4502/4502 SP:405/432 BP:5
+D-Castti - HP:5316/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:123/1740 Shields:1
+C-Lightning Elemental - HP:876/2133 Shields:3
+D-Ice Guardian - HP:720/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Temenos
+3.Wind Wisp
+4.Ice Guardian
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2666/4502 SP:304/504 BP:5
+B-Hikari - HP:4577/5781 SP:337/367 BP:5
+C-Temenos - HP:4502/4502 SP:405/432 BP:5
+D-Castti - HP:5316/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:123/1740 Shields:1
+C-Lightning Elemental - HP:876/2133 Shields:3
+D-Ice Guardian - HP:720/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Wind Wisp
+3.Ice Guardian
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Wind Wisp - HP:123/1740 Shields:1
+2: Lightning Elemental - HP:876/2133 Shields:3
+3: Ice Guardian - HP:720/1471 Shields:2
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Ice Guardian recibe 66 de daño de tipo Stave
+Ice Guardian termina con HP:654
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2666/4502 SP:304/504 BP:5
+B-Hikari - HP:4577/5781 SP:337/367 BP:5
+C-Temenos - HP:4502/4502 SP:405/432 BP:5
+D-Castti - HP:5316/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:123/1740 Shields:1
+C-Lightning Elemental - HP:876/2133 Shields:3
+D-Ice Guardian - HP:654/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+2.Ice Guardian
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Wind Wisp usa Wind slash
+Primrose se defiende
+Primrose recibe 191 de daño elemental
+Primrose termina con HP:2475
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2475/4502 SP:304/504 BP:5
+B-Hikari - HP:4577/5781 SP:337/367 BP:5
+C-Temenos - HP:4502/4502 SP:405/432 BP:5
+D-Castti - HP:5316/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:123/1740 Shields:1
+C-Lightning Elemental - HP:876/2133 Shields:3
+D-Ice Guardian - HP:654/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ice Guardian
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Ice Guardian usa Attack
+Castti se defiende
+Castti recibe 4 de daño físico
+Castti termina con HP:5312
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2475/4502 SP:304/504 BP:5
+B-Hikari - HP:4577/5781 SP:337/367 BP:5
+C-Temenos - HP:4502/4502 SP:405/432 BP:5
+D-Castti - HP:5312/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:123/1740 Shields:1
+C-Lightning Elemental - HP:876/2133 Shields:3
+D-Ice Guardian - HP:654/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Hikari se defiende
+Hikari recibe 68 de daño elemental
+Hikari termina con HP:4509
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2475/4502 SP:304/504 BP:5
+B-Hikari - HP:4509/5781 SP:337/367 BP:5
+C-Temenos - HP:4502/4502 SP:405/432 BP:5
+D-Castti - HP:5312/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:123/1740 Shields:1
+C-Lightning Elemental - HP:876/2133 Shields:3
+D-Ice Guardian - HP:654/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2475/4502 SP:304/504 BP:5
+B-Hikari - HP:4509/5781 SP:337/367 BP:5
+C-Temenos - HP:4502/4502 SP:405/432 BP:5
+D-Castti - HP:5312/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:123/1740 Shields:1
+C-Lightning Elemental - HP:876/2133 Shields:3
+D-Ice Guardian - HP:654/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Hikari
+3.Temenos
+4.Wind Wisp
+5.Ice Guardian
+6.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2475/4502 SP:304/504 BP:5
+B-Hikari - HP:4509/5781 SP:337/367 BP:5
+C-Temenos - HP:4502/4502 SP:405/432 BP:5
+D-Castti - HP:5312/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:123/1740 Shields:1
+C-Lightning Elemental - HP:876/2133 Shields:3
+D-Ice Guardian - HP:654/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Temenos
+3.Wind Wisp
+4.Ice Guardian
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Wind Wisp - HP:123/1740 Shields:1
+2: Lightning Elemental - HP:876/2133 Shields:3
+3: Ice Guardian - HP:654/1471 Shields:2
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Lightning Elemental recibe 269 de daño de tipo Spear
+Lightning Elemental termina con HP:607
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2475/4502 SP:304/504 BP:5
+B-Hikari - HP:4509/5781 SP:337/367 BP:5
+C-Temenos - HP:4502/4502 SP:405/432 BP:5
+D-Castti - HP:5312/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:123/1740 Shields:1
+C-Lightning Elemental - HP:607/2133 Shields:3
+D-Ice Guardian - HP:654/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Wind Wisp
+3.Ice Guardian
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2475/4502 SP:304/504 BP:5
+B-Hikari - HP:4509/5781 SP:337/367 BP:5
+C-Temenos - HP:4502/4502 SP:405/432 BP:5
+D-Castti - HP:5312/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:123/1740 Shields:1
+C-Lightning Elemental - HP:607/2133 Shields:3
+D-Ice Guardian - HP:654/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+2.Ice Guardian
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Temenos
+4.Hikari
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Wind Wisp usa Wind slash
+Primrose se defiende
+Primrose recibe 191 de daño elemental
+Primrose termina con HP:2284
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2284/4502 SP:304/504 BP:5
+B-Hikari - HP:4509/5781 SP:337/367 BP:5
+C-Temenos - HP:4502/4502 SP:405/432 BP:5
+D-Castti - HP:5312/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:123/1740 Shields:1
+C-Lightning Elemental - HP:607/2133 Shields:3
+D-Ice Guardian - HP:654/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ice Guardian
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Temenos
+4.Hikari
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Ice Guardian usa Attack
+Castti se defiende
+Castti recibe 4 de daño físico
+Castti termina con HP:5308
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2284/4502 SP:304/504 BP:5
+B-Hikari - HP:4509/5781 SP:337/367 BP:5
+C-Temenos - HP:4502/4502 SP:405/432 BP:5
+D-Castti - HP:5308/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:123/1740 Shields:1
+C-Lightning Elemental - HP:607/2133 Shields:3
+D-Ice Guardian - HP:654/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Temenos
+4.Hikari
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Hikari recibe 137 de daño elemental
+Hikari termina con HP:4372
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2284/4502 SP:304/504 BP:5
+B-Hikari - HP:4372/5781 SP:337/367 BP:5
+C-Temenos - HP:4502/4502 SP:405/432 BP:5
+D-Castti - HP:5308/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:123/1740 Shields:1
+C-Lightning Elemental - HP:607/2133 Shields:3
+D-Ice Guardian - HP:654/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Castti
+3.Temenos
+4.Hikari
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Revive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Revive
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2284/4502 SP:254/504 BP:5
+B-Hikari - HP:4372/5781 SP:337/367 BP:5
+C-Temenos - HP:4502/4502 SP:405/432 BP:5
+D-Castti - HP:5308/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:123/1740 Shields:1
+C-Lightning Elemental - HP:607/2133 Shields:3
+D-Ice Guardian - HP:654/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Temenos
+3.Hikari
+4.Wind Wisp
+5.Ice Guardian
+6.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Wind Wisp - HP:123/1740 Shields:1
+2: Lightning Elemental - HP:607/2133 Shields:3
+3: Ice Guardian - HP:654/1471 Shields:2
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Wind Wisp recibe 24 de daño de tipo Axe
+Wind Wisp termina con HP:99
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2284/4502 SP:254/504 BP:5
+B-Hikari - HP:4372/5781 SP:337/367 BP:5
+C-Temenos - HP:4502/4502 SP:405/432 BP:5
+D-Castti - HP:5308/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:99/1740 Shields:1
+C-Lightning Elemental - HP:607/2133 Shields:3
+D-Ice Guardian - HP:654/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Hikari
+3.Wind Wisp
+4.Ice Guardian
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2284/4502 SP:254/504 BP:5
+B-Hikari - HP:4372/5781 SP:337/367 BP:5
+C-Temenos - HP:4502/4502 SP:405/432 BP:5
+D-Castti - HP:5308/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:99/1740 Shields:1
+C-Lightning Elemental - HP:607/2133 Shields:3
+D-Ice Guardian - HP:654/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Wind Wisp
+3.Ice Guardian
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Primrose
+3.Castti
+4.Hikari
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Lightning Bolt
+2: Icicle
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Wind Wisp - HP:99/1740 Shields:1
+2: Lightning Elemental - HP:607/2133 Shields:3
+3: Ice Guardian - HP:654/1471 Shields:2
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Icicle
+Lightning Elemental recibe 111 de daño de tipo Ice
+Lightning Elemental termina con HP:496
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2284/4502 SP:254/504 BP:5
+B-Hikari - HP:4372/5781 SP:330/367 BP:5
+C-Temenos - HP:4502/4502 SP:405/432 BP:5
+D-Castti - HP:5308/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:99/1740 Shields:1
+C-Lightning Elemental - HP:496/2133 Shields:3
+D-Ice Guardian - HP:654/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+2.Ice Guardian
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Primrose
+3.Castti
+4.Hikari
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Wind Wisp usa Wind slash
+Primrose recibe 383 de daño elemental
+Primrose termina con HP:1901
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1901/4502 SP:254/504 BP:5
+B-Hikari - HP:4372/5781 SP:330/367 BP:5
+C-Temenos - HP:4502/4502 SP:405/432 BP:5
+D-Castti - HP:5308/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:99/1740 Shields:1
+C-Lightning Elemental - HP:496/2133 Shields:3
+D-Ice Guardian - HP:654/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ice Guardian
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Primrose
+3.Castti
+4.Hikari
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Ice Guardian usa Attack
+Castti recibe 8 de daño físico
+Castti termina con HP:5300
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1901/4502 SP:254/504 BP:5
+B-Hikari - HP:4372/5781 SP:330/367 BP:5
+C-Temenos - HP:4502/4502 SP:405/432 BP:5
+D-Castti - HP:5300/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:99/1740 Shields:1
+C-Lightning Elemental - HP:496/2133 Shields:3
+D-Ice Guardian - HP:654/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Primrose
+3.Castti
+4.Hikari
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Hikari recibe 137 de daño elemental
+Hikari termina con HP:4235
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1901/4502 SP:254/504 BP:5
+B-Hikari - HP:4235/5781 SP:330/367 BP:5
+C-Temenos - HP:4502/4502 SP:405/432 BP:5
+D-Castti - HP:5300/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:99/1740 Shields:1
+C-Lightning Elemental - HP:496/2133 Shields:3
+D-Ice Guardian - HP:654/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Primrose
+3.Castti
+4.Hikari
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Wind Wisp
+6.Ice Guardian
+7.Lightning Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Mercy Strike
+2: Wildfire
+3: Luminescence
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Wind Wisp - HP:99/1740 Shields:1
+2: Lightning Elemental - HP:496/2133 Shields:3
+3: Ice Guardian - HP:654/1471 Shields:2
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos usa Wildfire
+Wind Wisp recibe 337 de daño de tipo Fire
+Wind Wisp termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1901/4502 SP:254/504 BP:5
+B-Hikari - HP:4235/5781 SP:330/367 BP:5
+C-Temenos - HP:4502/4502 SP:398/432 BP:5
+D-Castti - HP:5300/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:0/1740 Shields:1
+C-Lightning Elemental - HP:496/2133 Shields:3
+D-Ice Guardian - HP:654/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Ice Guardian
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Ice Guardian
+6.Lightning Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Revive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Revive
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1901/4502 SP:204/504 BP:5
+B-Hikari - HP:4235/5781 SP:330/367 BP:5
+C-Temenos - HP:4502/4502 SP:398/432 BP:5
+D-Castti - HP:5300/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:0/1740 Shields:1
+C-Lightning Elemental - HP:496/2133 Shields:3
+D-Ice Guardian - HP:654/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Hikari
+3.Ice Guardian
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Ice Guardian
+6.Lightning Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1901/4502 SP:204/504 BP:5
+B-Hikari - HP:4235/5781 SP:330/367 BP:5
+C-Temenos - HP:4502/4502 SP:398/432 BP:5
+D-Castti - HP:5300/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:0/1740 Shields:1
+C-Lightning Elemental - HP:496/2133 Shields:3
+D-Ice Guardian - HP:654/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Ice Guardian
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Primrose
+3.Hikari
+4.Temenos
+5.Ice Guardian
+6.Lightning Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1901/4502 SP:204/504 BP:5
+B-Hikari - HP:4235/5781 SP:330/367 BP:5
+C-Temenos - HP:4502/4502 SP:398/432 BP:5
+D-Castti - HP:5300/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:0/1740 Shields:1
+C-Lightning Elemental - HP:496/2133 Shields:3
+D-Ice Guardian - HP:654/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ice Guardian
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Primrose
+4.Temenos
+5.Ice Guardian
+6.Lightning Elemental
+----------------------------------------
+Ice Guardian usa Attack
+Castti se defiende
+Castti recibe 4 de daño físico
+Castti termina con HP:5296
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1901/4502 SP:204/504 BP:5
+B-Hikari - HP:4235/5781 SP:330/367 BP:5
+C-Temenos - HP:4502/4502 SP:398/432 BP:5
+D-Castti - HP:5296/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:0/1740 Shields:1
+C-Lightning Elemental - HP:496/2133 Shields:3
+D-Ice Guardian - HP:654/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Primrose
+4.Temenos
+5.Ice Guardian
+6.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Hikari se defiende
+Hikari recibe 68 de daño elemental
+Hikari termina con HP:4167
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1901/4502 SP:204/504 BP:5
+B-Hikari - HP:4167/5781 SP:330/367 BP:5
+C-Temenos - HP:4502/4502 SP:398/432 BP:5
+D-Castti - HP:5296/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:0/1740 Shields:1
+C-Lightning Elemental - HP:496/2133 Shields:3
+D-Ice Guardian - HP:654/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Hikari
+3.Primrose
+4.Temenos
+5.Ice Guardian
+6.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Ice Guardian
+6.Lightning Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1901/4502 SP:204/504 BP:5
+B-Hikari - HP:4167/5781 SP:330/367 BP:5
+C-Temenos - HP:4502/4502 SP:398/432 BP:5
+D-Castti - HP:5296/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:0/1740 Shields:1
+C-Lightning Elemental - HP:496/2133 Shields:3
+D-Ice Guardian - HP:654/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Primrose
+3.Temenos
+4.Ice Guardian
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Primrose
+3.Hikari
+4.Temenos
+5.Ice Guardian
+6.Lightning Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1901/4502 SP:204/504 BP:5
+B-Hikari - HP:4167/5781 SP:330/367 BP:5
+C-Temenos - HP:4502/4502 SP:398/432 BP:5
+D-Castti - HP:5296/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:0/1740 Shields:1
+C-Lightning Elemental - HP:496/2133 Shields:3
+D-Ice Guardian - HP:654/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Temenos
+3.Ice Guardian
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Primrose
+4.Temenos
+5.Ice Guardian
+6.Lightning Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Revive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Revive
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1901/4502 SP:154/504 BP:5
+B-Hikari - HP:4167/5781 SP:330/367 BP:5
+C-Temenos - HP:4502/4502 SP:398/432 BP:5
+D-Castti - HP:5296/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:0/1740 Shields:1
+C-Lightning Elemental - HP:496/2133 Shields:3
+D-Ice Guardian - HP:654/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Ice Guardian
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Primrose
+4.Temenos
+5.Ice Guardian
+6.Lightning Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1901/4502 SP:154/504 BP:5
+B-Hikari - HP:4167/5781 SP:330/367 BP:5
+C-Temenos - HP:4502/4502 SP:398/432 BP:5
+D-Castti - HP:5296/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:0/1740 Shields:1
+C-Lightning Elemental - HP:496/2133 Shields:3
+D-Ice Guardian - HP:654/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ice Guardian
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Temenos
+4.Primrose
+5.Ice Guardian
+6.Lightning Elemental
+----------------------------------------
+Ice Guardian usa Attack
+Castti se defiende
+Castti recibe 4 de daño físico
+Castti termina con HP:5292
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1901/4502 SP:154/504 BP:5
+B-Hikari - HP:4167/5781 SP:330/367 BP:5
+C-Temenos - HP:4502/4502 SP:398/432 BP:5
+D-Castti - HP:5292/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:0/1740 Shields:1
+C-Lightning Elemental - HP:496/2133 Shields:3
+D-Ice Guardian - HP:654/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Temenos
+4.Primrose
+5.Ice Guardian
+6.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Hikari se defiende
+Hikari recibe 68 de daño elemental
+Hikari termina con HP:4099
+----------------------------------------
+INICIA RONDA 14
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1901/4502 SP:154/504 BP:5
+B-Hikari - HP:4099/5781 SP:330/367 BP:5
+C-Temenos - HP:4502/4502 SP:398/432 BP:5
+D-Castti - HP:5292/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:0/1740 Shields:1
+C-Lightning Elemental - HP:496/2133 Shields:3
+D-Ice Guardian - HP:654/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Hikari
+3.Temenos
+4.Primrose
+5.Ice Guardian
+6.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Ice Guardian
+6.Lightning Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1901/4502 SP:154/504 BP:5
+B-Hikari - HP:4099/5781 SP:330/367 BP:5
+C-Temenos - HP:4502/4502 SP:398/432 BP:5
+D-Castti - HP:5292/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:0/1740 Shields:1
+C-Lightning Elemental - HP:496/2133 Shields:3
+D-Ice Guardian - HP:654/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Temenos
+3.Primrose
+4.Ice Guardian
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Primrose
+3.Hikari
+4.Temenos
+5.Ice Guardian
+6.Lightning Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Lightning Bolt
+2: Icicle
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Lightning Bolt
+Lightning Elemental recibe 111 de daño de tipo Lightning
+Ice Guardian recibe 106 de daño de tipo Lightning
+Lightning Elemental termina con HP:385
+Ice Guardian termina con HP:548
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1901/4502 SP:154/504 BP:5
+B-Hikari - HP:4099/5781 SP:322/367 BP:5
+C-Temenos - HP:4502/4502 SP:398/432 BP:5
+D-Castti - HP:5292/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:0/1740 Shields:1
+C-Lightning Elemental - HP:385/2133 Shields:3
+D-Ice Guardian - HP:548/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Primrose
+3.Ice Guardian
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Primrose
+3.Hikari
+4.Temenos
+5.Ice Guardian
+6.Lightning Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Lightning Elemental - HP:385/2133 Shields:3
+2: Ice Guardian - HP:548/1471 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Ice Guardian recibe 66 de daño de tipo Stave
+Ice Guardian termina con HP:482
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1901/4502 SP:154/504 BP:5
+B-Hikari - HP:4099/5781 SP:322/367 BP:5
+C-Temenos - HP:4502/4502 SP:398/432 BP:5
+D-Castti - HP:5292/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:0/1740 Shields:1
+C-Lightning Elemental - HP:385/2133 Shields:3
+D-Ice Guardian - HP:482/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ice Guardian
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Primrose
+3.Hikari
+4.Temenos
+5.Ice Guardian
+6.Lightning Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1901/4502 SP:154/504 BP:5
+B-Hikari - HP:4099/5781 SP:322/367 BP:5
+C-Temenos - HP:4502/4502 SP:398/432 BP:5
+D-Castti - HP:5292/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:0/1740 Shields:1
+C-Lightning Elemental - HP:385/2133 Shields:3
+D-Ice Guardian - HP:482/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ice Guardian
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Ice Guardian
+6.Lightning Elemental
+----------------------------------------
+Ice Guardian usa Attack
+Castti se defiende
+Castti recibe 4 de daño físico
+Castti termina con HP:5288
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1901/4502 SP:154/504 BP:5
+B-Hikari - HP:4099/5781 SP:322/367 BP:5
+C-Temenos - HP:4502/4502 SP:398/432 BP:5
+D-Castti - HP:5288/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:0/1740 Shields:1
+C-Lightning Elemental - HP:385/2133 Shields:3
+D-Ice Guardian - HP:482/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Ice Guardian
+6.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Hikari recibe 137 de daño elemental
+Hikari termina con HP:3962
+----------------------------------------
+INICIA RONDA 15
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1901/4502 SP:154/504 BP:5
+B-Hikari - HP:3962/5781 SP:322/367 BP:5
+C-Temenos - HP:4502/4502 SP:398/432 BP:5
+D-Castti - HP:5288/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:0/1740 Shields:1
+C-Lightning Elemental - HP:385/2133 Shields:3
+D-Ice Guardian - HP:482/1471 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Ice Guardian
+6.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Ice Guardian
+6.Lightning Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Lightning Elemental - HP:385/2133 Shields:3
+2: Ice Guardian - HP:482/1471 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Ice Guardian recibe 13 de daño de tipo Dagger con debilidad
+Ice Guardian termina con HP:469
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1901/4502 SP:154/504 BP:5
+B-Hikari - HP:3962/5781 SP:322/367 BP:5
+C-Temenos - HP:4502/4502 SP:398/432 BP:5
+D-Castti - HP:5288/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:0/1740 Shields:1
+C-Lightning Elemental - HP:385/2133 Shields:3
+D-Ice Guardian - HP:469/1471 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Hikari
+3.Temenos
+4.Ice Guardian
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Ice Guardian
+6.Lightning Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Lightning Elemental - HP:385/2133 Shields:3
+2: Ice Guardian - HP:469/1471 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Lightning Elemental recibe 212 de daño de tipo Axe
+Lightning Elemental termina con HP:173
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1901/4502 SP:154/504 BP:5
+B-Hikari - HP:3962/5781 SP:322/367 BP:5
+C-Temenos - HP:4502/4502 SP:398/432 BP:5
+D-Castti - HP:5288/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:0/1740 Shields:1
+C-Lightning Elemental - HP:173/2133 Shields:3
+D-Ice Guardian - HP:469/1471 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Temenos
+3.Ice Guardian
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Ice Guardian
+6.Lightning Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Lightning Bolt
+2: Icicle
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Lightning Elemental - HP:173/2133 Shields:3
+2: Ice Guardian - HP:469/1471 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Icicle
+Lightning Elemental recibe 111 de daño de tipo Ice
+Lightning Elemental termina con HP:62
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1901/4502 SP:154/504 BP:5
+B-Hikari - HP:3962/5781 SP:315/367 BP:5
+C-Temenos - HP:4502/4502 SP:398/432 BP:5
+D-Castti - HP:5288/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:0/1740 Shields:1
+C-Lightning Elemental - HP:62/2133 Shields:3
+D-Ice Guardian - HP:469/1471 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Ice Guardian
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Ice Guardian
+6.Lightning Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Mercy Strike
+2: Wildfire
+3: Luminescence
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos usa Luminescence
+Lightning Elemental recibe 218 de daño de tipo Light
+Ice Guardian recibe 213 de daño de tipo Light
+Lightning Elemental termina con HP:0
+Ice Guardian termina con HP:256
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1901/4502 SP:154/504 BP:5
+B-Hikari - HP:3962/5781 SP:315/367 BP:5
+C-Temenos - HP:4502/4502 SP:389/432 BP:5
+D-Castti - HP:5288/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:0/1740 Shields:1
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Ice Guardian - HP:256/1471 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Ice Guardian
+----------------------------------------
+Ice Guardian usa Attack
+Castti recibe 8 de daño físico
+Castti termina con HP:5280
+----------------------------------------
+INICIA RONDA 16
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1901/4502 SP:154/504 BP:5
+B-Hikari - HP:3962/5781 SP:315/367 BP:5
+C-Temenos - HP:4502/4502 SP:389/432 BP:5
+D-Castti - HP:5280/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:0/1740 Shields:1
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Ice Guardian - HP:256/1471 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+5.Ice Guardian
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Ice Guardian - HP:256/1471 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Ice Guardian recibe 13 de daño de tipo Dagger con debilidad
+Ice Guardian entra en Breaking Point
+Ice Guardian termina con HP:243
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1901/4502 SP:154/504 BP:5
+B-Hikari - HP:3962/5781 SP:315/367 BP:5
+C-Temenos - HP:4502/4502 SP:389/432 BP:5
+D-Castti - HP:5280/5336 SP:476/476 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Wind Wisp - HP:0/1740 Shields:1
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Ice Guardian - HP:243/1471 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Hikari
+3.Temenos
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Temenos
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Ice Guardian - HP:243/1471 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Ice Guardian recibe 384 de daño de tipo Axe
+Ice Guardian termina con HP:0
+----------------------------------------
+Gana equipo del jugador

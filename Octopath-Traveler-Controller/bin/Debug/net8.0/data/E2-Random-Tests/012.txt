@@ -1,0 +1,1475 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 11
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:382/382 BP:1
+B-Ochette - HP:4947/4947 SP:419/419 BP:1
+C-Throné - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Lightning Elemental - HP:2133/2133 Shields:4
+B-Dreadwolf - HP:7530/7530 Shields:9
+C-Mattias? - HP:5780/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Therion
+3.Ochette
+4.Dreadwolf
+5.Mattias?
+6.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Therion
+3.Ochette
+4.Dreadwolf
+5.Mattias?
+6.Lightning Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Lightning Elemental - HP:2133/2133 Shields:4
+2: Dreadwolf - HP:7530/7530 Shields:9
+3: Mattias? - HP:5780/5780 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné ataca
+Mattias? recibe 17 de daño de tipo Sword con debilidad
+Mattias? termina con HP:5763
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:382/382 BP:1
+B-Ochette - HP:4947/4947 SP:419/419 BP:1
+C-Throné - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Lightning Elemental - HP:2133/2133 Shields:4
+B-Dreadwolf - HP:7530/7530 Shields:9
+C-Mattias? - HP:5763/5780 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Ochette
+3.Dreadwolf
+4.Mattias?
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Therion
+3.Ochette
+4.Dreadwolf
+5.Mattias?
+6.Lightning Elemental
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:382/382 BP:1
+B-Ochette - HP:4947/4947 SP:419/419 BP:1
+C-Throné - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Lightning Elemental - HP:2133/2133 Shields:4
+B-Dreadwolf - HP:7530/7530 Shields:9
+C-Mattias? - HP:5763/5780 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Dreadwolf
+3.Mattias?
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Throné
+3.Ochette
+4.Dreadwolf
+5.Mattias?
+6.Lightning Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:382/382 BP:1
+B-Ochette - HP:4947/4947 SP:419/419 BP:1
+C-Throné - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Lightning Elemental - HP:2133/2133 Shields:4
+B-Dreadwolf - HP:7530/7530 Shields:9
+C-Mattias? - HP:5763/5780 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Mattias?
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Ochette
+3.Throné
+4.Dreadwolf
+5.Mattias?
+6.Lightning Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Ochette se defiende
+Ochette recibe 415 de daño físico
+Ochette termina con HP:4532
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:382/382 BP:1
+B-Ochette - HP:4532/4947 SP:419/419 BP:1
+C-Throné - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Lightning Elemental - HP:2133/2133 Shields:4
+B-Dreadwolf - HP:7530/7530 Shields:9
+C-Mattias? - HP:5763/5780 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Ochette
+3.Throné
+4.Dreadwolf
+5.Mattias?
+6.Lightning Elemental
+----------------------------------------
+Mattias? usa Black Gale
+Therion se defiende
+Therion recibe 358 de daño elemental
+Ochette se defiende
+Ochette recibe 355 de daño elemental
+Throné recibe 717 de daño elemental
+Therion termina con HP:4089
+Ochette termina con HP:4177
+Throné termina con HP:3730
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4089/4447 SP:382/382 BP:1
+B-Ochette - HP:4177/4947 SP:419/419 BP:1
+C-Throné - HP:3730/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Lightning Elemental - HP:2133/2133 Shields:4
+B-Dreadwolf - HP:7530/7530 Shields:9
+C-Mattias? - HP:5763/5780 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Ochette
+3.Throné
+4.Dreadwolf
+5.Mattias?
+6.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Therion se defiende
+Therion recibe 90 de daño elemental
+Therion termina con HP:3999
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3999/4447 SP:382/382 BP:2
+B-Ochette - HP:4177/4947 SP:419/419 BP:2
+C-Throné - HP:3730/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Lightning Elemental - HP:2133/2133 Shields:4
+B-Dreadwolf - HP:7530/7530 Shields:9
+C-Mattias? - HP:5763/5780 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Ochette
+3.Throné
+4.Dreadwolf
+5.Mattias?
+6.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Therion
+3.Ochette
+4.Dreadwolf
+5.Mattias?
+6.Lightning Elemental
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Lightning Elemental - HP:2133/2133 Shields:4
+2: Dreadwolf - HP:7530/7530 Shields:9
+3: Mattias? - HP:5763/5780 Shields:3
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Lightning Elemental recibe 144 de daño de tipo Dagger
+Lightning Elemental termina con HP:1989
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3999/4447 SP:382/382 BP:2
+B-Ochette - HP:4177/4947 SP:419/419 BP:2
+C-Throné - HP:3730/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Lightning Elemental - HP:1989/2133 Shields:4
+B-Dreadwolf - HP:7530/7530 Shields:9
+C-Mattias? - HP:5763/5780 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Throné
+3.Dreadwolf
+4.Mattias?
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Therion
+3.Ochette
+4.Dreadwolf
+5.Mattias?
+6.Lightning Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Revive
+2: Phoenix Storm
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Lightning Elemental - HP:1989/2133 Shields:4
+2: Dreadwolf - HP:7530/7530 Shields:9
+3: Mattias? - HP:5763/5780 Shields:3
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette usa Phoenix Storm
+Mattias? recibe 493 de daño de tipo Bow
+Mattias? termina con HP:5270
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3999/4447 SP:382/382 BP:2
+B-Ochette - HP:4177/4947 SP:384/419 BP:2
+C-Throné - HP:3730/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Lightning Elemental - HP:1989/2133 Shields:4
+B-Dreadwolf - HP:7530/7530 Shields:9
+C-Mattias? - HP:5270/5780 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Dreadwolf
+3.Mattias?
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Therion
+3.Ochette
+4.Dreadwolf
+5.Mattias?
+6.Lightning Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Lightning Elemental - HP:1989/2133 Shields:4
+2: Dreadwolf - HP:7530/7530 Shields:9
+3: Mattias? - HP:5270/5780 Shields:3
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné ataca
+Lightning Elemental recibe 170 de daño de tipo Sword
+Lightning Elemental termina con HP:1819
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3999/4447 SP:382/382 BP:2
+B-Ochette - HP:4177/4947 SP:384/419 BP:2
+C-Throné - HP:3730/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Lightning Elemental - HP:1819/2133 Shields:4
+B-Dreadwolf - HP:7530/7530 Shields:9
+C-Mattias? - HP:5270/5780 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Mattias?
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Therion
+3.Ochette
+4.Dreadwolf
+5.Mattias?
+6.Lightning Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Ochette recibe 831 de daño físico
+Ochette termina con HP:3346
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3999/4447 SP:382/382 BP:2
+B-Ochette - HP:3346/4947 SP:384/419 BP:2
+C-Throné - HP:3730/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Lightning Elemental - HP:1819/2133 Shields:4
+B-Dreadwolf - HP:7530/7530 Shields:9
+C-Mattias? - HP:5270/5780 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Therion
+3.Ochette
+4.Dreadwolf
+5.Mattias?
+6.Lightning Elemental
+----------------------------------------
+Mattias? usa Black Gale
+Therion recibe 717 de daño elemental
+Ochette recibe 710 de daño elemental
+Throné recibe 717 de daño elemental
+Therion termina con HP:3282
+Ochette termina con HP:2636
+Throné termina con HP:3013
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3282/4447 SP:382/382 BP:2
+B-Ochette - HP:2636/4947 SP:384/419 BP:2
+C-Throné - HP:3013/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Lightning Elemental - HP:1819/2133 Shields:4
+B-Dreadwolf - HP:7530/7530 Shields:9
+C-Mattias? - HP:5270/5780 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Therion
+3.Ochette
+4.Dreadwolf
+5.Mattias?
+6.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Therion recibe 180 de daño elemental
+Therion termina con HP:3102
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3102/4447 SP:382/382 BP:3
+B-Ochette - HP:2636/4947 SP:384/419 BP:3
+C-Throné - HP:3013/4447 SP:332/332 BP:3
+Equipo del enemigo
+A-Lightning Elemental - HP:1819/2133 Shields:4
+B-Dreadwolf - HP:7530/7530 Shields:9
+C-Mattias? - HP:5270/5780 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Therion
+3.Ochette
+4.Dreadwolf
+5.Mattias?
+6.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Therion
+3.Ochette
+4.Dreadwolf
+5.Mattias?
+6.Lightning Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Nightmare Chimera
+2: Heal Wounds
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné usa Heal Wounds
+Therion recupera 342 de vida
+Ochette recupera 342 de vida
+Throné recupera 342 de vida
+Therion termina con HP:3444
+Ochette termina con HP:2978
+Throné termina con HP:3355
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3444/4447 SP:382/382 BP:3
+B-Ochette - HP:2978/4947 SP:384/419 BP:3
+C-Throné - HP:3355/4447 SP:326/332 BP:3
+Equipo del enemigo
+A-Lightning Elemental - HP:1819/2133 Shields:4
+B-Dreadwolf - HP:7530/7530 Shields:9
+C-Mattias? - HP:5270/5780 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Ochette
+3.Dreadwolf
+4.Mattias?
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Therion
+3.Ochette
+4.Dreadwolf
+5.Mattias?
+6.Lightning Elemental
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Lightning Elemental - HP:1819/2133 Shields:4
+2: Dreadwolf - HP:7530/7530 Shields:9
+3: Mattias? - HP:5270/5780 Shields:3
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Mattias? recibe 0 de daño de tipo Sword con debilidad
+Mattias? termina con HP:5270
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3444/4447 SP:382/382 BP:3
+B-Ochette - HP:2978/4947 SP:384/419 BP:3
+C-Throné - HP:3355/4447 SP:326/332 BP:3
+Equipo del enemigo
+A-Lightning Elemental - HP:1819/2133 Shields:4
+B-Dreadwolf - HP:7530/7530 Shields:9
+C-Mattias? - HP:5270/5780 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Dreadwolf
+3.Mattias?
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Therion
+3.Ochette
+4.Dreadwolf
+5.Mattias?
+6.Lightning Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Lightning Elemental - HP:1819/2133 Shields:4
+2: Dreadwolf - HP:7530/7530 Shields:9
+3: Mattias? - HP:5270/5780 Shields:3
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette ataca
+Mattias? recibe 112 de daño de tipo Bow
+Mattias? termina con HP:5158
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3444/4447 SP:382/382 BP:3
+B-Ochette - HP:2978/4947 SP:384/419 BP:3
+C-Throné - HP:3355/4447 SP:326/332 BP:3
+Equipo del enemigo
+A-Lightning Elemental - HP:1819/2133 Shields:4
+B-Dreadwolf - HP:7530/7530 Shields:9
+C-Mattias? - HP:5158/5780 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Mattias?
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Therion
+3.Ochette
+4.Dreadwolf
+5.Mattias?
+6.Lightning Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Ochette recibe 831 de daño físico
+Ochette termina con HP:2147
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3444/4447 SP:382/382 BP:3
+B-Ochette - HP:2147/4947 SP:384/419 BP:3
+C-Throné - HP:3355/4447 SP:326/332 BP:3
+Equipo del enemigo
+A-Lightning Elemental - HP:1819/2133 Shields:4
+B-Dreadwolf - HP:7530/7530 Shields:9
+C-Mattias? - HP:5158/5780 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Therion
+3.Ochette
+4.Dreadwolf
+5.Mattias?
+6.Lightning Elemental
+----------------------------------------
+Mattias? usa Black Gale
+Therion recibe 717 de daño elemental
+Ochette recibe 710 de daño elemental
+Throné recibe 717 de daño elemental
+Therion termina con HP:2727
+Ochette termina con HP:1437
+Throné termina con HP:2638
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2727/4447 SP:382/382 BP:3
+B-Ochette - HP:1437/4947 SP:384/419 BP:3
+C-Throné - HP:2638/4447 SP:326/332 BP:3
+Equipo del enemigo
+A-Lightning Elemental - HP:1819/2133 Shields:4
+B-Dreadwolf - HP:7530/7530 Shields:9
+C-Mattias? - HP:5158/5780 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Therion
+3.Ochette
+4.Dreadwolf
+5.Mattias?
+6.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Therion recibe 180 de daño elemental
+Therion termina con HP:2547
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2547/4447 SP:382/382 BP:4
+B-Ochette - HP:1437/4947 SP:384/419 BP:4
+C-Throné - HP:2638/4447 SP:326/332 BP:4
+Equipo del enemigo
+A-Lightning Elemental - HP:1819/2133 Shields:4
+B-Dreadwolf - HP:7530/7530 Shields:9
+C-Mattias? - HP:5158/5780 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Therion
+3.Ochette
+4.Dreadwolf
+5.Mattias?
+6.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Therion
+3.Ochette
+4.Dreadwolf
+5.Mattias?
+6.Lightning Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Lightning Elemental - HP:1819/2133 Shields:4
+2: Dreadwolf - HP:7530/7530 Shields:9
+3: Mattias? - HP:5158/5780 Shields:3
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné ataca
+Dreadwolf recibe 53 de daño de tipo Dagger
+Dreadwolf termina con HP:7477
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2547/4447 SP:382/382 BP:4
+B-Ochette - HP:1437/4947 SP:384/419 BP:4
+C-Throné - HP:2638/4447 SP:326/332 BP:4
+Equipo del enemigo
+A-Lightning Elemental - HP:1819/2133 Shields:4
+B-Dreadwolf - HP:7477/7530 Shields:9
+C-Mattias? - HP:5158/5780 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Ochette
+3.Dreadwolf
+4.Mattias?
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Therion
+3.Ochette
+4.Dreadwolf
+5.Mattias?
+6.Lightning Elemental
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Lightning Elemental - HP:1819/2133 Shields:4
+2: Dreadwolf - HP:7477/7530 Shields:9
+3: Mattias? - HP:5158/5780 Shields:3
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Lightning Elemental recibe 144 de daño de tipo Dagger
+Lightning Elemental termina con HP:1675
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2547/4447 SP:382/382 BP:4
+B-Ochette - HP:1437/4947 SP:384/419 BP:4
+C-Throné - HP:2638/4447 SP:326/332 BP:4
+Equipo del enemigo
+A-Lightning Elemental - HP:1675/2133 Shields:4
+B-Dreadwolf - HP:7477/7530 Shields:9
+C-Mattias? - HP:5158/5780 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Dreadwolf
+3.Mattias?
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Therion
+3.Ochette
+4.Dreadwolf
+5.Mattias?
+6.Lightning Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2547/4447 SP:382/382 BP:4
+B-Ochette - HP:1437/4947 SP:384/419 BP:4
+C-Throné - HP:2638/4447 SP:326/332 BP:4
+Equipo del enemigo
+A-Lightning Elemental - HP:1675/2133 Shields:4
+B-Dreadwolf - HP:7477/7530 Shields:9
+C-Mattias? - HP:5158/5780 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Mattias?
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Throné
+3.Therion
+4.Dreadwolf
+5.Mattias?
+6.Lightning Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Ochette se defiende
+Ochette recibe 415 de daño físico
+Ochette termina con HP:1022
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2547/4447 SP:382/382 BP:4
+B-Ochette - HP:1022/4947 SP:384/419 BP:4
+C-Throné - HP:2638/4447 SP:326/332 BP:4
+Equipo del enemigo
+A-Lightning Elemental - HP:1675/2133 Shields:4
+B-Dreadwolf - HP:7477/7530 Shields:9
+C-Mattias? - HP:5158/5780 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Throné
+3.Therion
+4.Dreadwolf
+5.Mattias?
+6.Lightning Elemental
+----------------------------------------
+Mattias? usa Black Gale
+Therion recibe 717 de daño elemental
+Ochette se defiende
+Ochette recibe 355 de daño elemental
+Throné recibe 717 de daño elemental
+Therion termina con HP:1830
+Ochette termina con HP:667
+Throné termina con HP:1921
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:1830/4447 SP:382/382 BP:4
+B-Ochette - HP:667/4947 SP:384/419 BP:4
+C-Throné - HP:1921/4447 SP:326/332 BP:4
+Equipo del enemigo
+A-Lightning Elemental - HP:1675/2133 Shields:4
+B-Dreadwolf - HP:7477/7530 Shields:9
+C-Mattias? - HP:5158/5780 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Throné
+3.Therion
+4.Dreadwolf
+5.Mattias?
+6.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Therion recibe 180 de daño elemental
+Therion termina con HP:1650
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:1650/4447 SP:382/382 BP:5
+B-Ochette - HP:667/4947 SP:384/419 BP:5
+C-Throné - HP:1921/4447 SP:326/332 BP:5
+Equipo del enemigo
+A-Lightning Elemental - HP:1675/2133 Shields:4
+B-Dreadwolf - HP:7477/7530 Shields:9
+C-Mattias? - HP:5158/5780 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Throné
+3.Therion
+4.Dreadwolf
+5.Mattias?
+6.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Therion
+3.Ochette
+4.Dreadwolf
+5.Mattias?
+6.Lightning Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Lightning Elemental - HP:1675/2133 Shields:4
+2: Dreadwolf - HP:7477/7530 Shields:9
+3: Mattias? - HP:5158/5780 Shields:3
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette ataca
+Dreadwolf recibe 154 de daño de tipo Bow
+Dreadwolf termina con HP:7323
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:1650/4447 SP:382/382 BP:5
+B-Ochette - HP:667/4947 SP:384/419 BP:5
+C-Throné - HP:1921/4447 SP:326/332 BP:5
+Equipo del enemigo
+A-Lightning Elemental - HP:1675/2133 Shields:4
+B-Dreadwolf - HP:7323/7530 Shields:9
+C-Mattias? - HP:5158/5780 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Therion
+3.Dreadwolf
+4.Mattias?
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Therion
+3.Ochette
+4.Dreadwolf
+5.Mattias?
+6.Lightning Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:1650/4447 SP:382/382 BP:5
+B-Ochette - HP:667/4947 SP:384/419 BP:5
+C-Throné - HP:1921/4447 SP:326/332 BP:5
+Equipo del enemigo
+A-Lightning Elemental - HP:1675/2133 Shields:4
+B-Dreadwolf - HP:7323/7530 Shields:9
+C-Mattias? - HP:5158/5780 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Dreadwolf
+3.Mattias?
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Therion
+3.Ochette
+4.Dreadwolf
+5.Mattias?
+6.Lightning Elemental
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Lightning Elemental - HP:1675/2133 Shields:4
+2: Dreadwolf - HP:7323/7530 Shields:9
+3: Mattias? - HP:5158/5780 Shields:3
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Mattias? recibe 0 de daño de tipo Dagger
+Mattias? termina con HP:5158
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:1650/4447 SP:382/382 BP:5
+B-Ochette - HP:667/4947 SP:384/419 BP:5
+C-Throné - HP:1921/4447 SP:326/332 BP:5
+Equipo del enemigo
+A-Lightning Elemental - HP:1675/2133 Shields:4
+B-Dreadwolf - HP:7323/7530 Shields:9
+C-Mattias? - HP:5158/5780 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Mattias?
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Therion
+3.Ochette
+4.Dreadwolf
+5.Mattias?
+6.Lightning Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Ochette recibe 831 de daño físico
+Ochette termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:1650/4447 SP:382/382 BP:5
+B-Ochette - HP:0/4947 SP:384/419 BP:5
+C-Throné - HP:1921/4447 SP:326/332 BP:5
+Equipo del enemigo
+A-Lightning Elemental - HP:1675/2133 Shields:4
+B-Dreadwolf - HP:7323/7530 Shields:9
+C-Mattias? - HP:5158/5780 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Therion
+3.Dreadwolf
+4.Mattias?
+5.Lightning Elemental
+----------------------------------------
+Mattias? usa Black Gale
+Therion recibe 717 de daño elemental
+Throné se defiende
+Throné recibe 358 de daño elemental
+Therion termina con HP:933
+Throné termina con HP:1563
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:933/4447 SP:382/382 BP:5
+B-Ochette - HP:0/4947 SP:384/419 BP:5
+C-Throné - HP:1563/4447 SP:326/332 BP:5
+Equipo del enemigo
+A-Lightning Elemental - HP:1675/2133 Shields:4
+B-Dreadwolf - HP:7323/7530 Shields:9
+C-Mattias? - HP:5158/5780 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Therion
+3.Dreadwolf
+4.Mattias?
+5.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Therion recibe 180 de daño elemental
+Therion termina con HP:753
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:753/4447 SP:382/382 BP:5
+B-Ochette - HP:0/4947 SP:384/419 BP:5
+C-Throné - HP:1563/4447 SP:326/332 BP:5
+Equipo del enemigo
+A-Lightning Elemental - HP:1675/2133 Shields:4
+B-Dreadwolf - HP:7323/7530 Shields:9
+C-Mattias? - HP:5158/5780 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Therion
+3.Dreadwolf
+4.Mattias?
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Therion
+3.Dreadwolf
+4.Mattias?
+5.Lightning Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Nightmare Chimera
+2: Heal Wounds
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné usa Heal Wounds
+Therion recupera 342 de vida
+Throné recupera 342 de vida
+Therion termina con HP:1095
+Throné termina con HP:1905
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:1095/4447 SP:382/382 BP:5
+B-Ochette - HP:0/4947 SP:384/419 BP:5
+C-Throné - HP:1905/4447 SP:320/332 BP:5
+Equipo del enemigo
+A-Lightning Elemental - HP:1675/2133 Shields:4
+B-Dreadwolf - HP:7323/7530 Shields:9
+C-Mattias? - HP:5158/5780 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Dreadwolf
+3.Mattias?
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Therion
+3.Dreadwolf
+4.Mattias?
+5.Lightning Elemental
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Qilin's Horn
+2: Holy Light
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Lightning Elemental - HP:1675/2133 Shields:4
+2: Dreadwolf - HP:7323/7530 Shields:9
+3: Mattias? - HP:5158/5780 Shields:3
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Qilin's Horn
+Mattias? recibe 287 de daño de tipo Spear
+Mattias? termina con HP:4871
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:1095/4447 SP:347/382 BP:5
+B-Ochette - HP:0/4947 SP:384/419 BP:5
+C-Throné - HP:1905/4447 SP:320/332 BP:5
+Equipo del enemigo
+A-Lightning Elemental - HP:1675/2133 Shields:4
+B-Dreadwolf - HP:7323/7530 Shields:9
+C-Mattias? - HP:4871/5780 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Mattias?
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Therion
+3.Dreadwolf
+4.Mattias?
+5.Lightning Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Throné recibe 807 de daño físico
+Throné termina con HP:1098
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:1095/4447 SP:347/382 BP:5
+B-Ochette - HP:0/4947 SP:384/419 BP:5
+C-Throné - HP:1098/4447 SP:320/332 BP:5
+Equipo del enemigo
+A-Lightning Elemental - HP:1675/2133 Shields:4
+B-Dreadwolf - HP:7323/7530 Shields:9
+C-Mattias? - HP:4871/5780 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Therion
+3.Dreadwolf
+4.Mattias?
+5.Lightning Elemental
+----------------------------------------
+Mattias? usa Black Gale
+Therion recibe 717 de daño elemental
+Throné recibe 717 de daño elemental
+Therion termina con HP:378
+Throné termina con HP:381
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:378/4447 SP:347/382 BP:5
+B-Ochette - HP:0/4947 SP:384/419 BP:5
+C-Throné - HP:381/4447 SP:320/332 BP:5
+Equipo del enemigo
+A-Lightning Elemental - HP:1675/2133 Shields:4
+B-Dreadwolf - HP:7323/7530 Shields:9
+C-Mattias? - HP:4871/5780 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Therion
+3.Dreadwolf
+4.Mattias?
+5.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Therion recibe 180 de daño elemental
+Therion termina con HP:198
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:198/4447 SP:347/382 BP:5
+B-Ochette - HP:0/4947 SP:384/419 BP:5
+C-Throné - HP:381/4447 SP:320/332 BP:5
+Equipo del enemigo
+A-Lightning Elemental - HP:1675/2133 Shields:4
+B-Dreadwolf - HP:7323/7530 Shields:9
+C-Mattias? - HP:4871/5780 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Therion
+3.Dreadwolf
+4.Mattias?
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Therion
+3.Dreadwolf
+4.Mattias?
+5.Lightning Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:198/4447 SP:347/382 BP:5
+B-Ochette - HP:0/4947 SP:384/419 BP:5
+C-Throné - HP:381/4447 SP:320/332 BP:5
+Equipo del enemigo
+A-Lightning Elemental - HP:1675/2133 Shields:4
+B-Dreadwolf - HP:7323/7530 Shields:9
+C-Mattias? - HP:4871/5780 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Dreadwolf
+3.Mattias?
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Therion
+3.Dreadwolf
+4.Mattias?
+5.Lightning Elemental
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:198/4447 SP:347/382 BP:5
+B-Ochette - HP:0/4947 SP:384/419 BP:5
+C-Throné - HP:381/4447 SP:320/332 BP:5
+Equipo del enemigo
+A-Lightning Elemental - HP:1675/2133 Shields:4
+B-Dreadwolf - HP:7323/7530 Shields:9
+C-Mattias? - HP:4871/5780 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Mattias?
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Therion
+3.Dreadwolf
+4.Mattias?
+5.Lightning Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Throné se defiende
+Throné recibe 403 de daño físico
+Throné termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:198/4447 SP:347/382 BP:5
+B-Ochette - HP:0/4947 SP:384/419 BP:5
+C-Throné - HP:0/4447 SP:320/332 BP:5
+Equipo del enemigo
+A-Lightning Elemental - HP:1675/2133 Shields:4
+B-Dreadwolf - HP:7323/7530 Shields:9
+C-Mattias? - HP:4871/5780 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Dreadwolf
+3.Mattias?
+4.Lightning Elemental
+----------------------------------------
+Mattias? usa Black Gale
+Therion se defiende
+Therion recibe 358 de daño elemental
+Therion termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

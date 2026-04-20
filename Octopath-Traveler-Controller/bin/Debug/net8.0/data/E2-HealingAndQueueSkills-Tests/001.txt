@@ -1,0 +1,692 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+INPUT: 0
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Ophilia - HP:4002/4002 SP:470/470 BP:1
+C-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Withered Wanderweed - HP:2314/2314 Shields:1
+B-Mossy Meep - HP:1060/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ophilia
+3.Cyrus
+4.Withered Wanderweed
+5.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Cyrus
+4.Withered Wanderweed
+5.Mossy Meep
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Withered Wanderweed - HP:2314/2314 Shields:1
+2: Mossy Meep - HP:1060/1060 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Withered Wanderweed recibe 30 de daño de tipo Dagger
+Withered Wanderweed termina con HP:2284
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Ophilia - HP:4002/4002 SP:470/470 BP:1
+C-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Withered Wanderweed - HP:2284/2314 Shields:1
+B-Mossy Meep - HP:1060/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Cyrus
+3.Withered Wanderweed
+4.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Cyrus
+4.Withered Wanderweed
+5.Mossy Meep
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Withered Wanderweed - HP:2284/2314 Shields:1
+2: Mossy Meep - HP:1060/1060 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Withered Wanderweed recibe 44 de daño de tipo Stave
+Withered Wanderweed termina con HP:2240
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Ophilia - HP:4002/4002 SP:470/470 BP:1
+C-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Withered Wanderweed - HP:2240/2314 Shields:1
+B-Mossy Meep - HP:1060/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Withered Wanderweed
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Cyrus
+4.Withered Wanderweed
+5.Mossy Meep
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Withered Wanderweed - HP:2240/2314 Shields:1
+2: Mossy Meep - HP:1060/1060 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Mossy Meep recibe 0 de daño de tipo Stave con debilidad
+Mossy Meep termina con HP:1060
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Ophilia - HP:4002/4002 SP:470/470 BP:1
+C-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Withered Wanderweed - HP:2240/2314 Shields:1
+B-Mossy Meep - HP:1060/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Withered Wanderweed
+2.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Cyrus
+4.Withered Wanderweed
+5.Mossy Meep
+----------------------------------------
+Withered Wanderweed usa Attack
+Primrose recibe 165 de daño físico
+Primrose termina con HP:3837
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3837/4002 SP:504/504 BP:1
+B-Ophilia - HP:4002/4002 SP:470/470 BP:1
+C-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Withered Wanderweed - HP:2240/2314 Shields:1
+B-Mossy Meep - HP:1060/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Cyrus
+4.Withered Wanderweed
+5.Mossy Meep
+----------------------------------------
+Mossy Meep usa Attack
+Ophilia recibe 243 de daño físico
+Ophilia termina con HP:3759
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3837/4002 SP:504/504 BP:2
+B-Ophilia - HP:3759/4002 SP:470/470 BP:2
+C-Cyrus - HP:3557/3557 SP:582/582 BP:2
+Equipo del enemigo
+A-Withered Wanderweed - HP:2240/2314 Shields:1
+B-Mossy Meep - HP:1060/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ophilia
+3.Cyrus
+4.Withered Wanderweed
+5.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Cyrus
+4.Withered Wanderweed
+5.Mossy Meep
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Withered Wanderweed - HP:2240/2314 Shields:1
+2: Mossy Meep - HP:1060/1060 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Withered Wanderweed recibe 30 de daño de tipo Dagger
+Withered Wanderweed termina con HP:2210
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3837/4002 SP:504/504 BP:2
+B-Ophilia - HP:3759/4002 SP:470/470 BP:2
+C-Cyrus - HP:3557/3557 SP:582/582 BP:2
+Equipo del enemigo
+A-Withered Wanderweed - HP:2210/2314 Shields:1
+B-Mossy Meep - HP:1060/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Cyrus
+3.Withered Wanderweed
+4.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Cyrus
+4.Withered Wanderweed
+5.Mossy Meep
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Withered Wanderweed - HP:2210/2314 Shields:1
+2: Mossy Meep - HP:1060/1060 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Withered Wanderweed recibe 44 de daño de tipo Stave
+Withered Wanderweed termina con HP:2166
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3837/4002 SP:504/504 BP:2
+B-Ophilia - HP:3759/4002 SP:470/470 BP:2
+C-Cyrus - HP:3557/3557 SP:582/582 BP:2
+Equipo del enemigo
+A-Withered Wanderweed - HP:2166/2314 Shields:1
+B-Mossy Meep - HP:1060/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Withered Wanderweed
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Cyrus
+4.Withered Wanderweed
+5.Mossy Meep
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Withered Wanderweed - HP:2166/2314 Shields:1
+2: Mossy Meep - HP:1060/1060 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Withered Wanderweed recibe 24 de daño de tipo Stave
+Withered Wanderweed termina con HP:2142
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3837/4002 SP:504/504 BP:2
+B-Ophilia - HP:3759/4002 SP:470/470 BP:2
+C-Cyrus - HP:3557/3557 SP:582/582 BP:2
+Equipo del enemigo
+A-Withered Wanderweed - HP:2142/2314 Shields:1
+B-Mossy Meep - HP:1060/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Withered Wanderweed
+2.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Cyrus
+4.Withered Wanderweed
+5.Mossy Meep
+----------------------------------------
+Withered Wanderweed usa Attack
+Primrose recibe 165 de daño físico
+Primrose termina con HP:3672
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3672/4002 SP:504/504 BP:2
+B-Ophilia - HP:3759/4002 SP:470/470 BP:2
+C-Cyrus - HP:3557/3557 SP:582/582 BP:2
+Equipo del enemigo
+A-Withered Wanderweed - HP:2142/2314 Shields:1
+B-Mossy Meep - HP:1060/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Cyrus
+4.Withered Wanderweed
+5.Mossy Meep
+----------------------------------------
+Mossy Meep usa Attack
+Ophilia recibe 243 de daño físico
+Ophilia termina con HP:3516
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3672/4002 SP:504/504 BP:3
+B-Ophilia - HP:3516/4002 SP:470/470 BP:3
+C-Cyrus - HP:3557/3557 SP:582/582 BP:3
+Equipo del enemigo
+A-Withered Wanderweed - HP:2142/2314 Shields:1
+B-Mossy Meep - HP:1060/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ophilia
+3.Cyrus
+4.Withered Wanderweed
+5.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Cyrus
+4.Withered Wanderweed
+5.Mossy Meep
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Withered Wanderweed - HP:2142/2314 Shields:1
+2: Mossy Meep - HP:1060/1060 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Mossy Meep recibe 0 de daño de tipo Dagger
+Mossy Meep termina con HP:1060
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3672/4002 SP:504/504 BP:3
+B-Ophilia - HP:3516/4002 SP:470/470 BP:3
+C-Cyrus - HP:3557/3557 SP:582/582 BP:3
+Equipo del enemigo
+A-Withered Wanderweed - HP:2142/2314 Shields:1
+B-Mossy Meep - HP:1060/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Cyrus
+3.Withered Wanderweed
+4.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Cyrus
+4.Withered Wanderweed
+5.Mossy Meep
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Withered Wanderweed - HP:2142/2314 Shields:1
+2: Mossy Meep - HP:1060/1060 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Withered Wanderweed recibe 44 de daño de tipo Stave
+Withered Wanderweed termina con HP:2098
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3672/4002 SP:504/504 BP:3
+B-Ophilia - HP:3516/4002 SP:470/470 BP:3
+C-Cyrus - HP:3557/3557 SP:582/582 BP:3
+Equipo del enemigo
+A-Withered Wanderweed - HP:2098/2314 Shields:1
+B-Mossy Meep - HP:1060/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Withered Wanderweed
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Cyrus
+4.Withered Wanderweed
+5.Mossy Meep
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Withered Wanderweed - HP:2098/2314 Shields:1
+2: Mossy Meep - HP:1060/1060 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Mossy Meep recibe 0 de daño de tipo Stave con debilidad
+Mossy Meep termina con HP:1060
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3672/4002 SP:504/504 BP:3
+B-Ophilia - HP:3516/4002 SP:470/470 BP:3
+C-Cyrus - HP:3557/3557 SP:582/582 BP:3
+Equipo del enemigo
+A-Withered Wanderweed - HP:2098/2314 Shields:1
+B-Mossy Meep - HP:1060/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Withered Wanderweed
+2.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Cyrus
+4.Withered Wanderweed
+5.Mossy Meep
+----------------------------------------
+Withered Wanderweed usa Attack
+Primrose recibe 165 de daño físico
+Primrose termina con HP:3507
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3507/4002 SP:504/504 BP:3
+B-Ophilia - HP:3516/4002 SP:470/470 BP:3
+C-Cyrus - HP:3557/3557 SP:582/582 BP:3
+Equipo del enemigo
+A-Withered Wanderweed - HP:2098/2314 Shields:1
+B-Mossy Meep - HP:1060/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Cyrus
+4.Withered Wanderweed
+5.Mossy Meep
+----------------------------------------
+Mossy Meep usa Attack
+Cyrus recibe 254 de daño físico
+Cyrus termina con HP:3303
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3507/4002 SP:504/504 BP:4
+B-Ophilia - HP:3516/4002 SP:470/470 BP:4
+C-Cyrus - HP:3303/3557 SP:582/582 BP:4
+Equipo del enemigo
+A-Withered Wanderweed - HP:2098/2314 Shields:1
+B-Mossy Meep - HP:1060/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ophilia
+3.Cyrus
+4.Withered Wanderweed
+5.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Cyrus
+4.Withered Wanderweed
+5.Mossy Meep
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Withered Wanderweed - HP:2098/2314 Shields:1
+2: Mossy Meep - HP:1060/1060 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Withered Wanderweed recibe 30 de daño de tipo Dagger
+Withered Wanderweed termina con HP:2068
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3507/4002 SP:504/504 BP:4
+B-Ophilia - HP:3516/4002 SP:470/470 BP:4
+C-Cyrus - HP:3303/3557 SP:582/582 BP:4
+Equipo del enemigo
+A-Withered Wanderweed - HP:2068/2314 Shields:1
+B-Mossy Meep - HP:1060/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Cyrus
+3.Withered Wanderweed
+4.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Cyrus
+4.Withered Wanderweed
+5.Mossy Meep
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Heal Wounds
+Primrose recupera 598 de vida
+Cyrus recupera 598 de vida
+Ophilia recupera 598 de vida
+Primrose termina con HP:4002
+Cyrus termina con HP:3557
+Ophilia termina con HP:4002
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:4
+B-Ophilia - HP:4002/4002 SP:464/470 BP:4
+C-Cyrus - HP:3557/3557 SP:582/582 BP:4
+Equipo del enemigo
+A-Withered Wanderweed - HP:2068/2314 Shields:1
+B-Mossy Meep - HP:1060/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Withered Wanderweed
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Cyrus
+4.Withered Wanderweed
+5.Mossy Meep
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo

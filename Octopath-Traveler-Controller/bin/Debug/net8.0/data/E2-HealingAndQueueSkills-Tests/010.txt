@@ -1,0 +1,547 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+INPUT: 9
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Primrose - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Wolf - HP:1577/1577 Shields:2
+B-High Wolf - HP:1458/1458 Shields:2
+C-Cait - HP:500/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Primrose
+3.Wolf
+4.High Wolf
+5.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Primrose
+3.Wolf
+4.High Wolf
+5.Olberic
+----------------------------------------
+Cait usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:5781
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Primrose - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Wolf - HP:1577/1577 Shields:2
+B-High Wolf - HP:1458/1458 Shields:2
+C-Cait - HP:500/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Wolf
+3.High Wolf
+4.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Primrose
+3.Wolf
+4.High Wolf
+5.Olberic
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Spearhead
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Wolf - HP:1577/1577 Shields:2
+2: High Wolf - HP:1458/1458 Shields:2
+3: Cait - HP:500/500 Shields:2
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Spearhead
+High Wolf recibe 164 de daño de tipo Spear
+High Wolf termina con HP:1294
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Primrose - HP:4002/4002 SP:498/504 BP:1
+Equipo del enemigo
+A-Wolf - HP:1577/1577 Shields:2
+B-High Wolf - HP:1294/1458 Shields:2
+C-Cait - HP:500/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Wolf
+2.High Wolf
+3.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cait
+3.Wolf
+4.High Wolf
+5.Olberic
+----------------------------------------
+Wolf usa Attack
+Olberic recibe 67 de daño físico
+Olberic termina con HP:5714
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5714/5781 SP:291/291 BP:1
+B-Primrose - HP:4002/4002 SP:498/504 BP:1
+Equipo del enemigo
+A-Wolf - HP:1577/1577 Shields:2
+B-High Wolf - HP:1294/1458 Shields:2
+C-Cait - HP:500/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.High Wolf
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cait
+3.Wolf
+4.High Wolf
+5.Olberic
+----------------------------------------
+High Wolf usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:5714
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5714/5781 SP:291/291 BP:1
+B-Primrose - HP:4002/4002 SP:498/504 BP:1
+Equipo del enemigo
+A-Wolf - HP:1577/1577 Shields:2
+B-High Wolf - HP:1294/1458 Shields:2
+C-Cait - HP:500/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cait
+3.Wolf
+4.High Wolf
+5.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Spearhead
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Wolf - HP:1577/1577 Shields:2
+2: High Wolf - HP:1294/1458 Shields:2
+3: Cait - HP:500/500 Shields:2
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Spearhead
+High Wolf recibe 455 de daño de tipo Spear
+High Wolf termina con HP:839
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5714/5781 SP:285/291 BP:2
+B-Primrose - HP:4002/4002 SP:498/504 BP:2
+Equipo del enemigo
+A-Wolf - HP:1577/1577 Shields:2
+B-High Wolf - HP:839/1458 Shields:2
+C-Cait - HP:500/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Olberic
+3.Cait
+4.Wolf
+5.High Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Primrose
+3.Wolf
+4.High Wolf
+5.Olberic
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Spearhead
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Wolf - HP:1577/1577 Shields:2
+2: High Wolf - HP:839/1458 Shields:2
+3: Cait - HP:500/500 Shields:2
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Spearhead
+Wolf recibe 129 de daño de tipo Spear
+Wolf termina con HP:1448
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5714/5781 SP:285/291 BP:2
+B-Primrose - HP:4002/4002 SP:492/504 BP:2
+Equipo del enemigo
+A-Wolf - HP:1448/1577 Shields:2
+B-High Wolf - HP:839/1458 Shields:2
+C-Cait - HP:500/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Cait
+3.Wolf
+4.High Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cait
+3.Wolf
+4.High Wolf
+5.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Spearhead
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Wolf - HP:1448/1577 Shields:2
+2: High Wolf - HP:839/1458 Shields:2
+3: Cait - HP:500/500 Shields:2
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Spearhead
+Wolf recibe 420 de daño de tipo Spear
+Wolf termina con HP:1028
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5714/5781 SP:279/291 BP:2
+B-Primrose - HP:4002/4002 SP:492/504 BP:2
+Equipo del enemigo
+A-Wolf - HP:1028/1577 Shields:2
+B-High Wolf - HP:839/1458 Shields:2
+C-Cait - HP:500/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Wolf
+3.High Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Cait
+4.Wolf
+5.High Wolf
+----------------------------------------
+Cait usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:5714
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5714/5781 SP:279/291 BP:2
+B-Primrose - HP:4002/4002 SP:492/504 BP:2
+Equipo del enemigo
+A-Wolf - HP:1028/1577 Shields:2
+B-High Wolf - HP:839/1458 Shields:2
+C-Cait - HP:500/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Wolf
+2.High Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Cait
+4.Wolf
+5.High Wolf
+----------------------------------------
+Wolf usa Attack
+Olberic recibe 67 de daño físico
+Olberic termina con HP:5647
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5647/5781 SP:279/291 BP:2
+B-Primrose - HP:4002/4002 SP:492/504 BP:2
+Equipo del enemigo
+A-Wolf - HP:1028/1577 Shields:2
+B-High Wolf - HP:839/1458 Shields:2
+C-Cait - HP:500/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.High Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Cait
+4.Wolf
+5.High Wolf
+----------------------------------------
+High Wolf usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:5647
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5647/5781 SP:279/291 BP:3
+B-Primrose - HP:4002/4002 SP:492/504 BP:3
+Equipo del enemigo
+A-Wolf - HP:1028/1577 Shields:2
+B-High Wolf - HP:839/1458 Shields:2
+C-Cait - HP:500/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Olberic
+3.Cait
+4.Wolf
+5.High Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Primrose
+3.Wolf
+4.High Wolf
+5.Olberic
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Spearhead
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Wolf - HP:1028/1577 Shields:2
+2: High Wolf - HP:839/1458 Shields:2
+3: Cait - HP:500/500 Shields:2
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Spearhead
+Wolf recibe 129 de daño de tipo Spear
+Wolf termina con HP:899
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5647/5781 SP:279/291 BP:3
+B-Primrose - HP:4002/4002 SP:486/504 BP:3
+Equipo del enemigo
+A-Wolf - HP:899/1577 Shields:2
+B-High Wolf - HP:839/1458 Shields:2
+C-Cait - HP:500/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Cait
+3.Wolf
+4.High Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cait
+3.Wolf
+4.High Wolf
+5.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Wolf - HP:899/1577 Shields:2
+2: High Wolf - HP:839/1458 Shields:2
+3: Cait - HP:500/500 Shields:2
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+High Wolf recibe 368 de daño de tipo Sword
+High Wolf termina con HP:471
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5647/5781 SP:279/291 BP:3
+B-Primrose - HP:4002/4002 SP:486/504 BP:3
+Equipo del enemigo
+A-Wolf - HP:899/1577 Shields:2
+B-High Wolf - HP:471/1458 Shields:2
+C-Cait - HP:500/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Wolf
+3.High Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cait
+3.Wolf
+4.High Wolf
+5.Olberic
+----------------------------------------
+Cait usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:5647
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5647/5781 SP:279/291 BP:3
+B-Primrose - HP:4002/4002 SP:486/504 BP:3
+Equipo del enemigo
+A-Wolf - HP:899/1577 Shields:2
+B-High Wolf - HP:471/1458 Shields:2
+C-Cait - HP:500/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Wolf
+2.High Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cait
+3.Wolf
+4.High Wolf
+5.Olberic
+----------------------------------------
+Wolf usa Attack
+Olberic recibe 67 de daño físico
+Olberic termina con HP:5580
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5580/5781 SP:279/291 BP:3
+B-Primrose - HP:4002/4002 SP:486/504 BP:3
+Equipo del enemigo
+A-Wolf - HP:899/1577 Shields:2
+B-High Wolf - HP:471/1458 Shields:2
+C-Cait - HP:500/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.High Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cait
+3.Wolf
+4.High Wolf
+5.Olberic
+----------------------------------------
+High Wolf usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:5580
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5580/5781 SP:279/291 BP:4
+B-Primrose - HP:4002/4002 SP:486/504 BP:4
+Equipo del enemigo
+A-Wolf - HP:899/1577 Shields:2
+B-High Wolf - HP:471/1458 Shields:2
+C-Cait - HP:500/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Cait
+3.Wolf
+4.High Wolf
+5.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Primrose
+3.Wolf
+4.High Wolf
+5.Olberic
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo

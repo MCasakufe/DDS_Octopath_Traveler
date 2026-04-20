@@ -1,0 +1,2345 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+INPUT: 0
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:1
+C-H'aanit - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Lord of the Flies - HP:5590/5590 Shields:3
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Lord of the Flies - HP:5590/5590 Shields:3
+2: Meep - HP:1016/1016 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Lord of the Flies recibe 6 de daño de tipo Dagger
+Lord of the Flies termina con HP:5584
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:1
+C-H'aanit - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Lord of the Flies - HP:5584/5590 Shields:3
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.H'aanit
+3.Meep
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Lord of the Flies - HP:5584/5590 Shields:3
+2: Meep - HP:1016/1016 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Meep recibe 0 de daño de tipo Dagger
+Meep termina con HP:1016
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:1
+C-H'aanit - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Lord of the Flies - HP:5584/5590 Shields:3
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Meep
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Lord of the Flies - HP:5584/5590 Shields:3
+2: Meep - HP:1016/1016 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Lord of the Flies recibe 19 de daño de tipo Axe
+Lord of the Flies termina con HP:5565
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:1
+C-H'aanit - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Meep usa Attack
+Therion recibe 263 de daño físico
+Therion termina con HP:4184
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Therion - HP:4184/4447 SP:332/332 BP:1
+C-H'aanit - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Primrose recibe 360 de daño físico
+Primrose termina con HP:3642
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3642/4002 SP:504/504 BP:2
+B-Therion - HP:4184/4447 SP:332/332 BP:2
+C-H'aanit - HP:4447/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Lord of the Flies - HP:5565/5590 Shields:3
+2: Meep - HP:1016/1016 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Meep recibe 59 de daño de tipo Dagger
+Meep termina con HP:957
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3642/4002 SP:504/504 BP:2
+B-Therion - HP:4184/4447 SP:332/332 BP:2
+C-H'aanit - HP:4447/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:957/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.H'aanit
+3.Meep
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Lord of the Flies - HP:5565/5590 Shields:3
+2: Meep - HP:957/1016 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies termina con HP:5565
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3642/4002 SP:504/504 BP:2
+B-Therion - HP:4184/4447 SP:332/332 BP:2
+C-H'aanit - HP:4447/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:957/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Meep
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Lord of the Flies - HP:5565/5590 Shields:3
+2: Meep - HP:957/1016 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Meep recibe 72 de daño de tipo Axe
+Meep termina con HP:885
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3642/4002 SP:504/504 BP:2
+B-Therion - HP:4184/4447 SP:332/332 BP:2
+C-H'aanit - HP:4447/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:885/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Meep usa Attack
+H'aanit recibe 287 de daño físico
+H'aanit termina con HP:4160
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3642/4002 SP:504/504 BP:2
+B-Therion - HP:4184/4447 SP:332/332 BP:2
+C-H'aanit - HP:4160/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:885/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Primrose recibe 360 de daño físico
+Primrose termina con HP:3282
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3282/4002 SP:504/504 BP:3
+B-Therion - HP:4184/4447 SP:332/332 BP:3
+C-H'aanit - HP:4160/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:885/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Lord of the Flies - HP:5565/5590 Shields:3
+2: Meep - HP:885/1016 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Meep recibe 59 de daño de tipo Dagger
+Meep termina con HP:826
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3282/4002 SP:504/504 BP:3
+B-Therion - HP:4184/4447 SP:332/332 BP:3
+C-H'aanit - HP:4160/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:826/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.H'aanit
+3.Meep
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Lord of the Flies - HP:5565/5590 Shields:3
+2: Meep - HP:826/1016 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies termina con HP:5565
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3282/4002 SP:504/504 BP:3
+B-Therion - HP:4184/4447 SP:332/332 BP:3
+C-H'aanit - HP:4160/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:826/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Meep
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Lord of the Flies - HP:5565/5590 Shields:3
+2: Meep - HP:826/1016 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Meep recibe 72 de daño de tipo Axe
+Meep termina con HP:754
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3282/4002 SP:504/504 BP:3
+B-Therion - HP:4184/4447 SP:332/332 BP:3
+C-H'aanit - HP:4160/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:754/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Meep usa Attack
+Therion recibe 263 de daño físico
+Therion termina con HP:3921
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3282/4002 SP:504/504 BP:3
+B-Therion - HP:3921/4447 SP:332/332 BP:3
+C-H'aanit - HP:4160/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:754/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Primrose recibe 360 de daño físico
+Primrose termina con HP:2922
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2922/4002 SP:504/504 BP:4
+B-Therion - HP:3921/4447 SP:332/332 BP:4
+C-H'aanit - HP:4160/4447 SP:369/369 BP:4
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:754/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Lord of the Flies - HP:5565/5590 Shields:3
+2: Meep - HP:754/1016 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Meep recibe 59 de daño de tipo Dagger
+Meep termina con HP:695
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2922/4002 SP:504/504 BP:4
+B-Therion - HP:3921/4447 SP:332/332 BP:4
+C-H'aanit - HP:4160/4447 SP:369/369 BP:4
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:695/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.H'aanit
+3.Meep
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Lord of the Flies - HP:5565/5590 Shields:3
+2: Meep - HP:695/1016 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies termina con HP:5565
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2922/4002 SP:504/504 BP:4
+B-Therion - HP:3921/4447 SP:332/332 BP:4
+C-H'aanit - HP:4160/4447 SP:369/369 BP:4
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:695/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Meep
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Lord of the Flies - HP:5565/5590 Shields:3
+2: Meep - HP:695/1016 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Meep recibe 72 de daño de tipo Axe
+Meep termina con HP:623
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2922/4002 SP:504/504 BP:4
+B-Therion - HP:3921/4447 SP:332/332 BP:4
+C-H'aanit - HP:4160/4447 SP:369/369 BP:4
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:623/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Meep usa Attack
+H'aanit recibe 287 de daño físico
+H'aanit termina con HP:3873
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2922/4002 SP:504/504 BP:4
+B-Therion - HP:3921/4447 SP:332/332 BP:4
+C-H'aanit - HP:3873/4447 SP:369/369 BP:4
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:623/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Primrose recibe 360 de daño físico
+Primrose termina con HP:2562
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2562/4002 SP:504/504 BP:5
+B-Therion - HP:3921/4447 SP:332/332 BP:5
+C-H'aanit - HP:3873/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:623/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Lord of the Flies - HP:5565/5590 Shields:3
+2: Meep - HP:623/1016 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Meep recibe 59 de daño de tipo Dagger
+Meep termina con HP:564
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2562/4002 SP:504/504 BP:5
+B-Therion - HP:3921/4447 SP:332/332 BP:5
+C-H'aanit - HP:3873/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:564/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.H'aanit
+3.Meep
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Lord of the Flies - HP:5565/5590 Shields:3
+2: Meep - HP:564/1016 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Meep recibe 0 de daño de tipo Dagger
+Meep termina con HP:564
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2562/4002 SP:504/504 BP:5
+B-Therion - HP:3921/4447 SP:332/332 BP:5
+C-H'aanit - HP:3873/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:564/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Meep
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Lord of the Flies - HP:5565/5590 Shields:3
+2: Meep - HP:564/1016 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Meep recibe 72 de daño de tipo Axe
+Meep termina con HP:492
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2562/4002 SP:504/504 BP:5
+B-Therion - HP:3921/4447 SP:332/332 BP:5
+C-H'aanit - HP:3873/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:492/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Meep usa Attack
+Therion recibe 263 de daño físico
+Therion termina con HP:3658
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2562/4002 SP:504/504 BP:5
+B-Therion - HP:3658/4447 SP:332/332 BP:5
+C-H'aanit - HP:3873/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:492/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Primrose recibe 360 de daño físico
+Primrose termina con HP:2202
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2202/4002 SP:504/504 BP:5
+B-Therion - HP:3658/4447 SP:332/332 BP:5
+C-H'aanit - HP:3873/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:492/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Lord of the Flies - HP:5565/5590 Shields:3
+2: Meep - HP:492/1016 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Meep recibe 59 de daño de tipo Dagger
+Meep termina con HP:433
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2202/4002 SP:504/504 BP:5
+B-Therion - HP:3658/4447 SP:332/332 BP:5
+C-H'aanit - HP:3873/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:433/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.H'aanit
+3.Meep
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Lord of the Flies - HP:5565/5590 Shields:3
+2: Meep - HP:433/1016 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Meep recibe 0 de daño de tipo Dagger
+Meep termina con HP:433
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2202/4002 SP:504/504 BP:5
+B-Therion - HP:3658/4447 SP:332/332 BP:5
+C-H'aanit - HP:3873/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:433/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Meep
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Lord of the Flies - HP:5565/5590 Shields:3
+2: Meep - HP:433/1016 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Meep recibe 72 de daño de tipo Axe
+Meep termina con HP:361
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2202/4002 SP:504/504 BP:5
+B-Therion - HP:3658/4447 SP:332/332 BP:5
+C-H'aanit - HP:3873/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:361/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Meep usa Attack
+H'aanit recibe 287 de daño físico
+H'aanit termina con HP:3586
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2202/4002 SP:504/504 BP:5
+B-Therion - HP:3658/4447 SP:332/332 BP:5
+C-H'aanit - HP:3586/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:361/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Primrose recibe 360 de daño físico
+Primrose termina con HP:1842
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1842/4002 SP:504/504 BP:5
+B-Therion - HP:3658/4447 SP:332/332 BP:5
+C-H'aanit - HP:3586/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:361/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Lord of the Flies - HP:5565/5590 Shields:3
+2: Meep - HP:361/1016 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Meep recibe 59 de daño de tipo Dagger
+Meep termina con HP:302
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1842/4002 SP:504/504 BP:5
+B-Therion - HP:3658/4447 SP:332/332 BP:5
+C-H'aanit - HP:3586/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:302/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.H'aanit
+3.Meep
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Lord of the Flies - HP:5565/5590 Shields:3
+2: Meep - HP:302/1016 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies termina con HP:5565
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1842/4002 SP:504/504 BP:5
+B-Therion - HP:3658/4447 SP:332/332 BP:5
+C-H'aanit - HP:3586/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:302/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Meep
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Lord of the Flies - HP:5565/5590 Shields:3
+2: Meep - HP:302/1016 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Meep recibe 72 de daño de tipo Axe
+Meep termina con HP:230
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1842/4002 SP:504/504 BP:5
+B-Therion - HP:3658/4447 SP:332/332 BP:5
+C-H'aanit - HP:3586/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:230/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Meep usa Attack
+Therion recibe 263 de daño físico
+Therion termina con HP:3395
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1842/4002 SP:504/504 BP:5
+B-Therion - HP:3395/4447 SP:332/332 BP:5
+C-H'aanit - HP:3586/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:230/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Primrose recibe 360 de daño físico
+Primrose termina con HP:1482
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1482/4002 SP:504/504 BP:5
+B-Therion - HP:3395/4447 SP:332/332 BP:5
+C-H'aanit - HP:3586/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:230/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Lord of the Flies - HP:5565/5590 Shields:3
+2: Meep - HP:230/1016 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Meep recibe 59 de daño de tipo Dagger
+Meep termina con HP:171
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1482/4002 SP:504/504 BP:5
+B-Therion - HP:3395/4447 SP:332/332 BP:5
+C-H'aanit - HP:3586/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:171/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.H'aanit
+3.Meep
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Lord of the Flies - HP:5565/5590 Shields:3
+2: Meep - HP:171/1016 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Meep recibe 0 de daño de tipo Dagger
+Meep termina con HP:171
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1482/4002 SP:504/504 BP:5
+B-Therion - HP:3395/4447 SP:332/332 BP:5
+C-H'aanit - HP:3586/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:171/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Meep
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Lord of the Flies - HP:5565/5590 Shields:3
+2: Meep - HP:171/1016 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Meep recibe 72 de daño de tipo Axe
+Meep termina con HP:99
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1482/4002 SP:504/504 BP:5
+B-Therion - HP:3395/4447 SP:332/332 BP:5
+C-H'aanit - HP:3586/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:99/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Meep usa Attack
+H'aanit recibe 287 de daño físico
+H'aanit termina con HP:3299
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1482/4002 SP:504/504 BP:5
+B-Therion - HP:3395/4447 SP:332/332 BP:5
+C-H'aanit - HP:3299/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:99/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Primrose recibe 360 de daño físico
+Primrose termina con HP:1122
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1122/4002 SP:504/504 BP:5
+B-Therion - HP:3395/4447 SP:332/332 BP:5
+C-H'aanit - HP:3299/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:99/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Lord of the Flies - HP:5565/5590 Shields:3
+2: Meep - HP:99/1016 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Meep recibe 59 de daño de tipo Dagger
+Meep termina con HP:40
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1122/4002 SP:504/504 BP:5
+B-Therion - HP:3395/4447 SP:332/332 BP:5
+C-H'aanit - HP:3299/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:40/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.H'aanit
+3.Meep
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Lord of the Flies - HP:5565/5590 Shields:3
+2: Meep - HP:40/1016 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Meep recibe 0 de daño de tipo Dagger
+Meep termina con HP:40
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1122/4002 SP:504/504 BP:5
+B-Therion - HP:3395/4447 SP:332/332 BP:5
+C-H'aanit - HP:3299/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:40/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Meep
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Meep
+5.Lord of the Flies
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Lord of the Flies - HP:5565/5590 Shields:3
+2: Meep - HP:40/1016 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Meep recibe 72 de daño de tipo Axe
+Meep termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1122/4002 SP:504/504 BP:5
+B-Therion - HP:3395/4447 SP:332/332 BP:5
+C-H'aanit - HP:3299/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:0/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Primrose recibe 360 de daño físico
+Primrose termina con HP:762
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:762/4002 SP:504/504 BP:5
+B-Therion - HP:3395/4447 SP:332/332 BP:5
+C-H'aanit - HP:3299/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5565/5590 Shields:3
+B-Meep - HP:0/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Lord of the Flies
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Lord of the Flies - HP:5565/5590 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Lord of the Flies recibe 6 de daño de tipo Dagger
+Lord of the Flies termina con HP:5559
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:762/4002 SP:504/504 BP:5
+B-Therion - HP:3395/4447 SP:332/332 BP:5
+C-H'aanit - HP:3299/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5559/5590 Shields:3
+B-Meep - HP:0/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.H'aanit
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Lord of the Flies
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Lord of the Flies - HP:5559/5590 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies termina con HP:5559
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:762/4002 SP:504/504 BP:5
+B-Therion - HP:3395/4447 SP:332/332 BP:5
+C-H'aanit - HP:3299/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5559/5590 Shields:3
+B-Meep - HP:0/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Lord of the Flies
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Mercy Strike
+2: Cancelar
+INPUT: 2
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Lord of the Flies - HP:5559/5590 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Lord of the Flies recibe 19 de daño de tipo Axe
+Lord of the Flies termina con HP:5540
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:762/4002 SP:504/504 BP:5
+B-Therion - HP:3395/4447 SP:332/332 BP:5
+C-H'aanit - HP:3299/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5540/5590 Shields:3
+B-Meep - HP:0/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Primrose recibe 360 de daño físico
+Primrose termina con HP:402
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:402/4002 SP:504/504 BP:5
+B-Therion - HP:3395/4447 SP:332/332 BP:5
+C-H'aanit - HP:3299/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5540/5590 Shields:3
+B-Meep - HP:0/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Lord of the Flies
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Lord of the Flies - HP:5540/5590 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Lord of the Flies recibe 6 de daño de tipo Dagger
+Lord of the Flies termina con HP:5534
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:402/4002 SP:504/504 BP:5
+B-Therion - HP:3395/4447 SP:332/332 BP:5
+C-H'aanit - HP:3299/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5534/5590 Shields:3
+B-Meep - HP:0/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.H'aanit
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Lord of the Flies
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Lord of the Flies - HP:5534/5590 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies termina con HP:5534
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:402/4002 SP:504/504 BP:5
+B-Therion - HP:3395/4447 SP:332/332 BP:5
+C-H'aanit - HP:3299/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5534/5590 Shields:3
+B-Meep - HP:0/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Lord of the Flies
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Lord of the Flies - HP:5534/5590 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Lord of the Flies recibe 19 de daño de tipo Axe
+Lord of the Flies termina con HP:5515
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:402/4002 SP:504/504 BP:5
+B-Therion - HP:3395/4447 SP:332/332 BP:5
+C-H'aanit - HP:3299/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5515/5590 Shields:3
+B-Meep - HP:0/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Primrose recibe 360 de daño físico
+Primrose termina con HP:42
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:42/4002 SP:504/504 BP:5
+B-Therion - HP:3395/4447 SP:332/332 BP:5
+C-H'aanit - HP:3299/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5515/5590 Shields:3
+B-Meep - HP:0/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Lord of the Flies
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Lord of the Flies - HP:5515/5590 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Lord of the Flies recibe 6 de daño de tipo Dagger
+Lord of the Flies termina con HP:5509
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:42/4002 SP:504/504 BP:5
+B-Therion - HP:3395/4447 SP:332/332 BP:5
+C-H'aanit - HP:3299/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5509/5590 Shields:3
+B-Meep - HP:0/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.H'aanit
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Lord of the Flies
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Lord of the Flies - HP:5509/5590 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies termina con HP:5509
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:42/4002 SP:504/504 BP:5
+B-Therion - HP:3395/4447 SP:332/332 BP:5
+C-H'aanit - HP:3299/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5509/5590 Shields:3
+B-Meep - HP:0/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Lord of the Flies
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Lord of the Flies - HP:5509/5590 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Lord of the Flies recibe 19 de daño de tipo Axe
+Lord of the Flies termina con HP:5490
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:42/4002 SP:504/504 BP:5
+B-Therion - HP:3395/4447 SP:332/332 BP:5
+C-H'aanit - HP:3299/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5490/5590 Shields:3
+B-Meep - HP:0/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.H'aanit
+4.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Primrose recibe 360 de daño físico
+Primrose termina con HP:0
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:504/504 BP:5
+B-Therion - HP:3395/4447 SP:332/332 BP:5
+C-H'aanit - HP:3299/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5490/5590 Shields:3
+B-Meep - HP:0/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.H'aanit
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Lord of the Flies
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Lord of the Flies - HP:5490/5590 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Lord of the Flies recibe 6 de daño de tipo Dagger
+Lord of the Flies termina con HP:5484
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:504/504 BP:5
+B-Therion - HP:3395/4447 SP:332/332 BP:5
+C-H'aanit - HP:3299/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5484/5590 Shields:3
+B-Meep - HP:0/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Lord of the Flies
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Lord of the Flies - HP:5484/5590 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Lord of the Flies recibe 19 de daño de tipo Axe
+Lord of the Flies termina con HP:5465
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:504/504 BP:5
+B-Therion - HP:3395/4447 SP:332/332 BP:5
+C-H'aanit - HP:3299/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5465/5590 Shields:3
+B-Meep - HP:0/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+H'aanit recibe 359 de daño físico
+H'aanit termina con HP:2940
+----------------------------------------
+INICIA RONDA 14
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:504/504 BP:5
+B-Therion - HP:3395/4447 SP:332/332 BP:5
+C-H'aanit - HP:2940/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5465/5590 Shields:3
+B-Meep - HP:0/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.H'aanit
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Lord of the Flies
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Lord of the Flies - HP:5465/5590 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Lord of the Flies recibe 6 de daño de tipo Sword
+Lord of the Flies termina con HP:5459
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:504/504 BP:5
+B-Therion - HP:3395/4447 SP:332/332 BP:5
+C-H'aanit - HP:2940/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5459/5590 Shields:3
+B-Meep - HP:0/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Lord of the Flies
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo

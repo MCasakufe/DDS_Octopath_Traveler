@@ -1,0 +1,2598 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 28
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:433/433 BP:1
+B-Hikari - HP:6281/6281 SP:317/317 BP:1
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Heavenwing - HP:6900/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+4.Mad Ratkin
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+4.Mad Ratkin
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:433/433 BP:1
+B-Hikari - HP:6281/6281 SP:317/317 BP:1
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Heavenwing - HP:6900/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Alfyn
+3.Mad Ratkin
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+4.Mad Ratkin
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn recibe 437 de daño elemental
+Hikari se defiende
+Hikari recibe 202 de daño elemental
+Alfyn termina con HP:4899
+Hikari termina con HP:6079
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4899/5336 SP:433/433 BP:1
+B-Hikari - HP:6079/6281 SP:317/317 BP:1
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Heavenwing - HP:6900/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Mad Ratkin
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+4.Mad Ratkin
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Heal Wounds
+Hikari recupera 357 de vida
+Alfyn recupera 357 de vida
+Hikari termina con HP:6281
+Alfyn termina con HP:5256
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5256/5336 SP:427/433 BP:1
+B-Hikari - HP:6281/6281 SP:317/317 BP:1
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Heavenwing - HP:6900/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+4.Mad Ratkin
+----------------------------------------
+Mad Ratkin usa Stab
+Hikari se defiende
+Hikari recibe 115 de daño físico
+Hikari termina con HP:6166
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5256/5336 SP:427/433 BP:2
+B-Hikari - HP:6166/6281 SP:317/317 BP:2
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Heavenwing - HP:6900/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+4.Mad Ratkin
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+4.Mad Ratkin
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mad Ratkin - HP:1233/1233 Shields:1
+2: Heavenwing - HP:6900/6900 Shields:7
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Mad Ratkin recibe 264 de daño de tipo Spear con debilidad
+Mad Ratkin entra en Breaking Point
+Mad Ratkin termina con HP:969
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5256/5336 SP:427/433 BP:2
+B-Hikari - HP:6166/6281 SP:317/317 BP:2
+Equipo del enemigo
+A-Mad Ratkin - HP:969/1233 Shields:0
+B-Heavenwing - HP:6900/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Alfyn
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn recibe 437 de daño elemental
+Hikari recibe 404 de daño elemental
+Alfyn termina con HP:4819
+Hikari termina con HP:5762
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4819/5336 SP:427/433 BP:2
+B-Hikari - HP:5762/6281 SP:317/317 BP:2
+Equipo del enemigo
+A-Mad Ratkin - HP:969/1233 Shields:0
+B-Heavenwing - HP:6900/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Heal Wounds
+Hikari recupera 357 de vida
+Alfyn recupera 357 de vida
+Hikari termina con HP:6119
+Alfyn termina con HP:5176
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5176/5336 SP:421/433 BP:3
+B-Hikari - HP:6119/6281 SP:317/317 BP:3
+Equipo del enemigo
+A-Mad Ratkin - HP:969/1233 Shields:0
+B-Heavenwing - HP:6900/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Hikari
+3.Heavenwing
+4.Alfyn
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5176/5336 SP:421/433 BP:3
+B-Hikari - HP:6119/6281 SP:317/317 BP:3
+Equipo del enemigo
+A-Mad Ratkin - HP:969/1233 Shields:0
+B-Heavenwing - HP:6900/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Alfyn
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Hikari
+3.Heavenwing
+4.Alfyn
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn recibe 437 de daño elemental
+Hikari se defiende
+Hikari recibe 202 de daño elemental
+Alfyn termina con HP:4739
+Hikari termina con HP:5917
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4739/5336 SP:421/433 BP:3
+B-Hikari - HP:5917/6281 SP:317/317 BP:3
+Equipo del enemigo
+A-Mad Ratkin - HP:969/1233 Shields:0
+B-Heavenwing - HP:6900/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Hikari
+3.Heavenwing
+4.Alfyn
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4739/5336 SP:421/433 BP:4
+B-Hikari - HP:5917/6281 SP:317/317 BP:4
+Equipo del enemigo
+A-Mad Ratkin - HP:969/1233 Shields:1
+B-Heavenwing - HP:6900/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Hikari
+3.Alfyn
+4.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+4.Mad Ratkin
+----------------------------------------
+Mad Ratkin usa Stab
+Hikari recibe 231 de daño físico
+Hikari termina con HP:5686
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4739/5336 SP:421/433 BP:4
+B-Hikari - HP:5686/6281 SP:317/317 BP:4
+Equipo del enemigo
+A-Mad Ratkin - HP:969/1233 Shields:1
+B-Heavenwing - HP:6900/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Alfyn
+3.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+4.Mad Ratkin
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mad Ratkin - HP:969/1233 Shields:1
+2: Heavenwing - HP:6900/6900 Shields:7
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Heavenwing recibe 121 de daño de tipo Sword
+Heavenwing termina con HP:6779
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4739/5336 SP:421/433 BP:4
+B-Hikari - HP:5686/6281 SP:317/317 BP:4
+Equipo del enemigo
+A-Mad Ratkin - HP:969/1233 Shields:1
+B-Heavenwing - HP:6779/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+4.Mad Ratkin
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Heal Wounds
+Hikari recupera 357 de vida
+Alfyn recupera 357 de vida
+Hikari termina con HP:6043
+Alfyn termina con HP:5096
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5096/5336 SP:415/433 BP:4
+B-Hikari - HP:6043/6281 SP:317/317 BP:4
+Equipo del enemigo
+A-Mad Ratkin - HP:969/1233 Shields:1
+B-Heavenwing - HP:6779/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+4.Mad Ratkin
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn recibe 437 de daño elemental
+Hikari recibe 404 de daño elemental
+Alfyn termina con HP:4659
+Hikari termina con HP:5639
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4659/5336 SP:415/433 BP:5
+B-Hikari - HP:5639/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:969/1233 Shields:1
+B-Heavenwing - HP:6779/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+4.Mad Ratkin
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+4.Mad Ratkin
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mad Ratkin - HP:969/1233 Shields:1
+2: Heavenwing - HP:6779/6900 Shields:7
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Heavenwing recibe 181 de daño de tipo Spear con debilidad
+Heavenwing termina con HP:6598
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4659/5336 SP:415/433 BP:5
+B-Hikari - HP:5639/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:969/1233 Shields:1
+B-Heavenwing - HP:6598/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Alfyn
+3.Mad Ratkin
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+4.Mad Ratkin
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn recibe 437 de daño elemental
+Hikari recibe 404 de daño elemental
+Alfyn termina con HP:4222
+Hikari termina con HP:5235
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4222/5336 SP:415/433 BP:5
+B-Hikari - HP:5235/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:969/1233 Shields:1
+B-Heavenwing - HP:6598/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Mad Ratkin
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+4.Mad Ratkin
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Heal Wounds
+Hikari recupera 357 de vida
+Alfyn recupera 357 de vida
+Hikari termina con HP:5592
+Alfyn termina con HP:4579
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4579/5336 SP:409/433 BP:5
+B-Hikari - HP:5592/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:969/1233 Shields:1
+B-Heavenwing - HP:6598/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+4.Mad Ratkin
+----------------------------------------
+Mad Ratkin usa Stab
+Hikari recibe 231 de daño físico
+Hikari termina con HP:5361
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4579/5336 SP:409/433 BP:5
+B-Hikari - HP:5361/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:969/1233 Shields:1
+B-Heavenwing - HP:6598/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+4.Mad Ratkin
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+4.Mad Ratkin
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4579/5336 SP:409/433 BP:5
+B-Hikari - HP:5361/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:969/1233 Shields:1
+B-Heavenwing - HP:6598/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Alfyn
+3.Mad Ratkin
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+4.Mad Ratkin
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn recibe 437 de daño elemental
+Hikari se defiende
+Hikari recibe 202 de daño elemental
+Alfyn termina con HP:4142
+Hikari termina con HP:5159
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4142/5336 SP:409/433 BP:5
+B-Hikari - HP:5159/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:969/1233 Shields:1
+B-Heavenwing - HP:6598/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Mad Ratkin
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+4.Mad Ratkin
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Heal Wounds
+Hikari recupera 357 de vida
+Alfyn recupera 357 de vida
+Hikari termina con HP:5516
+Alfyn termina con HP:4499
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4499/5336 SP:403/433 BP:5
+B-Hikari - HP:5516/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:969/1233 Shields:1
+B-Heavenwing - HP:6598/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+4.Mad Ratkin
+----------------------------------------
+Mad Ratkin usa Stab
+Hikari se defiende
+Hikari recibe 115 de daño físico
+Hikari termina con HP:5401
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4499/5336 SP:403/433 BP:5
+B-Hikari - HP:5401/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:969/1233 Shields:1
+B-Heavenwing - HP:6598/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+4.Mad Ratkin
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+4.Mad Ratkin
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mad Ratkin - HP:969/1233 Shields:1
+2: Heavenwing - HP:6598/6900 Shields:6
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Mad Ratkin recibe 264 de daño de tipo Spear con debilidad
+Mad Ratkin entra en Breaking Point
+Mad Ratkin termina con HP:705
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4499/5336 SP:403/433 BP:5
+B-Hikari - HP:5401/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:705/1233 Shields:0
+B-Heavenwing - HP:6598/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Alfyn
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn recibe 437 de daño elemental
+Hikari recibe 404 de daño elemental
+Alfyn termina con HP:4062
+Hikari termina con HP:4997
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4062/5336 SP:403/433 BP:5
+B-Hikari - HP:4997/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:705/1233 Shields:0
+B-Heavenwing - HP:6598/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Mad Ratkin - HP:705/1233 Shields:0
+2: Heavenwing - HP:6598/6900 Shields:6
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Mad Ratkin recibe 178 de daño de tipo Axe
+Mad Ratkin termina con HP:527
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4062/5336 SP:403/433 BP:5
+B-Hikari - HP:4997/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:527/1233 Shields:0
+B-Heavenwing - HP:6598/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Hikari
+3.Heavenwing
+4.Alfyn
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4062/5336 SP:403/433 BP:5
+B-Hikari - HP:4997/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:527/1233 Shields:0
+B-Heavenwing - HP:6598/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Alfyn
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Hikari
+3.Heavenwing
+4.Alfyn
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn recibe 437 de daño elemental
+Hikari se defiende
+Hikari recibe 202 de daño elemental
+Alfyn termina con HP:3625
+Hikari termina con HP:4795
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3625/5336 SP:403/433 BP:5
+B-Hikari - HP:4795/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:527/1233 Shields:0
+B-Heavenwing - HP:6598/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Hikari
+3.Heavenwing
+4.Alfyn
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3625/5336 SP:403/433 BP:5
+B-Hikari - HP:4795/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:527/1233 Shields:1
+B-Heavenwing - HP:6598/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Hikari
+3.Alfyn
+4.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+4.Mad Ratkin
+----------------------------------------
+Mad Ratkin usa Stab
+Hikari recibe 231 de daño físico
+Hikari termina con HP:4564
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3625/5336 SP:403/433 BP:5
+B-Hikari - HP:4564/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:527/1233 Shields:1
+B-Heavenwing - HP:6598/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Alfyn
+3.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+4.Mad Ratkin
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mad Ratkin - HP:527/1233 Shields:1
+2: Heavenwing - HP:6598/6900 Shields:6
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Mad Ratkin recibe 176 de daño de tipo Sword
+Mad Ratkin termina con HP:351
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3625/5336 SP:403/433 BP:5
+B-Hikari - HP:4564/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:351/1233 Shields:1
+B-Heavenwing - HP:6598/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+4.Mad Ratkin
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Heal Wounds
+Hikari recupera 357 de vida
+Alfyn recupera 357 de vida
+Hikari termina con HP:4921
+Alfyn termina con HP:3982
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3982/5336 SP:397/433 BP:5
+B-Hikari - HP:4921/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:351/1233 Shields:1
+B-Heavenwing - HP:6598/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+4.Mad Ratkin
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn recibe 437 de daño elemental
+Hikari recibe 404 de daño elemental
+Alfyn termina con HP:3545
+Hikari termina con HP:4517
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3545/5336 SP:397/433 BP:5
+B-Hikari - HP:4517/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:351/1233 Shields:1
+B-Heavenwing - HP:6598/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+4.Mad Ratkin
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+4.Mad Ratkin
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mad Ratkin - HP:351/1233 Shields:1
+2: Heavenwing - HP:6598/6900 Shields:6
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Heavenwing recibe 181 de daño de tipo Spear con debilidad
+Heavenwing termina con HP:6417
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3545/5336 SP:397/433 BP:5
+B-Hikari - HP:4517/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:351/1233 Shields:1
+B-Heavenwing - HP:6417/6900 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Alfyn
+3.Mad Ratkin
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+4.Mad Ratkin
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn recibe 437 de daño elemental
+Hikari recibe 404 de daño elemental
+Alfyn termina con HP:3108
+Hikari termina con HP:4113
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3108/5336 SP:397/433 BP:5
+B-Hikari - HP:4113/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:351/1233 Shields:1
+B-Heavenwing - HP:6417/6900 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Mad Ratkin
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+4.Mad Ratkin
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3108/5336 SP:397/433 BP:5
+B-Hikari - HP:4113/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:351/1233 Shields:1
+B-Heavenwing - HP:6417/6900 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Hikari
+3.Heavenwing
+4.Mad Ratkin
+----------------------------------------
+Mad Ratkin usa Stab
+Hikari recibe 231 de daño físico
+Hikari termina con HP:3882
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3108/5336 SP:397/433 BP:5
+B-Hikari - HP:3882/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:351/1233 Shields:1
+B-Heavenwing - HP:6417/6900 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Hikari
+3.Heavenwing
+4.Mad Ratkin
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+4.Mad Ratkin
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3108/5336 SP:397/433 BP:5
+B-Hikari - HP:3882/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:351/1233 Shields:1
+B-Heavenwing - HP:6417/6900 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Heavenwing
+3.Mad Ratkin
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Hikari
+3.Heavenwing
+4.Mad Ratkin
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mad Ratkin - HP:351/1233 Shields:1
+2: Heavenwing - HP:6417/6900 Shields:5
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Heavenwing recibe 121 de daño de tipo Sword
+Heavenwing termina con HP:6296
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3108/5336 SP:397/433 BP:5
+B-Hikari - HP:3882/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:351/1233 Shields:1
+B-Heavenwing - HP:6296/6900 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Mad Ratkin
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Hikari
+3.Heavenwing
+4.Mad Ratkin
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn se defiende
+Alfyn recibe 218 de daño elemental
+Hikari recibe 404 de daño elemental
+Alfyn termina con HP:2890
+Hikari termina con HP:3478
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2890/5336 SP:397/433 BP:5
+B-Hikari - HP:3478/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:351/1233 Shields:1
+B-Heavenwing - HP:6296/6900 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Hikari
+3.Heavenwing
+4.Mad Ratkin
+----------------------------------------
+Mad Ratkin usa Stab
+Hikari recibe 231 de daño físico
+Hikari termina con HP:3247
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2890/5336 SP:397/433 BP:5
+B-Hikari - HP:3247/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:351/1233 Shields:1
+B-Heavenwing - HP:6296/6900 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Hikari
+3.Heavenwing
+4.Mad Ratkin
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+4.Mad Ratkin
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Mad Ratkin - HP:351/1233 Shields:1
+2: Heavenwing - HP:6296/6900 Shields:5
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Heavenwing recibe 64 de daño de tipo Axe
+Heavenwing termina con HP:6232
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2890/5336 SP:397/433 BP:5
+B-Hikari - HP:3247/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:351/1233 Shields:1
+B-Heavenwing - HP:6232/6900 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Heavenwing
+3.Mad Ratkin
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+4.Mad Ratkin
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mad Ratkin - HP:351/1233 Shields:1
+2: Heavenwing - HP:6232/6900 Shields:5
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Mad Ratkin recibe 264 de daño de tipo Spear con debilidad
+Mad Ratkin entra en Breaking Point
+Mad Ratkin termina con HP:87
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2890/5336 SP:397/433 BP:5
+B-Hikari - HP:3247/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:87/1233 Shields:0
+B-Heavenwing - HP:6232/6900 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn recibe 437 de daño elemental
+Hikari recibe 404 de daño elemental
+Alfyn termina con HP:2453
+Hikari termina con HP:2843
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2453/5336 SP:397/433 BP:5
+B-Hikari - HP:2843/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:87/1233 Shields:0
+B-Heavenwing - HP:6232/6900 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Hikari
+3.Heavenwing
+4.Alfyn
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mad Ratkin - HP:87/1233 Shields:0
+2: Heavenwing - HP:6232/6900 Shields:5
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Mad Ratkin recibe 264 de daño de tipo Sword
+Mad Ratkin termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2453/5336 SP:397/433 BP:5
+B-Hikari - HP:2843/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:0/1233 Shields:0
+B-Heavenwing - HP:6232/6900 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Alfyn
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn recibe 437 de daño elemental
+Hikari recibe 404 de daño elemental
+Alfyn termina con HP:2016
+Hikari termina con HP:2439
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2016/5336 SP:397/433 BP:5
+B-Hikari - HP:2439/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:0/1233 Shields:0
+B-Heavenwing - HP:6232/6900 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Heal Wounds
+Hikari recupera 357 de vida
+Alfyn recupera 357 de vida
+Hikari termina con HP:2796
+Alfyn termina con HP:2373
+----------------------------------------
+INICIA RONDA 14
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2373/5336 SP:391/433 BP:5
+B-Hikari - HP:2796/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:0/1233 Shields:0
+B-Heavenwing - HP:6232/6900 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Heavenwing - HP:6232/6900 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Heavenwing recibe 181 de daño de tipo Spear con debilidad
+Heavenwing termina con HP:6051
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2373/5336 SP:391/433 BP:5
+B-Hikari - HP:2796/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:0/1233 Shields:0
+B-Heavenwing - HP:6051/6900 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Alfyn
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn recibe 437 de daño elemental
+Hikari recibe 404 de daño elemental
+Alfyn termina con HP:1936
+Hikari termina con HP:2392
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:1936/5336 SP:391/433 BP:5
+B-Hikari - HP:2392/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:0/1233 Shields:0
+B-Heavenwing - HP:6051/6900 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 15
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:1936/5336 SP:391/433 BP:5
+B-Hikari - HP:2392/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:0/1233 Shields:0
+B-Heavenwing - HP:6051/6900 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Hikari
+3.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Heal Wounds
+Hikari recupera 357 de vida
+Alfyn recupera 357 de vida
+Hikari termina con HP:2749
+Alfyn termina con HP:2293
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2293/5336 SP:385/433 BP:5
+B-Hikari - HP:2749/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:0/1233 Shields:0
+B-Heavenwing - HP:6051/6900 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Heavenwing - HP:6051/6900 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Heavenwing recibe 181 de daño de tipo Spear con debilidad
+Heavenwing termina con HP:5870
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2293/5336 SP:385/433 BP:5
+B-Hikari - HP:2749/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:0/1233 Shields:0
+B-Heavenwing - HP:5870/6900 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn recibe 437 de daño elemental
+Hikari recibe 404 de daño elemental
+Alfyn termina con HP:1856
+Hikari termina con HP:2345
+----------------------------------------
+INICIA RONDA 16
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:1856/5336 SP:385/433 BP:5
+B-Hikari - HP:2345/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:0/1233 Shields:0
+B-Heavenwing - HP:5870/6900 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Heavenwing - HP:5870/6900 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Heavenwing recibe 181 de daño de tipo Spear con debilidad
+Heavenwing termina con HP:5689
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:1856/5336 SP:385/433 BP:5
+B-Hikari - HP:2345/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:0/1233 Shields:0
+B-Heavenwing - HP:5689/6900 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Alfyn
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn recibe 437 de daño elemental
+Hikari recibe 404 de daño elemental
+Alfyn termina con HP:1419
+Hikari termina con HP:1941
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:1419/5336 SP:385/433 BP:5
+B-Hikari - HP:1941/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:0/1233 Shields:0
+B-Heavenwing - HP:5689/6900 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 17
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:1419/5336 SP:385/433 BP:5
+B-Hikari - HP:1941/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:0/1233 Shields:0
+B-Heavenwing - HP:5689/6900 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Hikari
+3.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Heal Wounds
+Hikari recupera 357 de vida
+Alfyn recupera 357 de vida
+Hikari termina con HP:2298
+Alfyn termina con HP:1776
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:1776/5336 SP:379/433 BP:5
+B-Hikari - HP:2298/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:0/1233 Shields:0
+B-Heavenwing - HP:5689/6900 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:1776/5336 SP:379/433 BP:5
+B-Hikari - HP:2298/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:0/1233 Shields:0
+B-Heavenwing - HP:5689/6900 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn recibe 437 de daño elemental
+Hikari se defiende
+Hikari recibe 202 de daño elemental
+Alfyn termina con HP:1339
+Hikari termina con HP:2096
+----------------------------------------
+INICIA RONDA 18
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:1339/5336 SP:379/433 BP:5
+B-Hikari - HP:2096/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:0/1233 Shields:0
+B-Heavenwing - HP:5689/6900 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:1339/5336 SP:379/433 BP:5
+B-Hikari - HP:2096/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:0/1233 Shields:0
+B-Heavenwing - HP:5689/6900 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Alfyn
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn recibe 437 de daño elemental
+Hikari se defiende
+Hikari recibe 202 de daño elemental
+Alfyn termina con HP:902
+Hikari termina con HP:1894
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:902/5336 SP:379/433 BP:5
+B-Hikari - HP:1894/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:0/1233 Shields:0
+B-Heavenwing - HP:5689/6900 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Heavenwing - HP:5689/6900 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Heavenwing recibe 64 de daño de tipo Axe
+Heavenwing termina con HP:5625
+----------------------------------------
+INICIA RONDA 19
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:902/5336 SP:379/433 BP:5
+B-Hikari - HP:1894/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:0/1233 Shields:0
+B-Heavenwing - HP:5625/6900 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:902/5336 SP:379/433 BP:5
+B-Hikari - HP:1894/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:0/1233 Shields:0
+B-Heavenwing - HP:5625/6900 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Alfyn
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn recibe 437 de daño elemental
+Hikari se defiende
+Hikari recibe 202 de daño elemental
+Alfyn termina con HP:465
+Hikari termina con HP:1692
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:465/5336 SP:379/433 BP:5
+B-Hikari - HP:1692/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:0/1233 Shields:0
+B-Heavenwing - HP:5625/6900 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Heavenwing - HP:5625/6900 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Heavenwing recibe 64 de daño de tipo Axe
+Heavenwing termina con HP:5561
+----------------------------------------
+INICIA RONDA 20
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:465/5336 SP:379/433 BP:5
+B-Hikari - HP:1692/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:0/1233 Shields:0
+B-Heavenwing - HP:5561/6900 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:465/5336 SP:379/433 BP:5
+B-Hikari - HP:1692/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:0/1233 Shields:0
+B-Heavenwing - HP:5561/6900 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Alfyn
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn recibe 437 de daño elemental
+Hikari se defiende
+Hikari recibe 202 de daño elemental
+Alfyn termina con HP:28
+Hikari termina con HP:1490
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:28/5336 SP:379/433 BP:5
+B-Hikari - HP:1490/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:0/1233 Shields:0
+B-Heavenwing - HP:5561/6900 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Heavenwing - HP:5561/6900 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Heavenwing recibe 64 de daño de tipo Axe
+Heavenwing termina con HP:5497
+----------------------------------------
+INICIA RONDA 21
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:28/5336 SP:379/433 BP:5
+B-Hikari - HP:1490/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:0/1233 Shields:0
+B-Heavenwing - HP:5497/6900 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:28/5336 SP:379/433 BP:5
+B-Hikari - HP:1490/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:0/1233 Shields:0
+B-Heavenwing - HP:5497/6900 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Alfyn
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn recibe 437 de daño elemental
+Hikari se defiende
+Hikari recibe 202 de daño elemental
+Alfyn termina con HP:0
+Hikari termina con HP:1288
+----------------------------------------
+INICIA RONDA 22
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:0/5336 SP:379/433 BP:5
+B-Hikari - HP:1288/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:0/1233 Shields:0
+B-Heavenwing - HP:5497/6900 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:0/5336 SP:379/433 BP:5
+B-Hikari - HP:1288/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:0/1233 Shields:0
+B-Heavenwing - HP:5497/6900 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+----------------------------------------
+Heavenwing usa Incinerate
+Hikari se defiende
+Hikari recibe 202 de daño elemental
+Hikari termina con HP:1086
+----------------------------------------
+INICIA RONDA 23
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:0/5336 SP:379/433 BP:5
+B-Hikari - HP:1086/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:0/1233 Shields:0
+B-Heavenwing - HP:5497/6900 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Heavenwing - HP:5497/6900 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Heavenwing recibe 181 de daño de tipo Spear con debilidad
+Heavenwing termina con HP:5316
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:0/5336 SP:379/433 BP:5
+B-Hikari - HP:1086/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:0/1233 Shields:0
+B-Heavenwing - HP:5316/6900 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+----------------------------------------
+Heavenwing usa Incinerate
+Hikari recibe 404 de daño elemental
+Hikari termina con HP:682
+----------------------------------------
+INICIA RONDA 24
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:0/5336 SP:379/433 BP:5
+B-Hikari - HP:682/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:0/1233 Shields:0
+B-Heavenwing - HP:5316/6900 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:0/5336 SP:379/433 BP:5
+B-Hikari - HP:682/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:0/1233 Shields:0
+B-Heavenwing - HP:5316/6900 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+----------------------------------------
+Heavenwing usa Incinerate
+Hikari se defiende
+Hikari recibe 202 de daño elemental
+Hikari termina con HP:480
+----------------------------------------
+INICIA RONDA 25
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:0/5336 SP:379/433 BP:5
+B-Hikari - HP:480/6281 SP:317/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:0/1233 Shields:0
+B-Heavenwing - HP:5316/6900 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Alfyn - HP:0/5336 SP:379/433 BP:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Vivify
+Alfyn revive
+Alfyn recupera 406 de vida
+Alfyn termina con HP:407
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:407/5336 SP:379/433 BP:5
+B-Hikari - HP:480/6281 SP:301/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:0/1233 Shields:0
+B-Heavenwing - HP:5316/6900 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn recibe 437 de daño elemental
+Hikari recibe 404 de daño elemental
+Alfyn termina con HP:0
+Hikari termina con HP:76
+----------------------------------------
+INICIA RONDA 26
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:0/5336 SP:379/433 BP:5
+B-Hikari - HP:76/6281 SP:301/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:0/1233 Shields:0
+B-Heavenwing - HP:5316/6900 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:0/5336 SP:379/433 BP:5
+B-Hikari - HP:76/6281 SP:301/317 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:0/1233 Shields:0
+B-Heavenwing - HP:5316/6900 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heavenwing
+----------------------------------------
+Heavenwing usa Incinerate
+Hikari se defiende
+Hikari recibe 202 de daño elemental
+Hikari termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

@@ -1,0 +1,739 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+INPUT: 2
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Withered Wanderweed - HP:2314/2314 Shields:1
+B-Wanderweed - HP:1533/1533 Shields:3
+C-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Withered Wanderweed
+3.Wanderweed
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Withered Wanderweed
+3.Wanderweed
+4.War Wolf
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Lightning Bolt
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Lightning Bolt
+Withered Wanderweed recibe 374 de daño de tipo Lightning
+Wanderweed recibe 419 de daño de tipo Lightning
+War Wolf recibe 418 de daño de tipo Lightning
+Withered Wanderweed termina con HP:1940
+Wanderweed termina con HP:1114
+War Wolf termina con HP:3130
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:574/582 BP:1
+Equipo del enemigo
+A-Withered Wanderweed - HP:1940/2314 Shields:1
+B-Wanderweed - HP:1114/1533 Shields:3
+C-War Wolf - HP:3130/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Withered Wanderweed
+2.Wanderweed
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Withered Wanderweed
+3.Wanderweed
+4.War Wolf
+----------------------------------------
+Withered Wanderweed usa Attack
+Cyrus recibe 114 de daño físico
+Cyrus termina con HP:3443
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3443/3557 SP:574/582 BP:1
+Equipo del enemigo
+A-Withered Wanderweed - HP:1940/2314 Shields:1
+B-Wanderweed - HP:1114/1533 Shields:3
+C-War Wolf - HP:3130/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Wanderweed
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Withered Wanderweed
+3.Wanderweed
+4.War Wolf
+----------------------------------------
+Wanderweed usa Attack
+Cyrus recibe 53 de daño físico
+Cyrus termina con HP:3390
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3390/3557 SP:574/582 BP:1
+Equipo del enemigo
+A-Withered Wanderweed - HP:1940/2314 Shields:1
+B-Wanderweed - HP:1114/1533 Shields:3
+C-War Wolf - HP:3130/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Withered Wanderweed
+3.Wanderweed
+4.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Cyrus recibe 171 de daño físico
+Cyrus termina con HP:3219
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3219/3557 SP:574/582 BP:2
+Equipo del enemigo
+A-Withered Wanderweed - HP:1940/2314 Shields:1
+B-Wanderweed - HP:1114/1533 Shields:3
+C-War Wolf - HP:3130/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Withered Wanderweed
+3.Wanderweed
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Withered Wanderweed
+3.Wanderweed
+4.War Wolf
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Lightning Bolt
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Lightning Bolt
+Withered Wanderweed recibe 374 de daño de tipo Lightning
+Wanderweed recibe 419 de daño de tipo Lightning
+War Wolf recibe 418 de daño de tipo Lightning
+Withered Wanderweed termina con HP:1566
+Wanderweed termina con HP:695
+War Wolf termina con HP:2712
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3219/3557 SP:566/582 BP:2
+Equipo del enemigo
+A-Withered Wanderweed - HP:1566/2314 Shields:1
+B-Wanderweed - HP:695/1533 Shields:3
+C-War Wolf - HP:2712/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Withered Wanderweed
+2.Wanderweed
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Withered Wanderweed
+3.Wanderweed
+4.War Wolf
+----------------------------------------
+Withered Wanderweed usa Attack
+Cyrus recibe 114 de daño físico
+Cyrus termina con HP:3105
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3105/3557 SP:566/582 BP:2
+Equipo del enemigo
+A-Withered Wanderweed - HP:1566/2314 Shields:1
+B-Wanderweed - HP:695/1533 Shields:3
+C-War Wolf - HP:2712/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Wanderweed
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Withered Wanderweed
+3.Wanderweed
+4.War Wolf
+----------------------------------------
+Wanderweed usa Attack
+Cyrus recibe 53 de daño físico
+Cyrus termina con HP:3052
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3052/3557 SP:566/582 BP:2
+Equipo del enemigo
+A-Withered Wanderweed - HP:1566/2314 Shields:1
+B-Wanderweed - HP:695/1533 Shields:3
+C-War Wolf - HP:2712/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Withered Wanderweed
+3.Wanderweed
+4.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Cyrus recibe 171 de daño físico
+Cyrus termina con HP:2881
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2881/3557 SP:566/582 BP:3
+Equipo del enemigo
+A-Withered Wanderweed - HP:1566/2314 Shields:1
+B-Wanderweed - HP:695/1533 Shields:3
+C-War Wolf - HP:2712/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Withered Wanderweed
+3.Wanderweed
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Withered Wanderweed
+3.Wanderweed
+4.War Wolf
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Lightning Bolt
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Lightning Bolt
+Withered Wanderweed recibe 374 de daño de tipo Lightning
+Wanderweed recibe 419 de daño de tipo Lightning
+War Wolf recibe 418 de daño de tipo Lightning
+Withered Wanderweed termina con HP:1192
+Wanderweed termina con HP:276
+War Wolf termina con HP:2294
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2881/3557 SP:558/582 BP:3
+Equipo del enemigo
+A-Withered Wanderweed - HP:1192/2314 Shields:1
+B-Wanderweed - HP:276/1533 Shields:3
+C-War Wolf - HP:2294/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Withered Wanderweed
+2.Wanderweed
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Withered Wanderweed
+3.Wanderweed
+4.War Wolf
+----------------------------------------
+Withered Wanderweed usa Attack
+Cyrus recibe 114 de daño físico
+Cyrus termina con HP:2767
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2767/3557 SP:558/582 BP:3
+Equipo del enemigo
+A-Withered Wanderweed - HP:1192/2314 Shields:1
+B-Wanderweed - HP:276/1533 Shields:3
+C-War Wolf - HP:2294/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Wanderweed
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Withered Wanderweed
+3.Wanderweed
+4.War Wolf
+----------------------------------------
+Wanderweed usa Attack
+Cyrus recibe 53 de daño físico
+Cyrus termina con HP:2714
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2714/3557 SP:558/582 BP:3
+Equipo del enemigo
+A-Withered Wanderweed - HP:1192/2314 Shields:1
+B-Wanderweed - HP:276/1533 Shields:3
+C-War Wolf - HP:2294/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Withered Wanderweed
+3.Wanderweed
+4.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Cyrus recibe 171 de daño físico
+Cyrus termina con HP:2543
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2543/3557 SP:558/582 BP:4
+Equipo del enemigo
+A-Withered Wanderweed - HP:1192/2314 Shields:1
+B-Wanderweed - HP:276/1533 Shields:3
+C-War Wolf - HP:2294/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Withered Wanderweed
+3.Wanderweed
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Withered Wanderweed
+3.Wanderweed
+4.War Wolf
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Lightning Bolt
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Lightning Bolt
+Withered Wanderweed recibe 374 de daño de tipo Lightning
+Wanderweed recibe 419 de daño de tipo Lightning
+War Wolf recibe 418 de daño de tipo Lightning
+Withered Wanderweed termina con HP:818
+Wanderweed termina con HP:0
+War Wolf termina con HP:1876
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2543/3557 SP:550/582 BP:4
+Equipo del enemigo
+A-Withered Wanderweed - HP:818/2314 Shields:1
+B-Wanderweed - HP:0/1533 Shields:3
+C-War Wolf - HP:1876/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Withered Wanderweed
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Withered Wanderweed
+3.War Wolf
+----------------------------------------
+Withered Wanderweed usa Attack
+Cyrus recibe 114 de daño físico
+Cyrus termina con HP:2429
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2429/3557 SP:550/582 BP:4
+Equipo del enemigo
+A-Withered Wanderweed - HP:818/2314 Shields:1
+B-Wanderweed - HP:0/1533 Shields:3
+C-War Wolf - HP:1876/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Withered Wanderweed
+3.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Cyrus recibe 171 de daño físico
+Cyrus termina con HP:2258
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2258/3557 SP:550/582 BP:5
+Equipo del enemigo
+A-Withered Wanderweed - HP:818/2314 Shields:1
+B-Wanderweed - HP:0/1533 Shields:3
+C-War Wolf - HP:1876/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Withered Wanderweed
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Withered Wanderweed
+3.War Wolf
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Lightning Bolt
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Lightning Bolt
+Withered Wanderweed recibe 374 de daño de tipo Lightning
+War Wolf recibe 418 de daño de tipo Lightning
+Withered Wanderweed termina con HP:444
+War Wolf termina con HP:1458
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2258/3557 SP:542/582 BP:5
+Equipo del enemigo
+A-Withered Wanderweed - HP:444/2314 Shields:1
+B-Wanderweed - HP:0/1533 Shields:3
+C-War Wolf - HP:1458/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Withered Wanderweed
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Withered Wanderweed
+3.War Wolf
+----------------------------------------
+Withered Wanderweed usa Attack
+Cyrus recibe 114 de daño físico
+Cyrus termina con HP:2144
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2144/3557 SP:542/582 BP:5
+Equipo del enemigo
+A-Withered Wanderweed - HP:444/2314 Shields:1
+B-Wanderweed - HP:0/1533 Shields:3
+C-War Wolf - HP:1458/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Withered Wanderweed
+3.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Cyrus recibe 171 de daño físico
+Cyrus termina con HP:1973
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1973/3557 SP:542/582 BP:5
+Equipo del enemigo
+A-Withered Wanderweed - HP:444/2314 Shields:1
+B-Wanderweed - HP:0/1533 Shields:3
+C-War Wolf - HP:1458/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Withered Wanderweed
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Withered Wanderweed
+3.War Wolf
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Lightning Bolt
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Lightning Bolt
+Withered Wanderweed recibe 374 de daño de tipo Lightning
+War Wolf recibe 418 de daño de tipo Lightning
+Withered Wanderweed termina con HP:70
+War Wolf termina con HP:1040
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1973/3557 SP:534/582 BP:5
+Equipo del enemigo
+A-Withered Wanderweed - HP:70/2314 Shields:1
+B-Wanderweed - HP:0/1533 Shields:3
+C-War Wolf - HP:1040/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Withered Wanderweed
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Withered Wanderweed
+3.War Wolf
+----------------------------------------
+Withered Wanderweed usa Attack
+Cyrus recibe 114 de daño físico
+Cyrus termina con HP:1859
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1859/3557 SP:534/582 BP:5
+Equipo del enemigo
+A-Withered Wanderweed - HP:70/2314 Shields:1
+B-Wanderweed - HP:0/1533 Shields:3
+C-War Wolf - HP:1040/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Withered Wanderweed
+3.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Cyrus recibe 171 de daño físico
+Cyrus termina con HP:1688
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1688/3557 SP:534/582 BP:5
+Equipo del enemigo
+A-Withered Wanderweed - HP:70/2314 Shields:1
+B-Wanderweed - HP:0/1533 Shields:3
+C-War Wolf - HP:1040/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Withered Wanderweed
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Withered Wanderweed
+3.War Wolf
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Lightning Bolt
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Lightning Bolt
+Withered Wanderweed recibe 374 de daño de tipo Lightning
+War Wolf recibe 418 de daño de tipo Lightning
+Withered Wanderweed termina con HP:0
+War Wolf termina con HP:622
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1688/3557 SP:526/582 BP:5
+Equipo del enemigo
+A-Withered Wanderweed - HP:0/2314 Shields:1
+B-Wanderweed - HP:0/1533 Shields:3
+C-War Wolf - HP:622/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Cyrus recibe 171 de daño físico
+Cyrus termina con HP:1517
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1517/3557 SP:526/582 BP:5
+Equipo del enemigo
+A-Withered Wanderweed - HP:0/2314 Shields:1
+B-Wanderweed - HP:0/1533 Shields:3
+C-War Wolf - HP:622/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.War Wolf
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Lightning Bolt
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Lightning Bolt
+War Wolf recibe 418 de daño de tipo Lightning
+War Wolf termina con HP:204
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1517/3557 SP:518/582 BP:5
+Equipo del enemigo
+A-Withered Wanderweed - HP:0/2314 Shields:1
+B-Wanderweed - HP:0/1533 Shields:3
+C-War Wolf - HP:204/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Cyrus recibe 171 de daño físico
+Cyrus termina con HP:1346
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1346/3557 SP:518/582 BP:5
+Equipo del enemigo
+A-Withered Wanderweed - HP:0/2314 Shields:1
+B-Wanderweed - HP:0/1533 Shields:3
+C-War Wolf - HP:204/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.War Wolf
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Lightning Bolt
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Lightning Bolt
+War Wolf recibe 418 de daño de tipo Lightning
+War Wolf termina con HP:0
+----------------------------------------
+Gana equipo del jugador

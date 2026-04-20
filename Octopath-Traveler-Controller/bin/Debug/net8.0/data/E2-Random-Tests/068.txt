@@ -1,0 +1,2243 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 67
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:383/383 BP:1
+B-Heatcore - HP:3322/3322 SP:392/392 BP:1
+Equipo del enemigo
+A-Light Guardian - HP:1129/1129 Shields:3
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Heavenwing - HP:6900/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:383/383 BP:1
+B-Heatcore - HP:3322/3322 SP:392/392 BP:1
+Equipo del enemigo
+A-Light Guardian - HP:1129/1129 Shields:3
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Heavenwing - HP:6900/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Alfyn
+3.Ice Guardian
+4.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn recibe 437 de daño elemental
+Heatcore se defiende
+Heatcore recibe 211 de daño elemental
+Alfyn termina con HP:5399
+Heatcore termina con HP:3111
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5399/5836 SP:383/383 BP:1
+B-Heatcore - HP:3111/3322 SP:392/392 BP:1
+Equipo del enemigo
+A-Light Guardian - HP:1129/1129 Shields:3
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Heavenwing - HP:6900/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Ice Guardian
+3.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5399/5836 SP:383/383 BP:1
+B-Heatcore - HP:3111/3322 SP:392/392 BP:1
+Equipo del enemigo
+A-Light Guardian - HP:1129/1129 Shields:3
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Heavenwing - HP:6900/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Ice Guardian
+2.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Alfyn
+3.Heavenwing
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Ice Guardian usa Attack
+Alfyn se defiende
+Alfyn recibe 34 de daño físico
+Alfyn termina con HP:5365
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5365/5836 SP:383/383 BP:1
+B-Heatcore - HP:3111/3322 SP:392/392 BP:1
+Equipo del enemigo
+A-Light Guardian - HP:1129/1129 Shields:3
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Heavenwing - HP:6900/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Alfyn
+3.Heavenwing
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Light Guardian usa Attack
+Alfyn se defiende
+Alfyn recibe 0 de daño físico
+Alfyn termina con HP:5365
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5365/5836 SP:383/383 BP:2
+B-Heatcore - HP:3111/3322 SP:392/392 BP:2
+Equipo del enemigo
+A-Light Guardian - HP:1129/1129 Shields:3
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Heavenwing - HP:6900/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Alfyn
+3.Heavenwing
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Light Guardian - HP:1129/1129 Shields:3
+2: Ice Guardian - HP:1471/1471 Shields:3
+3: Heavenwing - HP:6900/6900 Shields:7
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore ataca
+Heavenwing recibe 131 de daño de tipo Bow con debilidad
+Heavenwing termina con HP:6769
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5365/5836 SP:383/383 BP:2
+B-Heatcore - HP:3111/3322 SP:392/392 BP:2
+Equipo del enemigo
+A-Light Guardian - HP:1129/1129 Shields:3
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Heavenwing
+3.Ice Guardian
+4.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5365/5836 SP:383/383 BP:2
+B-Heatcore - HP:3111/3322 SP:392/392 BP:2
+Equipo del enemigo
+A-Light Guardian - HP:1129/1129 Shields:3
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Guardian
+3.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Heatcore
+3.Heavenwing
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn se defiende
+Alfyn recibe 218 de daño elemental
+Heatcore recibe 422 de daño elemental
+Alfyn termina con HP:5147
+Heatcore termina con HP:2689
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5147/5836 SP:383/383 BP:2
+B-Heatcore - HP:2689/3322 SP:392/392 BP:2
+Equipo del enemigo
+A-Light Guardian - HP:1129/1129 Shields:3
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Ice Guardian
+2.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Heatcore
+3.Heavenwing
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Ice Guardian usa Attack
+Alfyn se defiende
+Alfyn recibe 34 de daño físico
+Alfyn termina con HP:5113
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5113/5836 SP:383/383 BP:2
+B-Heatcore - HP:2689/3322 SP:392/392 BP:2
+Equipo del enemigo
+A-Light Guardian - HP:1129/1129 Shields:3
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Heatcore
+3.Heavenwing
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Light Guardian usa Attack
+Alfyn se defiende
+Alfyn recibe 0 de daño físico
+Alfyn termina con HP:5113
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5113/5836 SP:383/383 BP:3
+B-Heatcore - HP:2689/3322 SP:392/392 BP:3
+Equipo del enemigo
+A-Light Guardian - HP:1129/1129 Shields:3
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Heatcore
+3.Heavenwing
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Light Guardian - HP:1129/1129 Shields:3
+2: Ice Guardian - HP:1471/1471 Shields:3
+3: Heavenwing - HP:6769/6900 Shields:6
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Light Guardian recibe 312 de daño de tipo Axe
+Light Guardian termina con HP:817
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5113/5836 SP:383/383 BP:3
+B-Heatcore - HP:2689/3322 SP:392/392 BP:3
+Equipo del enemigo
+A-Light Guardian - HP:817/1129 Shields:3
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Heavenwing
+3.Ice Guardian
+4.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Shooting Stars
+2: Night Ode
+3: First Aid
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Alfyn - HP:5113/5836 SP:383/383 BP:3
+2: Heatcore - HP:2689/3322 SP:392/392 BP:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore usa First Aid
+Alfyn recupera 379 de vida
+Alfyn termina con HP:5492
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5492/5836 SP:383/383 BP:3
+B-Heatcore - HP:2689/3322 SP:388/392 BP:3
+Equipo del enemigo
+A-Light Guardian - HP:817/1129 Shields:3
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Guardian
+3.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn recibe 437 de daño elemental
+Heatcore recibe 422 de daño elemental
+Alfyn termina con HP:5055
+Heatcore termina con HP:2267
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5055/5836 SP:383/383 BP:3
+B-Heatcore - HP:2267/3322 SP:388/392 BP:3
+Equipo del enemigo
+A-Light Guardian - HP:817/1129 Shields:3
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Ice Guardian
+2.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Ice Guardian usa Attack
+Alfyn recibe 68 de daño físico
+Alfyn termina con HP:4987
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4987/5836 SP:383/383 BP:3
+B-Heatcore - HP:2267/3322 SP:388/392 BP:3
+Equipo del enemigo
+A-Light Guardian - HP:817/1129 Shields:3
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Light Guardian usa Attack
+Alfyn recibe 0 de daño físico
+Alfyn termina con HP:4987
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4987/5836 SP:383/383 BP:4
+B-Heatcore - HP:2267/3322 SP:388/392 BP:4
+Equipo del enemigo
+A-Light Guardian - HP:817/1129 Shields:3
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Shooting Stars
+2: Night Ode
+3: First Aid
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Alfyn - HP:4987/5836 SP:383/383 BP:4
+2: Heatcore - HP:2267/3322 SP:388/392 BP:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore usa First Aid
+Heatcore recupera 379 de vida
+Heatcore termina con HP:2646
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4987/5836 SP:383/383 BP:4
+B-Heatcore - HP:2646/3322 SP:384/392 BP:4
+Equipo del enemigo
+A-Light Guardian - HP:817/1129 Shields:3
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Alfyn
+3.Ice Guardian
+4.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn recibe 437 de daño elemental
+Heatcore recibe 422 de daño elemental
+Alfyn termina con HP:4550
+Heatcore termina con HP:2224
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4550/5836 SP:383/383 BP:4
+B-Heatcore - HP:2224/3322 SP:384/392 BP:4
+Equipo del enemigo
+A-Light Guardian - HP:817/1129 Shields:3
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Ice Guardian
+3.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4550/5836 SP:383/383 BP:4
+B-Heatcore - HP:2224/3322 SP:384/392 BP:4
+Equipo del enemigo
+A-Light Guardian - HP:817/1129 Shields:3
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Ice Guardian
+2.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Heatcore
+3.Heavenwing
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Ice Guardian usa Attack
+Alfyn se defiende
+Alfyn recibe 34 de daño físico
+Alfyn termina con HP:4516
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4516/5836 SP:383/383 BP:4
+B-Heatcore - HP:2224/3322 SP:384/392 BP:4
+Equipo del enemigo
+A-Light Guardian - HP:817/1129 Shields:3
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Heatcore
+3.Heavenwing
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Light Guardian usa Attack
+Alfyn se defiende
+Alfyn recibe 0 de daño físico
+Alfyn termina con HP:4516
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4516/5836 SP:383/383 BP:5
+B-Heatcore - HP:2224/3322 SP:384/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:817/1129 Shields:3
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Heatcore
+3.Heavenwing
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4516/5836 SP:383/383 BP:5
+B-Heatcore - HP:2224/3322 SP:384/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:817/1129 Shields:3
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Heavenwing
+3.Ice Guardian
+4.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Heatcore
+3.Heavenwing
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4516/5836 SP:383/383 BP:5
+B-Heatcore - HP:2224/3322 SP:384/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:817/1129 Shields:3
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Guardian
+3.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Alfyn
+3.Heavenwing
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn se defiende
+Alfyn recibe 218 de daño elemental
+Heatcore se defiende
+Heatcore recibe 211 de daño elemental
+Alfyn termina con HP:4298
+Heatcore termina con HP:2013
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4298/5836 SP:383/383 BP:5
+B-Heatcore - HP:2013/3322 SP:384/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:817/1129 Shields:3
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Ice Guardian
+2.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Alfyn
+3.Heavenwing
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Ice Guardian usa Attack
+Alfyn se defiende
+Alfyn recibe 34 de daño físico
+Alfyn termina con HP:4264
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4264/5836 SP:383/383 BP:5
+B-Heatcore - HP:2013/3322 SP:384/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:817/1129 Shields:3
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Alfyn
+3.Heavenwing
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Light Guardian usa Attack
+Alfyn se defiende
+Alfyn recibe 0 de daño físico
+Alfyn termina con HP:4264
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4264/5836 SP:383/383 BP:5
+B-Heatcore - HP:2013/3322 SP:384/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:817/1129 Shields:3
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Alfyn
+3.Heavenwing
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Shooting Stars
+2: Night Ode
+3: First Aid
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Alfyn - HP:4264/5836 SP:383/383 BP:5
+2: Heatcore - HP:2013/3322 SP:384/392 BP:5
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore usa First Aid
+Alfyn recupera 379 de vida
+Alfyn termina con HP:4643
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4643/5836 SP:383/383 BP:5
+B-Heatcore - HP:2013/3322 SP:380/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:817/1129 Shields:3
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Heavenwing
+3.Ice Guardian
+4.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Qilin's Horn
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Light Guardian - HP:817/1129 Shields:3
+2: Ice Guardian - HP:1471/1471 Shields:3
+3: Heavenwing - HP:6769/6900 Shields:6
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Qilin's Horn
+Light Guardian recibe 656 de daño de tipo Spear
+Light Guardian termina con HP:161
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4643/5836 SP:348/383 BP:5
+B-Heatcore - HP:2013/3322 SP:380/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:161/1129 Shields:3
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Guardian
+3.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn recibe 437 de daño elemental
+Heatcore recibe 422 de daño elemental
+Alfyn termina con HP:4206
+Heatcore termina con HP:1591
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4206/5836 SP:348/383 BP:5
+B-Heatcore - HP:1591/3322 SP:380/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:161/1129 Shields:3
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Ice Guardian
+2.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Ice Guardian usa Attack
+Alfyn recibe 68 de daño físico
+Alfyn termina con HP:4138
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4138/5836 SP:348/383 BP:5
+B-Heatcore - HP:1591/3322 SP:380/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:161/1129 Shields:3
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Light Guardian usa Attack
+Alfyn recibe 0 de daño físico
+Alfyn termina con HP:4138
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4138/5836 SP:348/383 BP:5
+B-Heatcore - HP:1591/3322 SP:380/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:161/1129 Shields:3
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Shooting Stars
+2: Night Ode
+3: First Aid
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Alfyn - HP:4138/5836 SP:348/383 BP:5
+2: Heatcore - HP:1591/3322 SP:380/392 BP:5
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore usa First Aid
+Alfyn recupera 379 de vida
+Alfyn termina con HP:4517
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4517/5836 SP:348/383 BP:5
+B-Heatcore - HP:1591/3322 SP:376/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:161/1129 Shields:3
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Alfyn
+3.Ice Guardian
+4.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn recibe 437 de daño elemental
+Heatcore recibe 422 de daño elemental
+Alfyn termina con HP:4080
+Heatcore termina con HP:1169
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4080/5836 SP:348/383 BP:5
+B-Heatcore - HP:1169/3322 SP:376/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:161/1129 Shields:3
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Ice Guardian
+3.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4080/5836 SP:348/383 BP:5
+B-Heatcore - HP:1169/3322 SP:376/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:161/1129 Shields:3
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Ice Guardian
+2.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Heatcore
+3.Heavenwing
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Ice Guardian usa Attack
+Alfyn se defiende
+Alfyn recibe 34 de daño físico
+Alfyn termina con HP:4046
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4046/5836 SP:348/383 BP:5
+B-Heatcore - HP:1169/3322 SP:376/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:161/1129 Shields:3
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Heatcore
+3.Heavenwing
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Light Guardian usa Attack
+Alfyn se defiende
+Alfyn recibe 0 de daño físico
+Alfyn termina con HP:4046
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4046/5836 SP:348/383 BP:5
+B-Heatcore - HP:1169/3322 SP:376/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:161/1129 Shields:3
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Heatcore
+3.Heavenwing
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Qilin's Horn
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Light Guardian - HP:161/1129 Shields:3
+2: Ice Guardian - HP:1471/1471 Shields:3
+3: Heavenwing - HP:6769/6900 Shields:6
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Qilin's Horn
+Ice Guardian recibe 600 de daño de tipo Spear
+Ice Guardian termina con HP:871
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4046/5836 SP:313/383 BP:5
+B-Heatcore - HP:1169/3322 SP:376/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:161/1129 Shields:3
+B-Ice Guardian - HP:871/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Heavenwing
+3.Ice Guardian
+4.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+5.Light Guardian
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Shooting Stars
+2: Night Ode
+3: First Aid
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore usa Shooting Stars
+Light Guardian recibe 74 de daño de tipo Wind
+Light Guardian recibe 74 de daño de tipo Light
+Light Guardian recibe 111 de daño de tipo Dark con debilidad
+Ice Guardian recibe 0 de daño de tipo Wind
+Ice Guardian recibe 0 de daño de tipo Light
+Ice Guardian recibe 0 de daño de tipo Dark
+Heavenwing recibe 0 de daño de tipo Wind
+Heavenwing recibe 0 de daño de tipo Light
+Heavenwing recibe 0 de daño de tipo Dark con debilidad
+Light Guardian termina con HP:0
+Ice Guardian termina con HP:871
+Heavenwing termina con HP:6769
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4046/5836 SP:313/383 BP:5
+B-Heatcore - HP:1169/3322 SP:341/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:2
+B-Ice Guardian - HP:871/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn recibe 437 de daño elemental
+Heatcore recibe 422 de daño elemental
+Alfyn termina con HP:3609
+Heatcore termina con HP:747
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3609/5836 SP:313/383 BP:5
+B-Heatcore - HP:747/3322 SP:341/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:2
+B-Ice Guardian - HP:871/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+----------------------------------------
+Ice Guardian usa Attack
+Alfyn recibe 68 de daño físico
+Alfyn termina con HP:3541
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3541/5836 SP:313/383 BP:5
+B-Heatcore - HP:747/3322 SP:341/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:2
+B-Ice Guardian - HP:871/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3541/5836 SP:313/383 BP:5
+B-Heatcore - HP:747/3322 SP:341/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:2
+B-Ice Guardian - HP:871/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Alfyn
+3.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn recibe 437 de daño elemental
+Heatcore se defiende
+Heatcore recibe 211 de daño elemental
+Alfyn termina con HP:3104
+Heatcore termina con HP:536
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3104/5836 SP:313/383 BP:5
+B-Heatcore - HP:536/3322 SP:341/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:2
+B-Ice Guardian - HP:871/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3104/5836 SP:313/383 BP:5
+B-Heatcore - HP:536/3322 SP:341/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:2
+B-Ice Guardian - HP:871/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Alfyn
+3.Heavenwing
+4.Ice Guardian
+----------------------------------------
+Ice Guardian usa Attack
+Alfyn se defiende
+Alfyn recibe 34 de daño físico
+Alfyn termina con HP:3070
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3070/5836 SP:313/383 BP:5
+B-Heatcore - HP:536/3322 SP:341/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:2
+B-Ice Guardian - HP:871/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Alfyn
+3.Heavenwing
+4.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3070/5836 SP:313/383 BP:5
+B-Heatcore - HP:536/3322 SP:341/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:2
+B-Ice Guardian - HP:871/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Heavenwing
+3.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3070/5836 SP:313/383 BP:5
+B-Heatcore - HP:536/3322 SP:341/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:2
+B-Ice Guardian - HP:871/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Alfyn
+3.Heavenwing
+4.Ice Guardian
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn se defiende
+Alfyn recibe 218 de daño elemental
+Heatcore se defiende
+Heatcore recibe 211 de daño elemental
+Alfyn termina con HP:2852
+Heatcore termina con HP:325
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2852/5836 SP:313/383 BP:5
+B-Heatcore - HP:325/3322 SP:341/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:2
+B-Ice Guardian - HP:871/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Alfyn
+3.Heavenwing
+4.Ice Guardian
+----------------------------------------
+Ice Guardian usa Attack
+Alfyn se defiende
+Alfyn recibe 34 de daño físico
+Alfyn termina con HP:2818
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2818/5836 SP:313/383 BP:5
+B-Heatcore - HP:325/3322 SP:341/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:2
+B-Ice Guardian - HP:871/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Alfyn
+3.Heavenwing
+4.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2818/5836 SP:313/383 BP:5
+B-Heatcore - HP:325/3322 SP:341/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:2
+B-Ice Guardian - HP:871/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Heavenwing
+3.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2818/5836 SP:313/383 BP:5
+B-Heatcore - HP:325/3322 SP:341/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:2
+B-Ice Guardian - HP:871/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Alfyn
+3.Heavenwing
+4.Ice Guardian
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn se defiende
+Alfyn recibe 218 de daño elemental
+Heatcore se defiende
+Heatcore recibe 211 de daño elemental
+Alfyn termina con HP:2600
+Heatcore termina con HP:114
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2600/5836 SP:313/383 BP:5
+B-Heatcore - HP:114/3322 SP:341/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:2
+B-Ice Guardian - HP:871/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Alfyn
+3.Heavenwing
+4.Ice Guardian
+----------------------------------------
+Ice Guardian usa Attack
+Alfyn se defiende
+Alfyn recibe 34 de daño físico
+Alfyn termina con HP:2566
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2566/5836 SP:313/383 BP:5
+B-Heatcore - HP:114/3322 SP:341/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:2
+B-Ice Guardian - HP:871/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Alfyn
+3.Heavenwing
+4.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Shooting Stars
+2: Night Ode
+3: First Aid
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore usa Shooting Stars
+Ice Guardian recibe 0 de daño de tipo Wind
+Ice Guardian recibe 0 de daño de tipo Light
+Ice Guardian recibe 0 de daño de tipo Dark
+Heavenwing recibe 0 de daño de tipo Wind
+Heavenwing recibe 0 de daño de tipo Light
+Heavenwing recibe 0 de daño de tipo Dark con debilidad
+Ice Guardian termina con HP:871
+Heavenwing termina con HP:6769
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2566/5836 SP:313/383 BP:5
+B-Heatcore - HP:114/3322 SP:306/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:2
+B-Ice Guardian - HP:871/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Heavenwing
+3.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Qilin's Horn
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Ice Guardian - HP:871/1471 Shields:3
+2: Heavenwing - HP:6769/6900 Shields:6
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Qilin's Horn
+Ice Guardian recibe 600 de daño de tipo Spear
+Ice Guardian termina con HP:271
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2566/5836 SP:278/383 BP:5
+B-Heatcore - HP:114/3322 SP:306/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:2
+B-Ice Guardian - HP:271/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Heavenwing
+3.Alfyn
+4.Ice Guardian
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn recibe 437 de daño elemental
+Heatcore recibe 422 de daño elemental
+Alfyn termina con HP:2129
+Heatcore termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2129/5836 SP:278/383 BP:5
+B-Heatcore - HP:0/3322 SP:306/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:2
+B-Ice Guardian - HP:271/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heavenwing
+2.Alfyn
+3.Ice Guardian
+----------------------------------------
+Ice Guardian usa Attack
+Alfyn recibe 68 de daño físico
+Alfyn termina con HP:2061
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2061/5836 SP:278/383 BP:5
+B-Heatcore - HP:0/3322 SP:306/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:2
+B-Ice Guardian - HP:271/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Alfyn
+3.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heavenwing
+2.Alfyn
+3.Ice Guardian
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn recibe 437 de daño elemental
+Alfyn termina con HP:1624
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:1624/5836 SP:278/383 BP:5
+B-Heatcore - HP:0/3322 SP:306/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:2
+B-Ice Guardian - HP:271/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heavenwing
+2.Alfyn
+3.Ice Guardian
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:1624/5836 SP:278/383 BP:5
+B-Heatcore - HP:0/3322 SP:306/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:2
+B-Ice Guardian - HP:271/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Heavenwing
+3.Ice Guardian
+----------------------------------------
+Ice Guardian usa Attack
+Alfyn se defiende
+Alfyn recibe 34 de daño físico
+Alfyn termina con HP:1590
+----------------------------------------
+INICIA RONDA 14
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:1590/5836 SP:278/383 BP:5
+B-Heatcore - HP:0/3322 SP:306/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:2
+B-Ice Guardian - HP:271/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Heavenwing
+3.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heavenwing
+2.Alfyn
+3.Ice Guardian
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:1590/5836 SP:278/383 BP:5
+B-Heatcore - HP:0/3322 SP:306/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:2
+B-Ice Guardian - HP:271/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Heavenwing
+3.Ice Guardian
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn se defiende
+Alfyn recibe 218 de daño elemental
+Alfyn termina con HP:1372
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:1372/5836 SP:278/383 BP:5
+B-Heatcore - HP:0/3322 SP:306/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:2
+B-Ice Guardian - HP:271/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Heavenwing
+3.Ice Guardian
+----------------------------------------
+Ice Guardian usa Attack
+Alfyn se defiende
+Alfyn recibe 34 de daño físico
+Alfyn termina con HP:1338
+----------------------------------------
+INICIA RONDA 15
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:1338/5836 SP:278/383 BP:5
+B-Heatcore - HP:0/3322 SP:306/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:2
+B-Ice Guardian - HP:271/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Heavenwing
+3.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heavenwing
+2.Alfyn
+3.Ice Guardian
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:1338/5836 SP:278/383 BP:5
+B-Heatcore - HP:0/3322 SP:306/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:2
+B-Ice Guardian - HP:271/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Heavenwing
+3.Ice Guardian
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn se defiende
+Alfyn recibe 218 de daño elemental
+Alfyn termina con HP:1120
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:1120/5836 SP:278/383 BP:5
+B-Heatcore - HP:0/3322 SP:306/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:2
+B-Ice Guardian - HP:271/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Heavenwing
+3.Ice Guardian
+----------------------------------------
+Ice Guardian usa Attack
+Alfyn se defiende
+Alfyn recibe 34 de daño físico
+Alfyn termina con HP:1086
+----------------------------------------
+INICIA RONDA 16
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:1086/5836 SP:278/383 BP:5
+B-Heatcore - HP:0/3322 SP:306/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:2
+B-Ice Guardian - HP:271/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Heavenwing
+3.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heavenwing
+2.Alfyn
+3.Ice Guardian
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:1086/5836 SP:278/383 BP:5
+B-Heatcore - HP:0/3322 SP:306/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:2
+B-Ice Guardian - HP:271/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Heavenwing
+3.Ice Guardian
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn se defiende
+Alfyn recibe 218 de daño elemental
+Alfyn termina con HP:868
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:868/5836 SP:278/383 BP:5
+B-Heatcore - HP:0/3322 SP:306/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:2
+B-Ice Guardian - HP:271/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Heavenwing
+3.Ice Guardian
+----------------------------------------
+Ice Guardian usa Attack
+Alfyn se defiende
+Alfyn recibe 34 de daño físico
+Alfyn termina con HP:834
+----------------------------------------
+INICIA RONDA 17
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:834/5836 SP:278/383 BP:5
+B-Heatcore - HP:0/3322 SP:306/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:2
+B-Ice Guardian - HP:271/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Heavenwing
+3.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heavenwing
+2.Alfyn
+3.Ice Guardian
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:834/5836 SP:278/383 BP:5
+B-Heatcore - HP:0/3322 SP:306/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:2
+B-Ice Guardian - HP:271/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Heavenwing
+3.Ice Guardian
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn se defiende
+Alfyn recibe 218 de daño elemental
+Alfyn termina con HP:616
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:616/5836 SP:278/383 BP:5
+B-Heatcore - HP:0/3322 SP:306/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:2
+B-Ice Guardian - HP:271/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Heavenwing
+3.Ice Guardian
+----------------------------------------
+Ice Guardian usa Attack
+Alfyn se defiende
+Alfyn recibe 34 de daño físico
+Alfyn termina con HP:582
+----------------------------------------
+INICIA RONDA 18
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:582/5836 SP:278/383 BP:5
+B-Heatcore - HP:0/3322 SP:306/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:2
+B-Ice Guardian - HP:271/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Heavenwing
+3.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heavenwing
+2.Alfyn
+3.Ice Guardian
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:582/5836 SP:278/383 BP:5
+B-Heatcore - HP:0/3322 SP:306/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:2
+B-Ice Guardian - HP:271/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Heavenwing
+3.Ice Guardian
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn se defiende
+Alfyn recibe 218 de daño elemental
+Alfyn termina con HP:364
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:364/5836 SP:278/383 BP:5
+B-Heatcore - HP:0/3322 SP:306/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:2
+B-Ice Guardian - HP:271/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Heavenwing
+3.Ice Guardian
+----------------------------------------
+Ice Guardian usa Attack
+Alfyn se defiende
+Alfyn recibe 34 de daño físico
+Alfyn termina con HP:330
+----------------------------------------
+INICIA RONDA 19
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:330/5836 SP:278/383 BP:5
+B-Heatcore - HP:0/3322 SP:306/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:2
+B-Ice Guardian - HP:271/1471 Shields:3
+C-Heavenwing - HP:6769/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Heavenwing
+3.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heavenwing
+2.Alfyn
+3.Ice Guardian
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Ice Guardian - HP:271/1471 Shields:3
+2: Heavenwing - HP:6769/6900 Shields:6
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Heavenwing recibe 129 de daño de tipo Axe
+Heavenwing termina con HP:6640
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:330/5836 SP:278/383 BP:5
+B-Heatcore - HP:0/3322 SP:306/392 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:2
+B-Ice Guardian - HP:271/1471 Shields:3
+C-Heavenwing - HP:6640/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heavenwing
+2.Alfyn
+3.Ice Guardian
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn recibe 437 de daño elemental
+Alfyn termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

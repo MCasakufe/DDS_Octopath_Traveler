@@ -1,0 +1,2092 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 12
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:383/383 BP:1
+B-H'aanit - HP:4447/4447 SP:419/419 BP:1
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Shadow Wisp - HP:729/729 Shields:1
+D-Light Elemental - HP:1880/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Hoary Bear - HP:2688/2688 Shields:3
+2: Wind Wisp - HP:1740/1740 Shields:1
+3: Shadow Wisp - HP:729/729 Shields:1
+4: Light Elemental - HP:1880/1880 Shields:4
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Light Elemental recibe 131 de daño de tipo Axe
+Light Elemental termina con HP:1749
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:383/383 BP:1
+B-H'aanit - HP:4447/4447 SP:419/419 BP:1
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Shadow Wisp - HP:729/729 Shields:1
+D-Light Elemental - HP:1749/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Wind Wisp
+3.Shadow Wisp
+4.Hoary Bear
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: First Aid
+2: Mercy Strike
+3: Cross Strike
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Hoary Bear - HP:2688/2688 Shields:3
+2: Wind Wisp - HP:1740/1740 Shields:1
+3: Shadow Wisp - HP:729/729 Shields:1
+4: Light Elemental - HP:1749/1880 Shields:4
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Mercy Strike
+Shadow Wisp recibe 240 de daño de tipo Bow
+Shadow Wisp termina con HP:489
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:379/383 BP:1
+B-H'aanit - HP:4447/4447 SP:419/419 BP:1
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Shadow Wisp - HP:489/729 Shields:1
+D-Light Elemental - HP:1749/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+2.Shadow Wisp
+3.Hoary Bear
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Wind Wisp usa Wind slash
+H'aanit recibe 460 de daño elemental
+H'aanit termina con HP:3987
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:379/383 BP:1
+B-H'aanit - HP:3987/4447 SP:419/419 BP:1
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Shadow Wisp - HP:489/729 Shields:1
+D-Light Elemental - HP:1749/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Shadow Wisp
+2.Hoary Bear
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Shadow Wisp usa Enshadow
+H'aanit recibe 138 de daño elemental
+H'aanit termina con HP:3849
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:379/383 BP:1
+B-H'aanit - HP:3849/4447 SP:419/419 BP:1
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Shadow Wisp - HP:489/729 Shields:1
+D-Light Elemental - HP:1749/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hoary Bear
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Hoary Bear usa Rampage
+Alfyn recibe 149 de daño físico
+H'aanit recibe 310 de daño físico
+Alfyn termina con HP:5187
+H'aanit termina con HP:3539
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5187/5336 SP:379/383 BP:1
+B-H'aanit - HP:3539/4447 SP:419/419 BP:1
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Shadow Wisp - HP:489/729 Shields:1
+D-Light Elemental - HP:1749/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn recibe 139 de daño elemental
+Alfyn termina con HP:5048
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5048/5336 SP:379/383 BP:2
+B-H'aanit - HP:3539/4447 SP:419/419 BP:2
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Shadow Wisp - HP:489/729 Shields:1
+D-Light Elemental - HP:1749/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5048/5336 SP:379/383 BP:2
+B-H'aanit - HP:3539/4447 SP:419/419 BP:2
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Shadow Wisp - HP:489/729 Shields:1
+D-Light Elemental - HP:1749/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Wind Wisp
+3.Shadow Wisp
+4.Hoary Bear
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: First Aid
+2: Mercy Strike
+3: Cross Strike
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Hoary Bear - HP:2688/2688 Shields:3
+2: Wind Wisp - HP:1740/1740 Shields:1
+3: Shadow Wisp - HP:489/729 Shields:1
+4: Light Elemental - HP:1749/1880 Shields:4
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Cross Strike
+Shadow Wisp recibe 316 de daño de tipo Sword
+Shadow Wisp termina con HP:173
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5048/5336 SP:367/383 BP:2
+B-H'aanit - HP:3539/4447 SP:419/419 BP:2
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1749/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+2.Shadow Wisp
+3.Hoary Bear
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Wind Wisp usa Wind slash
+H'aanit se defiende
+H'aanit recibe 230 de daño elemental
+H'aanit termina con HP:3309
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5048/5336 SP:367/383 BP:2
+B-H'aanit - HP:3309/4447 SP:419/419 BP:2
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1749/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Shadow Wisp
+2.Hoary Bear
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Shadow Wisp usa Enshadow
+H'aanit se defiende
+H'aanit recibe 69 de daño elemental
+H'aanit termina con HP:3240
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5048/5336 SP:367/383 BP:2
+B-H'aanit - HP:3240/4447 SP:419/419 BP:2
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1749/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hoary Bear
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Hoary Bear usa Rampage
+Alfyn recibe 149 de daño físico
+H'aanit se defiende
+H'aanit recibe 155 de daño físico
+Alfyn termina con HP:4899
+H'aanit termina con HP:3085
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4899/5336 SP:367/383 BP:2
+B-H'aanit - HP:3085/4447 SP:419/419 BP:2
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1749/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn recibe 139 de daño elemental
+Alfyn termina con HP:4760
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4760/5336 SP:367/383 BP:3
+B-H'aanit - HP:3085/4447 SP:419/419 BP:3
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1749/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4760/5336 SP:367/383 BP:3
+B-H'aanit - HP:3085/4447 SP:419/419 BP:3
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1749/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Wind Wisp
+3.Shadow Wisp
+4.Hoary Bear
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4760/5336 SP:367/383 BP:3
+B-H'aanit - HP:3085/4447 SP:419/419 BP:3
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1749/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+2.Shadow Wisp
+3.Hoary Bear
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Wind Wisp usa Wind slash
+H'aanit se defiende
+H'aanit recibe 230 de daño elemental
+H'aanit termina con HP:2855
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4760/5336 SP:367/383 BP:3
+B-H'aanit - HP:2855/4447 SP:419/419 BP:3
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1749/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Shadow Wisp
+2.Hoary Bear
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Shadow Wisp usa Enshadow
+H'aanit se defiende
+H'aanit recibe 69 de daño elemental
+H'aanit termina con HP:2786
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4760/5336 SP:367/383 BP:3
+B-H'aanit - HP:2786/4447 SP:419/419 BP:3
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1749/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hoary Bear
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Hoary Bear usa Rampage
+Alfyn se defiende
+Alfyn recibe 74 de daño físico
+H'aanit se defiende
+H'aanit recibe 155 de daño físico
+Alfyn termina con HP:4686
+H'aanit termina con HP:2631
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4686/5336 SP:367/383 BP:3
+B-H'aanit - HP:2631/4447 SP:419/419 BP:3
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1749/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn se defiende
+Alfyn recibe 69 de daño elemental
+Alfyn termina con HP:4617
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4617/5336 SP:367/383 BP:4
+B-H'aanit - HP:2631/4447 SP:419/419 BP:4
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1749/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4617/5336 SP:367/383 BP:4
+B-H'aanit - HP:2631/4447 SP:419/419 BP:4
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1749/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Wind Wisp
+3.Shadow Wisp
+4.Hoary Bear
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: First Aid
+2: Mercy Strike
+3: Cross Strike
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Hoary Bear - HP:2688/2688 Shields:3
+2: Wind Wisp - HP:1740/1740 Shields:1
+3: Shadow Wisp - HP:173/729 Shields:1
+4: Light Elemental - HP:1749/1880 Shields:4
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Cross Strike
+Wind Wisp recibe 111 de daño de tipo Sword
+Wind Wisp termina con HP:1629
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4617/5336 SP:355/383 BP:4
+B-H'aanit - HP:2631/4447 SP:419/419 BP:4
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Wind Wisp - HP:1629/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1749/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+2.Shadow Wisp
+3.Hoary Bear
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Wind Wisp usa Wind slash
+H'aanit se defiende
+H'aanit recibe 230 de daño elemental
+H'aanit termina con HP:2401
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4617/5336 SP:355/383 BP:4
+B-H'aanit - HP:2401/4447 SP:419/419 BP:4
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Wind Wisp - HP:1629/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1749/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Shadow Wisp
+2.Hoary Bear
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Shadow Wisp usa Enshadow
+H'aanit se defiende
+H'aanit recibe 69 de daño elemental
+H'aanit termina con HP:2332
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4617/5336 SP:355/383 BP:4
+B-H'aanit - HP:2332/4447 SP:419/419 BP:4
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Wind Wisp - HP:1629/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1749/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hoary Bear
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Hoary Bear usa Rampage
+Alfyn recibe 149 de daño físico
+H'aanit se defiende
+H'aanit recibe 155 de daño físico
+Alfyn termina con HP:4468
+H'aanit termina con HP:2177
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4468/5336 SP:355/383 BP:4
+B-H'aanit - HP:2177/4447 SP:419/419 BP:4
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Wind Wisp - HP:1629/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1749/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn recibe 139 de daño elemental
+Alfyn termina con HP:4329
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4329/5336 SP:355/383 BP:5
+B-H'aanit - HP:2177/4447 SP:419/419 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Wind Wisp - HP:1629/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1749/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Hoary Bear - HP:2688/2688 Shields:3
+2: Wind Wisp - HP:1629/1740 Shields:1
+3: Shadow Wisp - HP:173/729 Shields:1
+4: Light Elemental - HP:1749/1880 Shields:4
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Light Elemental recibe 131 de daño de tipo Axe
+Light Elemental termina con HP:1618
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4329/5336 SP:355/383 BP:5
+B-H'aanit - HP:2177/4447 SP:419/419 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Wind Wisp - HP:1629/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1618/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Wind Wisp
+3.Shadow Wisp
+4.Hoary Bear
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: First Aid
+2: Mercy Strike
+3: Cross Strike
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Alfyn - HP:4329/5336 SP:355/383 BP:5
+2: H'aanit - HP:2177/4447 SP:419/419 BP:5
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa First Aid
+H'aanit recupera 357 de vida
+H'aanit termina con HP:2534
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4329/5336 SP:351/383 BP:5
+B-H'aanit - HP:2534/4447 SP:419/419 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Wind Wisp - HP:1629/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1618/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+2.Shadow Wisp
+3.Hoary Bear
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Wind Wisp usa Wind slash
+H'aanit recibe 460 de daño elemental
+H'aanit termina con HP:2074
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4329/5336 SP:351/383 BP:5
+B-H'aanit - HP:2074/4447 SP:419/419 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Wind Wisp - HP:1629/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1618/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Shadow Wisp
+2.Hoary Bear
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Shadow Wisp usa Enshadow
+H'aanit recibe 138 de daño elemental
+H'aanit termina con HP:1936
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4329/5336 SP:351/383 BP:5
+B-H'aanit - HP:1936/4447 SP:419/419 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Wind Wisp - HP:1629/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1618/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hoary Bear
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Hoary Bear usa Rampage
+Alfyn recibe 149 de daño físico
+H'aanit recibe 310 de daño físico
+Alfyn termina con HP:4180
+H'aanit termina con HP:1626
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4180/5336 SP:351/383 BP:5
+B-H'aanit - HP:1626/4447 SP:419/419 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Wind Wisp - HP:1629/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1618/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn recibe 139 de daño elemental
+Alfyn termina con HP:4041
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4041/5336 SP:351/383 BP:5
+B-H'aanit - HP:1626/4447 SP:419/419 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Wind Wisp - HP:1629/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1618/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Hoary Bear - HP:2688/2688 Shields:3
+2: Wind Wisp - HP:1629/1740 Shields:1
+3: Shadow Wisp - HP:173/729 Shields:1
+4: Light Elemental - HP:1618/1880 Shields:4
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Light Elemental recibe 131 de daño de tipo Axe
+Light Elemental termina con HP:1487
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4041/5336 SP:351/383 BP:5
+B-H'aanit - HP:1626/4447 SP:419/419 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Wind Wisp - HP:1629/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1487/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Wind Wisp
+3.Shadow Wisp
+4.Hoary Bear
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: First Aid
+2: Mercy Strike
+3: Cross Strike
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Hoary Bear - HP:2688/2688 Shields:3
+2: Wind Wisp - HP:1629/1740 Shields:1
+3: Shadow Wisp - HP:173/729 Shields:1
+4: Light Elemental - HP:1487/1880 Shields:4
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Cross Strike
+Hoary Bear recibe 351 de daño de tipo Sword
+Hoary Bear termina con HP:2337
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4041/5336 SP:339/383 BP:5
+B-H'aanit - HP:1626/4447 SP:419/419 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:2337/2688 Shields:3
+B-Wind Wisp - HP:1629/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1487/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+2.Shadow Wisp
+3.Hoary Bear
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Wind Wisp usa Wind slash
+H'aanit recibe 460 de daño elemental
+H'aanit termina con HP:1166
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4041/5336 SP:339/383 BP:5
+B-H'aanit - HP:1166/4447 SP:419/419 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:2337/2688 Shields:3
+B-Wind Wisp - HP:1629/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1487/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Shadow Wisp
+2.Hoary Bear
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Shadow Wisp usa Enshadow
+H'aanit recibe 138 de daño elemental
+H'aanit termina con HP:1028
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4041/5336 SP:339/383 BP:5
+B-H'aanit - HP:1028/4447 SP:419/419 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:2337/2688 Shields:3
+B-Wind Wisp - HP:1629/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1487/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hoary Bear
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Hoary Bear usa Rampage
+Alfyn recibe 149 de daño físico
+H'aanit recibe 310 de daño físico
+Alfyn termina con HP:3892
+H'aanit termina con HP:718
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3892/5336 SP:339/383 BP:5
+B-H'aanit - HP:718/4447 SP:419/419 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:2337/2688 Shields:3
+B-Wind Wisp - HP:1629/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1487/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn recibe 139 de daño elemental
+Alfyn termina con HP:3753
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3753/5336 SP:339/383 BP:5
+B-H'aanit - HP:718/4447 SP:419/419 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:2337/2688 Shields:3
+B-Wind Wisp - HP:1629/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1487/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Hoary Bear - HP:2337/2688 Shields:3
+2: Wind Wisp - HP:1629/1740 Shields:1
+3: Shadow Wisp - HP:173/729 Shields:1
+4: Light Elemental - HP:1487/1880 Shields:4
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Light Elemental recibe 131 de daño de tipo Bow
+Light Elemental termina con HP:1356
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3753/5336 SP:339/383 BP:5
+B-H'aanit - HP:718/4447 SP:419/419 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:2337/2688 Shields:3
+B-Wind Wisp - HP:1629/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1356/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Wind Wisp
+3.Shadow Wisp
+4.Hoary Bear
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: First Aid
+2: Mercy Strike
+3: Cross Strike
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Hoary Bear - HP:2337/2688 Shields:3
+2: Wind Wisp - HP:1629/1740 Shields:1
+3: Shadow Wisp - HP:173/729 Shields:1
+4: Light Elemental - HP:1356/1880 Shields:4
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Cross Strike
+Hoary Bear recibe 351 de daño de tipo Sword
+Hoary Bear termina con HP:1986
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3753/5336 SP:327/383 BP:5
+B-H'aanit - HP:718/4447 SP:419/419 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:1986/2688 Shields:3
+B-Wind Wisp - HP:1629/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1356/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+2.Shadow Wisp
+3.Hoary Bear
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Wind Wisp usa Wind slash
+H'aanit recibe 460 de daño elemental
+H'aanit termina con HP:258
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3753/5336 SP:327/383 BP:5
+B-H'aanit - HP:258/4447 SP:419/419 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:1986/2688 Shields:3
+B-Wind Wisp - HP:1629/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1356/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Shadow Wisp
+2.Hoary Bear
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Shadow Wisp usa Enshadow
+H'aanit recibe 138 de daño elemental
+H'aanit termina con HP:120
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3753/5336 SP:327/383 BP:5
+B-H'aanit - HP:120/4447 SP:419/419 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:1986/2688 Shields:3
+B-Wind Wisp - HP:1629/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1356/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hoary Bear
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Alfyn
+3.Wind Wisp
+4.Shadow Wisp
+5.Hoary Bear
+6.Light Elemental
+----------------------------------------
+Hoary Bear usa Rampage
+Alfyn recibe 149 de daño físico
+H'aanit recibe 310 de daño físico
+Alfyn termina con HP:3604
+H'aanit termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3604/5336 SP:327/383 BP:5
+B-H'aanit - HP:0/4447 SP:419/419 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:1986/2688 Shields:3
+B-Wind Wisp - HP:1629/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1356/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Wind Wisp
+3.Shadow Wisp
+4.Hoary Bear
+5.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn recibe 139 de daño elemental
+Alfyn termina con HP:3465
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3465/5336 SP:327/383 BP:5
+B-H'aanit - HP:0/4447 SP:419/419 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:1986/2688 Shields:3
+B-Wind Wisp - HP:1629/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1356/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Wind Wisp
+3.Shadow Wisp
+4.Hoary Bear
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Wind Wisp
+3.Shadow Wisp
+4.Hoary Bear
+5.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: First Aid
+2: Mercy Strike
+3: Cross Strike
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Hoary Bear - HP:1986/2688 Shields:3
+2: Wind Wisp - HP:1629/1740 Shields:1
+3: Shadow Wisp - HP:173/729 Shields:1
+4: Light Elemental - HP:1356/1880 Shields:4
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Mercy Strike
+Hoary Bear recibe 275 de daño de tipo Bow
+Hoary Bear termina con HP:1711
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3465/5336 SP:323/383 BP:5
+B-H'aanit - HP:0/4447 SP:419/419 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:1711/2688 Shields:3
+B-Wind Wisp - HP:1629/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1356/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+2.Shadow Wisp
+3.Hoary Bear
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Wind Wisp
+3.Shadow Wisp
+4.Hoary Bear
+5.Light Elemental
+----------------------------------------
+Wind Wisp usa Wind slash
+Alfyn recibe 477 de daño elemental
+Alfyn termina con HP:2988
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2988/5336 SP:323/383 BP:5
+B-H'aanit - HP:0/4447 SP:419/419 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:1711/2688 Shields:3
+B-Wind Wisp - HP:1629/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1356/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Shadow Wisp
+2.Hoary Bear
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Wind Wisp
+3.Shadow Wisp
+4.Hoary Bear
+5.Light Elemental
+----------------------------------------
+Shadow Wisp usa Enshadow
+Alfyn recibe 155 de daño elemental
+Alfyn termina con HP:2833
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2833/5336 SP:323/383 BP:5
+B-H'aanit - HP:0/4447 SP:419/419 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:1711/2688 Shields:3
+B-Wind Wisp - HP:1629/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1356/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hoary Bear
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Wind Wisp
+3.Shadow Wisp
+4.Hoary Bear
+5.Light Elemental
+----------------------------------------
+Hoary Bear usa Rampage
+Alfyn recibe 149 de daño físico
+Alfyn termina con HP:2684
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2684/5336 SP:323/383 BP:5
+B-H'aanit - HP:0/4447 SP:419/419 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:1711/2688 Shields:3
+B-Wind Wisp - HP:1629/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1356/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Wind Wisp
+3.Shadow Wisp
+4.Hoary Bear
+5.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn recibe 139 de daño elemental
+Alfyn termina con HP:2545
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2545/5336 SP:323/383 BP:5
+B-H'aanit - HP:0/4447 SP:419/419 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:1711/2688 Shields:3
+B-Wind Wisp - HP:1629/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1356/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Wind Wisp
+3.Shadow Wisp
+4.Hoary Bear
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Wind Wisp
+3.Shadow Wisp
+4.Hoary Bear
+5.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: First Aid
+2: Mercy Strike
+3: Cross Strike
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Hoary Bear - HP:1711/2688 Shields:3
+2: Wind Wisp - HP:1629/1740 Shields:1
+3: Shadow Wisp - HP:173/729 Shields:1
+4: Light Elemental - HP:1356/1880 Shields:4
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Mercy Strike
+Wind Wisp recibe 35 de daño de tipo Bow
+Wind Wisp termina con HP:1594
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2545/5336 SP:319/383 BP:5
+B-H'aanit - HP:0/4447 SP:419/419 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:1711/2688 Shields:3
+B-Wind Wisp - HP:1594/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1356/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+2.Shadow Wisp
+3.Hoary Bear
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Wind Wisp
+3.Shadow Wisp
+4.Hoary Bear
+5.Light Elemental
+----------------------------------------
+Wind Wisp usa Wind slash
+Alfyn recibe 477 de daño elemental
+Alfyn termina con HP:2068
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2068/5336 SP:319/383 BP:5
+B-H'aanit - HP:0/4447 SP:419/419 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:1711/2688 Shields:3
+B-Wind Wisp - HP:1594/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1356/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Shadow Wisp
+2.Hoary Bear
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Wind Wisp
+3.Shadow Wisp
+4.Hoary Bear
+5.Light Elemental
+----------------------------------------
+Shadow Wisp usa Enshadow
+Alfyn recibe 155 de daño elemental
+Alfyn termina con HP:1913
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:1913/5336 SP:319/383 BP:5
+B-H'aanit - HP:0/4447 SP:419/419 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:1711/2688 Shields:3
+B-Wind Wisp - HP:1594/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1356/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hoary Bear
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Wind Wisp
+3.Shadow Wisp
+4.Hoary Bear
+5.Light Elemental
+----------------------------------------
+Hoary Bear usa Rampage
+Alfyn recibe 149 de daño físico
+Alfyn termina con HP:1764
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:1764/5336 SP:319/383 BP:5
+B-H'aanit - HP:0/4447 SP:419/419 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:1711/2688 Shields:3
+B-Wind Wisp - HP:1594/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1356/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Wind Wisp
+3.Shadow Wisp
+4.Hoary Bear
+5.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn recibe 139 de daño elemental
+Alfyn termina con HP:1625
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:1625/5336 SP:319/383 BP:5
+B-H'aanit - HP:0/4447 SP:419/419 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:1711/2688 Shields:3
+B-Wind Wisp - HP:1594/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1356/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Wind Wisp
+3.Shadow Wisp
+4.Hoary Bear
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Wind Wisp
+3.Shadow Wisp
+4.Hoary Bear
+5.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Hoary Bear - HP:1711/2688 Shields:3
+2: Wind Wisp - HP:1594/1740 Shields:1
+3: Shadow Wisp - HP:173/729 Shields:1
+4: Light Elemental - HP:1356/1880 Shields:4
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Wind Wisp recibe 0 de daño de tipo Axe
+Wind Wisp termina con HP:1594
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:1625/5336 SP:319/383 BP:5
+B-H'aanit - HP:0/4447 SP:419/419 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:1711/2688 Shields:3
+B-Wind Wisp - HP:1594/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1356/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+2.Shadow Wisp
+3.Hoary Bear
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Wind Wisp
+3.Shadow Wisp
+4.Hoary Bear
+5.Light Elemental
+----------------------------------------
+Wind Wisp usa Wind slash
+Alfyn recibe 477 de daño elemental
+Alfyn termina con HP:1148
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:1148/5336 SP:319/383 BP:5
+B-H'aanit - HP:0/4447 SP:419/419 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:1711/2688 Shields:3
+B-Wind Wisp - HP:1594/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1356/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Shadow Wisp
+2.Hoary Bear
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Wind Wisp
+3.Shadow Wisp
+4.Hoary Bear
+5.Light Elemental
+----------------------------------------
+Shadow Wisp usa Enshadow
+Alfyn recibe 155 de daño elemental
+Alfyn termina con HP:993
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:993/5336 SP:319/383 BP:5
+B-H'aanit - HP:0/4447 SP:419/419 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:1711/2688 Shields:3
+B-Wind Wisp - HP:1594/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1356/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hoary Bear
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Wind Wisp
+3.Shadow Wisp
+4.Hoary Bear
+5.Light Elemental
+----------------------------------------
+Hoary Bear usa Rampage
+Alfyn recibe 149 de daño físico
+Alfyn termina con HP:844
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:844/5336 SP:319/383 BP:5
+B-H'aanit - HP:0/4447 SP:419/419 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:1711/2688 Shields:3
+B-Wind Wisp - HP:1594/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1356/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Wind Wisp
+3.Shadow Wisp
+4.Hoary Bear
+5.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn recibe 139 de daño elemental
+Alfyn termina con HP:705
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:705/5336 SP:319/383 BP:5
+B-H'aanit - HP:0/4447 SP:419/419 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:1711/2688 Shields:3
+B-Wind Wisp - HP:1594/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1356/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Wind Wisp
+3.Shadow Wisp
+4.Hoary Bear
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Wind Wisp
+3.Shadow Wisp
+4.Hoary Bear
+5.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Hoary Bear - HP:1711/2688 Shields:3
+2: Wind Wisp - HP:1594/1740 Shields:1
+3: Shadow Wisp - HP:173/729 Shields:1
+4: Light Elemental - HP:1356/1880 Shields:4
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Hoary Bear recibe 298 de daño de tipo Axe con debilidad
+Hoary Bear termina con HP:1413
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:705/5336 SP:319/383 BP:5
+B-H'aanit - HP:0/4447 SP:419/419 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:1413/2688 Shields:2
+B-Wind Wisp - HP:1594/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1356/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+2.Shadow Wisp
+3.Hoary Bear
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Wind Wisp
+3.Shadow Wisp
+4.Hoary Bear
+5.Light Elemental
+----------------------------------------
+Wind Wisp usa Wind slash
+Alfyn recibe 477 de daño elemental
+Alfyn termina con HP:228
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:228/5336 SP:319/383 BP:5
+B-H'aanit - HP:0/4447 SP:419/419 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:1413/2688 Shields:2
+B-Wind Wisp - HP:1594/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1356/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Shadow Wisp
+2.Hoary Bear
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Wind Wisp
+3.Shadow Wisp
+4.Hoary Bear
+5.Light Elemental
+----------------------------------------
+Shadow Wisp usa Enshadow
+Alfyn recibe 155 de daño elemental
+Alfyn termina con HP:73
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:73/5336 SP:319/383 BP:5
+B-H'aanit - HP:0/4447 SP:419/419 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:1413/2688 Shields:2
+B-Wind Wisp - HP:1594/1740 Shields:1
+C-Shadow Wisp - HP:173/729 Shields:1
+D-Light Elemental - HP:1356/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hoary Bear
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Wind Wisp
+3.Shadow Wisp
+4.Hoary Bear
+5.Light Elemental
+----------------------------------------
+Hoary Bear usa Rampage
+Alfyn recibe 149 de daño físico
+Alfyn termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

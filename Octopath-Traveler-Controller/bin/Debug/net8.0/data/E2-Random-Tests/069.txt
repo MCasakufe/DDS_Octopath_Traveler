@@ -1,0 +1,1821 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 68
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4891/4891 SP:314/314 BP:1
+B-Ophilia - HP:4002/4002 SP:470/470 BP:1
+C-Temenos - HP:4002/4002 SP:432/432 BP:1
+D-Agnea - HP:4502/4502 SP:504/504 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Frost Bear - HP:1197/1197 Shields:3
+C-Shaggy Meep - HP:1036/1036 Shields:3
+D-Light Elemental - HP:1880/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Ophilia
+3.Temenos
+4.Partitio
+5.Shaggy Meep
+6.Ice Elemental
+7.Light Elemental
+8.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ophilia
+3.Temenos
+4.Partitio
+5.Shaggy Meep
+6.Ice Elemental
+7.Light Elemental
+8.Frost Bear
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Night Ode
+2: Fox Spirit
+3: Yatagarasu
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Yatagarasu
+Ice Elemental recibe 0 de daño de tipo Dagger
+Frost Bear recibe 283 de daño de tipo Dagger
+Shaggy Meep recibe 216 de daño de tipo Dagger
+Light Elemental recibe 73 de daño de tipo Dagger
+Ice Elemental termina con HP:2160
+Frost Bear termina con HP:914
+Shaggy Meep termina con HP:820
+Light Elemental termina con HP:1807
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4891/4891 SP:314/314 BP:1
+B-Ophilia - HP:4002/4002 SP:470/470 BP:1
+C-Temenos - HP:4002/4002 SP:432/432 BP:1
+D-Agnea - HP:4502/4502 SP:469/504 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Frost Bear - HP:914/1197 Shields:3
+C-Shaggy Meep - HP:820/1036 Shields:3
+D-Light Elemental - HP:1807/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Temenos
+3.Partitio
+4.Shaggy Meep
+5.Ice Elemental
+6.Light Elemental
+7.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ophilia
+3.Temenos
+4.Partitio
+5.Shaggy Meep
+6.Ice Elemental
+7.Light Elemental
+8.Frost Bear
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4891/4891 SP:314/314 BP:1
+B-Ophilia - HP:4002/4002 SP:470/470 BP:1
+C-Temenos - HP:4002/4002 SP:432/432 BP:1
+D-Agnea - HP:4502/4502 SP:469/504 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Frost Bear - HP:914/1197 Shields:3
+C-Shaggy Meep - HP:820/1036 Shields:3
+D-Light Elemental - HP:1807/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Partitio
+3.Shaggy Meep
+4.Ice Elemental
+5.Light Elemental
+6.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Agnea
+3.Temenos
+4.Partitio
+5.Shaggy Meep
+6.Ice Elemental
+7.Light Elemental
+8.Frost Bear
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Ice Elemental - HP:2160/2160 Shields:4
+2: Frost Bear - HP:914/1197 Shields:3
+3: Shaggy Meep - HP:820/1036 Shields:3
+4: Light Elemental - HP:1807/1880 Shields:4
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Shaggy Meep recibe 306 de daño de tipo Stave con debilidad
+Shaggy Meep termina con HP:514
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4891/4891 SP:314/314 BP:1
+B-Ophilia - HP:4002/4002 SP:470/470 BP:1
+C-Temenos - HP:4002/4002 SP:432/432 BP:1
+D-Agnea - HP:4502/4502 SP:469/504 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Frost Bear - HP:914/1197 Shields:3
+C-Shaggy Meep - HP:514/1036 Shields:2
+D-Light Elemental - HP:1807/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Shaggy Meep
+3.Ice Elemental
+4.Light Elemental
+5.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Agnea
+3.Temenos
+4.Partitio
+5.Shaggy Meep
+6.Ice Elemental
+7.Light Elemental
+8.Frost Bear
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Lightning Bolt
+2: Wildfire
+3: Last Stand
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Ice Elemental - HP:2160/2160 Shields:4
+2: Frost Bear - HP:914/1197 Shields:3
+3: Shaggy Meep - HP:514/1036 Shields:2
+4: Light Elemental - HP:1807/1880 Shields:4
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio usa Wildfire
+Frost Bear recibe 424 de daño de tipo Fire
+Frost Bear termina con HP:490
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4891/4891 SP:307/314 BP:1
+B-Ophilia - HP:4002/4002 SP:470/470 BP:1
+C-Temenos - HP:4002/4002 SP:432/432 BP:1
+D-Agnea - HP:4502/4502 SP:469/504 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Frost Bear - HP:490/1197 Shields:3
+C-Shaggy Meep - HP:514/1036 Shields:2
+D-Light Elemental - HP:1807/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Shaggy Meep
+2.Ice Elemental
+3.Light Elemental
+4.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Agnea
+3.Temenos
+4.Partitio
+5.Shaggy Meep
+6.Ice Elemental
+7.Light Elemental
+8.Frost Bear
+----------------------------------------
+Shaggy Meep usa Attack
+Partitio recibe 106 de daño físico
+Partitio termina con HP:4785
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4785/4891 SP:307/314 BP:1
+B-Ophilia - HP:4002/4002 SP:470/470 BP:1
+C-Temenos - HP:4002/4002 SP:432/432 BP:1
+D-Agnea - HP:4502/4502 SP:469/504 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Frost Bear - HP:490/1197 Shields:3
+C-Shaggy Meep - HP:514/1036 Shields:2
+D-Light Elemental - HP:1807/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Light Elemental
+3.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Agnea
+3.Temenos
+4.Partitio
+5.Shaggy Meep
+6.Ice Elemental
+7.Light Elemental
+8.Frost Bear
+----------------------------------------
+Ice Elemental usa Iceshot
+Partitio recibe 190 de daño elemental
+Partitio termina con HP:4595
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4595/4891 SP:307/314 BP:1
+B-Ophilia - HP:4002/4002 SP:470/470 BP:1
+C-Temenos - HP:4002/4002 SP:432/432 BP:1
+D-Agnea - HP:4502/4502 SP:469/504 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Frost Bear - HP:490/1197 Shields:3
+C-Shaggy Meep - HP:514/1036 Shields:2
+D-Light Elemental - HP:1807/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+2.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Agnea
+3.Temenos
+4.Partitio
+5.Shaggy Meep
+6.Ice Elemental
+7.Light Elemental
+8.Frost Bear
+----------------------------------------
+Light Elemental usa Lightshot
+Partitio recibe 92 de daño elemental
+Partitio termina con HP:4503
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4503/4891 SP:307/314 BP:1
+B-Ophilia - HP:4002/4002 SP:470/470 BP:1
+C-Temenos - HP:4002/4002 SP:432/432 BP:1
+D-Agnea - HP:4502/4502 SP:469/504 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Frost Bear - HP:490/1197 Shields:3
+C-Shaggy Meep - HP:514/1036 Shields:2
+D-Light Elemental - HP:1807/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Agnea
+3.Temenos
+4.Partitio
+5.Shaggy Meep
+6.Ice Elemental
+7.Light Elemental
+8.Frost Bear
+----------------------------------------
+Frost Bear usa Attack
+Partitio recibe 0 de daño físico
+Partitio termina con HP:4503
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4503/4891 SP:307/314 BP:2
+B-Ophilia - HP:4002/4002 SP:470/470 BP:2
+C-Temenos - HP:4002/4002 SP:432/432 BP:2
+D-Agnea - HP:4502/4502 SP:469/504 BP:2
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Frost Bear - HP:490/1197 Shields:3
+C-Shaggy Meep - HP:514/1036 Shields:2
+D-Light Elemental - HP:1807/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Agnea
+3.Temenos
+4.Partitio
+5.Shaggy Meep
+6.Ice Elemental
+7.Light Elemental
+8.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ophilia
+3.Temenos
+4.Partitio
+5.Shaggy Meep
+6.Ice Elemental
+7.Light Elemental
+8.Frost Bear
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Ice Elemental - HP:2160/2160 Shields:4
+2: Frost Bear - HP:490/1197 Shields:3
+3: Shaggy Meep - HP:514/1036 Shields:2
+4: Light Elemental - HP:1807/1880 Shields:4
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Light Elemental recibe 0 de daño de tipo Stave
+Light Elemental termina con HP:1807
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4503/4891 SP:307/314 BP:2
+B-Ophilia - HP:4002/4002 SP:470/470 BP:2
+C-Temenos - HP:4002/4002 SP:432/432 BP:2
+D-Agnea - HP:4502/4502 SP:469/504 BP:2
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Frost Bear - HP:490/1197 Shields:3
+C-Shaggy Meep - HP:514/1036 Shields:2
+D-Light Elemental - HP:1807/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Temenos
+3.Partitio
+4.Shaggy Meep
+5.Ice Elemental
+6.Light Elemental
+7.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ophilia
+3.Temenos
+4.Partitio
+5.Shaggy Meep
+6.Ice Elemental
+7.Light Elemental
+8.Frost Bear
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4503/4891 SP:307/314 BP:2
+B-Ophilia - HP:4002/4002 SP:470/470 BP:2
+C-Temenos - HP:4002/4002 SP:432/432 BP:2
+D-Agnea - HP:4502/4502 SP:469/504 BP:2
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Frost Bear - HP:490/1197 Shields:3
+C-Shaggy Meep - HP:514/1036 Shields:2
+D-Light Elemental - HP:1807/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Partitio
+3.Shaggy Meep
+4.Ice Elemental
+5.Light Elemental
+6.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ophilia
+3.Temenos
+4.Partitio
+5.Shaggy Meep
+6.Ice Elemental
+7.Light Elemental
+8.Frost Bear
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: True Strike
+2: Luminescence
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos usa Luminescence
+Ice Elemental recibe 351 de daño de tipo Light
+Frost Bear recibe 412 de daño de tipo Light
+Shaggy Meep recibe 343 de daño de tipo Light
+Light Elemental recibe 410 de daño de tipo Light
+Ice Elemental termina con HP:1809
+Frost Bear termina con HP:78
+Shaggy Meep termina con HP:171
+Light Elemental termina con HP:1397
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4503/4891 SP:307/314 BP:2
+B-Ophilia - HP:4002/4002 SP:470/470 BP:2
+C-Temenos - HP:4002/4002 SP:423/432 BP:2
+D-Agnea - HP:4502/4502 SP:469/504 BP:2
+Equipo del enemigo
+A-Ice Elemental - HP:1809/2160 Shields:4
+B-Frost Bear - HP:78/1197 Shields:3
+C-Shaggy Meep - HP:171/1036 Shields:2
+D-Light Elemental - HP:1397/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Shaggy Meep
+3.Ice Elemental
+4.Light Elemental
+5.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ophilia
+3.Temenos
+4.Partitio
+5.Shaggy Meep
+6.Ice Elemental
+7.Light Elemental
+8.Frost Bear
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4503/4891 SP:307/314 BP:2
+B-Ophilia - HP:4002/4002 SP:470/470 BP:2
+C-Temenos - HP:4002/4002 SP:423/432 BP:2
+D-Agnea - HP:4502/4502 SP:469/504 BP:2
+Equipo del enemigo
+A-Ice Elemental - HP:1809/2160 Shields:4
+B-Frost Bear - HP:78/1197 Shields:3
+C-Shaggy Meep - HP:171/1036 Shields:2
+D-Light Elemental - HP:1397/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Shaggy Meep
+2.Ice Elemental
+3.Light Elemental
+4.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Partitio
+3.Ophilia
+4.Temenos
+5.Shaggy Meep
+6.Ice Elemental
+7.Light Elemental
+8.Frost Bear
+----------------------------------------
+Shaggy Meep usa Attack
+Partitio se defiende
+Partitio recibe 53 de daño físico
+Partitio termina con HP:4450
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4450/4891 SP:307/314 BP:2
+B-Ophilia - HP:4002/4002 SP:470/470 BP:2
+C-Temenos - HP:4002/4002 SP:423/432 BP:2
+D-Agnea - HP:4502/4502 SP:469/504 BP:2
+Equipo del enemigo
+A-Ice Elemental - HP:1809/2160 Shields:4
+B-Frost Bear - HP:78/1197 Shields:3
+C-Shaggy Meep - HP:171/1036 Shields:2
+D-Light Elemental - HP:1397/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Light Elemental
+3.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Partitio
+3.Ophilia
+4.Temenos
+5.Shaggy Meep
+6.Ice Elemental
+7.Light Elemental
+8.Frost Bear
+----------------------------------------
+Ice Elemental usa Iceshot
+Partitio se defiende
+Partitio recibe 95 de daño elemental
+Partitio termina con HP:4355
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4355/4891 SP:307/314 BP:2
+B-Ophilia - HP:4002/4002 SP:470/470 BP:2
+C-Temenos - HP:4002/4002 SP:423/432 BP:2
+D-Agnea - HP:4502/4502 SP:469/504 BP:2
+Equipo del enemigo
+A-Ice Elemental - HP:1809/2160 Shields:4
+B-Frost Bear - HP:78/1197 Shields:3
+C-Shaggy Meep - HP:171/1036 Shields:2
+D-Light Elemental - HP:1397/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+2.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Partitio
+3.Ophilia
+4.Temenos
+5.Shaggy Meep
+6.Ice Elemental
+7.Light Elemental
+8.Frost Bear
+----------------------------------------
+Light Elemental usa Lightshot
+Partitio se defiende
+Partitio recibe 46 de daño elemental
+Partitio termina con HP:4309
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4309/4891 SP:307/314 BP:2
+B-Ophilia - HP:4002/4002 SP:470/470 BP:2
+C-Temenos - HP:4002/4002 SP:423/432 BP:2
+D-Agnea - HP:4502/4502 SP:469/504 BP:2
+Equipo del enemigo
+A-Ice Elemental - HP:1809/2160 Shields:4
+B-Frost Bear - HP:78/1197 Shields:3
+C-Shaggy Meep - HP:171/1036 Shields:2
+D-Light Elemental - HP:1397/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Partitio
+3.Ophilia
+4.Temenos
+5.Shaggy Meep
+6.Ice Elemental
+7.Light Elemental
+8.Frost Bear
+----------------------------------------
+Frost Bear usa Attack
+Agnea se defiende
+Agnea recibe 33 de daño físico
+Agnea termina con HP:4469
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4309/4891 SP:307/314 BP:3
+B-Ophilia - HP:4002/4002 SP:470/470 BP:3
+C-Temenos - HP:4002/4002 SP:423/432 BP:3
+D-Agnea - HP:4469/4502 SP:469/504 BP:3
+Equipo del enemigo
+A-Ice Elemental - HP:1809/2160 Shields:4
+B-Frost Bear - HP:78/1197 Shields:3
+C-Shaggy Meep - HP:171/1036 Shields:2
+D-Light Elemental - HP:1397/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Partitio
+3.Ophilia
+4.Temenos
+5.Shaggy Meep
+6.Ice Elemental
+7.Light Elemental
+8.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ophilia
+3.Temenos
+4.Partitio
+5.Shaggy Meep
+6.Ice Elemental
+7.Light Elemental
+8.Frost Bear
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Ice Elemental - HP:1809/2160 Shields:4
+2: Frost Bear - HP:78/1197 Shields:3
+3: Shaggy Meep - HP:171/1036 Shields:2
+4: Light Elemental - HP:1397/1880 Shields:4
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Frost Bear recibe 142 de daño de tipo Dagger
+Frost Bear termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4309/4891 SP:307/314 BP:3
+B-Ophilia - HP:4002/4002 SP:470/470 BP:3
+C-Temenos - HP:4002/4002 SP:423/432 BP:3
+D-Agnea - HP:4469/4502 SP:469/504 BP:3
+Equipo del enemigo
+A-Ice Elemental - HP:1809/2160 Shields:4
+B-Frost Bear - HP:0/1197 Shields:3
+C-Shaggy Meep - HP:171/1036 Shields:2
+D-Light Elemental - HP:1397/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Ophilia
+3.Temenos
+4.Shaggy Meep
+5.Ice Elemental
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ophilia
+3.Temenos
+4.Partitio
+5.Shaggy Meep
+6.Ice Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Lightning Bolt
+2: Wildfire
+3: Last Stand
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio usa Last Stand
+Ice Elemental recibe 147 de daño de tipo Axe
+Shaggy Meep recibe 464 de daño de tipo Axe
+Light Elemental recibe 274 de daño de tipo Axe
+Ice Elemental termina con HP:1662
+Shaggy Meep termina con HP:0
+Light Elemental termina con HP:1123
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4309/4891 SP:291/314 BP:3
+B-Ophilia - HP:4002/4002 SP:470/470 BP:3
+C-Temenos - HP:4002/4002 SP:423/432 BP:3
+D-Agnea - HP:4469/4502 SP:469/504 BP:3
+Equipo del enemigo
+A-Ice Elemental - HP:1662/2160 Shields:4
+B-Frost Bear - HP:0/1197 Shields:3
+C-Shaggy Meep - HP:0/1036 Shields:2
+D-Light Elemental - HP:1123/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Temenos
+3.Ice Elemental
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ophilia
+3.Temenos
+4.Partitio
+5.Ice Elemental
+6.Light Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4309/4891 SP:291/314 BP:3
+B-Ophilia - HP:4002/4002 SP:470/470 BP:3
+C-Temenos - HP:4002/4002 SP:423/432 BP:3
+D-Agnea - HP:4469/4502 SP:469/504 BP:3
+Equipo del enemigo
+A-Ice Elemental - HP:1662/2160 Shields:4
+B-Frost Bear - HP:0/1197 Shields:3
+C-Shaggy Meep - HP:0/1036 Shields:2
+D-Light Elemental - HP:1123/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Ice Elemental
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Agnea
+3.Temenos
+4.Partitio
+5.Ice Elemental
+6.Light Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Ice Elemental - HP:1662/2160 Shields:4
+2: Light Elemental - HP:1123/1880 Shields:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Ice Elemental recibe 0 de daño de tipo Stave
+Ice Elemental termina con HP:1662
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4309/4891 SP:291/314 BP:3
+B-Ophilia - HP:4002/4002 SP:470/470 BP:3
+C-Temenos - HP:4002/4002 SP:423/432 BP:3
+D-Agnea - HP:4469/4502 SP:469/504 BP:3
+Equipo del enemigo
+A-Ice Elemental - HP:1662/2160 Shields:4
+B-Frost Bear - HP:0/1197 Shields:3
+C-Shaggy Meep - HP:0/1036 Shields:2
+D-Light Elemental - HP:1123/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Agnea
+3.Temenos
+4.Partitio
+5.Ice Elemental
+6.Light Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Partitio recibe 190 de daño elemental
+Partitio termina con HP:4119
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4119/4891 SP:291/314 BP:3
+B-Ophilia - HP:4002/4002 SP:470/470 BP:3
+C-Temenos - HP:4002/4002 SP:423/432 BP:3
+D-Agnea - HP:4469/4502 SP:469/504 BP:3
+Equipo del enemigo
+A-Ice Elemental - HP:1662/2160 Shields:4
+B-Frost Bear - HP:0/1197 Shields:3
+C-Shaggy Meep - HP:0/1036 Shields:2
+D-Light Elemental - HP:1123/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Agnea
+3.Temenos
+4.Partitio
+5.Ice Elemental
+6.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Partitio recibe 92 de daño elemental
+Partitio termina con HP:4027
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4027/4891 SP:291/314 BP:4
+B-Ophilia - HP:4002/4002 SP:470/470 BP:4
+C-Temenos - HP:4002/4002 SP:423/432 BP:4
+D-Agnea - HP:4469/4502 SP:469/504 BP:4
+Equipo del enemigo
+A-Ice Elemental - HP:1662/2160 Shields:4
+B-Frost Bear - HP:0/1197 Shields:3
+C-Shaggy Meep - HP:0/1036 Shields:2
+D-Light Elemental - HP:1123/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Agnea
+3.Temenos
+4.Partitio
+5.Ice Elemental
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ophilia
+3.Temenos
+4.Partitio
+5.Ice Elemental
+6.Light Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Ice Elemental - HP:1662/2160 Shields:4
+2: Light Elemental - HP:1123/1880 Shields:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Ice Elemental recibe 0 de daño de tipo Stave
+Ice Elemental termina con HP:1662
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4027/4891 SP:291/314 BP:4
+B-Ophilia - HP:4002/4002 SP:470/470 BP:4
+C-Temenos - HP:4002/4002 SP:423/432 BP:4
+D-Agnea - HP:4469/4502 SP:469/504 BP:4
+Equipo del enemigo
+A-Ice Elemental - HP:1662/2160 Shields:4
+B-Frost Bear - HP:0/1197 Shields:3
+C-Shaggy Meep - HP:0/1036 Shields:2
+D-Light Elemental - HP:1123/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Temenos
+3.Partitio
+4.Ice Elemental
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ophilia
+3.Temenos
+4.Partitio
+5.Ice Elemental
+6.Light Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Ice Elemental - HP:1662/2160 Shields:4
+2: Light Elemental - HP:1123/1880 Shields:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Light Elemental recibe 0 de daño de tipo Dagger
+Light Elemental termina con HP:1123
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4027/4891 SP:291/314 BP:4
+B-Ophilia - HP:4002/4002 SP:470/470 BP:4
+C-Temenos - HP:4002/4002 SP:423/432 BP:4
+D-Agnea - HP:4469/4502 SP:469/504 BP:4
+Equipo del enemigo
+A-Ice Elemental - HP:1662/2160 Shields:4
+B-Frost Bear - HP:0/1197 Shields:3
+C-Shaggy Meep - HP:0/1036 Shields:2
+D-Light Elemental - HP:1123/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Partitio
+3.Ice Elemental
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ophilia
+3.Temenos
+4.Partitio
+5.Ice Elemental
+6.Light Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: True Strike
+2: Luminescence
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Ice Elemental - HP:1662/2160 Shields:4
+2: Light Elemental - HP:1123/1880 Shields:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos usa True Strike
+Light Elemental recibe 295 de daño de tipo Bow
+Light Elemental termina con HP:828
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4027/4891 SP:291/314 BP:4
+B-Ophilia - HP:4002/4002 SP:470/470 BP:4
+C-Temenos - HP:4002/4002 SP:413/432 BP:4
+D-Agnea - HP:4469/4502 SP:469/504 BP:4
+Equipo del enemigo
+A-Ice Elemental - HP:1662/2160 Shields:4
+B-Frost Bear - HP:0/1197 Shields:3
+C-Shaggy Meep - HP:0/1036 Shields:2
+D-Light Elemental - HP:828/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Ice Elemental
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ophilia
+3.Temenos
+4.Partitio
+5.Ice Elemental
+6.Light Elemental
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4027/4891 SP:291/314 BP:4
+B-Ophilia - HP:4002/4002 SP:470/470 BP:4
+C-Temenos - HP:4002/4002 SP:413/432 BP:4
+D-Agnea - HP:4469/4502 SP:469/504 BP:4
+Equipo del enemigo
+A-Ice Elemental - HP:1662/2160 Shields:4
+B-Frost Bear - HP:0/1197 Shields:3
+C-Shaggy Meep - HP:0/1036 Shields:2
+D-Light Elemental - HP:828/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Agnea
+3.Ophilia
+4.Temenos
+5.Ice Elemental
+6.Light Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Partitio se defiende
+Partitio recibe 95 de daño elemental
+Partitio termina con HP:3932
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3932/4891 SP:291/314 BP:4
+B-Ophilia - HP:4002/4002 SP:470/470 BP:4
+C-Temenos - HP:4002/4002 SP:413/432 BP:4
+D-Agnea - HP:4469/4502 SP:469/504 BP:4
+Equipo del enemigo
+A-Ice Elemental - HP:1662/2160 Shields:4
+B-Frost Bear - HP:0/1197 Shields:3
+C-Shaggy Meep - HP:0/1036 Shields:2
+D-Light Elemental - HP:828/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Agnea
+3.Ophilia
+4.Temenos
+5.Ice Elemental
+6.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Partitio se defiende
+Partitio recibe 46 de daño elemental
+Partitio termina con HP:3886
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3886/4891 SP:291/314 BP:5
+B-Ophilia - HP:4002/4002 SP:470/470 BP:5
+C-Temenos - HP:4002/4002 SP:413/432 BP:5
+D-Agnea - HP:4469/4502 SP:469/504 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:1662/2160 Shields:4
+B-Frost Bear - HP:0/1197 Shields:3
+C-Shaggy Meep - HP:0/1036 Shields:2
+D-Light Elemental - HP:828/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Agnea
+3.Ophilia
+4.Temenos
+5.Ice Elemental
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ophilia
+3.Temenos
+4.Partitio
+5.Ice Elemental
+6.Light Elemental
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Ice Elemental - HP:1662/2160 Shields:4
+2: Light Elemental - HP:828/1880 Shields:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Light Elemental recibe 165 de daño de tipo Bow
+Light Elemental termina con HP:663
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3886/4891 SP:291/314 BP:5
+B-Ophilia - HP:4002/4002 SP:470/470 BP:5
+C-Temenos - HP:4002/4002 SP:413/432 BP:5
+D-Agnea - HP:4469/4502 SP:469/504 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:1662/2160 Shields:4
+B-Frost Bear - HP:0/1197 Shields:3
+C-Shaggy Meep - HP:0/1036 Shields:2
+D-Light Elemental - HP:663/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Ophilia
+3.Temenos
+4.Ice Elemental
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ophilia
+3.Temenos
+4.Partitio
+5.Ice Elemental
+6.Light Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3886/4891 SP:291/314 BP:5
+B-Ophilia - HP:4002/4002 SP:470/470 BP:5
+C-Temenos - HP:4002/4002 SP:413/432 BP:5
+D-Agnea - HP:4469/4502 SP:469/504 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:1662/2160 Shields:4
+B-Frost Bear - HP:0/1197 Shields:3
+C-Shaggy Meep - HP:0/1036 Shields:2
+D-Light Elemental - HP:663/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Temenos
+3.Ice Elemental
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ophilia
+3.Temenos
+4.Partitio
+5.Ice Elemental
+6.Light Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Wildfire
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Ice Elemental - HP:1662/2160 Shields:4
+2: Light Elemental - HP:663/1880 Shields:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Wildfire
+Light Elemental recibe 531 de daño de tipo Fire
+Light Elemental termina con HP:132
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3886/4891 SP:291/314 BP:5
+B-Ophilia - HP:4002/4002 SP:463/470 BP:5
+C-Temenos - HP:4002/4002 SP:413/432 BP:5
+D-Agnea - HP:4469/4502 SP:469/504 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:1662/2160 Shields:4
+B-Frost Bear - HP:0/1197 Shields:3
+C-Shaggy Meep - HP:0/1036 Shields:2
+D-Light Elemental - HP:132/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Ice Elemental
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ophilia
+3.Temenos
+4.Partitio
+5.Ice Elemental
+6.Light Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3886/4891 SP:291/314 BP:5
+B-Ophilia - HP:4002/4002 SP:463/470 BP:5
+C-Temenos - HP:4002/4002 SP:413/432 BP:5
+D-Agnea - HP:4469/4502 SP:469/504 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:1662/2160 Shields:4
+B-Frost Bear - HP:0/1197 Shields:3
+C-Shaggy Meep - HP:0/1036 Shields:2
+D-Light Elemental - HP:132/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Temenos
+3.Ophilia
+4.Partitio
+5.Ice Elemental
+6.Light Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Partitio recibe 190 de daño elemental
+Partitio termina con HP:3696
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3696/4891 SP:291/314 BP:5
+B-Ophilia - HP:4002/4002 SP:463/470 BP:5
+C-Temenos - HP:4002/4002 SP:413/432 BP:5
+D-Agnea - HP:4469/4502 SP:469/504 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:1662/2160 Shields:4
+B-Frost Bear - HP:0/1197 Shields:3
+C-Shaggy Meep - HP:0/1036 Shields:2
+D-Light Elemental - HP:132/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Temenos
+3.Ophilia
+4.Partitio
+5.Ice Elemental
+6.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Partitio recibe 92 de daño elemental
+Partitio termina con HP:3604
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3604/4891 SP:291/314 BP:5
+B-Ophilia - HP:4002/4002 SP:463/470 BP:5
+C-Temenos - HP:4002/4002 SP:413/432 BP:5
+D-Agnea - HP:4469/4502 SP:469/504 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:1662/2160 Shields:4
+B-Frost Bear - HP:0/1197 Shields:3
+C-Shaggy Meep - HP:0/1036 Shields:2
+D-Light Elemental - HP:132/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Temenos
+3.Ophilia
+4.Partitio
+5.Ice Elemental
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ophilia
+3.Temenos
+4.Partitio
+5.Ice Elemental
+6.Light Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3604/4891 SP:291/314 BP:5
+B-Ophilia - HP:4002/4002 SP:463/470 BP:5
+C-Temenos - HP:4002/4002 SP:413/432 BP:5
+D-Agnea - HP:4469/4502 SP:469/504 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:1662/2160 Shields:4
+B-Frost Bear - HP:0/1197 Shields:3
+C-Shaggy Meep - HP:0/1036 Shields:2
+D-Light Elemental - HP:132/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Ophilia
+3.Partitio
+4.Ice Elemental
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ophilia
+3.Temenos
+4.Partitio
+5.Ice Elemental
+6.Light Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3604/4891 SP:291/314 BP:5
+B-Ophilia - HP:4002/4002 SP:463/470 BP:5
+C-Temenos - HP:4002/4002 SP:413/432 BP:5
+D-Agnea - HP:4469/4502 SP:469/504 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:1662/2160 Shields:4
+B-Frost Bear - HP:0/1197 Shields:3
+C-Shaggy Meep - HP:0/1036 Shields:2
+D-Light Elemental - HP:132/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Partitio
+3.Ice Elemental
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Temenos
+3.Ophilia
+4.Partitio
+5.Ice Elemental
+6.Light Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Wildfire
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Ice Elemental - HP:1662/2160 Shields:4
+2: Light Elemental - HP:132/1880 Shields:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Wildfire
+Light Elemental recibe 531 de daño de tipo Fire
+Light Elemental termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3604/4891 SP:291/314 BP:5
+B-Ophilia - HP:4002/4002 SP:456/470 BP:5
+C-Temenos - HP:4002/4002 SP:413/432 BP:5
+D-Agnea - HP:4469/4502 SP:469/504 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:1662/2160 Shields:4
+B-Frost Bear - HP:0/1197 Shields:3
+C-Shaggy Meep - HP:0/1036 Shields:2
+D-Light Elemental - HP:0/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Temenos
+3.Ophilia
+4.Partitio
+5.Ice Elemental
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Lightning Bolt
+2: Wildfire
+3: Last Stand
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio usa Last Stand
+Ice Elemental recibe 196 de daño de tipo Axe
+Ice Elemental termina con HP:1466
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3604/4891 SP:275/314 BP:5
+B-Ophilia - HP:4002/4002 SP:456/470 BP:5
+C-Temenos - HP:4002/4002 SP:413/432 BP:5
+D-Agnea - HP:4469/4502 SP:469/504 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:1466/2160 Shields:4
+B-Frost Bear - HP:0/1197 Shields:3
+C-Shaggy Meep - HP:0/1036 Shields:2
+D-Light Elemental - HP:0/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Temenos
+3.Ophilia
+4.Partitio
+5.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Partitio recibe 190 de daño elemental
+Partitio termina con HP:3414
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3414/4891 SP:275/314 BP:5
+B-Ophilia - HP:4002/4002 SP:456/470 BP:5
+C-Temenos - HP:4002/4002 SP:413/432 BP:5
+D-Agnea - HP:4469/4502 SP:469/504 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:1466/2160 Shields:4
+B-Frost Bear - HP:0/1197 Shields:3
+C-Shaggy Meep - HP:0/1036 Shields:2
+D-Light Elemental - HP:0/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Temenos
+3.Ophilia
+4.Partitio
+5.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ophilia
+3.Temenos
+4.Partitio
+5.Ice Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Night Ode
+2: Fox Spirit
+3: Yatagarasu
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Yatagarasu
+Ice Elemental recibe 0 de daño de tipo Dagger
+Ice Elemental termina con HP:1466
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3414/4891 SP:275/314 BP:5
+B-Ophilia - HP:4002/4002 SP:456/470 BP:5
+C-Temenos - HP:4002/4002 SP:413/432 BP:5
+D-Agnea - HP:4469/4502 SP:434/504 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:1466/2160 Shields:4
+B-Frost Bear - HP:0/1197 Shields:3
+C-Shaggy Meep - HP:0/1036 Shields:2
+D-Light Elemental - HP:0/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Ophilia
+3.Partitio
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ophilia
+3.Temenos
+4.Partitio
+5.Ice Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: True Strike
+2: Luminescence
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos usa Luminescence
+Ice Elemental recibe 351 de daño de tipo Light
+Ice Elemental termina con HP:1115
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3414/4891 SP:275/314 BP:5
+B-Ophilia - HP:4002/4002 SP:456/470 BP:5
+C-Temenos - HP:4002/4002 SP:404/432 BP:5
+D-Agnea - HP:4469/4502 SP:434/504 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:1115/2160 Shields:4
+B-Frost Bear - HP:0/1197 Shields:3
+C-Shaggy Meep - HP:0/1036 Shields:2
+D-Light Elemental - HP:0/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Partitio
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ophilia
+3.Temenos
+4.Partitio
+5.Ice Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Wildfire
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Ice Elemental - HP:1115/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Wildfire
+Ice Elemental recibe 708 de daño de tipo Fire con debilidad
+Ice Elemental termina con HP:407
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3414/4891 SP:275/314 BP:5
+B-Ophilia - HP:4002/4002 SP:449/470 BP:5
+C-Temenos - HP:4002/4002 SP:404/432 BP:5
+D-Agnea - HP:4469/4502 SP:434/504 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:407/2160 Shields:3
+B-Frost Bear - HP:0/1197 Shields:3
+C-Shaggy Meep - HP:0/1036 Shields:2
+D-Light Elemental - HP:0/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ophilia
+3.Temenos
+4.Partitio
+5.Ice Elemental
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Lightning Bolt
+2: Wildfire
+3: Last Stand
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio usa Lightning Bolt
+Ice Elemental recibe 490 de daño de tipo Lightning con debilidad
+Ice Elemental termina con HP:0
+----------------------------------------
+Gana equipo del jugador

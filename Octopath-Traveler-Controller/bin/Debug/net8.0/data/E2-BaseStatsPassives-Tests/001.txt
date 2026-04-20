@@ -1,0 +1,329 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+INPUT: 0
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:582/582 BP:1
+B-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Chubby Cait - HP:800/800 Shields:4
+B-Guardian - HP:1201/1201 Shields:3
+C-Flame Guardian - HP:1470/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Chubby Cait
+2.Cyrus
+3.Osvald
+4.Flame Guardian
+5.Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Chubby Cait
+2.Cyrus
+3.Osvald
+4.Flame Guardian
+5.Guardian
+----------------------------------------
+Chubby Cait usa Attack
+Cyrus recibe 0 de daño físico
+Cyrus termina con HP:3557
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:582/582 BP:1
+B-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Chubby Cait - HP:800/800 Shields:4
+B-Guardian - HP:1201/1201 Shields:3
+C-Flame Guardian - HP:1470/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Osvald
+3.Flame Guardian
+4.Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Chubby Cait
+2.Cyrus
+3.Osvald
+4.Flame Guardian
+5.Guardian
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Fireball
+Chubby Cait recibe 206 de daño de tipo Fire
+Guardian recibe 486 de daño de tipo Fire
+Flame Guardian recibe 558 de daño de tipo Fire
+Chubby Cait termina con HP:594
+Guardian termina con HP:715
+Flame Guardian termina con HP:912
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:574/582 BP:1
+B-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Chubby Cait - HP:594/800 Shields:4
+B-Guardian - HP:715/1201 Shields:3
+C-Flame Guardian - HP:912/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Flame Guardian
+3.Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Chubby Cait
+2.Cyrus
+3.Osvald
+4.Flame Guardian
+5.Guardian
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Fireball
+Chubby Cait recibe 131 de daño de tipo Fire
+Guardian recibe 411 de daño de tipo Fire
+Flame Guardian recibe 483 de daño de tipo Fire
+Chubby Cait termina con HP:463
+Guardian termina con HP:304
+Flame Guardian termina con HP:429
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:574/582 BP:1
+B-Osvald - HP:3557/3557 SP:533/541 BP:1
+Equipo del enemigo
+A-Chubby Cait - HP:463/800 Shields:4
+B-Guardian - HP:304/1201 Shields:3
+C-Flame Guardian - HP:429/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Flame Guardian
+2.Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Chubby Cait
+2.Cyrus
+3.Osvald
+4.Flame Guardian
+5.Guardian
+----------------------------------------
+Flame Guardian usa Attack
+Cyrus recibe 190 de daño físico
+Cyrus termina con HP:3367
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3367/3557 SP:574/582 BP:1
+B-Osvald - HP:3557/3557 SP:533/541 BP:1
+Equipo del enemigo
+A-Chubby Cait - HP:463/800 Shields:4
+B-Guardian - HP:304/1201 Shields:3
+C-Flame Guardian - HP:429/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Chubby Cait
+2.Cyrus
+3.Osvald
+4.Flame Guardian
+5.Guardian
+----------------------------------------
+Guardian usa Attack
+Osvald recibe 10 de daño físico
+Osvald termina con HP:3547
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3367/3557 SP:574/582 BP:2
+B-Osvald - HP:3547/3557 SP:533/541 BP:2
+Equipo del enemigo
+A-Chubby Cait - HP:463/800 Shields:4
+B-Guardian - HP:304/1201 Shields:3
+C-Flame Guardian - HP:429/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Chubby Cait
+2.Cyrus
+3.Osvald
+4.Flame Guardian
+5.Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Chubby Cait
+2.Cyrus
+3.Osvald
+4.Flame Guardian
+5.Guardian
+----------------------------------------
+Chubby Cait usa Attack
+Osvald recibe 0 de daño físico
+Osvald termina con HP:3547
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3367/3557 SP:574/582 BP:2
+B-Osvald - HP:3547/3557 SP:533/541 BP:2
+Equipo del enemigo
+A-Chubby Cait - HP:463/800 Shields:4
+B-Guardian - HP:304/1201 Shields:3
+C-Flame Guardian - HP:429/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Osvald
+3.Flame Guardian
+4.Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Chubby Cait
+2.Cyrus
+3.Osvald
+4.Flame Guardian
+5.Guardian
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Fireball
+Chubby Cait recibe 206 de daño de tipo Fire
+Guardian recibe 486 de daño de tipo Fire
+Flame Guardian recibe 558 de daño de tipo Fire
+Chubby Cait termina con HP:257
+Guardian termina con HP:0
+Flame Guardian termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3367/3557 SP:566/582 BP:2
+B-Osvald - HP:3547/3557 SP:533/541 BP:2
+Equipo del enemigo
+A-Chubby Cait - HP:257/800 Shields:4
+B-Guardian - HP:0/1201 Shields:3
+C-Flame Guardian - HP:0/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Chubby Cait
+2.Cyrus
+3.Osvald
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Fireball
+Chubby Cait recibe 131 de daño de tipo Fire
+Chubby Cait termina con HP:126
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3367/3557 SP:566/582 BP:3
+B-Osvald - HP:3547/3557 SP:525/541 BP:3
+Equipo del enemigo
+A-Chubby Cait - HP:126/800 Shields:4
+B-Guardian - HP:0/1201 Shields:3
+C-Flame Guardian - HP:0/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Chubby Cait
+2.Cyrus
+3.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Chubby Cait
+2.Cyrus
+3.Osvald
+----------------------------------------
+Chubby Cait usa Attack
+Osvald recibe 0 de daño físico
+Osvald termina con HP:3547
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3367/3557 SP:566/582 BP:3
+B-Osvald - HP:3547/3557 SP:525/541 BP:3
+Equipo del enemigo
+A-Chubby Cait - HP:126/800 Shields:4
+B-Guardian - HP:0/1201 Shields:3
+C-Flame Guardian - HP:0/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Chubby Cait
+2.Cyrus
+3.Osvald
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo

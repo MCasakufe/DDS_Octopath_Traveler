@@ -148,7 +148,7 @@
     "SP": 0,
     "Type": "",
     "Description": "Restaura HP y 25 SP a la unidad",
-    "Target": "Self",
+    "Target": "User",
     "Modifier": 1,
     "Boost": "Aumenta el modificador en un 30% y restaura 25 SP adicionales por cada BP"
   },
@@ -175,7 +175,7 @@
     "SP": 10,
     "Type": "",
     "Description": "Esquiva el siguiente ataque físico dirigido a la unidad.",
-    "Target": "Self",
+    "Target": "User",
     "Modifier": 0,
     "Boost": "Esquiva un ataque físico adicional por cada BP"
   },
@@ -211,7 +211,7 @@
     "SP": 4,
     "Type": "",
     "Description": "Los ataques con target 'Single' de un enemigo serán dirigidos a la unidad durante 3 rondas",
-    "Target": "Self",
+    "Target": "User",
     "Modifier": 0,
     "Boost": "Aumenta la duración en 2 rondas por cada BP"
   },
@@ -229,7 +229,7 @@
     "SP": 4,
     "Type": "",
     "Description": "Otorga al usuario Increased Physical Defense durante 3 rondas.",
-    "Target": "Self",
+    "Target": "User",
     "Modifier": 0,
     "Boost": "Aumenta la duración en 2 rondas por cada BP"
   },
@@ -724,7 +724,7 @@
     "SP": 4,
     "Type": "",
     "Description": "Aumenta la velocidad del usuario durante 3 rondas",
-    "Target": "Self",
+    "Target": "User",
     "Modifier": 0,
     "Boost": "Aumenta la duración del efecto en 2 rondas por cada BP"
   },
@@ -948,7 +948,7 @@
     "Name": "Transfer Rune",
     "SP": 25,
     "Type": "",
-    "Description": "Selecciona un aliado. Sus habilidades con target Self, pasaran a tener target Party durante 3 rondas",
+    "Description": "Selecciona un aliado. Sus habilidades con target User, pasaran a tener target Party durante 3 rondas",
     "Target": "Ally",
     "Modifier": 0,
     "Boost": "Aumenta la duración del efecto en 1 rondas por cada BP"

@@ -1,0 +1,2207 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+INPUT: 7
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Olberic - HP:5781/5781 SP:291/291 BP:1
+C-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Fire Wisp - HP:972/972 Shields:1
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Fire Wisp - HP:972/972 Shields:1
+2: Meep - HP:1016/1016 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Fire Wisp recibe 0 de daño de tipo Dagger
+Fire Wisp termina con HP:972
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Olberic - HP:5781/5781 SP:291/291 BP:1
+C-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Fire Wisp - HP:972/972 Shields:1
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Olberic
+3.Meep
+4.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Fire Wisp - HP:972/972 Shields:1
+2: Meep - HP:1016/1016 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Fire Wisp recibe 0 de daño de tipo Stave
+Fire Wisp termina con HP:972
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Olberic - HP:5781/5781 SP:291/291 BP:1
+C-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Fire Wisp - HP:972/972 Shields:1
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Fire Wisp - HP:972/972 Shields:1
+2: Meep - HP:1016/1016 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Fire Wisp recibe 251 de daño de tipo Sword
+Fire Wisp termina con HP:721
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Olberic - HP:5781/5781 SP:291/291 BP:1
+C-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Fire Wisp - HP:721/972 Shields:1
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:5641
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Olberic - HP:5641/5781 SP:291/291 BP:1
+C-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Fire Wisp - HP:721/972 Shields:1
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Fire Wisp usa Meteor Storm
+Primrose recibe 61 de daño elemental
+Primrose termina con HP:3941
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3941/4002 SP:504/504 BP:2
+B-Olberic - HP:5641/5781 SP:291/291 BP:2
+C-Cyrus - HP:3557/3557 SP:582/582 BP:2
+Equipo del enemigo
+A-Fire Wisp - HP:721/972 Shields:1
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Fire Wisp - HP:721/972 Shields:1
+2: Meep - HP:1016/1016 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Fire Wisp recibe 0 de daño de tipo Dagger
+Fire Wisp termina con HP:721
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3941/4002 SP:504/504 BP:2
+B-Olberic - HP:5641/5781 SP:291/291 BP:2
+C-Cyrus - HP:3557/3557 SP:582/582 BP:2
+Equipo del enemigo
+A-Fire Wisp - HP:721/972 Shields:1
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Olberic
+3.Meep
+4.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Fire Wisp - HP:721/972 Shields:1
+2: Meep - HP:1016/1016 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Fire Wisp recibe 0 de daño de tipo Stave
+Fire Wisp termina con HP:721
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3941/4002 SP:504/504 BP:2
+B-Olberic - HP:5641/5781 SP:291/291 BP:2
+C-Cyrus - HP:3557/3557 SP:582/582 BP:2
+Equipo del enemigo
+A-Fire Wisp - HP:721/972 Shields:1
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Fire Wisp - HP:721/972 Shields:1
+2: Meep - HP:1016/1016 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Fire Wisp recibe 251 de daño de tipo Spear
+Fire Wisp termina con HP:470
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3941/4002 SP:504/504 BP:2
+B-Olberic - HP:5641/5781 SP:291/291 BP:2
+C-Cyrus - HP:3557/3557 SP:582/582 BP:2
+Equipo del enemigo
+A-Fire Wisp - HP:470/972 Shields:1
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:5501
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3941/4002 SP:504/504 BP:2
+B-Olberic - HP:5501/5781 SP:291/291 BP:2
+C-Cyrus - HP:3557/3557 SP:582/582 BP:2
+Equipo del enemigo
+A-Fire Wisp - HP:470/972 Shields:1
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Fire Wisp usa Meteor Storm
+Primrose recibe 61 de daño elemental
+Primrose termina con HP:3880
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:504/504 BP:3
+B-Olberic - HP:5501/5781 SP:291/291 BP:3
+C-Cyrus - HP:3557/3557 SP:582/582 BP:3
+Equipo del enemigo
+A-Fire Wisp - HP:470/972 Shields:1
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Fire Wisp - HP:470/972 Shields:1
+2: Meep - HP:1016/1016 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Meep recibe 0 de daño de tipo Dagger
+Meep termina con HP:1016
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:504/504 BP:3
+B-Olberic - HP:5501/5781 SP:291/291 BP:3
+C-Cyrus - HP:3557/3557 SP:582/582 BP:3
+Equipo del enemigo
+A-Fire Wisp - HP:470/972 Shields:1
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Olberic
+3.Meep
+4.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Fire Wisp - HP:470/972 Shields:1
+2: Meep - HP:1016/1016 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Fire Wisp recibe 0 de daño de tipo Stave
+Fire Wisp termina con HP:470
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:504/504 BP:3
+B-Olberic - HP:5501/5781 SP:291/291 BP:3
+C-Cyrus - HP:3557/3557 SP:582/582 BP:3
+Equipo del enemigo
+A-Fire Wisp - HP:470/972 Shields:1
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Fire Wisp - HP:470/972 Shields:1
+2: Meep - HP:1016/1016 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Fire Wisp recibe 251 de daño de tipo Spear
+Fire Wisp termina con HP:219
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:504/504 BP:3
+B-Olberic - HP:5501/5781 SP:291/291 BP:3
+C-Cyrus - HP:3557/3557 SP:582/582 BP:3
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:5361
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:504/504 BP:3
+B-Olberic - HP:5361/5781 SP:291/291 BP:3
+C-Cyrus - HP:3557/3557 SP:582/582 BP:3
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Fire Wisp usa Meteor Storm
+Primrose recibe 61 de daño elemental
+Primrose termina con HP:3819
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3819/4002 SP:504/504 BP:4
+B-Olberic - HP:5361/5781 SP:291/291 BP:4
+C-Cyrus - HP:3557/3557 SP:582/582 BP:4
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Fire Wisp - HP:219/972 Shields:1
+2: Meep - HP:1016/1016 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Fire Wisp recibe 0 de daño de tipo Dagger
+Fire Wisp termina con HP:219
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3819/4002 SP:504/504 BP:4
+B-Olberic - HP:5361/5781 SP:291/291 BP:4
+C-Cyrus - HP:3557/3557 SP:582/582 BP:4
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Olberic
+3.Meep
+4.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Fire Wisp - HP:219/972 Shields:1
+2: Meep - HP:1016/1016 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Fire Wisp recibe 0 de daño de tipo Stave
+Fire Wisp termina con HP:219
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3819/4002 SP:504/504 BP:4
+B-Olberic - HP:5361/5781 SP:291/291 BP:4
+C-Cyrus - HP:3557/3557 SP:582/582 BP:4
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Fire Wisp - HP:219/972 Shields:1
+2: Meep - HP:1016/1016 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Meep recibe 132 de daño de tipo Sword
+Meep termina con HP:884
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3819/4002 SP:504/504 BP:4
+B-Olberic - HP:5361/5781 SP:291/291 BP:4
+C-Cyrus - HP:3557/3557 SP:582/582 BP:4
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:5221
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3819/4002 SP:504/504 BP:4
+B-Olberic - HP:5221/5781 SP:291/291 BP:4
+C-Cyrus - HP:3557/3557 SP:582/582 BP:4
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Fire Wisp usa Meteor Storm
+Primrose recibe 61 de daño elemental
+Primrose termina con HP:3758
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3758/4002 SP:504/504 BP:5
+B-Olberic - HP:5221/5781 SP:291/291 BP:5
+C-Cyrus - HP:3557/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Fire Wisp - HP:219/972 Shields:1
+2: Meep - HP:884/1016 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Fire Wisp recibe 0 de daño de tipo Dagger
+Fire Wisp termina con HP:219
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3758/4002 SP:504/504 BP:5
+B-Olberic - HP:5221/5781 SP:291/291 BP:5
+C-Cyrus - HP:3557/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Olberic
+3.Meep
+4.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Fire Wisp - HP:219/972 Shields:1
+2: Meep - HP:884/1016 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Fire Wisp recibe 0 de daño de tipo Stave
+Fire Wisp termina con HP:219
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3758/4002 SP:504/504 BP:5
+B-Olberic - HP:5221/5781 SP:291/291 BP:5
+C-Cyrus - HP:3557/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Fire Wisp - HP:219/972 Shields:1
+2: Meep - HP:884/1016 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Meep recibe 132 de daño de tipo Sword
+Meep termina con HP:752
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3758/4002 SP:504/504 BP:5
+B-Olberic - HP:5221/5781 SP:291/291 BP:5
+C-Cyrus - HP:3557/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:752/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:5081
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3758/4002 SP:504/504 BP:5
+B-Olberic - HP:5081/5781 SP:291/291 BP:5
+C-Cyrus - HP:3557/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:752/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Fire Wisp usa Meteor Storm
+Primrose recibe 61 de daño elemental
+Primrose termina con HP:3697
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3697/4002 SP:504/504 BP:5
+B-Olberic - HP:5081/5781 SP:291/291 BP:5
+C-Cyrus - HP:3557/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:752/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Fire Wisp - HP:219/972 Shields:1
+2: Meep - HP:752/1016 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Fire Wisp recibe 0 de daño de tipo Dagger
+Fire Wisp termina con HP:219
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3697/4002 SP:504/504 BP:5
+B-Olberic - HP:5081/5781 SP:291/291 BP:5
+C-Cyrus - HP:3557/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:752/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Olberic
+3.Meep
+4.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Fire Wisp - HP:219/972 Shields:1
+2: Meep - HP:752/1016 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Fire Wisp recibe 0 de daño de tipo Stave
+Fire Wisp termina con HP:219
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3697/4002 SP:504/504 BP:5
+B-Olberic - HP:5081/5781 SP:291/291 BP:5
+C-Cyrus - HP:3557/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:752/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Fire Wisp - HP:219/972 Shields:1
+2: Meep - HP:752/1016 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Meep recibe 132 de daño de tipo Sword
+Meep termina con HP:620
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3697/4002 SP:504/504 BP:5
+B-Olberic - HP:5081/5781 SP:291/291 BP:5
+C-Cyrus - HP:3557/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:620/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:4941
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3697/4002 SP:504/504 BP:5
+B-Olberic - HP:4941/5781 SP:291/291 BP:5
+C-Cyrus - HP:3557/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:620/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Fire Wisp usa Meteor Storm
+Primrose recibe 61 de daño elemental
+Primrose termina con HP:3636
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3636/4002 SP:504/504 BP:5
+B-Olberic - HP:4941/5781 SP:291/291 BP:5
+C-Cyrus - HP:3557/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:620/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Fire Wisp - HP:219/972 Shields:1
+2: Meep - HP:620/1016 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Fire Wisp recibe 0 de daño de tipo Dagger
+Fire Wisp termina con HP:219
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3636/4002 SP:504/504 BP:5
+B-Olberic - HP:4941/5781 SP:291/291 BP:5
+C-Cyrus - HP:3557/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:620/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Olberic
+3.Meep
+4.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Fire Wisp - HP:219/972 Shields:1
+2: Meep - HP:620/1016 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Fire Wisp recibe 0 de daño de tipo Stave
+Fire Wisp termina con HP:219
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3636/4002 SP:504/504 BP:5
+B-Olberic - HP:4941/5781 SP:291/291 BP:5
+C-Cyrus - HP:3557/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:620/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Fire Wisp - HP:219/972 Shields:1
+2: Meep - HP:620/1016 Shields:2
+3: Cancelar
+INPUT: 3
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Fire Wisp - HP:219/972 Shields:1
+2: Meep - HP:620/1016 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Meep recibe 132 de daño de tipo Sword
+Meep termina con HP:488
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3636/4002 SP:504/504 BP:5
+B-Olberic - HP:4941/5781 SP:291/291 BP:5
+C-Cyrus - HP:3557/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:488/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:4801
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3636/4002 SP:504/504 BP:5
+B-Olberic - HP:4801/5781 SP:291/291 BP:5
+C-Cyrus - HP:3557/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:488/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Fire Wisp usa Meteor Storm
+Primrose recibe 61 de daño elemental
+Primrose termina con HP:3575
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3575/4002 SP:504/504 BP:5
+B-Olberic - HP:4801/5781 SP:291/291 BP:5
+C-Cyrus - HP:3557/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:488/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Fire Wisp - HP:219/972 Shields:1
+2: Meep - HP:488/1016 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Fire Wisp recibe 0 de daño de tipo Dagger
+Fire Wisp termina con HP:219
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3575/4002 SP:504/504 BP:5
+B-Olberic - HP:4801/5781 SP:291/291 BP:5
+C-Cyrus - HP:3557/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:488/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Olberic
+3.Meep
+4.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Fire Wisp - HP:219/972 Shields:1
+2: Meep - HP:488/1016 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Fire Wisp recibe 0 de daño de tipo Stave
+Fire Wisp termina con HP:219
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3575/4002 SP:504/504 BP:5
+B-Olberic - HP:4801/5781 SP:291/291 BP:5
+C-Cyrus - HP:3557/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:488/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Fire Wisp - HP:219/972 Shields:1
+2: Meep - HP:488/1016 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Meep recibe 132 de daño de tipo Sword
+Meep termina con HP:356
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3575/4002 SP:504/504 BP:5
+B-Olberic - HP:4801/5781 SP:291/291 BP:5
+C-Cyrus - HP:3557/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:356/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:4661
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3575/4002 SP:504/504 BP:5
+B-Olberic - HP:4661/5781 SP:291/291 BP:5
+C-Cyrus - HP:3557/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:356/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Fire Wisp usa Meteor Storm
+Primrose recibe 61 de daño elemental
+Primrose termina con HP:3514
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3514/4002 SP:504/504 BP:5
+B-Olberic - HP:4661/5781 SP:291/291 BP:5
+C-Cyrus - HP:3557/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:356/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Fire Wisp - HP:219/972 Shields:1
+2: Meep - HP:356/1016 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Meep recibe 0 de daño de tipo Dagger
+Meep termina con HP:356
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3514/4002 SP:504/504 BP:5
+B-Olberic - HP:4661/5781 SP:291/291 BP:5
+C-Cyrus - HP:3557/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:356/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Olberic
+3.Meep
+4.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Fire Wisp - HP:219/972 Shields:1
+2: Meep - HP:356/1016 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Fire Wisp recibe 0 de daño de tipo Stave
+Fire Wisp termina con HP:219
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3514/4002 SP:504/504 BP:5
+B-Olberic - HP:4661/5781 SP:291/291 BP:5
+C-Cyrus - HP:3557/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:356/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Fire Wisp - HP:219/972 Shields:1
+2: Meep - HP:356/1016 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Meep recibe 132 de daño de tipo Sword
+Meep termina con HP:224
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3514/4002 SP:504/504 BP:5
+B-Olberic - HP:4661/5781 SP:291/291 BP:5
+C-Cyrus - HP:3557/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:224/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:4521
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3514/4002 SP:504/504 BP:5
+B-Olberic - HP:4521/5781 SP:291/291 BP:5
+C-Cyrus - HP:3557/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:224/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Fire Wisp usa Meteor Storm
+Primrose recibe 61 de daño elemental
+Primrose termina con HP:3453
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3453/4002 SP:504/504 BP:5
+B-Olberic - HP:4521/5781 SP:291/291 BP:5
+C-Cyrus - HP:3557/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:224/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Fire Wisp - HP:219/972 Shields:1
+2: Meep - HP:224/1016 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Fire Wisp recibe 0 de daño de tipo Dagger
+Fire Wisp termina con HP:219
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3453/4002 SP:504/504 BP:5
+B-Olberic - HP:4521/5781 SP:291/291 BP:5
+C-Cyrus - HP:3557/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:224/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Olberic
+3.Meep
+4.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Fire Wisp - HP:219/972 Shields:1
+2: Meep - HP:224/1016 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Fire Wisp recibe 0 de daño de tipo Stave
+Fire Wisp termina con HP:219
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3453/4002 SP:504/504 BP:5
+B-Olberic - HP:4521/5781 SP:291/291 BP:5
+C-Cyrus - HP:3557/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:224/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Fire Wisp - HP:219/972 Shields:1
+2: Meep - HP:224/1016 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Meep recibe 132 de daño de tipo Sword
+Meep termina con HP:92
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3453/4002 SP:504/504 BP:5
+B-Olberic - HP:4521/5781 SP:291/291 BP:5
+C-Cyrus - HP:3557/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:92/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:4381
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3453/4002 SP:504/504 BP:5
+B-Olberic - HP:4381/5781 SP:291/291 BP:5
+C-Cyrus - HP:3557/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:92/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Fire Wisp usa Meteor Storm
+Primrose recibe 61 de daño elemental
+Primrose termina con HP:3392
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3392/4002 SP:504/504 BP:5
+B-Olberic - HP:4381/5781 SP:291/291 BP:5
+C-Cyrus - HP:3557/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:92/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Fire Wisp - HP:219/972 Shields:1
+2: Meep - HP:92/1016 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Meep recibe 0 de daño de tipo Dagger
+Meep termina con HP:92
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3392/4002 SP:504/504 BP:5
+B-Olberic - HP:4381/5781 SP:291/291 BP:5
+C-Cyrus - HP:3557/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:92/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Olberic
+3.Meep
+4.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Fire Wisp - HP:219/972 Shields:1
+2: Meep - HP:92/1016 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Fire Wisp recibe 0 de daño de tipo Stave
+Fire Wisp termina con HP:219
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3392/4002 SP:504/504 BP:5
+B-Olberic - HP:4381/5781 SP:291/291 BP:5
+C-Cyrus - HP:3557/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:92/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Meep
+5.Fire Wisp
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Fire Wisp - HP:219/972 Shields:1
+2: Meep - HP:92/1016 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Meep recibe 132 de daño de tipo Sword
+Meep termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3392/4002 SP:504/504 BP:5
+B-Olberic - HP:4381/5781 SP:291/291 BP:5
+C-Cyrus - HP:3557/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:0/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Fire Wisp
+----------------------------------------
+Fire Wisp usa Meteor Storm
+Primrose recibe 61 de daño elemental
+Primrose termina con HP:3331
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3331/4002 SP:504/504 BP:5
+B-Olberic - HP:4381/5781 SP:291/291 BP:5
+C-Cyrus - HP:3557/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:0/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Fire Wisp
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Fire Wisp - HP:219/972 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Fire Wisp recibe 0 de daño de tipo Dagger
+Fire Wisp termina con HP:219
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3331/4002 SP:504/504 BP:5
+B-Olberic - HP:4381/5781 SP:291/291 BP:5
+C-Cyrus - HP:3557/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:0/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Olberic
+3.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Fire Wisp
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Fire Wisp - HP:219/972 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Fire Wisp recibe 0 de daño de tipo Stave
+Fire Wisp termina con HP:219
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3331/4002 SP:504/504 BP:5
+B-Olberic - HP:4381/5781 SP:291/291 BP:5
+C-Cyrus - HP:3557/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:219/972 Shields:1
+B-Meep - HP:0/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Olberic
+4.Fire Wisp
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Fire Wisp - HP:219/972 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Fire Wisp recibe 251 de daño de tipo Sword
+Fire Wisp termina con HP:0
+----------------------------------------
+Gana equipo del jugador

@@ -1,0 +1,1088 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+INPUT: 23
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:332/332 BP:1
+B-Ophilia - HP:4002/4002 SP:470/470 BP:1
+C-H'aanit - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Wind Elemental - HP:2496/2496 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Mattias? - HP:5780/5780 Shields:4
+D-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Behemoth
+5.Mattias?
+6.Dark Elemental
+7.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Behemoth
+5.Mattias?
+6.Dark Elemental
+7.Wind Elemental
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Wind Elemental - HP:2496/2496 Shields:4
+2: Dark Elemental - HP:1822/1822 Shields:4
+3: Mattias? - HP:5780/5780 Shields:4
+4: Behemoth - HP:12690/12690 Shields:8
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Wind Elemental recibe 49 de daño de tipo Dagger
+Wind Elemental termina con HP:2447
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:332/332 BP:1
+B-Ophilia - HP:4002/4002 SP:470/470 BP:1
+C-H'aanit - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Wind Elemental - HP:2447/2496 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Mattias? - HP:5780/5780 Shields:4
+D-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Ophilia
+3.Behemoth
+4.Mattias?
+5.Dark Elemental
+6.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Behemoth
+5.Mattias?
+6.Dark Elemental
+7.Wind Elemental
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:332/332 BP:1
+B-Ophilia - HP:4002/4002 SP:470/470 BP:1
+C-H'aanit - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Wind Elemental - HP:2447/2496 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Mattias? - HP:5780/5780 Shields:4
+D-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Behemoth
+3.Mattias?
+4.Dark Elemental
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Therion
+3.Ophilia
+4.Behemoth
+5.Mattias?
+6.Dark Elemental
+7.Wind Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Wind Elemental - HP:2447/2496 Shields:4
+2: Dark Elemental - HP:1822/1822 Shields:4
+3: Mattias? - HP:5780/5780 Shields:4
+4: Behemoth - HP:12690/12690 Shields:8
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Dark Elemental recibe 0 de daño de tipo Stave
+Dark Elemental termina con HP:1822
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:332/332 BP:1
+B-Ophilia - HP:4002/4002 SP:470/470 BP:1
+C-H'aanit - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Wind Elemental - HP:2447/2496 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Mattias? - HP:5780/5780 Shields:4
+D-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Mattias?
+3.Dark Elemental
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Therion
+3.Ophilia
+4.Behemoth
+5.Mattias?
+6.Dark Elemental
+7.Wind Elemental
+----------------------------------------
+Behemoth usa Stampede
+Therion recibe 765 de daño físico
+Ophilia recibe 728 de daño físico
+H'aanit se defiende
+H'aanit recibe 394 de daño físico
+Therion termina con HP:3682
+Ophilia termina con HP:3274
+H'aanit termina con HP:4053
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3682/4447 SP:332/332 BP:1
+B-Ophilia - HP:3274/4002 SP:470/470 BP:1
+C-H'aanit - HP:4053/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Wind Elemental - HP:2447/2496 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Mattias? - HP:5780/5780 Shields:4
+D-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Dark Elemental
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Therion
+3.Ophilia
+4.Behemoth
+5.Mattias?
+6.Dark Elemental
+7.Wind Elemental
+----------------------------------------
+Mattias? usa Black Gale
+Therion recibe 717 de daño elemental
+Ophilia recibe 546 de daño elemental
+H'aanit se defiende
+H'aanit recibe 345 de daño elemental
+Therion termina con HP:2965
+Ophilia termina con HP:2728
+H'aanit termina con HP:3708
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2965/4447 SP:332/332 BP:1
+B-Ophilia - HP:2728/4002 SP:470/470 BP:1
+C-H'aanit - HP:3708/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Wind Elemental - HP:2447/2496 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Mattias? - HP:5780/5780 Shields:4
+D-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Therion
+3.Ophilia
+4.Behemoth
+5.Mattias?
+6.Dark Elemental
+7.Wind Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Therion recibe 262 de daño elemental
+Therion termina con HP:2703
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2703/4447 SP:332/332 BP:1
+B-Ophilia - HP:2728/4002 SP:470/470 BP:1
+C-H'aanit - HP:3708/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Wind Elemental - HP:2447/2496 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Mattias? - HP:5780/5780 Shields:4
+D-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Therion
+3.Ophilia
+4.Behemoth
+5.Mattias?
+6.Dark Elemental
+7.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Therion recibe 199 de daño elemental
+Therion termina con HP:2504
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2504/4447 SP:332/332 BP:2
+B-Ophilia - HP:2728/4002 SP:470/470 BP:2
+C-H'aanit - HP:3708/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Wind Elemental - HP:2447/2496 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Mattias? - HP:5780/5780 Shields:4
+D-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Therion
+3.Ophilia
+4.Behemoth
+5.Mattias?
+6.Dark Elemental
+7.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Behemoth
+5.Mattias?
+6.Dark Elemental
+7.Wind Elemental
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2504/4447 SP:332/332 BP:2
+B-Ophilia - HP:2728/4002 SP:470/470 BP:2
+C-H'aanit - HP:3708/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Wind Elemental - HP:2447/2496 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Mattias? - HP:5780/5780 Shields:4
+D-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Ophilia
+3.Behemoth
+4.Mattias?
+5.Dark Elemental
+6.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Therion
+3.Ophilia
+4.Behemoth
+5.Mattias?
+6.Dark Elemental
+7.Wind Elemental
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2504/4447 SP:332/332 BP:2
+B-Ophilia - HP:2728/4002 SP:470/470 BP:2
+C-H'aanit - HP:3708/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Wind Elemental - HP:2447/2496 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Mattias? - HP:5780/5780 Shields:4
+D-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Behemoth
+3.Mattias?
+4.Dark Elemental
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Behemoth
+5.Mattias?
+6.Dark Elemental
+7.Wind Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2504/4447 SP:332/332 BP:2
+B-Ophilia - HP:2728/4002 SP:470/470 BP:2
+C-H'aanit - HP:3708/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Wind Elemental - HP:2447/2496 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Mattias? - HP:5780/5780 Shields:4
+D-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Mattias?
+3.Dark Elemental
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Behemoth
+5.Mattias?
+6.Dark Elemental
+7.Wind Elemental
+----------------------------------------
+Behemoth usa Stampede
+Therion se defiende
+Therion recibe 382 de daño físico
+Ophilia se defiende
+Ophilia recibe 364 de daño físico
+H'aanit se defiende
+H'aanit recibe 394 de daño físico
+Therion termina con HP:2122
+Ophilia termina con HP:2364
+H'aanit termina con HP:3314
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2122/4447 SP:332/332 BP:2
+B-Ophilia - HP:2364/4002 SP:470/470 BP:2
+C-H'aanit - HP:3314/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Wind Elemental - HP:2447/2496 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Mattias? - HP:5780/5780 Shields:4
+D-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Dark Elemental
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Behemoth
+5.Mattias?
+6.Dark Elemental
+7.Wind Elemental
+----------------------------------------
+Mattias? usa Black Gale
+Therion se defiende
+Therion recibe 358 de daño elemental
+Ophilia se defiende
+Ophilia recibe 273 de daño elemental
+H'aanit se defiende
+H'aanit recibe 345 de daño elemental
+Therion termina con HP:1764
+Ophilia termina con HP:2091
+H'aanit termina con HP:2969
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:1764/4447 SP:332/332 BP:2
+B-Ophilia - HP:2091/4002 SP:470/470 BP:2
+C-H'aanit - HP:2969/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Wind Elemental - HP:2447/2496 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Mattias? - HP:5780/5780 Shields:4
+D-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Behemoth
+5.Mattias?
+6.Dark Elemental
+7.Wind Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Therion se defiende
+Therion recibe 131 de daño elemental
+Therion termina con HP:1633
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:1633/4447 SP:332/332 BP:2
+B-Ophilia - HP:2091/4002 SP:470/470 BP:2
+C-H'aanit - HP:2969/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Wind Elemental - HP:2447/2496 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Mattias? - HP:5780/5780 Shields:4
+D-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Behemoth
+5.Mattias?
+6.Dark Elemental
+7.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Therion se defiende
+Therion recibe 99 de daño elemental
+Therion termina con HP:1534
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:1534/4447 SP:332/332 BP:3
+B-Ophilia - HP:2091/4002 SP:470/470 BP:3
+C-H'aanit - HP:2969/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Wind Elemental - HP:2447/2496 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Mattias? - HP:5780/5780 Shields:4
+D-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Behemoth
+5.Mattias?
+6.Dark Elemental
+7.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Behemoth
+5.Mattias?
+6.Dark Elemental
+7.Wind Elemental
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Wind Elemental - HP:2447/2496 Shields:4
+2: Dark Elemental - HP:1822/1822 Shields:4
+3: Mattias? - HP:5780/5780 Shields:4
+4: Behemoth - HP:12690/12690 Shields:8
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Wind Elemental recibe 49 de daño de tipo Sword
+Wind Elemental termina con HP:2398
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:1534/4447 SP:332/332 BP:3
+B-Ophilia - HP:2091/4002 SP:470/470 BP:3
+C-H'aanit - HP:2969/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Wind Elemental - HP:2398/2496 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Mattias? - HP:5780/5780 Shields:4
+D-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Ophilia
+3.Behemoth
+4.Mattias?
+5.Dark Elemental
+6.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Behemoth
+5.Mattias?
+6.Dark Elemental
+7.Wind Elemental
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:1534/4447 SP:332/332 BP:3
+B-Ophilia - HP:2091/4002 SP:470/470 BP:3
+C-H'aanit - HP:2969/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Wind Elemental - HP:2398/2496 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Mattias? - HP:5780/5780 Shields:4
+D-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Behemoth
+3.Mattias?
+4.Dark Elemental
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Therion
+3.Ophilia
+4.Behemoth
+5.Mattias?
+6.Dark Elemental
+7.Wind Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:1534/4447 SP:332/332 BP:3
+B-Ophilia - HP:2091/4002 SP:470/470 BP:3
+C-H'aanit - HP:2969/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Wind Elemental - HP:2398/2496 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Mattias? - HP:5780/5780 Shields:4
+D-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Mattias?
+3.Dark Elemental
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Therion
+4.Behemoth
+5.Mattias?
+6.Dark Elemental
+7.Wind Elemental
+----------------------------------------
+Behemoth usa Stampede
+Therion recibe 765 de daño físico
+Ophilia se defiende
+Ophilia recibe 364 de daño físico
+H'aanit se defiende
+H'aanit recibe 394 de daño físico
+Therion termina con HP:769
+Ophilia termina con HP:1727
+H'aanit termina con HP:2575
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:769/4447 SP:332/332 BP:3
+B-Ophilia - HP:1727/4002 SP:470/470 BP:3
+C-H'aanit - HP:2575/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Wind Elemental - HP:2398/2496 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Mattias? - HP:5780/5780 Shields:4
+D-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Dark Elemental
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Therion
+4.Behemoth
+5.Mattias?
+6.Dark Elemental
+7.Wind Elemental
+----------------------------------------
+Mattias? usa Black Gale
+Therion recibe 717 de daño elemental
+Ophilia se defiende
+Ophilia recibe 273 de daño elemental
+H'aanit se defiende
+H'aanit recibe 345 de daño elemental
+Therion termina con HP:52
+Ophilia termina con HP:1454
+H'aanit termina con HP:2230
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:52/4447 SP:332/332 BP:3
+B-Ophilia - HP:1454/4002 SP:470/470 BP:3
+C-H'aanit - HP:2230/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Wind Elemental - HP:2398/2496 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Mattias? - HP:5780/5780 Shields:4
+D-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Therion
+4.Behemoth
+5.Mattias?
+6.Dark Elemental
+7.Wind Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Therion recibe 262 de daño elemental
+Therion termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Ophilia - HP:1454/4002 SP:470/470 BP:3
+C-H'aanit - HP:2230/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Wind Elemental - HP:2398/2496 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Mattias? - HP:5780/5780 Shields:4
+D-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Behemoth
+4.Mattias?
+5.Dark Elemental
+6.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+H'aanit se defiende
+H'aanit recibe 86 de daño elemental
+H'aanit termina con HP:2144
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Ophilia - HP:1454/4002 SP:470/470 BP:4
+C-H'aanit - HP:2144/4447 SP:369/369 BP:4
+Equipo del enemigo
+A-Wind Elemental - HP:2398/2496 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Mattias? - HP:5780/5780 Shields:4
+D-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Ophilia
+3.Behemoth
+4.Mattias?
+5.Dark Elemental
+6.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Behemoth
+4.Mattias?
+5.Dark Elemental
+6.Wind Elemental
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Wind Elemental - HP:2398/2496 Shields:4
+2: Dark Elemental - HP:1822/1822 Shields:4
+3: Mattias? - HP:5780/5780 Shields:4
+4: Behemoth - HP:12690/12690 Shields:8
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Wind Elemental recibe 62 de daño de tipo Axe
+Wind Elemental termina con HP:2336
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Ophilia - HP:1454/4002 SP:470/470 BP:4
+C-H'aanit - HP:2144/4447 SP:369/369 BP:4
+Equipo del enemigo
+A-Wind Elemental - HP:2336/2496 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Mattias? - HP:5780/5780 Shields:4
+D-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Behemoth
+3.Mattias?
+4.Dark Elemental
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Behemoth
+4.Mattias?
+5.Dark Elemental
+6.Wind Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Wind Elemental - HP:2336/2496 Shields:4
+2: Dark Elemental - HP:1822/1822 Shields:4
+3: Mattias? - HP:5780/5780 Shields:4
+4: Behemoth - HP:12690/12690 Shields:8
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Wind Elemental recibe 0 de daño de tipo Stave
+Wind Elemental termina con HP:2336
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Ophilia - HP:1454/4002 SP:470/470 BP:4
+C-H'aanit - HP:2144/4447 SP:369/369 BP:4
+Equipo del enemigo
+A-Wind Elemental - HP:2336/2496 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Mattias? - HP:5780/5780 Shields:4
+D-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Mattias?
+3.Dark Elemental
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Behemoth
+4.Mattias?
+5.Dark Elemental
+6.Wind Elemental
+----------------------------------------
+Behemoth usa Stampede
+Ophilia recibe 728 de daño físico
+H'aanit recibe 789 de daño físico
+Ophilia termina con HP:726
+H'aanit termina con HP:1355
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Ophilia - HP:726/4002 SP:470/470 BP:4
+C-H'aanit - HP:1355/4447 SP:369/369 BP:4
+Equipo del enemigo
+A-Wind Elemental - HP:2336/2496 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Mattias? - HP:5780/5780 Shields:4
+D-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Dark Elemental
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Behemoth
+4.Mattias?
+5.Dark Elemental
+6.Wind Elemental
+----------------------------------------
+Mattias? usa Black Gale
+Ophilia recibe 546 de daño elemental
+H'aanit recibe 690 de daño elemental
+Ophilia termina con HP:180
+H'aanit termina con HP:665
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Ophilia - HP:180/4002 SP:470/470 BP:4
+C-H'aanit - HP:665/4447 SP:369/369 BP:4
+Equipo del enemigo
+A-Wind Elemental - HP:2336/2496 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Mattias? - HP:5780/5780 Shields:4
+D-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Behemoth
+4.Mattias?
+5.Dark Elemental
+6.Wind Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+H'aanit recibe 235 de daño elemental
+H'aanit termina con HP:430
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Ophilia - HP:180/4002 SP:470/470 BP:4
+C-H'aanit - HP:430/4447 SP:369/369 BP:4
+Equipo del enemigo
+A-Wind Elemental - HP:2336/2496 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Mattias? - HP:5780/5780 Shields:4
+D-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Behemoth
+4.Mattias?
+5.Dark Elemental
+6.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+H'aanit recibe 172 de daño elemental
+H'aanit termina con HP:258
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Ophilia - HP:180/4002 SP:470/470 BP:5
+C-H'aanit - HP:258/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Wind Elemental - HP:2336/2496 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Mattias? - HP:5780/5780 Shields:4
+D-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Ophilia
+3.Behemoth
+4.Mattias?
+5.Dark Elemental
+6.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Behemoth
+4.Mattias?
+5.Dark Elemental
+6.Wind Elemental
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Ophilia - HP:180/4002 SP:470/470 BP:5
+C-H'aanit - HP:258/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Wind Elemental - HP:2336/2496 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Mattias? - HP:5780/5780 Shields:4
+D-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Behemoth
+3.Mattias?
+4.Dark Elemental
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Behemoth
+4.Mattias?
+5.Dark Elemental
+6.Wind Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Ophilia - HP:180/4002 SP:470/470 BP:5
+C-H'aanit - HP:258/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Wind Elemental - HP:2336/2496 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Mattias? - HP:5780/5780 Shields:4
+D-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Mattias?
+3.Dark Elemental
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Behemoth
+4.Mattias?
+5.Dark Elemental
+6.Wind Elemental
+----------------------------------------
+Behemoth usa Stampede
+Ophilia se defiende
+Ophilia recibe 364 de daño físico
+H'aanit se defiende
+H'aanit recibe 394 de daño físico
+Ophilia termina con HP:0
+H'aanit termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

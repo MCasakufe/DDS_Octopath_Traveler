@@ -1,0 +1,1034 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 37
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4502/4502 SP:520/520 BP:1
+Equipo del enemigo
+A-Heavenwing - HP:6900/6900 Shields:7
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Light Elemental - HP:1880/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Heavenwing - HP:6900/6900 Shields:7
+2: Wind Wisp - HP:1740/1740 Shields:1
+3: Light Elemental - HP:1880/1880 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Light Elemental recibe 0 de daño de tipo Stave
+Light Elemental termina con HP:1880
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4502/4502 SP:520/520 BP:1
+Equipo del enemigo
+A-Heavenwing - HP:6900/6900 Shields:7
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Light Elemental - HP:1880/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Wind Wisp
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Ophilia recibe 276 de daño elemental
+Ophilia termina con HP:4226
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4226/4502 SP:520/520 BP:1
+Equipo del enemigo
+A-Heavenwing - HP:6900/6900 Shields:7
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Light Elemental - HP:1880/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Wind Wisp usa Wind slash
+Ophilia recibe 316 de daño elemental
+Ophilia termina con HP:3910
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3910/4502 SP:520/520 BP:1
+Equipo del enemigo
+A-Heavenwing - HP:6900/6900 Shields:7
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Light Elemental - HP:1880/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Ophilia recibe 0 de daño elemental
+Ophilia termina con HP:3910
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3910/4502 SP:520/520 BP:2
+Equipo del enemigo
+A-Heavenwing - HP:6900/6900 Shields:7
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Light Elemental - HP:1880/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Heavenwing - HP:6900/6900 Shields:7
+2: Wind Wisp - HP:1740/1740 Shields:1
+3: Light Elemental - HP:1880/1880 Shields:4
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Heavenwing recibe 0 de daño de tipo Stave
+Heavenwing termina con HP:6900
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3910/4502 SP:520/520 BP:2
+Equipo del enemigo
+A-Heavenwing - HP:6900/6900 Shields:7
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Light Elemental - HP:1880/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Wind Wisp
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Ophilia recibe 276 de daño elemental
+Ophilia termina con HP:3634
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3634/4502 SP:520/520 BP:2
+Equipo del enemigo
+A-Heavenwing - HP:6900/6900 Shields:7
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Light Elemental - HP:1880/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Wind Wisp usa Wind slash
+Ophilia recibe 316 de daño elemental
+Ophilia termina con HP:3318
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3318/4502 SP:520/520 BP:2
+Equipo del enemigo
+A-Heavenwing - HP:6900/6900 Shields:7
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Light Elemental - HP:1880/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Ophilia recibe 0 de daño elemental
+Ophilia termina con HP:3318
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3318/4502 SP:520/520 BP:3
+Equipo del enemigo
+A-Heavenwing - HP:6900/6900 Shields:7
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Light Elemental - HP:1880/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Heavenwing - HP:6900/6900 Shields:7
+2: Wind Wisp - HP:1740/1740 Shields:1
+3: Light Elemental - HP:1880/1880 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Light Elemental recibe 0 de daño de tipo Stave
+Light Elemental termina con HP:1880
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3318/4502 SP:520/520 BP:3
+Equipo del enemigo
+A-Heavenwing - HP:6900/6900 Shields:7
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Light Elemental - HP:1880/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Wind Wisp
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Ophilia recibe 276 de daño elemental
+Ophilia termina con HP:3042
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3042/4502 SP:520/520 BP:3
+Equipo del enemigo
+A-Heavenwing - HP:6900/6900 Shields:7
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Light Elemental - HP:1880/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Wind Wisp usa Wind slash
+Ophilia recibe 316 de daño elemental
+Ophilia termina con HP:2726
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2726/4502 SP:520/520 BP:3
+Equipo del enemigo
+A-Heavenwing - HP:6900/6900 Shields:7
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Light Elemental - HP:1880/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Ophilia recibe 0 de daño elemental
+Ophilia termina con HP:2726
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2726/4502 SP:520/520 BP:4
+Equipo del enemigo
+A-Heavenwing - HP:6900/6900 Shields:7
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Light Elemental - HP:1880/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Yatagarasu
+2: Phoenix Storm
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Yatagarasu
+Heavenwing recibe 46 de daño de tipo Dagger
+Wind Wisp recibe 0 de daño de tipo Dagger
+Light Elemental recibe 103 de daño de tipo Dagger
+Heavenwing termina con HP:6854
+Wind Wisp termina con HP:1740
+Light Elemental termina con HP:1777
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2726/4502 SP:485/520 BP:4
+Equipo del enemigo
+A-Heavenwing - HP:6854/6900 Shields:7
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Light Elemental - HP:1777/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Wind Wisp
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Ophilia recibe 276 de daño elemental
+Ophilia termina con HP:2450
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2450/4502 SP:485/520 BP:4
+Equipo del enemigo
+A-Heavenwing - HP:6854/6900 Shields:7
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Light Elemental - HP:1777/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Wind Wisp usa Wind slash
+Ophilia recibe 316 de daño elemental
+Ophilia termina con HP:2134
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2134/4502 SP:485/520 BP:4
+Equipo del enemigo
+A-Heavenwing - HP:6854/6900 Shields:7
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Light Elemental - HP:1777/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Ophilia recibe 0 de daño elemental
+Ophilia termina con HP:2134
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2134/4502 SP:485/520 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6854/6900 Shields:7
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Light Elemental - HP:1777/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Heavenwing - HP:6854/6900 Shields:7
+2: Wind Wisp - HP:1740/1740 Shields:1
+3: Light Elemental - HP:1777/1880 Shields:4
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Heavenwing recibe 0 de daño de tipo Stave
+Heavenwing termina con HP:6854
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2134/4502 SP:485/520 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6854/6900 Shields:7
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Light Elemental - HP:1777/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Wind Wisp
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Ophilia recibe 276 de daño elemental
+Ophilia termina con HP:1858
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1858/4502 SP:485/520 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6854/6900 Shields:7
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Light Elemental - HP:1777/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Wind Wisp usa Wind slash
+Ophilia recibe 316 de daño elemental
+Ophilia termina con HP:1542
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1542/4502 SP:485/520 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6854/6900 Shields:7
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Light Elemental - HP:1777/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Ophilia recibe 0 de daño elemental
+Ophilia termina con HP:1542
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1542/4502 SP:485/520 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6854/6900 Shields:7
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Light Elemental - HP:1777/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Heavenwing - HP:6854/6900 Shields:7
+2: Wind Wisp - HP:1740/1740 Shields:1
+3: Light Elemental - HP:1777/1880 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Wind Wisp recibe 0 de daño de tipo Stave
+Wind Wisp termina con HP:1740
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1542/4502 SP:485/520 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6854/6900 Shields:7
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Light Elemental - HP:1777/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Wind Wisp
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Ophilia recibe 276 de daño elemental
+Ophilia termina con HP:1266
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1266/4502 SP:485/520 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6854/6900 Shields:7
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Light Elemental - HP:1777/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Wind Wisp usa Wind slash
+Ophilia recibe 316 de daño elemental
+Ophilia termina con HP:950
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:950/4502 SP:485/520 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6854/6900 Shields:7
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Light Elemental - HP:1777/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Ophilia recibe 0 de daño elemental
+Ophilia termina con HP:950
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:950/4502 SP:485/520 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6854/6900 Shields:7
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Light Elemental - HP:1777/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Yatagarasu
+2: Phoenix Storm
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Yatagarasu
+Heavenwing recibe 46 de daño de tipo Dagger
+Wind Wisp recibe 0 de daño de tipo Dagger
+Light Elemental recibe 103 de daño de tipo Dagger
+Heavenwing termina con HP:6808
+Wind Wisp termina con HP:1740
+Light Elemental termina con HP:1674
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:950/4502 SP:450/520 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6808/6900 Shields:7
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Light Elemental - HP:1674/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Wind Wisp
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Ophilia recibe 276 de daño elemental
+Ophilia termina con HP:674
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:674/4502 SP:450/520 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6808/6900 Shields:7
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Light Elemental - HP:1674/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Wind Wisp usa Wind slash
+Ophilia recibe 316 de daño elemental
+Ophilia termina con HP:358
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:358/4502 SP:450/520 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6808/6900 Shields:7
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Light Elemental - HP:1674/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Ophilia recibe 0 de daño elemental
+Ophilia termina con HP:358
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:358/4502 SP:450/520 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6808/6900 Shields:7
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Light Elemental - HP:1674/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:358/4502 SP:450/520 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6808/6900 Shields:7
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Light Elemental - HP:1674/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Wind Wisp
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Ophilia se defiende
+Ophilia recibe 138 de daño elemental
+Ophilia termina con HP:220
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:220/4502 SP:450/520 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6808/6900 Shields:7
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Light Elemental - HP:1674/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Wind Wisp usa Wind slash
+Ophilia se defiende
+Ophilia recibe 158 de daño elemental
+Ophilia termina con HP:62
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:62/4502 SP:450/520 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6808/6900 Shields:7
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Light Elemental - HP:1674/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Ophilia se defiende
+Ophilia recibe 0 de daño elemental
+Ophilia termina con HP:62
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:62/4502 SP:450/520 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6808/6900 Shields:7
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Light Elemental - HP:1674/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Yatagarasu
+2: Phoenix Storm
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Heavenwing - HP:6808/6900 Shields:7
+2: Wind Wisp - HP:1740/1740 Shields:1
+3: Light Elemental - HP:1674/1880 Shields:4
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Phoenix Storm
+Heavenwing recibe 145 de daño de tipo Bow con debilidad
+Heavenwing termina con HP:6663
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:62/4502 SP:415/520 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6663/6900 Shields:6
+B-Wind Wisp - HP:1740/1740 Shields:1
+C-Light Elemental - HP:1674/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Wind Wisp
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Heavenwing
+3.Wind Wisp
+4.Light Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Ophilia recibe 276 de daño elemental
+Ophilia termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

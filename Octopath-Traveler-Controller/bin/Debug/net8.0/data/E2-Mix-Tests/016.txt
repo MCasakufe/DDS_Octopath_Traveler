@@ -1,0 +1,396 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+INPUT: 15
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:332/332 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Red Fox - HP:1451/1451 Shields:3
+B-Cait - HP:500/500 Shields:2
+C-Meep - HP:1016/1016 Shields:2
+D-Thunder Guardian - HP:1971/1971 Shields:3
+E-Dark Guardian - HP:1470/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Therion
+3.Cyrus
+4.Meep
+5.Dark Guardian
+6.Thunder Guardian
+7.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Therion
+3.Cyrus
+4.Meep
+5.Dark Guardian
+6.Thunder Guardian
+7.Red Fox
+----------------------------------------
+Cait usa Attack
+Therion recibe 0 de daño físico
+Therion termina con HP:4447
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:332/332 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Red Fox - HP:1451/1451 Shields:3
+B-Cait - HP:500/500 Shields:2
+C-Meep - HP:1016/1016 Shields:2
+D-Thunder Guardian - HP:1971/1971 Shields:3
+E-Dark Guardian - HP:1470/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Cyrus
+3.Meep
+4.Dark Guardian
+5.Thunder Guardian
+6.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Therion
+3.Cyrus
+4.Meep
+5.Dark Guardian
+6.Thunder Guardian
+7.Red Fox
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Yatagarasu
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Yatagarasu
+Red Fox recibe 711 de daño de tipo Dagger con debilidad
+Cait recibe 627 de daño de tipo Dagger con debilidad
+Meep recibe 286 de daño de tipo Dagger
+Thunder Guardian recibe 688 de daño de tipo Dagger con debilidad
+Dark Guardian recibe 658 de daño de tipo Dagger con debilidad
+Red Fox termina con HP:740
+Cait termina con HP:0
+Meep termina con HP:730
+Thunder Guardian termina con HP:1283
+Dark Guardian termina con HP:812
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:297/332 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Red Fox - HP:740/1451 Shields:2
+B-Cait - HP:0/500 Shields:1
+C-Meep - HP:730/1016 Shields:2
+D-Thunder Guardian - HP:1283/1971 Shields:2
+E-Dark Guardian - HP:812/1470 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Meep
+3.Dark Guardian
+4.Thunder Guardian
+5.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Cyrus
+3.Meep
+4.Dark Guardian
+5.Thunder Guardian
+6.Red Fox
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Shooting Stars
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Shooting Stars
+Red Fox recibe 189 de daño de tipo Wind
+Red Fox recibe 189 de daño de tipo Light
+Red Fox recibe 189 de daño de tipo Dark
+Meep recibe 154 de daño de tipo Wind
+Meep recibe 154 de daño de tipo Light
+Meep recibe 231 de daño de tipo Dark con debilidad
+Thunder Guardian recibe 308 de daño de tipo Wind con debilidad
+Thunder Guardian recibe 205 de daño de tipo Light
+Thunder Guardian recibe 205 de daño de tipo Dark
+Dark Guardian recibe 210 de daño de tipo Wind
+Dark Guardian recibe 315 de daño de tipo Light con debilidad
+Dark Guardian recibe 210 de daño de tipo Dark
+Red Fox termina con HP:173
+Meep termina con HP:191
+Thunder Guardian termina con HP:565
+Dark Guardian termina con HP:77
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:297/332 BP:1
+B-Cyrus - HP:3557/3557 SP:547/582 BP:1
+Equipo del enemigo
+A-Red Fox - HP:173/1451 Shields:2
+B-Cait - HP:0/500 Shields:1
+C-Meep - HP:191/1016 Shields:1
+D-Thunder Guardian - HP:565/1971 Shields:1
+E-Dark Guardian - HP:77/1470 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Dark Guardian
+3.Thunder Guardian
+4.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Cyrus
+3.Meep
+4.Dark Guardian
+5.Thunder Guardian
+6.Red Fox
+----------------------------------------
+Meep usa Attack
+Therion recibe 263 de daño físico
+Therion termina con HP:4184
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4184/4447 SP:297/332 BP:1
+B-Cyrus - HP:3557/3557 SP:547/582 BP:1
+Equipo del enemigo
+A-Red Fox - HP:173/1451 Shields:2
+B-Cait - HP:0/500 Shields:1
+C-Meep - HP:191/1016 Shields:1
+D-Thunder Guardian - HP:565/1971 Shields:1
+E-Dark Guardian - HP:77/1470 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dark Guardian
+2.Thunder Guardian
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Cyrus
+3.Meep
+4.Dark Guardian
+5.Thunder Guardian
+6.Red Fox
+----------------------------------------
+Dark Guardian usa Attack
+Therion recibe 216 de daño físico
+Therion termina con HP:3968
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3968/4447 SP:297/332 BP:1
+B-Cyrus - HP:3557/3557 SP:547/582 BP:1
+Equipo del enemigo
+A-Red Fox - HP:173/1451 Shields:2
+B-Cait - HP:0/500 Shields:1
+C-Meep - HP:191/1016 Shields:1
+D-Thunder Guardian - HP:565/1971 Shields:1
+E-Dark Guardian - HP:77/1470 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Thunder Guardian
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Cyrus
+3.Meep
+4.Dark Guardian
+5.Thunder Guardian
+6.Red Fox
+----------------------------------------
+Thunder Guardian usa Attack
+Therion recibe 172 de daño físico
+Therion termina con HP:3796
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3796/4447 SP:297/332 BP:1
+B-Cyrus - HP:3557/3557 SP:547/582 BP:1
+Equipo del enemigo
+A-Red Fox - HP:173/1451 Shields:2
+B-Cait - HP:0/500 Shields:1
+C-Meep - HP:191/1016 Shields:1
+D-Thunder Guardian - HP:565/1971 Shields:1
+E-Dark Guardian - HP:77/1470 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Cyrus
+3.Meep
+4.Dark Guardian
+5.Thunder Guardian
+6.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Therion recibe 188 de daño físico
+Therion termina con HP:3608
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3608/4447 SP:297/332 BP:2
+B-Cyrus - HP:3557/3557 SP:547/582 BP:2
+Equipo del enemigo
+A-Red Fox - HP:173/1451 Shields:2
+B-Cait - HP:0/500 Shields:1
+C-Meep - HP:191/1016 Shields:1
+D-Thunder Guardian - HP:565/1971 Shields:1
+E-Dark Guardian - HP:77/1470 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Cyrus
+3.Meep
+4.Dark Guardian
+5.Thunder Guardian
+6.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Cyrus
+3.Meep
+4.Dark Guardian
+5.Thunder Guardian
+6.Red Fox
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Red Fox - HP:173/1451 Shields:2
+2: Meep - HP:191/1016 Shields:1
+3: Thunder Guardian - HP:565/1971 Shields:1
+4: Dark Guardian - HP:77/1470 Shields:1
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Thunder Guardian recibe 348 de daño de tipo Dagger con debilidad
+Thunder Guardian entra en Breaking Point
+Thunder Guardian termina con HP:217
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3608/4447 SP:297/332 BP:2
+B-Cyrus - HP:3557/3557 SP:547/582 BP:2
+Equipo del enemigo
+A-Red Fox - HP:173/1451 Shields:2
+B-Cait - HP:0/500 Shields:1
+C-Meep - HP:191/1016 Shields:1
+D-Thunder Guardian - HP:217/1971 Shields:0
+E-Dark Guardian - HP:77/1470 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Meep
+3.Dark Guardian
+4.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Cyrus
+3.Meep
+4.Dark Guardian
+5.Red Fox
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Shooting Stars
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Shooting Stars
+Red Fox recibe 189 de daño de tipo Wind
+Red Fox recibe 189 de daño de tipo Light
+Red Fox recibe 189 de daño de tipo Dark
+Meep recibe 154 de daño de tipo Wind
+Meep recibe 154 de daño de tipo Light
+Meep recibe 231 de daño de tipo Dark con debilidad
+Meep entra en Breaking Point
+Thunder Guardian recibe 411 de daño de tipo Wind con debilidad
+Thunder Guardian recibe 308 de daño de tipo Light
+Thunder Guardian recibe 308 de daño de tipo Dark
+Dark Guardian recibe 210 de daño de tipo Wind
+Dark Guardian recibe 315 de daño de tipo Light con debilidad
+Dark Guardian entra en Breaking Point
+Dark Guardian recibe 315 de daño de tipo Dark
+Red Fox termina con HP:0
+Meep termina con HP:0
+Thunder Guardian termina con HP:0
+Dark Guardian termina con HP:0
+----------------------------------------
+Gana equipo del jugador

@@ -1,0 +1,196 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+INPUT: 7
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Therion
+3.Olberic
+4.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Therion
+3.Olberic
+4.Meep
+----------------------------------------
+Cait usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:5781
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Olberic
+3.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Therion
+3.Olberic
+4.Meep
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Cait - HP:500/500 Shields:2
+2: Meep - HP:1016/1016 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Meep recibe 59 de daño de tipo Dagger
+Meep termina con HP:957
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Meep - HP:957/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Therion
+3.Olberic
+4.Meep
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Cait - HP:500/500 Shields:2
+2: Meep - HP:957/1016 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Meep recibe 132 de daño de tipo Sword
+Meep termina con HP:825
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Meep - HP:825/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Therion
+3.Olberic
+4.Meep
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:5641
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5641/5781 SP:291/291 BP:2
+B-Therion - HP:4447/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Meep - HP:825/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Therion
+3.Olberic
+4.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Therion
+3.Olberic
+4.Meep
+----------------------------------------
+Cait usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:5641
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5641/5781 SP:291/291 BP:2
+B-Therion - HP:4447/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Meep - HP:825/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Olberic
+3.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Therion
+3.Olberic
+4.Meep
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo

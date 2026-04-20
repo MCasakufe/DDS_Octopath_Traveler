@@ -1,0 +1,416 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+INPUT: 5
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Tressa - HP:4891/4891 SP:357/357 BP:1
+C-Therion - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.Tressa
+4.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Tressa
+4.Red Fox
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Red Fox - HP:1451/1451 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Red Fox recibe 371 de daño de tipo Dagger con debilidad
+Red Fox termina con HP:1080
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Tressa - HP:4891/4891 SP:357/357 BP:1
+C-Therion - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Red Fox - HP:1080/1451 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Tressa
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Tressa
+4.Red Fox
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Red Fox - HP:1080/1451 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Red Fox recibe 102 de daño de tipo Dagger con debilidad
+Red Fox termina con HP:978
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Tressa - HP:4891/4891 SP:357/357 BP:1
+C-Therion - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Red Fox - HP:978/1451 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Tressa
+4.Red Fox
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Tressa - HP:4891/4891 SP:357/357 BP:1
+C-Therion - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Red Fox - HP:978/1451 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Therion
+3.Primrose
+4.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Tressa se defiende
+Tressa recibe 55 de daño físico
+Tressa termina con HP:4836
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:2
+B-Tressa - HP:4836/4891 SP:357/357 BP:2
+C-Therion - HP:4447/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Red Fox - HP:978/1451 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Therion
+3.Primrose
+4.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Tressa
+4.Red Fox
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Red Fox - HP:978/1451 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Red Fox recibe 255 de daño de tipo Spear
+Red Fox termina con HP:723
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:2
+B-Tressa - HP:4836/4891 SP:357/357 BP:2
+C-Therion - HP:4447/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Red Fox - HP:723/1451 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Tressa
+4.Red Fox
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Red Fox - HP:723/1451 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Red Fox recibe 371 de daño de tipo Dagger con debilidad
+Red Fox entra en Breaking Point
+Red Fox termina con HP:352
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:2
+B-Tressa - HP:4836/4891 SP:357/357 BP:2
+C-Therion - HP:4447/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Red Fox - HP:352/1451 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Tressa
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Red Fox - HP:352/1451 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Red Fox recibe 136 de daño de tipo Dagger con debilidad
+Red Fox termina con HP:216
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:3
+B-Tressa - HP:4836/4891 SP:357/357 BP:3
+C-Therion - HP:4447/4447 SP:332/332 BP:3
+Equipo del enemigo
+A-Red Fox - HP:216/1451 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Red Fox
+2.Therion
+3.Primrose
+4.Tressa
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:3
+B-Tressa - HP:4836/4891 SP:357/357 BP:3
+C-Therion - HP:4447/4447 SP:332/332 BP:3
+Equipo del enemigo
+A-Red Fox - HP:216/1451 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Red Fox
+2.Therion
+3.Primrose
+4.Tressa
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:3
+B-Tressa - HP:4836/4891 SP:357/357 BP:3
+C-Therion - HP:4447/4447 SP:332/332 BP:3
+Equipo del enemigo
+A-Red Fox - HP:216/1451 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Red Fox
+2.Therion
+3.Primrose
+4.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:4
+B-Tressa - HP:4836/4891 SP:357/357 BP:4
+C-Therion - HP:4447/4447 SP:332/332 BP:4
+Equipo del enemigo
+A-Red Fox - HP:216/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+2.Therion
+3.Primrose
+4.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Tressa
+4.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Tressa recibe 110 de daño físico
+Tressa termina con HP:4726
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:4
+B-Tressa - HP:4726/4891 SP:357/357 BP:4
+C-Therion - HP:4447/4447 SP:332/332 BP:4
+Equipo del enemigo
+A-Red Fox - HP:216/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Tressa
+4.Red Fox
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Red Fox - HP:216/1451 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Red Fox recibe 371 de daño de tipo Dagger con debilidad
+Red Fox termina con HP:0
+----------------------------------------
+Gana equipo del jugador

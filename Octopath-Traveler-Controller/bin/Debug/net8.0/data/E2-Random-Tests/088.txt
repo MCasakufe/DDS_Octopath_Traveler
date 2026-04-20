@@ -1,0 +1,1391 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 87
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:341/341 BP:1
+Equipo del enemigo
+A-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Night Ode
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Night Ode
+War Wolf recibe 196 de daño de tipo Dark
+War Wolf termina con HP:3352
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:331/341 BP:1
+Equipo del enemigo
+A-War Wolf - HP:3352/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic recibe 74 de daño físico
+Olberic termina con HP:5707
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5707/5781 SP:331/341 BP:2
+Equipo del enemigo
+A-War Wolf - HP:3352/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5707/5781 SP:331/341 BP:2
+Equipo del enemigo
+A-War Wolf - HP:3352/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic se defiende
+Olberic recibe 37 de daño físico
+Olberic termina con HP:5670
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5670/5781 SP:331/341 BP:3
+Equipo del enemigo
+A-War Wolf - HP:3352/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Night Ode
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Night Ode
+War Wolf recibe 196 de daño de tipo Dark
+War Wolf termina con HP:3156
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5670/5781 SP:321/341 BP:3
+Equipo del enemigo
+A-War Wolf - HP:3156/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic recibe 74 de daño físico
+Olberic termina con HP:5596
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5596/5781 SP:321/341 BP:4
+Equipo del enemigo
+A-War Wolf - HP:3156/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: War Wolf - HP:3156/3548 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+War Wolf recibe 327 de daño de tipo Spear
+War Wolf termina con HP:2829
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5596/5781 SP:321/341 BP:4
+Equipo del enemigo
+A-War Wolf - HP:2829/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic recibe 74 de daño físico
+Olberic termina con HP:5522
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5522/5781 SP:321/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:2829/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Night Ode
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Night Ode
+War Wolf recibe 196 de daño de tipo Dark
+War Wolf termina con HP:2633
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5522/5781 SP:311/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:2633/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic recibe 74 de daño físico
+Olberic termina con HP:5448
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5448/5781 SP:311/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:2633/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Night Ode
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Night Ode
+War Wolf recibe 196 de daño de tipo Dark
+War Wolf termina con HP:2437
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5448/5781 SP:301/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:2437/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic recibe 74 de daño físico
+Olberic termina con HP:5374
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5374/5781 SP:301/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:2437/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Night Ode
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Night Ode
+War Wolf recibe 196 de daño de tipo Dark
+War Wolf termina con HP:2241
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5374/5781 SP:291/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:2241/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic recibe 74 de daño físico
+Olberic termina con HP:5300
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5300/5781 SP:291/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:2241/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Night Ode
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Night Ode
+War Wolf recibe 196 de daño de tipo Dark
+War Wolf termina con HP:2045
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5300/5781 SP:281/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:2045/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic recibe 74 de daño físico
+Olberic termina con HP:5226
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5226/5781 SP:281/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:2045/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Night Ode
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Night Ode
+War Wolf recibe 196 de daño de tipo Dark
+War Wolf termina con HP:1849
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5226/5781 SP:271/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:1849/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic recibe 74 de daño físico
+Olberic termina con HP:5152
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5152/5781 SP:271/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:1849/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5152/5781 SP:271/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:1849/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic se defiende
+Olberic recibe 37 de daño físico
+Olberic termina con HP:5115
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5115/5781 SP:271/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:1849/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Night Ode
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Night Ode
+War Wolf recibe 196 de daño de tipo Dark
+War Wolf termina con HP:1653
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5115/5781 SP:261/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:1653/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic recibe 74 de daño físico
+Olberic termina con HP:5041
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5041/5781 SP:261/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:1653/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Night Ode
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Night Ode
+War Wolf recibe 196 de daño de tipo Dark
+War Wolf termina con HP:1457
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5041/5781 SP:251/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:1457/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic recibe 74 de daño físico
+Olberic termina con HP:4967
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4967/5781 SP:251/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:1457/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Night Ode
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Night Ode
+War Wolf recibe 196 de daño de tipo Dark
+War Wolf termina con HP:1261
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4967/5781 SP:241/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:1261/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic recibe 74 de daño físico
+Olberic termina con HP:4893
+----------------------------------------
+INICIA RONDA 14
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4893/5781 SP:241/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:1261/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: War Wolf - HP:1261/3548 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+War Wolf recibe 327 de daño de tipo Spear
+War Wolf termina con HP:934
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4893/5781 SP:241/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:934/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic recibe 74 de daño físico
+Olberic termina con HP:4819
+----------------------------------------
+INICIA RONDA 15
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4819/5781 SP:241/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:934/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4819/5781 SP:241/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:934/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic se defiende
+Olberic recibe 37 de daño físico
+Olberic termina con HP:4782
+----------------------------------------
+INICIA RONDA 16
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4782/5781 SP:241/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:934/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4782/5781 SP:241/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:934/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic se defiende
+Olberic recibe 37 de daño físico
+Olberic termina con HP:4745
+----------------------------------------
+INICIA RONDA 17
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4745/5781 SP:241/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:934/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4745/5781 SP:241/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:934/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic se defiende
+Olberic recibe 37 de daño físico
+Olberic termina con HP:4708
+----------------------------------------
+INICIA RONDA 18
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4708/5781 SP:241/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:934/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Night Ode
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Night Ode
+War Wolf recibe 196 de daño de tipo Dark
+War Wolf termina con HP:738
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4708/5781 SP:231/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:738/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic recibe 74 de daño físico
+Olberic termina con HP:4634
+----------------------------------------
+INICIA RONDA 19
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4634/5781 SP:231/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:738/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4634/5781 SP:231/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:738/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic se defiende
+Olberic recibe 37 de daño físico
+Olberic termina con HP:4597
+----------------------------------------
+INICIA RONDA 20
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4597/5781 SP:231/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:738/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4597/5781 SP:231/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:738/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic se defiende
+Olberic recibe 37 de daño físico
+Olberic termina con HP:4560
+----------------------------------------
+INICIA RONDA 21
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4560/5781 SP:231/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:738/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4560/5781 SP:231/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:738/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic se defiende
+Olberic recibe 37 de daño físico
+Olberic termina con HP:4523
+----------------------------------------
+INICIA RONDA 22
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4523/5781 SP:231/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:738/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4523/5781 SP:231/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:738/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic se defiende
+Olberic recibe 37 de daño físico
+Olberic termina con HP:4486
+----------------------------------------
+INICIA RONDA 23
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4486/5781 SP:231/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:738/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4486/5781 SP:231/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:738/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic se defiende
+Olberic recibe 37 de daño físico
+Olberic termina con HP:4449
+----------------------------------------
+INICIA RONDA 24
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4449/5781 SP:231/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:738/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: War Wolf - HP:738/3548 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+War Wolf recibe 327 de daño de tipo Spear
+War Wolf termina con HP:411
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4449/5781 SP:231/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:411/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic recibe 74 de daño físico
+Olberic termina con HP:4375
+----------------------------------------
+INICIA RONDA 25
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4375/5781 SP:231/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:411/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Night Ode
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Night Ode
+War Wolf recibe 196 de daño de tipo Dark
+War Wolf termina con HP:215
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4375/5781 SP:221/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:215/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic recibe 74 de daño físico
+Olberic termina con HP:4301
+----------------------------------------
+INICIA RONDA 26
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4301/5781 SP:221/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:215/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Night Ode
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Night Ode
+War Wolf recibe 196 de daño de tipo Dark
+War Wolf termina con HP:19
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4301/5781 SP:211/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:19/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic recibe 74 de daño físico
+Olberic termina con HP:4227
+----------------------------------------
+INICIA RONDA 27
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4227/5781 SP:211/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:19/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4227/5781 SP:211/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:19/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic se defiende
+Olberic recibe 37 de daño físico
+Olberic termina con HP:4190
+----------------------------------------
+INICIA RONDA 28
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4190/5781 SP:211/341 BP:5
+Equipo del enemigo
+A-War Wolf - HP:19/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: War Wolf - HP:19/3548 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+War Wolf recibe 327 de daño de tipo Spear
+War Wolf termina con HP:0
+----------------------------------------
+Gana equipo del jugador

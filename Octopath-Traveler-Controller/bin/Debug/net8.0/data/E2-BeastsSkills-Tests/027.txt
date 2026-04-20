@@ -1,0 +1,683 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+INPUT: 26
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:332/332 BP:1
+B-Olberic - HP:5781/5781 SP:291/291 BP:1
+C-Ochette - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Ochette
+3.Olberic
+4.Mattias?
+5.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Ochette
+3.Olberic
+4.Mattias?
+5.Devourer of Dreams
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Mattias? - HP:5780/5780 Shields:4
+2: Devourer of Dreams - HP:7500/7500 Shields:10
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Devourer of Dreams recibe 91 de daño de tipo Dagger
+Devourer of Dreams termina con HP:7409
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:332/332 BP:1
+B-Olberic - HP:5781/5781 SP:291/291 BP:1
+C-Ochette - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Devourer of Dreams - HP:7409/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Olberic
+3.Mattias?
+4.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Ochette
+3.Olberic
+4.Mattias?
+5.Devourer of Dreams
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Mattias? - HP:5780/5780 Shields:4
+2: Devourer of Dreams - HP:7409/7500 Shields:10
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette ataca
+Devourer of Dreams recibe 153 de daño de tipo Bow
+Devourer of Dreams termina con HP:7256
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:332/332 BP:1
+B-Olberic - HP:5781/5781 SP:291/291 BP:1
+C-Ochette - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Devourer of Dreams - HP:7256/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Mattias?
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Ochette
+3.Olberic
+4.Mattias?
+5.Devourer of Dreams
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Mattias? - HP:5780/5780 Shields:4
+2: Devourer of Dreams - HP:7256/7500 Shields:10
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Devourer of Dreams recibe 164 de daño de tipo Spear
+Devourer of Dreams termina con HP:7092
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:332/332 BP:1
+B-Olberic - HP:5781/5781 SP:291/291 BP:1
+C-Ochette - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Devourer of Dreams - HP:7092/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Ochette
+3.Olberic
+4.Mattias?
+5.Devourer of Dreams
+----------------------------------------
+Mattias? usa Black Gale
+Therion recibe 717 de daño elemental
+Olberic recibe 674 de daño elemental
+Ochette recibe 710 de daño elemental
+Therion termina con HP:3730
+Olberic termina con HP:5107
+Ochette termina con HP:3737
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3730/4447 SP:332/332 BP:1
+B-Olberic - HP:5107/5781 SP:291/291 BP:1
+C-Ochette - HP:3737/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Devourer of Dreams - HP:7092/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Ochette
+3.Olberic
+4.Mattias?
+5.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Therion recibe 1865 de daño
+Olberic recibe 2554 de daño
+Ochette recibe 1869 de daño
+Therion termina con HP:1865
+Olberic termina con HP:2553
+Ochette termina con HP:1868
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:1865/4447 SP:332/332 BP:2
+B-Olberic - HP:2553/5781 SP:291/291 BP:2
+C-Ochette - HP:1868/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Devourer of Dreams - HP:7092/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Ochette
+3.Olberic
+4.Mattias?
+5.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Ochette
+3.Olberic
+4.Mattias?
+5.Devourer of Dreams
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Mattias? - HP:5780/5780 Shields:4
+2: Devourer of Dreams - HP:7092/7500 Shields:10
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Mattias? recibe 0 de daño de tipo Dagger
+Mattias? termina con HP:5780
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:1865/4447 SP:332/332 BP:2
+B-Olberic - HP:2553/5781 SP:291/291 BP:2
+C-Ochette - HP:1868/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Devourer of Dreams - HP:7092/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Olberic
+3.Mattias?
+4.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Ochette
+3.Olberic
+4.Mattias?
+5.Devourer of Dreams
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Mattias? - HP:5780/5780 Shields:4
+2: Devourer of Dreams - HP:7092/7500 Shields:10
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette ataca
+Mattias? recibe 47 de daño de tipo Bow
+Mattias? termina con HP:5733
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:1865/4447 SP:332/332 BP:2
+B-Olberic - HP:2553/5781 SP:291/291 BP:2
+C-Ochette - HP:1868/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5733/5780 Shields:4
+B-Devourer of Dreams - HP:7092/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Mattias?
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Ochette
+3.Olberic
+4.Mattias?
+5.Devourer of Dreams
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Mattias? - HP:5733/5780 Shields:4
+2: Devourer of Dreams - HP:7092/7500 Shields:10
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Mattias? recibe 58 de daño de tipo Spear
+Mattias? termina con HP:5675
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:1865/4447 SP:332/332 BP:2
+B-Olberic - HP:2553/5781 SP:291/291 BP:2
+C-Ochette - HP:1868/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5675/5780 Shields:4
+B-Devourer of Dreams - HP:7092/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Ochette
+3.Olberic
+4.Mattias?
+5.Devourer of Dreams
+----------------------------------------
+Mattias? usa Black Gale
+Therion recibe 717 de daño elemental
+Olberic recibe 674 de daño elemental
+Ochette recibe 710 de daño elemental
+Therion termina con HP:1148
+Olberic termina con HP:1879
+Ochette termina con HP:1158
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:1148/4447 SP:332/332 BP:2
+B-Olberic - HP:1879/5781 SP:291/291 BP:2
+C-Ochette - HP:1158/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5675/5780 Shields:4
+B-Devourer of Dreams - HP:7092/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Ochette
+3.Olberic
+4.Mattias?
+5.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Therion recibe 574 de daño
+Olberic recibe 940 de daño
+Ochette recibe 579 de daño
+Therion termina con HP:574
+Olberic termina con HP:939
+Ochette termina con HP:579
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:574/4447 SP:332/332 BP:3
+B-Olberic - HP:939/5781 SP:291/291 BP:3
+C-Ochette - HP:579/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Mattias? - HP:5675/5780 Shields:4
+B-Devourer of Dreams - HP:7092/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Ochette
+3.Olberic
+4.Mattias?
+5.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Ochette
+3.Olberic
+4.Mattias?
+5.Devourer of Dreams
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Mattias? - HP:5675/5780 Shields:4
+2: Devourer of Dreams - HP:7092/7500 Shields:10
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Devourer of Dreams recibe 91 de daño de tipo Dagger
+Devourer of Dreams termina con HP:7001
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:574/4447 SP:332/332 BP:3
+B-Olberic - HP:939/5781 SP:291/291 BP:3
+C-Ochette - HP:579/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Mattias? - HP:5675/5780 Shields:4
+B-Devourer of Dreams - HP:7001/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Olberic
+3.Mattias?
+4.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Ochette
+3.Olberic
+4.Mattias?
+5.Devourer of Dreams
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Mattias? - HP:5675/5780 Shields:4
+2: Devourer of Dreams - HP:7001/7500 Shields:10
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette ataca
+Devourer of Dreams recibe 153 de daño de tipo Bow
+Devourer of Dreams termina con HP:6848
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:574/4447 SP:332/332 BP:3
+B-Olberic - HP:939/5781 SP:291/291 BP:3
+C-Ochette - HP:579/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Mattias? - HP:5675/5780 Shields:4
+B-Devourer of Dreams - HP:6848/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Mattias?
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Ochette
+3.Olberic
+4.Mattias?
+5.Devourer of Dreams
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Mattias? - HP:5675/5780 Shields:4
+2: Devourer of Dreams - HP:6848/7500 Shields:10
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Devourer of Dreams recibe 164 de daño de tipo Spear
+Devourer of Dreams termina con HP:6684
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:574/4447 SP:332/332 BP:3
+B-Olberic - HP:939/5781 SP:291/291 BP:3
+C-Ochette - HP:579/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Mattias? - HP:5675/5780 Shields:4
+B-Devourer of Dreams - HP:6684/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Ochette
+3.Olberic
+4.Mattias?
+5.Devourer of Dreams
+----------------------------------------
+Mattias? usa Black Gale
+Therion recibe 717 de daño elemental
+Olberic recibe 674 de daño elemental
+Ochette recibe 710 de daño elemental
+Therion termina con HP:0
+Olberic termina con HP:265
+Ochette termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Olberic - HP:265/5781 SP:291/291 BP:3
+C-Ochette - HP:0/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Mattias? - HP:5675/5780 Shields:4
+B-Devourer of Dreams - HP:6684/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Mattias?
+3.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Olberic recibe 133 de daño
+Olberic termina con HP:132
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Olberic - HP:132/5781 SP:291/291 BP:4
+C-Ochette - HP:0/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Mattias? - HP:5675/5780 Shields:4
+B-Devourer of Dreams - HP:6684/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Mattias?
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Mattias?
+3.Devourer of Dreams
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Mattias? - HP:5675/5780 Shields:4
+2: Devourer of Dreams - HP:6684/7500 Shields:10
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Mattias? recibe 58 de daño de tipo Spear
+Mattias? termina con HP:5617
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Olberic - HP:132/5781 SP:291/291 BP:4
+C-Ochette - HP:0/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Mattias? - HP:5617/5780 Shields:4
+B-Devourer of Dreams - HP:6684/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Mattias?
+3.Devourer of Dreams
+----------------------------------------
+Mattias? usa Black Gale
+Olberic recibe 674 de daño elemental
+Olberic termina con HP:0
+----------------------------------------
+Gana equipo del enemigo
