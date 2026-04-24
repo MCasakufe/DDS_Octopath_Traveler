@@ -2,7 +2,7 @@
   {
     "Name": "Heal Wounds",
     "SP": 6,
-    "Type": "Light",
+    "Type": "",
     "Description": "Restaura HP a todos las unidades del grupo.",
     "Target": "Party",
     "Modifier": 1.5,
@@ -66,7 +66,7 @@
     "Name": "Aelfric's Auspices",
     "SP": 30,
     "Type": "",
-    "Description": "Selecciona a un aliado. Durante 3 rondas las habilidades de ese aliado se activarán 2 veces (no afecta a otras Divine Skills).",
+    "Description": "Selecciona a un aliado. Durante 3 rondas las habilidades de ese aliado activarán su efecto 2 veces (no afecta a otras Divine Skills).",
     "Target": "Ally",
     "Modifier": 0,
     "Boost": "[Divine Skill] Solo se puede usar con 3 BP"
@@ -309,7 +309,7 @@
     "Name": "Sealticge's Seduction",
     "SP": 30,
     "Type": "",
-    "Description": "Selecciona a un aliado. Durante 3 rondas las habilidades de ese aliado con target 'Single' tendrán target 'Enemies' y las habilidades con target 'Allies' tendrán target 'Party'. (no afecta a otras Divine Skills).",
+    "Description": "Selecciona a un aliado. Durante 3 rondas las habilidades de ese aliado con target 'Single' tendrán target 'Enemies' y las habilidades con target 'Ally' tendrán target 'Party'. (no afecta a otras Divine Skills).",
     "Target": "Ally",
     "Modifier": 0,
     "Boost": "[Divine Skill] Solo se puede usar con 3 BP"
@@ -429,7 +429,7 @@
     "Description": "Escoge un aliado. La unidad le transfiere la mitad de su SP actual.",
     "Target": "Ally",
     "Modifier": 0,
-    "Boost": "El aliado recibe un 30% de SP adicional."
+    "Boost": "El aliado recibe un 30% de SP adicional por cada BP."
   },
   {
     "Name": "Aeber's Reckoning",
@@ -499,7 +499,7 @@
     "SP": 30,
     "Type": "Bow",
     "Description": "Inflige un gran daño de tipo Bow a todos los enemigos.",
-    "Target": "Single",
+    "Target": "Enemies",
     "Modifier": 7,
     "Boost": "[Divine Skill] Solo se puede usar con 3 BP"
   },
@@ -645,7 +645,7 @@
     "Description": "Inflige daño de tipo Stave a un enemigo y le provoca Decreased Elemental Defense por 2 rondas",
     "Target": "Single",
     "Modifier": 2,
-    "Boost": "Aumenta el modificador en un 80% por cada BP"
+    "Boost": "Aumenta el modificador en un 100% por cada BP"
   },
   {
     "Name": "Precise Shot",
@@ -660,7 +660,7 @@
     "Name": "Cleaving Blow",
     "SP": 12,
     "Type": "Axe",
-    "Description": "Inflige daño de tipó Axe a un enemigo. Si el objeto del ataque posee menos PhysAtk que el usuario entonces el usuario obtiene Increased Physical Attack durante 2 rondas, en caso contrario el usuario obtiene Increased Physical Defense durante 2 rondas.",
+    "Description": "Inflige daño de tipo Axe a un enemigo. Si el objeto del ataque posee menos PhysAtk que el usuario entonces el usuario obtiene Increased Physical Attack durante 2 rondas, en caso contrario el usuario obtiene Increased Physical Defense durante 2 rondas.",
     "Target": "Single",
     "Modifier": 1.7,
     "Boost": "Aumenta el modificador en un 80% por cada BP"
@@ -731,7 +731,7 @@
   {
     "Name": "Ember",
     "SP": 7,
-    "Type": "",
+    "Type": "Fire",
     "Description": "Inflige daño de tipo Fire a un enemigo.",
     "Target": "Single",
     "Modifier": 1.9,

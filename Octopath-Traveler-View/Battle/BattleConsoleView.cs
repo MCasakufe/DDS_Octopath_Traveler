@@ -37,6 +37,9 @@ public sealed class BattleConsoleView
     public void PrintBeastAttack(BeastAttack attack)
         => _battleActionView.PrintBeastAttack(attack);
 
+    public void PrintPatienceExtraTurn(string travelerName)
+        => _battleActionView.PrintPatienceExtraTurn(travelerName);
+
     public void PrintWinner(BattleWinner winner)
     {
         if (winner == BattleWinner.None)

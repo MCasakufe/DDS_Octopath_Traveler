@@ -41,7 +41,7 @@
   },
   {
     "Name": "Persistence",
-    "Description": "Aumenta en 1 turno la duración de los buffs recibidos por la unidad",
+    "Description": "Aumenta en 1 ronda la duración de los buffs recibidos por la unidad",
     "Target": "User"
   },
   {
@@ -61,8 +61,8 @@
   },
   {
     "Name": "The Show Goes On",
-    "Description": "Los buffs que la unidad otorgue a sus aliados, tendrán 1 turno extra de duración",
-    "Target": "User"
+    "Description": "Los buffs que la unidad otorgue a sus aliados, tendrán 1 ronda extra de duración",
+    "Target": "Ally"
   },
   {
     "Name": "Encore",
@@ -71,7 +71,7 @@
   },
   {
     "Name": "Inspiration",
-    "Description": "Con cada ataque básico, recupera SP igual al 1% del daño realizado",
+    "Description": "Al realizar ataques básicos, recupera SP igual al 1% del daño realizado",
     "Target": "User"
   },
   {
@@ -82,7 +82,7 @@
   {
     "Name": "Second Serving",
     "Description": "Al realizar un ataque básico, si el HP del usuario es par, entonces realiza un ataque adicional.",
-    "Target": "User"
+    "Target": "Enemy"
   },
   {
     "Name": "Boost Start",

@@ -17,10 +17,14 @@ public sealed class BattleActionView
     {
         _view.WriteLine(SeparatorLine);
         _view.WriteLine($"{attack.AttackerName} ataca");
-        string weaknessSuffix = attack.IsWeaknessHit ? " con debilidad" : string.Empty;
-        _view.WriteLine($"{attack.TargetName} recibe {attack.Damage} de da\u00f1o de tipo {attack.WeaponType}{weaknessSuffix}");
-        if (attack.EnteredBreakingPoint)
-            _view.WriteLine($"{attack.TargetName} entra en Breaking Point");
+        foreach (TravelerBasicAttackHit hit in attack.Hits)
+        {
+            string weaknessSuffix = hit.IsWeaknessHit ? " con debilidad" : string.Empty;
+            _view.WriteLine($"{attack.TargetName} recibe {hit.Damage} de da\u00f1o de tipo {attack.WeaponType}{weaknessSuffix}");
+            if (hit.EnteredBreakingPoint)
+                _view.WriteLine($"{attack.TargetName} entra en Breaking Point");
+        }
+
         _view.WriteLine($"{attack.TargetName} termina con HP:{attack.TargetCurrentHp}");
     }
 
@@ -38,5 +42,11 @@ public sealed class BattleActionView
         _view.WriteLine($"{attack.AttackerName} usa {attack.SkillName}");
         foreach (string resultLine in attack.ResultLines)
             _view.WriteLine(resultLine);
+    }
+
+    public void PrintPatienceExtraTurn(string travelerName)
+    {
+        _view.WriteLine(SeparatorLine);
+        _view.WriteLine($"{travelerName} obtiene un turno adicional");
     }
 }

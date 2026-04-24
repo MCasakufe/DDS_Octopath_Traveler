@@ -89,7 +89,7 @@ public sealed class TravelerTurnInputView
         if (skillSelection is null)
             return null;
 
-        int usedBp = ReadUsedBp(traveler.CurrentBp);
+        int usedBp = ReadUsedBp(traveler.Name, traveler.CurrentBp);
         return TravelerTurnOutcome.Skill(
             selectedSkill.Name,
             skillSelection.SelectedBeastTarget,
@@ -108,7 +108,7 @@ public sealed class TravelerTurnInputView
         if (selectedTarget is null)
             return null;
 
-        int usedBp = ReadUsedBp(traveler.CurrentBp);
+        int usedBp = ReadUsedBp(traveler.Name, traveler.CurrentBp);
         return new BasicAttackSelection(selectedWeapon, selectedTarget, usedBp);
     }
 
@@ -235,15 +235,32 @@ public sealed class TravelerTurnInputView
             : null;
     }
 
-    private int ReadUsedBp(int currentBp)
+    private int ReadUsedBp(string travelerName, int currentBp)
     {
         if (currentBp < 1)
             return 0;
 
-        _view.WriteLine(SeparatorLine);
-        _view.WriteLine("Seleccione cuantos BP utilizar");
-        _view.ReadLine();
-        return 0;
+        while (true)
+        {
+            _view.WriteLine(SeparatorLine);
+            _view.WriteLine("Seleccione cuantos BP utilizar");
+
+            string? enteredText = _view.ReadLine();
+            if (!int.TryParse(enteredText, out int requestedBp))
+                return 0;
+
+            if (requestedBp < 0)
+                return 0;
+
+            if (requestedBp > 3 || requestedBp > currentBp)
+            {
+                _view.WriteLine(SeparatorLine);
+                _view.WriteLine($"{travelerName} no tiene {requestedBp} BP para utilizar");
+                continue;
+            }
+
+            return requestedBp;
+        }
     }
 
     private int? ReadMenuOption()

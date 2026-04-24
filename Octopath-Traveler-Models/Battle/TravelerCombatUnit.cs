@@ -6,6 +6,9 @@ namespace Octopath_Traveler_Models.Battle;
 public sealed class TravelerCombatUnit
     : Unit
 {
+    private const int BaseStartingBp = 1;
+    private const int BoostStartBpBonus = 1;
+
     private static readonly IReadOnlyDictionary<string, PassiveStatBonus> PassiveBonusesByName
         = new Dictionary<string, PassiveStatBonus>(StringComparer.Ordinal)
         {
@@ -26,7 +29,7 @@ public sealed class TravelerCombatUnit
             travelerSetup,
             runtimeDataCatalog,
             boardSlotIndex,
-            CalculatePassiveStatBonuses(travelerSetup.PassiveSkills))
+            AnalyzePassiveEffects(travelerSetup.PassiveSkills))
     {
     }
 
@@ -35,20 +38,24 @@ public sealed class TravelerCombatUnit
         TravelerSetup travelerSetup,
         RuntimeDataCatalog runtimeDataCatalog,
         int boardSlotIndex,
-        PassiveStatBonus passiveBonuses)
+        PassiveEffects passiveEffects)
         : base(
             travelerDefinition.Name,
-            travelerDefinition.MaxHp + passiveBonuses.MaxHpBonus,
-            travelerDefinition.PhysAtk + passiveBonuses.PhysAtkBonus,
+            travelerDefinition.MaxHp + passiveEffects.StatBonuses.MaxHpBonus,
+            ResolveFinalPhysAtk(travelerDefinition, passiveEffects),
             travelerDefinition.PhysDef,
-            travelerDefinition.ElemAtk + passiveBonuses.ElemAtkBonus,
+            ResolveFinalElemAtk(travelerDefinition, passiveEffects),
             travelerDefinition.ElemDef,
-            travelerDefinition.Speed + passiveBonuses.SpeedBonus,
+            travelerDefinition.Speed + passiveEffects.StatBonuses.SpeedBonus,
             boardSlotIndex)
     {
-        MaxSp = travelerDefinition.MaxSp + passiveBonuses.MaxSpBonus;
+        MaxSp = travelerDefinition.MaxSp + passiveEffects.StatBonuses.MaxSpBonus;
         CurrentSp = MaxSp;
-        CurrentBp = 1;
+        CurrentBp = passiveEffects.HasBoostStart
+            ? BaseStartingBp + BoostStartBpBonus
+            : BaseStartingBp;
+        HasVimAndVigor = passiveEffects.HasVimAndVigor;
+        HasSecondWind = passiveEffects.HasSecondWind;
         Weapons = travelerDefinition.Weapons.ToList();
         AssignedActiveSkillNames = travelerSetup.ActiveSkills.ToList();
         AssignedActiveSkills = travelerSetup.ActiveSkills
@@ -83,6 +90,12 @@ public sealed class TravelerCombatUnit
 
     public bool IsWaitingForNextRoundAfterRevive { get; set; }
 
+    public bool SpentBpThisRound { get; set; }
+
+    public bool HasVimAndVigor { get; }
+
+    public bool HasSecondWind { get; }
+
     private static SkillDefinition ResolveAssignedActiveSkill(RuntimeDataCatalog runtimeDataCatalog, string skillName)
     {
         if (!runtimeDataCatalog.TryGetActiveSkill(skillName, out SkillDefinition? skillDefinition) || skillDefinition is null)
@@ -91,17 +104,53 @@ public sealed class TravelerCombatUnit
         return skillDefinition;
     }
 
-    private static PassiveStatBonus CalculatePassiveStatBonuses(IEnumerable<string> passiveSkillNames)
+    private static PassiveEffects AnalyzePassiveEffects(IEnumerable<string> passiveSkillNames)
     {
+        bool hasBoostStart = false;
+        bool hasStatSwap = false;
+        bool hasVimAndVigor = false;
+        bool hasSecondWind = false;
         PassiveStatBonus bonuses = PassiveStatBonus.None;
+
         foreach (string passiveSkillName in passiveSkillNames)
         {
             if (PassiveBonusesByName.TryGetValue(passiveSkillName, out PassiveStatBonus passiveBonus))
                 bonuses = bonuses.Add(passiveBonus);
+
+            hasBoostStart = hasBoostStart || passiveSkillName == "Boost Start";
+            hasStatSwap = hasStatSwap || passiveSkillName == "Stat Swap";
+            hasVimAndVigor = hasVimAndVigor || passiveSkillName == "Vim and Vigor";
+            hasSecondWind = hasSecondWind || passiveSkillName == "Second Wind";
         }
 
-        return bonuses;
+        return new PassiveEffects(
+            bonuses,
+            hasBoostStart,
+            hasStatSwap,
+            hasVimAndVigor,
+            hasSecondWind);
     }
+
+    private static int ResolveFinalPhysAtk(TravelerDefinition travelerDefinition, PassiveEffects passiveEffects)
+    {
+        int basePhysAtk = travelerDefinition.PhysAtk + passiveEffects.StatBonuses.PhysAtkBonus;
+        int baseElemAtk = travelerDefinition.ElemAtk + passiveEffects.StatBonuses.ElemAtkBonus;
+        return passiveEffects.HasStatSwap ? baseElemAtk : basePhysAtk;
+    }
+
+    private static int ResolveFinalElemAtk(TravelerDefinition travelerDefinition, PassiveEffects passiveEffects)
+    {
+        int basePhysAtk = travelerDefinition.PhysAtk + passiveEffects.StatBonuses.PhysAtkBonus;
+        int baseElemAtk = travelerDefinition.ElemAtk + passiveEffects.StatBonuses.ElemAtkBonus;
+        return passiveEffects.HasStatSwap ? basePhysAtk : baseElemAtk;
+    }
+
+    private readonly record struct PassiveEffects(
+        PassiveStatBonus StatBonuses,
+        bool HasBoostStart,
+        bool HasStatSwap,
+        bool HasVimAndVigor,
+        bool HasSecondWind);
 
     private readonly record struct PassiveStatBonus(
         int MaxHpBonus,
