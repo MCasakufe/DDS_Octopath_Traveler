@@ -30,7 +30,7 @@ public sealed class Game
 
     public void Play()
     {
-        var battleState = TryLoadBattleState();
+        BattleState? battleState = TryLoadBattleState();
         if (battleState is null)
         {
             _mainConsoleView.WriteInvalidTeamFileMessage();
@@ -44,11 +44,11 @@ public sealed class Game
     {
         try
         {
-            var selectedTeamFilePath = _teamSelectionView.SelectTeamFilePath();
+            string? selectedTeamFilePath = _teamSelectionView.SelectTeamFilePath();
             if (selectedTeamFilePath is null)
                 return null;
 
-            var teamSetup = _teamFileParser.Parse(selectedTeamFilePath);
+            TeamSetup teamSetup = _teamFileParser.Parse(selectedTeamFilePath);
             if (!_teamSetupValidator.IsValid(teamSetup))
                 return null;
 
@@ -70,12 +70,13 @@ public sealed class Game
 
     private static BattleLoopRunner CreateBattleLoopRunner(View view)
     {
-        var damageCalculator = new PhysicalAttackDamageCalculator();
+        PhysicalAttackDamageCalculator damageCalculator = new();
+        PhysicalAttackExecutionService physicalAttackExecutionService = new(damageCalculator);
         return new BattleLoopRunner(
             new RoundTurnQueueBuilder(),
             new BattleConsoleView(view),
-            new TravelerBasicAttackExecutor(damageCalculator),
-            new BeastAttackExecutor(damageCalculator),
+            new TravelerBasicAttackExecutor(physicalAttackExecutionService),
+            new BeastAttackExecutor(physicalAttackExecutionService),
             new BattleWinnerEvaluator());
     }
 }

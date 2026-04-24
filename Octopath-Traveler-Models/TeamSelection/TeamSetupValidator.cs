@@ -18,7 +18,7 @@ public sealed class TeamSetupValidator
 
     public bool IsValid(TeamSetup teamSetup)
     {
-        var catalog = _catalogProvider.Load();
+        ValidationCatalog catalog = _catalogProvider.Load();
 
         return HasValidTeamMemberCounts(teamSetup)
                && HasNoDuplicateTravelerNames(teamSetup)
@@ -40,8 +40,8 @@ public sealed class TeamSetupValidator
 
     private static bool HasNoDuplicateNames(IEnumerable<string> names)
     {
-        var uniqueNames = new HashSet<string>(StringComparer.Ordinal);
-        foreach (var name in names)
+        HashSet<string> uniqueNames = new(StringComparer.Ordinal);
+        foreach (string name in names)
         {
             if (!uniqueNames.Add(name))
                 return false;

@@ -9,19 +9,27 @@ public sealed record TravelerBasicAttack(
 
 public sealed class TravelerBasicAttackExecutor
 {
-    private readonly PhysicalAttackDamageCalculator _damageCalculator;
+    private readonly PhysicalAttackExecutionService _physicalAttackExecutionService;
 
-    public TravelerBasicAttackExecutor(PhysicalAttackDamageCalculator damageCalculator)
+    public TravelerBasicAttackExecutor(PhysicalAttackExecutionService physicalAttackExecutionService)
     {
-        _damageCalculator = damageCalculator;
+        _physicalAttackExecutionService = physicalAttackExecutionService;
     }
 
     public TravelerBasicAttack ExecuteAttack(TravelerCombatUnit traveler, BeastCombatUnit target, string weaponType)
     {
-        var damage = _damageCalculator.CalculateDamage(traveler.PhysAtk, target.PhysDef);
-        target.CurrentHp = Math.Max(0, target.CurrentHp - damage);
+        PhysicalAttackOutcome attackOutcome = _physicalAttackExecutionService.Execute(
+            traveler.PhysAtk,
+            target.PhysDef,
+            target.CurrentHp);
+        target.CurrentHp = attackOutcome.TargetCurrentHp;
 
-        return new TravelerBasicAttack(traveler.Name, target.Name, weaponType, damage, target.CurrentHp);
+        return new TravelerBasicAttack(
+            traveler.Name,
+            target.Name,
+            weaponType,
+            attackOutcome.Damage,
+            attackOutcome.TargetCurrentHp);
     }
 }
 

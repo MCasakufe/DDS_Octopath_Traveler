@@ -14,7 +14,7 @@ public sealed class TeamFileParser
 
         try
         {
-            var lines = File.ReadAllLines(teamFilePath);
+            string[] lines = File.ReadAllLines(teamFilePath);
             return ParseTeamSetup(lines);
         }
         catch (IOException exception)
@@ -29,47 +29,44 @@ public sealed class TeamFileParser
 
     private TeamSetup ParseTeamSetup(IReadOnlyList<string> lines)
     {
-        var sectionLines = ParseSectionLines(lines);
-        var travelers = ParseTravelers(sectionLines.TravelerLines);
+        SectionLines sectionLines = ParseSectionLines(lines);
+        List<TravelerSetup> travelers = ParseTravelers(sectionLines.TravelerLines);
 
         return new TeamSetup(travelers, sectionLines.BeastLines);
     }
 
     private SectionLines ParseSectionLines(IReadOnlyList<string> lines)
     {
-        var sectionLinesBuilder = new SectionLinesBuilder();
-        var currentSection = TeamFileSection.None;
+        SectionLinesBuilder sectionLinesBuilder = new();
+        TeamFileSection currentSection = TeamFileSection.None;
 
-        foreach (var line in ReadNonEmptyLines(lines))
-            ProcessTeamFileLine(line, sectionLinesBuilder, ref currentSection);
+        foreach (string line in ReadNonEmptyLines(lines))
+            currentSection = ProcessTeamFileLine(line, sectionLinesBuilder, currentSection);
 
         return sectionLinesBuilder.Build();
     }
 
     private static IEnumerable<string> ReadNonEmptyLines(IReadOnlyList<string> lines)
     {
-        foreach (var rawLine in lines)
+        foreach (string rawLine in lines)
         {
-            var line = rawLine.Trim();
+            string line = rawLine.Trim();
             if (line.Length > 0)
                 yield return line;
         }
     }
 
-    private static void ProcessTeamFileLine(
+    private static TeamFileSection ProcessTeamFileLine(
         string line,
         SectionLinesBuilder sectionLinesBuilder,
-        ref TeamFileSection currentSection)
+        TeamFileSection currentSection)
     {
-        var parsedSectionHeader = TryParseSectionHeader(line);
+        TeamFileSection? parsedSectionHeader = TryParseSectionHeader(line);
         if (parsedSectionHeader is not null)
-        {
-            currentSection = parsedSectionHeader.Value;
-            return;
-        }
+            return parsedSectionHeader.Value;
 
-        if (!sectionLinesBuilder.TryAddTeamMemberLine(line, currentSection))
-            throw new TeamFileParseException("Team member entries must be inside a valid section.");
+        sectionLinesBuilder.AddTeamMemberLine(line, currentSection);
+        return currentSection;
     }
 
     private static TeamFileSection? TryParseSectionHeader(string line)
@@ -85,8 +82,8 @@ public sealed class TeamFileParser
 
     private static List<TravelerSetup> ParseTravelers(IEnumerable<string> travelerLines)
     {
-        var travelers = new List<TravelerSetup>();
-        foreach (var travelerLine in travelerLines)
+        List<TravelerSetup> travelers = [];
+        foreach (string travelerLine in travelerLines)
             travelers.Add(ParseTraveler(travelerLine));
 
         return travelers;
@@ -94,20 +91,20 @@ public sealed class TeamFileParser
 
     private static TravelerSetup ParseTraveler(string line)
     {
-        var travelerName = ExtractTravelerName(line);
+        string travelerName = ExtractTravelerName(line);
         if (string.IsNullOrWhiteSpace(travelerName))
             throw new TeamFileParseException("Traveler names cannot be empty.");
 
-        var activeSkillNames = ParseSkillNames(line, '(', ')');
-        var passiveSkillNames = ParseSkillNames(line, '[', ']');
+        List<string> activeSkillNames = ParseSkillNames(line, '(', ')');
+        List<string> passiveSkillNames = ParseSkillNames(line, '[', ']');
         return new TravelerSetup(travelerName, activeSkillNames, passiveSkillNames);
     }
 
     private static string ExtractTravelerName(string line)
     {
-        var firstActiveSkillsIndex = line.IndexOf('(');
-        var firstPassiveSkillsIndex = line.IndexOf('[');
-        var metadataStartIndex = GetMetadataStartIndex(firstActiveSkillsIndex, firstPassiveSkillsIndex);
+        int firstActiveSkillsIndex = line.IndexOf('(');
+        int firstPassiveSkillsIndex = line.IndexOf('[');
+        int metadataStartIndex = GetMetadataStartIndex(firstActiveSkillsIndex, firstPassiveSkillsIndex);
         return metadataStartIndex < 0 ? line.Trim() : line[..metadataStartIndex].Trim();
     }
 
@@ -124,20 +121,32 @@ public sealed class TeamFileParser
 
     private static List<string> ParseSkillNames(string line, char startDelimiter, char endDelimiter)
     {
-        var escapedStartDelimiter = Regex.Escape(startDelimiter.ToString());
-        var escapedEndDelimiter = Regex.Escape(endDelimiter.ToString());
-        var segmentPattern = $"{escapedStartDelimiter}([^{escapedEndDelimiter}]*){escapedEndDelimiter}";
-        var segmentMatch = Regex.Match(line, segmentPattern);
-
-        if (!segmentMatch.Success)
+        string? segment = TryReadDelimitedSegment(line, startDelimiter, endDelimiter);
+        if (segment is null)
             return [];
 
-        return segmentMatch.Groups[1].Value
+        return ParseSkillNameList(segment);
+    }
+
+    private static string? TryReadDelimitedSegment(string line, char startDelimiter, char endDelimiter)
+    {
+        string escapedStartDelimiter = Regex.Escape(startDelimiter.ToString());
+        string escapedEndDelimiter = Regex.Escape(endDelimiter.ToString());
+        string segmentPattern = $"{escapedStartDelimiter}([^{escapedEndDelimiter}]*){escapedEndDelimiter}";
+        Match segmentMatch = Regex.Match(line, segmentPattern);
+
+        if (!segmentMatch.Success)
+            return null;
+
+        return segmentMatch.Groups[1].Value;
+    }
+
+    private static List<string> ParseSkillNameList(string segment)
+        => segment
             .Split(',')
             .Select(skillName => skillName.Trim())
             .Where(skillName => skillName.Length > 0)
             .ToList();
-    }
 
 }
 

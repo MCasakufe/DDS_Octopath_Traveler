@@ -35,10 +35,10 @@ public sealed class BattleLoopRunner
 
     private bool ExecuteRound(BattleState battleState)
     {
-        var actedParticipants = new HashSet<TurnParticipantKey>();
+        HashSet<TurnParticipantKey> actedParticipants = [];
         PrintRoundStart(battleState, actedParticipants);
 
-        var participant = GetNextRoundParticipant(battleState, actedParticipants);
+        TurnParticipant? participant = GetNextRoundParticipant(battleState, actedParticipants);
         while (participant is not null)
         {
             if (ExecuteTurn(participant, battleState) == TurnExecutionResult.EndBattle)
@@ -46,7 +46,7 @@ public sealed class BattleLoopRunner
 
             MarkParticipantAsActed(participant, actedParticipants);
 
-            var winner = GetBattleWinner(battleState);
+            BattleWinner? winner = GetBattleWinner(battleState);
             if (winner is not null)
             {
                 _battleConsoleView.PrintWinner(winner.Value);
@@ -67,7 +67,7 @@ public sealed class BattleLoopRunner
 
     private void PrintRoundStart(BattleState battleState, IReadOnlySet<TurnParticipantKey> actedParticipants)
     {
-        var initialQueues = _roundTurnQueueBuilder.CreateQueues(battleState, actedParticipants);
+        RoundTurnQueues initialQueues = _roundTurnQueueBuilder.CreateQueues(battleState, actedParticipants);
         _battleConsoleView.PrintRoundState(battleState, initialQueues);
     }
 
@@ -75,7 +75,7 @@ public sealed class BattleLoopRunner
         BattleState battleState,
         IReadOnlySet<TurnParticipantKey> actedParticipants)
     {
-        var queues = _roundTurnQueueBuilder.CreateQueues(battleState, actedParticipants);
+        RoundTurnQueues queues = _roundTurnQueueBuilder.CreateQueues(battleState, actedParticipants);
         return queues.CurrentRound.Count == 0 ? null : queues.CurrentRound[0];
     }
 
@@ -89,8 +89,8 @@ public sealed class BattleLoopRunner
 
     private TurnExecutionResult ExecuteTravelerTurn(TurnParticipant participant, BattleState battleState)
     {
-        var traveler = battleState.TravelerTeam[participant.BoardSlotIndex];
-        var turnOutcome = _battleConsoleView.RequestTravelerTurn(traveler, battleState);
+        TravelerCombatUnit traveler = battleState.TravelerTeam[participant.BoardSlotIndex];
+        TravelerTurnOutcome turnOutcome = _battleConsoleView.RequestTravelerTurn(traveler, battleState);
 
         if (turnOutcome.Resolution == TravelerTurnResolution.Fled)
             return EndBattleAfterFlee();
@@ -114,7 +114,7 @@ public sealed class BattleLoopRunner
             return;
         }
 
-        var attack = _travelerBasicAttackExecutor.ExecuteAttack(
+        TravelerBasicAttack attack = _travelerBasicAttackExecutor.ExecuteAttack(
             traveler,
             turnOutcome.SelectedTarget,
             turnOutcome.SelectedWeapon);
@@ -123,7 +123,7 @@ public sealed class BattleLoopRunner
 
     private BattleWinner? GetBattleWinner(BattleState battleState)
     {
-        var winner = _battleWinnerEvaluator.GetWinner(battleState);
+        BattleWinner winner = _battleWinnerEvaluator.GetWinner(battleState);
         return winner == BattleWinner.None ? null : winner;
     }
 
@@ -131,15 +131,15 @@ public sealed class BattleLoopRunner
         BattleState battleState,
         IReadOnlySet<TurnParticipantKey> actedParticipants)
     {
-        var updatedQueues = _roundTurnQueueBuilder.CreateQueues(battleState, actedParticipants);
+        RoundTurnQueues updatedQueues = _roundTurnQueueBuilder.CreateQueues(battleState, actedParticipants);
         if (updatedQueues.CurrentRound.Count > 0)
             _battleConsoleView.PrintBattleSnapshot(battleState, updatedQueues);
     }
 
     private TurnExecutionResult ExecuteBeastTurn(TurnParticipant participant, BattleState battleState)
     {
-        var beast = battleState.BeastTeam[participant.BoardSlotIndex];
-        var attack = _beastAttackExecutor.ExecuteAttack(beast, battleState);
+        BeastCombatUnit beast = battleState.BeastTeam[participant.BoardSlotIndex];
+        BeastAttack? attack = _beastAttackExecutor.ExecuteAttack(beast, battleState);
         if (attack is not null)
             _battleConsoleView.PrintBeastAttack(attack);
 
@@ -154,7 +154,7 @@ public sealed class BattleLoopRunner
 
     private static void IncreaseAliveTravelerBp(BattleState battleState)
     {
-        foreach (var traveler in battleState.TravelerTeam.Where(traveler => traveler.IsAlive))
+        foreach (TravelerCombatUnit traveler in battleState.TravelerTeam.Where(traveler => traveler.IsAlive))
             traveler.CurrentBp = Math.Min(MaxTravelerBp, traveler.CurrentBp + 1);
     }
 

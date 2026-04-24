@@ -8,29 +8,38 @@ public sealed record BeastAttack(
 
 public sealed class BeastAttackExecutor
 {
-    private readonly PhysicalAttackDamageCalculator _damageCalculator;
+    private readonly PhysicalAttackExecutionService _physicalAttackExecutionService;
 
-    public BeastAttackExecutor(PhysicalAttackDamageCalculator damageCalculator)
+    public BeastAttackExecutor(PhysicalAttackExecutionService physicalAttackExecutionService)
     {
-        _damageCalculator = damageCalculator;
+        _physicalAttackExecutionService = physicalAttackExecutionService;
     }
 
     public BeastAttack? ExecuteAttack(BeastCombatUnit beast, BattleState battleState)
     {
-        var target = SelectTargetTraveler(battleState);
+        TravelerCombatUnit? target = SelectTargetTraveler(battleState);
         if (target is null)
             return null;
 
-        var damage = _damageCalculator.CalculateDamage(beast.PhysAtk, target.PhysDef);
-        target.CurrentHp = Math.Max(0, target.CurrentHp - damage);
-        return new BeastAttack(beast.Name, target.Name, damage, target.CurrentHp);
+        PhysicalAttackOutcome attackOutcome = _physicalAttackExecutionService.Execute(
+            beast.PhysAtk,
+            target.PhysDef,
+            target.CurrentHp);
+        target.CurrentHp = attackOutcome.TargetCurrentHp;
+        return new BeastAttack(beast.Name, target.Name, attackOutcome.Damage, attackOutcome.TargetCurrentHp);
     }
 
     private static TravelerCombatUnit? SelectTargetTraveler(BattleState battleState)
-        => battleState.TravelerTeam
-            .Where(traveler => traveler.IsAlive)
+    {
+        IEnumerable<TravelerCombatUnit> aliveTravelers = GetAliveTravelers(battleState);
+        IOrderedEnumerable<TravelerCombatUnit> orderedTravelers = aliveTravelers
             .OrderByDescending(traveler => traveler.CurrentHp)
-            .ThenBy(traveler => traveler.BoardSlotIndex)
-            .FirstOrDefault();
+            .ThenBy(traveler => traveler.BoardSlotIndex);
+
+        return orderedTravelers.FirstOrDefault();
+    }
+
+    private static IEnumerable<TravelerCombatUnit> GetAliveTravelers(BattleState battleState)
+        => battleState.TravelerTeam.Where(traveler => traveler.IsAlive);
 }
 

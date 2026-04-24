@@ -14,10 +14,10 @@ public sealed class TeamSetupBattleStateFactory
 
     public BattleState? TryCreate(TeamSetup teamSetup)
     {
-        var runtimeDataCatalog = _runtimeDataCatalogProvider.Load();
+        RuntimeDataCatalog runtimeDataCatalog = _runtimeDataCatalogProvider.Load();
 
-        var travelerTeam = TryCreateTravelerTeam(teamSetup, runtimeDataCatalog);
-        var beastTeam = TryCreateBeastTeam(teamSetup, runtimeDataCatalog);
+        IReadOnlyList<TravelerCombatUnit>? travelerTeam = TryCreateTravelerTeam(teamSetup, runtimeDataCatalog);
+        IReadOnlyList<BeastCombatUnit>? beastTeam = TryCreateBeastTeam(teamSetup, runtimeDataCatalog);
         if (travelerTeam is null || beastTeam is null)
             return null;
 
@@ -26,10 +26,10 @@ public sealed class TeamSetupBattleStateFactory
 
     private static IReadOnlyList<TravelerCombatUnit>? TryCreateTravelerTeam(TeamSetup teamSetup, RuntimeDataCatalog runtimeDataCatalog)
     {
-        var travelerTeam = new List<TravelerCombatUnit>();
-        for (var boardSlotIndex = 0; boardSlotIndex < teamSetup.Travelers.Count; boardSlotIndex++)
+        List<TravelerCombatUnit> travelerTeam = [];
+        for (int boardSlotIndex = 0; boardSlotIndex < teamSetup.Travelers.Count; boardSlotIndex++)
         {
-            var travelerSetup = teamSetup.Travelers[boardSlotIndex];
+            TravelerSetup travelerSetup = teamSetup.Travelers[boardSlotIndex];
             if (!runtimeDataCatalog.TravelersByName.TryGetValue(travelerSetup.Name, out var travelerDefinition))
                 return null;
 
@@ -41,10 +41,10 @@ public sealed class TeamSetupBattleStateFactory
 
     private static IReadOnlyList<BeastCombatUnit>? TryCreateBeastTeam(TeamSetup teamSetup, RuntimeDataCatalog runtimeDataCatalog)
     {
-        var beastTeam = new List<BeastCombatUnit>();
-        for (var boardSlotIndex = 0; boardSlotIndex < teamSetup.Beasts.Count; boardSlotIndex++)
+        List<BeastCombatUnit> beastTeam = [];
+        for (int boardSlotIndex = 0; boardSlotIndex < teamSetup.Beasts.Count; boardSlotIndex++)
         {
-            var beastName = teamSetup.Beasts[boardSlotIndex];
+            string beastName = teamSetup.Beasts[boardSlotIndex];
             if (!runtimeDataCatalog.BeastsByName.TryGetValue(beastName, out var beastDefinition))
                 return null;
 

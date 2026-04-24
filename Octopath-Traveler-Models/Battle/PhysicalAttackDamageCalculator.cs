@@ -6,7 +6,7 @@ public sealed class PhysicalAttackDamageCalculator
 
     public int CalculateDamage(int attackerPhysAtk, int targetPhysDef)
     {
-        var rawDamage = Math.Floor(attackerPhysAtk * AttackModifier - targetPhysDef);
+        double rawDamage = Math.Floor(attackerPhysAtk * AttackModifier - targetPhysDef);
         return Math.Max(0, (int)rawDamage);
     }
 }

@@ -20,18 +20,18 @@ public sealed class JsonValidationCatalogProvider
 
     public ValidationCatalog Load()
     {
-        var validTravelerNames = LoadNameSet(CharactersFileName);
-        var validBeastNames = LoadNameSet(EnemiesFileName);
-        var validActiveSkillNames = LoadNameSet(SkillsFileName);
-        var validPassiveSkillNames = LoadNameSet(PassiveSkillsFileName);
+        IReadOnlySet<string> validTravelerNames = LoadNameSet(CharactersFileName);
+        IReadOnlySet<string> validBeastNames = LoadNameSet(EnemiesFileName);
+        IReadOnlySet<string> validActiveSkillNames = LoadNameSet(SkillsFileName);
+        IReadOnlySet<string> validPassiveSkillNames = LoadNameSet(PassiveSkillsFileName);
 
         return new ValidationCatalog(validTravelerNames, validBeastNames, validActiveSkillNames, validPassiveSkillNames);
     }
 
     private IReadOnlySet<string> LoadNameSet(string fileName)
     {
-        var fullPath = Path.Combine(_dataFolderPath, fileName);
-        var json = ReadJson(fullPath, fileName);
+        string fullPath = Path.Combine(_dataFolderPath, fileName);
+        string json = ReadJson(fullPath, fileName);
         return ParseNameSet(json, fileName);
     }
 
@@ -78,13 +78,13 @@ public sealed class JsonValidationCatalogProvider
         if (rootElement.ValueKind != JsonValueKind.Array)
             throw new ValidationCatalogLoadException($"Validation catalog file '{fileName}' must contain a JSON array.");
 
-        var names = new HashSet<string>(StringComparer.Ordinal);
-        foreach (var item in rootElement.EnumerateArray())
+        HashSet<string> names = new(StringComparer.Ordinal);
+        foreach (JsonElement item in rootElement.EnumerateArray())
         {
             if (!item.TryGetProperty(NamePropertyName, out var nameElement))
                 throw new ValidationCatalogLoadException($"Validation catalog file '{fileName}' contains an entry without '{NamePropertyName}'.");
 
-            var name = nameElement.GetString();
+            string? name = nameElement.GetString();
             if (string.IsNullOrWhiteSpace(name))
                 throw new ValidationCatalogLoadException($"Validation catalog file '{fileName}' contains an empty '{NamePropertyName}'.");
 

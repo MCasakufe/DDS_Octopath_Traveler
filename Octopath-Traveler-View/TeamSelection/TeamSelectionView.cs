@@ -13,10 +13,10 @@ public sealed class TeamSelectionView
 
     public string? SelectTeamFilePath()
     {
-        var availableTeamFileNames = GetAvailableTeamFileNames();
+        List<string> availableTeamFileNames = GetAvailableTeamFileNames();
         WriteTeamFileSelection(availableTeamFileNames);
 
-        var selectedFileIndex = ReadSelectedFileIndex(availableTeamFileNames.Count);
+        int? selectedFileIndex = ReadSelectedFileIndex(availableTeamFileNames.Count);
         if (selectedFileIndex is null)
             return null;
 
@@ -25,8 +25,8 @@ public sealed class TeamSelectionView
 
     private List<string> GetAvailableTeamFileNames()
     {
-        var teamFiles = GetTeamFiles();
-        var validFileNames = ExtractValidFileNames(teamFiles);
+        string[] teamFiles = GetTeamFiles();
+        IEnumerable<string> validFileNames = ExtractValidFileNames(teamFiles);
         return SortFileNames(validFileNames);
     }
 
@@ -48,13 +48,13 @@ public sealed class TeamSelectionView
     {
         _view.WriteLine("Elige un archivo para cargar los equipos");
 
-        for (var index = 0; index < teamFileNames.Count; index++)
+        for (int index = 0; index < teamFileNames.Count; index++)
             _view.WriteLine($"{index}: {teamFileNames[index]}");
     }
 
     private int? ReadSelectedFileIndex(int fileCount)
     {
-        var selectedIndexText = _view.ReadLine();
+        string? selectedIndexText = _view.ReadLine();
         if (!int.TryParse(selectedIndexText, out var selectedFileIndex))
             return null;
 

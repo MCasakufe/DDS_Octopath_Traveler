@@ -16,8 +16,8 @@ public sealed class RoundTurnQueueBuilder
 {
     public RoundTurnQueues CreateQueues(BattleState battleState, IReadOnlySet<TurnParticipantKey> actedParticipants)
     {
-        var nextRoundQueue = BuildAliveTurnOrder(battleState);
-        var currentRoundQueue = nextRoundQueue
+        List<TurnParticipant> nextRoundQueue = BuildAliveTurnOrder(battleState);
+        List<TurnParticipant> currentRoundQueue = nextRoundQueue
             .Where(participant => !actedParticipants.Contains(new TurnParticipantKey(participant.Side, participant.BoardSlotIndex)))
             .ToList();
 
@@ -26,14 +26,15 @@ public sealed class RoundTurnQueueBuilder
 
     private static List<TurnParticipant> BuildAliveTurnOrder(BattleState battleState)
     {
-        var aliveParticipants = GetAliveTravelers(battleState)
+        IEnumerable<TurnParticipant> aliveParticipants = GetAliveTravelers(battleState)
             .Concat(GetAliveBeasts(battleState));
 
-        return aliveParticipants
+        IOrderedEnumerable<TurnParticipant> orderedParticipants = aliveParticipants
             .OrderByDescending(participant => participant.Speed)
             .ThenBy(GetSidePriority)
-            .ThenBy(participant => participant.BoardSlotIndex)
-            .ToList();
+            .ThenBy(participant => participant.BoardSlotIndex);
+
+        return orderedParticipants.ToList();
     }
 
     private static IEnumerable<TurnParticipant> GetAliveTravelers(BattleState battleState)
