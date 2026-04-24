@@ -1,10 +1,26 @@
 using Octopath_Traveler_Models.Battle;
+using Octopath_Traveler_Models.RuntimeData;
 
 namespace Octopath_Traveler_View.Battle;
 
 public sealed class TravelerTurnInputView
 {
     private const string SeparatorLine = "----------------------------------------";
+    private const string SingleTarget = "Single";
+    private const string AllyTarget = "Ally";
+    private static readonly IReadOnlyList<string> NightmareChimeraWeaponTypes =
+    [
+        "Sword",
+        "Spear",
+        "Dagger",
+        "Axe",
+        "Bow",
+        "Stave"
+    ];
+    private static readonly IReadOnlySet<string> ReviveOnlyAllySkills = new HashSet<string>(StringComparer.Ordinal)
+    {
+        "Vivify"
+    };
 
     private readonly View _view;
 
@@ -45,7 +61,7 @@ public sealed class TravelerTurnInputView
         => selectedAction switch
         {
             TravelerActionOption.BasicAttack => CreateBasicAttackOutcome(traveler, battleState),
-            TravelerActionOption.Skill => CreateSkillOutcome(traveler),
+            TravelerActionOption.Skill => CreateSkillOutcome(traveler, battleState),
             TravelerActionOption.Defend => TravelerTurnOutcome.Defend(),
             TravelerActionOption.Flee => TravelerTurnOutcome.Flee(),
             _ => null
@@ -63,24 +79,67 @@ public sealed class TravelerTurnInputView
             basicAttackSelection.UsedBp);
     }
 
-    private TravelerTurnOutcome? CreateSkillOutcome(TravelerCombatUnit traveler)
+    private TravelerTurnOutcome? CreateSkillOutcome(TravelerCombatUnit traveler, BattleState battleState)
     {
-        string? selectedSkill = SelectSkill(traveler);
-        return selectedSkill is null ? null : TravelerTurnOutcome.Skill();
+        SkillDefinition? selectedSkill = SelectSkill(traveler);
+        if (selectedSkill is null)
+            return null;
+
+        SkillSelection? skillSelection = TryCreateSkillSelection(selectedSkill, traveler, battleState);
+        if (skillSelection is null)
+            return null;
+
+        int usedBp = ReadUsedBp(traveler.CurrentBp);
+        return TravelerTurnOutcome.Skill(
+            selectedSkill.Name,
+            skillSelection.SelectedBeastTarget,
+            skillSelection.SelectedTravelerTarget,
+            skillSelection.SelectedWeapon,
+            usedBp);
     }
 
     private BasicAttackSelection? TryCreateBasicAttackSelection(TravelerCombatUnit traveler, BattleState battleState)
     {
-        string? selectedWeapon = SelectWeapon(traveler);
+        string? selectedWeapon = SelectWeapon(traveler.Weapons);
         if (selectedWeapon is null)
             return null;
 
-        BeastCombatUnit? selectedTarget = SelectTarget(traveler.Name, battleState);
+        BeastCombatUnit? selectedTarget = SelectBeastTarget(traveler.Name, battleState);
         if (selectedTarget is null)
             return null;
 
         int usedBp = ReadUsedBp(traveler.CurrentBp);
         return new BasicAttackSelection(selectedWeapon, selectedTarget, usedBp);
+    }
+
+    private SkillSelection? TryCreateSkillSelection(
+        SkillDefinition selectedSkill,
+        TravelerCombatUnit traveler,
+        BattleState battleState)
+    {
+        string? selectedWeapon = null;
+        if (selectedSkill.Name == "Nightmare Chimera")
+        {
+            selectedWeapon = SelectWeapon(NightmareChimeraWeaponTypes);
+            if (selectedWeapon is null)
+                return null;
+        }
+
+        if (selectedSkill.Target == SingleTarget)
+        {
+            BeastCombatUnit? selectedTarget = SelectBeastTarget(traveler.Name, battleState);
+            return selectedTarget is null ? null : new SkillSelection(selectedTarget, null, selectedWeapon);
+        }
+
+        if (selectedSkill.Target == AllyTarget)
+        {
+            TravelerCombatUnit? selectedTarget = SelectTravelerTarget(
+                traveler.Name,
+                GetSelectableTravelerTargets(selectedSkill.Name, battleState));
+            return selectedTarget is null ? null : new SkillSelection(null, selectedTarget, selectedWeapon);
+        }
+
+        return new SkillSelection(null, null, selectedWeapon);
     }
 
     private void WriteActionMenu(string travelerName)
@@ -93,33 +152,60 @@ public sealed class TravelerTurnInputView
         _view.WriteLine("4: Huir");
     }
 
-    private string? SelectWeapon(TravelerCombatUnit traveler)
+    private string? SelectWeapon(IReadOnlyList<string> selectableWeapons)
     {
-        WriteMenu("Seleccione un arma", traveler.Weapons);
-        int? selectedIndex = ReadSelectedIndex(traveler.Weapons.Count);
-        return selectedIndex is null ? null : traveler.Weapons[selectedIndex.Value];
+        WriteMenu("Seleccione un arma", selectableWeapons);
+        int? selectedIndex = ReadSelectedIndex(selectableWeapons.Count);
+        return selectedIndex is null ? null : selectableWeapons[selectedIndex.Value];
     }
 
-    private BeastCombatUnit? SelectTarget(string travelerName, BattleState battleState)
+    private BeastCombatUnit? SelectBeastTarget(string travelerName, BattleState battleState)
     {
         List<BeastCombatUnit> aliveBeasts = battleState.BeastTeam.Where(beast => beast.IsAlive).ToList();
-        List<string> targetOptions = BuildTargetOptions(aliveBeasts);
+        List<string> targetOptions = BuildBeastTargetOptions(aliveBeasts);
 
         WriteMenu($"Seleccione un objetivo para {travelerName}", targetOptions);
         int? selectedIndex = ReadSelectedIndex(aliveBeasts.Count);
         return selectedIndex is null ? null : aliveBeasts[selectedIndex.Value];
     }
 
-    private static List<string> BuildTargetOptions(IEnumerable<BeastCombatUnit> aliveBeasts)
+    private TravelerCombatUnit? SelectTravelerTarget(string travelerName, IReadOnlyList<TravelerCombatUnit> selectableTravelers)
+    {
+        List<string> targetOptions = BuildTravelerTargetOptions(selectableTravelers);
+        WriteMenu($"Seleccione un objetivo para {travelerName}", targetOptions);
+        int? selectedIndex = ReadSelectedIndex(selectableTravelers.Count);
+        return selectedIndex is null ? null : selectableTravelers[selectedIndex.Value];
+    }
+
+    private static IReadOnlyList<TravelerCombatUnit> GetSelectableTravelerTargets(string skillName, BattleState battleState)
+    {
+        bool requiresDeadAllies = ReviveOnlyAllySkills.Contains(skillName);
+        return battleState.TravelerTeam
+            .Where(traveler => requiresDeadAllies ? !traveler.IsAlive : traveler.IsAlive)
+            .ToList();
+    }
+
+    private static List<string> BuildBeastTargetOptions(IEnumerable<BeastCombatUnit> aliveBeasts)
         => aliveBeasts
             .Select(beast => $"{beast.Name} - HP:{beast.CurrentHp}/{beast.MaxHp} Shields:{beast.CurrentShields}")
             .ToList();
 
-    private string? SelectSkill(TravelerCombatUnit traveler)
+    private static List<string> BuildTravelerTargetOptions(IEnumerable<TravelerCombatUnit> selectableTravelers)
+        => selectableTravelers
+            .Select(traveler =>
+                $"{traveler.Name} - HP:{traveler.CurrentHp}/{traveler.MaxHp} SP:{traveler.CurrentSp}/{traveler.MaxSp} BP:{traveler.CurrentBp}")
+            .ToList();
+
+    private SkillDefinition? SelectSkill(TravelerCombatUnit traveler)
     {
-        WriteMenu($"Seleccione una habilidad para {traveler.Name}", traveler.AssignedActiveSkillNames);
-        int? selectedIndex = ReadSelectedIndex(traveler.AssignedActiveSkillNames.Count);
-        return selectedIndex is null ? null : traveler.AssignedActiveSkillNames[selectedIndex.Value];
+        List<SkillDefinition> castableSkills = traveler.AssignedActiveSkills
+            .Where(skill => traveler.CurrentSp >= skill.Sp)
+            .ToList();
+        List<string> options = castableSkills.Select(skill => skill.Name).ToList();
+        WriteMenu($"Seleccione una habilidad para {traveler.Name}", options);
+
+        int? selectedIndex = ReadSelectedIndex(castableSkills.Count);
+        return selectedIndex is null ? null : castableSkills[selectedIndex.Value];
     }
 
     private void WriteMenu(string title, IReadOnlyList<string> options)
@@ -163,7 +249,7 @@ public sealed class TravelerTurnInputView
     private int? ReadMenuOption()
     {
         string? optionText = _view.ReadLine();
-        return int.TryParse(optionText, out var option) ? option : null;
+        return int.TryParse(optionText, out int option) ? option : null;
     }
 
     private TravelerActionOption? ReadActionOption()
@@ -180,4 +266,9 @@ public sealed class TravelerTurnInputView
     }
 
     private sealed record BasicAttackSelection(string SelectedWeapon, BeastCombatUnit SelectedTarget, int UsedBp);
+
+    private sealed record SkillSelection(
+        BeastCombatUnit? SelectedBeastTarget,
+        TravelerCombatUnit? SelectedTravelerTarget,
+        string? SelectedWeapon);
 }

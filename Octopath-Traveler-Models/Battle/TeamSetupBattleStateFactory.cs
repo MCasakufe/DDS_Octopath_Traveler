@@ -30,10 +30,15 @@ public sealed class TeamSetupBattleStateFactory
         for (int boardSlotIndex = 0; boardSlotIndex < teamSetup.Travelers.Count; boardSlotIndex++)
         {
             TravelerSetup travelerSetup = teamSetup.Travelers[boardSlotIndex];
-            if (!runtimeDataCatalog.TravelersByName.TryGetValue(travelerSetup.Name, out var travelerDefinition))
+            if (!runtimeDataCatalog.TravelersByName.TryGetValue(travelerSetup.Name, out TravelerDefinition? travelerDefinition)
+                || travelerDefinition is null)
                 return null;
 
-            travelerTeam.Add(new TravelerCombatUnit(travelerDefinition, travelerSetup, boardSlotIndex));
+            travelerTeam.Add(new TravelerCombatUnit(
+                travelerDefinition,
+                travelerSetup,
+                runtimeDataCatalog,
+                boardSlotIndex));
         }
 
         return travelerTeam;
@@ -45,13 +50,15 @@ public sealed class TeamSetupBattleStateFactory
         for (int boardSlotIndex = 0; boardSlotIndex < teamSetup.Beasts.Count; boardSlotIndex++)
         {
             string beastName = teamSetup.Beasts[boardSlotIndex];
-            if (!runtimeDataCatalog.BeastsByName.TryGetValue(beastName, out var beastDefinition))
+            if (!runtimeDataCatalog.BeastsByName.TryGetValue(beastName, out BeastDefinition? beastDefinition)
+                || beastDefinition is null)
                 return null;
 
-            if (!runtimeDataCatalog.BeastSkillNames.Contains(beastDefinition.SkillName))
+            if (!runtimeDataCatalog.TryGetBeastSkill(beastDefinition.SkillName, out BeastSkillDefinition? skillDefinition)
+                || skillDefinition is null)
                 return null;
 
-            beastTeam.Add(new BeastCombatUnit(beastDefinition, boardSlotIndex));
+            beastTeam.Add(new BeastCombatUnit(beastDefinition, skillDefinition, boardSlotIndex));
         }
 
         return beastTeam;

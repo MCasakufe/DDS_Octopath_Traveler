@@ -31,6 +31,9 @@ public sealed class BattleConsoleView
     public void PrintTravelerBasicAttack(TravelerBasicAttack attack)
         => _battleActionView.PrintTravelerBasicAttack(attack);
 
+    public void PrintTravelerSkill(TravelerSkillAction action)
+        => _battleActionView.PrintTravelerSkill(action);
+
     public void PrintBeastAttack(BeastAttack attack)
         => _battleActionView.PrintBeastAttack(attack);
 

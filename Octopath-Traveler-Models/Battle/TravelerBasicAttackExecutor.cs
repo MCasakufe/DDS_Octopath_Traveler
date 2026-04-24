@@ -5,31 +5,39 @@ public sealed record TravelerBasicAttack(
     string TargetName,
     string WeaponType,
     int Damage,
-    int TargetCurrentHp);
+    int TargetCurrentHp,
+    bool IsWeaknessHit,
+    bool EnteredBreakingPoint);
 
 public sealed class TravelerBasicAttackExecutor
 {
-    private readonly PhysicalAttackExecutionService _physicalAttackExecutionService;
+    private const double BasicAttackModifier = 1.3;
+
+    private readonly BeastDamageResolver _beastDamageResolver;
 
     public TravelerBasicAttackExecutor(PhysicalAttackExecutionService physicalAttackExecutionService)
     {
-        _physicalAttackExecutionService = physicalAttackExecutionService;
+        _ = physicalAttackExecutionService;
+        _beastDamageResolver = new BeastDamageResolver();
     }
 
     public TravelerBasicAttack ExecuteAttack(TravelerCombatUnit traveler, BeastCombatUnit target, string weaponType)
     {
-        PhysicalAttackOutcome attackOutcome = _physicalAttackExecutionService.Execute(
+        BeastDamageResolution attackOutcome = _beastDamageResolver.ResolveHit(
             traveler.PhysAtk,
-            target.PhysDef,
-            target.CurrentHp);
-        target.CurrentHp = attackOutcome.TargetCurrentHp;
+            traveler.ElemAtk,
+            target,
+            weaponType,
+            BasicAttackModifier);
 
         return new TravelerBasicAttack(
             traveler.Name,
             target.Name,
             weaponType,
             attackOutcome.Damage,
-            attackOutcome.TargetCurrentHp);
+            attackOutcome.TargetCurrentHp,
+            attackOutcome.IsWeaknessHit,
+            attackOutcome.EnteredBreakingPoint);
     }
 }
 

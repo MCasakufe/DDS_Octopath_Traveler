@@ -11,8 +11,8 @@ public sealed class BattleWinnerEvaluator
 {
     public BattleWinner GetWinner(BattleState battleState)
     {
-        var hasAliveTraveler = battleState.TravelerTeam.Any(traveler => traveler.IsAlive);
-        var hasAliveBeast = battleState.BeastTeam.Any(beast => beast.IsAlive);
+        bool hasAliveTraveler = battleState.TravelerTeam.Any(traveler => traveler.IsAlive);
+        bool hasAliveBeast = battleState.BeastTeam.Any(beast => beast.IsAlive);
 
         if (!hasAliveBeast)
             return BattleWinner.TravelerTeam;

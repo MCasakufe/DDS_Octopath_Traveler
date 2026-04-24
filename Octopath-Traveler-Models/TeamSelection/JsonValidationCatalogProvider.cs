@@ -62,7 +62,7 @@ public sealed class JsonValidationCatalogProvider
     {
         try
         {
-            using var document = JsonDocument.Parse(json);
+            using JsonDocument document = JsonDocument.Parse(json);
             return ReadNames(document.RootElement, fileName);
         }
         catch (JsonException exception)
@@ -81,7 +81,7 @@ public sealed class JsonValidationCatalogProvider
         HashSet<string> names = new(StringComparer.Ordinal);
         foreach (JsonElement item in rootElement.EnumerateArray())
         {
-            if (!item.TryGetProperty(NamePropertyName, out var nameElement))
+            if (!item.TryGetProperty(NamePropertyName, out JsonElement nameElement))
                 throw new ValidationCatalogLoadException($"Validation catalog file '{fileName}' contains an entry without '{NamePropertyName}'.");
 
             string? name = nameElement.GetString();

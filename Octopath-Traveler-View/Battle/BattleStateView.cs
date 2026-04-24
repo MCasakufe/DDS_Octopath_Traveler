@@ -39,11 +39,11 @@ public sealed class BattleStateView
     private void WriteTeamState(BattleState battleState)
     {
         _view.WriteLine("Equipo del jugador");
-        foreach (var traveler in battleState.TravelerTeam)
+        foreach (TravelerCombatUnit traveler in battleState.TravelerTeam)
             _view.WriteLine(BuildTravelerLine(traveler));
 
         _view.WriteLine("Equipo del enemigo");
-        foreach (var beast in battleState.BeastTeam)
+        foreach (BeastCombatUnit beast in battleState.BeastTeam)
             _view.WriteLine(BuildBeastLine(beast));
     }
 
@@ -52,7 +52,7 @@ public sealed class BattleStateView
         _view.WriteLine(SeparatorLine);
         _view.WriteLine(title);
 
-        for (var index = 0; index < turnQueue.Count; index++)
+        for (int index = 0; index < turnQueue.Count; index++)
             _view.WriteLine($"{index + 1}.{turnQueue[index].Name}");
     }
 

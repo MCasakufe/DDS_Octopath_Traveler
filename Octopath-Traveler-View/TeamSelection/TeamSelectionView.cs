@@ -55,7 +55,7 @@ public sealed class TeamSelectionView
     private int? ReadSelectedFileIndex(int fileCount)
     {
         string? selectedIndexText = _view.ReadLine();
-        if (!int.TryParse(selectedIndexText, out var selectedFileIndex))
+        if (!int.TryParse(selectedIndexText, out int selectedFileIndex))
             return null;
 
         return selectedFileIndex >= 0 && selectedFileIndex < fileCount

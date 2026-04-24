@@ -76,7 +76,8 @@ public sealed class Game
             new RoundTurnQueueBuilder(),
             new BattleConsoleView(view),
             new TravelerBasicAttackExecutor(physicalAttackExecutionService),
-            new BeastAttackExecutor(physicalAttackExecutionService),
+            new TravelerSkillExecutor(),
+            new BeastAttackExecutor(),
             new BattleWinnerEvaluator());
     }
 }

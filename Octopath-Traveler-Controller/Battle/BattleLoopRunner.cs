@@ -10,6 +10,7 @@ public sealed class BattleLoopRunner
     private readonly RoundTurnQueueBuilder _roundTurnQueueBuilder;
     private readonly BattleConsoleView _battleConsoleView;
     private readonly TravelerBasicAttackExecutor _travelerBasicAttackExecutor;
+    private readonly TravelerSkillExecutor _travelerSkillExecutor;
     private readonly BeastAttackExecutor _beastAttackExecutor;
     private readonly BattleWinnerEvaluator _battleWinnerEvaluator;
 
@@ -17,12 +18,14 @@ public sealed class BattleLoopRunner
         RoundTurnQueueBuilder roundTurnQueueBuilder,
         BattleConsoleView battleConsoleView,
         TravelerBasicAttackExecutor travelerBasicAttackExecutor,
+        TravelerSkillExecutor travelerSkillExecutor,
         BeastAttackExecutor beastAttackExecutor,
         BattleWinnerEvaluator battleWinnerEvaluator)
     {
         _roundTurnQueueBuilder = roundTurnQueueBuilder;
         _battleConsoleView = battleConsoleView;
         _travelerBasicAttackExecutor = travelerBasicAttackExecutor;
+        _travelerSkillExecutor = travelerSkillExecutor;
         _beastAttackExecutor = beastAttackExecutor;
         _battleWinnerEvaluator = battleWinnerEvaluator;
     }
@@ -95,7 +98,7 @@ public sealed class BattleLoopRunner
         if (turnOutcome.Resolution == TravelerTurnResolution.Fled)
             return EndBattleAfterFlee();
 
-        ExecuteTravelerBasicAttackIfChosen(traveler, turnOutcome);
+        ResolveTravelerAction(traveler, battleState, turnOutcome);
         return TurnExecutionResult.ContinueBattle;
     }
 
@@ -105,20 +108,54 @@ public sealed class BattleLoopRunner
         return TurnExecutionResult.EndBattle;
     }
 
-    private void ExecuteTravelerBasicAttackIfChosen(TravelerCombatUnit traveler, TravelerTurnOutcome turnOutcome)
+    private void ResolveTravelerAction(TravelerCombatUnit traveler, BattleState battleState, TravelerTurnOutcome turnOutcome)
     {
-        if (turnOutcome.Resolution != TravelerTurnResolution.BasicAttackChosen
-            || turnOutcome.SelectedWeapon is null
-            || turnOutcome.SelectedTarget is null)
+        switch (turnOutcome.Resolution)
+        {
+            case TravelerTurnResolution.BasicAttackChosen:
+                ExecuteTravelerBasicAttack(traveler, turnOutcome);
+                break;
+            case TravelerTurnResolution.SkillChosen:
+                ExecuteTravelerSkill(traveler, battleState, turnOutcome);
+                break;
+            case TravelerTurnResolution.DefendChosen:
+                ApplyTravelerDefendState(traveler);
+                break;
+        }
+    }
+
+    private void ExecuteTravelerBasicAttack(TravelerCombatUnit traveler, TravelerTurnOutcome turnOutcome)
+    {
+        if (turnOutcome.SelectedWeapon is null || turnOutcome.SelectedBeastTarget is null)
         {
             return;
         }
 
         TravelerBasicAttack attack = _travelerBasicAttackExecutor.ExecuteAttack(
             traveler,
-            turnOutcome.SelectedTarget,
+            turnOutcome.SelectedBeastTarget,
             turnOutcome.SelectedWeapon);
         _battleConsoleView.PrintTravelerBasicAttack(attack);
+    }
+
+    private void ExecuteTravelerSkill(TravelerCombatUnit traveler, BattleState battleState, TravelerTurnOutcome turnOutcome)
+    {
+        if (turnOutcome.SelectedSkillName is null)
+            return;
+
+        TravelerSkillAction action = _travelerSkillExecutor.ExecuteSkill(
+            traveler,
+            battleState,
+            turnOutcome,
+            turnOutcome.SelectedSkillName,
+            turnOutcome.UsedBp);
+        _battleConsoleView.PrintTravelerSkill(action);
+    }
+
+    private static void ApplyTravelerDefendState(TravelerCombatUnit traveler)
+    {
+        traveler.IsDefendingCurrentRound = true;
+        traveler.HasPendingDefendPriority = true;
     }
 
     private BattleWinner? GetBattleWinner(BattleState battleState)
@@ -148,8 +185,44 @@ public sealed class BattleLoopRunner
 
     private static void StartNextRound(BattleState battleState)
     {
+        PrepareTravelerRoundStates(battleState);
+        PrepareBeastRoundStates(battleState);
         IncreaseAliveTravelerBp(battleState);
         battleState.RoundNumber += 1;
+    }
+
+    private static void PrepareTravelerRoundStates(BattleState battleState)
+    {
+        foreach (TravelerCombatUnit traveler in battleState.TravelerTeam)
+        {
+            traveler.IsDefendingCurrentRound = false;
+            traveler.HasDefendPriorityCurrentRound = traveler.HasPendingDefendPriority;
+            traveler.HasPendingDefendPriority = false;
+            traveler.HasIncreasedPriorityCurrentRound = traveler.HasPendingIncreasedPriority;
+            traveler.HasPendingIncreasedPriority = false;
+            traveler.IsWaitingForNextRoundAfterRevive = false;
+        }
+    }
+
+    private static void PrepareBeastRoundStates(BattleState battleState)
+    {
+        foreach (BeastCombatUnit beast in battleState.BeastTeam)
+        {
+            beast.HasRecoveryPriorityCurrentRound = false;
+
+            if (beast.RemainingBreakingRounds > 0)
+            {
+                beast.RemainingBreakingRounds -= 1;
+                if (beast.RemainingBreakingRounds == 0 && beast.IsAlive)
+                {
+                    beast.CurrentShields = beast.MaxShields;
+                    beast.HasRecoveryPriorityCurrentRound = true;
+                }
+            }
+
+            if (beast.RemainingDecreasedPriorityRounds > 0)
+                beast.RemainingDecreasedPriorityRounds -= 1;
+        }
     }
 
     private static void IncreaseAliveTravelerBp(BattleState battleState)
