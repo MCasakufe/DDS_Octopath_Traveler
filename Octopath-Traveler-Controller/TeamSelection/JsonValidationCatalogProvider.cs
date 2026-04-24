@@ -4,6 +4,8 @@ namespace Octopath_Traveler.TeamSelection;
 
 public sealed class JsonValidationCatalogProvider
 {
+    private const string NamePropertyName = "Name";
+
     private const string CharactersFileName = "characters.json";
     private const string EnemiesFileName = "enemies.json";
     private const string SkillsFileName = "skills.json";
@@ -16,64 +18,77 @@ public sealed class JsonValidationCatalogProvider
         _dataFolderPath = Path.GetDirectoryName(teamsFolder) ?? string.Empty;
     }
 
-    public ValidationCatalog? TryLoad()
+    public ValidationCatalog Load()
     {
-        var validTravelerNames = TryLoadNameSet(CharactersFileName);
-        var validBeastNames = TryLoadNameSet(EnemiesFileName);
-        var validActiveSkillNames = TryLoadNameSet(SkillsFileName);
-        var validPassiveSkillNames = TryLoadNameSet(PassiveSkillsFileName);
-
-        if (validTravelerNames is null
-            || validBeastNames is null
-            || validActiveSkillNames is null
-            || validPassiveSkillNames is null)
-        {
-            return null;
-        }
+        var validTravelerNames = LoadNameSet(CharactersFileName);
+        var validBeastNames = LoadNameSet(EnemiesFileName);
+        var validActiveSkillNames = LoadNameSet(SkillsFileName);
+        var validPassiveSkillNames = LoadNameSet(PassiveSkillsFileName);
 
         return new ValidationCatalog(validTravelerNames, validBeastNames, validActiveSkillNames, validPassiveSkillNames);
     }
 
-    private IReadOnlySet<string>? TryLoadNameSet(string fileName)
+    private IReadOnlySet<string> LoadNameSet(string fileName)
     {
         var fullPath = Path.Combine(_dataFolderPath, fileName);
+        var json = ReadJson(fullPath, fileName);
+        return ParseNameSet(json, fileName);
+    }
+
+    private static string ReadJson(string fullPath, string fileName)
+    {
         if (!File.Exists(fullPath))
-            return null;
+            throw new ValidationCatalogLoadException($"Validation catalog file '{fileName}' was not found.");
 
         try
         {
-            var json = File.ReadAllText(fullPath);
-            using var document = JsonDocument.Parse(json);
-            return TryReadNames(document.RootElement);
+            return File.ReadAllText(fullPath);
         }
-        catch (IOException)
+        catch (IOException exception)
         {
-            return null;
+            throw new ValidationCatalogLoadException(
+                $"Validation catalog file '{fileName}' could not be read.",
+                exception);
         }
-        catch (UnauthorizedAccessException)
+        catch (UnauthorizedAccessException exception)
         {
-            return null;
-        }
-        catch (JsonException)
-        {
-            return null;
+            throw new ValidationCatalogLoadException(
+                $"Access to validation catalog file '{fileName}' was denied.",
+                exception);
         }
     }
 
-    private static IReadOnlySet<string>? TryReadNames(JsonElement rootElement)
+    private static IReadOnlySet<string> ParseNameSet(string json, string fileName)
+    {
+        try
+        {
+            using var document = JsonDocument.Parse(json);
+            return ReadNames(document.RootElement, fileName);
+        }
+        catch (JsonException exception)
+        {
+            throw new ValidationCatalogLoadException(
+                $"Validation catalog file '{fileName}' contains invalid JSON.",
+                exception);
+        }
+    }
+
+    private static IReadOnlySet<string> ReadNames(JsonElement rootElement, string fileName)
     {
         if (rootElement.ValueKind != JsonValueKind.Array)
-            return null;
+            throw new ValidationCatalogLoadException($"Validation catalog file '{fileName}' must contain a JSON array.");
 
         var names = new HashSet<string>(StringComparer.Ordinal);
         foreach (var item in rootElement.EnumerateArray())
         {
-            if (!item.TryGetProperty("Name", out var nameElement))
-                continue;
+            if (!item.TryGetProperty(NamePropertyName, out var nameElement))
+                throw new ValidationCatalogLoadException($"Validation catalog file '{fileName}' contains an entry without '{NamePropertyName}'.");
 
             var name = nameElement.GetString();
-            if (!string.IsNullOrWhiteSpace(name))
-                names.Add(name);
+            if (string.IsNullOrWhiteSpace(name))
+                throw new ValidationCatalogLoadException($"Validation catalog file '{fileName}' contains an empty '{NamePropertyName}'.");
+
+            names.Add(name);
         }
 
         return names;

@@ -14,9 +14,7 @@ public sealed class TeamSetupBattleStateFactory
 
     public BattleState? TryCreate(TeamSetup teamSetup)
     {
-        var runtimeDataCatalog = _runtimeDataCatalogProvider.TryLoad();
-        if (runtimeDataCatalog is null)
-            return null;
+        var runtimeDataCatalog = _runtimeDataCatalogProvider.Load();
 
         var travelerTeam = TryCreateTravelerTeam(teamSetup, runtimeDataCatalog);
         var beastTeam = TryCreateBeastTeam(teamSetup, runtimeDataCatalog);

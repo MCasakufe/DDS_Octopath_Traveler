@@ -28,22 +28,13 @@ public sealed class RuntimeDataCatalogProvider
         _dataFolderPath = Path.GetDirectoryName(teamsFolder) ?? string.Empty;
     }
 
-    public RuntimeDataCatalog? TryLoad()
+    public RuntimeDataCatalog Load()
     {
-        var travelersByName = TryLoadTravelerDefinitions();
-        var beastsByName = TryLoadBeastDefinitions();
-        var activeSkillNames = TryLoadNameSet(ActiveSkillsFileName);
-        var passiveSkillNames = TryLoadNameSet(PassiveSkillsFileName);
-        var beastSkillNames = TryLoadNameSet(BeastSkillsFileName);
-
-        if (travelersByName is null
-            || beastsByName is null
-            || activeSkillNames is null
-            || passiveSkillNames is null
-            || beastSkillNames is null)
-        {
-            return null;
-        }
+        var travelersByName = LoadTravelerDefinitions();
+        var beastsByName = LoadBeastDefinitions();
+        var activeSkillNames = LoadNameSet(ActiveSkillsFileName);
+        var passiveSkillNames = LoadNameSet(PassiveSkillsFileName);
+        var beastSkillNames = LoadNameSet(BeastSkillsFileName);
 
         return new RuntimeDataCatalog(
             travelersByName,
@@ -53,185 +44,193 @@ public sealed class RuntimeDataCatalogProvider
             beastSkillNames);
     }
 
-    private Dictionary<string, TravelerDefinition>? TryLoadTravelerDefinitions()
-        => TryLoadFromJsonFile(CharactersFileName, ParseTravelerDefinitions);
+    private Dictionary<string, TravelerDefinition> LoadTravelerDefinitions()
+        => LoadFromJsonFile(CharactersFileName, ParseTravelerDefinitions);
 
-    private Dictionary<string, BeastDefinition>? TryLoadBeastDefinitions()
-        => TryLoadFromJsonFile(EnemiesFileName, ParseBeastDefinitions);
+    private Dictionary<string, BeastDefinition> LoadBeastDefinitions()
+        => LoadFromJsonFile(EnemiesFileName, ParseBeastDefinitions);
 
-    private IReadOnlySet<string>? TryLoadNameSet(string fileName)
-        => TryLoadFromJsonFile(fileName, ParseNameSet);
+    private IReadOnlySet<string> LoadNameSet(string fileName)
+        => LoadFromJsonFile(fileName, ParseNameSet);
 
-    private TData? TryLoadFromJsonFile<TData>(string fileName, Func<JsonElement, TData?> parser)
+    private TData LoadFromJsonFile<TData>(string fileName, Func<JsonElement, TData> parser)
         where TData : class
     {
-        var jsonContent = TryReadJsonContent(fileName);
-        if (jsonContent is null)
-            return null;
+        var jsonContent = ReadJsonContent(fileName);
 
         try
         {
             using var document = JsonDocument.Parse(jsonContent);
             return parser(document.RootElement);
         }
-        catch (JsonException)
+        catch (JsonException exception)
         {
-            return null;
+            throw new RuntimeDataCatalogLoadException(
+                $"Runtime data file '{fileName}' contains invalid JSON.",
+                exception);
         }
     }
 
-    private string? TryReadJsonContent(string fileName)
+    private string ReadJsonContent(string fileName)
     {
         var filePath = Path.Combine(_dataFolderPath, fileName);
         if (!File.Exists(filePath))
-            return null;
+            throw new RuntimeDataCatalogLoadException($"Runtime data file '{fileName}' was not found.");
 
         try
         {
             return File.ReadAllText(filePath);
         }
-        catch (IOException)
+        catch (IOException exception)
         {
-            return null;
+            throw new RuntimeDataCatalogLoadException(
+                $"Runtime data file '{fileName}' could not be read.",
+                exception);
         }
-        catch (UnauthorizedAccessException)
+        catch (UnauthorizedAccessException exception)
         {
-            return null;
+            throw new RuntimeDataCatalogLoadException(
+                $"Access to runtime data file '{fileName}' was denied.",
+                exception);
         }
     }
 
-    private static Dictionary<string, TravelerDefinition>? ParseTravelerDefinitions(JsonElement rootElement)
+    private static Dictionary<string, TravelerDefinition> ParseTravelerDefinitions(JsonElement rootElement)
     {
         if (rootElement.ValueKind != JsonValueKind.Array)
-            return null;
+            throw new RuntimeDataCatalogLoadException("Traveler definitions must be a JSON array.");
 
         var travelersByName = new Dictionary<string, TravelerDefinition>(StringComparer.Ordinal);
         foreach (var travelerElement in rootElement.EnumerateArray())
         {
-            var travelerDefinition = TryParseTravelerDefinition(travelerElement);
-            if (travelerDefinition is null)
-                return null;
+            var travelerDefinition = ParseTravelerDefinition(travelerElement);
 
             if (!travelersByName.TryAdd(travelerDefinition.Name, travelerDefinition))
-                return null;
+                throw new RuntimeDataCatalogLoadException($"Duplicate traveler definition '{travelerDefinition.Name}'.");
         }
 
         return travelersByName;
     }
 
-    private static TravelerDefinition? TryParseTravelerDefinition(JsonElement travelerElement)
+    private static TravelerDefinition ParseTravelerDefinition(JsonElement travelerElement)
     {
-        if (!TryGetRequiredString(travelerElement, NamePropertyName, out var travelerName)
-            || !travelerElement.TryGetProperty(StatsPropertyName, out var statsElement)
-            || !TryGetRequiredInt(statsElement, HpPropertyName, out var maxHp)
-            || !TryGetRequiredInt(statsElement, SpPropertyName, out var maxSp)
-            || !TryGetRequiredInt(statsElement, PhysAtkPropertyName, out var physAtk)
-            || !TryGetRequiredInt(statsElement, PhysDefPropertyName, out var physDef)
-            || !TryGetRequiredInt(statsElement, SpeedPropertyName, out var speed)
-            || !TryReadStringList(travelerElement, WeaponsPropertyName, out var weapons))
-        {
-            return null;
-        }
+        var travelerName = ReadRequiredString(travelerElement, NamePropertyName);
+        var statsElement = ReadRequiredObject(travelerElement, StatsPropertyName);
+
+        var maxHp = ReadRequiredInt(statsElement, HpPropertyName);
+        var maxSp = ReadRequiredInt(statsElement, SpPropertyName);
+        var physAtk = ReadRequiredInt(statsElement, PhysAtkPropertyName);
+        var physDef = ReadRequiredInt(statsElement, PhysDefPropertyName);
+        var speed = ReadRequiredInt(statsElement, SpeedPropertyName);
+        var weapons = ReadStringList(travelerElement, WeaponsPropertyName);
 
         return new TravelerDefinition(travelerName, maxHp, maxSp, physAtk, physDef, speed, weapons);
     }
 
-    private static Dictionary<string, BeastDefinition>? ParseBeastDefinitions(JsonElement rootElement)
+    private static Dictionary<string, BeastDefinition> ParseBeastDefinitions(JsonElement rootElement)
     {
         if (rootElement.ValueKind != JsonValueKind.Array)
-            return null;
+            throw new RuntimeDataCatalogLoadException("Beast definitions must be a JSON array.");
 
         var beastsByName = new Dictionary<string, BeastDefinition>(StringComparer.Ordinal);
         foreach (var beastElement in rootElement.EnumerateArray())
         {
-            var beastDefinition = TryParseBeastDefinition(beastElement);
-            if (beastDefinition is null)
-                return null;
+            var beastDefinition = ParseBeastDefinition(beastElement);
 
             if (!beastsByName.TryAdd(beastDefinition.Name, beastDefinition))
-                return null;
+                throw new RuntimeDataCatalogLoadException($"Duplicate beast definition '{beastDefinition.Name}'.");
         }
 
         return beastsByName;
     }
 
-    private static BeastDefinition? TryParseBeastDefinition(JsonElement beastElement)
+    private static BeastDefinition ParseBeastDefinition(JsonElement beastElement)
     {
-        if (!TryGetRequiredString(beastElement, NamePropertyName, out var beastName)
-            || !beastElement.TryGetProperty(StatsPropertyName, out var statsElement)
-            || !TryGetRequiredInt(statsElement, HpPropertyName, out var maxHp)
-            || !TryGetRequiredInt(statsElement, PhysAtkPropertyName, out var physAtk)
-            || !TryGetRequiredInt(statsElement, PhysDefPropertyName, out var physDef)
-            || !TryGetRequiredInt(statsElement, SpeedPropertyName, out var speed)
-            || !TryGetRequiredInt(beastElement, ShieldsPropertyName, out var maxShields)
-            || !TryGetRequiredString(beastElement, SkillPropertyName, out var skillName))
-        {
-            return null;
-        }
+        var beastName = ReadRequiredString(beastElement, NamePropertyName);
+        var statsElement = ReadRequiredObject(beastElement, StatsPropertyName);
+        var maxShields = ReadRequiredInt(beastElement, ShieldsPropertyName);
+        var skillName = ReadRequiredString(beastElement, SkillPropertyName);
+
+        var maxHp = ReadRequiredInt(statsElement, HpPropertyName);
+        var physAtk = ReadRequiredInt(statsElement, PhysAtkPropertyName);
+        var physDef = ReadRequiredInt(statsElement, PhysDefPropertyName);
+        var speed = ReadRequiredInt(statsElement, SpeedPropertyName);
 
         return new BeastDefinition(beastName, maxHp, physAtk, physDef, speed, maxShields, skillName);
     }
 
-    private static IReadOnlySet<string>? ParseNameSet(JsonElement rootElement)
+    private static IReadOnlySet<string> ParseNameSet(JsonElement rootElement)
     {
         if (rootElement.ValueKind != JsonValueKind.Array)
-            return null;
+            throw new RuntimeDataCatalogLoadException("Skill catalogs must be a JSON array.");
 
         var names = new HashSet<string>(StringComparer.Ordinal);
         foreach (var itemElement in rootElement.EnumerateArray())
         {
-            if (!TryGetRequiredString(itemElement, NamePropertyName, out var name))
-                return null;
-
+            var name = ReadRequiredString(itemElement, NamePropertyName);
             names.Add(name);
         }
 
         return names;
     }
 
-    private static bool TryGetRequiredString(JsonElement sourceElement, string propertyName, out string propertyValue)
+    private static string ReadRequiredString(JsonElement sourceElement, string propertyName)
     {
-        propertyValue = string.Empty;
         if (!sourceElement.TryGetProperty(propertyName, out var propertyElement))
-            return false;
+            throw new RuntimeDataCatalogLoadException($"Missing required property '{propertyName}'.");
 
         var stringValue = propertyElement.GetString();
         if (string.IsNullOrWhiteSpace(stringValue))
-            return false;
+            throw new RuntimeDataCatalogLoadException($"Property '{propertyName}' cannot be empty.");
 
-        propertyValue = stringValue;
-        return true;
+        return stringValue;
     }
 
-    private static bool TryGetRequiredInt(JsonElement sourceElement, string propertyName, out int propertyValue)
+    private static int ReadRequiredInt(JsonElement sourceElement, string propertyName)
     {
-        propertyValue = 0;
         if (!sourceElement.TryGetProperty(propertyName, out var propertyElement))
-            return false;
+            throw new RuntimeDataCatalogLoadException($"Missing required property '{propertyName}'.");
 
-        return propertyElement.TryGetInt32(out propertyValue);
+        if (!propertyElement.TryGetInt32(out var value))
+            throw new RuntimeDataCatalogLoadException($"Property '{propertyName}' must be an integer.");
+
+        return value;
     }
 
-    private static bool TryReadStringList(JsonElement sourceElement, string propertyName, out IReadOnlyList<string> values)
+    private static JsonElement ReadRequiredObject(JsonElement sourceElement, string propertyName)
     {
-        values = [];
+        if (!sourceElement.TryGetProperty(propertyName, out var propertyElement))
+            throw new RuntimeDataCatalogLoadException($"Missing required object '{propertyName}'.");
+
+        if (propertyElement.ValueKind != JsonValueKind.Object)
+            throw new RuntimeDataCatalogLoadException($"Property '{propertyName}' must be an object.");
+
+        return propertyElement;
+    }
+
+    private static IReadOnlyList<string> ReadStringList(JsonElement sourceElement, string propertyName)
+    {
         if (!sourceElement.TryGetProperty(propertyName, out var propertyElement)
             || propertyElement.ValueKind != JsonValueKind.Array)
         {
-            return false;
+            throw new RuntimeDataCatalogLoadException($"Property '{propertyName}' must be an array.");
         }
 
+        return ReadNonEmptyStrings(propertyElement);
+    }
+
+    private static IReadOnlyList<string> ReadNonEmptyStrings(JsonElement arrayElement)
+    {
         var stringValues = new List<string>();
-        foreach (var arrayElement in propertyElement.EnumerateArray())
+        foreach (var itemElement in arrayElement.EnumerateArray())
         {
-            var value = arrayElement.GetString();
+            var value = itemElement.GetString();
             if (string.IsNullOrWhiteSpace(value))
-                return false;
+                throw new RuntimeDataCatalogLoadException("Array values cannot be empty.");
 
             stringValues.Add(value);
         }
 
-        values = stringValues;
-        return true;
+        return stringValues;
     }
 }

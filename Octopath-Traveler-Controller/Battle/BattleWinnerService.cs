@@ -9,18 +9,18 @@ public enum BattleWinner
     EnemyTeam
 }
 
-public sealed class BattleVictoryResolver
+public sealed class BattleWinnerService
 {
     private const string SeparatorLine = "----------------------------------------";
 
     private readonly View _view;
 
-    public BattleVictoryResolver(View view)
+    public BattleWinnerService(View view)
     {
         _view = view;
     }
 
-    public BattleWinner Evaluate(BattleState battleState)
+    public BattleWinner GetWinner(BattleState battleState)
     {
         var hasAliveTraveler = battleState.TravelerTeam.Any(traveler => traveler.IsAlive);
         var hasAliveBeast = battleState.BeastTeam.Any(beast => beast.IsAlive);

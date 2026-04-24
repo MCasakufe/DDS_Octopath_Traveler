@@ -7,62 +7,69 @@ public sealed class TeamFileParser
     private const string PlayerTeamHeader = "Player Team";
     private const string EnemyTeamHeader = "Enemy Team";
 
-    public TeamSetup? Parse(string teamFilePath)
+    public TeamSetup Parse(string teamFilePath)
     {
         if (!File.Exists(teamFilePath))
-            return null;
+            throw new TeamFileParseException("The selected team file does not exist.");
 
         try
         {
             var lines = File.ReadAllLines(teamFilePath);
-            return TryParseTeamSetup(lines);
+            return ParseTeamSetup(lines);
         }
-        catch (IOException)
+        catch (IOException exception)
         {
-            return null;
+            throw new TeamFileParseException("Could not read the selected team file.", exception);
         }
-        catch (UnauthorizedAccessException)
+        catch (UnauthorizedAccessException exception)
         {
-            return null;
+            throw new TeamFileParseException("Access to the selected team file was denied.", exception);
         }
     }
 
-    private TeamSetup? TryParseTeamSetup(IReadOnlyList<string> lines)
+    private TeamSetup ParseTeamSetup(IReadOnlyList<string> lines)
     {
-        var sectionLines = TryParseSectionLines(lines);
-        if (sectionLines is null)
-            return null;
-
-        var travelers = TryParseTravelers(sectionLines.TravelerLines);
-        if (travelers is null)
-            return null;
+        var sectionLines = ParseSectionLines(lines);
+        var travelers = ParseTravelers(sectionLines.TravelerLines);
 
         return new TeamSetup(travelers, sectionLines.BeastLines);
     }
 
-    private SectionLines? TryParseSectionLines(IReadOnlyList<string> lines)
+    private SectionLines ParseSectionLines(IReadOnlyList<string> lines)
     {
         var sectionLinesBuilder = new SectionLinesBuilder();
         var currentSection = TeamFileSection.None;
 
+        foreach (var line in ReadNonEmptyLines(lines))
+            ProcessTeamFileLine(line, sectionLinesBuilder, ref currentSection);
+
+        return sectionLinesBuilder.Build();
+    }
+
+    private static IEnumerable<string> ReadNonEmptyLines(IReadOnlyList<string> lines)
+    {
         foreach (var rawLine in lines)
         {
             var line = rawLine.Trim();
-            if (line.Length == 0)
-                continue;
+            if (line.Length > 0)
+                yield return line;
+        }
+    }
 
-            var parsedSectionHeader = TryParseSectionHeader(line);
-            if (parsedSectionHeader is not null)
-            {
-                currentSection = parsedSectionHeader.Value;
-                continue;
-            }
-
-            if (!sectionLinesBuilder.TryAddTeamMemberLine(line, currentSection))
-                return null;
+    private static void ProcessTeamFileLine(
+        string line,
+        SectionLinesBuilder sectionLinesBuilder,
+        ref TeamFileSection currentSection)
+    {
+        var parsedSectionHeader = TryParseSectionHeader(line);
+        if (parsedSectionHeader is not null)
+        {
+            currentSection = parsedSectionHeader.Value;
+            return;
         }
 
-        return sectionLinesBuilder.Build();
+        if (!sectionLinesBuilder.TryAddTeamMemberLine(line, currentSection))
+            throw new TeamFileParseException("Team member entries must be inside a valid section.");
     }
 
     private static TeamFileSection? TryParseSectionHeader(string line)
@@ -76,26 +83,20 @@ public sealed class TeamFileParser
         return null;
     }
 
-    private static List<TravelerSetup>? TryParseTravelers(IEnumerable<string> travelerLines)
+    private static List<TravelerSetup> ParseTravelers(IEnumerable<string> travelerLines)
     {
         var travelers = new List<TravelerSetup>();
         foreach (var travelerLine in travelerLines)
-        {
-            var traveler = TryParseTraveler(travelerLine);
-            if (traveler is null)
-                return null;
-
-            travelers.Add(traveler);
-        }
+            travelers.Add(ParseTraveler(travelerLine));
 
         return travelers;
     }
 
-    private static TravelerSetup? TryParseTraveler(string line)
+    private static TravelerSetup ParseTraveler(string line)
     {
         var travelerName = ExtractTravelerName(line);
         if (string.IsNullOrWhiteSpace(travelerName))
-            return null;
+            throw new TeamFileParseException("Traveler names cannot be empty.");
 
         var activeSkillNames = ParseSkillNames(line, '(', ')');
         var passiveSkillNames = ParseSkillNames(line, '[', ']');
@@ -138,38 +139,5 @@ public sealed class TeamFileParser
             .ToList();
     }
 
-    private enum TeamFileSection
-    {
-        None,
-        PlayerTeam,
-        EnemyTeam
-    }
-
-    private sealed class SectionLinesBuilder
-    {
-        private readonly List<string> _travelerLines = [];
-        private readonly List<string> _beastLines = [];
-
-        public bool TryAddTeamMemberLine(string line, TeamFileSection currentSection)
-        {
-            if (currentSection == TeamFileSection.PlayerTeam)
-            {
-                _travelerLines.Add(line);
-                return true;
-            }
-
-            if (currentSection == TeamFileSection.EnemyTeam)
-            {
-                _beastLines.Add(line);
-                return true;
-            }
-
-            return false;
-        }
-
-        public SectionLines Build()
-            => new(_travelerLines, _beastLines);
-    }
-
-    private sealed record SectionLines(IReadOnlyList<string> TravelerLines, IReadOnlyList<string> BeastLines);
 }
+

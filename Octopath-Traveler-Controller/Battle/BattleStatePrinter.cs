@@ -2,18 +2,18 @@ using Octopath_Traveler_View;
 
 namespace Octopath_Traveler.Battle;
 
-public sealed class RoundStateRenderer
+public sealed class BattleStatePrinter
 {
     private const string SeparatorLine = "----------------------------------------";
 
     private readonly View _view;
 
-    public RoundStateRenderer(View view)
+    public BattleStatePrinter(View view)
     {
         _view = view;
     }
 
-    public void RenderRoundState(BattleState battleState, RoundTurnQueues roundTurnQueues)
+    public void PrintRoundState(BattleState battleState, RoundTurnQueues roundTurnQueues)
     {
         WriteRoundHeader(battleState.RoundNumber);
         WriteTeamState(battleState);
@@ -21,7 +21,7 @@ public sealed class RoundStateRenderer
         WriteQueueBlock("Turnos de la siguiente ronda", roundTurnQueues.NextRound);
     }
 
-    public void RenderBattleSnapshot(BattleState battleState, RoundTurnQueues roundTurnQueues)
+    public void PrintBattleSnapshot(BattleState battleState, RoundTurnQueues roundTurnQueues)
     {
         _view.WriteLine(SeparatorLine);
         WriteTeamState(battleState);

@@ -18,17 +18,31 @@ public sealed class TeamFileMenu
         var availableTeamFileNames = GetAvailableTeamFileNames();
         WriteTeamFileSelection(availableTeamFileNames);
 
-        if (!TryReadSelectedFileIndex(availableTeamFileNames.Count, out var selectedFileIndex))
+        var selectedFileIndex = ReadSelectedFileIndex(availableTeamFileNames.Count);
+        if (selectedFileIndex is null)
             return null;
 
-        return BuildTeamFilePath(availableTeamFileNames[selectedFileIndex]);
+        return BuildTeamFilePath(availableTeamFileNames[selectedFileIndex.Value]);
     }
 
     private List<string> GetAvailableTeamFileNames()
-        => Directory.GetFiles(_teamFilesFolder, "*.txt", SearchOption.TopDirectoryOnly)
+    {
+        var teamFiles = GetTeamFiles();
+        var validFileNames = ExtractValidFileNames(teamFiles);
+        return SortFileNames(validFileNames);
+    }
+
+    private string[] GetTeamFiles()
+        => Directory.GetFiles(_teamFilesFolder, "*.txt", SearchOption.TopDirectoryOnly);
+
+    private IEnumerable<string> ExtractValidFileNames(IEnumerable<string> teamFiles)
+        => teamFiles
             .Select(Path.GetFileName)
             .Where(fileName => !string.IsNullOrWhiteSpace(fileName))
-            .Select(fileName => fileName!)
+            .Select(fileName => fileName!);
+
+    private List<string> SortFileNames(IEnumerable<string> fileNames)
+        => fileNames
             .OrderBy(fileName => fileName, StringComparer.Ordinal)
             .ToList();
 
@@ -40,13 +54,15 @@ public sealed class TeamFileMenu
             _view.WriteLine($"{index}: {teamFileNames[index]}");
     }
 
-    private bool TryReadSelectedFileIndex(int fileCount, out int selectedFileIndex)
+    private int? ReadSelectedFileIndex(int fileCount)
     {
         var selectedIndexText = _view.ReadLine();
-        if (!int.TryParse(selectedIndexText, out selectedFileIndex))
-            return false;
+        if (!int.TryParse(selectedIndexText, out var selectedFileIndex))
+            return null;
 
-        return selectedFileIndex >= 0 && selectedFileIndex < fileCount;
+        return selectedFileIndex >= 0 && selectedFileIndex < fileCount
+            ? selectedFileIndex
+            : null;
     }
 
     private string BuildTeamFilePath(string fileName)

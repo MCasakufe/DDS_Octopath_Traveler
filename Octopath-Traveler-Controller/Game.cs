@@ -40,15 +40,30 @@ public sealed class Game
 
     private BattleState? TryLoadBattleState()
     {
-        var selectedTeamFilePath = _teamFileMenu.SelectTeamFilePath();
-        if (selectedTeamFilePath is null)
-            return null;
+        try
+        {
+            var selectedTeamFilePath = _teamFileMenu.SelectTeamFilePath();
+            if (selectedTeamFilePath is null)
+                return null;
 
-        var teamSetup = _teamFileParser.Parse(selectedTeamFilePath);
-        if (teamSetup is null || !_teamSetupValidator.IsValid(teamSetup))
-            return null;
+            var teamSetup = _teamFileParser.Parse(selectedTeamFilePath);
+            if (!_teamSetupValidator.IsValid(teamSetup))
+                return null;
 
-        return _battleStateFactory.TryCreate(teamSetup);
+            return _battleStateFactory.TryCreate(teamSetup);
+        }
+        catch (TeamFileParseException)
+        {
+            return null;
+        }
+        catch (ValidationCatalogLoadException)
+        {
+            return null;
+        }
+        catch (RuntimeDataCatalogLoadException)
+        {
+            return null;
+        }
     }
 
     private void WriteInvalidTeamFileMessage()
@@ -59,10 +74,11 @@ public sealed class Game
         var damageCalculator = new PhysicalAttackDamageCalculator();
         return new BattleLoopRunner(
             new RoundTurnQueueBuilder(),
-            new RoundStateRenderer(view),
+            new BattleStatePrinter(view),
             new TravelerTurnFlow(view),
-            new TravelerBasicAttackResolver(view, damageCalculator),
-            new BeastAttackResolver(view, damageCalculator),
-            new BattleVictoryResolver(view));
+            new TravelerBasicAttackExecutor(damageCalculator),
+            new BeastAttackExecutor(damageCalculator),
+            new BattleActionPrinter(view),
+            new BattleWinnerService(view));
     }
 }

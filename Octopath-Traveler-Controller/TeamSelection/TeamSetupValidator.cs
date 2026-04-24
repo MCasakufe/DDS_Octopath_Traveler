@@ -18,9 +18,7 @@ public sealed class TeamSetupValidator
 
     public bool IsValid(TeamSetup teamSetup)
     {
-        var catalog = _catalogProvider.TryLoad();
-        if (catalog is null)
-            return false;
+        var catalog = _catalogProvider.Load();
 
         return HasValidTeamMemberCounts(teamSetup)
                && HasNoDuplicateTravelerNames(teamSetup)

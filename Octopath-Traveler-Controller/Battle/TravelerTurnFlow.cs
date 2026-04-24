@@ -17,9 +17,6 @@ public sealed record TravelerTurnOutcome(
     BeastCombatUnit? SelectedTarget,
     int UsedBp)
 {
-    public static TravelerTurnOutcome NoAction()
-        => new(TravelerTurnResolution.None, null, null, 0);
-
     public static TravelerTurnOutcome BasicAttack(string selectedWeapon, BeastCombatUnit selectedTarget, int usedBp)
         => new(TravelerTurnResolution.BasicAttackChosen, selectedWeapon, selectedTarget, usedBp);
 
@@ -56,47 +53,62 @@ public sealed class TravelerTurnFlow
     {
         while (true)
         {
-            WriteActionMenu(traveler.Name);
-            var selectedAction = TryReadActionOption();
-            var turnOutcome = TryCreateOutcome(selectedAction, traveler, battleState);
+            var selectedAction = SelectAction(traveler.Name);
+            var turnOutcome = CreateTurnOutcome(selectedAction, traveler, battleState);
             if (turnOutcome is not null)
                 return turnOutcome;
         }
     }
 
-    private TravelerTurnOutcome? TryCreateOutcome(
+    private TravelerActionOption? SelectAction(string travelerName)
+    {
+        WriteActionMenu(travelerName);
+        return ReadActionOption();
+    }
+
+    private TravelerTurnOutcome? CreateTurnOutcome(
         TravelerActionOption? selectedAction,
         TravelerCombatUnit traveler,
         BattleState battleState)
         => selectedAction switch
         {
-            TravelerActionOption.BasicAttack => TryCreateBasicAttackOutcome(traveler, battleState),
-            TravelerActionOption.Skill => TryCreateSkillOutcome(traveler),
+            TravelerActionOption.BasicAttack => CreateBasicAttackOutcome(traveler, battleState),
+            TravelerActionOption.Skill => CreateSkillOutcome(traveler),
             TravelerActionOption.Defend => TravelerTurnOutcome.Defend(),
             TravelerActionOption.Flee => TravelerTurnOutcome.Flee(),
             _ => null
         };
 
-    private TravelerTurnOutcome? TryCreateBasicAttackOutcome(TravelerCombatUnit traveler, BattleState battleState)
+    private TravelerTurnOutcome? CreateBasicAttackOutcome(TravelerCombatUnit traveler, BattleState battleState)
     {
-        var selectedWeapon = TrySelectWeapon(traveler);
+        var basicAttackSelection = TryCreateBasicAttackSelection(traveler, battleState);
+        if (basicAttackSelection is null)
+            return null;
+
+        return TravelerTurnOutcome.BasicAttack(
+            basicAttackSelection.SelectedWeapon,
+            basicAttackSelection.SelectedTarget,
+            basicAttackSelection.UsedBp);
+    }
+
+    private TravelerTurnOutcome? CreateSkillOutcome(TravelerCombatUnit traveler)
+    {
+        var selectedSkill = SelectSkill(traveler);
+        return selectedSkill is null ? null : TravelerTurnOutcome.Skill();
+    }
+
+    private BasicAttackSelection? TryCreateBasicAttackSelection(TravelerCombatUnit traveler, BattleState battleState)
+    {
+        var selectedWeapon = SelectWeapon(traveler);
         if (selectedWeapon is null)
             return null;
 
-        var selectedTarget = TrySelectTarget(traveler.Name, battleState);
+        var selectedTarget = SelectTarget(traveler.Name, battleState);
         if (selectedTarget is null)
             return null;
 
         var usedBp = ReadUsedBp(traveler.CurrentBp);
-        return TravelerTurnOutcome.BasicAttack(selectedWeapon, selectedTarget, usedBp);
-    }
-
-    private TravelerTurnOutcome? TryCreateSkillOutcome(TravelerCombatUnit traveler)
-    {
-        var selectedSkill = TrySelectSkill(traveler);
-        return selectedSkill is null
-            ? null
-            : TravelerTurnOutcome.Skill();
+        return new BasicAttackSelection(selectedWeapon, selectedTarget, usedBp);
     }
 
     private void WriteActionMenu(string travelerName)
@@ -109,81 +121,57 @@ public sealed class TravelerTurnFlow
         _view.WriteLine("4: Huir");
     }
 
-    private string? TrySelectWeapon(TravelerCombatUnit traveler)
+    private string? SelectWeapon(TravelerCombatUnit traveler)
     {
-        _view.WriteLine(SeparatorLine);
-        _view.WriteLine("Seleccione un arma");
-
-        for (var index = 0; index < traveler.Weapons.Count; index++)
-            _view.WriteLine($"{index + 1}: {traveler.Weapons[index]}");
-
-        var cancelOption = traveler.Weapons.Count + 1;
-        _view.WriteLine($"{cancelOption}: Cancelar");
-
-        var selectedWeaponOption = ReadMenuOption();
-        if (selectedWeaponOption is not int selectedWeaponIndex)
-            return null;
-
-        if (selectedWeaponOption == cancelOption)
-            return null;
-
-        if (selectedWeaponIndex < 1 || selectedWeaponIndex > traveler.Weapons.Count)
-            return null;
-
-        return traveler.Weapons[selectedWeaponIndex - 1];
+        WriteMenu("Seleccione un arma", traveler.Weapons);
+        var selectedIndex = ReadSelectedIndex(traveler.Weapons.Count);
+        return selectedIndex is null ? null : traveler.Weapons[selectedIndex.Value];
     }
 
-    private BeastCombatUnit? TrySelectTarget(string travelerName, BattleState battleState)
+    private BeastCombatUnit? SelectTarget(string travelerName, BattleState battleState)
     {
         var aliveBeasts = battleState.BeastTeam.Where(beast => beast.IsAlive).ToList();
+        var targetOptions = aliveBeasts
+            .Select(beast => $"{beast.Name} - HP:{beast.CurrentHp}/{beast.MaxHp} Shields:{beast.CurrentShields}")
+            .ToList();
 
-        _view.WriteLine(SeparatorLine);
-        _view.WriteLine($"Seleccione un objetivo para {travelerName}");
-
-        for (var index = 0; index < aliveBeasts.Count; index++)
-        {
-            var beast = aliveBeasts[index];
-            _view.WriteLine($"{index + 1}: {beast.Name} - HP:{beast.CurrentHp}/{beast.MaxHp} Shields:{beast.CurrentShields}");
-        }
-
-        var cancelOption = aliveBeasts.Count + 1;
-        _view.WriteLine($"{cancelOption}: Cancelar");
-
-        var selectedTargetOption = ReadMenuOption();
-        if (selectedTargetOption is not int selectedTargetIndex)
-            return null;
-
-        if (selectedTargetOption == cancelOption)
-            return null;
-
-        if (selectedTargetIndex < 1 || selectedTargetIndex > aliveBeasts.Count)
-            return null;
-
-        return aliveBeasts[selectedTargetIndex - 1];
+        WriteMenu($"Seleccione un objetivo para {travelerName}", targetOptions);
+        var selectedIndex = ReadSelectedIndex(aliveBeasts.Count);
+        return selectedIndex is null ? null : aliveBeasts[selectedIndex.Value];
     }
 
-    private string? TrySelectSkill(TravelerCombatUnit traveler)
+    private string? SelectSkill(TravelerCombatUnit traveler)
+    {
+        WriteMenu($"Seleccione una habilidad para {traveler.Name}", traveler.AssignedActiveSkillNames);
+        var selectedIndex = ReadSelectedIndex(traveler.AssignedActiveSkillNames.Count);
+        return selectedIndex is null ? null : traveler.AssignedActiveSkillNames[selectedIndex.Value];
+    }
+
+    private void WriteMenu(string title, IReadOnlyList<string> options)
     {
         _view.WriteLine(SeparatorLine);
-        _view.WriteLine($"Seleccione una habilidad para {traveler.Name}");
+        _view.WriteLine(title);
 
-        for (var index = 0; index < traveler.AssignedActiveSkillNames.Count; index++)
-            _view.WriteLine($"{index + 1}: {traveler.AssignedActiveSkillNames[index]}");
+        for (var index = 0; index < options.Count; index++)
+            _view.WriteLine($"{index + 1}: {options[index]}");
 
-        var cancelOption = traveler.AssignedActiveSkillNames.Count + 1;
-        _view.WriteLine($"{cancelOption}: Cancelar");
+        _view.WriteLine($"{options.Count + 1}: Cancelar");
+    }
 
-        var selectedSkillOption = ReadMenuOption();
-        if (selectedSkillOption is not int selectedSkillIndex)
+    private int? ReadSelectedIndex(int selectableOptionCount)
+    {
+        var selectedOption = ReadMenuOption();
+        if (selectedOption is null)
             return null;
 
-        if (selectedSkillOption == cancelOption)
+        var cancelOption = selectableOptionCount + 1;
+        if (selectedOption.Value == cancelOption)
             return null;
 
-        if (selectedSkillIndex < 1 || selectedSkillIndex > traveler.AssignedActiveSkillNames.Count)
-            return null;
-
-        return traveler.AssignedActiveSkillNames[selectedSkillIndex - 1];
+        var selectedIndex = selectedOption.Value - 1;
+        return selectedIndex >= 0 && selectedIndex < selectableOptionCount
+            ? selectedIndex
+            : null;
     }
 
     private int ReadUsedBp(int currentBp)
@@ -203,7 +191,7 @@ public sealed class TravelerTurnFlow
         return int.TryParse(optionText, out var option) ? option : null;
     }
 
-    private TravelerActionOption? TryReadActionOption()
+    private TravelerActionOption? ReadActionOption()
     {
         var option = ReadMenuOption();
         return option switch
@@ -215,4 +203,6 @@ public sealed class TravelerTurnFlow
             _ => null
         };
     }
+
+    private sealed record BasicAttackSelection(string SelectedWeapon, BeastCombatUnit SelectedTarget, int UsedBp);
 }

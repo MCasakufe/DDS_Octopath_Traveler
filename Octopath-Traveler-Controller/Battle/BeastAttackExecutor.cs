@@ -1,33 +1,29 @@
-using Octopath_Traveler_View;
-
 namespace Octopath_Traveler.Battle;
 
-public sealed class BeastAttackResolver
-{
-    private const string SeparatorLine = "----------------------------------------";
+public sealed record BeastAttack(
+    string AttackerName,
+    string TargetName,
+    int Damage,
+    int TargetCurrentHp);
 
-    private readonly View _view;
+public sealed class BeastAttackExecutor
+{
     private readonly PhysicalAttackDamageCalculator _damageCalculator;
 
-    public BeastAttackResolver(View view, PhysicalAttackDamageCalculator damageCalculator)
+    public BeastAttackExecutor(PhysicalAttackDamageCalculator damageCalculator)
     {
-        _view = view;
         _damageCalculator = damageCalculator;
     }
 
-    public void Resolve(BeastCombatUnit beast, BattleState battleState)
+    public BeastAttack? ExecuteAttack(BeastCombatUnit beast, BattleState battleState)
     {
         var target = SelectTargetTraveler(battleState);
         if (target is null)
-            return;
+            return null;
 
         var damage = _damageCalculator.CalculateDamage(beast.PhysAtk, target.PhysDef);
         target.CurrentHp = Math.Max(0, target.CurrentHp - damage);
-
-        _view.WriteLine(SeparatorLine);
-        _view.WriteLine($"{beast.Name} usa Attack");
-        _view.WriteLine($"{target.Name} recibe {damage} de daño físico");
-        _view.WriteLine($"{target.Name} termina con HP:{target.CurrentHp}");
+        return new BeastAttack(beast.Name, target.Name, damage, target.CurrentHp);
     }
 
     private static TravelerCombatUnit? SelectTargetTraveler(BattleState battleState)
