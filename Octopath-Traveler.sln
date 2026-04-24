@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Octopath-Traveler-View", "O
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Octopath-Traveler.Tests", "Octopath-Traveler.Tests\Octopath-Traveler.Tests.csproj", "{E593A76D-EE97-4208-BF50-4389A1A0C60E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Octopath-Traveler-Models", "Octopath-Traveler-Models\Octopath-Traveler-Models.csproj", "{DCB4CF34-E37C-4125-A1D4-26D98DD67FBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{E593A76D-EE97-4208-BF50-4389A1A0C60E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E593A76D-EE97-4208-BF50-4389A1A0C60E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E593A76D-EE97-4208-BF50-4389A1A0C60E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCB4CF34-E37C-4125-A1D4-26D98DD67FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCB4CF34-E37C-4125-A1D4-26D98DD67FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCB4CF34-E37C-4125-A1D4-26D98DD67FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCB4CF34-E37C-4125-A1D4-26D98DD67FBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

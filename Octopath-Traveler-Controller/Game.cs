@@ -1,16 +1,18 @@
-using Octopath_Traveler.TeamSelection;
 using Octopath_Traveler.Battle;
-using Octopath_Traveler.RuntimeData;
+using Octopath_Traveler_Models.Battle;
+using Octopath_Traveler_Models.RuntimeData;
+using Octopath_Traveler_Models.TeamSelection;
 using Octopath_Traveler_View;
+using Octopath_Traveler_View.Battle;
+using Octopath_Traveler_View.Main;
+using Octopath_Traveler_View.TeamSelection;
 
 namespace Octopath_Traveler;
 
 public sealed class Game
 {
-    private const string InvalidTeamFileMessage = "Archivo de equipos no válido";
-
-    private readonly View _view;
-    private readonly TeamFileMenu _teamFileMenu;
+    private readonly MainConsoleView _mainConsoleView;
+    private readonly TeamSelectionView _teamSelectionView;
     private readonly TeamFileParser _teamFileParser;
     private readonly TeamSetupValidator _teamSetupValidator;
     private readonly TeamSetupBattleStateFactory _battleStateFactory;
@@ -18,8 +20,8 @@ public sealed class Game
 
     public Game(View view, string teamsFolder)
     {
-        _view = view;
-        _teamFileMenu = new TeamFileMenu(view, teamsFolder);
+        _mainConsoleView = new MainConsoleView(view);
+        _teamSelectionView = new TeamSelectionView(view, teamsFolder);
         _teamFileParser = new TeamFileParser();
         _teamSetupValidator = new TeamSetupValidator(new JsonValidationCatalogProvider(teamsFolder));
         _battleStateFactory = new TeamSetupBattleStateFactory(new RuntimeDataCatalogProvider(teamsFolder));
@@ -31,7 +33,7 @@ public sealed class Game
         var battleState = TryLoadBattleState();
         if (battleState is null)
         {
-            WriteInvalidTeamFileMessage();
+            _mainConsoleView.WriteInvalidTeamFileMessage();
             return;
         }
 
@@ -42,7 +44,7 @@ public sealed class Game
     {
         try
         {
-            var selectedTeamFilePath = _teamFileMenu.SelectTeamFilePath();
+            var selectedTeamFilePath = _teamSelectionView.SelectTeamFilePath();
             if (selectedTeamFilePath is null)
                 return null;
 
@@ -66,19 +68,14 @@ public sealed class Game
         }
     }
 
-    private void WriteInvalidTeamFileMessage()
-        => _view.WriteLine(InvalidTeamFileMessage);
-
     private static BattleLoopRunner CreateBattleLoopRunner(View view)
     {
         var damageCalculator = new PhysicalAttackDamageCalculator();
         return new BattleLoopRunner(
             new RoundTurnQueueBuilder(),
-            new BattleStatePrinter(view),
-            new TravelerTurnFlow(view),
+            new BattleConsoleView(view),
             new TravelerBasicAttackExecutor(damageCalculator),
             new BeastAttackExecutor(damageCalculator),
-            new BattleActionPrinter(view),
-            new BattleWinnerService(view));
+            new BattleWinnerEvaluator());
     }
 }

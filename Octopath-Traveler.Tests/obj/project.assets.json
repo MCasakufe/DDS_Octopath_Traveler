@@ -416,6 +416,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
+          "Octopath-Traveler-Models": "1.0.0",
           "Octopath-Traveler-View": "1.0.0"
         },
         "compile": {
@@ -425,9 +426,22 @@
           "bin/placeholder/Octopath-Traveler-Controller.dll": {}
         }
       },
+      "Octopath-Traveler-Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Octopath-Traveler-Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Octopath-Traveler-Models.dll": {}
+        }
+      },
       "Octopath-Traveler-View/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Octopath-Traveler-Models": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Octopath-Traveler-View.dll": {}
         },
@@ -960,6 +974,11 @@
       "type": "project",
       "path": "../Octopath-Traveler-Controller/Octopath-Traveler-Controller.csproj",
       "msbuildProject": "../Octopath-Traveler-Controller/Octopath-Traveler-Controller.csproj"
+    },
+    "Octopath-Traveler-Models/1.0.0": {
+      "type": "project",
+      "path": "../Octopath-Traveler-Models/Octopath-Traveler-Models.csproj",
+      "msbuildProject": "../Octopath-Traveler-Models/Octopath-Traveler-Models.csproj"
     },
     "Octopath-Traveler-View/1.0.0": {
       "type": "project",

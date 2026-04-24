@@ -1,3 +1,6 @@
+using Octopath_Traveler_Models.Battle;
+using Octopath_Traveler_View.Battle;
+
 namespace Octopath_Traveler.Battle;
 
 public sealed class BattleLoopRunner
@@ -5,29 +8,23 @@ public sealed class BattleLoopRunner
     private const int MaxTravelerBp = 5;
 
     private readonly RoundTurnQueueBuilder _roundTurnQueueBuilder;
-    private readonly BattleStatePrinter _battleStatePrinter;
-    private readonly TravelerTurnFlow _travelerTurnFlow;
+    private readonly BattleConsoleView _battleConsoleView;
     private readonly TravelerBasicAttackExecutor _travelerBasicAttackExecutor;
     private readonly BeastAttackExecutor _beastAttackExecutor;
-    private readonly BattleActionPrinter _battleActionPrinter;
-    private readonly BattleWinnerService _battleWinnerService;
+    private readonly BattleWinnerEvaluator _battleWinnerEvaluator;
 
     public BattleLoopRunner(
         RoundTurnQueueBuilder roundTurnQueueBuilder,
-        BattleStatePrinter battleStatePrinter,
-        TravelerTurnFlow travelerTurnFlow,
+        BattleConsoleView battleConsoleView,
         TravelerBasicAttackExecutor travelerBasicAttackExecutor,
         BeastAttackExecutor beastAttackExecutor,
-        BattleActionPrinter battleActionPrinter,
-        BattleWinnerService battleWinnerService)
+        BattleWinnerEvaluator battleWinnerEvaluator)
     {
         _roundTurnQueueBuilder = roundTurnQueueBuilder;
-        _battleStatePrinter = battleStatePrinter;
-        _travelerTurnFlow = travelerTurnFlow;
+        _battleConsoleView = battleConsoleView;
         _travelerBasicAttackExecutor = travelerBasicAttackExecutor;
         _beastAttackExecutor = beastAttackExecutor;
-        _battleActionPrinter = battleActionPrinter;
-        _battleWinnerService = battleWinnerService;
+        _battleWinnerEvaluator = battleWinnerEvaluator;
     }
 
     public void Run(BattleState battleState)
@@ -52,7 +49,7 @@ public sealed class BattleLoopRunner
             var winner = GetBattleWinner(battleState);
             if (winner is not null)
             {
-                _battleWinnerService.WriteWinner(winner.Value);
+                _battleConsoleView.PrintWinner(winner.Value);
                 return false;
             }
 
@@ -71,7 +68,7 @@ public sealed class BattleLoopRunner
     private void PrintRoundStart(BattleState battleState, IReadOnlySet<TurnParticipantKey> actedParticipants)
     {
         var initialQueues = _roundTurnQueueBuilder.CreateQueues(battleState, actedParticipants);
-        _battleStatePrinter.PrintRoundState(battleState, initialQueues);
+        _battleConsoleView.PrintRoundState(battleState, initialQueues);
     }
 
     private TurnParticipant? GetNextRoundParticipant(
@@ -93,7 +90,7 @@ public sealed class BattleLoopRunner
     private TurnExecutionResult ExecuteTravelerTurn(TurnParticipant participant, BattleState battleState)
     {
         var traveler = battleState.TravelerTeam[participant.BoardSlotIndex];
-        var turnOutcome = _travelerTurnFlow.RunTurn(traveler, battleState);
+        var turnOutcome = _battleConsoleView.RequestTravelerTurn(traveler, battleState);
 
         if (turnOutcome.Resolution == TravelerTurnResolution.Fled)
             return EndBattleAfterFlee();
@@ -104,7 +101,7 @@ public sealed class BattleLoopRunner
 
     private TurnExecutionResult EndBattleAfterFlee()
     {
-        _battleWinnerService.WriteEnemyWinnerAfterFlee();
+        _battleConsoleView.PrintEnemyWinnerAfterFlee();
         return TurnExecutionResult.EndBattle;
     }
 
@@ -121,12 +118,12 @@ public sealed class BattleLoopRunner
             traveler,
             turnOutcome.SelectedTarget,
             turnOutcome.SelectedWeapon);
-        _battleActionPrinter.PrintTravelerBasicAttack(attack);
+        _battleConsoleView.PrintTravelerBasicAttack(attack);
     }
 
     private BattleWinner? GetBattleWinner(BattleState battleState)
     {
-        var winner = _battleWinnerService.GetWinner(battleState);
+        var winner = _battleWinnerEvaluator.GetWinner(battleState);
         return winner == BattleWinner.None ? null : winner;
     }
 
@@ -136,7 +133,7 @@ public sealed class BattleLoopRunner
     {
         var updatedQueues = _roundTurnQueueBuilder.CreateQueues(battleState, actedParticipants);
         if (updatedQueues.CurrentRound.Count > 0)
-            _battleStatePrinter.PrintBattleSnapshot(battleState, updatedQueues);
+            _battleConsoleView.PrintBattleSnapshot(battleState, updatedQueues);
     }
 
     private TurnExecutionResult ExecuteBeastTurn(TurnParticipant participant, BattleState battleState)
@@ -144,7 +141,7 @@ public sealed class BattleLoopRunner
         var beast = battleState.BeastTeam[participant.BoardSlotIndex];
         var attack = _beastAttackExecutor.ExecuteAttack(beast, battleState);
         if (attack is not null)
-            _battleActionPrinter.PrintBeastAttack(attack);
+            _battleConsoleView.PrintBeastAttack(attack);
 
         return TurnExecutionResult.ContinueBattle;
     }
