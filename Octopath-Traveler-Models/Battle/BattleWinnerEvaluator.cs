@@ -9,15 +9,15 @@ public enum BattleWinner
 
 public sealed class BattleWinnerEvaluator
 {
-    public BattleWinner GetWinner(BattleState battleState)
+    public BattleWinner EvaluateWinner(BattleState battleState)
     {
-        bool hasAliveTraveler = battleState.TravelerTeam.Any(traveler => traveler.IsAlive);
-        bool hasAliveBeast = battleState.BeastTeam.Any(beast => beast.IsAlive);
+        bool isAnyTravelerAlive = battleState.TravelerTeam.Any(traveler => traveler.IsAlive);
+        bool isAnyBeastAlive = battleState.BeastTeam.Any(beast => beast.IsAlive);
 
-        if (!hasAliveBeast)
+        if (!isAnyBeastAlive)
             return BattleWinner.TravelerTeam;
 
-        if (!hasAliveTraveler)
+        if (!isAnyTravelerAlive)
             return BattleWinner.EnemyTeam;
 
         return BattleWinner.None;

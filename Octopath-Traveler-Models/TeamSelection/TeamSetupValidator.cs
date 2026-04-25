@@ -51,10 +51,10 @@ public sealed class TeamSetupValidator
     }
 
     private static bool TravelersExist(TeamSetup teamSetup, IReadOnlySet<string> validTravelerNames)
-        => teamSetup.Travelers.All(traveler => validTravelerNames.Contains(traveler.Name));
+        => SelectedNamesExist(teamSetup.Travelers.Select(traveler => traveler.Name), validTravelerNames);
 
     private static bool BeastsExist(TeamSetup teamSetup, IReadOnlySet<string> validBeastNames)
-        => teamSetup.Beasts.All(beast => validBeastNames.Contains(beast));
+        => SelectedNamesExist(teamSetup.Beasts, validBeastNames);
 
     private static bool TravelerSkillsAreValid(
         TeamSetup teamSetup,
@@ -64,14 +64,14 @@ public sealed class TeamSetupValidator
             HasValidSkillCounts(traveler)
             && HasNoDuplicateNames(traveler.ActiveSkills)
             && HasNoDuplicateNames(traveler.PassiveSkills)
-            && SkillsExist(traveler.ActiveSkills, validActiveSkillNames)
-            && SkillsExist(traveler.PassiveSkills, validPassiveSkillNames));
+            && SelectedNamesExist(traveler.ActiveSkills, validActiveSkillNames)
+            && SelectedNamesExist(traveler.PassiveSkills, validPassiveSkillNames));
 
     private static bool HasValidSkillCounts(TravelerSetup traveler)
         => traveler.ActiveSkills.Count <= MaxActiveSkillCount
            && traveler.PassiveSkills.Count <= MaxPassiveSkillCount;
 
-    private static bool SkillsExist(IEnumerable<string> selectedSkillNames, IReadOnlySet<string> validSkillNames)
-        => selectedSkillNames.All(validSkillNames.Contains);
+    private static bool SelectedNamesExist(IEnumerable<string> selectedNames, IReadOnlySet<string> validNames)
+        => selectedNames.All(validNames.Contains);
 }
 

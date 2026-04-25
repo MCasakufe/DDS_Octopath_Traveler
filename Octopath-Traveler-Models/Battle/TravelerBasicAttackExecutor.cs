@@ -12,6 +12,12 @@ public sealed record TravelerBasicAttackHit(
     bool IsWeaknessHit,
     bool EnteredBreakingPoint);
 
+public sealed record TravelerBasicAttackExecutionRequest(
+    TravelerCombatUnit Traveler,
+    BeastCombatUnit Target,
+    string WeaponType,
+    int UsedBp);
+
 public sealed class TravelerBasicAttackExecutor
 {
     private const double BasicAttackModifier = 1.3;
@@ -24,19 +30,20 @@ public sealed class TravelerBasicAttackExecutor
         _beastDamageResolver = new BeastDamageResolver();
     }
 
-    public TravelerBasicAttack ExecuteAttack(TravelerCombatUnit traveler, BeastCombatUnit target, string weaponType, int usedBp)
+    public TravelerBasicAttack ExecuteAttack(TravelerBasicAttackExecutionRequest executionRequest)
     {
+        TravelerCombatUnit traveler = executionRequest.Traveler;
+        BeastCombatUnit target = executionRequest.Target;
+        string weaponType = executionRequest.WeaponType;
+        int usedBp = executionRequest.UsedBp;
+
         int boostHits = Math.Max(0, usedBp);
         int hitCount = 1 + boostHits;
         List<TravelerBasicAttackHit> hits = [];
+        BeastHitRequest hitRequest = BuildBasicAttackHitRequest(traveler, target, weaponType);
         for (int hitIndex = 0; hitIndex < hitCount; hitIndex++)
         {
-            BeastDamageResolution attackOutcome = _beastDamageResolver.ResolveHit(
-                traveler.PhysAtk,
-                traveler.ElemAtk,
-                target,
-                weaponType,
-                BasicAttackModifier);
+            BeastDamageResolution attackOutcome = _beastDamageResolver.ResolveHit(hitRequest);
             hits.Add(new TravelerBasicAttackHit(
                 attackOutcome.Damage,
                 attackOutcome.IsWeaknessHit,
@@ -50,5 +57,16 @@ public sealed class TravelerBasicAttackExecutor
             hits,
             target.CurrentHp);
     }
+
+    private static BeastHitRequest BuildBasicAttackHitRequest(
+        TravelerCombatUnit traveler,
+        BeastCombatUnit target,
+        string weaponType)
+        => new(
+            traveler.PhysAtk,
+            traveler.ElemAtk,
+            target,
+            weaponType,
+            BasicAttackModifier);
 }
 

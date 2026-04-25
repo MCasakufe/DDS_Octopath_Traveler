@@ -2,9 +2,9 @@
 
 public class ConsoleView : AbstractView
 {
-    protected override void Write(object text)
+    protected override void WriteOutput(object text)
     {
-        base.Write(text);
+        base.WriteOutput(text);
         Console.Write(text);
     }
 

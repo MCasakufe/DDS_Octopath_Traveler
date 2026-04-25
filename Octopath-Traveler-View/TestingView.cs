@@ -9,18 +9,18 @@ public class TestingView : AbstractView
     public TestingView(string pathTestScript)
     {
         _expectedScript = File.ReadAllLines(pathTestScript);
-        AddInputsFromUser();
+        LoadUserInputQueueFromScript();
     }
     
-    private void AddInputsFromUser()
+    private void LoadUserInputQueueFromScript()
     {
-        foreach (string line in _expectedScript)
-            if(IsInputFromUser(line))
-                _inputsFromUser.Enqueue(line.Replace(InputKeyword, ""));
+        foreach (string scriptLine in _expectedScript)
+            if (IsUserInputLine(scriptLine))
+                _inputsFromUser.Enqueue(scriptLine.Replace(InputKeyword, ""));
     }
     
-    private bool IsInputFromUser(string line)
-        => line.StartsWith(InputKeyword);
+    private bool IsUserInputLine(string scriptLine)
+        => scriptLine.StartsWith(InputKeyword);
 
     protected override string GetNextInput()
     {

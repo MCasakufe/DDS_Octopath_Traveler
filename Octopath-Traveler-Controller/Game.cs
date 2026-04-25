@@ -25,7 +25,7 @@ public sealed class Game
         _teamFileParser = new TeamFileParser();
         _teamSetupValidator = new TeamSetupValidator(new JsonValidationCatalogProvider(teamsFolder));
         _battleStateFactory = new TeamSetupBattleStateFactory(new RuntimeDataCatalogProvider(teamsFolder));
-        _battleLoopRunner = CreateBattleLoopRunner(view);
+        _battleLoopRunner = BuildBattleLoopRunner(view);
     }
 
     public void Play()
@@ -44,15 +44,10 @@ public sealed class Game
     {
         try
         {
-            string? selectedTeamFilePath = _teamSelectionView.SelectTeamFilePath();
-            if (selectedTeamFilePath is null)
-                return null;
-
-            TeamSetup teamSetup = _teamFileParser.Parse(selectedTeamFilePath);
-            if (!_teamSetupValidator.IsValid(teamSetup))
-                return null;
-
-            return _battleStateFactory.TryCreate(teamSetup);
+            string? selectedTeamSetupFilePath = _teamSelectionView.SelectTeamFilePath();
+            return selectedTeamSetupFilePath is null
+                ? null
+                : TryLoadBattleStateFromSelectedFile(selectedTeamSetupFilePath);
         }
         catch (TeamFileParseException)
         {
@@ -68,7 +63,16 @@ public sealed class Game
         }
     }
 
-    private static BattleLoopRunner CreateBattleLoopRunner(View view)
+    private BattleState? TryLoadBattleStateFromSelectedFile(string selectedTeamSetupFilePath)
+    {
+        TeamSetup teamSetup = _teamFileParser.Parse(selectedTeamSetupFilePath);
+        if (!_teamSetupValidator.IsValid(teamSetup))
+            return null;
+
+        return _battleStateFactory.TryCreate(teamSetup);
+    }
+
+    private static BattleLoopRunner BuildBattleLoopRunner(View view)
     {
         PhysicalAttackDamageCalculator damageCalculator = new();
         PhysicalAttackExecutionService physicalAttackExecutionService = new(damageCalculator);

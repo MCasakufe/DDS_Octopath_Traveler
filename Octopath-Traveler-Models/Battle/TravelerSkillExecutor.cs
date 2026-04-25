@@ -7,9 +7,24 @@ public sealed record TravelerSkillAction(
     string SkillName,
     IReadOnlyList<string> ResultLines);
 
+public sealed record TravelerSkillExecutionRequest(
+    TravelerCombatUnit Traveler,
+    BattleState BattleState,
+    TravelerTurnOutcome TurnOutcome,
+    string SkillName);
+
 public sealed class TravelerSkillExecutor
 {
+    private const string SingleTargetType = "Single";
+    private const string EnemiesTargetType = "Enemies";
+    private const int LegholdTrapDurationRounds = 2;
+    private const int ReviveStartingHp = 1;
+    private const int MissingHpToPercentageMultiplier = 100;
+    private const double LastStandBaseMultiplier = 1.0;
+    private const double LastStandMissingHpMultiplierPerPercent = 0.03;
+
     private static readonly BeastDamageResolver BeastDamageResolver = new();
+    private static readonly string[] ShootingStarsDamageTypes = ["Wind", "Light", "Dark"];
 
     private static readonly HashSet<string> PartyHealingSkills = new(StringComparer.Ordinal)
     {
@@ -42,47 +57,93 @@ public sealed class TravelerSkillExecutor
         "Phoenix Storm"
     };
 
-    public TravelerSkillAction ExecuteSkill(
-        TravelerCombatUnit traveler,
-        BattleState battleState,
-        TravelerTurnOutcome turnOutcome,
-        string skillName,
-        int usedBp)
-    {
-        _ = usedBp;
+    private static readonly IReadOnlyList<TravelerSkillBehavior> SkillBehaviors = BuildSkillBehaviors();
 
-        SkillDefinition? skill = traveler.AssignedActiveSkills.FirstOrDefault(activeSkill => activeSkill.Name == skillName);
-        if (skill is null || traveler.CurrentSp < skill.Sp)
+    private sealed record TravelerBeastDamageRequest(
+        TravelerCombatUnit Traveler,
+        BeastCombatUnit Target,
+        string DamageType,
+        double Modifier);
+
+    private sealed record DamageProfile(
+        string DamageType,
+        double Modifier);
+
+    private sealed record DamageResultContext(
+        BeastCombatUnit Target,
+        string DamageType,
+        BeastDamageResolution DamageResolution);
+
+    private enum DamageResolutionMode
+    {
+        Standard,
+        KeepTargetAlive
+    }
+
+    public TravelerSkillAction ExecuteSkill(TravelerSkillExecutionRequest skillExecutionRequest)
+    {
+        TravelerCombatUnit traveler = skillExecutionRequest.Traveler;
+        string skillName = skillExecutionRequest.SkillName;
+
+        SkillDefinition? selectedSkill = SelectCastableSkill(traveler, skillName);
+        if (selectedSkill is null)
             return new TravelerSkillAction(traveler.Name, skillName, []);
 
-        traveler.CurrentSp -= skill.Sp;
+        ConsumeSkillSp(traveler, selectedSkill);
 
-        List<string> resultLines = skillName switch
-        {
-            "Leghold Trap" => ExecuteLegholdTrap(turnOutcome),
-            "Spearhead" => ExecuteSpearhead(traveler, turnOutcome, skill),
-            "First Aid" => ExecuteFirstAid(traveler, turnOutcome, skill),
-            "Vivify" => ExecuteVivify(traveler, turnOutcome, skill),
-            "Revive" => ExecuteRevive(traveler, battleState),
-            "Shooting Stars" => ExecuteShootingStars(traveler, battleState, skill),
-            "Nightmare Chimera" => ExecuteNightmareChimera(traveler, turnOutcome, skill),
-            "Last Stand" => ExecuteLastStand(traveler, battleState, skill),
-            "Mercy Strike" => ExecuteMercyStrike(traveler, turnOutcome, skill),
-            _ when PartyHealingSkills.Contains(skillName) => ExecutePartyHealing(traveler, battleState, skill),
-            _ when BasicOffensiveSkills.Contains(skillName) => ExecuteStandardOffensiveSkill(traveler, battleState, turnOutcome, skill),
-            _ => []
-        };
+        List<string> resultLines = ExecuteSelectedSkill(skillExecutionRequest, selectedSkill);
 
         return new TravelerSkillAction(traveler.Name, skillName, resultLines);
     }
+
+    private static SkillDefinition? SelectCastableSkill(TravelerCombatUnit traveler, string skillName)
+    {
+        SkillDefinition? selectedSkill = traveler.AssignedActiveSkills
+            .FirstOrDefault(activeSkill => activeSkill.Name == skillName);
+        return IsCastableSkill(traveler, selectedSkill) ? selectedSkill : null;
+    }
+
+    private static bool IsCastableSkill(TravelerCombatUnit traveler, SkillDefinition? selectedSkill)
+        => selectedSkill is not null && traveler.CurrentSp >= selectedSkill.Sp;
+
+    private static void ConsumeSkillSp(TravelerCombatUnit traveler, SkillDefinition selectedSkill)
+        => traveler.CurrentSp -= selectedSkill.Sp;
+
+    private static List<string> ExecuteSelectedSkill(
+        TravelerSkillExecutionRequest skillExecutionRequest,
+        SkillDefinition selectedSkill)
+    {
+        TravelerSkillExecutionContext executionContext = new(skillExecutionRequest, selectedSkill);
+        TravelerSkillBehavior? skillBehavior = SelectSkillBehavior(executionContext.SkillName);
+        return skillBehavior is null ? [] : skillBehavior.Execute(executionContext);
+    }
+
+    private static IReadOnlyList<TravelerSkillBehavior> BuildSkillBehaviors()
+        =>
+        [
+            new LegholdTrapTravelerSkillBehavior(),
+            new SpearheadTravelerSkillBehavior(),
+            new FirstAidTravelerSkillBehavior(),
+            new VivifyTravelerSkillBehavior(),
+            new ReviveTravelerSkillBehavior(),
+            new ShootingStarsTravelerSkillBehavior(),
+            new NightmareChimeraTravelerSkillBehavior(),
+            new LastStandTravelerSkillBehavior(),
+            new MercyStrikeTravelerSkillBehavior(),
+            new PartyHealingTravelerSkillBehavior(),
+            new StandardOffensiveTravelerSkillBehavior()
+        ];
+
+    private static TravelerSkillBehavior? SelectSkillBehavior(string skillName)
+        => SkillBehaviors.FirstOrDefault(skillBehavior => skillBehavior.Matches(skillName));
 
     private static List<string> ExecuteLegholdTrap(TravelerTurnOutcome turnOutcome)
     {
         if (turnOutcome.SelectedBeastTarget is null)
             return [];
 
-        turnOutcome.SelectedBeastTarget.RemainingDecreasedPriorityRounds += 2;
-        return [$"{turnOutcome.SelectedBeastTarget.Name} tendrá menor prioridad de turno durante 2 rondas"];
+        turnOutcome.SelectedBeastTarget.RemainingDecreasedPriorityRounds += LegholdTrapDurationRounds;
+        return [$"{turnOutcome.SelectedBeastTarget.Name} tendrá menor prioridad de turno durante {LegholdTrapDurationRounds} rondas"];
     }
 
     private static List<string> ExecuteSpearhead(
@@ -95,11 +156,10 @@ public sealed class TravelerSkillExecutor
             return [];
 
         BeastDamageResolution damageResolution = ApplyDamageToBeast(
-            traveler,
-            turnOutcome.SelectedBeastTarget,
-            skill.Type,
-            skill.Modifier,
-            keepTargetAtOneHp: false);
+            BuildTravelerBeastDamageRequest(
+                traveler,
+                turnOutcome.SelectedBeastTarget,
+                new DamageProfile(skill.Type, skill.Modifier)));
         return BuildSingleTargetDamageLines(turnOutcome.SelectedBeastTarget, skill.Type, damageResolution);
     }
 
@@ -134,7 +194,7 @@ public sealed class TravelerSkillExecutor
         List<string> resultLines = [];
         if (!target.IsAlive)
         {
-            target.CurrentHp = 1;
+            target.CurrentHp = ReviveStartingHp;
             target.IsWaitingForNextRoundAfterRevive = true;
             resultLines.Add($"{target.Name} revive");
         }
@@ -148,21 +208,19 @@ public sealed class TravelerSkillExecutor
 
     private static List<string> ExecuteRevive(TravelerCombatUnit traveler, BattleState battleState)
     {
-        List<TravelerCombatUnit> reviveTargets = GetDeadTravelersInPartyOrder(traveler, battleState).ToList();
+        List<TravelerCombatUnit> reviveTargets = SelectDefeatedTravelersInPartyOrder(traveler, battleState).ToList();
         if (reviveTargets.Count == 0)
             return [];
 
         List<string> resultLines = [];
         foreach (TravelerCombatUnit target in reviveTargets)
         {
-            target.CurrentHp = 1;
+            target.CurrentHp = ReviveStartingHp;
             target.IsWaitingForNextRoundAfterRevive = true;
             resultLines.Add($"{target.Name} revive");
         }
 
-        foreach (TravelerCombatUnit target in reviveTargets)
-            resultLines.Add($"{target.Name} termina con HP:{target.CurrentHp}");
-
+        AppendCurrentHpLines(resultLines, reviveTargets);
         return resultLines;
     }
 
@@ -171,33 +229,26 @@ public sealed class TravelerSkillExecutor
         BattleState battleState,
         SkillDefinition skill)
     {
-        List<BeastCombatUnit> targets = GetAliveBeastsInBoardOrder(battleState).ToList();
+        List<BeastCombatUnit> targets = SelectAliveBeastsInBoardOrder(battleState).ToList();
         if (targets.Count == 0)
             return [];
 
-        string[] shootingStarTypes = ["Wind", "Light", "Dark"];
-        List<BeastCombatUnit> affectedTargets = [];
         List<string> resultLines = [];
 
         foreach (BeastCombatUnit target in targets)
         {
-            foreach (string damageType in shootingStarTypes)
+            foreach (string damageType in ShootingStarsDamageTypes)
             {
                 BeastDamageResolution damageResolution = ApplyDamageToBeast(
-                    traveler,
-                    target,
-                    damageType,
-                    skill.Modifier,
-                    keepTargetAtOneHp: false);
-                AddDamageResultLines(resultLines, target, damageType, damageResolution);
+                    BuildTravelerBeastDamageRequest(
+                        traveler,
+                        target,
+                        new DamageProfile(damageType, skill.Modifier)));
+                AddDamageResultLines(resultLines, new DamageResultContext(target, damageType, damageResolution));
             }
-
-            affectedTargets.Add(target);
         }
 
-        foreach (BeastCombatUnit target in OrderTargetsByBoard(affectedTargets))
-            resultLines.Add($"{target.Name} termina con HP:{target.CurrentHp}");
-
+        AppendCurrentHpLines(resultLines, targets);
         return resultLines;
     }
 
@@ -212,11 +263,10 @@ public sealed class TravelerSkillExecutor
         BeastCombatUnit target = turnOutcome.SelectedBeastTarget;
         string weaponType = turnOutcome.SelectedWeapon;
         BeastDamageResolution damageResolution = ApplyDamageToBeast(
-            traveler,
-            target,
-            weaponType,
-            skill.Modifier,
-            keepTargetAtOneHp: false);
+            BuildTravelerBeastDamageRequest(
+                traveler,
+                target,
+                new DamageProfile(weaponType, skill.Modifier)));
         return BuildSingleTargetDamageLines(target, weaponType, damageResolution);
     }
 
@@ -225,31 +275,17 @@ public sealed class TravelerSkillExecutor
         BattleState battleState,
         SkillDefinition skill)
     {
-        List<BeastCombatUnit> targets = GetAliveBeastsInBoardOrder(battleState).ToList();
-        if (targets.Count == 0)
-            return [];
-
         int missingHpPercentage = CalculateMissingHpPercentage(traveler);
-        double damageBonusMultiplier = 1 + missingHpPercentage * 0.03;
-
-        List<BeastCombatUnit> affectedTargets = [];
-        List<string> resultLines = [];
-        foreach (BeastCombatUnit target in targets)
-        {
-            BeastDamageResolution damageResolution = ApplyLastStandDamageToBeast(
-                traveler,
-                target,
-                skill.Type,
-                skill.Modifier,
-                damageBonusMultiplier);
-            AddDamageResultLines(resultLines, target, skill.Type, damageResolution);
-            affectedTargets.Add(target);
-        }
-
-        foreach (BeastCombatUnit target in OrderTargetsByBoard(affectedTargets))
-            resultLines.Add($"{target.Name} termina con HP:{target.CurrentHp}");
-
-        return resultLines;
+        double damageBonusMultiplier = LastStandBaseMultiplier + missingHpPercentage * LastStandMissingHpMultiplierPerPercent;
+        return ExecuteSingleTypeDamageAgainstAliveBeasts(
+            battleState,
+            skill.Type,
+            target => ApplyLastStandDamageToBeast(
+                BuildTravelerBeastDamageRequest(
+                    traveler,
+                    target,
+                    new DamageProfile(skill.Type, skill.Modifier)),
+                damageBonusMultiplier));
     }
 
     private static List<string> ExecuteMercyStrike(
@@ -262,11 +298,11 @@ public sealed class TravelerSkillExecutor
 
         BeastCombatUnit target = turnOutcome.SelectedBeastTarget;
         BeastDamageResolution damageResolution = ApplyDamageToBeast(
-            traveler,
-            target,
-            skill.Type,
-            skill.Modifier,
-            keepTargetAtOneHp: true);
+            BuildTravelerBeastDamageRequest(
+                traveler,
+                target,
+                new DamageProfile(skill.Type, skill.Modifier)),
+            DamageResolutionMode.KeepTargetAlive);
         return BuildSingleTargetDamageLines(target, skill.Type, damageResolution);
     }
 
@@ -275,7 +311,7 @@ public sealed class TravelerSkillExecutor
         BattleState battleState,
         SkillDefinition skill)
     {
-        List<TravelerCombatUnit> targets = GetAliveTravelersInPartyOrder(traveler, battleState).ToList();
+        List<TravelerCombatUnit> targets = SelectAliveTravelersInPartyOrder(traveler, battleState).ToList();
         if (targets.Count == 0)
             return [];
 
@@ -287,22 +323,22 @@ public sealed class TravelerSkillExecutor
             resultLines.Add($"{target.Name} recupera {healedValue} de vida");
         }
 
-        foreach (TravelerCombatUnit target in targets)
-            resultLines.Add($"{target.Name} termina con HP:{target.CurrentHp}");
-
+        AppendCurrentHpLines(resultLines, targets);
         return resultLines;
     }
 
     private static List<string> ExecuteStandardOffensiveSkill(
-        TravelerCombatUnit traveler,
-        BattleState battleState,
-        TravelerTurnOutcome turnOutcome,
+        TravelerSkillExecutionRequest skillExecutionRequest,
         SkillDefinition skill)
     {
+        TravelerCombatUnit traveler = skillExecutionRequest.Traveler;
+        BattleState battleState = skillExecutionRequest.BattleState;
+        TravelerTurnOutcome turnOutcome = skillExecutionRequest.TurnOutcome;
+
         return skill.Target switch
         {
-            "Single" => ExecuteSingleTargetOffensiveSkill(traveler, turnOutcome, skill),
-            "Enemies" => ExecuteEnemiesTargetOffensiveSkill(traveler, battleState, skill),
+            SingleTargetType => ExecuteSingleTargetOffensiveSkill(traveler, turnOutcome, skill),
+            EnemiesTargetType => ExecuteEnemiesTargetOffensiveSkill(traveler, battleState, skill),
             _ => []
         };
     }
@@ -317,11 +353,10 @@ public sealed class TravelerSkillExecutor
 
         BeastCombatUnit target = turnOutcome.SelectedBeastTarget;
         BeastDamageResolution damageResolution = ApplyDamageToBeast(
-            traveler,
-            target,
-            skill.Type,
-            skill.Modifier,
-            keepTargetAtOneHp: false);
+            BuildTravelerBeastDamageRequest(
+                traveler,
+                target,
+                new DamageProfile(skill.Type, skill.Modifier)));
         return BuildSingleTargetDamageLines(target, skill.Type, damageResolution);
     }
 
@@ -330,27 +365,33 @@ public sealed class TravelerSkillExecutor
         BattleState battleState,
         SkillDefinition skill)
     {
-        List<BeastCombatUnit> targets = GetAliveBeastsInBoardOrder(battleState).ToList();
+        return ExecuteSingleTypeDamageAgainstAliveBeasts(
+            battleState,
+            skill.Type,
+            target => ApplyDamageToBeast(
+                BuildTravelerBeastDamageRequest(
+                    traveler,
+                    target,
+                    new DamageProfile(skill.Type, skill.Modifier))));
+    }
+
+    private static List<string> ExecuteSingleTypeDamageAgainstAliveBeasts(
+        BattleState battleState,
+        string damageType,
+        Func<BeastCombatUnit, BeastDamageResolution> applyDamage)
+    {
+        List<BeastCombatUnit> targets = SelectAliveBeastsInBoardOrder(battleState).ToList();
         if (targets.Count == 0)
             return [];
 
-        List<BeastCombatUnit> affectedTargets = [];
         List<string> resultLines = [];
         foreach (BeastCombatUnit target in targets)
         {
-            BeastDamageResolution damageResolution = ApplyDamageToBeast(
-                traveler,
-                target,
-                skill.Type,
-                skill.Modifier,
-                keepTargetAtOneHp: false);
-            AddDamageResultLines(resultLines, target, skill.Type, damageResolution);
-            affectedTargets.Add(target);
+            BeastDamageResolution damageResolution = applyDamage(target);
+            AddDamageResultLines(resultLines, new DamageResultContext(target, damageType, damageResolution));
         }
 
-        foreach (BeastCombatUnit target in OrderTargetsByBoard(affectedTargets))
-            resultLines.Add($"{target.Name} termina con HP:{target.CurrentHp}");
-
+        AppendCurrentHpLines(resultLines, targets);
         return resultLines;
     }
 
@@ -360,55 +401,67 @@ public sealed class TravelerSkillExecutor
         BeastDamageResolution damageResolution)
     {
         List<string> resultLines = [];
-        AddDamageResultLines(resultLines, target, damageType, damageResolution);
+        AddDamageResultLines(resultLines, new DamageResultContext(target, damageType, damageResolution));
         resultLines.Add($"{target.Name} termina con HP:{target.CurrentHp}");
         return resultLines;
     }
 
     private static void AddDamageResultLines(
         ICollection<string> resultLines,
-        BeastCombatUnit target,
-        string damageType,
-        BeastDamageResolution damageResolution)
+        DamageResultContext damageResultContext)
     {
-        resultLines.Add(BuildDamageLine(target.Name, damageResolution.Damage, damageType, damageResolution.IsWeaknessHit));
-        if (damageResolution.EnteredBreakingPoint)
-            resultLines.Add($"{target.Name} entra en Breaking Point");
+        resultLines.Add(BuildDamageLine(
+            damageResultContext.Target.Name,
+            damageResultContext.DamageType,
+            damageResultContext.DamageResolution));
+        if (damageResultContext.DamageResolution.EnteredBreakingPoint)
+            resultLines.Add($"{damageResultContext.Target.Name} entra en Breaking Point");
     }
 
-    private static string BuildDamageLine(string targetName, int damage, string damageType, bool isWeaknessHit)
+    private static void AppendCurrentHpLines<TUnit>(ICollection<string> resultLines, IEnumerable<TUnit> targets)
+        where TUnit : Unit
     {
-        string weaknessSuffix = isWeaknessHit ? " con debilidad" : string.Empty;
-        return $"{targetName} recibe {damage} de daño de tipo {damageType}{weaknessSuffix}";
+        foreach (TUnit target in targets)
+            resultLines.Add($"{target.Name} termina con HP:{target.CurrentHp}");
+    }
+
+    private static string BuildDamageLine(string targetName, string damageType, BeastDamageResolution damageResolution)
+    {
+        string weaknessSuffix = damageResolution.IsWeaknessHit ? " con debilidad" : string.Empty;
+        return $"{targetName} recibe {damageResolution.Damage} de da\u00f1o de tipo {damageType}{weaknessSuffix}";
     }
 
     private static BeastDamageResolution ApplyDamageToBeast(
-        TravelerCombatUnit traveler,
-        BeastCombatUnit target,
-        string damageType,
-        double modifier,
-        bool keepTargetAtOneHp)
+        TravelerBeastDamageRequest travelerBeastDamageRequest,
+        DamageResolutionMode damageResolutionMode = DamageResolutionMode.Standard)
     {
-        return keepTargetAtOneHp
-            ? BeastDamageResolver.ResolveHitKeepingTargetAlive(traveler.PhysAtk, traveler.ElemAtk, target, damageType, modifier)
-            : BeastDamageResolver.ResolveHit(traveler.PhysAtk, traveler.ElemAtk, target, damageType, modifier);
+        BeastHitRequest hitRequest = BuildBeastHitRequest(travelerBeastDamageRequest);
+        return damageResolutionMode == DamageResolutionMode.KeepTargetAlive
+            ? BeastDamageResolver.ResolveHitKeepingTargetAlive(hitRequest)
+            : BeastDamageResolver.ResolveHit(hitRequest);
     }
 
     private static BeastDamageResolution ApplyLastStandDamageToBeast(
-        TravelerCombatUnit traveler,
-        BeastCombatUnit target,
-        string damageType,
-        double modifier,
+        TravelerBeastDamageRequest travelerBeastDamageRequest,
         double damageBonusMultiplier)
     {
-        return BeastDamageResolver.ResolveHitWithBonus(
-            traveler.PhysAtk,
-            traveler.ElemAtk,
-            target,
-            damageType,
-            modifier,
-            damageBonusMultiplier);
+        BeastHitRequest hitRequest = BuildBeastHitRequest(travelerBeastDamageRequest);
+        return BeastDamageResolver.ResolveHitWithBonus(hitRequest, damageBonusMultiplier);
     }
+
+    private static TravelerBeastDamageRequest BuildTravelerBeastDamageRequest(
+        TravelerCombatUnit traveler,
+        BeastCombatUnit target,
+        DamageProfile damageProfile)
+        => new(traveler, target, damageProfile.DamageType, damageProfile.Modifier);
+
+    private static BeastHitRequest BuildBeastHitRequest(TravelerBeastDamageRequest travelerBeastDamageRequest)
+        => new(
+            travelerBeastDamageRequest.Traveler.PhysAtk,
+            travelerBeastDamageRequest.Traveler.ElemAtk,
+            travelerBeastDamageRequest.Target,
+            travelerBeastDamageRequest.DamageType,
+            travelerBeastDamageRequest.Modifier);
 
     private static int CalculateHealing(TravelerCombatUnit traveler, double modifier)
     {
@@ -422,10 +475,173 @@ public sealed class TravelerSkillExecutor
             return 0;
 
         int missingHp = traveler.MaxHp - traveler.CurrentHp;
-        return (int)Math.Floor(missingHp * 100.0 / traveler.MaxHp);
+        return (int)Math.Floor(missingHp * MissingHpToPercentageMultiplier / (double)traveler.MaxHp);
     }
 
-    private static IEnumerable<TravelerCombatUnit> GetAliveTravelersInPartyOrder(
+    private sealed record TravelerSkillExecutionContext(
+        TravelerSkillExecutionRequest SkillExecutionRequest,
+        SkillDefinition SelectedSkill)
+    {
+        public TravelerCombatUnit Traveler => SkillExecutionRequest.Traveler;
+        public BattleState BattleState => SkillExecutionRequest.BattleState;
+        public TravelerTurnOutcome TurnOutcome => SkillExecutionRequest.TurnOutcome;
+        public string SkillName => SkillExecutionRequest.SkillName;
+    }
+
+    private abstract class TravelerSkillBehavior
+    {
+        public abstract bool Matches(string skillName);
+        public abstract List<string> Execute(TravelerSkillExecutionContext executionContext);
+    }
+
+    private abstract class ExactNameTravelerSkillBehavior : TravelerSkillBehavior
+    {
+        private readonly string _skillName;
+
+        protected ExactNameTravelerSkillBehavior(string skillName)
+        {
+            _skillName = skillName;
+        }
+
+        public sealed override bool Matches(string skillName)
+            => skillName == _skillName;
+    }
+
+    private abstract class SkillNameSetTravelerSkillBehavior : TravelerSkillBehavior
+    {
+        private readonly IReadOnlySet<string> _skillNames;
+
+        protected SkillNameSetTravelerSkillBehavior(IReadOnlySet<string> skillNames)
+        {
+            _skillNames = skillNames;
+        }
+
+        public sealed override bool Matches(string skillName)
+            => _skillNames.Contains(skillName);
+    }
+
+    private sealed class LegholdTrapTravelerSkillBehavior : ExactNameTravelerSkillBehavior
+    {
+        public LegholdTrapTravelerSkillBehavior()
+            : base("Leghold Trap")
+        {
+        }
+
+        public override List<string> Execute(TravelerSkillExecutionContext executionContext)
+            => ExecuteLegholdTrap(executionContext.TurnOutcome);
+    }
+
+    private sealed class SpearheadTravelerSkillBehavior : ExactNameTravelerSkillBehavior
+    {
+        public SpearheadTravelerSkillBehavior()
+            : base("Spearhead")
+        {
+        }
+
+        public override List<string> Execute(TravelerSkillExecutionContext executionContext)
+            => ExecuteSpearhead(executionContext.Traveler, executionContext.TurnOutcome, executionContext.SelectedSkill);
+    }
+
+    private sealed class FirstAidTravelerSkillBehavior : ExactNameTravelerSkillBehavior
+    {
+        public FirstAidTravelerSkillBehavior()
+            : base("First Aid")
+        {
+        }
+
+        public override List<string> Execute(TravelerSkillExecutionContext executionContext)
+            => ExecuteFirstAid(executionContext.Traveler, executionContext.TurnOutcome, executionContext.SelectedSkill);
+    }
+
+    private sealed class VivifyTravelerSkillBehavior : ExactNameTravelerSkillBehavior
+    {
+        public VivifyTravelerSkillBehavior()
+            : base("Vivify")
+        {
+        }
+
+        public override List<string> Execute(TravelerSkillExecutionContext executionContext)
+            => ExecuteVivify(executionContext.Traveler, executionContext.TurnOutcome, executionContext.SelectedSkill);
+    }
+
+    private sealed class ReviveTravelerSkillBehavior : ExactNameTravelerSkillBehavior
+    {
+        public ReviveTravelerSkillBehavior()
+            : base("Revive")
+        {
+        }
+
+        public override List<string> Execute(TravelerSkillExecutionContext executionContext)
+            => ExecuteRevive(executionContext.Traveler, executionContext.BattleState);
+    }
+
+    private sealed class ShootingStarsTravelerSkillBehavior : ExactNameTravelerSkillBehavior
+    {
+        public ShootingStarsTravelerSkillBehavior()
+            : base("Shooting Stars")
+        {
+        }
+
+        public override List<string> Execute(TravelerSkillExecutionContext executionContext)
+            => ExecuteShootingStars(executionContext.Traveler, executionContext.BattleState, executionContext.SelectedSkill);
+    }
+
+    private sealed class NightmareChimeraTravelerSkillBehavior : ExactNameTravelerSkillBehavior
+    {
+        public NightmareChimeraTravelerSkillBehavior()
+            : base("Nightmare Chimera")
+        {
+        }
+
+        public override List<string> Execute(TravelerSkillExecutionContext executionContext)
+            => ExecuteNightmareChimera(executionContext.Traveler, executionContext.TurnOutcome, executionContext.SelectedSkill);
+    }
+
+    private sealed class LastStandTravelerSkillBehavior : ExactNameTravelerSkillBehavior
+    {
+        public LastStandTravelerSkillBehavior()
+            : base("Last Stand")
+        {
+        }
+
+        public override List<string> Execute(TravelerSkillExecutionContext executionContext)
+            => ExecuteLastStand(executionContext.Traveler, executionContext.BattleState, executionContext.SelectedSkill);
+    }
+
+    private sealed class MercyStrikeTravelerSkillBehavior : ExactNameTravelerSkillBehavior
+    {
+        public MercyStrikeTravelerSkillBehavior()
+            : base("Mercy Strike")
+        {
+        }
+
+        public override List<string> Execute(TravelerSkillExecutionContext executionContext)
+            => ExecuteMercyStrike(executionContext.Traveler, executionContext.TurnOutcome, executionContext.SelectedSkill);
+    }
+
+    private sealed class PartyHealingTravelerSkillBehavior : SkillNameSetTravelerSkillBehavior
+    {
+        public PartyHealingTravelerSkillBehavior()
+            : base(PartyHealingSkills)
+        {
+        }
+
+        public override List<string> Execute(TravelerSkillExecutionContext executionContext)
+            => ExecutePartyHealing(executionContext.Traveler, executionContext.BattleState, executionContext.SelectedSkill);
+    }
+
+    private sealed class StandardOffensiveTravelerSkillBehavior : SkillNameSetTravelerSkillBehavior
+    {
+        public StandardOffensiveTravelerSkillBehavior()
+            : base(BasicOffensiveSkills)
+        {
+        }
+
+        public override List<string> Execute(TravelerSkillExecutionContext executionContext)
+            => ExecuteStandardOffensiveSkill(executionContext.SkillExecutionRequest, executionContext.SelectedSkill);
+    }
+
+    private static IEnumerable<TravelerCombatUnit> SelectAliveTravelersInPartyOrder(
         TravelerCombatUnit traveler,
         BattleState battleState)
     {
@@ -434,7 +650,7 @@ public sealed class TravelerSkillExecutor
             traveler.BoardSlotIndex);
     }
 
-    private static IEnumerable<TravelerCombatUnit> GetDeadTravelersInPartyOrder(
+    private static IEnumerable<TravelerCombatUnit> SelectDefeatedTravelersInPartyOrder(
         TravelerCombatUnit traveler,
         BattleState battleState)
     {
@@ -443,7 +659,7 @@ public sealed class TravelerSkillExecutor
             traveler.BoardSlotIndex);
     }
 
-    private static IEnumerable<BeastCombatUnit> GetAliveBeastsInBoardOrder(BattleState battleState)
+    private static IEnumerable<BeastCombatUnit> SelectAliveBeastsInBoardOrder(BattleState battleState)
         => battleState.BeastTeam
             .Where(target => target.IsAlive)
             .OrderBy(target => target.BoardSlotIndex);
@@ -464,11 +680,5 @@ public sealed class TravelerSkillExecutor
         return nonUserTargets;
     }
 
-    private static IReadOnlyList<TUnit> OrderTargetsByBoard<TUnit>(IEnumerable<TUnit> targets)
-        where TUnit : Unit
-    {
-        return targets
-            .OrderBy(target => target.BoardSlotIndex)
-            .ToList();
-    }
 }
+

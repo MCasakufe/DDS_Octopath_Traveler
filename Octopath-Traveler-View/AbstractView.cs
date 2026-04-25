@@ -5,10 +5,10 @@ public abstract class AbstractView
     private readonly Script _script = new();
     
     public void WriteLine(object text)
-        => Write($"{text}\n");
+        => WriteOutput($"{text}\n");
 
-    protected virtual void Write(object text)
-        => _script.AddToScript(text.ToString());
+    protected virtual void WriteOutput(object text)
+        => _script.AppendToScript(text.ToString());
 
     public string ReadLine()
     {
@@ -23,5 +23,5 @@ public abstract class AbstractView
         => _script.ExportScript(path);
 
     public string[] GetScript()
-        => _script.GetScript().Split("\n");
+        => _script.GetScriptText().Split("\n");
 }

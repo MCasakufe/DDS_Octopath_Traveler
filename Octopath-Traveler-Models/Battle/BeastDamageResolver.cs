@@ -6,11 +6,21 @@ public sealed record BeastDamageResolution(
     bool IsWeaknessHit,
     bool EnteredBreakingPoint);
 
+public sealed record BeastHitRequest(
+    int AttackerPhysAtk,
+    int AttackerElemAtk,
+    BeastCombatUnit Target,
+    string DamageType,
+    double SkillModifier);
+
 public sealed class BeastDamageResolver
 {
     private const double WeaknessDamageMultiplier = 1.5;
     private const double BreakingPointDamageMultiplier = 1.5;
     private const double WeaknessAndBreakingDamageMultiplier = 2.0;
+    private const double NoBonusDamageMultiplier = 1.0;
+    private const int ZeroDamage = 0;
+    private const int NoShieldsRemaining = 0;
     private const int BreakingRoundsDuration = 2;
 
     private static readonly HashSet<string> PhysicalDamageTypes = new(StringComparer.Ordinal)
@@ -24,73 +34,53 @@ public sealed class BeastDamageResolver
     };
 
     public BeastDamageResolution ResolveHit(
-        int attackerPhysAtk,
-        int attackerElemAtk,
-        BeastCombatUnit target,
-        string damageType,
-        double skillModifier)
-        => ResolveHitCore(
-            attackerPhysAtk,
-            attackerElemAtk,
-            target,
-            damageType,
-            skillModifier,
-            bonusDamageMultiplier: 1.0,
+        BeastHitRequest hitRequest)
+        => ResolveDamageCore(
+            hitRequest,
+            bonusDamageMultiplier: NoBonusDamageMultiplier,
             damageCap: DamageCapType.None);
 
     public BeastDamageResolution ResolveHitWithBonus(
-        int attackerPhysAtk,
-        int attackerElemAtk,
-        BeastCombatUnit target,
-        string damageType,
-        double skillModifier,
+        BeastHitRequest hitRequest,
         double bonusDamageMultiplier)
-        => ResolveHitCore(
-            attackerPhysAtk,
-            attackerElemAtk,
-            target,
-            damageType,
-            skillModifier,
+        => ResolveDamageCore(
+            hitRequest,
             bonusDamageMultiplier,
             damageCap: DamageCapType.None);
 
     public BeastDamageResolution ResolveHitKeepingTargetAlive(
-        int attackerPhysAtk,
-        int attackerElemAtk,
-        BeastCombatUnit target,
-        string damageType,
-        double skillModifier)
-        => ResolveHitCore(
-            attackerPhysAtk,
-            attackerElemAtk,
-            target,
-            damageType,
-            skillModifier,
-            bonusDamageMultiplier: 1.0,
+        BeastHitRequest hitRequest)
+        => ResolveDamageCore(
+            hitRequest,
+            bonusDamageMultiplier: NoBonusDamageMultiplier,
             damageCap: DamageCapType.KeepAtLeastOneHp);
 
-    private static BeastDamageResolution ResolveHitCore(
-        int attackerPhysAtk,
-        int attackerElemAtk,
-        BeastCombatUnit target,
-        string damageType,
-        double skillModifier,
+    private static BeastDamageResolution ResolveDamageCore(
+        BeastHitRequest hitRequest,
         double bonusDamageMultiplier,
         DamageCapType damageCap)
     {
-        bool isWeaknessHit = target.Weaknesses.Contains(damageType);
-        bool isTargetBrokenBeforeHit = target.RemainingBreakingRounds > 0;
+        BeastCombatUnit target = hitRequest.Target;
+        bool isWeaknessHit = target.Weaknesses.Contains(hitRequest.DamageType);
+        bool isTargetInBreakingStateBeforeHit = target.RemainingBreakingRounds > 0;
 
-        int attackStat = IsPhysicalDamageType(damageType) ? attackerPhysAtk : attackerElemAtk;
-        int defenseStat = IsPhysicalDamageType(damageType) ? target.PhysDef : target.ElemDef;
+        int attackStat = IsPhysicalDamageType(hitRequest.DamageType)
+            ? hitRequest.AttackerPhysAtk
+            : hitRequest.AttackerElemAtk;
+        int defenseStat = IsPhysicalDamageType(hitRequest.DamageType) ? target.PhysDef : target.ElemDef;
 
-        double statusMultiplier = GetStatusDamageMultiplier(isWeaknessHit, isTargetBrokenBeforeHit);
-        double rawDamage = (attackStat * skillModifier - defenseStat) * statusMultiplier * bonusDamageMultiplier;
+        double statusMultiplier = CalculateStatusDamageMultiplier(
+            ResolveStatusDamageContext(new HitStatus(isWeaknessHit, isTargetInBreakingStateBeforeHit)));
+        double rawDamage = (attackStat * hitRequest.SkillModifier - defenseStat) * statusMultiplier * bonusDamageMultiplier;
         int uncappedDamage = Math.Max(0, (int)Math.Floor(rawDamage));
         int damage = ApplyDamageCap(uncappedDamage, target.CurrentHp, damageCap);
 
         target.CurrentHp = Math.Max(0, target.CurrentHp - damage);
-        bool enteredBreakingPoint = TryEnterBreakingPoint(target, isWeaknessHit, damage, isTargetBrokenBeforeHit);
+        bool enteredBreakingPoint = TryEnterBreakingPoint(new BreakingPointAttempt(
+            target,
+            isWeaknessHit,
+            damage,
+            isTargetInBreakingStateBeforeHit));
 
         return new BeastDamageResolution(
             damage,
@@ -109,36 +99,55 @@ public sealed class BeastDamageResolver
     }
 
     private static bool TryEnterBreakingPoint(
-        BeastCombatUnit target,
-        bool isWeaknessHit,
-        int damage,
-        bool wasAlreadyBroken)
+        BreakingPointAttempt breakingPointAttempt)
     {
-        if (!isWeaknessHit || damage == 0 || wasAlreadyBroken || target.CurrentShields <= 0)
+        if (!CanEnterBreakingPoint(breakingPointAttempt))
             return false;
 
+        BeastCombatUnit target = breakingPointAttempt.Target;
         target.CurrentShields -= 1;
         if (target.CurrentShields > 0)
             return false;
 
-        target.CurrentShields = 0;
+        target.CurrentShields = NoShieldsRemaining;
         target.RemainingBreakingRounds = BreakingRoundsDuration;
         target.HasRecoveryPriorityCurrentRound = false;
         return true;
     }
 
-    private static double GetStatusDamageMultiplier(bool isWeaknessHit, bool isTargetBroken)
+    private static bool CanEnterBreakingPoint(BreakingPointAttempt breakingPointAttempt)
+        => breakingPointAttempt.IsWeaknessHit
+           && breakingPointAttempt.Damage > ZeroDamage
+           && !breakingPointAttempt.WasTargetInBreakingState
+           && breakingPointAttempt.Target.CurrentShields > NoShieldsRemaining;
+
+    private static StatusDamageContext ResolveStatusDamageContext(
+        HitStatus hitStatus)
     {
-        if (isWeaknessHit && isTargetBroken)
+        if (hitStatus.IsWeaknessHit && hitStatus.IsTargetInBreakingState)
+            return StatusDamageContext.WeaknessAndBreaking;
+
+        if (hitStatus.IsWeaknessHit)
+            return StatusDamageContext.WeaknessOnly;
+
+        if (hitStatus.IsTargetInBreakingState)
+            return StatusDamageContext.BreakingOnly;
+
+        return StatusDamageContext.NoBonus;
+    }
+
+    private static double CalculateStatusDamageMultiplier(StatusDamageContext statusDamageContext)
+    {
+        if (statusDamageContext == StatusDamageContext.WeaknessAndBreaking)
             return WeaknessAndBreakingDamageMultiplier;
 
-        if (isWeaknessHit)
+        if (statusDamageContext == StatusDamageContext.WeaknessOnly)
             return WeaknessDamageMultiplier;
 
-        if (isTargetBroken)
+        if (statusDamageContext == StatusDamageContext.BreakingOnly)
             return BreakingPointDamageMultiplier;
 
-        return 1.0;
+        return NoBonusDamageMultiplier;
     }
 
     private static bool IsPhysicalDamageType(string damageType)
@@ -148,5 +157,23 @@ public sealed class BeastDamageResolver
     {
         None,
         KeepAtLeastOneHp
+    }
+
+    private sealed record BreakingPointAttempt(
+        BeastCombatUnit Target,
+        bool IsWeaknessHit,
+        int Damage,
+        bool WasTargetInBreakingState);
+
+    private sealed record HitStatus(
+        bool IsWeaknessHit,
+        bool IsTargetInBreakingState);
+
+    private enum StatusDamageContext
+    {
+        NoBonus,
+        WeaknessOnly,
+        BreakingOnly,
+        WeaknessAndBreaking
     }
 }

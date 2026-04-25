@@ -30,9 +30,9 @@ public sealed class TeamFileParser
     private TeamSetup ParseTeamSetup(IReadOnlyList<string> lines)
     {
         SectionLines sectionLines = ParseSectionLines(lines);
-        List<TravelerSetup> travelers = ParseTravelers(sectionLines.TravelerLines);
+        List<TravelerSetup> travelerSetups = ParseTravelerSetups(sectionLines.TravelerLines);
 
-        return new TeamSetup(travelers, sectionLines.BeastLines);
+        return new TeamSetup(travelerSetups, sectionLines.BeastLines);
     }
 
     private SectionLines ParseSectionLines(IReadOnlyList<string> lines)
@@ -80,16 +80,16 @@ public sealed class TeamFileParser
         return null;
     }
 
-    private static List<TravelerSetup> ParseTravelers(IEnumerable<string> travelerLines)
+    private static List<TravelerSetup> ParseTravelerSetups(IEnumerable<string> travelerLines)
     {
-        List<TravelerSetup> travelers = [];
+        List<TravelerSetup> travelerSetups = [];
         foreach (string travelerLine in travelerLines)
-            travelers.Add(ParseTraveler(travelerLine));
+            travelerSetups.Add(ParseTravelerSetup(travelerLine));
 
-        return travelers;
+        return travelerSetups;
     }
 
-    private static TravelerSetup ParseTraveler(string line)
+    private static TravelerSetup ParseTravelerSetup(string line)
     {
         string travelerName = ExtractTravelerName(line);
         if (string.IsNullOrWhiteSpace(travelerName))

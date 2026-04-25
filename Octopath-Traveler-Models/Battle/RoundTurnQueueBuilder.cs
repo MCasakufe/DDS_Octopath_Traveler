@@ -22,18 +22,22 @@ public sealed record RoundTurnQueues(IReadOnlyList<TurnParticipant> CurrentRound
 
 public sealed class RoundTurnQueueBuilder
 {
-    public RoundTurnQueues CreateQueues(BattleState battleState, IReadOnlySet<TurnParticipantKey> actedParticipants)
+    private const int ZeroRoundsRemaining = 0;
+    private const int OneRoundRemaining = 1;
+    private const int PriorityBucketRecovery = 0;
+    private const int PriorityBucketDefend = 1;
+    private const int PriorityBucketIncreased = 2;
+    private const int PriorityBucketNormal = 3;
+    private const int PriorityBucketDecreased = 4;
+
+    public RoundTurnQueues BuildRoundTurnQueues(BattleState battleState, IReadOnlySet<TurnParticipantKey> actedParticipants)
     {
         List<TurnParticipant> currentRoundOrder = BuildAliveTurnOrder(
             battleState,
-            usePendingTravelerPriorities: false,
-            includeRevivedTravelers: false,
-            useProjectedBeastDecreasedPriority: false);
+            TurnQueueProjection.CurrentRound);
         List<TurnParticipant> nextRoundQueue = BuildAliveTurnOrder(
             battleState,
-            usePendingTravelerPriorities: true,
-            includeRevivedTravelers: true,
-            useProjectedBeastDecreasedPriority: true);
+            TurnQueueProjection.NextRound);
         List<TurnParticipant> currentRoundQueue = currentRoundOrder
             .Where(participant => !actedParticipants.Contains(new TurnParticipantKey(participant.Side, participant.BoardSlotIndex)))
             .ToList();
@@ -43,15 +47,12 @@ public sealed class RoundTurnQueueBuilder
 
     private static List<TurnParticipant> BuildAliveTurnOrder(
         BattleState battleState,
-        bool usePendingTravelerPriorities,
-        bool includeRevivedTravelers,
-        bool useProjectedBeastDecreasedPriority)
+        TurnQueueProjection turnQueueProjection)
     {
         IEnumerable<TurnParticipant> aliveParticipants = GetAliveTravelers(
                 battleState,
-                usePendingTravelerPriorities,
-                includeRevivedTravelers)
-            .Concat(GetAliveBeasts(battleState, useProjectedBeastDecreasedPriority));
+                turnQueueProjection)
+            .Concat(GetAliveBeasts(battleState, turnQueueProjection));
 
         IOrderedEnumerable<TurnParticipant> orderedParticipants = aliveParticipants
             .OrderBy(GetPriorityBucket)
@@ -64,70 +65,100 @@ public sealed class RoundTurnQueueBuilder
 
     private static IEnumerable<TurnParticipant> GetAliveTravelers(
         BattleState battleState,
-        bool usePendingTravelerPriorities,
-        bool includeRevivedTravelers)
+        TurnQueueProjection turnQueueProjection)
         => battleState.TravelerTeam
             .Where(traveler => traveler.IsAlive)
-            .Where(traveler => includeRevivedTravelers || !traveler.IsWaitingForNextRoundAfterRevive)
+            .Where(traveler => IsTravelerReadyToAct(traveler, turnQueueProjection))
             .Select(traveler => new TurnParticipant(
                 traveler.Name,
                 traveler.Speed,
                 BattleSide.Traveler,
                 traveler.BoardSlotIndex,
                 HasRecoveryPriority: false,
-                usePendingTravelerPriorities ? traveler.HasPendingDefendPriority : traveler.HasDefendPriorityCurrentRound,
-                usePendingTravelerPriorities ? traveler.HasPendingIncreasedPriority : traveler.HasIncreasedPriorityCurrentRound,
+                ResolveTravelerDefendPriority(traveler, turnQueueProjection),
+                ResolveTravelerIncreasedPriority(traveler, turnQueueProjection),
                 HasDecreasedPriority: false));
 
-    private static IEnumerable<TurnParticipant> GetAliveBeasts(BattleState battleState, bool useProjectedDecreasedPriority)
+    private static IEnumerable<TurnParticipant> GetAliveBeasts(
+        BattleState battleState,
+        TurnQueueProjection turnQueueProjection)
         => battleState.BeastTeam
             .Where(beast => beast.IsAlive)
-            .Where(beast => IsReadyToAct(beast, useProjectedDecreasedPriority))
+            .Where(beast => IsReadyToAct(beast, turnQueueProjection))
             .Select(beast => new TurnParticipant(
                 beast.Name,
                 beast.Speed,
                 BattleSide.Beast,
                 beast.BoardSlotIndex,
-                HasRecoveryPriority: ResolveRecoveryPriority(beast, useProjectedDecreasedPriority),
+                HasRecoveryPriority: ResolveRecoveryPriority(beast, turnQueueProjection),
                 HasDefendPriority: false,
                 HasIncreasedPriority: false,
-                HasDecreasedPriority: useProjectedDecreasedPriority
-                    ? beast.RemainingDecreasedPriorityRounds > 1
-                    : beast.RemainingDecreasedPriorityRounds > 0));
+                HasDecreasedPriority: turnQueueProjection == TurnQueueProjection.NextRound
+                    ? beast.RemainingDecreasedPriorityRounds > OneRoundRemaining
+                    : beast.RemainingDecreasedPriorityRounds > ZeroRoundsRemaining));
 
-    private static bool IsReadyToAct(BeastCombatUnit beast, bool useProjectedDecreasedPriority)
+    private static bool IsTravelerReadyToAct(
+        TravelerCombatUnit traveler,
+        TurnQueueProjection turnQueueProjection)
+        => turnQueueProjection == TurnQueueProjection.NextRound || !traveler.IsWaitingForNextRoundAfterRevive;
+
+    private static bool ResolveTravelerDefendPriority(
+        TravelerCombatUnit traveler,
+        TurnQueueProjection turnQueueProjection)
+        => turnQueueProjection == TurnQueueProjection.NextRound
+            ? traveler.HasPendingDefendPriority
+            : traveler.HasDefendPriorityCurrentRound;
+
+    private static bool ResolveTravelerIncreasedPriority(
+        TravelerCombatUnit traveler,
+        TurnQueueProjection turnQueueProjection)
+        => turnQueueProjection == TurnQueueProjection.NextRound
+            ? traveler.HasPendingIncreasedPriority
+            : traveler.HasIncreasedPriorityCurrentRound;
+
+    private static bool IsReadyToAct(
+        BeastCombatUnit beast,
+        TurnQueueProjection turnQueueProjection)
     {
-        if (!useProjectedDecreasedPriority)
-            return beast.RemainingBreakingRounds == 0;
+        if (turnQueueProjection == TurnQueueProjection.CurrentRound)
+            return beast.RemainingBreakingRounds == ZeroRoundsRemaining;
 
-        return beast.RemainingBreakingRounds <= 1;
+        return beast.RemainingBreakingRounds <= OneRoundRemaining;
     }
 
-    private static bool ResolveRecoveryPriority(BeastCombatUnit beast, bool useProjectedDecreasedPriority)
+    private static bool ResolveRecoveryPriority(
+        BeastCombatUnit beast,
+        TurnQueueProjection turnQueueProjection)
     {
-        if (!useProjectedDecreasedPriority)
+        if (turnQueueProjection == TurnQueueProjection.CurrentRound)
             return beast.HasRecoveryPriorityCurrentRound;
 
-        return beast.RemainingBreakingRounds == 1;
+        return beast.RemainingBreakingRounds == OneRoundRemaining;
     }
 
     private static int GetPriorityBucket(TurnParticipant participant)
     {
         if (participant.HasRecoveryPriority)
-            return 0;
+            return PriorityBucketRecovery;
 
         if (participant.HasDefendPriority)
-            return 1;
+            return PriorityBucketDefend;
 
         if (participant.HasIncreasedPriority)
-            return 2;
+            return PriorityBucketIncreased;
 
         if (participant.HasDecreasedPriority)
-            return 4;
+            return PriorityBucketDecreased;
 
-        return 3;
+        return PriorityBucketNormal;
     }
 
     private static int GetSidePriority(TurnParticipant participant)
         => participant.Side == BattleSide.Traveler ? 0 : 1;
+
+    private enum TurnQueueProjection
+    {
+        CurrentRound,
+        NextRound
+    }
 }

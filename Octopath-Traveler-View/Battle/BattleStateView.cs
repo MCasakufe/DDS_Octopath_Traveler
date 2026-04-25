@@ -16,17 +16,17 @@ public sealed class BattleStateView
     public void PrintRoundState(BattleState battleState, RoundTurnQueues roundTurnQueues)
     {
         WriteRoundHeader(battleState.RoundNumber);
-        WriteTeamState(battleState);
-        WriteQueueBlock("Turnos de la ronda", roundTurnQueues.CurrentRound);
-        WriteQueueBlock("Turnos de la siguiente ronda", roundTurnQueues.NextRound);
+        WriteTeamStatusBlock(battleState);
+        WriteTurnQueueSection("Turnos de la ronda", roundTurnQueues.CurrentRound);
+        WriteTurnQueueSection("Turnos de la siguiente ronda", roundTurnQueues.NextRound);
     }
 
     public void PrintBattleSnapshot(BattleState battleState, RoundTurnQueues roundTurnQueues)
     {
         _view.WriteLine(SeparatorLine);
-        WriteTeamState(battleState);
-        WriteQueueBlock("Turnos de la ronda", roundTurnQueues.CurrentRound);
-        WriteQueueBlock("Turnos de la siguiente ronda", roundTurnQueues.NextRound);
+        WriteTeamStatusBlock(battleState);
+        WriteTurnQueueSection("Turnos de la ronda", roundTurnQueues.CurrentRound);
+        WriteTurnQueueSection("Turnos de la siguiente ronda", roundTurnQueues.NextRound);
     }
 
     private void WriteRoundHeader(int roundNumber)
@@ -36,7 +36,7 @@ public sealed class BattleStateView
         _view.WriteLine(SeparatorLine);
     }
 
-    private void WriteTeamState(BattleState battleState)
+    private void WriteTeamStatusBlock(BattleState battleState)
     {
         _view.WriteLine("Equipo del jugador");
         foreach (TravelerCombatUnit traveler in battleState.TravelerTeam)
@@ -47,7 +47,7 @@ public sealed class BattleStateView
             _view.WriteLine(BuildBeastLine(beast));
     }
 
-    private void WriteQueueBlock(string title, IReadOnlyList<TurnParticipant> turnQueue)
+    private void WriteTurnQueueSection(string title, IReadOnlyList<TurnParticipant> turnQueue)
     {
         _view.WriteLine(SeparatorLine);
         _view.WriteLine(title);
@@ -57,11 +57,11 @@ public sealed class BattleStateView
     }
 
     private static string BuildTravelerLine(TravelerCombatUnit traveler)
-        => $"{GetSlotLetter(traveler.BoardSlotIndex)}-{traveler.Name} - HP:{traveler.CurrentHp}/{traveler.MaxHp} SP:{traveler.CurrentSp}/{traveler.MaxSp} BP:{traveler.CurrentBp}";
+        => $"{ConvertSlotIndexToLetter(traveler.BoardSlotIndex)}-{traveler.Name} - HP:{traveler.CurrentHp}/{traveler.MaxHp} SP:{traveler.CurrentSp}/{traveler.MaxSp} BP:{traveler.CurrentBp}";
 
     private static string BuildBeastLine(BeastCombatUnit beast)
-        => $"{GetSlotLetter(beast.BoardSlotIndex)}-{beast.Name} - HP:{beast.CurrentHp}/{beast.MaxHp} Shields:{beast.CurrentShields}";
+        => $"{ConvertSlotIndexToLetter(beast.BoardSlotIndex)}-{beast.Name} - HP:{beast.CurrentHp}/{beast.MaxHp} Shields:{beast.CurrentShields}";
 
-    private static char GetSlotLetter(int boardSlotIndex)
+    private static char ConvertSlotIndexToLetter(int boardSlotIndex)
         => (char)('A' + boardSlotIndex);
 }

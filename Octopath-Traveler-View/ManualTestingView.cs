@@ -14,22 +14,22 @@ public class ManualTestingView : TestingView
         _currentLine = 0;
     }
 
-    protected override void Write(object text)
+    protected override void WriteOutput(object text)
     {
         if(_isOutputCorrectSoFar)
             CheckIfCurrentOutputIsAsExpected(text);
-        base.Write(text);
+        base.WriteOutput(text);
         Console.Write(text);
     }
 
     private void CheckIfCurrentOutputIsAsExpected(object text)
     {
-        string normalizedText = GetNormalizedTest(text.ToString());
+        string normalizedText = GetNormalizedOutputText(text.ToString());
         string[] lines = normalizedText.Split("\n");
         CheckThatLinesMatchTheExpectedOutput(lines);
     }
 
-    private string GetNormalizedTest(string text)
+    private string GetNormalizedOutputText(string text)
         => text[^1] == '\n' ? text.Remove(text.Length-1) : text;
     
     private void CheckThatLinesMatchTheExpectedOutput(string[] lines)

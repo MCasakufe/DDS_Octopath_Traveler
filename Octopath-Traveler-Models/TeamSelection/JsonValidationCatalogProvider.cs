@@ -11,28 +11,28 @@ public sealed class JsonValidationCatalogProvider
     private const string SkillsFileName = "skills.json";
     private const string PassiveSkillsFileName = "passive_skills.json";
 
-    private readonly string _dataFolderPath;
+    private readonly string _validationCatalogDirectoryPath;
 
-    public JsonValidationCatalogProvider(string teamsFolder)
+    public JsonValidationCatalogProvider(string teamsDirectoryPath)
     {
-        _dataFolderPath = Path.GetDirectoryName(teamsFolder) ?? string.Empty;
+        _validationCatalogDirectoryPath = Path.GetDirectoryName(teamsDirectoryPath) ?? string.Empty;
     }
 
     public ValidationCatalog Load()
     {
-        IReadOnlySet<string> validTravelerNames = LoadNameSet(CharactersFileName);
-        IReadOnlySet<string> validBeastNames = LoadNameSet(EnemiesFileName);
-        IReadOnlySet<string> validActiveSkillNames = LoadNameSet(SkillsFileName);
-        IReadOnlySet<string> validPassiveSkillNames = LoadNameSet(PassiveSkillsFileName);
+        IReadOnlySet<string> validTravelerNames = LoadEntityNamesFromFile(CharactersFileName);
+        IReadOnlySet<string> validBeastNames = LoadEntityNamesFromFile(EnemiesFileName);
+        IReadOnlySet<string> validActiveSkillNames = LoadEntityNamesFromFile(SkillsFileName);
+        IReadOnlySet<string> validPassiveSkillNames = LoadEntityNamesFromFile(PassiveSkillsFileName);
 
         return new ValidationCatalog(validTravelerNames, validBeastNames, validActiveSkillNames, validPassiveSkillNames);
     }
 
-    private IReadOnlySet<string> LoadNameSet(string fileName)
+    private IReadOnlySet<string> LoadEntityNamesFromFile(string fileName)
     {
-        string fullPath = Path.Combine(_dataFolderPath, fileName);
-        string json = ReadJson(fullPath, fileName);
-        return ParseNameSet(json, fileName);
+        string fullPath = Path.Combine(_validationCatalogDirectoryPath, fileName);
+        string jsonContent = ReadJson(fullPath, fileName);
+        return ParseEntityNamesFromJson(jsonContent, fileName);
     }
 
     private static string ReadJson(string fullPath, string fileName)
@@ -58,12 +58,12 @@ public sealed class JsonValidationCatalogProvider
         }
     }
 
-    private static IReadOnlySet<string> ParseNameSet(string json, string fileName)
+    private static IReadOnlySet<string> ParseEntityNamesFromJson(string jsonContent, string fileName)
     {
         try
         {
-            using JsonDocument document = JsonDocument.Parse(json);
-            return ReadNames(document.RootElement, fileName);
+            using JsonDocument document = JsonDocument.Parse(jsonContent);
+            return ReadEntityNames(document.RootElement, fileName);
         }
         catch (JsonException exception)
         {
@@ -73,7 +73,7 @@ public sealed class JsonValidationCatalogProvider
         }
     }
 
-    private static IReadOnlySet<string> ReadNames(JsonElement rootElement, string fileName)
+    private static IReadOnlySet<string> ReadEntityNames(JsonElement rootElement, string fileName)
     {
         if (rootElement.ValueKind != JsonValueKind.Array)
             throw new ValidationCatalogLoadException($"Validation catalog file '{fileName}' must contain a JSON array.");

@@ -5,6 +5,14 @@ namespace Octopath_Traveler.Battle;
 
 public sealed class BattleLoopRunner
 {
+    private const int MinActionBp = 0;
+    private const int MaxActionBp = 3;
+    private const int EvenNumberRemainder = 0;
+    private const int EvenNumberDivisor = 2;
+    private const int VimAndVigorHealingDivisor = 10;
+    private const int SecondWindRecoveryDivisor = 20;
+    private const int RoundIncrement = 1;
+    private const int MinimumRemainingStatValue = 0;
     private const int MaxTravelerBp = 5;
     private const string PatiencePassiveName = "Patience";
 
@@ -52,7 +60,7 @@ public sealed class BattleLoopRunner
                 pendingPatienceTravelerTurns);
             if (participant is null)
             {
-                if (!TryGrantPatienceExtraTurns(
+                if (ShouldEndRoundWithoutParticipant(
                         battleState,
                         travelersWithGrantedPatienceTurn,
                         pendingPatienceTravelerTurns))
@@ -70,7 +78,7 @@ public sealed class BattleLoopRunner
 
             MarkParticipantAsActed(participant, actedParticipants);
 
-            BattleWinner? winner = GetBattleWinner(battleState);
+            BattleWinner? winner = TryGetBattleWinner(battleState);
             if (winner is not null)
             {
                 _battleConsoleView.PrintWinner(winner.Value);
@@ -83,6 +91,15 @@ public sealed class BattleLoopRunner
                 pendingPatienceTravelerTurns);
         }
     }
+
+    private bool ShouldEndRoundWithoutParticipant(
+        BattleState battleState,
+        ISet<int> travelersWithGrantedPatienceTurn,
+        Queue<int> pendingPatienceTravelerTurns)
+        => !TryGrantPatienceExtraTurns(
+            battleState,
+            travelersWithGrantedPatienceTurn,
+            pendingPatienceTravelerTurns);
 
     private static void MarkParticipantAsActed(
         TurnParticipant participant,
@@ -116,7 +133,7 @@ public sealed class BattleLoopRunner
             return BuildTravelerTurnParticipant(traveler);
         }
 
-        RoundTurnQueues queues = _roundTurnQueueBuilder.CreateQueues(battleState, actedParticipants);
+        RoundTurnQueues queues = _roundTurnQueueBuilder.BuildRoundTurnQueues(battleState, actedParticipants);
         return queues.CurrentRound.Count == 0 ? null : queues.CurrentRound[0];
     }
 
@@ -169,14 +186,14 @@ public sealed class BattleLoopRunner
             return;
         }
 
-        int usedBp = GetUsableBpForAction(traveler, turnOutcome.UsedBp);
+        int usedBp = CalculateUsableBpForAction(traveler, turnOutcome.UsedBp);
         ConsumeTravelerBp(traveler, usedBp);
 
-        TravelerBasicAttack attack = _travelerBasicAttackExecutor.ExecuteAttack(
+        TravelerBasicAttack attack = _travelerBasicAttackExecutor.ExecuteAttack(new TravelerBasicAttackExecutionRequest(
             traveler,
             turnOutcome.SelectedBeastTarget,
             turnOutcome.SelectedWeapon,
-            usedBp);
+            usedBp));
         _battleConsoleView.PrintTravelerBasicAttack(attack);
     }
 
@@ -185,15 +202,14 @@ public sealed class BattleLoopRunner
         if (turnOutcome.SelectedSkillName is null)
             return;
 
-        int usedBp = GetUsableBpForAction(traveler, turnOutcome.UsedBp);
+        int usedBp = CalculateUsableBpForAction(traveler, turnOutcome.UsedBp);
         ConsumeTravelerBp(traveler, usedBp);
 
-        TravelerSkillAction action = _travelerSkillExecutor.ExecuteSkill(
+        TravelerSkillAction action = _travelerSkillExecutor.ExecuteSkill(new TravelerSkillExecutionRequest(
             traveler,
             battleState,
             turnOutcome,
-            turnOutcome.SelectedSkillName,
-            usedBp);
+            turnOutcome.SelectedSkillName));
         _battleConsoleView.PrintTravelerSkill(action);
     }
 
@@ -203,22 +219,22 @@ public sealed class BattleLoopRunner
         traveler.HasPendingDefendPriority = true;
     }
 
-    private static int GetUsableBpForAction(TravelerCombatUnit traveler, int requestedBp)
+    private static int CalculateUsableBpForAction(TravelerCombatUnit traveler, int requestedBp)
     {
-        int cappedRequestedBp = Math.Clamp(requestedBp, 0, 3);
+        int cappedRequestedBp = Math.Clamp(requestedBp, MinActionBp, MaxActionBp);
         return Math.Min(traveler.CurrentBp, cappedRequestedBp);
     }
 
     private static void ConsumeTravelerBp(TravelerCombatUnit traveler, int usedBp)
     {
-        traveler.CurrentBp = Math.Max(0, traveler.CurrentBp - usedBp);
-        if (usedBp > 0)
+        traveler.CurrentBp = Math.Max(MinimumRemainingStatValue, traveler.CurrentBp - usedBp);
+        if (usedBp > MinActionBp)
             traveler.SpentBpThisRound = true;
     }
 
-    private BattleWinner? GetBattleWinner(BattleState battleState)
+    private BattleWinner? TryGetBattleWinner(BattleState battleState)
     {
-        BattleWinner winner = _battleWinnerEvaluator.GetWinner(battleState);
+        BattleWinner winner = _battleWinnerEvaluator.EvaluateWinner(battleState);
         return winner == BattleWinner.None ? null : winner;
     }
 
@@ -240,7 +256,7 @@ public sealed class BattleLoopRunner
         IReadOnlySet<TurnParticipantKey> actedParticipants,
         IReadOnlyCollection<int> pendingPatienceTravelerTurns)
     {
-        RoundTurnQueues baseQueues = _roundTurnQueueBuilder.CreateQueues(battleState, actedParticipants);
+        RoundTurnQueues baseQueues = _roundTurnQueueBuilder.BuildRoundTurnQueues(battleState, actedParticipants);
         if (pendingPatienceTravelerTurns.Count == 0)
             return baseQueues;
 
@@ -262,10 +278,7 @@ public sealed class BattleLoopRunner
         Queue<int> pendingPatienceTravelerTurns)
     {
         List<TravelerCombatUnit> eligibleTravelers = battleState.TravelerTeam
-            .Where(traveler => traveler.IsAlive)
-            .Where(HasPatiencePassive)
-            .Where(traveler => !travelersWithGrantedPatienceTurn.Contains(traveler.BoardSlotIndex))
-            .Where(traveler => IsEven(traveler.CurrentHp) && IsEven(traveler.CurrentSp))
+            .Where(traveler => IsEligibleForPatienceExtraTurn(traveler, travelersWithGrantedPatienceTurn))
             .OrderBy(traveler => traveler.BoardSlotIndex)
             .ToList();
         if (eligibleTravelers.Count == 0)
@@ -281,11 +294,22 @@ public sealed class BattleLoopRunner
         return true;
     }
 
+    private static bool IsEligibleForPatienceExtraTurn(
+        TravelerCombatUnit traveler,
+        ISet<int> travelersWithGrantedPatienceTurn)
+        => traveler.IsAlive
+           && HasPatiencePassive(traveler)
+           && !travelersWithGrantedPatienceTurn.Contains(traveler.BoardSlotIndex)
+           && HasEvenCurrentHpAndSp(traveler);
+
+    private static bool HasEvenCurrentHpAndSp(TravelerCombatUnit traveler)
+        => IsEven(traveler.CurrentHp) && IsEven(traveler.CurrentSp);
+
     private static bool HasPatiencePassive(TravelerCombatUnit traveler)
         => traveler.AssignedPassiveSkillNames.Contains(PatiencePassiveName, StringComparer.Ordinal);
 
     private static bool IsEven(int value)
-        => value % 2 == 0;
+        => value % EvenNumberDivisor == EvenNumberRemainder;
 
     private static TurnParticipant BuildTravelerTurnParticipant(TravelerCombatUnit traveler)
         => new(
@@ -314,7 +338,7 @@ public sealed class BattleLoopRunner
         PrepareTravelerRoundStates(battleState);
         PrepareBeastRoundStates(battleState);
         IncreaseAliveTravelerBp(battleState);
-        battleState.RoundNumber += 1;
+        battleState.RoundNumber += RoundIncrement;
     }
 
     private static void ApplyTravelerRoundEndPassiveRecovery(BattleState battleState)
@@ -322,10 +346,10 @@ public sealed class BattleLoopRunner
         foreach (TravelerCombatUnit traveler in battleState.TravelerTeam.Where(traveler => traveler.IsAlive))
         {
             if (traveler.HasVimAndVigor)
-                traveler.CurrentHp = Math.Min(traveler.MaxHp, traveler.CurrentHp + traveler.MaxHp / 10);
+                traveler.CurrentHp = Math.Min(traveler.MaxHp, traveler.CurrentHp + traveler.MaxHp / VimAndVigorHealingDivisor);
 
             if (traveler.HasSecondWind)
-                traveler.CurrentSp = Math.Min(traveler.MaxSp, traveler.CurrentSp + traveler.MaxSp / 20);
+                traveler.CurrentSp = Math.Min(traveler.MaxSp, traveler.CurrentSp + traveler.MaxSp / SecondWindRecoveryDivisor);
         }
     }
 
@@ -346,21 +370,41 @@ public sealed class BattleLoopRunner
     {
         foreach (BeastCombatUnit beast in battleState.BeastTeam)
         {
-            beast.HasRecoveryPriorityCurrentRound = false;
-
-            if (beast.RemainingBreakingRounds > 0)
-            {
-                beast.RemainingBreakingRounds -= 1;
-                if (beast.RemainingBreakingRounds == 0 && beast.IsAlive)
-                {
-                    beast.CurrentShields = beast.MaxShields;
-                    beast.HasRecoveryPriorityCurrentRound = true;
-                }
-            }
-
-            if (beast.RemainingDecreasedPriorityRounds > 0)
-                beast.RemainingDecreasedPriorityRounds -= 1;
+            ResetBeastRecoveryPriority(beast);
+            UpdateBeastBreakingStateForNextRound(beast);
+            DecreaseBeastPriorityPenalty(beast);
         }
+    }
+
+    private static void ResetBeastRecoveryPriority(BeastCombatUnit beast)
+        => beast.HasRecoveryPriorityCurrentRound = false;
+
+    private static void UpdateBeastBreakingStateForNextRound(BeastCombatUnit beast)
+    {
+        if (!HasBreakingRoundsRemaining(beast))
+            return;
+
+        beast.RemainingBreakingRounds -= 1;
+        if (ShouldRecoverFromBreakingState(beast))
+            RecoverBeastShieldsAfterBreaking(beast);
+    }
+
+    private static bool HasBreakingRoundsRemaining(BeastCombatUnit beast)
+        => beast.RemainingBreakingRounds > 0;
+
+    private static bool ShouldRecoverFromBreakingState(BeastCombatUnit beast)
+        => beast.RemainingBreakingRounds == 0 && beast.IsAlive;
+
+    private static void RecoverBeastShieldsAfterBreaking(BeastCombatUnit beast)
+    {
+        beast.CurrentShields = beast.MaxShields;
+        beast.HasRecoveryPriorityCurrentRound = true;
+    }
+
+    private static void DecreaseBeastPriorityPenalty(BeastCombatUnit beast)
+    {
+        if (beast.RemainingDecreasedPriorityRounds > 0)
+            beast.RemainingDecreasedPriorityRounds -= 1;
     }
 
     private static void IncreaseAliveTravelerBp(BattleState battleState)

@@ -4,6 +4,8 @@ namespace Octopath_Traveler_Models.RuntimeData;
 
 public sealed class RuntimeDataCatalogProvider
 {
+    private const int DefaultSkillHitCount = 1;
+
     private const string CharactersFileName = "characters.json";
     private const string EnemiesFileName = "enemies.json";
     private const string ActiveSkillsFileName = "skills.json";
@@ -31,11 +33,11 @@ public sealed class RuntimeDataCatalogProvider
     private const string BoostPropertyName = "Boost";
     private const string HitsPropertyName = "Hits";
 
-    private readonly string _dataFolderPath;
+    private readonly string _runtimeDataDirectoryPath;
 
-    public RuntimeDataCatalogProvider(string teamsFolder)
+    public RuntimeDataCatalogProvider(string teamsDirectoryPath)
     {
-        _dataFolderPath = Path.GetDirectoryName(teamsFolder) ?? string.Empty;
+        _runtimeDataDirectoryPath = Path.GetDirectoryName(teamsDirectoryPath) ?? string.Empty;
     }
 
     public RuntimeDataCatalog Load()
@@ -75,15 +77,15 @@ public sealed class RuntimeDataCatalogProvider
     private Dictionary<string, PassiveSkillDefinition> LoadPassiveSkillDefinitions()
         => LoadFromJsonFile(PassiveSkillsFileName, ParsePassiveSkillDefinitions);
 
-    private TData LoadFromJsonFile<TData>(string fileName, Func<JsonElement, TData> parser)
+    private TData LoadFromJsonFile<TData>(string fileName, Func<JsonElement, TData> parseRootElement)
         where TData : class
     {
-        string jsonContent = ReadJsonContent(fileName);
+        string jsonContent = ReadRuntimeDataFileContent(fileName);
 
         try
         {
             using JsonDocument document = JsonDocument.Parse(jsonContent);
-            return parser(document.RootElement);
+            return parseRootElement(document.RootElement);
         }
         catch (JsonException exception)
         {
@@ -93,15 +95,15 @@ public sealed class RuntimeDataCatalogProvider
         }
     }
 
-    private string ReadJsonContent(string fileName)
+    private string ReadRuntimeDataFileContent(string fileName)
     {
-        string filePath = Path.Combine(_dataFolderPath, fileName);
-        if (!File.Exists(filePath))
+        string runtimeDataFilePath = Path.Combine(_runtimeDataDirectoryPath, fileName);
+        if (!File.Exists(runtimeDataFilePath))
             throw new RuntimeDataCatalogLoadException($"Runtime data file '{fileName}' was not found.");
 
         try
         {
-            return File.ReadAllText(filePath);
+            return File.ReadAllText(runtimeDataFilePath);
         }
         catch (IOException exception)
         {
@@ -211,7 +213,7 @@ public sealed class RuntimeDataCatalogProvider
         string target = ReadRequiredString(skillElement, TargetPropertyName);
         double modifier = ReadRequiredDouble(skillElement, ModifierPropertyName);
         string boost = ReadRequiredString(skillElement, BoostPropertyName);
-        int hits = ReadOptionalInt(skillElement, HitsPropertyName, 1);
+        int hits = ReadOptionalInt(skillElement, HitsPropertyName, DefaultSkillHitCount);
 
         return new SkillDefinition(skillName, sp, description, type, target, modifier, boost, hits);
     }

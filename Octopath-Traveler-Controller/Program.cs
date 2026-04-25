@@ -23,67 +23,67 @@ using Octopath_Traveler_View;
 
 
 
-string testFolder = SelectTestFolder();
-string test = SelectTest(testFolder);
-string teamsFolder = testFolder.Replace("-Tests","");
-AnnounceTestCase(test);
+string selectedTestGroupPath = SelectTestGroupPath();
+string selectedTestFilePath = SelectTestFilePath(selectedTestGroupPath);
+string teamsFolder = selectedTestGroupPath.Replace("-Tests", "");
+AnnounceTestCase(selectedTestFilePath);
 
-View view = View.BuildManualTestingView(test);
+View view = View.BuildManualTestingView(selectedTestFilePath);
 Game game = new Game(view, teamsFolder);
 game.Play();
 
-string SelectTestFolder()
+string SelectTestGroupPath()
 {
     Console.WriteLine("¿Qué grupo de test quieres usar?");
-    string[] dirs = GetAvailableTestsInOrder();
-    ShowArrayOfOptions(dirs);
-    return AskUserToSelectAnOption(dirs);
+    string[] availableTestGroupPaths = GetAvailableTestGroupPathsInOrder();
+    WriteOptionList(availableTestGroupPaths);
+    return ReadSelectedOption(availableTestGroupPaths);
 }
 
-string[] GetAvailableTestsInOrder()
+string[] GetAvailableTestGroupPathsInOrder()
 {
-    string[] dirs = Directory.GetDirectories("data", "*-Tests", SearchOption.TopDirectoryOnly);
-    Array.Sort(dirs);
-    return dirs;
+    string[] availableTestGroupPaths = Directory.GetDirectories("data", "*-Tests", SearchOption.TopDirectoryOnly);
+    Array.Sort(availableTestGroupPaths);
+    return availableTestGroupPaths;
 }
 
-void ShowArrayOfOptions(string[] options)
+void WriteOptionList(string[] options)
 {
-    for(int i = 0; i < options.Length; i++)
-        Console.WriteLine($"{i}- {options[i]}");
+    for (int optionIndex = 0; optionIndex < options.Length; optionIndex++)
+        Console.WriteLine($"{optionIndex}- {options[optionIndex]}");
 }
 
-string AskUserToSelectAnOption(string[] options)
+string ReadSelectedOption(string[] options)
 {
     int minValue = 0;
     int maxValue = options.Length - 1;
-    int selectedOption = AskUserToSelectNumber(minValue, maxValue);
+    int selectedOption = ReadSelectedNumber(minValue, maxValue);
     return options[selectedOption];
 }
 
-int AskUserToSelectNumber(int minValue, int maxValue)
+int ReadSelectedNumber(int minValue, int maxValue)
 {
     Console.WriteLine($"(Ingresa un número entre {minValue} y {maxValue})");
-    int value;
+    int selectedValue;
     bool wasParsePossible;
     do
     {
         string? userInput = Console.ReadLine();
-        wasParsePossible = int.TryParse(userInput, out value);
-    } while (!wasParsePossible || IsValueOutsideTheValidRange(minValue, value, maxValue));
+        wasParsePossible = int.TryParse(userInput, out selectedValue);
+    } while (!wasParsePossible || IsOutsideValidRange(minValue, selectedValue, maxValue));
 
-    return value;
+    return selectedValue;
 }
 
-bool IsValueOutsideTheValidRange(int minValue, int value, int maxValue)
+bool IsOutsideValidRange(int minValue, int value, int maxValue)
     => value < minValue || value > maxValue;
 
-string SelectTest(string testFolder)
+string SelectTestFilePath(string testGroupPath)
 {
     Console.WriteLine("¿Qué test quieres ejecutar?");
-    string[] tests = Directory.GetFiles(testFolder, "*.txt" );
-    Array.Sort(tests);
-    return AskUserToSelectAnOption(tests);
+    string[] availableTestFilePaths = Directory.GetFiles(testGroupPath, "*.txt");
+    Array.Sort(availableTestFilePaths);
+    return ReadSelectedOption(availableTestFilePaths);
 }
 
 void AnnounceTestCase(string test)

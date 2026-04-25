@@ -14,27 +14,27 @@ public sealed class TeamSelectionView
     public string? SelectTeamFilePath()
     {
         List<string> availableTeamFileNames = GetAvailableTeamFileNames();
-        WriteTeamFileSelection(availableTeamFileNames);
+        WriteTeamFileSelectionMenu(availableTeamFileNames);
 
-        int? selectedFileIndex = ReadSelectedFileIndex(availableTeamFileNames.Count);
+        int? selectedFileIndex = TryReadSelectedFileIndex(availableTeamFileNames.Count);
         if (selectedFileIndex is null)
             return null;
 
-        return BuildTeamFilePath(availableTeamFileNames[selectedFileIndex.Value]);
+        return BuildSelectedTeamFilePath(availableTeamFileNames[selectedFileIndex.Value]);
     }
 
     private List<string> GetAvailableTeamFileNames()
     {
-        string[] teamFiles = GetTeamFiles();
-        IEnumerable<string> validFileNames = ExtractValidFileNames(teamFiles);
+        string[] teamFilePaths = GetTeamFilePaths();
+        IEnumerable<string> validFileNames = ExtractNonEmptyFileNames(teamFilePaths);
         return SortFileNames(validFileNames);
     }
 
-    private string[] GetTeamFiles()
+    private string[] GetTeamFilePaths()
         => Directory.GetFiles(_teamFilesFolder, "*.txt", SearchOption.TopDirectoryOnly);
 
-    private IEnumerable<string> ExtractValidFileNames(IEnumerable<string> teamFiles)
-        => teamFiles
+    private IEnumerable<string> ExtractNonEmptyFileNames(IEnumerable<string> teamFilePaths)
+        => teamFilePaths
             .Select(Path.GetFileName)
             .Where(fileName => !string.IsNullOrWhiteSpace(fileName))
             .Select(fileName => fileName!);
@@ -44,7 +44,7 @@ public sealed class TeamSelectionView
             .OrderBy(fileName => fileName, StringComparer.Ordinal)
             .ToList();
 
-    private void WriteTeamFileSelection(IReadOnlyList<string> teamFileNames)
+    private void WriteTeamFileSelectionMenu(IReadOnlyList<string> teamFileNames)
     {
         _view.WriteLine("Elige un archivo para cargar los equipos");
 
@@ -52,7 +52,7 @@ public sealed class TeamSelectionView
             _view.WriteLine($"{index}: {teamFileNames[index]}");
     }
 
-    private int? ReadSelectedFileIndex(int fileCount)
+    private int? TryReadSelectedFileIndex(int fileCount)
     {
         string? selectedIndexText = _view.ReadLine();
         if (!int.TryParse(selectedIndexText, out int selectedFileIndex))
@@ -63,6 +63,6 @@ public sealed class TeamSelectionView
             : null;
     }
 
-    private string BuildTeamFilePath(string fileName)
+    private string BuildSelectedTeamFilePath(string fileName)
         => Path.Combine(_teamFilesFolder, fileName);
 }

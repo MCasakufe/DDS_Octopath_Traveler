@@ -3,17 +3,17 @@
 class Script
 {
     private const string InputKeyword = "INPUT: ";
-    private string _script = "";
+    private string _scriptText = "";
     
     public void AddInput(string inputFromUser)
-        => AddToScript($"{InputKeyword}{inputFromUser}\n");
+        => AppendToScript($"{InputKeyword}{inputFromUser}\n");
     
-    public void AddToScript(string message)
-        => _script += message;
+    public void AppendToScript(string message)
+        => _scriptText += message;
 
-    public string GetScript()
-        => _script;
+    public string GetScriptText()
+        => _scriptText;
     
     public void ExportScript(string outputPath) 
-        => File.WriteAllText(outputPath, _script);
+        => File.WriteAllText(outputPath, _scriptText);
 }
