@@ -8,6 +8,12 @@ public sealed class TravelerCombatUnit
 {
     private const int BaseStartingBp = 1;
     private const int BoostStartBpBonus = 1;
+    private const int MinActionBp = 0;
+    private const int MaxActionBp = 3;
+    private const int MinimumRemainingStatValue = 0;
+    private const int MaxTravelerBp = 5;
+    private const int VimAndVigorHealingDivisor = 10;
+    private const int SecondWindRecoveryDivisor = 20;
 
     private static readonly IReadOnlyDictionary<string, PassiveStatBonus> PassiveBonusesByName
         = new Dictionary<string, PassiveStatBonus>(StringComparer.Ordinal)
@@ -95,6 +101,77 @@ public sealed class TravelerCombatUnit
     public bool HasVimAndVigor { get; }
 
     public bool HasSecondWind { get; }
+
+    public void EnterDefendState()
+    {
+        IsDefendingCurrentRound = true;
+        HasPendingDefendPriority = true;
+    }
+
+    public int ConsumeActionBp(int requestedBp)
+    {
+        int cappedRequestedBp = Math.Clamp(requestedBp, MinActionBp, MaxActionBp);
+        int usedBp = Math.Min(CurrentBp, cappedRequestedBp);
+        CurrentBp = Math.Max(MinimumRemainingStatValue, CurrentBp - usedBp);
+        if (usedBp > MinActionBp)
+            SpentBpThisRound = true;
+
+        return usedBp;
+    }
+
+    public void ConsumeSkillSp(int skillSp)
+        => CurrentSp -= skillSp;
+
+    public void ReceiveDamage(int damage)
+    {
+        int normalizedDamage = Math.Max(0, damage);
+        CurrentHp = Math.Max(MinimumRemainingStatValue, CurrentHp - normalizedDamage);
+    }
+
+    public void RecoverHp(int healingAmount)
+    {
+        int normalizedHealingAmount = Math.Max(0, healingAmount);
+        CurrentHp = Math.Min(MaxHp, CurrentHp + normalizedHealingAmount);
+    }
+
+    public void ReviveForNextRound(int revivedHp)
+    {
+        CurrentHp = Math.Clamp(revivedHp, MinimumRemainingStatValue, MaxHp);
+        IsWaitingForNextRoundAfterRevive = true;
+    }
+
+    public void QueueIncreasedPriorityForNextRound()
+        => HasPendingIncreasedPriority = true;
+
+    public void ApplyRoundEndPassiveRecovery()
+    {
+        if (!IsAlive)
+            return;
+
+        if (HasVimAndVigor)
+            RecoverHp(MaxHp / VimAndVigorHealingDivisor);
+
+        if (HasSecondWind)
+            CurrentSp = Math.Min(MaxSp, CurrentSp + MaxSp / SecondWindRecoveryDivisor);
+    }
+
+    public void PrepareRoundStateForNextRound()
+    {
+        IsDefendingCurrentRound = false;
+        HasDefendPriorityCurrentRound = HasPendingDefendPriority;
+        HasPendingDefendPriority = false;
+        HasIncreasedPriorityCurrentRound = HasPendingIncreasedPriority;
+        HasPendingIncreasedPriority = false;
+        IsWaitingForNextRoundAfterRevive = false;
+    }
+
+    public void PrepareBpForNextRound()
+    {
+        if (IsAlive && !SpentBpThisRound)
+            CurrentBp = Math.Min(MaxTravelerBp, CurrentBp + 1);
+
+        SpentBpThisRound = false;
+    }
 
     private static SkillDefinition ResolveAssignedActiveSkill(RuntimeDataCatalog runtimeDataCatalog, string skillName)
     {

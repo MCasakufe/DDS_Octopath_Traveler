@@ -5,6 +5,8 @@ namespace Octopath_Traveler_Models.Battle;
 public sealed class BeastCombatUnit
     : Unit
 {
+    private const int NoShields = 0;
+
     public BeastCombatUnit(
         BeastDefinition beastDefinition,
         BeastSkillDefinition assignedSkill,
@@ -41,4 +43,68 @@ public sealed class BeastCombatUnit
     public bool HasRecoveryPriorityCurrentRound { get; set; }
 
     public int RemainingDecreasedPriorityRounds { get; set; }
+
+    public string GetAssignedSkillName()
+        => AssignedSkill.Name;
+
+    public string GetAssignedSkillTargetType()
+        => AssignedSkill.Target;
+
+    public int GetAssignedSkillHits()
+        => AssignedSkill.Hits;
+
+    public double GetAssignedSkillModifier()
+        => AssignedSkill.Modifier;
+
+    public void ApplyDecreasedPriorityRounds(int rounds)
+    {
+        if (rounds <= 0)
+            return;
+
+        RemainingDecreasedPriorityRounds += rounds;
+    }
+
+    public void ReceiveDamage(int damage)
+    {
+        int normalizedDamage = Math.Max(0, damage);
+        CurrentHp = Math.Max(0, CurrentHp - normalizedDamage);
+    }
+
+    public bool ConsumeShieldAndTryEnterBreakingPoint(int breakingRoundsDuration)
+    {
+        CurrentShields -= 1;
+        if (CurrentShields > NoShields)
+            return false;
+
+        CurrentShields = NoShields;
+        RemainingBreakingRounds = breakingRoundsDuration;
+        HasRecoveryPriorityCurrentRound = false;
+        return true;
+    }
+
+    public void PrepareRoundStateForNextRound()
+    {
+        HasRecoveryPriorityCurrentRound = false;
+        DecreaseBreakingRoundsAndRecoverShieldsIfNeeded();
+        DecreasePriorityPenalty();
+    }
+
+    private void DecreaseBreakingRoundsAndRecoverShieldsIfNeeded()
+    {
+        if (RemainingBreakingRounds <= 0)
+            return;
+
+        RemainingBreakingRounds -= 1;
+        if (RemainingBreakingRounds == 0 && IsAlive)
+        {
+            CurrentShields = MaxShields;
+            HasRecoveryPriorityCurrentRound = true;
+        }
+    }
+
+    private void DecreasePriorityPenalty()
+    {
+        if (RemainingDecreasedPriorityRounds > 0)
+            RemainingDecreasedPriorityRounds -= 1;
+    }
 }

@@ -7,8 +7,13 @@ public abstract class AbstractView
     public void WriteLine(object text)
         => WriteOutput($"{text}\n");
 
-    protected virtual void WriteOutput(object text)
-        => _script.AppendToScript(text.ToString());
+    private void WriteOutput(string text)
+    {
+        _script.AppendToScript(text);
+        RenderOutput(text);
+    }
+
+    protected abstract void RenderOutput(string text);
 
     public string ReadLine()
     {

@@ -2,11 +2,8 @@
 
 public class ConsoleView : AbstractView
 {
-    protected override void WriteOutput(object text)
-    {
-        base.WriteOutput(text);
-        Console.Write(text);
-    }
+    protected override void RenderOutput(string text)
+        => Console.Write(text);
 
     protected override string GetNextInput()
     {

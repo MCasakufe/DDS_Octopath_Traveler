@@ -1,3 +1,3 @@
-﻿namespace Octopath_Traveler_View;
+namespace Octopath_Traveler_View;
 
-public class InvalidInputRequestException(string message) : ApplicationException(message) { }
+internal sealed class InvalidInputRequestException(string message) : ApplicationException(message) { }

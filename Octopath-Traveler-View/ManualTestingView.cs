@@ -14,17 +14,16 @@ public class ManualTestingView : TestingView
         _currentLine = 0;
     }
 
-    protected override void WriteOutput(object text)
+    protected override void RenderOutput(string text)
     {
-        if(_isOutputCorrectSoFar)
+        if (_isOutputCorrectSoFar)
             CheckIfCurrentOutputIsAsExpected(text);
-        base.WriteOutput(text);
         Console.Write(text);
     }
 
-    private void CheckIfCurrentOutputIsAsExpected(object text)
+    private void CheckIfCurrentOutputIsAsExpected(string text)
     {
-        string normalizedText = GetNormalizedOutputText(text.ToString());
+        string normalizedText = GetNormalizedOutputText(text);
         string[] lines = normalizedText.Split("\n");
         CheckThatLinesMatchTheExpectedOutput(lines);
     }

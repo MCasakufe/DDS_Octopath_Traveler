@@ -107,7 +107,7 @@ public sealed class TravelerSkillExecutor
         => selectedSkill is not null && traveler.CurrentSp >= selectedSkill.Sp;
 
     private static void ConsumeSkillSp(TravelerCombatUnit traveler, SkillDefinition selectedSkill)
-        => traveler.CurrentSp -= selectedSkill.Sp;
+        => traveler.ConsumeSkillSp(selectedSkill.Sp);
 
     private static List<string> ExecuteSelectedSkill(
         TravelerSkillExecutionRequest skillExecutionRequest,
@@ -142,7 +142,7 @@ public sealed class TravelerSkillExecutor
         if (turnOutcome.SelectedBeastTarget is null)
             return [];
 
-        turnOutcome.SelectedBeastTarget.RemainingDecreasedPriorityRounds += LegholdTrapDurationRounds;
+        turnOutcome.SelectedBeastTarget.ApplyDecreasedPriorityRounds(LegholdTrapDurationRounds);
         return [$"{turnOutcome.SelectedBeastTarget.Name} tendrá menor prioridad de turno durante {LegholdTrapDurationRounds} rondas"];
     }
 
@@ -151,7 +151,7 @@ public sealed class TravelerSkillExecutor
         TravelerTurnOutcome turnOutcome,
         SkillDefinition skill)
     {
-        traveler.HasPendingIncreasedPriority = true;
+        traveler.QueueIncreasedPriorityForNextRound();
         if (turnOutcome.SelectedBeastTarget is null)
             return [];
 
@@ -173,7 +173,7 @@ public sealed class TravelerSkillExecutor
 
         TravelerCombatUnit target = turnOutcome.SelectedTravelerTarget;
         int healedValue = CalculateHealing(traveler, skill.Modifier);
-        target.CurrentHp = Math.Min(target.MaxHp, target.CurrentHp + healedValue);
+        target.RecoverHp(healedValue);
 
         return
         [
@@ -194,13 +194,12 @@ public sealed class TravelerSkillExecutor
         List<string> resultLines = [];
         if (!target.IsAlive)
         {
-            target.CurrentHp = ReviveStartingHp;
-            target.IsWaitingForNextRoundAfterRevive = true;
+            target.ReviveForNextRound(ReviveStartingHp);
             resultLines.Add($"{target.Name} revive");
         }
 
         int healedValue = CalculateHealing(traveler, skill.Modifier);
-        target.CurrentHp = Math.Min(target.MaxHp, target.CurrentHp + healedValue);
+        target.RecoverHp(healedValue);
         resultLines.Add($"{target.Name} recupera {healedValue} de vida");
         resultLines.Add($"{target.Name} termina con HP:{target.CurrentHp}");
         return resultLines;
@@ -215,8 +214,7 @@ public sealed class TravelerSkillExecutor
         List<string> resultLines = [];
         foreach (TravelerCombatUnit target in reviveTargets)
         {
-            target.CurrentHp = ReviveStartingHp;
-            target.IsWaitingForNextRoundAfterRevive = true;
+            target.ReviveForNextRound(ReviveStartingHp);
             resultLines.Add($"{target.Name} revive");
         }
 
@@ -319,7 +317,7 @@ public sealed class TravelerSkillExecutor
         List<string> resultLines = [];
         foreach (TravelerCombatUnit target in targets)
         {
-            target.CurrentHp = Math.Min(target.MaxHp, target.CurrentHp + healedValue);
+            target.RecoverHp(healedValue);
             resultLines.Add($"{target.Name} recupera {healedValue} de vida");
         }
 
@@ -490,8 +488,14 @@ public sealed class TravelerSkillExecutor
 
     private abstract class TravelerSkillBehavior
     {
-        public abstract bool Matches(string skillName);
-        public abstract List<string> Execute(TravelerSkillExecutionContext executionContext);
+        protected abstract bool MatchesCore(string skillName);
+        protected abstract List<string> ExecuteCore(TravelerSkillExecutionContext executionContext);
+
+        public bool Matches(string skillName)
+            => MatchesCore(skillName);
+
+        public List<string> Execute(TravelerSkillExecutionContext executionContext)
+            => ExecuteCore(executionContext);
     }
 
     private abstract class ExactNameTravelerSkillBehavior : TravelerSkillBehavior
@@ -503,7 +507,7 @@ public sealed class TravelerSkillExecutor
             _skillName = skillName;
         }
 
-        public sealed override bool Matches(string skillName)
+        protected sealed override bool MatchesCore(string skillName)
             => skillName == _skillName;
     }
 
@@ -516,128 +520,128 @@ public sealed class TravelerSkillExecutor
             _skillNames = skillNames;
         }
 
-        public sealed override bool Matches(string skillName)
+        protected sealed override bool MatchesCore(string skillName)
             => _skillNames.Contains(skillName);
     }
 
     private sealed class LegholdTrapTravelerSkillBehavior : ExactNameTravelerSkillBehavior
     {
-        public LegholdTrapTravelerSkillBehavior()
+        internal LegholdTrapTravelerSkillBehavior()
             : base("Leghold Trap")
         {
         }
 
-        public override List<string> Execute(TravelerSkillExecutionContext executionContext)
+        protected override List<string> ExecuteCore(TravelerSkillExecutionContext executionContext)
             => ExecuteLegholdTrap(executionContext.TurnOutcome);
     }
 
     private sealed class SpearheadTravelerSkillBehavior : ExactNameTravelerSkillBehavior
     {
-        public SpearheadTravelerSkillBehavior()
+        internal SpearheadTravelerSkillBehavior()
             : base("Spearhead")
         {
         }
 
-        public override List<string> Execute(TravelerSkillExecutionContext executionContext)
+        protected override List<string> ExecuteCore(TravelerSkillExecutionContext executionContext)
             => ExecuteSpearhead(executionContext.Traveler, executionContext.TurnOutcome, executionContext.SelectedSkill);
     }
 
     private sealed class FirstAidTravelerSkillBehavior : ExactNameTravelerSkillBehavior
     {
-        public FirstAidTravelerSkillBehavior()
+        internal FirstAidTravelerSkillBehavior()
             : base("First Aid")
         {
         }
 
-        public override List<string> Execute(TravelerSkillExecutionContext executionContext)
+        protected override List<string> ExecuteCore(TravelerSkillExecutionContext executionContext)
             => ExecuteFirstAid(executionContext.Traveler, executionContext.TurnOutcome, executionContext.SelectedSkill);
     }
 
     private sealed class VivifyTravelerSkillBehavior : ExactNameTravelerSkillBehavior
     {
-        public VivifyTravelerSkillBehavior()
+        internal VivifyTravelerSkillBehavior()
             : base("Vivify")
         {
         }
 
-        public override List<string> Execute(TravelerSkillExecutionContext executionContext)
+        protected override List<string> ExecuteCore(TravelerSkillExecutionContext executionContext)
             => ExecuteVivify(executionContext.Traveler, executionContext.TurnOutcome, executionContext.SelectedSkill);
     }
 
     private sealed class ReviveTravelerSkillBehavior : ExactNameTravelerSkillBehavior
     {
-        public ReviveTravelerSkillBehavior()
+        internal ReviveTravelerSkillBehavior()
             : base("Revive")
         {
         }
 
-        public override List<string> Execute(TravelerSkillExecutionContext executionContext)
+        protected override List<string> ExecuteCore(TravelerSkillExecutionContext executionContext)
             => ExecuteRevive(executionContext.Traveler, executionContext.BattleState);
     }
 
     private sealed class ShootingStarsTravelerSkillBehavior : ExactNameTravelerSkillBehavior
     {
-        public ShootingStarsTravelerSkillBehavior()
+        internal ShootingStarsTravelerSkillBehavior()
             : base("Shooting Stars")
         {
         }
 
-        public override List<string> Execute(TravelerSkillExecutionContext executionContext)
+        protected override List<string> ExecuteCore(TravelerSkillExecutionContext executionContext)
             => ExecuteShootingStars(executionContext.Traveler, executionContext.BattleState, executionContext.SelectedSkill);
     }
 
     private sealed class NightmareChimeraTravelerSkillBehavior : ExactNameTravelerSkillBehavior
     {
-        public NightmareChimeraTravelerSkillBehavior()
+        internal NightmareChimeraTravelerSkillBehavior()
             : base("Nightmare Chimera")
         {
         }
 
-        public override List<string> Execute(TravelerSkillExecutionContext executionContext)
+        protected override List<string> ExecuteCore(TravelerSkillExecutionContext executionContext)
             => ExecuteNightmareChimera(executionContext.Traveler, executionContext.TurnOutcome, executionContext.SelectedSkill);
     }
 
     private sealed class LastStandTravelerSkillBehavior : ExactNameTravelerSkillBehavior
     {
-        public LastStandTravelerSkillBehavior()
+        internal LastStandTravelerSkillBehavior()
             : base("Last Stand")
         {
         }
 
-        public override List<string> Execute(TravelerSkillExecutionContext executionContext)
+        protected override List<string> ExecuteCore(TravelerSkillExecutionContext executionContext)
             => ExecuteLastStand(executionContext.Traveler, executionContext.BattleState, executionContext.SelectedSkill);
     }
 
     private sealed class MercyStrikeTravelerSkillBehavior : ExactNameTravelerSkillBehavior
     {
-        public MercyStrikeTravelerSkillBehavior()
+        internal MercyStrikeTravelerSkillBehavior()
             : base("Mercy Strike")
         {
         }
 
-        public override List<string> Execute(TravelerSkillExecutionContext executionContext)
+        protected override List<string> ExecuteCore(TravelerSkillExecutionContext executionContext)
             => ExecuteMercyStrike(executionContext.Traveler, executionContext.TurnOutcome, executionContext.SelectedSkill);
     }
 
     private sealed class PartyHealingTravelerSkillBehavior : SkillNameSetTravelerSkillBehavior
     {
-        public PartyHealingTravelerSkillBehavior()
+        internal PartyHealingTravelerSkillBehavior()
             : base(PartyHealingSkills)
         {
         }
 
-        public override List<string> Execute(TravelerSkillExecutionContext executionContext)
+        protected override List<string> ExecuteCore(TravelerSkillExecutionContext executionContext)
             => ExecutePartyHealing(executionContext.Traveler, executionContext.BattleState, executionContext.SelectedSkill);
     }
 
     private sealed class StandardOffensiveTravelerSkillBehavior : SkillNameSetTravelerSkillBehavior
     {
-        public StandardOffensiveTravelerSkillBehavior()
+        internal StandardOffensiveTravelerSkillBehavior()
             : base(BasicOffensiveSkills)
         {
         }
 
-        public override List<string> Execute(TravelerSkillExecutionContext executionContext)
+        protected override List<string> ExecuteCore(TravelerSkillExecutionContext executionContext)
             => ExecuteStandardOffensiveSkill(executionContext.SkillExecutionRequest, executionContext.SelectedSkill);
     }
 
@@ -681,4 +685,5 @@ public sealed class TravelerSkillExecutor
     }
 
 }
+
 

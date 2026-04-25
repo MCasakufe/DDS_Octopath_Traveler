@@ -22,6 +22,10 @@ public class TestingView : AbstractView
     private bool IsUserInputLine(string scriptLine)
         => scriptLine.StartsWith(InputKeyword);
 
+    protected override void RenderOutput(string text)
+    {
+    }
+
     protected override string GetNextInput()
     {
         if (_inputsFromUser.Any())

@@ -69,14 +69,14 @@ public sealed class BeastAttackExecutor
     public BeastAttack? ExecuteAttack(BeastCombatUnit beast, BattleState battleState)
     {
         IReadOnlyList<TravelerCombatUnit> targets = SelectTargetTravelers(
-            beast.AssignedSkill.Name,
-            beast.AssignedSkill.Target,
+            beast.GetAssignedSkillName(),
+            beast.GetAssignedSkillTargetType(),
             battleState);
         if (targets.Count == 0)
             return null;
 
-        BeastDamageKind damageKind = DetermineDamageKind(beast.AssignedSkill.Name);
-        int hitCount = DetermineHitCount(beast.AssignedSkill.Hits, damageKind);
+        BeastDamageKind damageKind = DetermineDamageKind(beast.GetAssignedSkillName());
+        int hitCount = DetermineHitCount(beast.GetAssignedSkillHits(), damageKind);
         if (hitCount == 0)
             return null;
 
@@ -84,7 +84,7 @@ public sealed class BeastAttackExecutor
         if (resultLines.Count == 0)
             return null;
 
-        return new BeastAttack(beast.Name, beast.AssignedSkill.Name, resultLines);
+        return new BeastAttack(beast.Name, beast.GetAssignedSkillName(), resultLines);
     }
 
     private static IReadOnlyList<string> BuildResultLines(
@@ -101,7 +101,7 @@ public sealed class BeastAttackExecutor
                 if (ShouldPrintDefendMessage(target, damageKind))
                     resultLines.Add($"{target.Name} se defiende");
 
-                int damage = ApplyDamage(attacker, target, attacker.AssignedSkill.Modifier, damageKind);
+                int damage = ApplyDamage(attacker, target, attacker.GetAssignedSkillModifier(), damageKind);
                 resultLines.Add(BuildDamageLine(target.Name, damage, damageKind));
             }
         }
@@ -119,7 +119,7 @@ public sealed class BeastAttackExecutor
         BeastDamageKind damageKind)
     {
         int damage = CalculateDamage(attacker, target, modifier, damageKind);
-        target.CurrentHp = Math.Max(0, target.CurrentHp - damage);
+        target.ReceiveDamage(damage);
         return damage;
     }
 
@@ -243,8 +243,14 @@ public sealed class BeastAttackExecutor
 
     private abstract class BeastSingleTargetSelector
     {
-        public abstract bool Matches(string skillName);
-        public abstract TravelerCombatUnit? SelectTarget(IReadOnlyList<TravelerCombatUnit> aliveTravelers);
+        protected abstract bool MatchesCore(string skillName);
+        protected abstract TravelerCombatUnit? SelectTargetCore(IReadOnlyList<TravelerCombatUnit> aliveTravelers);
+
+        public bool Matches(string skillName)
+            => MatchesCore(skillName);
+
+        public TravelerCombatUnit? SelectTarget(IReadOnlyList<TravelerCombatUnit> aliveTravelers)
+            => SelectTargetCore(aliveTravelers);
     }
 
     private abstract class SkillNameSetBeastSingleTargetSelector : BeastSingleTargetSelector
@@ -256,60 +262,78 @@ public sealed class BeastAttackExecutor
             _skillNames = skillNames;
         }
 
-        public sealed override bool Matches(string skillName)
+        protected sealed override bool MatchesCore(string skillName)
             => _skillNames.Contains(skillName);
     }
 
-    private sealed class HighestElemAtkBeastSingleTargetSelector : SkillNameSetBeastSingleTargetSelector
+    private abstract class OrderedSkillNameSetBeastSingleTargetSelector : SkillNameSetBeastSingleTargetSelector
     {
-        public HighestElemAtkBeastSingleTargetSelector()
+        protected OrderedSkillNameSetBeastSingleTargetSelector(IReadOnlySet<string> skillNames)
+            : base(skillNames)
+        {
+        }
+
+        protected sealed override TravelerCombatUnit? SelectTargetCore(IReadOnlyList<TravelerCombatUnit> aliveTravelers)
+            => OrderTargets(aliveTravelers).FirstOrDefault();
+
+        protected abstract IOrderedEnumerable<TravelerCombatUnit> OrderTargets(
+            IReadOnlyList<TravelerCombatUnit> aliveTravelers);
+    }
+
+    private sealed class HighestElemAtkBeastSingleTargetSelector : OrderedSkillNameSetBeastSingleTargetSelector
+    {
+        internal HighestElemAtkBeastSingleTargetSelector()
             : base(HighestElemAtkTargetSkills)
         {
         }
 
-        public override TravelerCombatUnit? SelectTarget(IReadOnlyList<TravelerCombatUnit> aliveTravelers)
-            => OrderByHighestElemAtk(aliveTravelers).FirstOrDefault();
+        protected override IOrderedEnumerable<TravelerCombatUnit> OrderTargets(
+            IReadOnlyList<TravelerCombatUnit> aliveTravelers)
+            => OrderByHighestElemAtk(aliveTravelers);
     }
 
-    private sealed class LowestPhysDefBeastSingleTargetSelector : SkillNameSetBeastSingleTargetSelector
+    private sealed class LowestPhysDefBeastSingleTargetSelector : OrderedSkillNameSetBeastSingleTargetSelector
     {
-        public LowestPhysDefBeastSingleTargetSelector()
+        internal LowestPhysDefBeastSingleTargetSelector()
             : base(LowestPhysDefTargetSkills)
         {
         }
 
-        public override TravelerCombatUnit? SelectTarget(IReadOnlyList<TravelerCombatUnit> aliveTravelers)
-            => OrderByLowestPhysDef(aliveTravelers).FirstOrDefault();
+        protected override IOrderedEnumerable<TravelerCombatUnit> OrderTargets(
+            IReadOnlyList<TravelerCombatUnit> aliveTravelers)
+            => OrderByLowestPhysDef(aliveTravelers);
     }
 
-    private sealed class HighestSpeedBeastSingleTargetSelector : SkillNameSetBeastSingleTargetSelector
+    private sealed class HighestSpeedBeastSingleTargetSelector : OrderedSkillNameSetBeastSingleTargetSelector
     {
-        public HighestSpeedBeastSingleTargetSelector()
+        internal HighestSpeedBeastSingleTargetSelector()
             : base(HighestSpeedTargetSkills)
         {
         }
 
-        public override TravelerCombatUnit? SelectTarget(IReadOnlyList<TravelerCombatUnit> aliveTravelers)
-            => OrderByHighestSpeed(aliveTravelers).FirstOrDefault();
+        protected override IOrderedEnumerable<TravelerCombatUnit> OrderTargets(
+            IReadOnlyList<TravelerCombatUnit> aliveTravelers)
+            => OrderByHighestSpeed(aliveTravelers);
     }
 
-    private sealed class LowestElemDefBeastSingleTargetSelector : SkillNameSetBeastSingleTargetSelector
+    private sealed class LowestElemDefBeastSingleTargetSelector : OrderedSkillNameSetBeastSingleTargetSelector
     {
-        public LowestElemDefBeastSingleTargetSelector()
+        internal LowestElemDefBeastSingleTargetSelector()
             : base(LowestElemDefTargetSkills)
         {
         }
 
-        public override TravelerCombatUnit? SelectTarget(IReadOnlyList<TravelerCombatUnit> aliveTravelers)
-            => OrderByLowestElemDef(aliveTravelers).FirstOrDefault();
+        protected override IOrderedEnumerable<TravelerCombatUnit> OrderTargets(
+            IReadOnlyList<TravelerCombatUnit> aliveTravelers)
+            => OrderByLowestElemDef(aliveTravelers);
     }
 
     private sealed class HighestCurrentHpBeastSingleTargetSelector : BeastSingleTargetSelector
     {
-        public override bool Matches(string skillName)
+        protected override bool MatchesCore(string skillName)
             => true;
 
-        public override TravelerCombatUnit? SelectTarget(IReadOnlyList<TravelerCombatUnit> aliveTravelers)
+        protected override TravelerCombatUnit? SelectTargetCore(IReadOnlyList<TravelerCombatUnit> aliveTravelers)
             => OrderByHighestCurrentHp(aliveTravelers).FirstOrDefault();
     }
 }

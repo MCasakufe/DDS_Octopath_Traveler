@@ -75,7 +75,7 @@ public sealed class BeastDamageResolver
         int uncappedDamage = Math.Max(0, (int)Math.Floor(rawDamage));
         int damage = ApplyDamageCap(uncappedDamage, target.CurrentHp, damageCap);
 
-        target.CurrentHp = Math.Max(0, target.CurrentHp - damage);
+        target.ReceiveDamage(damage);
         bool enteredBreakingPoint = TryEnterBreakingPoint(new BreakingPointAttempt(
             target,
             isWeaknessHit,
@@ -105,14 +105,7 @@ public sealed class BeastDamageResolver
             return false;
 
         BeastCombatUnit target = breakingPointAttempt.Target;
-        target.CurrentShields -= 1;
-        if (target.CurrentShields > 0)
-            return false;
-
-        target.CurrentShields = NoShieldsRemaining;
-        target.RemainingBreakingRounds = BreakingRoundsDuration;
-        target.HasRecoveryPriorityCurrentRound = false;
-        return true;
+        return target.ConsumeShieldAndTryEnterBreakingPoint(BreakingRoundsDuration);
     }
 
     private static bool CanEnterBreakingPoint(BreakingPointAttempt breakingPointAttempt)
