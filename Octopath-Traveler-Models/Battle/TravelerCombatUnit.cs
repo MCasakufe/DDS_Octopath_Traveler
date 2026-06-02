@@ -12,56 +12,28 @@ public sealed class TravelerCombatUnit
     private const int MaxActionBp = 3;
     private const int MinimumRemainingStatValue = 0;
     private const int MaxTravelerBp = 5;
-    private const int VimAndVigorHealingDivisor = 10;
-    private const int SecondWindRecoveryDivisor = 20;
-
-    private static readonly IReadOnlyDictionary<string, PassiveStatBonus> PassiveBonusesByName
-        = new Dictionary<string, PassiveStatBonus>(StringComparer.Ordinal)
-        {
-            ["Elemental Augmentation"] = new(0, 0, 0, 50, 0),
-            ["Summon Strength"] = new(0, 0, 50, 0, 0),
-            ["Hale and Hearty"] = new(500, 0, 0, 0, 0),
-            ["Fleefoot"] = new(0, 0, 0, 0, 50),
-            ["Inner Strength"] = new(0, 50, 0, 0, 0)
-        };
 
     public TravelerCombatUnit(
         TravelerDefinition travelerDefinition,
         TravelerSetup travelerSetup,
         RuntimeDataCatalog runtimeDataCatalog,
-        int boardSlotIndex)
-        : this(
-            travelerDefinition,
-            travelerSetup,
-            runtimeDataCatalog,
-            boardSlotIndex,
-            AnalyzePassiveEffects(travelerSetup.PassiveSkills))
-    {
-    }
-
-    private TravelerCombatUnit(
-        TravelerDefinition travelerDefinition,
-        TravelerSetup travelerSetup,
-        RuntimeDataCatalog runtimeDataCatalog,
         int boardSlotIndex,
-        PassiveEffects passiveEffects)
+        PassiveSkillProfile passiveSkillProfile)
         : base(
             travelerDefinition.Name,
-            travelerDefinition.MaxHp + passiveEffects.StatBonuses.MaxHpBonus,
-            ResolveFinalPhysAtk(travelerDefinition, passiveEffects),
+            travelerDefinition.MaxHp + passiveSkillProfile.StatBonuses.MaxHpBonus,
+            ResolveFinalPhysAtk(travelerDefinition, passiveSkillProfile),
             travelerDefinition.PhysDef,
-            ResolveFinalElemAtk(travelerDefinition, passiveEffects),
+            ResolveFinalElemAtk(travelerDefinition, passiveSkillProfile),
             travelerDefinition.ElemDef,
-            travelerDefinition.Speed + passiveEffects.StatBonuses.SpeedBonus,
+            travelerDefinition.Speed + passiveSkillProfile.StatBonuses.SpeedBonus,
             boardSlotIndex)
     {
-        MaxSp = travelerDefinition.MaxSp + passiveEffects.StatBonuses.MaxSpBonus;
+        MaxSp = travelerDefinition.MaxSp + passiveSkillProfile.StatBonuses.MaxSpBonus;
         CurrentSp = MaxSp;
-        CurrentBp = passiveEffects.HasBoostStart
+        CurrentBp = passiveSkillProfile.HasBoostStart
             ? BaseStartingBp + BoostStartBpBonus
             : BaseStartingBp;
-        HasVimAndVigor = passiveEffects.HasVimAndVigor;
-        HasSecondWind = passiveEffects.HasSecondWind;
         Weapons = travelerDefinition.Weapons.ToList();
         AssignedActiveSkillNames = travelerSetup.ActiveSkills.ToList();
         AssignedActiveSkills = travelerSetup.ActiveSkills
@@ -98,10 +70,6 @@ public sealed class TravelerCombatUnit
 
     public bool SpentBpThisRound { get; set; }
 
-    public bool HasVimAndVigor { get; }
-
-    public bool HasSecondWind { get; }
-
     public void EnterDefendState()
     {
         IsDefendingCurrentRound = true;
@@ -134,6 +102,12 @@ public sealed class TravelerCombatUnit
         CurrentHp = Math.Min(MaxHp, CurrentHp + normalizedHealingAmount);
     }
 
+    public void RecoverSp(int spAmount)
+    {
+        int normalizedSpAmount = Math.Max(0, spAmount);
+        CurrentSp = Math.Min(MaxSp, CurrentSp + normalizedSpAmount);
+    }
+
     public void ReviveForNextRound(int revivedHp)
     {
         CurrentHp = Math.Clamp(revivedHp, MinimumRemainingStatValue, MaxHp);
@@ -142,18 +116,6 @@ public sealed class TravelerCombatUnit
 
     public void QueueIncreasedPriorityForNextRound()
         => HasPendingIncreasedPriority = true;
-
-    public void ApplyRoundEndPassiveRecovery()
-    {
-        if (!IsAlive)
-            return;
-
-        if (HasVimAndVigor)
-            RecoverHp(MaxHp / VimAndVigorHealingDivisor);
-
-        if (HasSecondWind)
-            CurrentSp = Math.Min(MaxSp, CurrentSp + MaxSp / SecondWindRecoveryDivisor);
-    }
 
     public void PrepareRoundStateForNextRound()
     {
@@ -175,77 +137,28 @@ public sealed class TravelerCombatUnit
 
     private static SkillDefinition ResolveAssignedActiveSkill(RuntimeDataCatalog runtimeDataCatalog, string skillName)
     {
-        if (!runtimeDataCatalog.TryGetActiveSkill(skillName, out SkillDefinition? skillDefinition) || skillDefinition is null)
+        SkillDefinition? skillDefinition = runtimeDataCatalog.SelectActiveSkillOrNull(skillName);
+        if (skillDefinition is null)
             throw new RuntimeDataCatalogLoadException($"Active skill definition '{skillName}' is not available.");
 
         return skillDefinition;
     }
 
-    private static PassiveEffects AnalyzePassiveEffects(IEnumerable<string> passiveSkillNames)
+    private static int ResolveFinalPhysAtk(
+        TravelerDefinition travelerDefinition,
+        PassiveSkillProfile passiveSkillProfile)
     {
-        bool hasBoostStart = false;
-        bool hasStatSwap = false;
-        bool hasVimAndVigor = false;
-        bool hasSecondWind = false;
-        PassiveStatBonus bonuses = PassiveStatBonus.None;
-
-        foreach (string passiveSkillName in passiveSkillNames)
-        {
-            if (PassiveBonusesByName.TryGetValue(passiveSkillName, out PassiveStatBonus passiveBonus))
-                bonuses = bonuses.Add(passiveBonus);
-
-            hasBoostStart = hasBoostStart || passiveSkillName == "Boost Start";
-            hasStatSwap = hasStatSwap || passiveSkillName == "Stat Swap";
-            hasVimAndVigor = hasVimAndVigor || passiveSkillName == "Vim and Vigor";
-            hasSecondWind = hasSecondWind || passiveSkillName == "Second Wind";
-        }
-
-        return new PassiveEffects(
-            bonuses,
-            hasBoostStart,
-            hasStatSwap,
-            hasVimAndVigor,
-            hasSecondWind);
+        int basePhysAtk = travelerDefinition.PhysAtk + passiveSkillProfile.StatBonuses.PhysAtkBonus;
+        int baseElemAtk = travelerDefinition.ElemAtk + passiveSkillProfile.StatBonuses.ElemAtkBonus;
+        return passiveSkillProfile.HasStatSwap ? baseElemAtk : basePhysAtk;
     }
 
-    private static int ResolveFinalPhysAtk(TravelerDefinition travelerDefinition, PassiveEffects passiveEffects)
+    private static int ResolveFinalElemAtk(
+        TravelerDefinition travelerDefinition,
+        PassiveSkillProfile passiveSkillProfile)
     {
-        int basePhysAtk = travelerDefinition.PhysAtk + passiveEffects.StatBonuses.PhysAtkBonus;
-        int baseElemAtk = travelerDefinition.ElemAtk + passiveEffects.StatBonuses.ElemAtkBonus;
-        return passiveEffects.HasStatSwap ? baseElemAtk : basePhysAtk;
-    }
-
-    private static int ResolveFinalElemAtk(TravelerDefinition travelerDefinition, PassiveEffects passiveEffects)
-    {
-        int basePhysAtk = travelerDefinition.PhysAtk + passiveEffects.StatBonuses.PhysAtkBonus;
-        int baseElemAtk = travelerDefinition.ElemAtk + passiveEffects.StatBonuses.ElemAtkBonus;
-        return passiveEffects.HasStatSwap ? basePhysAtk : baseElemAtk;
-    }
-
-    private readonly record struct PassiveEffects(
-        PassiveStatBonus StatBonuses,
-        bool HasBoostStart,
-        bool HasStatSwap,
-        bool HasVimAndVigor,
-        bool HasSecondWind);
-
-    private readonly record struct PassiveStatBonus(
-        int MaxHpBonus,
-        int MaxSpBonus,
-        int PhysAtkBonus,
-        int ElemAtkBonus,
-        int SpeedBonus)
-    {
-        public static PassiveStatBonus None => new(0, 0, 0, 0, 0);
-
-        public PassiveStatBonus Add(PassiveStatBonus other)
-        {
-            return new PassiveStatBonus(
-                MaxHpBonus + other.MaxHpBonus,
-                MaxSpBonus + other.MaxSpBonus,
-                PhysAtkBonus + other.PhysAtkBonus,
-                ElemAtkBonus + other.ElemAtkBonus,
-                SpeedBonus + other.SpeedBonus);
-        }
+        int basePhysAtk = travelerDefinition.PhysAtk + passiveSkillProfile.StatBonuses.PhysAtkBonus;
+        int baseElemAtk = travelerDefinition.ElemAtk + passiveSkillProfile.StatBonuses.ElemAtkBonus;
+        return passiveSkillProfile.HasStatSwap ? basePhysAtk : baseElemAtk;
     }
 }

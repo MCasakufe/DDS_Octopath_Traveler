@@ -55,12 +55,18 @@ public sealed record RuntimeDataCatalog(
     IReadOnlySet<string> PassiveSkillNames,
     IReadOnlySet<string> BeastSkillNames)
 {
-    public bool TryGetActiveSkill(string skillName, out SkillDefinition? skillDefinition)
-        => ActiveSkillsByName.TryGetValue(skillName, out skillDefinition);
+    public SkillDefinition? SelectActiveSkillOrNull(string skillName)
+        => ActiveSkillsByName.TryGetValue(skillName, out SkillDefinition? skillDefinition)
+            ? skillDefinition
+            : null;
 
-    public bool TryGetBeastSkill(string skillName, out BeastSkillDefinition? skillDefinition)
-        => BeastSkillsByName.TryGetValue(skillName, out skillDefinition);
+    public BeastSkillDefinition? SelectBeastSkillOrNull(string skillName)
+        => BeastSkillsByName.TryGetValue(skillName, out BeastSkillDefinition? skillDefinition)
+            ? skillDefinition
+            : null;
 
-    public bool TryGetPassiveSkill(string skillName, out PassiveSkillDefinition? skillDefinition)
-        => PassiveSkillsByName.TryGetValue(skillName, out skillDefinition);
+    public PassiveSkillDefinition? SelectPassiveSkillOrNull(string skillName)
+        => PassiveSkillsByName.TryGetValue(skillName, out PassiveSkillDefinition? skillDefinition)
+            ? skillDefinition
+            : null;
 }

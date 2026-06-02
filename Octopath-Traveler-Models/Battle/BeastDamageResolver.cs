@@ -60,34 +60,53 @@ public sealed class BeastDamageResolver
         double bonusDamageMultiplier,
         DamageCapType damageCap)
     {
-        BeastCombatUnit target = hitRequest.Target;
-        bool isWeaknessHit = target.Weaknesses.Contains(hitRequest.DamageType);
-        bool isTargetInBreakingStateBeforeHit = target.RemainingBreakingRounds > 0;
-
-        int attackStat = IsPhysicalDamageType(hitRequest.DamageType)
-            ? hitRequest.AttackerPhysAtk
-            : hitRequest.AttackerElemAtk;
-        int defenseStat = IsPhysicalDamageType(hitRequest.DamageType) ? target.PhysDef : target.ElemDef;
-
-        double statusMultiplier = CalculateStatusDamageMultiplier(
-            ResolveStatusDamageContext(new HitStatus(isWeaknessHit, isTargetInBreakingStateBeforeHit)));
-        double rawDamage = (attackStat * hitRequest.SkillModifier - defenseStat) * statusMultiplier * bonusDamageMultiplier;
-        int uncappedDamage = Math.Max(0, (int)Math.Floor(rawDamage));
-        int damage = ApplyDamageCap(uncappedDamage, target.CurrentHp, damageCap);
-
-        target.ReceiveDamage(damage);
-        bool enteredBreakingPoint = TryEnterBreakingPoint(new BreakingPointAttempt(
-            target,
-            isWeaknessHit,
-            damage,
-            isTargetInBreakingStateBeforeHit));
+        BeastHitCalculation calculation = CalculateHitDamage(new BeastHitCalculationRequest(
+            hitRequest,
+            bonusDamageMultiplier,
+            damageCap));
+        ApplyHitDamage(hitRequest.Target, calculation.Damage);
+        bool enteredBreakingPoint = ApplyBreakingPointEntryIfEligible(new BreakingPointAttempt(
+            hitRequest.Target,
+            calculation.IsWeaknessHit,
+            calculation.Damage,
+            calculation.WasTargetInBreakingState));
 
         return new BeastDamageResolution(
-            damage,
-            target.CurrentHp,
-            isWeaknessHit,
+            calculation.Damage,
+            hitRequest.Target.CurrentHp,
+            calculation.IsWeaknessHit,
             enteredBreakingPoint);
     }
+
+    private static BeastHitCalculation CalculateHitDamage(BeastHitCalculationRequest calculationRequest)
+    {
+        BeastHitRequest hitRequest = calculationRequest.HitRequest;
+        bool isWeaknessHit = hitRequest.Target.Weaknesses.Contains(hitRequest.DamageType);
+        bool wasTargetInBreakingState = hitRequest.Target.RemainingBreakingRounds > 0;
+        int uncappedDamage = CalculateUncappedDamage(new BeastHitStatusCalculation(
+            hitRequest,
+            calculationRequest.BonusDamageMultiplier,
+            new HitStatus(isWeaknessHit, wasTargetInBreakingState)));
+        int damage = ApplyDamageCap(uncappedDamage, hitRequest.Target.CurrentHp, calculationRequest.DamageCap);
+
+        return new BeastHitCalculation(damage, isWeaknessHit, wasTargetInBreakingState);
+    }
+
+    private static int CalculateUncappedDamage(BeastHitStatusCalculation statusCalculation)
+    {
+        BeastHitRequest hitRequest = statusCalculation.HitRequest;
+        int attackStat = SelectAttackStat(hitRequest);
+        int defenseStat = SelectDefenseStat(hitRequest);
+        double statusMultiplier = CalculateStatusDamageMultiplier(
+            ResolveStatusDamageContext(statusCalculation.HitStatus));
+        double rawDamage = (attackStat * hitRequest.SkillModifier - defenseStat)
+                           * statusMultiplier
+                           * statusCalculation.BonusDamageMultiplier;
+        return Math.Max(ZeroDamage, (int)Math.Floor(rawDamage));
+    }
+
+    private static void ApplyHitDamage(BeastCombatUnit target, int damage)
+        => target.ReceiveDamage(damage);
 
     private static int ApplyDamageCap(int uncappedDamage, int targetCurrentHp, DamageCapType damageCap)
     {
@@ -98,14 +117,13 @@ public sealed class BeastDamageResolver
         return Math.Min(uncappedDamage, maximumAllowedDamage);
     }
 
-    private static bool TryEnterBreakingPoint(
+    private static bool ApplyBreakingPointEntryIfEligible(
         BreakingPointAttempt breakingPointAttempt)
     {
         if (!CanEnterBreakingPoint(breakingPointAttempt))
             return false;
 
-        BeastCombatUnit target = breakingPointAttempt.Target;
-        return target.ConsumeShieldAndTryEnterBreakingPoint(BreakingRoundsDuration);
+        return EnterBreakingPoint(breakingPointAttempt.Target);
     }
 
     private static bool CanEnterBreakingPoint(BreakingPointAttempt breakingPointAttempt)
@@ -113,6 +131,16 @@ public sealed class BeastDamageResolver
            && breakingPointAttempt.Damage > ZeroDamage
            && !breakingPointAttempt.WasTargetInBreakingState
            && breakingPointAttempt.Target.CurrentShields > NoShieldsRemaining;
+
+    private static bool EnterBreakingPoint(BeastCombatUnit target)
+    {
+        target.ConsumeShield();
+        if (!target.HasNoShieldsRemaining())
+            return false;
+
+        target.EnterBreakingPoint(BreakingRoundsDuration);
+        return true;
+    }
 
     private static StatusDamageContext ResolveStatusDamageContext(
         HitStatus hitStatus)
@@ -146,6 +174,16 @@ public sealed class BeastDamageResolver
     private static bool IsPhysicalDamageType(string damageType)
         => PhysicalDamageTypes.Contains(damageType);
 
+    private static int SelectAttackStat(BeastHitRequest hitRequest)
+        => IsPhysicalDamageType(hitRequest.DamageType)
+            ? hitRequest.AttackerPhysAtk
+            : hitRequest.AttackerElemAtk;
+
+    private static int SelectDefenseStat(BeastHitRequest hitRequest)
+        => IsPhysicalDamageType(hitRequest.DamageType)
+            ? hitRequest.Target.PhysDef
+            : hitRequest.Target.ElemDef;
+
     private enum DamageCapType
     {
         None,
@@ -157,6 +195,21 @@ public sealed class BeastDamageResolver
         bool IsWeaknessHit,
         int Damage,
         bool WasTargetInBreakingState);
+
+    private sealed record BeastHitCalculation(
+        int Damage,
+        bool IsWeaknessHit,
+        bool WasTargetInBreakingState);
+
+    private sealed record BeastHitCalculationRequest(
+        BeastHitRequest HitRequest,
+        double BonusDamageMultiplier,
+        DamageCapType DamageCap);
+
+    private sealed record BeastHitStatusCalculation(
+        BeastHitRequest HitRequest,
+        double BonusDamageMultiplier,
+        HitStatus HitStatus);
 
     private sealed record HitStatus(
         bool IsWeaknessHit,

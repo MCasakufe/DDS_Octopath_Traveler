@@ -76,12 +76,18 @@ public sealed class Game
     {
         PhysicalAttackDamageCalculator damageCalculator = new();
         PhysicalAttackExecutionService physicalAttackExecutionService = new(damageCalculator);
+        BattleConsoleView battleConsoleView = new(view);
+        TravelerBasicAttackExecutor travelerBasicAttackExecutor = new(physicalAttackExecutionService);
+        TravelerSkillExecutor travelerSkillExecutor = new();
+        BeastAttackExecutor beastAttackExecutor = new();
         return new BattleLoopRunner(
             new RoundTurnQueueBuilder(),
-            new BattleConsoleView(view),
-            new TravelerBasicAttackExecutor(physicalAttackExecutionService),
-            new TravelerSkillExecutor(),
-            new BeastAttackExecutor(),
+            battleConsoleView,
+            new TravelerBasicAttackTurnCommand(travelerBasicAttackExecutor, battleConsoleView),
+            new TravelerSkillTurnCommand(travelerSkillExecutor, battleConsoleView),
+            new TravelerDefendTurnCommand(),
+            new TravelerFleeTurnCommand(battleConsoleView),
+            new BeastActionTurnCommand(beastAttackExecutor, battleConsoleView),
             new BattleWinnerEvaluator());
     }
 }

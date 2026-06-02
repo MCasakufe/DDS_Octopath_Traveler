@@ -13,4 +13,17 @@
       <ProjectReference Include="..\Octopath-Traveler-Models\Octopath-Traveler-Models.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <PackageReference Include="Avalonia" Version="12.0.4" />
+      <PackageReference Include="Avalonia.Desktop" Version="12.0.4" />
+      <PackageReference Include="Avalonia.Themes.Fluent" Version="12.0.4" />
+      <PackageReference Include="CommunityToolkit.Mvvm" Version="8.4.2" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Reference Include="OctopathTravelerGUI">
+        <HintPath>..\Octopath-Traveler-View\GuiLib\OctopathTravelerGUI.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
 </Project>

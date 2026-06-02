@@ -6,6 +6,7 @@ namespace Octopath_Traveler_Models.Battle;
 public sealed class TeamSetupBattleStateFactory
 {
     private readonly RuntimeDataCatalogProvider _runtimeDataCatalogProvider;
+    private readonly PassiveSkillProfileFactory _passiveSkillProfileFactory = new();
 
     public TeamSetupBattleStateFactory(RuntimeDataCatalogProvider runtimeDataCatalogProvider)
     {
@@ -24,7 +25,9 @@ public sealed class TeamSetupBattleStateFactory
         return new BattleState(1, travelerTeam, beastTeam);
     }
 
-    private static IReadOnlyList<TravelerCombatUnit>? TryCreateTravelerTeam(TeamSetup teamSetup, RuntimeDataCatalog runtimeDataCatalog)
+    private IReadOnlyList<TravelerCombatUnit>? TryCreateTravelerTeam(
+        TeamSetup teamSetup,
+        RuntimeDataCatalog runtimeDataCatalog)
     {
         List<TravelerCombatUnit> travelerTeam = [];
         for (int boardSlotIndex = 0; boardSlotIndex < teamSetup.Travelers.Count; boardSlotIndex++)
@@ -34,7 +37,7 @@ public sealed class TeamSetupBattleStateFactory
                 || travelerDefinition is null)
                 return null;
 
-            travelerTeam.Add(new TravelerCombatUnit(
+            travelerTeam.Add(CreateTravelerCombatUnit(
                 travelerDefinition,
                 travelerSetup,
                 runtimeDataCatalog,
@@ -42,6 +45,21 @@ public sealed class TeamSetupBattleStateFactory
         }
 
         return travelerTeam;
+    }
+
+    private TravelerCombatUnit CreateTravelerCombatUnit(
+        TravelerDefinition travelerDefinition,
+        TravelerSetup travelerSetup,
+        RuntimeDataCatalog runtimeDataCatalog,
+        int boardSlotIndex)
+    {
+        PassiveSkillProfile passiveSkillProfile = _passiveSkillProfileFactory.Create(travelerSetup.PassiveSkills);
+        return new TravelerCombatUnit(
+            travelerDefinition,
+            travelerSetup,
+            runtimeDataCatalog,
+            boardSlotIndex,
+            passiveSkillProfile);
     }
 
     private static IReadOnlyList<BeastCombatUnit>? TryCreateBeastTeam(TeamSetup teamSetup, RuntimeDataCatalog runtimeDataCatalog)
@@ -54,8 +72,8 @@ public sealed class TeamSetupBattleStateFactory
                 || beastDefinition is null)
                 return null;
 
-            if (!runtimeDataCatalog.TryGetBeastSkill(beastDefinition.SkillName, out BeastSkillDefinition? skillDefinition)
-                || skillDefinition is null)
+            BeastSkillDefinition? skillDefinition = runtimeDataCatalog.SelectBeastSkillOrNull(beastDefinition.SkillName);
+            if (skillDefinition is null)
                 return null;
 
             beastTeam.Add(new BeastCombatUnit(beastDefinition, skillDefinition, boardSlotIndex));

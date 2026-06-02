@@ -70,16 +70,22 @@ public sealed class BeastCombatUnit
         CurrentHp = Math.Max(0, CurrentHp - normalizedDamage);
     }
 
-    public bool ConsumeShieldAndTryEnterBreakingPoint(int breakingRoundsDuration)
+    public void ConsumeShield()
     {
-        CurrentShields -= 1;
-        if (CurrentShields > NoShields)
-            return false;
+        if (CurrentShields <= NoShields)
+            return;
 
+        CurrentShields -= 1;
+    }
+
+    public bool HasNoShieldsRemaining()
+        => CurrentShields <= NoShields;
+
+    public void EnterBreakingPoint(int breakingRoundsDuration)
+    {
         CurrentShields = NoShields;
         RemainingBreakingRounds = breakingRoundsDuration;
         HasRecoveryPriorityCurrentRound = false;
-        return true;
     }
 
     public void PrepareRoundStateForNextRound()

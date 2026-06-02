@@ -1,0 +1,3 @@
+namespace Octopath_Traveler_Models.Battle;
+
+internal sealed record PassiveExtraTurnEligibilityContext(ICollection<int> TravelersWithGrantedExtraTurn);

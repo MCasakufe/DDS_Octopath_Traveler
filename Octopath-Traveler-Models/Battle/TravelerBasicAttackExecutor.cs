@@ -20,53 +20,42 @@ public sealed record TravelerBasicAttackExecutionRequest(
 
 public sealed class TravelerBasicAttackExecutor
 {
-    private const double BasicAttackModifier = 1.3;
-
-    private readonly BeastDamageResolver _beastDamageResolver;
+    private readonly TravelerBasicAttackHitExecutor _hitExecutor;
 
     public TravelerBasicAttackExecutor(PhysicalAttackExecutionService physicalAttackExecutionService)
     {
         _ = physicalAttackExecutionService;
-        _beastDamageResolver = new BeastDamageResolver();
+        _hitExecutor = new TravelerBasicAttackHitExecutor(new BeastDamageResolver());
     }
 
     public TravelerBasicAttack ExecuteAttack(TravelerBasicAttackExecutionRequest executionRequest)
     {
-        TravelerCombatUnit traveler = executionRequest.Traveler;
-        BeastCombatUnit target = executionRequest.Target;
-        string weaponType = executionRequest.WeaponType;
-        int usedBp = executionRequest.UsedBp;
-
-        int boostHits = Math.Max(0, usedBp);
-        int hitCount = 1 + boostHits;
-        List<TravelerBasicAttackHit> hits = [];
-        BeastHitRequest hitRequest = BuildBasicAttackHitRequest(traveler, target, weaponType);
-        for (int hitIndex = 0; hitIndex < hitCount; hitIndex++)
-        {
-            BeastDamageResolution attackOutcome = _beastDamageResolver.ResolveHit(hitRequest);
-            hits.Add(new TravelerBasicAttackHit(
-                attackOutcome.Damage,
-                attackOutcome.IsWeaknessHit,
-                attackOutcome.EnteredBreakingPoint));
-        }
+        IReadOnlyList<TravelerBasicAttackHit> hits = ExecuteHits(executionRequest);
 
         return new TravelerBasicAttack(
-            traveler.Name,
-            target.Name,
-            weaponType,
+            executionRequest.Traveler.Name,
+            executionRequest.Target.Name,
+            executionRequest.WeaponType,
             hits,
-            target.CurrentHp);
+            executionRequest.Target.CurrentHp);
     }
 
-    private static BeastHitRequest BuildBasicAttackHitRequest(
-        TravelerCombatUnit traveler,
-        BeastCombatUnit target,
-        string weaponType)
-        => new(
-            traveler.PhysAtk,
-            traveler.ElemAtk,
-            target,
-            weaponType,
-            BasicAttackModifier);
+    private IReadOnlyList<TravelerBasicAttackHit> ExecuteHits(TravelerBasicAttackExecutionRequest executionRequest)
+    {
+        List<TravelerBasicAttackHit> hits = [];
+        for (int hitIndex = 0; hitIndex < CalculateHitCount(executionRequest.UsedBp); hitIndex++)
+            hits.Add(ExecuteHit(executionRequest));
+
+        return hits;
+    }
+
+    private TravelerBasicAttackHit ExecuteHit(TravelerBasicAttackExecutionRequest executionRequest)
+        => _hitExecutor.ExecuteHit(new TravelerBasicAttackHitExecutionRequest(
+            executionRequest.Traveler,
+            executionRequest.Target,
+            executionRequest.WeaponType));
+
+    private static int CalculateHitCount(int usedBp)
+        => 1 + Math.Max(0, usedBp);
 }
 

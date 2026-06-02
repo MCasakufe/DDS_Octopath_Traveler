@@ -5,121 +5,128 @@ namespace Octopath_Traveler.Battle;
 
 public sealed class BattleLoopRunner
 {
-    private const int EvenNumberRemainder = 0;
-    private const int EvenNumberDivisor = 2;
     private const int RoundIncrement = 1;
-    private const string PatiencePassiveName = "Patience";
 
     private readonly RoundTurnQueueBuilder _roundTurnQueueBuilder;
     private readonly BattleConsoleView _battleConsoleView;
-    private readonly TravelerBasicAttackExecutor _travelerBasicAttackExecutor;
-    private readonly TravelerSkillExecutor _travelerSkillExecutor;
-    private readonly BeastAttackExecutor _beastAttackExecutor;
+    private readonly TravelerBasicAttackTurnCommand _travelerBasicAttackTurnCommand;
+    private readonly TravelerSkillTurnCommand _travelerSkillTurnCommand;
+    private readonly TravelerDefendTurnCommand _travelerDefendTurnCommand;
+    private readonly TravelerFleeTurnCommand _travelerFleeTurnCommand;
+    private readonly BeastActionTurnCommand _beastActionTurnCommand;
     private readonly BattleWinnerEvaluator _battleWinnerEvaluator;
 
     public BattleLoopRunner(
         RoundTurnQueueBuilder roundTurnQueueBuilder,
         BattleConsoleView battleConsoleView,
-        TravelerBasicAttackExecutor travelerBasicAttackExecutor,
-        TravelerSkillExecutor travelerSkillExecutor,
-        BeastAttackExecutor beastAttackExecutor,
+        TravelerBasicAttackTurnCommand travelerBasicAttackTurnCommand,
+        TravelerSkillTurnCommand travelerSkillTurnCommand,
+        TravelerDefendTurnCommand travelerDefendTurnCommand,
+        TravelerFleeTurnCommand travelerFleeTurnCommand,
+        BeastActionTurnCommand beastActionTurnCommand,
         BattleWinnerEvaluator battleWinnerEvaluator)
     {
         _roundTurnQueueBuilder = roundTurnQueueBuilder;
         _battleConsoleView = battleConsoleView;
-        _travelerBasicAttackExecutor = travelerBasicAttackExecutor;
-        _travelerSkillExecutor = travelerSkillExecutor;
-        _beastAttackExecutor = beastAttackExecutor;
+        _travelerBasicAttackTurnCommand = travelerBasicAttackTurnCommand;
+        _travelerSkillTurnCommand = travelerSkillTurnCommand;
+        _travelerDefendTurnCommand = travelerDefendTurnCommand;
+        _travelerFleeTurnCommand = travelerFleeTurnCommand;
+        _beastActionTurnCommand = beastActionTurnCommand;
         _battleWinnerEvaluator = battleWinnerEvaluator;
     }
 
     public void Run(BattleState battleState)
     {
-        while (ExecuteRound(battleState))
+        while (RunRound(battleState) == RoundExecutionResult.StartNextRound)
             StartNextRound(battleState);
     }
 
-    private bool ExecuteRound(BattleState battleState)
+    private RoundExecutionResult RunRound(BattleState battleState)
     {
-        HashSet<TurnParticipantKey> actedParticipants = [];
-        HashSet<int> travelersWithGrantedPatienceTurn = [];
-        Queue<int> pendingPatienceTravelerTurns = new();
-        PrintRoundStart(battleState, actedParticipants, pendingPatienceTravelerTurns);
+        RoundExecutionState roundState = new();
+        PrintRoundStart(battleState, roundState);
 
         while (true)
         {
-            TurnParticipant? participant = GetNextRoundParticipant(
-                battleState,
-                actedParticipants,
-                pendingPatienceTravelerTurns);
-            if (participant is null)
-            {
-                if (ShouldEndRoundWithoutParticipant(
-                        battleState,
-                        travelersWithGrantedPatienceTurn,
-                        pendingPatienceTravelerTurns))
-                    return true;
-
-                PrintBattleSnapshotIfRoundContinues(
-                    battleState,
-                    actedParticipants,
-                    pendingPatienceTravelerTurns);
+            RoundStepOutcome outcome = RunNextRoundStep(battleState, roundState);
+            if (outcome == RoundStepOutcome.ContinueRound)
                 continue;
-            }
 
-            if (ExecuteTurn(participant, battleState) == TurnExecutionResult.EndBattle)
-                return false;
-
-            MarkParticipantAsActed(participant, actedParticipants);
-
-            BattleWinner? winner = TryGetBattleWinner(battleState);
-            if (winner is not null)
-            {
-                _battleConsoleView.PrintWinner(winner.Value);
-                return false;
-            }
-
-            PrintBattleSnapshotIfRoundContinues(
-                battleState,
-                actedParticipants,
-                pendingPatienceTravelerTurns);
+            return BuildRoundExecutionResult(outcome);
         }
     }
 
-    private bool ShouldEndRoundWithoutParticipant(
-        BattleState battleState,
-        ISet<int> travelersWithGrantedPatienceTurn,
-        Queue<int> pendingPatienceTravelerTurns)
-        => !TryGrantPatienceExtraTurns(
-            battleState,
-            travelersWithGrantedPatienceTurn,
-            pendingPatienceTravelerTurns);
-
-    private static void MarkParticipantAsActed(
-        TurnParticipant participant,
-        ISet<TurnParticipantKey> actedParticipants)
-        => actedParticipants.Add(new TurnParticipantKey(participant.Side, participant.BoardSlotIndex));
-
-    private void PrintRoundStart(
-        BattleState battleState,
-        IReadOnlySet<TurnParticipantKey> actedParticipants,
-        IReadOnlyCollection<int> pendingPatienceTravelerTurns)
+    private RoundStepOutcome RunNextRoundStep(BattleState battleState, RoundExecutionState roundState)
     {
-        RoundTurnQueues initialQueues = BuildRoundTurnQueues(
-            battleState,
-            actedParticipants,
-            pendingPatienceTravelerTurns);
+        TurnParticipant? participant = GetNextRoundParticipant(battleState, roundState);
+        if (participant is null)
+            return ContinueAfterMissingParticipant(battleState, roundState);
+
+        TurnExecutionOutcome turnOutcome = RunTurn(participant, battleState);
+        return turnOutcome == TurnExecutionOutcome.EndBattle
+            ? RoundStepOutcome.EndBattle
+            : ContinueAfterCompletedTurn(participant, battleState, roundState);
+    }
+
+    private static RoundExecutionResult BuildRoundExecutionResult(RoundStepOutcome outcome)
+        => outcome switch
+        {
+            RoundStepOutcome.StartNextRound => RoundExecutionResult.StartNextRound,
+            RoundStepOutcome.EndBattle => RoundExecutionResult.EndBattle,
+            _ => throw new InvalidOperationException("A continuing round step cannot finish the round.")
+        };
+
+    private RoundStepOutcome ContinueAfterMissingParticipant(
+        BattleState battleState,
+        RoundExecutionState roundState)
+    {
+        IReadOnlyList<TravelerCombatUnit> eligibleTravelers =
+            SelectPatienceExtraTurnEligibleTravelers(battleState, roundState);
+        if (eligibleTravelers.Count == 0)
+            return RoundStepOutcome.StartNextRound;
+
+        GrantPatienceExtraTurns(eligibleTravelers, roundState);
+        PrintBattleSnapshotIfRoundContinues(battleState, roundState);
+        return RoundStepOutcome.ContinueRound;
+    }
+
+    private RoundStepOutcome ContinueAfterCompletedTurn(
+        TurnParticipant participant,
+        BattleState battleState,
+        RoundExecutionState roundState)
+    {
+        MarkParticipantAsActed(participant, roundState);
+        BattleWinner? winner = SelectBattleWinnerOrNull(battleState);
+        if (winner is not null)
+            return EndBattleWithWinner(winner.Value);
+
+        PrintBattleSnapshotIfRoundContinues(battleState, roundState);
+        return RoundStepOutcome.ContinueRound;
+    }
+
+    private RoundStepOutcome EndBattleWithWinner(BattleWinner winner)
+    {
+        _battleConsoleView.PrintWinner(winner);
+        return RoundStepOutcome.EndBattle;
+    }
+
+    private static void MarkParticipantAsActed(TurnParticipant participant, RoundExecutionState roundState)
+        => roundState.ActedParticipants.Add(new TurnParticipantKey(participant.Side, participant.BoardSlotIndex));
+
+    private void PrintRoundStart(BattleState battleState, RoundExecutionState roundState)
+    {
+        RoundTurnQueues initialQueues = BuildRoundTurnQueues(battleState, roundState);
         _battleConsoleView.PrintRoundState(battleState, initialQueues);
     }
 
     private TurnParticipant? GetNextRoundParticipant(
         BattleState battleState,
-        IReadOnlySet<TurnParticipantKey> actedParticipants,
-        Queue<int> pendingPatienceTravelerTurns)
+        RoundExecutionState roundState)
     {
-        while (pendingPatienceTravelerTurns.Count > 0)
+        while (roundState.PendingPatienceTravelerTurns.Count > 0)
         {
-            int boardSlotIndex = pendingPatienceTravelerTurns.Dequeue();
+            int boardSlotIndex = roundState.PendingPatienceTravelerTurns.Dequeue();
             TravelerCombatUnit traveler = battleState.TravelerTeam[boardSlotIndex];
             if (!traveler.IsAlive)
                 continue;
@@ -127,34 +134,31 @@ public sealed class BattleLoopRunner
             return BuildTravelerTurnParticipant(traveler);
         }
 
-        RoundTurnQueues queues = _roundTurnQueueBuilder.BuildRoundTurnQueues(battleState, actedParticipants);
+        RoundTurnQueues queues = _roundTurnQueueBuilder.BuildRoundTurnQueues(battleState, roundState.ActedParticipants);
         return queues.CurrentRound.Count == 0 ? null : queues.CurrentRound[0];
     }
 
-    private TurnExecutionResult ExecuteTurn(TurnParticipant participant, BattleState battleState)
+    private TurnExecutionOutcome RunTurn(TurnParticipant participant, BattleState battleState)
         => participant.Side switch
         {
-            BattleSide.Traveler => ExecuteTravelerTurn(participant, battleState),
-            BattleSide.Beast => ExecuteBeastTurn(participant, battleState),
-            _ => TurnExecutionResult.EndBattle
+            BattleSide.Traveler => RunTravelerTurn(participant, battleState),
+            BattleSide.Beast => RunBeastTurn(participant, battleState),
+            _ => TurnExecutionOutcome.EndBattle
         };
 
-    private TurnExecutionResult ExecuteTravelerTurn(TurnParticipant participant, BattleState battleState)
+    private TurnExecutionOutcome RunTravelerTurn(TurnParticipant participant, BattleState battleState)
     {
         TravelerCombatUnit traveler = battleState.TravelerTeam[participant.BoardSlotIndex];
         TravelerTurnOutcome turnOutcome = _battleConsoleView.RequestTravelerTurn(traveler, battleState);
 
         if (turnOutcome.Resolution == TravelerTurnResolution.Fled)
-            return EndBattleAfterFlee();
+        {
+            _travelerFleeTurnCommand.Execute();
+            return TurnExecutionOutcome.EndBattle;
+        }
 
         ResolveTravelerAction(traveler, battleState, turnOutcome);
-        return TurnExecutionResult.ContinueBattle;
-    }
-
-    private TurnExecutionResult EndBattleAfterFlee()
-    {
-        _battleConsoleView.PrintEnemyWinnerAfterFlee();
-        return TurnExecutionResult.EndBattle;
+        return TurnExecutionOutcome.ContinueRound;
     }
 
     private void ResolveTravelerAction(TravelerCombatUnit traveler, BattleState battleState, TravelerTurnOutcome turnOutcome)
@@ -162,81 +166,38 @@ public sealed class BattleLoopRunner
         switch (turnOutcome.Resolution)
         {
             case TravelerTurnResolution.BasicAttackChosen:
-                ExecuteTravelerBasicAttack(traveler, turnOutcome);
+                _travelerBasicAttackTurnCommand.Execute(traveler, turnOutcome);
                 break;
             case TravelerTurnResolution.SkillChosen:
-                ExecuteTravelerSkill(traveler, battleState, turnOutcome);
+                _travelerSkillTurnCommand.Execute(traveler, battleState, turnOutcome);
                 break;
             case TravelerTurnResolution.DefendChosen:
-                ApplyTravelerDefendState(traveler);
+                _travelerDefendTurnCommand.Execute(traveler);
                 break;
         }
     }
 
-    private void ExecuteTravelerBasicAttack(TravelerCombatUnit traveler, TravelerTurnOutcome turnOutcome)
-    {
-        if (turnOutcome.SelectedWeapon is null || turnOutcome.SelectedBeastTarget is null)
-        {
-            return;
-        }
-
-        int usedBp = traveler.ConsumeActionBp(turnOutcome.UsedBp);
-
-        TravelerBasicAttack attack = _travelerBasicAttackExecutor.ExecuteAttack(new TravelerBasicAttackExecutionRequest(
-            traveler,
-            turnOutcome.SelectedBeastTarget,
-            turnOutcome.SelectedWeapon,
-            usedBp));
-        _battleConsoleView.PrintTravelerBasicAttack(attack);
-    }
-
-    private void ExecuteTravelerSkill(TravelerCombatUnit traveler, BattleState battleState, TravelerTurnOutcome turnOutcome)
-    {
-        if (turnOutcome.SelectedSkillName is null)
-            return;
-
-        int usedBp = traveler.ConsumeActionBp(turnOutcome.UsedBp);
-
-        TravelerSkillAction action = _travelerSkillExecutor.ExecuteSkill(new TravelerSkillExecutionRequest(
-            traveler,
-            battleState,
-            turnOutcome,
-            turnOutcome.SelectedSkillName));
-        _battleConsoleView.PrintTravelerSkill(action);
-    }
-
-    private static void ApplyTravelerDefendState(TravelerCombatUnit traveler)
-        => traveler.EnterDefendState();
-
-    private BattleWinner? TryGetBattleWinner(BattleState battleState)
+    private BattleWinner? SelectBattleWinnerOrNull(BattleState battleState)
     {
         BattleWinner winner = _battleWinnerEvaluator.EvaluateWinner(battleState);
         return winner == BattleWinner.None ? null : winner;
     }
 
-    private void PrintBattleSnapshotIfRoundContinues(
-        BattleState battleState,
-        IReadOnlySet<TurnParticipantKey> actedParticipants,
-        IReadOnlyCollection<int> pendingPatienceTravelerTurns)
+    private void PrintBattleSnapshotIfRoundContinues(BattleState battleState, RoundExecutionState roundState)
     {
-        RoundTurnQueues updatedQueues = BuildRoundTurnQueues(
-            battleState,
-            actedParticipants,
-            pendingPatienceTravelerTurns);
+        RoundTurnQueues updatedQueues = BuildRoundTurnQueues(battleState, roundState);
         if (updatedQueues.CurrentRound.Count > 0)
             _battleConsoleView.PrintBattleSnapshot(battleState, updatedQueues);
     }
 
-    private RoundTurnQueues BuildRoundTurnQueues(
-        BattleState battleState,
-        IReadOnlySet<TurnParticipantKey> actedParticipants,
-        IReadOnlyCollection<int> pendingPatienceTravelerTurns)
+    private RoundTurnQueues BuildRoundTurnQueues(BattleState battleState, RoundExecutionState roundState)
     {
-        RoundTurnQueues baseQueues = _roundTurnQueueBuilder.BuildRoundTurnQueues(battleState, actedParticipants);
-        if (pendingPatienceTravelerTurns.Count == 0)
+        RoundTurnQueues baseQueues =
+            _roundTurnQueueBuilder.BuildRoundTurnQueues(battleState, roundState.ActedParticipants);
+        if (roundState.PendingPatienceTravelerTurns.Count == 0)
             return baseQueues;
 
-        List<TurnParticipant> pendingTravelerParticipants = pendingPatienceTravelerTurns
+        List<TurnParticipant> pendingTravelerParticipants = roundState.PendingPatienceTravelerTurns
             .Select(boardSlotIndex => battleState.TravelerTeam[boardSlotIndex])
             .Where(traveler => traveler.IsAlive)
             .Select(BuildTravelerTurnParticipant)
@@ -248,44 +209,24 @@ public sealed class BattleLoopRunner
         return new RoundTurnQueues(currentQueue, baseQueues.NextRound);
     }
 
-    private bool TryGrantPatienceExtraTurns(
+    private IReadOnlyList<TravelerCombatUnit> SelectPatienceExtraTurnEligibleTravelers(
         BattleState battleState,
-        ISet<int> travelersWithGrantedPatienceTurn,
-        Queue<int> pendingPatienceTravelerTurns)
-    {
-        List<TravelerCombatUnit> eligibleTravelers = battleState.TravelerTeam
-            .Where(traveler => IsEligibleForPatienceExtraTurn(traveler, travelersWithGrantedPatienceTurn))
-            .OrderBy(traveler => traveler.BoardSlotIndex)
-            .ToList();
-        if (eligibleTravelers.Count == 0)
-            return false;
+        RoundExecutionState roundState)
+        => battleState
+            .PassiveSkillNotifier
+            .SelectExtraTurnEligibleTravelers(roundState.TravelersWithGrantedPatienceTurn);
 
+    private void GrantPatienceExtraTurns(
+        IReadOnlyList<TravelerCombatUnit> eligibleTravelers,
+        RoundExecutionState roundState)
+    {
         foreach (TravelerCombatUnit traveler in eligibleTravelers)
         {
-            travelersWithGrantedPatienceTurn.Add(traveler.BoardSlotIndex);
-            pendingPatienceTravelerTurns.Enqueue(traveler.BoardSlotIndex);
+            roundState.TravelersWithGrantedPatienceTurn.Add(traveler.BoardSlotIndex);
+            roundState.PendingPatienceTravelerTurns.Enqueue(traveler.BoardSlotIndex);
             _battleConsoleView.PrintPatienceExtraTurn(traveler.Name);
         }
-
-        return true;
     }
-
-    private static bool IsEligibleForPatienceExtraTurn(
-        TravelerCombatUnit traveler,
-        ISet<int> travelersWithGrantedPatienceTurn)
-        => traveler.IsAlive
-           && HasPatiencePassive(traveler)
-           && !travelersWithGrantedPatienceTurn.Contains(traveler.BoardSlotIndex)
-           && HasEvenCurrentHpAndSp(traveler);
-
-    private static bool HasEvenCurrentHpAndSp(TravelerCombatUnit traveler)
-        => IsEven(traveler.CurrentHp) && IsEven(traveler.CurrentSp);
-
-    private static bool HasPatiencePassive(TravelerCombatUnit traveler)
-        => traveler.AssignedPassiveSkillNames.Contains(PatiencePassiveName, StringComparer.Ordinal);
-
-    private static bool IsEven(int value)
-        => value % EvenNumberDivisor == EvenNumberRemainder;
 
     private static TurnParticipant BuildTravelerTurnParticipant(TravelerCombatUnit traveler)
         => new(
@@ -298,14 +239,11 @@ public sealed class BattleLoopRunner
             traveler.HasIncreasedPriorityCurrentRound,
             HasDecreasedPriority: false);
 
-    private TurnExecutionResult ExecuteBeastTurn(TurnParticipant participant, BattleState battleState)
+    private TurnExecutionOutcome RunBeastTurn(TurnParticipant participant, BattleState battleState)
     {
         BeastCombatUnit beast = battleState.BeastTeam[participant.BoardSlotIndex];
-        BeastAttack? attack = _beastAttackExecutor.ExecuteAttack(beast, battleState);
-        if (attack is not null)
-            _battleConsoleView.PrintBeastAttack(attack);
-
-        return TurnExecutionResult.ContinueBattle;
+        _beastActionTurnCommand.Execute(beast, battleState);
+        return TurnExecutionOutcome.ContinueRound;
     }
 
     private static void StartNextRound(BattleState battleState)
@@ -318,10 +256,7 @@ public sealed class BattleLoopRunner
     }
 
     private static void ApplyTravelerRoundEndPassiveRecovery(BattleState battleState)
-    {
-        foreach (TravelerCombatUnit traveler in battleState.TravelerTeam)
-            traveler.ApplyRoundEndPassiveRecovery();
-    }
+        => battleState.PassiveSkillNotifier.NotifyRoundEnded();
 
     private static void PrepareTravelerRoundStates(BattleState battleState)
     {
@@ -339,11 +274,5 @@ public sealed class BattleLoopRunner
     {
         foreach (TravelerCombatUnit traveler in battleState.TravelerTeam)
             traveler.PrepareBpForNextRound();
-    }
-
-    private enum TurnExecutionResult
-    {
-        ContinueBattle,
-        EndBattle
     }
 }
