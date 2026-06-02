@@ -30,47 +30,54 @@ public sealed class Game
 
     public void Play()
     {
-        BattleState? battleState = TryLoadBattleState();
-        if (battleState is null)
-        {
-            _mainConsoleView.WriteInvalidTeamFileMessage();
-            return;
-        }
-
-        _battleLoopRunner.Run(battleState);
-    }
-
-    private BattleState? TryLoadBattleState()
-    {
         try
         {
-            string? selectedTeamSetupFilePath = _teamSelectionView.SelectTeamFilePath();
-            return selectedTeamSetupFilePath is null
-                ? null
-                : TryLoadBattleStateFromSelectedFile(selectedTeamSetupFilePath);
+            BattleState battleState = LoadBattleState();
+            _battleLoopRunner.Run(battleState);
         }
-        catch (TeamFileParseException)
+        catch (Exception exception) when (IsInvalidTeamSetupException(exception))
         {
-            return null;
-        }
-        catch (ValidationCatalogLoadException)
-        {
-            return null;
-        }
-        catch (RuntimeDataCatalogLoadException)
-        {
-            return null;
+            WriteInvalidTeamFileMessage();
         }
     }
 
-    private BattleState? TryLoadBattleStateFromSelectedFile(string selectedTeamSetupFilePath)
+    private BattleState LoadBattleState()
+    {
+        string selectedTeamSetupFilePath = SelectTeamSetupFilePath();
+        return LoadBattleStateFromSelectedFile(selectedTeamSetupFilePath);
+    }
+
+    private string SelectTeamSetupFilePath()
+    {
+        string? selectedTeamSetupFilePath = _teamSelectionView.SelectTeamFilePath();
+        if (selectedTeamSetupFilePath is null)
+            throw new InvalidTeamSetupException("No valid team file was selected.");
+
+        return selectedTeamSetupFilePath;
+    }
+
+    private BattleState LoadBattleStateFromSelectedFile(string selectedTeamSetupFilePath)
     {
         TeamSetup teamSetup = _teamFileParser.Parse(selectedTeamSetupFilePath);
-        if (!_teamSetupValidator.IsValid(teamSetup))
-            return null;
-
-        return _battleStateFactory.TryCreate(teamSetup);
+        EnsureTeamSetupIsValid(teamSetup);
+        return _battleStateFactory.Create(teamSetup);
     }
+
+    private void EnsureTeamSetupIsValid(TeamSetup teamSetup)
+    {
+        if (!_teamSetupValidator.IsValid(teamSetup))
+            throw new InvalidTeamSetupException("Selected team setup is invalid.");
+    }
+
+    private static bool IsInvalidTeamSetupException(Exception exception)
+        => exception is InvalidTeamSetupException
+           or TeamFileParseException
+           or ValidationCatalogLoadException
+           or RuntimeDataCatalogLoadException
+           or BattleStateCreationException;
+
+    private void WriteInvalidTeamFileMessage()
+        => _mainConsoleView.WriteInvalidTeamFileMessage();
 
     private static BattleLoopRunner BuildBattleLoopRunner(View view)
     {

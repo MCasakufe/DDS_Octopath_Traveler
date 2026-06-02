@@ -13,19 +13,16 @@ public sealed class TeamSetupBattleStateFactory
         _runtimeDataCatalogProvider = runtimeDataCatalogProvider;
     }
 
-    public BattleState? TryCreate(TeamSetup teamSetup)
+    public BattleState Create(TeamSetup teamSetup)
     {
         RuntimeDataCatalog runtimeDataCatalog = _runtimeDataCatalogProvider.Load();
 
-        IReadOnlyList<TravelerCombatUnit>? travelerTeam = TryCreateTravelerTeam(teamSetup, runtimeDataCatalog);
-        IReadOnlyList<BeastCombatUnit>? beastTeam = TryCreateBeastTeam(teamSetup, runtimeDataCatalog);
-        if (travelerTeam is null || beastTeam is null)
-            return null;
-
+        IReadOnlyList<TravelerCombatUnit> travelerTeam = CreateTravelerTeam(teamSetup, runtimeDataCatalog);
+        IReadOnlyList<BeastCombatUnit> beastTeam = CreateBeastTeam(teamSetup, runtimeDataCatalog);
         return new BattleState(1, travelerTeam, beastTeam);
     }
 
-    private IReadOnlyList<TravelerCombatUnit>? TryCreateTravelerTeam(
+    private IReadOnlyList<TravelerCombatUnit> CreateTravelerTeam(
         TeamSetup teamSetup,
         RuntimeDataCatalog runtimeDataCatalog)
     {
@@ -35,7 +32,7 @@ public sealed class TeamSetupBattleStateFactory
             TravelerSetup travelerSetup = teamSetup.Travelers[boardSlotIndex];
             if (!runtimeDataCatalog.TravelersByName.TryGetValue(travelerSetup.Name, out TravelerDefinition? travelerDefinition)
                 || travelerDefinition is null)
-                return null;
+                throw new BattleStateCreationException($"Unknown traveler definition '{travelerSetup.Name}'.");
 
             travelerTeam.Add(CreateTravelerCombatUnit(
                 travelerDefinition,
@@ -62,7 +59,7 @@ public sealed class TeamSetupBattleStateFactory
             passiveSkillProfile);
     }
 
-    private static IReadOnlyList<BeastCombatUnit>? TryCreateBeastTeam(TeamSetup teamSetup, RuntimeDataCatalog runtimeDataCatalog)
+    private static IReadOnlyList<BeastCombatUnit> CreateBeastTeam(TeamSetup teamSetup, RuntimeDataCatalog runtimeDataCatalog)
     {
         List<BeastCombatUnit> beastTeam = [];
         for (int boardSlotIndex = 0; boardSlotIndex < teamSetup.Beasts.Count; boardSlotIndex++)
@@ -70,11 +67,11 @@ public sealed class TeamSetupBattleStateFactory
             string beastName = teamSetup.Beasts[boardSlotIndex];
             if (!runtimeDataCatalog.BeastsByName.TryGetValue(beastName, out BeastDefinition? beastDefinition)
                 || beastDefinition is null)
-                return null;
+                throw new BattleStateCreationException($"Unknown beast definition '{beastName}'.");
 
             BeastSkillDefinition? skillDefinition = runtimeDataCatalog.SelectBeastSkillOrNull(beastDefinition.SkillName);
             if (skillDefinition is null)
-                return null;
+                throw new BattleStateCreationException($"Unknown beast skill definition '{beastDefinition.SkillName}'.");
 
             beastTeam.Add(new BeastCombatUnit(beastDefinition, skillDefinition, boardSlotIndex));
         }
