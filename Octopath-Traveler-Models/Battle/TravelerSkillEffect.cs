@@ -72,11 +72,14 @@ internal abstract class TravelerSkillEffect
         UnitStatusEffectKind statusEffectKind,
         int durationRounds)
     {
-        target.ApplyStatusEffect(statusEffectKind, durationRounds);
+        int appliedDurationRounds = target.ApplyStatusEffectAndReturnDuration(
+            statusEffectKind,
+            durationRounds,
+            effectContext.Traveler);
         effectContext.AddResult(new TravelerSkillStatusEffectResult(
             target.Name,
             statusEffectKind,
-            durationRounds));
+            appliedDurationRounds));
     }
 
     protected static int CalculateHealing(TravelerSkillEffectContext effectContext)

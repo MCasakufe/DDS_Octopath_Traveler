@@ -56,7 +56,7 @@ internal sealed class TravelerTurnSelectionPolicy
             : 0;
 
     private static bool IsCastableSkill(TravelerCombatUnit traveler, SkillDefinition skill)
-        => traveler.CurrentSp >= skill.Sp && HasRequiredBp(traveler, skill);
+        => traveler.CurrentSp >= traveler.CalculateSkillSpCost(skill.Sp) && HasRequiredBp(traveler, skill);
 
     private static bool HasRequiredBp(TravelerCombatUnit traveler, SkillDefinition skill)
         => !TravelerDivineSkillCatalog.IsDivineSkill(skill)

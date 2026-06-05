@@ -157,6 +157,9 @@ public sealed class BeastAttackExecutor
             results.Add(new BeastAttackDefendResult(targetName));
 
         results.Add(new BeastAttackDamageResult(targetName, hitResult.Damage, damageKind));
+        if (hitResult.RevivedByEncore)
+            results.Add(new BeastAttackReviveResult(targetName));
+
         return results;
     }
 
@@ -165,7 +168,8 @@ public sealed class BeastAttackExecutor
         List<BeastAttackResult> results = [];
         foreach (BeastCombatUnit target in battleState.BeastTeam
                      .Where(target => target.IsAlive)
-                     .OrderBy(target => target.BoardSlotIndex))
+                     .OrderBy(target => target == beast)
+                     .ThenBy(target => target.BoardSlotIndex))
         {
             AddStatusResults(results, target, AugmentedMagicStatusEffects);
         }
@@ -220,8 +224,11 @@ public sealed class BeastAttackExecutor
     {
         foreach (UnitStatusEffectKind statusEffect in statusEffects)
         {
-            target.ApplyStatusEffect(statusEffect, StatusDurationRounds);
-            results.Add(new BeastAttackStatusEffectResult(target.Name, statusEffect, StatusDurationRounds));
+            int appliedDurationRounds = target.ApplyStatusEffectAndReturnDuration(
+                statusEffect,
+                StatusDurationRounds,
+                source: null);
+            results.Add(new BeastAttackStatusEffectResult(target.Name, statusEffect, appliedDurationRounds));
         }
     }
 }

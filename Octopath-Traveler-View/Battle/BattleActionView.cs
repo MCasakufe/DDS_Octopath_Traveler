@@ -25,6 +25,9 @@ public sealed class BattleActionView
                 _view.WriteLine($"{attack.TargetName} entra en Breaking Point");
         }
 
+        if (attack.SpRecoveryResult is not null)
+            _view.WriteLine($"{attack.SpRecoveryResult.TargetName} recupera {attack.SpRecoveryResult.RecoveredSp} SP");
+
         _view.WriteLine($"{attack.TargetName} termina con HP:{attack.TargetCurrentHp}");
     }
 
@@ -90,6 +93,7 @@ public sealed class BattleActionView
         {
             BeastAttackDefendResult defendResult => $"{defendResult.TargetName} se defiende",
             BeastAttackDamageResult damageResult => BuildBeastDamageLine(damageResult),
+            BeastAttackReviveResult reviveResult => $"{reviveResult.TargetName} revive",
             BeastAttackHpSummaryResult hpSummaryResult =>
                 $"{hpSummaryResult.TargetName} termina con HP:{hpSummaryResult.CurrentHp}",
             BeastAttackStatusEffectResult statusEffectResult =>

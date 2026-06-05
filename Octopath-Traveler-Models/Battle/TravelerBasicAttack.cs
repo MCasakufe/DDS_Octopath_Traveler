@@ -5,4 +5,5 @@ public sealed record TravelerBasicAttack(
     string TargetName,
     string WeaponType,
     IReadOnlyList<TravelerBasicAttackHit> Hits,
+    TravelerBasicAttackSpRecoveryResult? SpRecoveryResult,
     int TargetCurrentHp);

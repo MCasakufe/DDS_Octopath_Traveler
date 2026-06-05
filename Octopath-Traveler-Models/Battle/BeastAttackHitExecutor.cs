@@ -16,8 +16,12 @@ internal sealed class BeastAttackHitExecutor
     public BeastAttackHitResult ExecuteHit(BeastAttackHitExecutionRequest executionRequest)
     {
         int damage = CalculateDamage(executionRequest);
-        _damageApplier.ApplyDamage(new TravelerDamageApplication(executionRequest.Target, damage));
-        return new BeastAttackHitResult(damage, IsDefendedHit(executionRequest));
+        TravelerDamageApplicationResult applicationResult = _damageApplier.ApplyDamage(
+            new TravelerDamageApplication(executionRequest.Attacker, executionRequest.Target, damage));
+        return new BeastAttackHitResult(
+            applicationResult.DisplayedDamage,
+            IsDefendedHit(executionRequest),
+            applicationResult.RevivedByEncore);
     }
 
     private int CalculateDamage(BeastAttackHitExecutionRequest executionRequest)

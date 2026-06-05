@@ -15,6 +15,7 @@ internal sealed class VimAndVigorPassiveSkillHandler
         if (!context.Traveler.IsAlive)
             return;
 
-        context.Traveler.RecoverHp(context.Traveler.MaxHp / HealingDivisor);
+        int healingAmount = context.Traveler.CalculateReceivedHealing(context.Traveler.MaxHp / HealingDivisor);
+        context.Traveler.RecoverHp(healingAmount);
     }
 }

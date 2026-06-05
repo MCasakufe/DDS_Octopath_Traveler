@@ -43,7 +43,7 @@ internal sealed class HpThiefTravelerSkillEffect : TravelerSkillEffect
 
     private static void RecoverTravelerHp(TravelerSkillEffectContext effectContext, int totalDamage)
     {
-        int recoveredHp = totalDamage / HpRecoveryDivisor;
+        int recoveredHp = effectContext.Traveler.CalculateReceivedHpThiefHealing(totalDamage / HpRecoveryDivisor);
         effectContext.Traveler.RecoverHp(recoveredHp);
         effectContext.AddResult(new TravelerSkillHealingResult(effectContext.Traveler.Name, recoveredHp));
     }

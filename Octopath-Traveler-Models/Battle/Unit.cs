@@ -9,6 +9,7 @@ public abstract class Unit
     private const double IncreasedStatusDamageMultiplier = 1.5;
     private const double DecreasedStatusDamageMultiplier = 2.0 / 3.0;
     private const double IncreasedSpeedMultiplier = 1.5;
+    private const int PassiveDurationBonusRounds = 1;
 
     private readonly Dictionary<UnitStatusEffectKind, int> _statusEffectDurations = new();
 
@@ -69,6 +70,25 @@ public abstract class Unit
             _statusEffectDurations[statusEffectKind] = durationRounds;
     }
 
+    public void ApplyStatusEffect(
+        UnitStatusEffectKind statusEffectKind,
+        int durationRounds,
+        TravelerCombatUnit? source)
+        => ApplyStatusEffect(statusEffectKind, CalculatePassiveAdjustedDuration(
+            statusEffectKind,
+            durationRounds,
+            source));
+
+    public int ApplyStatusEffectAndReturnDuration(
+        UnitStatusEffectKind statusEffectKind,
+        int durationRounds,
+        TravelerCombatUnit? source)
+    {
+        int adjustedDuration = CalculatePassiveAdjustedDuration(statusEffectKind, durationRounds, source);
+        ApplyStatusEffect(statusEffectKind, adjustedDuration);
+        return adjustedDuration;
+    }
+
     public bool HasStatusEffect(UnitStatusEffectKind statusEffectKind)
         => _statusEffectDurations.ContainsKey(statusEffectKind);
 
@@ -126,6 +146,31 @@ public abstract class Unit
         => hasIncreasedSpeed
             ? (int)Math.Floor(Speed * IncreasedSpeedMultiplier)
             : Speed;
+
+    private int CalculatePassiveAdjustedDuration(
+        UnitStatusEffectKind statusEffectKind,
+        int durationRounds,
+        TravelerCombatUnit? source)
+    {
+        int adjustedDuration = durationRounds;
+        if (IsBuffStatus(statusEffectKind) && HasPersistence)
+            adjustedDuration += PassiveDurationBonusRounds;
+
+        if (IsBuffStatus(statusEffectKind) && source is not null && source.HasTheShowGoesOn)
+            adjustedDuration += PassiveDurationBonusRounds;
+
+        return adjustedDuration;
+    }
+
+    private bool HasPersistence
+        => this is TravelerCombatUnit traveler && traveler.HasPersistence;
+
+    private static bool IsBuffStatus(UnitStatusEffectKind statusEffectKind)
+        => statusEffectKind is UnitStatusEffectKind.IncreasedPhysicalAttack
+            or UnitStatusEffectKind.IncreasedPhysicalDefense
+            or UnitStatusEffectKind.IncreasedElementalAttack
+            or UnitStatusEffectKind.IncreasedElementalDefense
+            or UnitStatusEffectKind.IncreasedSpeed;
 
     private void DecreaseStatusEffectDuration(UnitStatusEffectKind statusEffectKind)
     {

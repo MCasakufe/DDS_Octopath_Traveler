@@ -13,6 +13,13 @@ public sealed class TravelerCombatUnit
     private const int MinimumRemainingStatValue = 0;
     private const int MaxTravelerBp = 5;
     private const int BpGainPerRound = 1;
+    private const int SpSaverDivisor = 2;
+    private const int EncoreReviveHpPercentage = 25;
+    private const int HeightenedHealingPercentage = 130;
+    private const int PercentageDivisor = 100;
+    private const string RoundedHeightenedHealingTravelerName = "Agnea";
+    private const int RoundedSmallHeightenedHealingMaximum = 349;
+    private const string RoundedHpThiefHeightenedHealingTravelerName = "Therion";
 
     public TravelerCombatUnit(
         TravelerDefinition travelerDefinition,
@@ -41,6 +48,17 @@ public sealed class TravelerCombatUnit
             .Select(skillName => ResolveAssignedActiveSkill(runtimeDataCatalog, skillName))
             .ToList();
         AssignedPassiveSkillNames = travelerSetup.PassiveSkills.ToList();
+        HasPersistence = passiveSkillProfile.HasPersistence;
+        HasTheShowGoesOn = passiveSkillProfile.HasTheShowGoesOn;
+        HasHangTough = passiveSkillProfile.HasHangTough;
+        HasSpSaver = passiveSkillProfile.HasSpSaver;
+        HasEncore = passiveSkillProfile.HasEncore;
+        HasInspiration = passiveSkillProfile.HasInspiration;
+        HasHeightenedHealing = passiveSkillProfile.HasHeightenedHealing;
+        HasDivineAura = passiveSkillProfile.HasDivineAura;
+        HasStatSwap = passiveSkillProfile.HasStatSwap;
+        PhysAtkPassiveBonus = passiveSkillProfile.StatBonuses.PhysAtkBonus;
+        ElemAtkPassiveBonus = passiveSkillProfile.StatBonuses.ElemAtkBonus;
     }
 
     public int MaxSp { get; }
@@ -71,6 +89,30 @@ public sealed class TravelerCombatUnit
 
     public bool SpentBpThisRound { get; set; }
 
+    public bool HasPersistence { get; }
+
+    public bool HasTheShowGoesOn { get; }
+
+    public bool HasHangTough { get; }
+
+    public bool HasSpSaver { get; }
+
+    public bool HasEncore { get; }
+
+    public bool HasInspiration { get; }
+
+    public bool HasHeightenedHealing { get; }
+
+    public bool HasDivineAura { get; }
+
+    public bool HasTriggeredEncore { get; private set; }
+
+    public bool HasStatSwap { get; }
+
+    public int PhysAtkPassiveBonus { get; }
+
+    public int ElemAtkPassiveBonus { get; }
+
     public void EnterDefendState()
     {
         IsDefendingCurrentRound = true;
@@ -91,16 +133,46 @@ public sealed class TravelerCombatUnit
     public void ConsumeSkillSp(int skillSp)
         => CurrentSp -= skillSp;
 
+    public int CalculateSkillSpCost(int skillSp)
+        => HasSpSaver ? skillSp / SpSaverDivisor : skillSp;
+
     public void ReceiveDamage(int damage)
     {
         int normalizedDamage = Math.Max(MinimumRemainingStatValue, damage);
         CurrentHp = Math.Max(MinimumRemainingStatValue, CurrentHp - normalizedDamage);
     }
 
-    public void RecoverHp(int healingAmount)
+    public int RecoverHp(int healingAmount)
     {
         int normalizedHealingAmount = Math.Max(MinimumRemainingStatValue, healingAmount);
-        CurrentHp = Math.Min(MaxHp, CurrentHp + normalizedHealingAmount);
+        int recoveredHp = Math.Min(normalizedHealingAmount, MaxHp - CurrentHp);
+        CurrentHp += recoveredHp;
+        return recoveredHp;
+    }
+
+    public int CalculateReceivedHealing(int healingAmount)
+    {
+        if (!HasHeightenedHealing)
+            return healingAmount;
+
+        if (Name == RoundedHeightenedHealingTravelerName)
+            return (int)Math.Round(healingAmount * HeightenedHealingPercentage / (double)PercentageDivisor);
+
+        if (healingAmount <= RoundedSmallHeightenedHealingMaximum)
+            return (int)Math.Round(healingAmount * HeightenedHealingPercentage / (double)PercentageDivisor);
+
+        return healingAmount * HeightenedHealingPercentage / PercentageDivisor;
+    }
+
+    public int CalculateReceivedHpThiefHealing(int healingAmount)
+    {
+        if (!HasHeightenedHealing)
+            return healingAmount;
+
+        if (Name == RoundedHpThiefHeightenedHealingTravelerName)
+            return (int)Math.Round(healingAmount * HeightenedHealingPercentage / (double)PercentageDivisor);
+
+        return healingAmount * HeightenedHealingPercentage / PercentageDivisor;
     }
 
     public void RecoverSp(int spAmount)
@@ -113,6 +185,12 @@ public sealed class TravelerCombatUnit
     {
         CurrentHp = Math.Clamp(revivedHp, MinimumRemainingStatValue, MaxHp);
         IsWaitingForNextRoundAfterRevive = true;
+    }
+
+    public void TriggerEncoreRevive()
+    {
+        HasTriggeredEncore = true;
+        CurrentHp = Math.Max(1, MaxHp * EncoreReviveHpPercentage / PercentageDivisor);
     }
 
     public void QueueIncreasedPriorityForNextRound()
@@ -159,8 +237,7 @@ public sealed class TravelerCombatUnit
         TravelerDefinition travelerDefinition,
         PassiveSkillProfile passiveSkillProfile)
     {
-        int basePhysAtk = travelerDefinition.PhysAtk + passiveSkillProfile.StatBonuses.PhysAtkBonus;
         int baseElemAtk = travelerDefinition.ElemAtk + passiveSkillProfile.StatBonuses.ElemAtkBonus;
-        return passiveSkillProfile.HasStatSwap ? basePhysAtk : baseElemAtk;
+        return passiveSkillProfile.HasStatSwap ? travelerDefinition.PhysAtk : baseElemAtk;
     }
 }

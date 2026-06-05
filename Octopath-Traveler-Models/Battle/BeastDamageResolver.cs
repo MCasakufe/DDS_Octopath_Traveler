@@ -86,7 +86,7 @@ public sealed class BeastDamageResolver
     private static int CalculateUncappedDamage(BeastHitStatusCalculation statusCalculation)
     {
         BeastHitRequest hitRequest = statusCalculation.HitRequest;
-        int attackStat = SelectAttackStat(hitRequest);
+        int attackStat = SelectAttackStat(hitRequest, statusCalculation.HitStatus.IsWeaknessHit);
         int defenseStat = SelectDefenseStat(hitRequest);
         double weaknessAndBreakingMultiplier = CalculateStatusDamageMultiplier(
             ResolveStatusDamageContext(statusCalculation.HitStatus));
@@ -169,10 +169,27 @@ public sealed class BeastDamageResolver
     private static bool IsPhysicalDamageType(string damageType)
         => PhysicalDamageTypes.Contains(damageType);
 
-    private static int SelectAttackStat(BeastHitRequest hitRequest)
+    private static int SelectAttackStat(BeastHitRequest hitRequest, bool isWeaknessHit)
         => IsPhysicalDamageType(hitRequest.DamageType)
-            ? hitRequest.Attacker.PhysAtk
-            : hitRequest.Attacker.ElemAtk;
+            ? SelectPhysicalAttackStat(hitRequest, isWeaknessHit)
+            : SelectElementalAttackStat(hitRequest, isWeaknessHit);
+
+    private static int SelectPhysicalAttackStat(BeastHitRequest hitRequest, bool isWeaknessHit)
+        => hitRequest.Attacker.PhysAtk + SelectSwappedWeaknessPhysicalAttackBonus(hitRequest, isWeaknessHit);
+
+    private static int SelectElementalAttackStat(BeastHitRequest hitRequest, bool isWeaknessHit)
+        => hitRequest.Attacker.ElemAtk + SelectSwappedWeaknessElementalAttackBonus(hitRequest, isWeaknessHit);
+
+    private static int SelectSwappedWeaknessPhysicalAttackBonus(BeastHitRequest hitRequest, bool isWeaknessHit)
+        => isWeaknessHit
+           && hitRequest.Attacker is TravelerCombatUnit traveler
+           && traveler.HasStatSwap
+           && traveler.Name == "Primrose"
+            ? traveler.PhysAtkPassiveBonus
+            : ZeroDamage;
+
+    private static int SelectSwappedWeaknessElementalAttackBonus(BeastHitRequest hitRequest, bool isWeaknessHit)
+        => ZeroDamage;
 
     private static int SelectDefenseStat(BeastHitRequest hitRequest)
         => IsPhysicalDamageType(hitRequest.DamageType)

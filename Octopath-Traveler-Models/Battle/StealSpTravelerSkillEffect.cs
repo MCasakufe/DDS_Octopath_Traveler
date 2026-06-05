@@ -45,6 +45,9 @@ internal sealed class StealSpTravelerSkillEffect : TravelerSkillEffect
     private static void RecoverTravelerSp(TravelerSkillEffectContext effectContext, int totalDamage)
     {
         int recoveredSp = totalDamage * SpRecoveryPercentage / PercentageDivisor;
+        if (recoveredSp <= 0)
+            return;
+
         effectContext.Traveler.RecoverSp(recoveredSp);
         effectContext.AddResult(new TravelerSkillSpRecoveryResult(effectContext.Traveler.Name, recoveredSp));
     }

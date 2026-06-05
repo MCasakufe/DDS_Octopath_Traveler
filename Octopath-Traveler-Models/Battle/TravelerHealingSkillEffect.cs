@@ -20,7 +20,8 @@ internal sealed class TravelerHealingSkillEffect : TravelerSkillEffect
         TravelerCombatUnit target,
         int healedValue)
     {
-        target.RecoverHp(healedValue);
-        effectContext.AddResult(new TravelerSkillHealingResult(target.Name, healedValue));
+        int appliedHealing = target.CalculateReceivedHealing(healedValue);
+        target.RecoverHp(appliedHealing);
+        effectContext.AddResult(new TravelerSkillHealingResult(target.Name, appliedHealing));
     }
 }

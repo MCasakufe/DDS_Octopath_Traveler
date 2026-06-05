@@ -34,8 +34,9 @@ internal sealed class ReviveTravelersSkillEffect : TravelerSkillEffect
         if (healedValue <= 0)
             return;
 
-        target.RecoverHp(healedValue);
-        effectContext.AddResult(new TravelerSkillHealingResult(target.Name, healedValue));
+        int appliedHealing = target.CalculateReceivedHealing(healedValue);
+        target.RecoverHp(appliedHealing);
+        effectContext.AddResult(new TravelerSkillHealingResult(target.Name, appliedHealing));
     }
 
     private static int CalculateReviveHealing(TravelerSkillEffectContext effectContext)

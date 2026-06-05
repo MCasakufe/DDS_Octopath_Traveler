@@ -6,4 +6,12 @@ public sealed record PassiveSkillProfile(
     bool HasStatSwap,
     bool HasVimAndVigor,
     bool HasSecondWind,
-    bool HasPatience);
+    bool HasPatience,
+    bool HasPersistence,
+    bool HasTheShowGoesOn,
+    bool HasHangTough,
+    bool HasSpSaver,
+    bool HasEncore,
+    bool HasInspiration,
+    bool HasHeightenedHealing,
+    bool HasDivineAura);

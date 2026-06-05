@@ -122,7 +122,7 @@ public sealed class TravelerSkillExecutor
         TravelerSkillExecutionRequest skillExecutionRequest,
         SkillDefinition? selectedSkill)
         => selectedSkill is not null
-           && skillExecutionRequest.Traveler.CurrentSp >= selectedSkill.Sp
+           && skillExecutionRequest.Traveler.CurrentSp >= skillExecutionRequest.Traveler.CalculateSkillSpCost(selectedSkill.Sp)
            && HasRequiredBp(skillExecutionRequest, selectedSkill);
 
     private static bool HasRequiredBp(
@@ -133,7 +133,7 @@ public sealed class TravelerSkillExecutor
                && skillExecutionRequest.TurnOutcome.UsedBp == TravelerDivineSkillCatalog.RequiredBpCost);
 
     private static void ConsumeSkillSp(TravelerCombatUnit traveler, SkillDefinition selectedSkill)
-        => traveler.ConsumeSkillSp(selectedSkill.Sp);
+        => traveler.ConsumeSkillSp(traveler.CalculateSkillSpCost(selectedSkill.Sp));
 
     private static IReadOnlyList<TravelerSkillResult> ApplySelectedSkillBehavior(
         TravelerSkillExecutionRequest skillExecutionRequest,
