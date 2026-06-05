@@ -10,6 +10,8 @@ public static class TravelerDivineSkillCatalog
     public const string SteorrasProphecyName = "Steorra's Prophecy";
     public const string BalogarsBladeName = "Balogar's Blade";
     public const string WinnehildsBattleCryName = "Winnehild's Battle Cry";
+    public const string AelfricsAuspicesName = "Aelfric's Auspices";
+    public const string SealticgesSeductionName = "Sealticge's Seduction";
 
     private static readonly IReadOnlySet<string> DivineSkillNames = new HashSet<string>(StringComparer.Ordinal)
     {
@@ -17,7 +19,9 @@ public static class TravelerDivineSkillCatalog
         DraefendisRageName,
         SteorrasProphecyName,
         BalogarsBladeName,
-        WinnehildsBattleCryName
+        WinnehildsBattleCryName,
+        AelfricsAuspicesName,
+        SealticgesSeductionName
     };
 
     public static bool IsDivineSkill(SkillDefinition skill)

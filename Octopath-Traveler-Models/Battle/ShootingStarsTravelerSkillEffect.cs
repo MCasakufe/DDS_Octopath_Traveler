@@ -23,8 +23,11 @@ internal sealed class ShootingStarsTravelerSkillEffect : TravelerSkillEffect
 
     private void ApplyDamageTypes(TravelerSkillEffectContext effectContext, BeastCombatUnit target)
     {
-        foreach (string damageType in _damageTypes)
-            ApplyDamage(effectContext, target, damageType);
+        for (int activationIndex = 0; activationIndex < effectContext.NonDivineSkillActivationCount; activationIndex++)
+        {
+            foreach (string damageType in _damageTypes)
+                ApplyDamage(effectContext, target, damageType);
+        }
     }
 
     private static void ApplyDamage(

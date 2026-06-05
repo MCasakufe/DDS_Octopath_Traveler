@@ -10,9 +10,18 @@ internal sealed class TravelerHealingSkillEffect : TravelerSkillEffect
 
         int healedValue = CalculateHealing(effectContext);
         foreach (TravelerCombatUnit target in targets)
-            ApplyHealing(effectContext, target, healedValue);
+            ApplyHealingActivations(effectContext, target, healedValue);
 
         AddCurrentHpLines(effectContext, targets);
+    }
+
+    private static void ApplyHealingActivations(
+        TravelerSkillEffectContext effectContext,
+        TravelerCombatUnit target,
+        int healedValue)
+    {
+        for (int activationIndex = 0; activationIndex < effectContext.NonDivineSkillActivationCount; activationIndex++)
+            ApplyHealing(effectContext, target, healedValue);
     }
 
     private static void ApplyHealing(

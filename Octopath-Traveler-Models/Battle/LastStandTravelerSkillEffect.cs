@@ -19,7 +19,7 @@ internal sealed class LastStandTravelerSkillEffect : TravelerSkillEffect
 
         TravelerSkillDamageBonusProfile damageBonusProfile = BuildDamageBonusProfile(effectContext);
         foreach (BeastCombatUnit target in targets)
-            ApplyDamage(effectContext, target, damageBonusProfile);
+            ApplyDamageActivations(effectContext, target, damageBonusProfile);
 
         AddCurrentHpLines(effectContext, targets);
     }
@@ -45,5 +45,14 @@ internal sealed class LastStandTravelerSkillEffect : TravelerSkillEffect
             target,
             damageBonusProfile.DamageProfile.DamageType,
             damageResolution);
+    }
+
+    private static void ApplyDamageActivations(
+        TravelerSkillEffectContext effectContext,
+        BeastCombatUnit target,
+        TravelerSkillDamageBonusProfile damageBonusProfile)
+    {
+        for (int activationIndex = 0; activationIndex < effectContext.NonDivineSkillActivationCount; activationIndex++)
+            ApplyDamage(effectContext, target, damageBonusProfile);
     }
 }

@@ -272,6 +272,10 @@ public sealed class TravelerSkillExecutor
                 OneBeastTargetSelector,
                 new ElementalBreakTravelerSkillEffect()),
             new ExactNameTravelerSkillBehavior(
+                "Ethereal Healing",
+                AllAliveTravelersTargetSelector,
+                new EtherealHealingTravelerSkillEffect()),
+            new ExactNameTravelerSkillBehavior(
                 TravelerDivineSkillCatalog.BrandsThunderName,
                 OneBeastTargetSelector,
                 new BeastDamageTravelerSkillEffect()),
@@ -291,6 +295,14 @@ public sealed class TravelerSkillExecutor
                 TravelerDivineSkillCatalog.WinnehildsBattleCryName,
                 AllAliveBeastsTargetSelector,
                 new OrderedDamageTypesTravelerSkillEffect(WinnehildsBattleCryDamageTypes)),
+            new ExactNameTravelerSkillBehavior(
+                TravelerDivineSkillCatalog.AelfricsAuspicesName,
+                OneTravelerTargetSelector,
+                new AelfricsAuspicesTravelerSkillEffect()),
+            new ExactNameTravelerSkillBehavior(
+                TravelerDivineSkillCatalog.SealticgesSeductionName,
+                OneTravelerTargetSelector,
+                new SealticgesSeductionTravelerSkillEffect()),
             new SkillNameSetTravelerSkillBehavior(
                 PartyHealingSkills,
                 AllAliveTravelersTargetSelector,

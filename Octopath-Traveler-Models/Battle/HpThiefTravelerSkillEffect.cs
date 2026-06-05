@@ -12,8 +12,12 @@ internal sealed class HpThiefTravelerSkillEffect : TravelerSkillEffect
         if (target is null)
             return;
 
-        int totalDamage = ApplySkillHits(effectContext, target);
-        RecoverTravelerHp(effectContext, totalDamage);
+        for (int activationIndex = 0; activationIndex < effectContext.NonDivineSkillActivationCount; activationIndex++)
+        {
+            int totalDamage = ApplySkillHits(effectContext, target);
+            RecoverTravelerHp(effectContext, totalDamage);
+        }
+
         AddCurrentHpLines(effectContext, new Unit[] { target, effectContext.Traveler });
     }
 

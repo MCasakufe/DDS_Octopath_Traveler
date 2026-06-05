@@ -36,6 +36,16 @@ internal sealed class TravelerStatusEffectSkillEffect : TravelerSkillEffect
         int durationRounds)
     {
         foreach (UnitStatusEffectKind statusEffectKind in _statusEffectKinds)
+            ApplyStatusEffect(effectContext, target, statusEffectKind, durationRounds);
+    }
+
+    private static void ApplyStatusEffect(
+        TravelerSkillEffectContext effectContext,
+        Unit target,
+        UnitStatusEffectKind statusEffectKind,
+        int durationRounds)
+    {
+        for (int activationIndex = 0; activationIndex < effectContext.NonDivineSkillActivationCount; activationIndex++)
             ApplyStatusEffectAndAddResult(effectContext, target, statusEffectKind, durationRounds);
     }
 }

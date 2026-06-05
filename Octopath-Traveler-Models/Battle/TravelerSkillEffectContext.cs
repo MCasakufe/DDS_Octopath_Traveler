@@ -27,6 +27,11 @@ internal sealed class TravelerSkillEffectContext
 
     public TravelerSkillTargetSelection TargetSelection { get; }
 
+    public int NonDivineSkillActivationCount
+        => Traveler.HasSkillActivationDuplicationStatus && !TravelerDivineSkillCatalog.IsDivineSkill(Skill)
+            ? 2
+            : 1;
+
     public IReadOnlyList<TravelerSkillResult> Results => _results;
 
     public void AddResult(TravelerSkillResult result)

@@ -13,9 +13,19 @@ internal sealed class BeastDamageTravelerSkillEffect : TravelerSkillEffect
         TravelerSkillDamageProfile damageProfile = BuildSkillDamageProfile(effectContext);
         int hitCount = HitCountResolver.ResolveHitCount(effectContext.Skill);
         foreach (BeastCombatUnit target in targets)
-            ApplySkillHits(effectContext, target, damageProfile, hitCount);
+            ApplySkillActivations(effectContext, target, damageProfile, hitCount);
 
         AddCurrentHpLines(effectContext, targets);
+    }
+
+    private static void ApplySkillActivations(
+        TravelerSkillEffectContext effectContext,
+        BeastCombatUnit target,
+        TravelerSkillDamageProfile damageProfile,
+        int hitCount)
+    {
+        for (int activationIndex = 0; activationIndex < effectContext.NonDivineSkillActivationCount; activationIndex++)
+            ApplySkillHits(effectContext, target, damageProfile, hitCount);
     }
 
     private static void ApplySkillHits(

@@ -60,6 +60,12 @@ public sealed class BattleActionView
             TravelerSkillReviveResult reviveResult => $"{reviveResult.TargetName} revive",
             TravelerSkillPriorityChangeResult priorityChangeResult =>
                 $"{priorityChangeResult.TargetName} tendr\u00e1 menor prioridad de turno durante {priorityChangeResult.DurationRounds} rondas",
+            TravelerSkillHpRestorationStatusResult hpRestorationStatusResult =>
+                $"{hpRestorationStatusResult.TargetName} tendr\u00e1 restauraci\u00f3n de HP durante {hpRestorationStatusResult.DurationRounds} rondas",
+            TravelerSkillActivationDuplicationStatusResult activationDuplicationStatusResult =>
+                $"{activationDuplicationStatusResult.TargetName} activar\u00e1 sus habilidades 2 veces durante {activationDuplicationStatusResult.DurationRounds} rondas",
+            TravelerSkillTargetModificationStatusResult targetModificationStatusResult =>
+                $"{targetModificationStatusResult.TargetName} modificar\u00e1 sus targets durante {targetModificationStatusResult.DurationRounds} rondas",
             TravelerSkillStatusEffectResult statusEffectResult =>
                 BuildStatusEffectLine(
                     statusEffectResult.TargetName,

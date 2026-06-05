@@ -101,7 +101,10 @@ public sealed class TravelerTurnInputView
         TravelerCombatUnit traveler,
         BattleState battleState)
     {
-        TravelerSkillInputPlan inputPlan = _selectionPolicy.CreateSkillInputPlan(selectedSkill, battleState);
+        TravelerSkillInputPlan inputPlan = _selectionPolicy.CreateSkillInputPlan(
+            selectedSkill,
+            traveler,
+            battleState);
         string? selectedWeapon = TrySelectSkillWeapon(inputPlan);
         if (inputPlan.RequiresWeaponSelection && selectedWeapon is null)
             return null;

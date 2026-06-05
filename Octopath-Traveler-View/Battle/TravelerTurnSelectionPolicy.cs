@@ -41,11 +41,14 @@ internal sealed class TravelerTurnSelectionPolicy
             .Where(beast => beast.IsAlive)
             .ToList();
 
-    public TravelerSkillInputPlan CreateSkillInputPlan(SkillDefinition selectedSkill, BattleState battleState)
+    public TravelerSkillInputPlan CreateSkillInputPlan(
+        SkillDefinition selectedSkill,
+        TravelerCombatUnit traveler,
+        BattleState battleState)
         => new(
             SelectWeaponTypes(selectedSkill),
-            SelectTargetInputKind(selectedSkill),
-            SelectTravelerTargets(selectedSkill, battleState));
+            SelectTargetInputKind(selectedSkill, traveler),
+            SelectTravelerTargets(selectedSkill, traveler, battleState));
 
     public bool RequiresBpSelection(SkillDefinition selectedSkill)
         => !TravelerDivineSkillCatalog.IsDivineSkill(selectedSkill);
@@ -65,8 +68,13 @@ internal sealed class TravelerTurnSelectionPolicy
     private static IReadOnlyList<string> SelectWeaponTypes(SkillDefinition selectedSkill)
         => selectedSkill.Name == NightmareChimeraSkillName ? NightmareChimeraWeaponTypes : [];
 
-    private static TravelerSkillTargetInputKind SelectTargetInputKind(SkillDefinition selectedSkill)
+    private static TravelerSkillTargetInputKind SelectTargetInputKind(
+        SkillDefinition selectedSkill,
+        TravelerCombatUnit traveler)
     {
+        if (traveler.HasTargetModificationStatus && IsTargetModifiedBySealticge(selectedSkill))
+            return TravelerSkillTargetInputKind.None;
+
         if (AutoSelectedBeastTargetSkills.Contains(selectedSkill.Name))
             return TravelerSkillTargetInputKind.None;
 
@@ -80,8 +88,12 @@ internal sealed class TravelerTurnSelectionPolicy
 
     private static IReadOnlyList<TravelerCombatUnit> SelectTravelerTargets(
         SkillDefinition selectedSkill,
+        TravelerCombatUnit traveler,
         BattleState battleState)
     {
+        if (traveler.HasTargetModificationStatus && IsTargetModifiedBySealticge(selectedSkill))
+            return [];
+
         if (selectedSkill.Target != AllyTarget)
             return [];
 
@@ -90,4 +102,7 @@ internal sealed class TravelerTurnSelectionPolicy
             .Where(traveler => requiresDeadAllies ? !traveler.IsAlive : traveler.IsAlive)
             .ToList();
     }
+
+    private static bool IsTargetModifiedBySealticge(SkillDefinition selectedSkill)
+        => selectedSkill.Target is SingleTarget or AllyTarget;
 }

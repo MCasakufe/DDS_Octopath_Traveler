@@ -179,6 +179,8 @@ public sealed class BattleLoopRunner
                 _travelerDefendTurnCommand.Execute(traveler);
                 break;
         }
+
+        traveler.RecoverHpFromRestorationStatus();
     }
 
     private BattleWinner? SelectBattleWinnerOrNull(BattleState battleState)

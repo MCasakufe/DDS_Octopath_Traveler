@@ -13,8 +13,12 @@ internal sealed class StealSpTravelerSkillEffect : TravelerSkillEffect
         if (target is null)
             return;
 
-        int totalDamage = ApplySkillHits(effectContext, target);
-        RecoverTravelerSp(effectContext, totalDamage);
+        for (int activationIndex = 0; activationIndex < effectContext.NonDivineSkillActivationCount; activationIndex++)
+        {
+            int totalDamage = ApplySkillHits(effectContext, target);
+            RecoverTravelerSp(effectContext, totalDamage);
+        }
+
         AddCurrentHpLines(effectContext, [target]);
     }
 

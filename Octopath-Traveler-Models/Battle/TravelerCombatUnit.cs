@@ -16,6 +16,7 @@ public sealed class TravelerCombatUnit
     private const int SpSaverDivisor = 2;
     private const int EncoreReviveHpPercentage = 25;
     private const int HeightenedHealingPercentage = 130;
+    private const int HpRestorationPercentage = 10;
     private const int PercentageDivisor = 100;
     private const string RoundedHeightenedHealingTravelerName = "Agnea";
     private const int RoundedSmallHeightenedHealingMaximum = 349;
@@ -113,6 +114,16 @@ public sealed class TravelerCombatUnit
 
     public int ElemAtkPassiveBonus { get; }
 
+    public bool HasHpRestorationStatus => _hpRestorationDurationRounds > 0;
+
+    public bool HasSkillActivationDuplicationStatus => _skillActivationDuplicationDurationRounds > 0;
+
+    public bool HasTargetModificationStatus => _targetModificationDurationRounds > 0;
+
+    private int _hpRestorationDurationRounds;
+    private int _skillActivationDuplicationDurationRounds;
+    private int _targetModificationDurationRounds;
+
     public void EnterDefendState()
     {
         IsDefendingCurrentRound = true;
@@ -181,6 +192,37 @@ public sealed class TravelerCombatUnit
         CurrentSp = Math.Min(MaxSp, CurrentSp + normalizedSpAmount);
     }
 
+    public int ApplyHpRestorationStatus(int durationRounds)
+    {
+        _hpRestorationDurationRounds = ResolveBonusStatusDuration(_hpRestorationDurationRounds, durationRounds);
+        return durationRounds;
+    }
+
+    public int ApplySkillActivationDuplicationStatus(int durationRounds)
+    {
+        _skillActivationDuplicationDurationRounds = ResolveBonusStatusDuration(
+            _skillActivationDuplicationDurationRounds,
+            durationRounds);
+        return durationRounds;
+    }
+
+    public int ApplyTargetModificationStatus(int durationRounds)
+    {
+        _targetModificationDurationRounds = ResolveBonusStatusDuration(
+            _targetModificationDurationRounds,
+            durationRounds);
+        return durationRounds;
+    }
+
+    public void RecoverHpFromRestorationStatus()
+    {
+        if (!HasHpRestorationStatus || !IsAlive)
+            return;
+
+        int baseHealingAmount = MaxHp * HpRestorationPercentage / PercentageDivisor;
+        RecoverHp(CalculateReceivedHealing(baseHealingAmount));
+    }
+
     public void ReviveForNextRound(int revivedHp)
     {
         CurrentHp = Math.Clamp(revivedHp, MinimumRemainingStatValue, MaxHp);
@@ -205,6 +247,7 @@ public sealed class TravelerCombatUnit
         HasPendingIncreasedPriority = false;
         IsWaitingForNextRoundAfterRevive = false;
         DecreaseStatusEffectDurationsForNextRound();
+        DecreaseBonusStatusDurationsForNextRound();
     }
 
     public void PrepareBpForNextRound()
@@ -240,4 +283,21 @@ public sealed class TravelerCombatUnit
         int baseElemAtk = travelerDefinition.ElemAtk + passiveSkillProfile.StatBonuses.ElemAtkBonus;
         return passiveSkillProfile.HasStatSwap ? travelerDefinition.PhysAtk : baseElemAtk;
     }
+
+    private void DecreaseBonusStatusDurationsForNextRound()
+    {
+        _hpRestorationDurationRounds = DecreaseDuration(_hpRestorationDurationRounds);
+        _skillActivationDuplicationDurationRounds = DecreaseDuration(_skillActivationDuplicationDurationRounds);
+        _targetModificationDurationRounds = DecreaseDuration(_targetModificationDurationRounds);
+    }
+
+    private static int DecreaseDuration(int durationRounds)
+        => Math.Max(MinimumRemainingStatValue, durationRounds - 1);
+
+    private static int ResolveBonusStatusDuration(
+        int currentDurationRounds,
+        int durationRounds)
+        => currentDurationRounds > MinimumRemainingStatValue
+            ? currentDurationRounds + durationRounds
+            : durationRounds;
 }
