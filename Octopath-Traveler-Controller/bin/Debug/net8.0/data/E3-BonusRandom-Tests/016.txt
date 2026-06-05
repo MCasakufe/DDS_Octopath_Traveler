@@ -1,0 +1,1065 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+INPUT: 15
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+B-Primrose - HP:4002/4002 SP:504/504 BP:1
+C-Ophilia - HP:4002/4002 SP:470/470 BP:1
+D-Ochette - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Lightning Elemental - HP:2133/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ochette
+3.Z'aanta
+4.Ophilia
+5.Dark Elemental
+6.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Z'aanta
+4.Ophilia
+5.Dark Elemental
+6.Lightning Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Dark Elemental - HP:1822/1822 Shields:4
+2: Lightning Elemental - HP:2133/2133 Shields:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Dark Elemental recibe 0 de daño de tipo Dagger
+Dark Elemental termina con HP:1822
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+B-Primrose - HP:4002/4002 SP:504/504 BP:1
+C-Ophilia - HP:4002/4002 SP:470/470 BP:1
+D-Ochette - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Lightning Elemental - HP:2133/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Z'aanta
+3.Ophilia
+4.Dark Elemental
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Z'aanta
+4.Ophilia
+5.Dark Elemental
+6.Lightning Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Luminescence
+2: Ethereal Healing
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Ochette usa Ethereal Healing
+Z'aanta tendrá restauración de HP durante 3 rondas
+Primrose tendrá restauración de HP durante 3 rondas
+Ophilia tendrá restauración de HP durante 3 rondas
+Ochette tendrá restauración de HP durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+B-Primrose - HP:4002/4002 SP:504/504 BP:1
+C-Ophilia - HP:4002/4002 SP:470/470 BP:1
+D-Ochette - HP:4447/4447 SP:339/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Lightning Elemental - HP:2133/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Ophilia
+3.Dark Elemental
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Z'aanta
+4.Ophilia
+5.Dark Elemental
+6.Lightning Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Z'aanta usa Heal Wounds
+Primrose recupera 466 de vida
+Ophilia recupera 466 de vida
+Ochette recupera 466 de vida
+Z'aanta recupera 466 de vida
+Primrose termina con HP:4002
+Ophilia termina con HP:4002
+Ochette termina con HP:4447
+Z'aanta termina con HP:3222
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:365/371 BP:0
+B-Primrose - HP:4002/4002 SP:504/504 BP:1
+C-Ophilia - HP:4002/4002 SP:470/470 BP:1
+D-Ochette - HP:4447/4447 SP:339/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Lightning Elemental - HP:2133/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Dark Elemental
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Z'aanta
+4.Ophilia
+5.Dark Elemental
+6.Lightning Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Holy Light
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Dark Elemental - HP:1822/1822 Shields:4
+2: Lightning Elemental - HP:2133/2133 Shields:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Ophilia usa Holy Light
+Lightning Elemental recibe 941 de daño de tipo Light
+Lightning Elemental termina con HP:1192
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:365/371 BP:0
+B-Primrose - HP:4002/4002 SP:504/504 BP:1
+C-Ophilia - HP:4002/4002 SP:464/470 BP:0
+D-Ochette - HP:4447/4447 SP:339/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Lightning Elemental - HP:1192/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Z'aanta
+4.Ophilia
+5.Dark Elemental
+6.Lightning Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Z'aanta recibe 257 de daño elemental
+Z'aanta termina con HP:2965
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2965/3222 SP:365/371 BP:0
+B-Primrose - HP:4002/4002 SP:504/504 BP:1
+C-Ophilia - HP:4002/4002 SP:464/470 BP:0
+D-Ochette - HP:4447/4447 SP:339/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Lightning Elemental - HP:1192/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Z'aanta
+4.Ophilia
+5.Dark Elemental
+6.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Z'aanta recibe 175 de daño elemental
+Z'aanta termina con HP:2790
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2790/3222 SP:365/371 BP:0
+B-Primrose - HP:4002/4002 SP:504/504 BP:2
+C-Ophilia - HP:4002/4002 SP:464/470 BP:0
+D-Ochette - HP:4447/4447 SP:339/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Lightning Elemental - HP:1192/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ochette
+3.Z'aanta
+4.Ophilia
+5.Dark Elemental
+6.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Z'aanta
+4.Ophilia
+5.Dark Elemental
+6.Lightning Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Holy Light
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Dark Elemental - HP:1822/1822 Shields:4
+2: Lightning Elemental - HP:1192/2133 Shields:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Primrose usa Holy Light
+Lightning Elemental recibe 977 de daño de tipo Light
+Lightning Elemental termina con HP:215
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2790/3222 SP:365/371 BP:0
+B-Primrose - HP:4002/4002 SP:498/504 BP:1
+C-Ophilia - HP:4002/4002 SP:464/470 BP:0
+D-Ochette - HP:4447/4447 SP:339/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Lightning Elemental - HP:215/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Z'aanta
+3.Ophilia
+4.Dark Elemental
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Z'aanta
+4.Ophilia
+5.Dark Elemental
+6.Lightning Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2790/3222 SP:365/371 BP:0
+B-Primrose - HP:4002/4002 SP:498/504 BP:1
+C-Ophilia - HP:4002/4002 SP:464/470 BP:0
+D-Ochette - HP:4447/4447 SP:339/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Lightning Elemental - HP:215/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Ophilia
+3.Dark Elemental
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Primrose
+3.Z'aanta
+4.Ophilia
+5.Dark Elemental
+6.Lightning Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Dark Elemental - HP:1822/1822 Shields:4
+2: Lightning Elemental - HP:215/2133 Shields:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Z'aanta ataca
+Lightning Elemental recibe 169 de daño de tipo Bow
+Lightning Elemental termina con HP:46
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3112/3222 SP:365/371 BP:0
+B-Primrose - HP:4002/4002 SP:498/504 BP:1
+C-Ophilia - HP:4002/4002 SP:464/470 BP:0
+D-Ochette - HP:4447/4447 SP:339/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Lightning Elemental - HP:46/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Dark Elemental
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Primrose
+3.Z'aanta
+4.Ophilia
+5.Dark Elemental
+6.Lightning Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Holy Light
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Dark Elemental - HP:1822/1822 Shields:4
+2: Lightning Elemental - HP:46/2133 Shields:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Ophilia usa Holy Light
+Lightning Elemental recibe 296 de daño de tipo Light
+Lightning Elemental termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3112/3222 SP:365/371 BP:0
+B-Primrose - HP:4002/4002 SP:498/504 BP:1
+C-Ophilia - HP:4002/4002 SP:458/470 BP:0
+D-Ochette - HP:4447/4447 SP:339/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Lightning Elemental - HP:0/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Primrose
+3.Z'aanta
+4.Ophilia
+5.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Z'aanta recibe 257 de daño elemental
+Z'aanta termina con HP:2855
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2855/3222 SP:365/371 BP:1
+B-Primrose - HP:4002/4002 SP:498/504 BP:1
+C-Ophilia - HP:4002/4002 SP:458/470 BP:1
+D-Ochette - HP:4447/4447 SP:339/369 BP:1
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Lightning Elemental - HP:0/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Primrose
+3.Z'aanta
+4.Ophilia
+5.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Z'aanta
+4.Ophilia
+5.Dark Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Luminescence
+2: Ethereal Healing
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Ochette usa Ethereal Healing
+Z'aanta tendrá restauración de HP durante 3 rondas
+Primrose tendrá restauración de HP durante 3 rondas
+Ophilia tendrá restauración de HP durante 3 rondas
+Ochette tendrá restauración de HP durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2855/3222 SP:365/371 BP:1
+B-Primrose - HP:4002/4002 SP:498/504 BP:1
+C-Ophilia - HP:4002/4002 SP:458/470 BP:1
+D-Ochette - HP:4447/4447 SP:309/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Lightning Elemental - HP:0/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Z'aanta
+3.Ophilia
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Z'aanta
+4.Ophilia
+5.Dark Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Dark Elemental - HP:1822/1822 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Dark Elemental recibe 0 de daño de tipo Dagger
+Dark Elemental termina con HP:1822
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2855/3222 SP:365/371 BP:1
+B-Primrose - HP:4002/4002 SP:498/504 BP:1
+C-Ophilia - HP:4002/4002 SP:458/470 BP:1
+D-Ochette - HP:4447/4447 SP:309/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Lightning Elemental - HP:0/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Ophilia
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Z'aanta
+4.Ophilia
+5.Dark Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta usa Heal Wounds
+Primrose recupera 349 de vida
+Ophilia recupera 349 de vida
+Ochette recupera 349 de vida
+Z'aanta recupera 349 de vida
+Primrose termina con HP:4002
+Ophilia termina con HP:4002
+Ochette termina con HP:4447
+Z'aanta termina con HP:3204
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:359/371 BP:1
+B-Primrose - HP:4002/4002 SP:498/504 BP:1
+C-Ophilia - HP:4002/4002 SP:458/470 BP:1
+D-Ochette - HP:4447/4447 SP:309/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Lightning Elemental - HP:0/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Z'aanta
+4.Ophilia
+5.Dark Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:359/371 BP:1
+B-Primrose - HP:4002/4002 SP:498/504 BP:1
+C-Ophilia - HP:4002/4002 SP:458/470 BP:1
+D-Ochette - HP:4447/4447 SP:309/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Lightning Elemental - HP:0/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Primrose
+3.Ochette
+4.Z'aanta
+5.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Z'aanta recibe 257 de daño elemental
+Z'aanta termina con HP:2965
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2965/3222 SP:359/371 BP:2
+B-Primrose - HP:4002/4002 SP:498/504 BP:2
+C-Ophilia - HP:4002/4002 SP:458/470 BP:2
+D-Ochette - HP:4447/4447 SP:309/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Lightning Elemental - HP:0/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Primrose
+3.Ochette
+4.Z'aanta
+5.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Z'aanta
+4.Ophilia
+5.Dark Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Dark Elemental - HP:1822/1822 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Dark Elemental recibe 0 de daño de tipo Stave
+Dark Elemental termina con HP:1822
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2965/3222 SP:359/371 BP:2
+B-Primrose - HP:4002/4002 SP:498/504 BP:2
+C-Ophilia - HP:4002/4002 SP:458/470 BP:2
+D-Ochette - HP:4447/4447 SP:309/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Lightning Elemental - HP:0/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ochette
+3.Z'aanta
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Z'aanta
+4.Ophilia
+5.Dark Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Dark Elemental - HP:1822/1822 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Dark Elemental recibe 0 de daño de tipo Dagger
+Dark Elemental termina con HP:1822
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2965/3222 SP:359/371 BP:2
+B-Primrose - HP:4002/4002 SP:498/504 BP:2
+C-Ophilia - HP:4002/4002 SP:458/470 BP:2
+D-Ochette - HP:4447/4447 SP:309/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Lightning Elemental - HP:0/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Z'aanta
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Z'aanta
+4.Ophilia
+5.Dark Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Luminescence
+2: Ethereal Healing
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Ochette usa Ethereal Healing
+Z'aanta tendrá restauración de HP durante 2 rondas
+Primrose tendrá restauración de HP durante 2 rondas
+Ophilia tendrá restauración de HP durante 2 rondas
+Ochette tendrá restauración de HP durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2965/3222 SP:359/371 BP:2
+B-Primrose - HP:4002/4002 SP:498/504 BP:2
+C-Ophilia - HP:4002/4002 SP:458/470 BP:2
+D-Ochette - HP:4447/4447 SP:279/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Lightning Elemental - HP:0/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Z'aanta
+4.Ophilia
+5.Dark Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta usa Heal Wounds
+Primrose recupera 349 de vida
+Ophilia recupera 349 de vida
+Ochette recupera 349 de vida
+Z'aanta recupera 349 de vida
+Primrose termina con HP:4002
+Ophilia termina con HP:4002
+Ochette termina con HP:4447
+Z'aanta termina con HP:3222
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:353/371 BP:2
+B-Primrose - HP:4002/4002 SP:498/504 BP:2
+C-Ophilia - HP:4002/4002 SP:458/470 BP:2
+D-Ochette - HP:4447/4447 SP:279/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Lightning Elemental - HP:0/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Z'aanta
+4.Ophilia
+5.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Z'aanta recibe 257 de daño elemental
+Z'aanta termina con HP:2965
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2965/3222 SP:353/371 BP:3
+B-Primrose - HP:4002/4002 SP:498/504 BP:3
+C-Ophilia - HP:4002/4002 SP:458/470 BP:3
+D-Ochette - HP:4447/4447 SP:279/369 BP:1
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Lightning Elemental - HP:0/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ochette
+3.Z'aanta
+4.Ophilia
+5.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Z'aanta
+4.Ophilia
+5.Dark Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Dark Elemental - HP:1822/1822 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Dark Elemental recibe 0 de daño de tipo Dagger
+Dark Elemental termina con HP:1822
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2965/3222 SP:353/371 BP:3
+B-Primrose - HP:4002/4002 SP:498/504 BP:3
+C-Ophilia - HP:4002/4002 SP:458/470 BP:3
+D-Ochette - HP:4447/4447 SP:279/369 BP:1
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Lightning Elemental - HP:0/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Z'aanta
+3.Ophilia
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Z'aanta
+4.Ophilia
+5.Dark Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Luminescence
+2: Ethereal Healing
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Ochette no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Ochette no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Ochette usa Luminescence
+Dark Elemental recibe 1268 de daño de tipo Light con debilidad
+Dark Elemental termina con HP:554
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2965/3222 SP:353/371 BP:3
+B-Primrose - HP:4002/4002 SP:498/504 BP:3
+C-Ophilia - HP:4002/4002 SP:458/470 BP:3
+D-Ochette - HP:4447/4447 SP:270/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:554/1822 Shields:3
+B-Lightning Elemental - HP:0/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Ophilia
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Z'aanta
+4.Ophilia
+5.Dark Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Dark Elemental - HP:554/1822 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Dark Elemental recibe 0 de daño de tipo Bow
+Dark Elemental termina con HP:554
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:353/371 BP:3
+B-Primrose - HP:4002/4002 SP:498/504 BP:3
+C-Ophilia - HP:4002/4002 SP:458/470 BP:3
+D-Ochette - HP:4447/4447 SP:270/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:554/1822 Shields:3
+B-Lightning Elemental - HP:0/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Z'aanta
+4.Ophilia
+5.Dark Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Holy Light
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Dark Elemental - HP:554/1822 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Ophilia usa Holy Light
+Dark Elemental recibe 2559 de daño de tipo Light con debilidad
+Dark Elemental termina con HP:0
+----------------------------------------
+Gana equipo del jugador

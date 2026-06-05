@@ -13,7 +13,7 @@ public sealed class BattleStateView
         _view = view;
     }
 
-    public void PrintRoundState(BattleState battleState, RoundTurnQueues roundTurnQueues)
+    public void WriteRoundState(BattleState battleState, RoundTurnQueues roundTurnQueues)
     {
         WriteRoundHeader(battleState.RoundNumber);
         WriteTeamStatusBlock(battleState);
@@ -21,7 +21,7 @@ public sealed class BattleStateView
         WriteTurnQueueSection("Turnos de la siguiente ronda", roundTurnQueues.NextRound);
     }
 
-    public void PrintBattleSnapshot(BattleState battleState, RoundTurnQueues roundTurnQueues)
+    public void WriteBattleSnapshot(BattleState battleState, RoundTurnQueues roundTurnQueues)
     {
         _view.WriteLine(SeparatorLine);
         WriteTeamStatusBlock(battleState);

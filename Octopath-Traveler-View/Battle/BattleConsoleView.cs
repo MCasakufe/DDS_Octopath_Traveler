@@ -22,25 +22,25 @@ public sealed class BattleConsoleView
     public TravelerTurnOutcome RequestTravelerTurn(TravelerCombatUnit traveler, BattleState battleState)
         => _travelerTurnInputView.RequestTurn(traveler, battleState);
 
-    public void PrintRoundState(BattleState battleState, RoundTurnQueues roundTurnQueues)
-        => _battleStateView.PrintRoundState(battleState, roundTurnQueues);
+    public void WriteRoundState(BattleState battleState, RoundTurnQueues roundTurnQueues)
+        => _battleStateView.WriteRoundState(battleState, roundTurnQueues);
 
-    public void PrintBattleSnapshot(BattleState battleState, RoundTurnQueues roundTurnQueues)
-        => _battleStateView.PrintBattleSnapshot(battleState, roundTurnQueues);
+    public void WriteBattleSnapshot(BattleState battleState, RoundTurnQueues roundTurnQueues)
+        => _battleStateView.WriteBattleSnapshot(battleState, roundTurnQueues);
 
-    public void PrintTravelerBasicAttack(TravelerBasicAttack attack)
-        => _battleActionView.PrintTravelerBasicAttack(attack);
+    public void WriteTravelerBasicAttack(TravelerBasicAttack attack)
+        => _battleActionView.WriteTravelerBasicAttack(attack);
 
-    public void PrintTravelerSkill(TravelerSkillAction action)
-        => _battleActionView.PrintTravelerSkill(action);
+    public void WriteTravelerSkill(TravelerSkillAction action)
+        => _battleActionView.WriteTravelerSkill(action);
 
-    public void PrintBeastAttack(BeastAttack attack)
-        => _battleActionView.PrintBeastAttack(attack);
+    public void WriteBeastAttack(BeastAttack attack)
+        => _battleActionView.WriteBeastAttack(attack);
 
-    public void PrintPatienceExtraTurn(string travelerName)
-        => _battleActionView.PrintPatienceExtraTurn(travelerName);
+    public void WritePatienceExtraTurn(string travelerName)
+        => _battleActionView.WritePatienceExtraTurn(travelerName);
 
-    public void PrintWinner(BattleWinner winner)
+    public void WriteWinner(BattleWinner winner)
     {
         if (winner == BattleWinner.None)
             return;
@@ -51,7 +51,7 @@ public sealed class BattleConsoleView
             : "Gana equipo del enemigo");
     }
 
-    public void PrintEnemyWinnerAfterFlee()
+    public void WriteEnemyWinnerAfterFlee()
     {
         _view.WriteLine(SeparatorLine);
         _view.WriteLine("El equipo de viajeros ha huido!");

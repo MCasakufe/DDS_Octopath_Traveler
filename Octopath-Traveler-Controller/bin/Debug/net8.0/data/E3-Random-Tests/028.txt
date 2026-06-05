@@ -1,0 +1,527 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+INPUT: 27
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:332/332 BP:1
+B-H'aanit - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Devourer of Men - HP:7500/7500 Shields:8
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+C-Blood Revenant - HP:16352/16352 Shields:7
+D-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.H'aanit
+3.Devourer of Men
+4.Devourer of Dreams
+5.Blood Revenant
+6.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.H'aanit
+3.Devourer of Men
+4.Devourer of Dreams
+5.Blood Revenant
+6.Lord of the Flies
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Sheltering Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Throné - HP:4447/4447 SP:332/332 BP:1
+2: H'aanit - HP:4447/4447 SP:369/369 BP:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Throné usa Sheltering Veil
+H'aanit tendrá Increased Elemental Defense durante 4 rondas
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:326/332 BP:0
+B-H'aanit - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Devourer of Men - HP:7500/7500 Shields:8
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+C-Blood Revenant - HP:16352/16352 Shields:7
+D-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Devourer of Men
+3.Devourer of Dreams
+4.Blood Revenant
+5.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.H'aanit
+3.Devourer of Men
+4.Devourer of Dreams
+5.Blood Revenant
+6.Lord of the Flies
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Devourer of Men - HP:7500/7500 Shields:8
+2: Devourer of Dreams - HP:7500/7500 Shields:10
+3: Blood Revenant - HP:16352/16352 Shields:7
+4: Lord of the Flies - HP:5590/5590 Shields:3
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+H'aanit no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+H'aanit ataca
+Devourer of Dreams recibe 104 de daño de tipo Axe
+Devourer of Dreams recibe 104 de daño de tipo Axe
+Devourer of Dreams termina con HP:7292
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:326/332 BP:0
+B-H'aanit - HP:4447/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Devourer of Men - HP:7500/7500 Shields:8
+B-Devourer of Dreams - HP:7292/7500 Shields:10
+C-Blood Revenant - HP:16352/16352 Shields:7
+D-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Men
+2.Devourer of Dreams
+3.Blood Revenant
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.H'aanit
+3.Devourer of Men
+4.Devourer of Dreams
+5.Blood Revenant
+6.Lord of the Flies
+----------------------------------------
+Devourer of Men usa Shadow Magic
+Throné recibe 432 de daño elemental
+Throné recibe 432 de daño elemental
+H'aanit recibe 270 de daño elemental
+H'aanit recibe 270 de daño elemental
+Throné termina con HP:3583
+H'aanit termina con HP:3907
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:3583/4447 SP:326/332 BP:0
+B-H'aanit - HP:3907/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Devourer of Men - HP:7500/7500 Shields:8
+B-Devourer of Dreams - HP:7292/7500 Shields:10
+C-Blood Revenant - HP:16352/16352 Shields:7
+D-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Blood Revenant
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.H'aanit
+3.Devourer of Men
+4.Devourer of Dreams
+5.Blood Revenant
+6.Lord of the Flies
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Throné recibe 1792 de daño
+H'aanit recibe 1954 de daño
+Throné termina con HP:1791
+H'aanit termina con HP:1953
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:1791/4447 SP:326/332 BP:0
+B-H'aanit - HP:1953/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Devourer of Men - HP:7500/7500 Shields:8
+B-Devourer of Dreams - HP:7292/7500 Shields:10
+C-Blood Revenant - HP:16352/16352 Shields:7
+D-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.H'aanit
+3.Devourer of Men
+4.Devourer of Dreams
+5.Blood Revenant
+6.Lord of the Flies
+----------------------------------------
+Blood Revenant usa Volcano
+Throné recibe 636 de daño elemental
+Throné tendrá Decreased Elemental Defense durante 2 rondas
+H'aanit recibe 406 de daño elemental
+H'aanit tendrá Decreased Elemental Defense durante 2 rondas
+Throné termina con HP:1155
+H'aanit termina con HP:1547
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:1155/4447 SP:326/332 BP:0
+B-H'aanit - HP:1547/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Devourer of Men - HP:7500/7500 Shields:8
+B-Devourer of Dreams - HP:7292/7500 Shields:10
+C-Blood Revenant - HP:16352/16352 Shields:7
+D-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.H'aanit
+3.Devourer of Men
+4.Devourer of Dreams
+5.Blood Revenant
+6.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Throné recibe 355 de daño físico
+Throné termina con HP:800
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:800/4447 SP:326/332 BP:0
+B-H'aanit - HP:1547/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Devourer of Men - HP:7500/7500 Shields:8
+B-Devourer of Dreams - HP:7292/7500 Shields:10
+C-Blood Revenant - HP:16352/16352 Shields:7
+D-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.H'aanit
+3.Devourer of Men
+4.Devourer of Dreams
+5.Blood Revenant
+6.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.H'aanit
+3.Devourer of Men
+4.Devourer of Dreams
+5.Blood Revenant
+6.Lord of the Flies
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Devourer of Men - HP:7500/7500 Shields:8
+2: Devourer of Dreams - HP:7292/7500 Shields:10
+3: Blood Revenant - HP:16352/16352 Shields:7
+4: Lord of the Flies - HP:5590/5590 Shields:3
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Throné ataca
+Lord of the Flies recibe 0 de daño de tipo Sword
+Lord of the Flies termina con HP:5590
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:800/4447 SP:326/332 BP:0
+B-H'aanit - HP:1547/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Devourer of Men - HP:7500/7500 Shields:8
+B-Devourer of Dreams - HP:7292/7500 Shields:10
+C-Blood Revenant - HP:16352/16352 Shields:7
+D-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Devourer of Men
+3.Devourer of Dreams
+4.Blood Revenant
+5.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.H'aanit
+3.Devourer of Men
+4.Devourer of Dreams
+5.Blood Revenant
+6.Lord of the Flies
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Devourer of Men - HP:7500/7500 Shields:8
+2: Devourer of Dreams - HP:7292/7500 Shields:10
+3: Blood Revenant - HP:16352/16352 Shields:7
+4: Lord of the Flies - HP:5590/5590 Shields:3
+5: Cancelar
+INPUT: 4
+----------------------------------------
+H'aanit ataca
+Lord of the Flies recibe 29 de daño de tipo Bow con debilidad
+Lord of the Flies termina con HP:5561
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:800/4447 SP:326/332 BP:0
+B-H'aanit - HP:1547/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Devourer of Men - HP:7500/7500 Shields:8
+B-Devourer of Dreams - HP:7292/7500 Shields:10
+C-Blood Revenant - HP:16352/16352 Shields:7
+D-Lord of the Flies - HP:5561/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Men
+2.Devourer of Dreams
+3.Blood Revenant
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.H'aanit
+3.Devourer of Men
+4.Devourer of Dreams
+5.Blood Revenant
+6.Lord of the Flies
+----------------------------------------
+Devourer of Men usa Shadow Magic
+Throné recibe 648 de daño elemental
+Throné recibe 648 de daño elemental
+H'aanit recibe 405 de daño elemental
+H'aanit recibe 405 de daño elemental
+Throné termina con HP:0
+H'aanit termina con HP:737
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4447 SP:326/332 BP:0
+B-H'aanit - HP:737/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Devourer of Men - HP:7500/7500 Shields:8
+B-Devourer of Dreams - HP:7292/7500 Shields:10
+C-Blood Revenant - HP:16352/16352 Shields:7
+D-Lord of the Flies - HP:5561/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Blood Revenant
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Devourer of Men
+3.Devourer of Dreams
+4.Blood Revenant
+5.Lord of the Flies
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+H'aanit recibe 369 de daño
+H'aanit termina con HP:368
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4447 SP:326/332 BP:0
+B-H'aanit - HP:368/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Devourer of Men - HP:7500/7500 Shields:8
+B-Devourer of Dreams - HP:7292/7500 Shields:10
+C-Blood Revenant - HP:16352/16352 Shields:7
+D-Lord of the Flies - HP:5561/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Devourer of Men
+3.Devourer of Dreams
+4.Blood Revenant
+5.Lord of the Flies
+----------------------------------------
+Blood Revenant usa Volcano
+H'aanit recibe 609 de daño elemental
+H'aanit tendrá Decreased Elemental Defense durante 2 rondas
+H'aanit termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

@@ -25,5 +25,24 @@ internal sealed class ReviveTravelersSkillEffect : TravelerSkillEffect
     {
         target.ReviveForNextRound(_reviveStartingHp);
         effectContext.AddResult(new TravelerSkillReviveResult(target.Name));
+        ApplyBoostedHealing(effectContext, target);
+    }
+
+    private static void ApplyBoostedHealing(TravelerSkillEffectContext effectContext, TravelerCombatUnit target)
+    {
+        int healedValue = CalculateReviveHealing(effectContext);
+        if (healedValue <= 0)
+            return;
+
+        target.RecoverHp(healedValue);
+        effectContext.AddResult(new TravelerSkillHealingResult(target.Name, healedValue));
+    }
+
+    private static int CalculateReviveHealing(TravelerSkillEffectContext effectContext)
+    {
+        double rawHealing = effectContext.Traveler.ElemDef
+                            * effectContext.Skill.Modifier
+                            * effectContext.TurnOutcome.UsedBp;
+        return Math.Max(0, (int)Math.Floor(rawHealing));
     }
 }

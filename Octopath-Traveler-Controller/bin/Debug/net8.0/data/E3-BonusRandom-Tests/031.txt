@@ -1,0 +1,359 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+INPUT: 30
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Ice Elemental - HP:2160/2160 Shields:4
+D-Fire Wisp - HP:972/972 Shields:1
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Behemoth
+3.Devil Deer
+4.Ice Elemental
+5.Light Wisp
+6.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Behemoth
+3.Devil Deer
+4.Ice Elemental
+5.Light Wisp
+6.Fire Wisp
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Light Wisp - HP:972/972 Shields:1
+2: Devil Deer - HP:2002/2002 Shields:5
+3: Ice Elemental - HP:2160/2160 Shields:4
+4: Fire Wisp - HP:972/972 Shields:1
+5: Behemoth - HP:12690/12690 Shields:8
+6: Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore ataca
+Behemoth recibe 3 de daño de tipo Bow con debilidad
+Behemoth recibe 3 de daño de tipo Bow con debilidad
+Behemoth termina con HP:12684
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Ice Elemental - HP:2160/2160 Shields:4
+D-Fire Wisp - HP:972/972 Shields:1
+E-Behemoth - HP:12684/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Devil Deer
+3.Ice Elemental
+4.Light Wisp
+5.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Behemoth
+3.Devil Deer
+4.Ice Elemental
+5.Light Wisp
+6.Fire Wisp
+----------------------------------------
+Behemoth usa Stampede
+Heatcore recibe 740 de daño físico
+Heatcore termina con HP:2082
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2082/2822 SP:342/342 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Ice Elemental - HP:2160/2160 Shields:4
+D-Fire Wisp - HP:972/972 Shields:1
+E-Behemoth - HP:12684/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Ice Elemental
+3.Light Wisp
+4.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Behemoth
+3.Devil Deer
+4.Ice Elemental
+5.Light Wisp
+6.Fire Wisp
+----------------------------------------
+Devil Deer usa Boar Rush
+Heatcore recibe 570 de daño físico
+Heatcore termina con HP:1512
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1512/2822 SP:342/342 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Ice Elemental - HP:2160/2160 Shields:4
+D-Fire Wisp - HP:972/972 Shields:1
+E-Behemoth - HP:12684/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Light Wisp
+3.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Behemoth
+3.Devil Deer
+4.Ice Elemental
+5.Light Wisp
+6.Fire Wisp
+----------------------------------------
+Ice Elemental usa Iceshot
+Heatcore recibe 222 de daño elemental
+Heatcore termina con HP:1290
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1290/2822 SP:342/342 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Ice Elemental - HP:2160/2160 Shields:4
+D-Fire Wisp - HP:972/972 Shields:1
+E-Behemoth - HP:12684/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+2.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Behemoth
+3.Devil Deer
+4.Ice Elemental
+5.Light Wisp
+6.Fire Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Heatcore recibe 140 de daño elemental
+Heatcore termina con HP:1150
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1150/2822 SP:342/342 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Ice Elemental - HP:2160/2160 Shields:4
+D-Fire Wisp - HP:972/972 Shields:1
+E-Behemoth - HP:12684/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Behemoth
+3.Devil Deer
+4.Ice Elemental
+5.Light Wisp
+6.Fire Wisp
+----------------------------------------
+Fire Wisp usa Meteor Storm
+Heatcore recibe 140 de daño elemental
+Heatcore termina con HP:1010
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1010/2822 SP:342/342 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Ice Elemental - HP:2160/2160 Shields:4
+D-Fire Wisp - HP:972/972 Shields:1
+E-Behemoth - HP:12684/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Behemoth
+3.Devil Deer
+4.Ice Elemental
+5.Light Wisp
+6.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Behemoth
+3.Devil Deer
+4.Ice Elemental
+5.Light Wisp
+6.Fire Wisp
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Heal Wounds
+2: Heal More
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore usa Heal More
+Heatcore recupera 506 de vida
+Heatcore termina con HP:1516
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1516/2822 SP:317/342 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Ice Elemental - HP:2160/2160 Shields:4
+D-Fire Wisp - HP:972/972 Shields:1
+E-Behemoth - HP:12684/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Devil Deer
+3.Ice Elemental
+4.Light Wisp
+5.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Behemoth
+3.Devil Deer
+4.Ice Elemental
+5.Light Wisp
+6.Fire Wisp
+----------------------------------------
+Behemoth usa Stampede
+Heatcore recibe 740 de daño físico
+Heatcore termina con HP:776
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:776/2822 SP:317/342 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Ice Elemental - HP:2160/2160 Shields:4
+D-Fire Wisp - HP:972/972 Shields:1
+E-Behemoth - HP:12684/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Ice Elemental
+3.Light Wisp
+4.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Behemoth
+3.Devil Deer
+4.Ice Elemental
+5.Light Wisp
+6.Fire Wisp
+----------------------------------------
+Devil Deer usa Boar Rush
+Heatcore recibe 570 de daño físico
+Heatcore termina con HP:206
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:206/2822 SP:317/342 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Ice Elemental - HP:2160/2160 Shields:4
+D-Fire Wisp - HP:972/972 Shields:1
+E-Behemoth - HP:12684/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Light Wisp
+3.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Behemoth
+3.Devil Deer
+4.Ice Elemental
+5.Light Wisp
+6.Fire Wisp
+----------------------------------------
+Ice Elemental usa Iceshot
+Heatcore recibe 222 de daño elemental
+Heatcore termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

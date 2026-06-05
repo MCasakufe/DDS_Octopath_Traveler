@@ -1,18 +1,5 @@
 namespace Octopath_Traveler_Models.Battle;
 
-public sealed record BeastDamageResolution(
-    int Damage,
-    int TargetCurrentHp,
-    bool IsWeaknessHit,
-    bool EnteredBreakingPoint);
-
-public sealed record BeastHitRequest(
-    int AttackerPhysAtk,
-    int AttackerElemAtk,
-    BeastCombatUnit Target,
-    string DamageType,
-    double SkillModifier);
-
 public sealed class BeastDamageResolver
 {
     private const double WeaknessDamageMultiplier = 1.5;
@@ -22,6 +9,10 @@ public sealed class BeastDamageResolver
     private const int ZeroDamage = 0;
     private const int NoShieldsRemaining = 0;
     private const int BreakingRoundsDuration = 2;
+    private const int NoBreakingRoundsRemaining = 0;
+    private const int MinimumAllowedDamage = 0;
+    private const int MinimumSurvivingHp = 1;
+    private const double DamageFloorTolerance = 0.000000001;
 
     private static readonly HashSet<string> PhysicalDamageTypes = new(StringComparer.Ordinal)
     {
@@ -82,7 +73,7 @@ public sealed class BeastDamageResolver
     {
         BeastHitRequest hitRequest = calculationRequest.HitRequest;
         bool isWeaknessHit = hitRequest.Target.Weaknesses.Contains(hitRequest.DamageType);
-        bool wasTargetInBreakingState = hitRequest.Target.RemainingBreakingRounds > 0;
+        bool wasTargetInBreakingState = hitRequest.Target.RemainingBreakingRounds > NoBreakingRoundsRemaining;
         int uncappedDamage = CalculateUncappedDamage(new BeastHitStatusCalculation(
             hitRequest,
             calculationRequest.BonusDamageMultiplier,
@@ -97,12 +88,16 @@ public sealed class BeastDamageResolver
         BeastHitRequest hitRequest = statusCalculation.HitRequest;
         int attackStat = SelectAttackStat(hitRequest);
         int defenseStat = SelectDefenseStat(hitRequest);
-        double statusMultiplier = CalculateStatusDamageMultiplier(
+        double weaknessAndBreakingMultiplier = CalculateStatusDamageMultiplier(
             ResolveStatusDamageContext(statusCalculation.HitStatus));
+        double attackerStatusMultiplier = SelectAttackerStatusMultiplier(hitRequest);
+        double defenderStatusMultiplier = SelectDefenderStatusMultiplier(hitRequest);
         double rawDamage = (attackStat * hitRequest.SkillModifier - defenseStat)
-                           * statusMultiplier
+                           * attackerStatusMultiplier
+                           * defenderStatusMultiplier
+                           * weaknessAndBreakingMultiplier
                            * statusCalculation.BonusDamageMultiplier;
-        return Math.Max(ZeroDamage, (int)Math.Floor(rawDamage));
+        return Math.Max(ZeroDamage, (int)Math.Floor(rawDamage + DamageFloorTolerance));
     }
 
     private static void ApplyHitDamage(BeastCombatUnit target, int damage)
@@ -113,7 +108,7 @@ public sealed class BeastDamageResolver
         if (damageCap != DamageCapType.KeepAtLeastOneHp)
             return uncappedDamage;
 
-        int maximumAllowedDamage = Math.Max(0, targetCurrentHp - 1);
+        int maximumAllowedDamage = Math.Max(MinimumAllowedDamage, targetCurrentHp - MinimumSurvivingHp);
         return Math.Min(uncappedDamage, maximumAllowedDamage);
     }
 
@@ -176,50 +171,22 @@ public sealed class BeastDamageResolver
 
     private static int SelectAttackStat(BeastHitRequest hitRequest)
         => IsPhysicalDamageType(hitRequest.DamageType)
-            ? hitRequest.AttackerPhysAtk
-            : hitRequest.AttackerElemAtk;
+            ? hitRequest.Attacker.PhysAtk
+            : hitRequest.Attacker.ElemAtk;
 
     private static int SelectDefenseStat(BeastHitRequest hitRequest)
         => IsPhysicalDamageType(hitRequest.DamageType)
             ? hitRequest.Target.PhysDef
             : hitRequest.Target.ElemDef;
 
-    private enum DamageCapType
-    {
-        None,
-        KeepAtLeastOneHp
-    }
+    private static double SelectAttackerStatusMultiplier(BeastHitRequest hitRequest)
+        => IsPhysicalDamageType(hitRequest.DamageType)
+            ? hitRequest.Attacker.GetPhysicalAttackDamageMultiplier()
+            : hitRequest.Attacker.GetElementalAttackDamageMultiplier();
 
-    private sealed record BreakingPointAttempt(
-        BeastCombatUnit Target,
-        bool IsWeaknessHit,
-        int Damage,
-        bool WasTargetInBreakingState);
+    private static double SelectDefenderStatusMultiplier(BeastHitRequest hitRequest)
+        => IsPhysicalDamageType(hitRequest.DamageType)
+            ? hitRequest.Target.GetPhysicalDefenseDamageMultiplier()
+            : hitRequest.Target.GetElementalDefenseDamageMultiplier();
 
-    private sealed record BeastHitCalculation(
-        int Damage,
-        bool IsWeaknessHit,
-        bool WasTargetInBreakingState);
-
-    private sealed record BeastHitCalculationRequest(
-        BeastHitRequest HitRequest,
-        double BonusDamageMultiplier,
-        DamageCapType DamageCap);
-
-    private sealed record BeastHitStatusCalculation(
-        BeastHitRequest HitRequest,
-        double BonusDamageMultiplier,
-        HitStatus HitStatus);
-
-    private sealed record HitStatus(
-        bool IsWeaknessHit,
-        bool IsTargetInBreakingState);
-
-    private enum StatusDamageContext
-    {
-        NoBonus,
-        WeaknessOnly,
-        BreakingOnly,
-        WeaknessAndBreaking
-    }
 }

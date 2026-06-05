@@ -21,12 +21,12 @@ public sealed class TravelerSkillTurnCommand
         if (turnOutcome.SelectedSkillName is null)
             return;
 
-        traveler.ConsumeActionBp(turnOutcome.UsedBp);
         TravelerSkillAction action = _travelerSkillExecutor.ExecuteSkill(new TravelerSkillExecutionRequest(
             traveler,
             battleState,
             turnOutcome,
             turnOutcome.SelectedSkillName));
-        _battleConsoleView.PrintTravelerSkill(action);
+        traveler.ConsumeActionBp(turnOutcome.UsedBp);
+        _battleConsoleView.WriteTravelerSkill(action);
     }
 }

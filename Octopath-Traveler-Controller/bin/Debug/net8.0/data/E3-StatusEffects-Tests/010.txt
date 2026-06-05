@@ -1,0 +1,760 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+INPUT: 9
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Frost Bear - HP:1197/1197 Shields:3
+B-Horned Fly - HP:1205/1205 Shields:2
+C-Horse Fly - HP:2857/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Cyrus
+3.Horse Fly
+4.Horned Fly
+5.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Horse Fly
+4.Horned Fly
+5.Frost Bear
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Peacock Strut
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Primrose - HP:4002/4002 SP:504/504 BP:1
+2: Cyrus - HP:3557/3557 SP:582/582 BP:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Peacock Strut
+Cyrus tendrá Increased Elemental Attack durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:500/504 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Frost Bear - HP:1197/1197 Shields:3
+B-Horned Fly - HP:1205/1205 Shields:2
+C-Horse Fly - HP:2857/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Horse Fly
+3.Horned Fly
+4.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Horse Fly
+4.Horned Fly
+5.Frost Bear
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Fireball
+Frost Bear recibe 789 de daño de tipo Fire
+Horned Fly recibe 495 de daño de tipo Fire
+Horse Fly recibe 432 de daño de tipo Fire
+Frost Bear termina con HP:408
+Horned Fly termina con HP:710
+Horse Fly termina con HP:2425
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:500/504 BP:1
+B-Cyrus - HP:3557/3557 SP:574/582 BP:1
+Equipo del enemigo
+A-Frost Bear - HP:408/1197 Shields:3
+B-Horned Fly - HP:710/1205 Shields:2
+C-Horse Fly - HP:2425/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Horse Fly
+2.Horned Fly
+3.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Horse Fly
+4.Horned Fly
+5.Frost Bear
+----------------------------------------
+Horse Fly usa Attack
+Primrose recibe 310 de daño físico
+Primrose termina con HP:3692
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3692/4002 SP:500/504 BP:1
+B-Cyrus - HP:3557/3557 SP:574/582 BP:1
+Equipo del enemigo
+A-Frost Bear - HP:408/1197 Shields:3
+B-Horned Fly - HP:710/1205 Shields:2
+C-Horse Fly - HP:2425/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Horned Fly
+2.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Horse Fly
+4.Horned Fly
+5.Frost Bear
+----------------------------------------
+Horned Fly usa Attack
+Primrose recibe 282 de daño físico
+Primrose termina con HP:3410
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3410/4002 SP:500/504 BP:1
+B-Cyrus - HP:3557/3557 SP:574/582 BP:1
+Equipo del enemigo
+A-Frost Bear - HP:408/1197 Shields:3
+B-Horned Fly - HP:710/1205 Shields:2
+C-Horse Fly - HP:2425/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Horse Fly
+4.Horned Fly
+5.Frost Bear
+----------------------------------------
+Frost Bear usa Attack
+Cyrus recibe 15 de daño físico
+Cyrus termina con HP:3542
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3410/4002 SP:500/504 BP:2
+B-Cyrus - HP:3542/3557 SP:574/582 BP:2
+Equipo del enemigo
+A-Frost Bear - HP:408/1197 Shields:3
+B-Horned Fly - HP:710/1205 Shields:2
+C-Horse Fly - HP:2425/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Cyrus
+3.Horse Fly
+4.Horned Fly
+5.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Horse Fly
+4.Horned Fly
+5.Frost Bear
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Peacock Strut
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Primrose - HP:3410/4002 SP:500/504 BP:2
+2: Cyrus - HP:3542/3557 SP:574/582 BP:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Peacock Strut
+Cyrus tendrá Increased Elemental Attack durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3410/4002 SP:496/504 BP:2
+B-Cyrus - HP:3542/3557 SP:574/582 BP:2
+Equipo del enemigo
+A-Frost Bear - HP:408/1197 Shields:3
+B-Horned Fly - HP:710/1205 Shields:2
+C-Horse Fly - HP:2425/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Horse Fly
+3.Horned Fly
+4.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Horse Fly
+4.Horned Fly
+5.Frost Bear
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Fireball
+Frost Bear recibe 789 de daño de tipo Fire
+Horned Fly recibe 495 de daño de tipo Fire
+Horse Fly recibe 432 de daño de tipo Fire
+Frost Bear termina con HP:0
+Horned Fly termina con HP:215
+Horse Fly termina con HP:1993
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3410/4002 SP:496/504 BP:2
+B-Cyrus - HP:3542/3557 SP:566/582 BP:2
+Equipo del enemigo
+A-Frost Bear - HP:0/1197 Shields:3
+B-Horned Fly - HP:215/1205 Shields:2
+C-Horse Fly - HP:1993/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Horse Fly
+2.Horned Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Horse Fly
+4.Horned Fly
+----------------------------------------
+Horse Fly usa Attack
+Cyrus recibe 259 de daño físico
+Cyrus termina con HP:3283
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3410/4002 SP:496/504 BP:2
+B-Cyrus - HP:3283/3557 SP:566/582 BP:2
+Equipo del enemigo
+A-Frost Bear - HP:0/1197 Shields:3
+B-Horned Fly - HP:215/1205 Shields:2
+C-Horse Fly - HP:1993/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Horned Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Horse Fly
+4.Horned Fly
+----------------------------------------
+Horned Fly usa Attack
+Primrose recibe 282 de daño físico
+Primrose termina con HP:3128
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3128/4002 SP:496/504 BP:3
+B-Cyrus - HP:3283/3557 SP:566/582 BP:3
+Equipo del enemigo
+A-Frost Bear - HP:0/1197 Shields:3
+B-Horned Fly - HP:215/1205 Shields:2
+C-Horse Fly - HP:1993/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Cyrus
+3.Horse Fly
+4.Horned Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Horse Fly
+4.Horned Fly
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Horned Fly - HP:215/1205 Shields:2
+2: Horse Fly - HP:1993/2857 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Horned Fly recibe 0 de daño de tipo Dagger
+Horned Fly termina con HP:215
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3128/4002 SP:496/504 BP:3
+B-Cyrus - HP:3283/3557 SP:566/582 BP:3
+Equipo del enemigo
+A-Frost Bear - HP:0/1197 Shields:3
+B-Horned Fly - HP:215/1205 Shields:2
+C-Horse Fly - HP:1993/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Horse Fly
+3.Horned Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Horse Fly
+4.Horned Fly
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Fireball
+Horned Fly recibe 495 de daño de tipo Fire
+Horse Fly recibe 432 de daño de tipo Fire
+Horned Fly termina con HP:0
+Horse Fly termina con HP:1561
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3128/4002 SP:496/504 BP:3
+B-Cyrus - HP:3283/3557 SP:558/582 BP:3
+Equipo del enemigo
+A-Frost Bear - HP:0/1197 Shields:3
+B-Horned Fly - HP:0/1205 Shields:2
+C-Horse Fly - HP:1561/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Horse Fly
+----------------------------------------
+Horse Fly usa Attack
+Cyrus recibe 259 de daño físico
+Cyrus termina con HP:3024
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3128/4002 SP:496/504 BP:4
+B-Cyrus - HP:3024/3557 SP:558/582 BP:4
+Equipo del enemigo
+A-Frost Bear - HP:0/1197 Shields:3
+B-Horned Fly - HP:0/1205 Shields:2
+C-Horse Fly - HP:1561/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Cyrus
+3.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Horse Fly
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Horse Fly - HP:1561/2857 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Horse Fly recibe 0 de daño de tipo Dagger
+Horse Fly termina con HP:1561
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3128/4002 SP:496/504 BP:4
+B-Cyrus - HP:3024/3557 SP:558/582 BP:4
+Equipo del enemigo
+A-Frost Bear - HP:0/1197 Shields:3
+B-Horned Fly - HP:0/1205 Shields:2
+C-Horse Fly - HP:1561/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Horse Fly
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Fireball
+Horse Fly recibe 432 de daño de tipo Fire
+Horse Fly termina con HP:1129
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3128/4002 SP:496/504 BP:4
+B-Cyrus - HP:3024/3557 SP:550/582 BP:4
+Equipo del enemigo
+A-Frost Bear - HP:0/1197 Shields:3
+B-Horned Fly - HP:0/1205 Shields:2
+C-Horse Fly - HP:1129/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Horse Fly
+----------------------------------------
+Horse Fly usa Attack
+Primrose recibe 310 de daño físico
+Primrose termina con HP:2818
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2818/4002 SP:496/504 BP:5
+B-Cyrus - HP:3024/3557 SP:550/582 BP:5
+Equipo del enemigo
+A-Frost Bear - HP:0/1197 Shields:3
+B-Horned Fly - HP:0/1205 Shields:2
+C-Horse Fly - HP:1129/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Cyrus
+3.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Horse Fly
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Horse Fly - HP:1129/2857 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Horse Fly recibe 0 de daño de tipo Dagger
+Horse Fly termina con HP:1129
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2818/4002 SP:496/504 BP:5
+B-Cyrus - HP:3024/3557 SP:550/582 BP:5
+Equipo del enemigo
+A-Frost Bear - HP:0/1197 Shields:3
+B-Horned Fly - HP:0/1205 Shields:2
+C-Horse Fly - HP:1129/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Horse Fly
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Fireball
+Horse Fly recibe 288 de daño de tipo Fire
+Horse Fly termina con HP:841
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2818/4002 SP:496/504 BP:5
+B-Cyrus - HP:3024/3557 SP:542/582 BP:5
+Equipo del enemigo
+A-Frost Bear - HP:0/1197 Shields:3
+B-Horned Fly - HP:0/1205 Shields:2
+C-Horse Fly - HP:841/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Horse Fly
+----------------------------------------
+Horse Fly usa Attack
+Cyrus recibe 259 de daño físico
+Cyrus termina con HP:2765
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2818/4002 SP:496/504 BP:5
+B-Cyrus - HP:2765/3557 SP:542/582 BP:5
+Equipo del enemigo
+A-Frost Bear - HP:0/1197 Shields:3
+B-Horned Fly - HP:0/1205 Shields:2
+C-Horse Fly - HP:841/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Cyrus
+3.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Horse Fly
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Peacock Strut
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Primrose - HP:2818/4002 SP:496/504 BP:5
+2: Cyrus - HP:2765/3557 SP:542/582 BP:5
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Peacock Strut
+Cyrus tendrá Increased Elemental Attack durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2818/4002 SP:492/504 BP:5
+B-Cyrus - HP:2765/3557 SP:542/582 BP:5
+Equipo del enemigo
+A-Frost Bear - HP:0/1197 Shields:3
+B-Horned Fly - HP:0/1205 Shields:2
+C-Horse Fly - HP:841/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Horse Fly
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Fireball
+Horse Fly recibe 432 de daño de tipo Fire
+Horse Fly termina con HP:409
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2818/4002 SP:492/504 BP:5
+B-Cyrus - HP:2765/3557 SP:534/582 BP:5
+Equipo del enemigo
+A-Frost Bear - HP:0/1197 Shields:3
+B-Horned Fly - HP:0/1205 Shields:2
+C-Horse Fly - HP:409/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Horse Fly
+----------------------------------------
+Horse Fly usa Attack
+Primrose recibe 310 de daño físico
+Primrose termina con HP:2508
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2508/4002 SP:492/504 BP:5
+B-Cyrus - HP:2765/3557 SP:534/582 BP:5
+Equipo del enemigo
+A-Frost Bear - HP:0/1197 Shields:3
+B-Horned Fly - HP:0/1205 Shields:2
+C-Horse Fly - HP:409/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Cyrus
+3.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Horse Fly
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo

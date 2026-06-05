@@ -1,0 +1,1770 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+INPUT: 80
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:407/407 BP:1
+B-Alfyn - HP:5336/5336 SP:383/383 BP:1
+C-Ochette - HP:4447/4447 SP:369/369 BP:1
+D-Temenos - HP:4502/4502 SP:432/432 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:7500/7500 Shields:10
+B-Lightning Remnant - HP:2779/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Temenos
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Remnant
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Holy Light
+2: Abide
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Devourer of Dreams - HP:7500/7500 Shields:10
+2: Lightning Remnant - HP:2779/2779 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette usa Holy Light
+Devourer of Dreams recibe 315 de daño de tipo Light con debilidad
+Devourer of Dreams termina con HP:7185
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:407/407 BP:1
+B-Alfyn - HP:5336/5336 SP:383/383 BP:1
+C-Ochette - HP:4447/4447 SP:363/369 BP:1
+D-Temenos - HP:4502/4502 SP:432/432 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:7185/7500 Shields:9
+B-Lightning Remnant - HP:2779/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Alfyn
+3.Tressa
+4.Devourer of Dreams
+5.Lightning Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Remnant
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:407/407 BP:1
+B-Alfyn - HP:5336/5336 SP:383/383 BP:1
+C-Ochette - HP:4447/4447 SP:363/369 BP:1
+D-Temenos - HP:4502/4502 SP:432/432 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:7185/7500 Shields:9
+B-Lightning Remnant - HP:2779/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Tressa
+3.Devourer of Dreams
+4.Lightning Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Ochette
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Remnant
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Devourer of Dreams - HP:7185/7500 Shields:9
+2: Lightning Remnant - HP:2779/2779 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Devourer of Dreams recibe 94 de daño de tipo Axe
+Devourer of Dreams termina con HP:7091
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:407/407 BP:1
+B-Alfyn - HP:5336/5336 SP:383/383 BP:1
+C-Ochette - HP:4447/4447 SP:363/369 BP:1
+D-Temenos - HP:4502/4502 SP:432/432 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:7091/7500 Shields:9
+B-Lightning Remnant - HP:2779/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Devourer of Dreams
+3.Lightning Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Ochette
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Remnant
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Lightning Blast
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Lightning Blast
+Devourer of Dreams recibe 334 de daño de tipo Lightning
+Devourer of Dreams recibe 334 de daño de tipo Lightning
+Lightning Remnant recibe 385 de daño de tipo Lightning
+Lightning Remnant recibe 385 de daño de tipo Lightning
+Devourer of Dreams termina con HP:6423
+Lightning Remnant termina con HP:2009
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:385/407 BP:1
+B-Alfyn - HP:5336/5336 SP:383/383 BP:1
+C-Ochette - HP:4447/4447 SP:363/369 BP:1
+D-Temenos - HP:4502/4502 SP:432/432 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:6423/7500 Shields:9
+B-Lightning Remnant - HP:2009/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Lightning Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Ochette
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Remnant
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Tressa recibe 2446 de daño
+Alfyn recibe 2668 de daño
+Ochette recibe 2224 de daño
+Temenos recibe 2251 de daño
+Tressa termina con HP:2445
+Alfyn termina con HP:2668
+Ochette termina con HP:2223
+Temenos termina con HP:2251
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2445/4891 SP:385/407 BP:1
+B-Alfyn - HP:2668/5336 SP:383/383 BP:1
+C-Ochette - HP:2223/4447 SP:363/369 BP:1
+D-Temenos - HP:2251/4502 SP:432/432 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:6423/7500 Shields:9
+B-Lightning Remnant - HP:2009/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lightning Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Ochette
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Remnant
+----------------------------------------
+Lightning Remnant usa Double Bite
+Ochette recibe 64 de daño físico
+Ochette recibe 64 de daño físico
+Ochette termina con HP:2095
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2445/4891 SP:385/407 BP:2
+B-Alfyn - HP:2668/5336 SP:383/383 BP:2
+C-Ochette - HP:2095/4447 SP:363/369 BP:2
+D-Temenos - HP:2701/4502 SP:432/432 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:6423/7500 Shields:9
+B-Lightning Remnant - HP:2009/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Ochette
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Remnant
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Stout Wall
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Temenos usa Stout Wall
+Temenos tendrá Increased Physical Defense durante 7 rondas
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2445/4891 SP:385/407 BP:2
+B-Alfyn - HP:2668/5336 SP:383/383 BP:2
+C-Ochette - HP:2095/4447 SP:363/369 BP:2
+D-Temenos - HP:2701/4502 SP:428/432 BP:0
+Equipo del enemigo
+A-Devourer of Dreams - HP:6423/7500 Shields:9
+B-Lightning Remnant - HP:2009/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Alfyn
+3.Tressa
+4.Devourer of Dreams
+5.Lightning Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Remnant
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2445/4891 SP:385/407 BP:2
+B-Alfyn - HP:2668/5336 SP:383/383 BP:2
+C-Ochette - HP:2095/4447 SP:363/369 BP:2
+D-Temenos - HP:2701/4502 SP:428/432 BP:0
+Equipo del enemigo
+A-Devourer of Dreams - HP:6423/7500 Shields:9
+B-Lightning Remnant - HP:2009/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Tressa
+3.Devourer of Dreams
+4.Lightning Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Remnant
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2445/4891 SP:385/407 BP:2
+B-Alfyn - HP:2668/5336 SP:383/383 BP:2
+C-Ochette - HP:2095/4447 SP:363/369 BP:2
+D-Temenos - HP:2701/4502 SP:428/432 BP:0
+Equipo del enemigo
+A-Devourer of Dreams - HP:6423/7500 Shields:9
+B-Lightning Remnant - HP:2009/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Devourer of Dreams
+3.Lightning Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Alfyn
+3.Temenos
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Remnant
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2445/4891 SP:385/407 BP:2
+B-Alfyn - HP:2668/5336 SP:383/383 BP:2
+C-Ochette - HP:2095/4447 SP:363/369 BP:2
+D-Temenos - HP:2701/4502 SP:428/432 BP:0
+Equipo del enemigo
+A-Devourer of Dreams - HP:6423/7500 Shields:9
+B-Lightning Remnant - HP:2009/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Lightning Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Alfyn
+3.Tressa
+4.Temenos
+5.Devourer of Dreams
+6.Lightning Remnant
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Tressa recibe 1223 de daño
+Alfyn recibe 1334 de daño
+Ochette recibe 1048 de daño
+Temenos recibe 1351 de daño
+Tressa termina con HP:1222
+Alfyn termina con HP:1334
+Ochette termina con HP:1047
+Temenos termina con HP:1350
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:1222/4891 SP:385/407 BP:2
+B-Alfyn - HP:1334/5336 SP:383/383 BP:2
+C-Ochette - HP:1047/4447 SP:363/369 BP:2
+D-Temenos - HP:1350/4502 SP:428/432 BP:0
+Equipo del enemigo
+A-Devourer of Dreams - HP:6423/7500 Shields:9
+B-Lightning Remnant - HP:2009/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lightning Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Alfyn
+3.Tressa
+4.Temenos
+5.Devourer of Dreams
+6.Lightning Remnant
+----------------------------------------
+Lightning Remnant usa Double Bite
+Ochette se defiende
+Ochette recibe 32 de daño físico
+Ochette recibe 32 de daño físico
+Ochette termina con HP:983
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:1222/4891 SP:385/407 BP:3
+B-Alfyn - HP:1334/5336 SP:383/383 BP:3
+C-Ochette - HP:983/4447 SP:363/369 BP:3
+D-Temenos - HP:1800/4502 SP:428/432 BP:0
+Equipo del enemigo
+A-Devourer of Dreams - HP:6423/7500 Shields:9
+B-Lightning Remnant - HP:2009/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Alfyn
+3.Tressa
+4.Temenos
+5.Devourer of Dreams
+6.Lightning Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Remnant
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Devourer of Dreams - HP:6423/7500 Shields:9
+2: Lightning Remnant - HP:2009/2779 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette ataca
+Lightning Remnant recibe 523 de daño de tipo Axe con debilidad
+Ochette recupera 5 SP
+Lightning Remnant termina con HP:1486
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:1222/4891 SP:385/407 BP:3
+B-Alfyn - HP:1334/5336 SP:383/383 BP:3
+C-Ochette - HP:983/4447 SP:368/369 BP:3
+D-Temenos - HP:1800/4502 SP:428/432 BP:0
+Equipo del enemigo
+A-Devourer of Dreams - HP:6423/7500 Shields:9
+B-Lightning Remnant - HP:1486/2779 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Tressa
+3.Temenos
+4.Devourer of Dreams
+5.Lightning Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Remnant
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Balogar's Blade
+2: Vivify
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Balogar's Blade
+2: Vivify
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Devourer of Dreams - HP:6423/7500 Shields:9
+2: Lightning Remnant - HP:1486/2779 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Alfyn usa Balogar's Blade
+Devourer of Dreams recibe 149 de daño de tipo Fire
+Devourer of Dreams recibe 149 de daño de tipo Ice
+Devourer of Dreams recibe 149 de daño de tipo Lightning
+Devourer of Dreams recibe 149 de daño de tipo Wind
+Devourer of Dreams recibe 223 de daño de tipo Light con debilidad
+Devourer of Dreams recibe 149 de daño de tipo Dark
+Devourer of Dreams termina con HP:5455
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:1222/4891 SP:385/407 BP:3
+B-Alfyn - HP:1334/5336 SP:333/383 BP:0
+C-Ochette - HP:983/4447 SP:368/369 BP:3
+D-Temenos - HP:1800/4502 SP:428/432 BP:0
+Equipo del enemigo
+A-Devourer of Dreams - HP:5455/7500 Shields:8
+B-Lightning Remnant - HP:1486/2779 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Temenos
+3.Devourer of Dreams
+4.Lightning Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Remnant
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Devourer of Dreams - HP:5455/7500 Shields:8
+2: Lightning Remnant - HP:1486/2779 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa ataca
+Lightning Remnant recibe 263 de daño de tipo Bow
+Lightning Remnant recibe 263 de daño de tipo Bow
+Lightning Remnant recibe 263 de daño de tipo Bow
+Lightning Remnant termina con HP:697
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:1222/4891 SP:385/407 BP:1
+B-Alfyn - HP:1334/5336 SP:333/383 BP:0
+C-Ochette - HP:983/4447 SP:368/369 BP:3
+D-Temenos - HP:1800/4502 SP:428/432 BP:0
+Equipo del enemigo
+A-Devourer of Dreams - HP:5455/7500 Shields:8
+B-Lightning Remnant - HP:697/2779 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Devourer of Dreams
+3.Lightning Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Remnant
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:1222/4891 SP:385/407 BP:1
+B-Alfyn - HP:1334/5336 SP:333/383 BP:0
+C-Ochette - HP:983/4447 SP:368/369 BP:3
+D-Temenos - HP:1800/4502 SP:428/432 BP:0
+Equipo del enemigo
+A-Devourer of Dreams - HP:5455/7500 Shields:8
+B-Lightning Remnant - HP:697/2779 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Lightning Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Ochette
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Remnant
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Tressa recibe 611 de daño
+Alfyn recibe 667 de daño
+Ochette recibe 492 de daño
+Temenos recibe 900 de daño
+Tressa termina con HP:611
+Alfyn termina con HP:667
+Ochette termina con HP:491
+Temenos termina con HP:900
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:611/4891 SP:385/407 BP:1
+B-Alfyn - HP:667/5336 SP:333/383 BP:0
+C-Ochette - HP:491/4447 SP:368/369 BP:3
+D-Temenos - HP:900/4502 SP:428/432 BP:0
+Equipo del enemigo
+A-Devourer of Dreams - HP:5455/7500 Shields:8
+B-Lightning Remnant - HP:697/2779 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lightning Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Ochette
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Remnant
+----------------------------------------
+Lightning Remnant usa Double Bite
+Ochette recibe 64 de daño físico
+Ochette recibe 64 de daño físico
+Ochette termina con HP:363
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:611/4891 SP:385/407 BP:1
+B-Alfyn - HP:667/5336 SP:333/383 BP:0
+C-Ochette - HP:363/4447 SP:368/369 BP:4
+D-Temenos - HP:1350/4502 SP:428/432 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:5455/7500 Shields:8
+B-Lightning Remnant - HP:697/2779 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Ochette
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Remnant
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Stout Wall
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Temenos no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos usa Stout Wall
+Temenos tendrá Increased Physical Defense durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:611/4891 SP:385/407 BP:1
+B-Alfyn - HP:667/5336 SP:333/383 BP:0
+C-Ochette - HP:363/4447 SP:368/369 BP:4
+D-Temenos - HP:1350/4502 SP:424/432 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:5455/7500 Shields:8
+B-Lightning Remnant - HP:697/2779 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Alfyn
+3.Tressa
+4.Devourer of Dreams
+5.Lightning Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Remnant
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:611/4891 SP:385/407 BP:1
+B-Alfyn - HP:667/5336 SP:333/383 BP:0
+C-Ochette - HP:363/4447 SP:368/369 BP:4
+D-Temenos - HP:1350/4502 SP:424/432 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:5455/7500 Shields:8
+B-Lightning Remnant - HP:697/2779 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Tressa
+3.Devourer of Dreams
+4.Lightning Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Remnant
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Devourer of Dreams - HP:5455/7500 Shields:8
+2: Lightning Remnant - HP:697/2779 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Alfyn ataca
+Lightning Remnant recibe 433 de daño de tipo Axe con debilidad
+Lightning Remnant termina con HP:264
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:611/4891 SP:385/407 BP:1
+B-Alfyn - HP:667/5336 SP:333/383 BP:0
+C-Ochette - HP:363/4447 SP:368/369 BP:4
+D-Temenos - HP:1350/4502 SP:424/432 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:5455/7500 Shields:8
+B-Lightning Remnant - HP:264/2779 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Devourer of Dreams
+3.Lightning Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Remnant
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Lightning Blast
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Lightning Blast
+Devourer of Dreams recibe 334 de daño de tipo Lightning
+Devourer of Dreams recibe 334 de daño de tipo Lightning
+Lightning Remnant recibe 385 de daño de tipo Lightning
+Lightning Remnant recibe 385 de daño de tipo Lightning
+Devourer of Dreams termina con HP:4787
+Lightning Remnant termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:611/4891 SP:363/407 BP:1
+B-Alfyn - HP:667/5336 SP:333/383 BP:0
+C-Ochette - HP:363/4447 SP:368/369 BP:4
+D-Temenos - HP:1350/4502 SP:424/432 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:4787/7500 Shields:8
+B-Lightning Remnant - HP:0/2779 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Tressa recibe 306 de daño
+Alfyn recibe 334 de daño
+Ochette recibe 182 de daño
+Temenos recibe 675 de daño
+Tressa termina con HP:305
+Alfyn termina con HP:333
+Ochette termina con HP:181
+Temenos termina con HP:675
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:305/4891 SP:363/407 BP:2
+B-Alfyn - HP:333/5336 SP:333/383 BP:1
+C-Ochette - HP:181/4447 SP:368/369 BP:5
+D-Temenos - HP:1125/4502 SP:424/432 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:4787/7500 Shields:8
+B-Lightning Remnant - HP:0/2779 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Temenos
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Devourer of Dreams - HP:4787/7500 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Ochette ataca
+Devourer of Dreams recibe 153 de daño de tipo Bow
+Devourer of Dreams recibe 153 de daño de tipo Bow
+Devourer of Dreams recibe 153 de daño de tipo Bow
+Ochette recupera 4 SP
+Devourer of Dreams termina con HP:4328
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:305/4891 SP:363/407 BP:2
+B-Alfyn - HP:333/5336 SP:333/383 BP:1
+C-Ochette - HP:181/4447 SP:369/369 BP:3
+D-Temenos - HP:1125/4502 SP:424/432 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:4328/7500 Shields:8
+B-Lightning Remnant - HP:0/2779 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Alfyn
+3.Tressa
+4.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Stout Wall
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Temenos usa Stout Wall
+Temenos tendrá Increased Physical Defense durante 5 rondas
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:305/4891 SP:363/407 BP:2
+B-Alfyn - HP:333/5336 SP:333/383 BP:1
+C-Ochette - HP:181/4447 SP:369/369 BP:3
+D-Temenos - HP:1125/4502 SP:420/432 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:4328/7500 Shields:8
+B-Lightning Remnant - HP:0/2779 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Tressa
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Devourer of Dreams - HP:4328/7500 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Alfyn ataca
+Devourer of Dreams recibe 94 de daño de tipo Axe
+Devourer of Dreams recibe 94 de daño de tipo Axe
+Devourer of Dreams termina con HP:4140
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:305/4891 SP:363/407 BP:2
+B-Alfyn - HP:333/5336 SP:333/383 BP:0
+C-Ochette - HP:181/4447 SP:369/369 BP:3
+D-Temenos - HP:1125/4502 SP:420/432 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:4140/7500 Shields:8
+B-Lightning Remnant - HP:0/2779 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Lightning Blast
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa usa Lightning Blast
+Devourer of Dreams recibe 887 de daño de tipo Lightning
+Devourer of Dreams recibe 887 de daño de tipo Lightning
+Devourer of Dreams termina con HP:2366
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:305/4891 SP:341/407 BP:1
+B-Alfyn - HP:333/5336 SP:333/383 BP:0
+C-Ochette - HP:181/4447 SP:369/369 BP:3
+D-Temenos - HP:1125/4502 SP:420/432 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:2366/7500 Shields:8
+B-Lightning Remnant - HP:0/2779 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Tressa recibe 153 de daño
+Alfyn recibe 167 de daño
+Ochette recibe 91 de daño
+Temenos recibe 563 de daño
+Tressa termina con HP:152
+Alfyn termina con HP:166
+Ochette termina con HP:90
+Temenos termina con HP:562
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:152/4891 SP:341/407 BP:1
+B-Alfyn - HP:166/5336 SP:333/383 BP:0
+C-Ochette - HP:90/4447 SP:369/369 BP:3
+D-Temenos - HP:1012/4502 SP:420/432 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:2366/7500 Shields:8
+B-Lightning Remnant - HP:0/2779 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Temenos
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:152/4891 SP:341/407 BP:1
+B-Alfyn - HP:166/5336 SP:333/383 BP:0
+C-Ochette - HP:90/4447 SP:369/369 BP:3
+D-Temenos - HP:1012/4502 SP:420/432 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:2366/7500 Shields:8
+B-Lightning Remnant - HP:0/2779 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Alfyn
+3.Tressa
+4.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Devourer of Dreams - HP:2366/7500 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Temenos no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Temenos no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Temenos no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Temenos no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Temenos ataca
+Devourer of Dreams recibe 34 de daño de tipo Stave
+Devourer of Dreams recibe 34 de daño de tipo Stave
+Devourer of Dreams termina con HP:2298
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:152/4891 SP:341/407 BP:1
+B-Alfyn - HP:166/5336 SP:333/383 BP:0
+C-Ochette - HP:90/4447 SP:369/369 BP:3
+D-Temenos - HP:1012/4502 SP:420/432 BP:0
+Equipo del enemigo
+A-Devourer of Dreams - HP:2298/7500 Shields:8
+B-Lightning Remnant - HP:0/2779 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Tressa
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Devourer of Dreams - HP:2298/7500 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Alfyn ataca
+Devourer of Dreams recibe 94 de daño de tipo Axe
+Devourer of Dreams termina con HP:2204
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:152/4891 SP:341/407 BP:1
+B-Alfyn - HP:166/5336 SP:333/383 BP:0
+C-Ochette - HP:90/4447 SP:369/369 BP:3
+D-Temenos - HP:1012/4502 SP:420/432 BP:0
+Equipo del enemigo
+A-Devourer of Dreams - HP:2204/7500 Shields:8
+B-Lightning Remnant - HP:0/2779 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Lightning Blast
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa usa Lightning Blast
+Devourer of Dreams recibe 887 de daño de tipo Lightning
+Devourer of Dreams recibe 887 de daño de tipo Lightning
+Devourer of Dreams termina con HP:430
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:152/4891 SP:319/407 BP:0
+B-Alfyn - HP:166/5336 SP:333/383 BP:0
+C-Ochette - HP:90/4447 SP:369/369 BP:3
+D-Temenos - HP:1012/4502 SP:420/432 BP:0
+Equipo del enemigo
+A-Devourer of Dreams - HP:430/7500 Shields:8
+B-Lightning Remnant - HP:0/2779 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Tressa recibe 0 de daño
+Alfyn recibe 83 de daño
+Ochette recibe 45 de daño
+Temenos recibe 506 de daño
+Tressa termina con HP:152
+Alfyn termina con HP:83
+Ochette termina con HP:45
+Temenos termina con HP:506
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:152/4891 SP:319/407 BP:0
+B-Alfyn - HP:83/5336 SP:333/383 BP:1
+C-Ochette - HP:45/4447 SP:369/369 BP:4
+D-Temenos - HP:956/4502 SP:420/432 BP:0
+Equipo del enemigo
+A-Devourer of Dreams - HP:430/7500 Shields:8
+B-Lightning Remnant - HP:0/2779 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Temenos
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Holy Light
+2: Abide
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Tressa - HP:152/4891 SP:319/407 BP:0
+2: Alfyn - HP:83/5336 SP:333/383 BP:1
+3: Ochette - HP:45/4447 SP:369/369 BP:4
+4: Temenos - HP:956/4502 SP:420/432 BP:0
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Ochette usa Abide
+Temenos tendrá Increased Physical Attack durante 4 rondas
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:152/4891 SP:319/407 BP:0
+B-Alfyn - HP:83/5336 SP:333/383 BP:1
+C-Ochette - HP:45/4447 SP:365/369 BP:3
+D-Temenos - HP:956/4502 SP:420/432 BP:0
+Equipo del enemigo
+A-Devourer of Dreams - HP:430/7500 Shields:8
+B-Lightning Remnant - HP:0/2779 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Alfyn
+3.Tressa
+4.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Stout Wall
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Temenos usa Stout Wall
+Temenos tendrá Increased Physical Defense durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:152/4891 SP:319/407 BP:0
+B-Alfyn - HP:83/5336 SP:333/383 BP:1
+C-Ochette - HP:45/4447 SP:365/369 BP:3
+D-Temenos - HP:956/4502 SP:416/432 BP:0
+Equipo del enemigo
+A-Devourer of Dreams - HP:430/7500 Shields:8
+B-Lightning Remnant - HP:0/2779 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Tressa
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:152/4891 SP:319/407 BP:0
+B-Alfyn - HP:83/5336 SP:333/383 BP:1
+C-Ochette - HP:45/4447 SP:365/369 BP:3
+D-Temenos - HP:956/4502 SP:416/432 BP:0
+Equipo del enemigo
+A-Devourer of Dreams - HP:430/7500 Shields:8
+B-Lightning Remnant - HP:0/2779 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Ochette
+3.Temenos
+4.Tressa
+5.Devourer of Dreams
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Devourer of Dreams - HP:430/7500 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Devourer of Dreams recibe 68 de daño de tipo Spear
+Devourer of Dreams termina con HP:362
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:152/4891 SP:319/407 BP:0
+B-Alfyn - HP:83/5336 SP:333/383 BP:1
+C-Ochette - HP:45/4447 SP:365/369 BP:3
+D-Temenos - HP:956/4502 SP:416/432 BP:0
+Equipo del enemigo
+A-Devourer of Dreams - HP:362/7500 Shields:8
+B-Lightning Remnant - HP:0/2779 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Ochette
+3.Temenos
+4.Tressa
+5.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Tressa recibe 0 de daño
+Alfyn recibe 42 de daño
+Ochette recibe 23 de daño
+Temenos recibe 478 de daño
+Tressa termina con HP:152
+Alfyn termina con HP:41
+Ochette termina con HP:22
+Temenos termina con HP:478
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:152/4891 SP:319/407 BP:1
+B-Alfyn - HP:41/5336 SP:333/383 BP:2
+C-Ochette - HP:22/4447 SP:365/369 BP:3
+D-Temenos - HP:928/4502 SP:416/432 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:362/7500 Shields:8
+B-Lightning Remnant - HP:0/2779 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Ochette
+3.Temenos
+4.Tressa
+5.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:152/4891 SP:319/407 BP:1
+B-Alfyn - HP:41/5336 SP:333/383 BP:2
+C-Ochette - HP:22/4447 SP:365/369 BP:3
+D-Temenos - HP:928/4502 SP:416/432 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:362/7500 Shields:8
+B-Lightning Remnant - HP:0/2779 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Temenos
+3.Tressa
+4.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Ochette
+3.Temenos
+4.Tressa
+5.Devourer of Dreams
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Holy Light
+2: Abide
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Devourer of Dreams - HP:362/7500 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Ochette usa Holy Light
+Devourer of Dreams recibe 1787 de daño de tipo Light con debilidad
+Devourer of Dreams termina con HP:0
+----------------------------------------
+Gana equipo del jugador

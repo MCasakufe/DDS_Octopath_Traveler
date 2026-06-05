@@ -1,0 +1,2079 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+INPUT: 1
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:332/332 BP:1
+B-Primrose - HP:4502/4502 SP:504/504 BP:2
+C-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-High Wolf - HP:1458/1458 Shields:2
+B-River Fly - HP:1010/1010 Shields:2
+C-War Wolf - HP:3548/3548 Shields:2
+D-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Primrose
+3.High Wolf
+4.Olberic
+5.Meep
+6.River Fly
+7.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.High Wolf
+4.Olberic
+5.Meep
+6.River Fly
+7.War Wolf
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Throné
+1: High Wolf - HP:1458/1458 Shields:2
+2: River Fly - HP:1010/1010 Shields:2
+3: War Wolf - HP:3548/3548 Shields:2
+4: Meep - HP:1016/1016 Shields:2
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné ataca
+War Wolf recibe 420 de daño de tipo Sword con debilidad
+Throné recupera 4 SP
+War Wolf termina con HP:3128
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:332/332 BP:1
+B-Primrose - HP:4502/4502 SP:504/504 BP:2
+C-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-High Wolf - HP:1458/1458 Shields:2
+B-River Fly - HP:1010/1010 Shields:2
+C-War Wolf - HP:3128/3548 Shields:1
+D-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.High Wolf
+3.Olberic
+4.Meep
+5.River Fly
+6.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.High Wolf
+4.Olberic
+5.Meep
+6.River Fly
+7.War Wolf
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: High Wolf - HP:1458/1458 Shields:2
+2: River Fly - HP:1010/1010 Shields:2
+3: War Wolf - HP:3128/3548 Shields:1
+4: Meep - HP:1016/1016 Shields:2
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+High Wolf recibe 116 de daño de tipo Dagger
+High Wolf termina con HP:1342
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:332/332 BP:1
+B-Primrose - HP:4502/4502 SP:504/504 BP:2
+C-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-High Wolf - HP:1342/1458 Shields:2
+B-River Fly - HP:1010/1010 Shields:2
+C-War Wolf - HP:3128/3548 Shields:1
+D-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.High Wolf
+2.Olberic
+3.Meep
+4.River Fly
+5.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.High Wolf
+4.Olberic
+5.Meep
+6.River Fly
+7.War Wolf
+----------------------------------------
+High Wolf usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:5781
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:332/332 BP:1
+B-Primrose - HP:4502/4502 SP:504/504 BP:2
+C-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-High Wolf - HP:1342/1458 Shields:2
+B-River Fly - HP:1010/1010 Shields:2
+C-War Wolf - HP:3128/3548 Shields:1
+D-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.River Fly
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.High Wolf
+4.Olberic
+5.Meep
+6.River Fly
+7.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:332/332 BP:1
+B-Primrose - HP:4502/4502 SP:504/504 BP:2
+C-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-High Wolf - HP:1342/1458 Shields:2
+B-River Fly - HP:1010/1010 Shields:2
+C-War Wolf - HP:3128/3548 Shields:1
+D-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.River Fly
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Throné
+3.Primrose
+4.High Wolf
+5.Meep
+6.River Fly
+7.War Wolf
+----------------------------------------
+Meep usa Attack
+Olberic se defiende
+Olberic recibe 70 de daño físico
+Olberic termina con HP:5711
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:332/332 BP:1
+B-Primrose - HP:4502/4502 SP:504/504 BP:2
+C-Olberic - HP:5711/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-High Wolf - HP:1342/1458 Shields:2
+B-River Fly - HP:1010/1010 Shields:2
+C-War Wolf - HP:3128/3548 Shields:1
+D-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.River Fly
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Throné
+3.Primrose
+4.High Wolf
+5.Meep
+6.River Fly
+7.War Wolf
+----------------------------------------
+River Fly usa Attack
+Olberic se defiende
+Olberic recibe 37 de daño físico
+Olberic termina con HP:5674
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:332/332 BP:1
+B-Primrose - HP:4502/4502 SP:504/504 BP:2
+C-Olberic - HP:5674/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-High Wolf - HP:1342/1458 Shields:2
+B-River Fly - HP:1010/1010 Shields:2
+C-War Wolf - HP:3128/3548 Shields:1
+D-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Throné
+3.Primrose
+4.High Wolf
+5.Meep
+6.River Fly
+7.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic se defiende
+Olberic recibe 37 de daño físico
+Olberic termina con HP:5637
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:332/332 BP:2
+B-Primrose - HP:4502/4502 SP:504/504 BP:3
+C-Olberic - HP:5637/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-High Wolf - HP:1342/1458 Shields:2
+B-River Fly - HP:1010/1010 Shields:2
+C-War Wolf - HP:3128/3548 Shields:1
+D-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Throné
+3.Primrose
+4.High Wolf
+5.Meep
+6.River Fly
+7.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.High Wolf
+4.Olberic
+5.Meep
+6.River Fly
+7.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:332/332 BP:2
+B-Primrose - HP:4502/4502 SP:504/504 BP:3
+C-Olberic - HP:5637/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-High Wolf - HP:1342/1458 Shields:2
+B-River Fly - HP:1010/1010 Shields:2
+C-War Wolf - HP:3128/3548 Shields:1
+D-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Primrose
+3.High Wolf
+4.Meep
+5.River Fly
+6.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Throné
+3.Primrose
+4.High Wolf
+5.Meep
+6.River Fly
+7.War Wolf
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Heal More
+2: Revive
+3: Wildfire
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Throné usa Heal More
+Primrose recupera 592 de vida
+Olberic recupera 592 de vida
+Throné recupera 592 de vida
+Primrose termina con HP:4502
+Olberic termina con HP:5781
+Throné termina con HP:4447
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:307/332 BP:1
+B-Primrose - HP:4502/4502 SP:504/504 BP:3
+C-Olberic - HP:5781/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-High Wolf - HP:1342/1458 Shields:2
+B-River Fly - HP:1010/1010 Shields:2
+C-War Wolf - HP:3128/3548 Shields:1
+D-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.High Wolf
+3.Meep
+4.River Fly
+5.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Throné
+3.Primrose
+4.High Wolf
+5.Meep
+6.River Fly
+7.War Wolf
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Thousand Spears
+2: Draefendi's Rage
+3: Ignis Ardere
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Primrose usa Thousand Spears
+High Wolf recibe 188 de daño de tipo Spear
+High Wolf recibe 188 de daño de tipo Spear
+High Wolf recibe 188 de daño de tipo Spear
+High Wolf recibe 188 de daño de tipo Spear
+High Wolf recibe 188 de daño de tipo Spear
+High Wolf recibe 188 de daño de tipo Spear
+High Wolf recibe 188 de daño de tipo Spear
+High Wolf termina con HP:26
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:307/332 BP:1
+B-Primrose - HP:4502/4502 SP:484/504 BP:1
+C-Olberic - HP:5781/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-High Wolf - HP:26/1458 Shields:2
+B-River Fly - HP:1010/1010 Shields:2
+C-War Wolf - HP:3128/3548 Shields:1
+D-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.High Wolf
+2.Meep
+3.River Fly
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Throné
+3.Primrose
+4.High Wolf
+5.Meep
+6.River Fly
+7.War Wolf
+----------------------------------------
+High Wolf usa Attack
+Olberic se defiende
+Olberic recibe 0 de daño físico
+Olberic termina con HP:5781
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:307/332 BP:1
+B-Primrose - HP:4502/4502 SP:484/504 BP:1
+C-Olberic - HP:5781/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-High Wolf - HP:26/1458 Shields:2
+B-River Fly - HP:1010/1010 Shields:2
+C-War Wolf - HP:3128/3548 Shields:1
+D-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.River Fly
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Throné
+3.Primrose
+4.High Wolf
+5.Meep
+6.River Fly
+7.War Wolf
+----------------------------------------
+Meep usa Attack
+Olberic se defiende
+Olberic recibe 70 de daño físico
+Olberic termina con HP:5711
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:307/332 BP:1
+B-Primrose - HP:4502/4502 SP:484/504 BP:1
+C-Olberic - HP:5711/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-High Wolf - HP:26/1458 Shields:2
+B-River Fly - HP:1010/1010 Shields:2
+C-War Wolf - HP:3128/3548 Shields:1
+D-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.River Fly
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Throné
+3.Primrose
+4.High Wolf
+5.Meep
+6.River Fly
+7.War Wolf
+----------------------------------------
+River Fly usa Attack
+Olberic se defiende
+Olberic recibe 37 de daño físico
+Olberic termina con HP:5674
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:307/332 BP:1
+B-Primrose - HP:4502/4502 SP:484/504 BP:1
+C-Olberic - HP:5674/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-High Wolf - HP:26/1458 Shields:2
+B-River Fly - HP:1010/1010 Shields:2
+C-War Wolf - HP:3128/3548 Shields:1
+D-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Throné
+3.Primrose
+4.High Wolf
+5.Meep
+6.River Fly
+7.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic se defiende
+Olberic recibe 37 de daño físico
+Olberic termina con HP:5637
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:307/332 BP:1
+B-Primrose - HP:4502/4502 SP:484/504 BP:1
+C-Olberic - HP:5637/5781 SP:291/291 BP:3
+Equipo del enemigo
+A-High Wolf - HP:26/1458 Shields:2
+B-River Fly - HP:1010/1010 Shields:2
+C-War Wolf - HP:3128/3548 Shields:1
+D-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Throné
+3.Primrose
+4.High Wolf
+5.Meep
+6.River Fly
+7.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.High Wolf
+4.Olberic
+5.Meep
+6.River Fly
+7.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: High Wolf - HP:26/1458 Shields:2
+2: River Fly - HP:1010/1010 Shields:2
+3: War Wolf - HP:3128/3548 Shields:1
+4: Meep - HP:1016/1016 Shields:2
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+High Wolf recibe 368 de daño de tipo Sword
+High Wolf termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:307/332 BP:1
+B-Primrose - HP:4502/4502 SP:484/504 BP:1
+C-Olberic - HP:5637/5781 SP:291/291 BP:3
+Equipo del enemigo
+A-High Wolf - HP:0/1458 Shields:2
+B-River Fly - HP:1010/1010 Shields:2
+C-War Wolf - HP:3128/3548 Shields:1
+D-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Primrose
+3.Meep
+4.River Fly
+5.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Olberic
+4.Meep
+5.River Fly
+6.War Wolf
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Throné
+1: River Fly - HP:1010/1010 Shields:2
+2: War Wolf - HP:3128/3548 Shields:1
+3: Meep - HP:1016/1016 Shields:2
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné ataca
+River Fly recibe 191 de daño de tipo Sword
+Throné recupera 1 SP
+River Fly termina con HP:819
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:308/332 BP:1
+B-Primrose - HP:4502/4502 SP:484/504 BP:1
+C-Olberic - HP:5637/5781 SP:291/291 BP:3
+Equipo del enemigo
+A-High Wolf - HP:0/1458 Shields:2
+B-River Fly - HP:819/1010 Shields:2
+C-War Wolf - HP:3128/3548 Shields:1
+D-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Meep
+3.River Fly
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Olberic
+4.Meep
+5.River Fly
+6.War Wolf
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Thousand Spears
+2: Ignis Ardere
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Primrose no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Primrose no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Primrose usa Thousand Spears
+War Wolf recibe 51 de daño de tipo Spear
+War Wolf recibe 51 de daño de tipo Spear
+War Wolf recibe 51 de daño de tipo Spear
+War Wolf recibe 51 de daño de tipo Spear
+War Wolf recibe 51 de daño de tipo Spear
+War Wolf recibe 51 de daño de tipo Spear
+War Wolf recibe 51 de daño de tipo Spear
+War Wolf termina con HP:2771
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:308/332 BP:1
+B-Primrose - HP:4502/4502 SP:464/504 BP:0
+C-Olberic - HP:5637/5781 SP:291/291 BP:3
+Equipo del enemigo
+A-High Wolf - HP:0/1458 Shields:2
+B-River Fly - HP:819/1010 Shields:2
+C-War Wolf - HP:2771/3548 Shields:1
+D-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.River Fly
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Olberic
+4.Meep
+5.River Fly
+6.War Wolf
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:5497
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:308/332 BP:1
+B-Primrose - HP:4502/4502 SP:464/504 BP:0
+C-Olberic - HP:5497/5781 SP:291/291 BP:3
+Equipo del enemigo
+A-High Wolf - HP:0/1458 Shields:2
+B-River Fly - HP:819/1010 Shields:2
+C-War Wolf - HP:2771/3548 Shields:1
+D-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.River Fly
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Olberic
+4.Meep
+5.River Fly
+6.War Wolf
+----------------------------------------
+River Fly usa Attack
+Olberic recibe 74 de daño físico
+Olberic termina con HP:5423
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:308/332 BP:1
+B-Primrose - HP:4502/4502 SP:464/504 BP:0
+C-Olberic - HP:5423/5781 SP:291/291 BP:3
+Equipo del enemigo
+A-High Wolf - HP:0/1458 Shields:2
+B-River Fly - HP:819/1010 Shields:2
+C-War Wolf - HP:2771/3548 Shields:1
+D-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Olberic
+4.Meep
+5.River Fly
+6.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic recibe 74 de daño físico
+Olberic termina con HP:5349
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:308/332 BP:2
+B-Primrose - HP:4502/4502 SP:464/504 BP:0
+C-Olberic - HP:5349/5781 SP:291/291 BP:4
+Equipo del enemigo
+A-High Wolf - HP:0/1458 Shields:2
+B-River Fly - HP:819/1010 Shields:2
+C-War Wolf - HP:2771/3548 Shields:1
+D-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Primrose
+3.Olberic
+4.Meep
+5.River Fly
+6.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Olberic
+4.Meep
+5.River Fly
+6.War Wolf
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throné
+1: River Fly - HP:819/1010 Shields:2
+2: War Wolf - HP:2771/3548 Shields:1
+3: Meep - HP:1016/1016 Shields:2
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné ataca
+River Fly recibe 191 de daño de tipo Dagger
+Throné recupera 1 SP
+River Fly termina con HP:628
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:309/332 BP:2
+B-Primrose - HP:4502/4502 SP:464/504 BP:0
+C-Olberic - HP:5349/5781 SP:291/291 BP:4
+Equipo del enemigo
+A-High Wolf - HP:0/1458 Shields:2
+B-River Fly - HP:628/1010 Shields:2
+C-War Wolf - HP:2771/3548 Shields:1
+D-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.River Fly
+5.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Olberic
+4.Meep
+5.River Fly
+6.War Wolf
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: River Fly - HP:628/1010 Shields:2
+2: War Wolf - HP:2771/3548 Shields:1
+3: Meep - HP:1016/1016 Shields:2
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Primrose ataca
+River Fly recibe 0 de daño de tipo Dagger
+River Fly termina con HP:628
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:309/332 BP:2
+B-Primrose - HP:4502/4502 SP:464/504 BP:0
+C-Olberic - HP:5349/5781 SP:291/291 BP:4
+Equipo del enemigo
+A-High Wolf - HP:0/1458 Shields:2
+B-River Fly - HP:628/1010 Shields:2
+C-War Wolf - HP:2771/3548 Shields:1
+D-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.River Fly
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Olberic
+4.Meep
+5.River Fly
+6.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: River Fly - HP:628/1010 Shields:2
+2: War Wolf - HP:2771/3548 Shields:1
+3: Meep - HP:1016/1016 Shields:2
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Meep recibe 132 de daño de tipo Sword
+Meep termina con HP:884
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:309/332 BP:2
+B-Primrose - HP:4502/4502 SP:464/504 BP:0
+C-Olberic - HP:5349/5781 SP:291/291 BP:4
+Equipo del enemigo
+A-High Wolf - HP:0/1458 Shields:2
+B-River Fly - HP:628/1010 Shields:2
+C-War Wolf - HP:2771/3548 Shields:1
+D-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.River Fly
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Olberic
+4.Meep
+5.River Fly
+6.War Wolf
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:5209
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:309/332 BP:2
+B-Primrose - HP:4502/4502 SP:464/504 BP:0
+C-Olberic - HP:5209/5781 SP:291/291 BP:4
+Equipo del enemigo
+A-High Wolf - HP:0/1458 Shields:2
+B-River Fly - HP:628/1010 Shields:2
+C-War Wolf - HP:2771/3548 Shields:1
+D-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.River Fly
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Olberic
+4.Meep
+5.River Fly
+6.War Wolf
+----------------------------------------
+River Fly usa Attack
+Olberic recibe 74 de daño físico
+Olberic termina con HP:5135
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:309/332 BP:2
+B-Primrose - HP:4502/4502 SP:464/504 BP:0
+C-Olberic - HP:5135/5781 SP:291/291 BP:4
+Equipo del enemigo
+A-High Wolf - HP:0/1458 Shields:2
+B-River Fly - HP:628/1010 Shields:2
+C-War Wolf - HP:2771/3548 Shields:1
+D-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Olberic
+4.Meep
+5.River Fly
+6.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic recibe 74 de daño físico
+Olberic termina con HP:5061
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:309/332 BP:3
+B-Primrose - HP:4502/4502 SP:464/504 BP:1
+C-Olberic - HP:5061/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-High Wolf - HP:0/1458 Shields:2
+B-River Fly - HP:628/1010 Shields:2
+C-War Wolf - HP:2771/3548 Shields:1
+D-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Primrose
+3.Olberic
+4.Meep
+5.River Fly
+6.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Olberic
+4.Meep
+5.River Fly
+6.War Wolf
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:309/332 BP:3
+B-Primrose - HP:4502/4502 SP:464/504 BP:1
+C-Olberic - HP:5061/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-High Wolf - HP:0/1458 Shields:2
+B-River Fly - HP:628/1010 Shields:2
+C-War Wolf - HP:2771/3548 Shields:1
+D-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.River Fly
+5.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Olberic
+4.Meep
+5.River Fly
+6.War Wolf
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: River Fly - HP:628/1010 Shields:2
+2: War Wolf - HP:2771/3548 Shields:1
+3: Meep - HP:884/1016 Shields:2
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+War Wolf recibe 75 de daño de tipo Dagger
+War Wolf termina con HP:2696
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:309/332 BP:3
+B-Primrose - HP:4502/4502 SP:464/504 BP:1
+C-Olberic - HP:5061/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-High Wolf - HP:0/1458 Shields:2
+B-River Fly - HP:628/1010 Shields:2
+C-War Wolf - HP:2696/3548 Shields:1
+D-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.River Fly
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Olberic
+4.Meep
+5.River Fly
+6.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Brand's Thunder
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: River Fly - HP:628/1010 Shields:2
+2: War Wolf - HP:2696/3548 Shields:1
+3: Meep - HP:884/1016 Shields:2
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Olberic usa Brand's Thunder
+River Fly recibe 2712 de daño de tipo Sword
+River Fly termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:309/332 BP:3
+B-Primrose - HP:4502/4502 SP:464/504 BP:1
+C-Olberic - HP:5061/5781 SP:261/291 BP:2
+Equipo del enemigo
+A-High Wolf - HP:0/1458 Shields:2
+B-River Fly - HP:0/1010 Shields:2
+C-War Wolf - HP:2696/3548 Shields:1
+D-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:4921
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:309/332 BP:3
+B-Primrose - HP:4502/4502 SP:464/504 BP:1
+C-Olberic - HP:4921/5781 SP:261/291 BP:2
+Equipo del enemigo
+A-High Wolf - HP:0/1458 Shields:2
+B-River Fly - HP:0/1010 Shields:2
+C-War Wolf - HP:2696/3548 Shields:1
+D-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic recibe 74 de daño físico
+Olberic termina con HP:4847
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:309/332 BP:4
+B-Primrose - HP:4502/4502 SP:464/504 BP:2
+C-Olberic - HP:4847/5781 SP:261/291 BP:2
+Equipo del enemigo
+A-High Wolf - HP:0/1458 Shields:2
+B-River Fly - HP:0/1010 Shields:2
+C-War Wolf - HP:2696/3548 Shields:1
+D-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Primrose
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Heal More
+2: Revive
+3: Wildfire
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Throné usa Heal More
+Primrose recupera 729 de vida
+Olberic recupera 729 de vida
+Throné recupera 729 de vida
+Primrose termina con HP:4502
+Olberic termina con HP:5576
+Throné termina con HP:4447
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:284/332 BP:2
+B-Primrose - HP:4502/4502 SP:464/504 BP:2
+C-Olberic - HP:5576/5781 SP:261/291 BP:2
+Equipo del enemigo
+A-High Wolf - HP:0/1458 Shields:2
+B-River Fly - HP:0/1010 Shields:2
+C-War Wolf - HP:2696/3548 Shields:1
+D-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: War Wolf - HP:2696/3548 Shields:1
+2: Meep - HP:884/1016 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+War Wolf recibe 75 de daño de tipo Dagger
+War Wolf termina con HP:2621
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:284/332 BP:2
+B-Primrose - HP:4502/4502 SP:464/504 BP:2
+C-Olberic - HP:5576/5781 SP:261/291 BP:2
+Equipo del enemigo
+A-High Wolf - HP:0/1458 Shields:2
+B-River Fly - HP:0/1010 Shields:2
+C-War Wolf - HP:2621/3548 Shields:1
+D-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: War Wolf - HP:2621/3548 Shields:1
+2: Meep - HP:884/1016 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Meep recibe 132 de daño de tipo Sword
+Meep termina con HP:752
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:284/332 BP:2
+B-Primrose - HP:4502/4502 SP:464/504 BP:2
+C-Olberic - HP:5576/5781 SP:261/291 BP:2
+Equipo del enemigo
+A-High Wolf - HP:0/1458 Shields:2
+B-River Fly - HP:0/1010 Shields:2
+C-War Wolf - HP:2621/3548 Shields:1
+D-Meep - HP:752/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:5436
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:284/332 BP:2
+B-Primrose - HP:4502/4502 SP:464/504 BP:2
+C-Olberic - HP:5436/5781 SP:261/291 BP:2
+Equipo del enemigo
+A-High Wolf - HP:0/1458 Shields:2
+B-River Fly - HP:0/1010 Shields:2
+C-War Wolf - HP:2621/3548 Shields:1
+D-Meep - HP:752/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic recibe 74 de daño físico
+Olberic termina con HP:5362
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:284/332 BP:2
+B-Primrose - HP:4502/4502 SP:464/504 BP:3
+C-Olberic - HP:5362/5781 SP:261/291 BP:3
+Equipo del enemigo
+A-High Wolf - HP:0/1458 Shields:2
+B-River Fly - HP:0/1010 Shields:2
+C-War Wolf - HP:2621/3548 Shields:1
+D-Meep - HP:752/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Primrose
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Throné
+1: War Wolf - HP:2621/3548 Shields:1
+2: Meep - HP:752/1016 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné ataca
+War Wolf recibe 420 de daño de tipo Sword con debilidad
+War Wolf entra en Breaking Point
+Throné recupera 4 SP
+War Wolf termina con HP:2201
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:288/332 BP:2
+B-Primrose - HP:4502/4502 SP:464/504 BP:3
+C-Olberic - HP:5362/5781 SP:261/291 BP:3
+Equipo del enemigo
+A-High Wolf - HP:0/1458 Shields:2
+B-River Fly - HP:0/1010 Shields:2
+C-War Wolf - HP:2201/3548 Shields:0
+D-Meep - HP:752/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Olberic
+3.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Olberic
+4.Meep
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: War Wolf - HP:2201/3548 Shields:0
+2: Meep - HP:752/1016 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Meep recibe 0 de daño de tipo Dagger
+Meep termina con HP:752
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:288/332 BP:2
+B-Primrose - HP:4502/4502 SP:464/504 BP:3
+C-Olberic - HP:5362/5781 SP:261/291 BP:3
+Equipo del enemigo
+A-High Wolf - HP:0/1458 Shields:2
+B-River Fly - HP:0/1010 Shields:2
+C-War Wolf - HP:2201/3548 Shields:0
+D-Meep - HP:752/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Olberic
+4.Meep
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Brand's Thunder
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: War Wolf - HP:2201/3548 Shields:0
+2: Meep - HP:752/1016 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Olberic usa Brand's Thunder
+Meep recibe 2606 de daño de tipo Sword
+Meep termina con HP:0
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:288/332 BP:3
+B-Primrose - HP:4502/4502 SP:464/504 BP:4
+C-Olberic - HP:5362/5781 SP:231/291 BP:0
+Equipo del enemigo
+A-High Wolf - HP:0/1458 Shields:2
+B-River Fly - HP:0/1010 Shields:2
+C-War Wolf - HP:2201/3548 Shields:0
+D-Meep - HP:0/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Primrose
+3.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.War Wolf
+2.Throné
+3.Primrose
+4.Olberic
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:288/332 BP:3
+B-Primrose - HP:4502/4502 SP:464/504 BP:4
+C-Olberic - HP:5362/5781 SP:231/291 BP:0
+Equipo del enemigo
+A-High Wolf - HP:0/1458 Shields:2
+B-River Fly - HP:0/1010 Shields:2
+C-War Wolf - HP:2201/3548 Shields:0
+D-Meep - HP:0/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.War Wolf
+2.Throné
+3.Primrose
+4.Olberic
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: War Wolf - HP:2201/3548 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+War Wolf recibe 112 de daño de tipo Dagger
+War Wolf termina con HP:2089
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:288/332 BP:3
+B-Primrose - HP:4502/4502 SP:464/504 BP:4
+C-Olberic - HP:5362/5781 SP:231/291 BP:0
+Equipo del enemigo
+A-High Wolf - HP:0/1458 Shields:2
+B-River Fly - HP:0/1010 Shields:2
+C-War Wolf - HP:2089/3548 Shields:0
+D-Meep - HP:0/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.War Wolf
+2.Throné
+3.Primrose
+4.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: War Wolf - HP:2089/3548 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Olberic ataca
+War Wolf recibe 490 de daño de tipo Spear
+War Wolf termina con HP:1599
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:288/332 BP:4
+B-Primrose - HP:4502/4502 SP:464/504 BP:5
+C-Olberic - HP:5362/5781 SP:231/291 BP:1
+Equipo del enemigo
+A-High Wolf - HP:0/1458 Shields:2
+B-River Fly - HP:0/1010 Shields:2
+C-War Wolf - HP:1599/3548 Shields:2
+D-Meep - HP:0/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+2.Throné
+3.Primrose
+4.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Olberic
+4.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic recibe 74 de daño físico
+Olberic termina con HP:5288
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:288/332 BP:4
+B-Primrose - HP:4502/4502 SP:464/504 BP:5
+C-Olberic - HP:5288/5781 SP:231/291 BP:1
+Equipo del enemigo
+A-High Wolf - HP:0/1458 Shields:2
+B-River Fly - HP:0/1010 Shields:2
+C-War Wolf - HP:1599/3548 Shields:2
+D-Meep - HP:0/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Primrose
+3.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Olberic
+4.War Wolf
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Heal More
+2: Revive
+3: Wildfire
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Throné
+1: War Wolf - HP:1599/3548 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Throné usa Wildfire
+War Wolf recibe 1181 de daño de tipo Fire
+War Wolf termina con HP:418
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:281/332 BP:2
+B-Primrose - HP:4502/4502 SP:464/504 BP:5
+C-Olberic - HP:5288/5781 SP:231/291 BP:1
+Equipo del enemigo
+A-High Wolf - HP:0/1458 Shields:2
+B-River Fly - HP:0/1010 Shields:2
+C-War Wolf - HP:418/3548 Shields:2
+D-Meep - HP:0/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Olberic
+4.War Wolf
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:281/332 BP:2
+B-Primrose - HP:4502/4502 SP:464/504 BP:5
+C-Olberic - HP:5288/5781 SP:231/291 BP:1
+Equipo del enemigo
+A-High Wolf - HP:0/1458 Shields:2
+B-River Fly - HP:0/1010 Shields:2
+C-War Wolf - HP:418/3548 Shields:2
+D-Meep - HP:0/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Throné
+3.Olberic
+4.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: War Wolf - HP:418/3548 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+War Wolf recibe 327 de daño de tipo Spear
+War Wolf termina con HP:91
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:281/332 BP:2
+B-Primrose - HP:4502/4502 SP:464/504 BP:5
+C-Olberic - HP:5288/5781 SP:231/291 BP:2
+Equipo del enemigo
+A-High Wolf - HP:0/1458 Shields:2
+B-River Fly - HP:0/1010 Shields:2
+C-War Wolf - HP:91/3548 Shields:2
+D-Meep - HP:0/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Throné
+3.Olberic
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Olberic
+4.War Wolf
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:281/332 BP:2
+B-Primrose - HP:4502/4502 SP:464/504 BP:5
+C-Olberic - HP:5288/5781 SP:231/291 BP:2
+Equipo del enemigo
+A-High Wolf - HP:0/1458 Shields:2
+B-River Fly - HP:0/1010 Shields:2
+C-War Wolf - HP:91/3548 Shields:2
+D-Meep - HP:0/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Olberic
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Throné
+3.Olberic
+4.War Wolf
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throné
+1: War Wolf - HP:91/3548 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné ataca
+War Wolf recibe 280 de daño de tipo Dagger
+Throné recupera 2 SP
+War Wolf termina con HP:0
+----------------------------------------
+Gana equipo del jugador

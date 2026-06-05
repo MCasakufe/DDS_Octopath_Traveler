@@ -1,14 +1,5 @@
 namespace Octopath_Traveler_Models.Battle;
 
-public enum TravelerTurnResolution
-{
-    None,
-    BasicAttackChosen,
-    SkillChosen,
-    DefendChosen,
-    Fled
-}
-
 public sealed record TravelerTurnOutcome(
     TravelerTurnResolution Resolution,
     string? SelectedWeapon,
@@ -17,6 +8,8 @@ public sealed record TravelerTurnOutcome(
     string? SelectedSkillName,
     int UsedBp)
 {
+    private const int NoBpUsed = 0;
+
     public static TravelerTurnOutcome BasicAttack(string selectedWeapon, BeastCombatUnit selectedTarget, int usedBp)
         => new(TravelerTurnResolution.BasicAttackChosen, selectedWeapon, selectedTarget, null, null, usedBp);
 
@@ -35,8 +28,8 @@ public sealed record TravelerTurnOutcome(
             usedBp);
 
     public static TravelerTurnOutcome Defend()
-        => new(TravelerTurnResolution.DefendChosen, null, null, null, null, 0);
+        => new(TravelerTurnResolution.DefendChosen, null, null, null, null, NoBpUsed);
 
     public static TravelerTurnOutcome Flee()
-        => new(TravelerTurnResolution.Fled, null, null, null, null, 0);
+        => new(TravelerTurnResolution.Fled, null, null, null, null, NoBpUsed);
 }

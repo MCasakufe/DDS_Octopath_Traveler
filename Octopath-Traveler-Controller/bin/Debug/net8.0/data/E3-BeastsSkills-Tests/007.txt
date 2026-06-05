@@ -1,0 +1,742 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+INPUT: 6
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:332/332 BP:1
+B-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Armor Eater - HP:1594/1594 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Olberic
+3.Hoary Bear
+4.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Olberic
+3.Hoary Bear
+4.Armor Eater
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Hoary Bear - HP:2688/2688 Shields:3
+2: Armor Eater - HP:1594/1594 Shields:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Armor Eater recibe 230 de daño de tipo Dagger
+Armor Eater termina con HP:1364
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:332/332 BP:1
+B-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Armor Eater - HP:1364/1594 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Hoary Bear
+3.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Olberic
+3.Hoary Bear
+4.Armor Eater
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Hoary Bear - HP:2688/2688 Shields:3
+2: Armor Eater - HP:1364/1594 Shields:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Armor Eater recibe 454 de daño de tipo Sword con debilidad
+Armor Eater termina con HP:910
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:332/332 BP:1
+B-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Armor Eater - HP:910/1594 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hoary Bear
+2.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Olberic
+3.Hoary Bear
+4.Armor Eater
+----------------------------------------
+Hoary Bear usa Rampage
+Therion recibe 286 de daño físico
+Olberic recibe 163 de daño físico
+Therion termina con HP:4161
+Olberic termina con HP:5618
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4161/4447 SP:332/332 BP:1
+B-Olberic - HP:5618/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Armor Eater - HP:910/1594 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Olberic
+3.Hoary Bear
+4.Armor Eater
+----------------------------------------
+Armor Eater usa Consume Armor
+Olberic tendrá Decreased Physical Defense durante 2 rondas
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4161/4447 SP:332/332 BP:2
+B-Olberic - HP:5618/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Armor Eater - HP:910/1594 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Olberic
+3.Hoary Bear
+4.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Olberic
+3.Hoary Bear
+4.Armor Eater
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Hoary Bear - HP:2688/2688 Shields:3
+2: Armor Eater - HP:910/1594 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Armor Eater recibe 230 de daño de tipo Dagger
+Armor Eater termina con HP:680
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4161/4447 SP:332/332 BP:2
+B-Olberic - HP:5618/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Armor Eater - HP:680/1594 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Hoary Bear
+3.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Olberic
+3.Hoary Bear
+4.Armor Eater
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Hoary Bear - HP:2688/2688 Shields:3
+2: Armor Eater - HP:680/1594 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Armor Eater recibe 454 de daño de tipo Sword con debilidad
+Armor Eater termina con HP:226
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4161/4447 SP:332/332 BP:2
+B-Olberic - HP:5618/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Armor Eater - HP:226/1594 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hoary Bear
+2.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Olberic
+3.Hoary Bear
+4.Armor Eater
+----------------------------------------
+Hoary Bear usa Rampage
+Therion recibe 286 de daño físico
+Olberic recibe 245 de daño físico
+Therion termina con HP:3875
+Olberic termina con HP:5373
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3875/4447 SP:332/332 BP:2
+B-Olberic - HP:5373/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Armor Eater - HP:226/1594 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Olberic
+3.Hoary Bear
+4.Armor Eater
+----------------------------------------
+Armor Eater usa Consume Armor
+Olberic tendrá Decreased Physical Defense durante 2 rondas
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3875/4447 SP:332/332 BP:3
+B-Olberic - HP:5373/5781 SP:291/291 BP:3
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Armor Eater - HP:226/1594 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Olberic
+3.Hoary Bear
+4.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Olberic
+3.Hoary Bear
+4.Armor Eater
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Hoary Bear - HP:2688/2688 Shields:3
+2: Armor Eater - HP:226/1594 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Armor Eater recibe 230 de daño de tipo Dagger
+Armor Eater termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3875/4447 SP:332/332 BP:3
+B-Olberic - HP:5373/5781 SP:291/291 BP:3
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Armor Eater - HP:0/1594 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Olberic
+3.Hoary Bear
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Hoary Bear - HP:2688/2688 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Hoary Bear recibe 269 de daño de tipo Sword
+Hoary Bear termina con HP:2419
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3875/4447 SP:332/332 BP:3
+B-Olberic - HP:5373/5781 SP:291/291 BP:3
+Equipo del enemigo
+A-Hoary Bear - HP:2419/2688 Shields:3
+B-Armor Eater - HP:0/1594 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Olberic
+3.Hoary Bear
+----------------------------------------
+Hoary Bear usa Rampage
+Therion recibe 286 de daño físico
+Olberic recibe 245 de daño físico
+Therion termina con HP:3589
+Olberic termina con HP:5128
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3589/4447 SP:332/332 BP:4
+B-Olberic - HP:5128/5781 SP:291/291 BP:4
+Equipo del enemigo
+A-Hoary Bear - HP:2419/2688 Shields:3
+B-Armor Eater - HP:0/1594 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Olberic
+3.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Olberic
+3.Hoary Bear
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Hoary Bear - HP:2419/2688 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Hoary Bear recibe 196 de daño de tipo Dagger
+Hoary Bear termina con HP:2223
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3589/4447 SP:332/332 BP:4
+B-Olberic - HP:5128/5781 SP:291/291 BP:4
+Equipo del enemigo
+A-Hoary Bear - HP:2223/2688 Shields:3
+B-Armor Eater - HP:0/1594 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Olberic
+3.Hoary Bear
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Hoary Bear - HP:2223/2688 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Hoary Bear recibe 269 de daño de tipo Sword
+Hoary Bear termina con HP:1954
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3589/4447 SP:332/332 BP:4
+B-Olberic - HP:5128/5781 SP:291/291 BP:4
+Equipo del enemigo
+A-Hoary Bear - HP:1954/2688 Shields:3
+B-Armor Eater - HP:0/1594 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Olberic
+3.Hoary Bear
+----------------------------------------
+Hoary Bear usa Rampage
+Therion recibe 286 de daño físico
+Olberic recibe 245 de daño físico
+Therion termina con HP:3303
+Olberic termina con HP:4883
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3303/4447 SP:332/332 BP:5
+B-Olberic - HP:4883/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:1954/2688 Shields:3
+B-Armor Eater - HP:0/1594 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Olberic
+3.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Olberic
+3.Hoary Bear
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Hoary Bear - HP:1954/2688 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Hoary Bear recibe 196 de daño de tipo Dagger
+Hoary Bear termina con HP:1758
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3303/4447 SP:332/332 BP:5
+B-Olberic - HP:4883/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:1758/2688 Shields:3
+B-Armor Eater - HP:0/1594 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Olberic
+3.Hoary Bear
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Hoary Bear - HP:1758/2688 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Hoary Bear recibe 269 de daño de tipo Sword
+Hoary Bear termina con HP:1489
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3303/4447 SP:332/332 BP:5
+B-Olberic - HP:4883/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:1489/2688 Shields:3
+B-Armor Eater - HP:0/1594 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Olberic
+3.Hoary Bear
+----------------------------------------
+Hoary Bear usa Rampage
+Therion recibe 286 de daño físico
+Olberic recibe 163 de daño físico
+Therion termina con HP:3017
+Olberic termina con HP:4720
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3017/4447 SP:332/332 BP:5
+B-Olberic - HP:4720/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:1489/2688 Shields:3
+B-Armor Eater - HP:0/1594 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Olberic
+3.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Olberic
+3.Hoary Bear
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Hoary Bear - HP:1489/2688 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Hoary Bear recibe 196 de daño de tipo Dagger
+Hoary Bear termina con HP:1293
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3017/4447 SP:332/332 BP:5
+B-Olberic - HP:4720/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:1293/2688 Shields:3
+B-Armor Eater - HP:0/1594 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Olberic
+3.Hoary Bear
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Hoary Bear - HP:1293/2688 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Hoary Bear recibe 269 de daño de tipo Sword
+Hoary Bear termina con HP:1024
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3017/4447 SP:332/332 BP:5
+B-Olberic - HP:4720/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:1024/2688 Shields:3
+B-Armor Eater - HP:0/1594 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Olberic
+3.Hoary Bear
+----------------------------------------
+Hoary Bear usa Rampage
+Therion recibe 286 de daño físico
+Olberic recibe 163 de daño físico
+Therion termina con HP:2731
+Olberic termina con HP:4557
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2731/4447 SP:332/332 BP:5
+B-Olberic - HP:4557/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Hoary Bear - HP:1024/2688 Shields:3
+B-Armor Eater - HP:0/1594 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Olberic
+3.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Olberic
+3.Hoary Bear
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo

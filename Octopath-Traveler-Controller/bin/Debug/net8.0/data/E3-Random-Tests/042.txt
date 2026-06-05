@@ -1,0 +1,1375 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+INPUT: 41
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+B-Olberic - HP:6281/6281 SP:291/291 BP:1
+C-Primrose - HP:4502/4502 SP:504/504 BP:1
+D-Ochette - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:7500/7500 Shields:10
+B-Army Ant - HP:502/502 Shields:1
+C-Accursed Armor - HP:3746/3746 Shields:5
+D-Direwolf - HP:3867/3867 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ochette
+3.Direwolf
+4.Z'aanta
+5.Olberic
+6.Army Ant
+7.Devourer of Dreams
+8.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Direwolf
+4.Z'aanta
+5.Olberic
+6.Army Ant
+7.Devourer of Dreams
+8.Accursed Armor
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+B-Olberic - HP:6281/6281 SP:291/291 BP:1
+C-Primrose - HP:4502/4502 SP:504/504 BP:1
+D-Ochette - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:7500/7500 Shields:10
+B-Army Ant - HP:502/502 Shields:1
+C-Accursed Armor - HP:3746/3746 Shields:5
+D-Direwolf - HP:3867/3867 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Direwolf
+3.Z'aanta
+4.Olberic
+5.Army Ant
+6.Devourer of Dreams
+7.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Direwolf
+4.Z'aanta
+5.Olberic
+6.Army Ant
+7.Devourer of Dreams
+8.Accursed Armor
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Icewind
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Ochette no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette usa Icewind
+Devourer of Dreams recibe 210 de daño de tipo Ice
+Army Ant recibe 398 de daño de tipo Ice
+Accursed Armor recibe 171 de daño de tipo Ice
+Direwolf recibe 0 de daño de tipo Ice
+Devourer of Dreams termina con HP:7290
+Army Ant termina con HP:104
+Accursed Armor termina con HP:3575
+Direwolf termina con HP:3867
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+B-Olberic - HP:6281/6281 SP:291/291 BP:1
+C-Primrose - HP:4502/4502 SP:504/504 BP:1
+D-Ochette - HP:4447/4447 SP:361/369 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:7290/7500 Shields:10
+B-Army Ant - HP:104/502 Shields:1
+C-Accursed Armor - HP:3575/3746 Shields:5
+D-Direwolf - HP:3867/3867 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Direwolf
+2.Z'aanta
+3.Olberic
+4.Army Ant
+5.Devourer of Dreams
+6.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Direwolf
+4.Z'aanta
+5.Olberic
+6.Army Ant
+7.Devourer of Dreams
+8.Accursed Armor
+----------------------------------------
+Direwolf usa Triple Slash
+Olberic recibe 145 de daño físico
+Olberic recibe 145 de daño físico
+Olberic recibe 145 de daño físico
+Olberic termina con HP:5846
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+B-Olberic - HP:5846/6281 SP:291/291 BP:1
+C-Primrose - HP:4502/4502 SP:504/504 BP:1
+D-Ochette - HP:4447/4447 SP:361/369 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:7290/7500 Shields:10
+B-Army Ant - HP:104/502 Shields:1
+C-Accursed Armor - HP:3575/3746 Shields:5
+D-Direwolf - HP:3867/3867 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Olberic
+3.Army Ant
+4.Devourer of Dreams
+5.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Direwolf
+4.Z'aanta
+5.Olberic
+6.Army Ant
+7.Devourer of Dreams
+8.Accursed Armor
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Devourer of Dreams - HP:7290/7500 Shields:10
+2: Army Ant - HP:104/502 Shields:1
+3: Accursed Armor - HP:3575/3746 Shields:5
+4: Direwolf - HP:3867/3867 Shields:4
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Army Ant recibe 444 de daño de tipo Bow con debilidad
+Army Ant entra en Breaking Point
+Army Ant termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+B-Olberic - HP:5846/6281 SP:291/291 BP:1
+C-Primrose - HP:4502/4502 SP:504/504 BP:1
+D-Ochette - HP:4447/4447 SP:361/369 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:7290/7500 Shields:10
+B-Army Ant - HP:0/502 Shields:0
+C-Accursed Armor - HP:3575/3746 Shields:5
+D-Direwolf - HP:3867/3867 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Devourer of Dreams
+3.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Direwolf
+4.Z'aanta
+5.Olberic
+6.Devourer of Dreams
+7.Accursed Armor
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+B-Olberic - HP:5846/6281 SP:291/291 BP:1
+C-Primrose - HP:4502/4502 SP:504/504 BP:1
+D-Ochette - HP:4447/4447 SP:361/369 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:7290/7500 Shields:10
+B-Army Ant - HP:0/502 Shields:0
+C-Accursed Armor - HP:3575/3746 Shields:5
+D-Direwolf - HP:3867/3867 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Ochette
+4.Direwolf
+5.Z'aanta
+6.Devourer of Dreams
+7.Accursed Armor
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Z'aanta recibe 1611 de daño
+Olberic recibe 2923 de daño
+Primrose recibe 2251 de daño
+Ochette recibe 2224 de daño
+Z'aanta termina con HP:1611
+Olberic termina con HP:2923
+Primrose termina con HP:2251
+Ochette termina con HP:2223
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1611/3222 SP:371/371 BP:1
+B-Olberic - HP:2923/6281 SP:291/291 BP:1
+C-Primrose - HP:2251/4502 SP:504/504 BP:1
+D-Ochette - HP:2223/4447 SP:361/369 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:7290/7500 Shields:10
+B-Army Ant - HP:0/502 Shields:0
+C-Accursed Armor - HP:3575/3746 Shields:5
+D-Direwolf - HP:3867/3867 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Ochette
+4.Direwolf
+5.Z'aanta
+6.Devourer of Dreams
+7.Accursed Armor
+----------------------------------------
+Accursed Armor usa Gather Strength
+Ochette recibe 349 de daño físico
+Accursed Armor tendrá Increased Physical Attack durante 2 rondas
+Ochette termina con HP:1874
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1611/3222 SP:371/371 BP:2
+B-Olberic - HP:2923/6281 SP:291/291 BP:2
+C-Primrose - HP:2251/4502 SP:504/504 BP:2
+D-Ochette - HP:1874/4447 SP:361/369 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:7290/7500 Shields:10
+B-Army Ant - HP:0/502 Shields:0
+C-Accursed Armor - HP:3575/3746 Shields:5
+D-Direwolf - HP:3867/3867 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Olberic
+3.Ochette
+4.Direwolf
+5.Z'aanta
+6.Devourer of Dreams
+7.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Direwolf
+4.Z'aanta
+5.Olberic
+6.Devourer of Dreams
+7.Accursed Armor
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Blizzard
+2: Vivify
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Blizzard
+2: Vivify
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Blizzard
+2: Vivify
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Blizzard
+2: Vivify
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Blizzard
+2: Vivify
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Primrose no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Primrose usa Blizzard
+Devourer of Dreams recibe 1700 de daño de tipo Ice
+Devourer of Dreams recibe 1700 de daño de tipo Ice
+Accursed Armor recibe 1661 de daño de tipo Ice
+Accursed Armor recibe 1661 de daño de tipo Ice
+Direwolf recibe 1485 de daño de tipo Ice
+Direwolf recibe 1485 de daño de tipo Ice
+Devourer of Dreams termina con HP:3890
+Accursed Armor termina con HP:253
+Direwolf termina con HP:897
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1611/3222 SP:371/371 BP:2
+B-Olberic - HP:2923/6281 SP:291/291 BP:2
+C-Primrose - HP:2251/4502 SP:482/504 BP:0
+D-Ochette - HP:1874/4447 SP:361/369 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:3890/7500 Shields:10
+B-Army Ant - HP:0/502 Shields:0
+C-Accursed Armor - HP:253/3746 Shields:5
+D-Direwolf - HP:897/3867 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Ochette
+3.Direwolf
+4.Z'aanta
+5.Devourer of Dreams
+6.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Direwolf
+4.Z'aanta
+5.Olberic
+6.Devourer of Dreams
+7.Accursed Armor
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1611/3222 SP:371/371 BP:2
+B-Olberic - HP:2923/6281 SP:291/291 BP:2
+C-Primrose - HP:2251/4502 SP:482/504 BP:0
+D-Ochette - HP:1874/4447 SP:361/369 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:3890/7500 Shields:10
+B-Army Ant - HP:0/502 Shields:0
+C-Accursed Armor - HP:253/3746 Shields:5
+D-Direwolf - HP:897/3867 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Direwolf
+3.Z'aanta
+4.Devourer of Dreams
+5.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Primrose
+3.Ochette
+4.Direwolf
+5.Z'aanta
+6.Devourer of Dreams
+7.Accursed Armor
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Devourer of Dreams - HP:3890/7500 Shields:10
+2: Accursed Armor - HP:253/3746 Shields:5
+3: Direwolf - HP:897/3867 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Ochette no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Ochette no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Ochette ataca
+Accursed Armor recibe 252 de daño de tipo Bow
+Accursed Armor recibe 252 de daño de tipo Bow
+Accursed Armor termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1611/3222 SP:371/371 BP:2
+B-Olberic - HP:2923/6281 SP:291/291 BP:2
+C-Primrose - HP:2251/4502 SP:482/504 BP:0
+D-Ochette - HP:1874/4447 SP:361/369 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:3890/7500 Shields:10
+B-Army Ant - HP:0/502 Shields:0
+C-Accursed Armor - HP:0/3746 Shields:5
+D-Direwolf - HP:897/3867 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Direwolf
+2.Z'aanta
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Primrose
+3.Ochette
+4.Direwolf
+5.Z'aanta
+6.Devourer of Dreams
+----------------------------------------
+Direwolf usa Triple Slash
+Olberic se defiende
+Olberic recibe 72 de daño físico
+Olberic recibe 72 de daño físico
+Olberic recibe 72 de daño físico
+Olberic termina con HP:2707
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1611/3222 SP:371/371 BP:2
+B-Olberic - HP:2707/6281 SP:291/291 BP:2
+C-Primrose - HP:2251/4502 SP:482/504 BP:0
+D-Ochette - HP:1874/4447 SP:361/369 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:3890/7500 Shields:10
+B-Army Ant - HP:0/502 Shields:0
+C-Accursed Armor - HP:0/3746 Shields:5
+D-Direwolf - HP:897/3867 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Primrose
+3.Ochette
+4.Direwolf
+5.Z'aanta
+6.Devourer of Dreams
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Devourer of Dreams - HP:3890/7500 Shields:10
+2: Direwolf - HP:897/3867 Shields:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Z'aanta no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Direwolf recibe 47 de daño de tipo Axe
+Direwolf termina con HP:850
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1611/3222 SP:371/371 BP:2
+B-Olberic - HP:2707/6281 SP:291/291 BP:2
+C-Primrose - HP:2251/4502 SP:482/504 BP:0
+D-Ochette - HP:1874/4447 SP:361/369 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:3890/7500 Shields:10
+B-Army Ant - HP:0/502 Shields:0
+C-Accursed Armor - HP:0/3746 Shields:5
+D-Direwolf - HP:850/3867 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Primrose
+3.Ochette
+4.Direwolf
+5.Z'aanta
+6.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Z'aanta recibe 806 de daño
+Olberic recibe 1354 de daño
+Primrose recibe 1126 de daño
+Ochette recibe 0 de daño
+Z'aanta termina con HP:805
+Olberic termina con HP:1353
+Primrose termina con HP:1125
+Ochette termina con HP:1874
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:805/3222 SP:371/371 BP:3
+B-Olberic - HP:1353/6281 SP:291/291 BP:3
+C-Primrose - HP:1125/4502 SP:482/504 BP:0
+D-Ochette - HP:1874/4447 SP:361/369 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:3890/7500 Shields:10
+B-Army Ant - HP:0/502 Shields:0
+C-Accursed Armor - HP:0/3746 Shields:5
+D-Direwolf - HP:850/3867 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Primrose
+3.Ochette
+4.Direwolf
+5.Z'aanta
+6.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Direwolf
+4.Z'aanta
+5.Olberic
+6.Devourer of Dreams
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Winnehild's Battle Cry
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Olberic usa Winnehild's Battle Cry
+Devourer of Dreams recibe 376 de daño de tipo Sword con debilidad
+Devourer of Dreams recibe 251 de daño de tipo Spear
+Devourer of Dreams recibe 251 de daño de tipo Dagger
+Devourer of Dreams recibe 251 de daño de tipo Axe
+Devourer of Dreams recibe 251 de daño de tipo Bow
+Devourer of Dreams recibe 251 de daño de tipo Stave
+Direwolf recibe 481 de daño de tipo Sword con debilidad
+Direwolf recibe 321 de daño de tipo Spear
+Direwolf recibe 481 de daño de tipo Dagger con debilidad
+Direwolf recibe 321 de daño de tipo Axe
+Direwolf recibe 321 de daño de tipo Bow
+Direwolf recibe 481 de daño de tipo Stave con debilidad
+Devourer of Dreams termina con HP:2259
+Direwolf termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:805/3222 SP:371/371 BP:3
+B-Olberic - HP:1353/6281 SP:241/291 BP:0
+C-Primrose - HP:1125/4502 SP:482/504 BP:0
+D-Ochette - HP:1874/4447 SP:361/369 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:2259/7500 Shields:9
+B-Army Ant - HP:0/502 Shields:0
+C-Accursed Armor - HP:0/3746 Shields:5
+D-Direwolf - HP:0/3867 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ochette
+3.Z'aanta
+4.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Z'aanta
+4.Olberic
+5.Devourer of Dreams
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Blizzard
+2: Vivify
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Devourer of Dreams - HP:2259/7500 Shields:9
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Primrose ataca
+Devourer of Dreams recibe 0 de daño de tipo Dagger
+Devourer of Dreams termina con HP:2259
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:805/3222 SP:371/371 BP:3
+B-Olberic - HP:1353/6281 SP:241/291 BP:0
+C-Primrose - HP:1125/4502 SP:482/504 BP:0
+D-Ochette - HP:1874/4447 SP:361/369 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:2259/7500 Shields:9
+B-Army Ant - HP:0/502 Shields:0
+C-Accursed Armor - HP:0/3746 Shields:5
+D-Direwolf - HP:0/3867 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Z'aanta
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Z'aanta
+4.Olberic
+5.Devourer of Dreams
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Icewind
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Ochette usa Icewind
+Devourer of Dreams recibe 651 de daño de tipo Ice
+Devourer of Dreams termina con HP:1608
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:805/3222 SP:371/371 BP:3
+B-Olberic - HP:1353/6281 SP:241/291 BP:0
+C-Primrose - HP:1125/4502 SP:482/504 BP:0
+D-Ochette - HP:1874/4447 SP:353/369 BP:0
+Equipo del enemigo
+A-Devourer of Dreams - HP:1608/7500 Shields:9
+B-Army Ant - HP:0/502 Shields:0
+C-Accursed Armor - HP:0/3746 Shields:5
+D-Direwolf - HP:0/3867 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Z'aanta
+4.Olberic
+5.Devourer of Dreams
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Lion Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Z'aanta - HP:805/3222 SP:371/371 BP:3
+2: Olberic - HP:1353/6281 SP:241/291 BP:0
+3: Primrose - HP:1125/4502 SP:482/504 BP:0
+4: Ochette - HP:1874/4447 SP:353/369 BP:0
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Z'aanta usa Lion Dance
+Primrose tendrá Increased Physical Attack durante 8 rondas
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:805/3222 SP:367/371 BP:0
+B-Olberic - HP:1353/6281 SP:241/291 BP:0
+C-Primrose - HP:1125/4502 SP:482/504 BP:0
+D-Ochette - HP:1874/4447 SP:353/369 BP:0
+Equipo del enemigo
+A-Devourer of Dreams - HP:1608/7500 Shields:9
+B-Army Ant - HP:0/502 Shields:0
+C-Accursed Armor - HP:0/3746 Shields:5
+D-Direwolf - HP:0/3867 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Z'aanta
+4.Olberic
+5.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Z'aanta recibe 403 de daño
+Olberic recibe 677 de daño
+Primrose recibe 563 de daño
+Ochette recibe 0 de daño
+Z'aanta termina con HP:402
+Olberic termina con HP:676
+Primrose termina con HP:562
+Ochette termina con HP:1874
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:402/3222 SP:367/371 BP:0
+B-Olberic - HP:676/6281 SP:255/291 BP:0
+C-Primrose - HP:562/4502 SP:482/504 BP:1
+D-Ochette - HP:1874/4447 SP:353/369 BP:0
+Equipo del enemigo
+A-Devourer of Dreams - HP:1608/7500 Shields:9
+B-Army Ant - HP:0/502 Shields:0
+C-Accursed Armor - HP:0/3746 Shields:5
+D-Direwolf - HP:0/3867 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ochette
+3.Z'aanta
+4.Olberic
+5.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Z'aanta
+4.Olberic
+5.Devourer of Dreams
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Devourer of Dreams - HP:1608/7500 Shields:9
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Primrose no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Primrose no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Primrose no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Primrose no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Primrose ataca
+Devourer of Dreams recibe 0 de daño de tipo Dagger
+Devourer of Dreams recibe 0 de daño de tipo Dagger
+Devourer of Dreams termina con HP:1608
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:402/3222 SP:367/371 BP:0
+B-Olberic - HP:676/6281 SP:255/291 BP:0
+C-Primrose - HP:562/4502 SP:482/504 BP:0
+D-Ochette - HP:1874/4447 SP:353/369 BP:0
+Equipo del enemigo
+A-Devourer of Dreams - HP:1608/7500 Shields:9
+B-Army Ant - HP:0/502 Shields:0
+C-Accursed Armor - HP:0/3746 Shields:5
+D-Direwolf - HP:0/3867 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Z'aanta
+3.Olberic
+4.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Z'aanta
+4.Olberic
+5.Devourer of Dreams
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Icewind
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Ochette usa Icewind
+Devourer of Dreams recibe 210 de daño de tipo Ice
+Devourer of Dreams termina con HP:1398
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:402/3222 SP:367/371 BP:0
+B-Olberic - HP:676/6281 SP:255/291 BP:0
+C-Primrose - HP:562/4502 SP:482/504 BP:0
+D-Ochette - HP:1874/4447 SP:345/369 BP:0
+Equipo del enemigo
+A-Devourer of Dreams - HP:1398/7500 Shields:9
+B-Army Ant - HP:0/502 Shields:0
+C-Accursed Armor - HP:0/3746 Shields:5
+D-Direwolf - HP:0/3867 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Olberic
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Z'aanta
+4.Olberic
+5.Devourer of Dreams
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Lion Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Z'aanta - HP:402/3222 SP:367/371 BP:0
+2: Olberic - HP:676/6281 SP:255/291 BP:0
+3: Primrose - HP:562/4502 SP:482/504 BP:0
+4: Ochette - HP:1874/4447 SP:345/369 BP:0
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Z'aanta usa Lion Dance
+Ochette tendrá Increased Physical Attack durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:402/3222 SP:363/371 BP:0
+B-Olberic - HP:676/6281 SP:255/291 BP:0
+C-Primrose - HP:562/4502 SP:482/504 BP:0
+D-Ochette - HP:1874/4447 SP:345/369 BP:0
+Equipo del enemigo
+A-Devourer of Dreams - HP:1398/7500 Shields:9
+B-Army Ant - HP:0/502 Shields:0
+C-Accursed Armor - HP:0/3746 Shields:5
+D-Direwolf - HP:0/3867 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Z'aanta
+4.Olberic
+5.Devourer of Dreams
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:402/3222 SP:363/371 BP:0
+B-Olberic - HP:676/6281 SP:255/291 BP:0
+C-Primrose - HP:562/4502 SP:482/504 BP:0
+D-Ochette - HP:1874/4447 SP:345/369 BP:0
+Equipo del enemigo
+A-Devourer of Dreams - HP:1398/7500 Shields:9
+B-Army Ant - HP:0/502 Shields:0
+C-Accursed Armor - HP:0/3746 Shields:5
+D-Direwolf - HP:0/3867 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Primrose
+3.Ochette
+4.Z'aanta
+5.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Z'aanta recibe 201 de daño
+Olberic recibe 338 de daño
+Primrose recibe 281 de daño
+Ochette recibe 0 de daño
+Z'aanta termina con HP:201
+Olberic termina con HP:338
+Primrose termina con HP:281
+Ochette termina con HP:1874
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:201/3222 SP:363/371 BP:1
+B-Olberic - HP:338/6281 SP:269/291 BP:1
+C-Primrose - HP:281/4502 SP:482/504 BP:0
+D-Ochette - HP:1874/4447 SP:345/369 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:1398/7500 Shields:9
+B-Army Ant - HP:0/502 Shields:0
+C-Accursed Armor - HP:0/3746 Shields:5
+D-Direwolf - HP:0/3867 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Primrose
+3.Ochette
+4.Z'aanta
+5.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Z'aanta
+4.Olberic
+5.Devourer of Dreams
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Devourer of Dreams - HP:1398/7500 Shields:9
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Devourer of Dreams recibe 246 de daño de tipo Sword con debilidad
+Devourer of Dreams termina con HP:1152
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:201/3222 SP:363/371 BP:1
+B-Olberic - HP:338/6281 SP:269/291 BP:1
+C-Primrose - HP:281/4502 SP:482/504 BP:0
+D-Ochette - HP:1874/4447 SP:345/369 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:1152/7500 Shields:8
+B-Army Ant - HP:0/502 Shields:0
+C-Accursed Armor - HP:0/3746 Shields:5
+D-Direwolf - HP:0/3867 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ochette
+3.Z'aanta
+4.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Z'aanta
+4.Olberic
+5.Devourer of Dreams
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Blizzard
+2: Vivify
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Primrose usa Blizzard
+Devourer of Dreams recibe 427 de daño de tipo Ice
+Devourer of Dreams recibe 427 de daño de tipo Ice
+Devourer of Dreams termina con HP:298
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:201/3222 SP:363/371 BP:1
+B-Olberic - HP:338/6281 SP:269/291 BP:1
+C-Primrose - HP:281/4502 SP:460/504 BP:0
+D-Ochette - HP:1874/4447 SP:345/369 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:298/7500 Shields:8
+B-Army Ant - HP:0/502 Shields:0
+C-Accursed Armor - HP:0/3746 Shields:5
+D-Direwolf - HP:0/3867 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Z'aanta
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Z'aanta
+4.Olberic
+5.Devourer of Dreams
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Devourer of Dreams - HP:298/7500 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Ochette no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Ochette ataca
+Devourer of Dreams recibe 230 de daño de tipo Axe
+Devourer of Dreams recibe 230 de daño de tipo Axe
+Devourer of Dreams termina con HP:0
+----------------------------------------
+Gana equipo del jugador

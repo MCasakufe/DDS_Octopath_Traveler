@@ -1,0 +1,3171 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+INPUT: 12
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4002/4002 SP:504/504 BP:1
+B-Ochette - HP:4447/4447 SP:369/369 BP:1
+C-Throné - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:6740/6740 Shields:8
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:2160/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Agnea
+3.Ochette
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Ochette
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4002/4002 SP:504/504 BP:1
+B-Ochette - HP:4447/4447 SP:369/369 BP:1
+C-Throné - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:6740/6740 Shields:8
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:2160/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Ochette
+3.Monarch
+4.Ice Elemental
+5.Dark Elemental
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Ochette
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Monarch - HP:6740/6740 Shields:8
+2: Light Wisp - HP:972/972 Shields:1
+3: Dark Elemental - HP:1822/1822 Shields:4
+4: Ice Elemental - HP:2160/2160 Shields:4
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Agnea no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Agnea no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Agnea no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Agnea ataca
+Light Wisp recibe 0 de daño de tipo Dagger
+Light Wisp recibe 0 de daño de tipo Dagger
+Light Wisp termina con HP:972
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4002/4002 SP:504/504 BP:0
+B-Ochette - HP:4447/4447 SP:369/369 BP:1
+C-Throné - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:6740/6740 Shields:8
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:2160/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Ochette
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4002/4002 SP:504/504 BP:0
+B-Ochette - HP:4447/4447 SP:369/369 BP:1
+C-Throné - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:6740/6740 Shields:8
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:2160/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Ice Elemental
+3.Dark Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Ochette
+3.Agnea
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Monarch usa Galestorm
+Agnea recibe 314 de daño elemental
+Ochette se defiende
+Ochette recibe 205 de daño elemental
+Throné se defiende
+Throné recibe 209 de daño elemental
+Agnea termina con HP:3688
+Ochette termina con HP:4242
+Throné termina con HP:4238
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3688/4002 SP:504/504 BP:0
+B-Ochette - HP:4242/4447 SP:369/369 BP:1
+C-Throné - HP:4238/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:6740/6740 Shields:8
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:2160/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Ochette
+3.Agnea
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Ice Elemental usa Iceshot
+Throné se defiende
+Throné recibe 123 de daño elemental
+Throné termina con HP:4115
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3688/4002 SP:504/504 BP:0
+B-Ochette - HP:4242/4447 SP:369/369 BP:1
+C-Throné - HP:4115/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:6740/6740 Shields:8
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:2160/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Ochette
+3.Agnea
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Dark Elemental usa Shadowshot
+Throné se defiende
+Throné recibe 131 de daño elemental
+Throné termina con HP:3984
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3688/4002 SP:504/504 BP:0
+B-Ochette - HP:4242/4447 SP:369/369 BP:1
+C-Throné - HP:3984/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:6740/6740 Shields:8
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:2160/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Ochette
+3.Agnea
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Throné se defiende
+Throné recibe 82 de daño elemental
+Throné termina con HP:3902
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3688/4002 SP:504/504 BP:0
+B-Ochette - HP:4242/4447 SP:369/369 BP:2
+C-Throné - HP:3902/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Monarch - HP:6740/6740 Shields:8
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:2160/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Ochette
+3.Agnea
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Ochette
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Monarch - HP:6740/6740 Shields:8
+2: Light Wisp - HP:972/972 Shields:1
+3: Dark Elemental - HP:1822/1822 Shields:4
+4: Ice Elemental - HP:2160/2160 Shields:4
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Throné ataca
+Ice Elemental recibe 48 de daño de tipo Sword
+Ice Elemental recibe 48 de daño de tipo Sword
+Ice Elemental termina con HP:2064
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3688/4002 SP:504/504 BP:0
+B-Ochette - HP:4242/4447 SP:369/369 BP:2
+C-Throné - HP:3902/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:6740/6740 Shields:8
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:2064/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Agnea
+3.Monarch
+4.Ice Elemental
+5.Dark Elemental
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Ochette
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3688/4002 SP:504/504 BP:0
+B-Ochette - HP:4242/4447 SP:369/369 BP:2
+C-Throné - HP:3902/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:6740/6740 Shields:8
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:2064/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Throné
+3.Agnea
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3688/4002 SP:504/504 BP:0
+B-Ochette - HP:4242/4447 SP:369/369 BP:2
+C-Throné - HP:3902/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:6740/6740 Shields:8
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:2064/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Ice Elemental
+3.Dark Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Throné
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Monarch usa Galestorm
+Agnea se defiende
+Agnea recibe 157 de daño elemental
+Ochette se defiende
+Ochette recibe 205 de daño elemental
+Throné recibe 418 de daño elemental
+Agnea termina con HP:3531
+Ochette termina con HP:4037
+Throné termina con HP:3484
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3531/4002 SP:504/504 BP:0
+B-Ochette - HP:4037/4447 SP:369/369 BP:2
+C-Throné - HP:3484/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:6740/6740 Shields:8
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:2064/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Throné
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Ice Elemental usa Iceshot
+Throné recibe 247 de daño elemental
+Throné termina con HP:3237
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3531/4002 SP:504/504 BP:0
+B-Ochette - HP:4037/4447 SP:369/369 BP:2
+C-Throné - HP:3237/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:6740/6740 Shields:8
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:2064/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Throné
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Dark Elemental usa Shadowshot
+Throné recibe 262 de daño elemental
+Throné termina con HP:2975
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3531/4002 SP:504/504 BP:0
+B-Ochette - HP:4037/4447 SP:369/369 BP:2
+C-Throné - HP:2975/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:6740/6740 Shields:8
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:2064/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Throné
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Throné recibe 165 de daño elemental
+Throné termina con HP:2810
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3531/4002 SP:504/504 BP:1
+B-Ochette - HP:4037/4447 SP:369/369 BP:3
+C-Throné - HP:2810/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:6740/6740 Shields:8
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:2064/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Ochette
+3.Throné
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Ochette
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3531/4002 SP:504/504 BP:1
+B-Ochette - HP:4037/4447 SP:369/369 BP:3
+C-Throné - HP:2810/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:6740/6740 Shields:8
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:2064/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Throné
+3.Monarch
+4.Ice Elemental
+5.Dark Elemental
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Throné
+3.Ochette
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Monarch - HP:6740/6740 Shields:8
+2: Light Wisp - HP:972/972 Shields:1
+3: Dark Elemental - HP:1822/1822 Shields:4
+4: Ice Elemental - HP:2064/2160 Shields:4
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Ochette ataca
+Dark Elemental recibe 0 de daño de tipo Bow
+Dark Elemental recibe 0 de daño de tipo Bow
+Dark Elemental recibe 0 de daño de tipo Bow
+Dark Elemental recibe 0 de daño de tipo Bow
+Dark Elemental termina con HP:1822
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3531/4002 SP:504/504 BP:1
+B-Ochette - HP:4037/4447 SP:369/369 BP:0
+C-Throné - HP:2810/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:6740/6740 Shields:8
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:2064/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Throné
+3.Ochette
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Monarch - HP:6740/6740 Shields:8
+2: Light Wisp - HP:972/972 Shields:1
+3: Dark Elemental - HP:1822/1822 Shields:4
+4: Ice Elemental - HP:2064/2160 Shields:4
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Throné no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Throné no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Throné ataca
+Ice Elemental recibe 48 de daño de tipo Sword
+Ice Elemental recibe 48 de daño de tipo Sword
+Ice Elemental termina con HP:1968
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3531/4002 SP:504/504 BP:1
+B-Ochette - HP:4037/4447 SP:369/369 BP:0
+C-Throné - HP:2810/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Monarch - HP:6740/6740 Shields:8
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Ice Elemental
+3.Dark Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Throné
+3.Ochette
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Monarch usa Galestorm
+Agnea se defiende
+Agnea recibe 157 de daño elemental
+Ochette recibe 411 de daño elemental
+Throné recibe 418 de daño elemental
+Agnea termina con HP:3374
+Ochette termina con HP:3626
+Throné termina con HP:2392
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3374/4002 SP:504/504 BP:1
+B-Ochette - HP:3626/4447 SP:369/369 BP:0
+C-Throné - HP:2392/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Monarch - HP:6740/6740 Shields:8
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Throné
+3.Ochette
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Ice Elemental usa Iceshot
+Throné recibe 247 de daño elemental
+Throné termina con HP:2145
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3374/4002 SP:504/504 BP:1
+B-Ochette - HP:3626/4447 SP:369/369 BP:0
+C-Throné - HP:2145/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Monarch - HP:6740/6740 Shields:8
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Throné
+3.Ochette
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Dark Elemental usa Shadowshot
+Throné recibe 262 de daño elemental
+Throné termina con HP:1883
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3374/4002 SP:504/504 BP:1
+B-Ochette - HP:3626/4447 SP:369/369 BP:0
+C-Throné - HP:1883/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Monarch - HP:6740/6740 Shields:8
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Throné
+3.Ochette
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Throné recibe 165 de daño elemental
+Throné termina con HP:1718
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3374/4002 SP:504/504 BP:2
+B-Ochette - HP:3626/4447 SP:369/369 BP:0
+C-Throné - HP:1718/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Monarch - HP:6740/6740 Shields:8
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Throné
+3.Ochette
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Ochette
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3374/4002 SP:504/504 BP:2
+B-Ochette - HP:3626/4447 SP:369/369 BP:0
+C-Throné - HP:1718/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Monarch - HP:6740/6740 Shields:8
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Ochette
+3.Monarch
+4.Ice Elemental
+5.Dark Elemental
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Throné
+3.Ochette
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3374/4002 SP:504/504 BP:2
+B-Ochette - HP:3626/4447 SP:369/369 BP:0
+C-Throné - HP:1718/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Monarch - HP:6740/6740 Shields:8
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Ochette
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Monarch - HP:6740/6740 Shields:8
+2: Light Wisp - HP:972/972 Shields:1
+3: Dark Elemental - HP:1822/1822 Shields:4
+4: Ice Elemental - HP:1968/2160 Shields:4
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Ochette ataca
+Monarch recibe 317 de daño de tipo Bow con debilidad
+Monarch termina con HP:6423
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3374/4002 SP:504/504 BP:2
+B-Ochette - HP:3626/4447 SP:369/369 BP:0
+C-Throné - HP:1718/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Monarch - HP:6423/6740 Shields:7
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Ice Elemental
+3.Dark Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Ochette
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Monarch usa Galestorm
+Agnea se defiende
+Agnea recibe 157 de daño elemental
+Ochette recibe 411 de daño elemental
+Throné se defiende
+Throné recibe 209 de daño elemental
+Agnea termina con HP:3217
+Ochette termina con HP:3215
+Throné termina con HP:1509
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3217/4002 SP:504/504 BP:2
+B-Ochette - HP:3215/4447 SP:369/369 BP:0
+C-Throné - HP:1509/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Monarch - HP:6423/6740 Shields:7
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Ochette
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Ice Elemental usa Iceshot
+Throné se defiende
+Throné recibe 123 de daño elemental
+Throné termina con HP:1386
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3217/4002 SP:504/504 BP:2
+B-Ochette - HP:3215/4447 SP:369/369 BP:0
+C-Throné - HP:1386/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Monarch - HP:6423/6740 Shields:7
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Ochette
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Dark Elemental usa Shadowshot
+Throné se defiende
+Throné recibe 131 de daño elemental
+Throné termina con HP:1255
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3217/4002 SP:504/504 BP:2
+B-Ochette - HP:3215/4447 SP:369/369 BP:0
+C-Throné - HP:1255/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Monarch - HP:6423/6740 Shields:7
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Ochette
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Throné se defiende
+Throné recibe 82 de daño elemental
+Throné termina con HP:1173
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3217/4002 SP:504/504 BP:3
+B-Ochette - HP:3215/4447 SP:369/369 BP:1
+C-Throné - HP:1173/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:6423/6740 Shields:7
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Agnea
+3.Ochette
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Ochette
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3217/4002 SP:504/504 BP:3
+B-Ochette - HP:3215/4447 SP:369/369 BP:1
+C-Throné - HP:1173/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:6423/6740 Shields:7
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Ochette
+3.Monarch
+4.Ice Elemental
+5.Dark Elemental
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Ochette
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3217/4002 SP:504/504 BP:3
+B-Ochette - HP:3215/4447 SP:369/369 BP:1
+C-Throné - HP:1173/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:6423/6740 Shields:7
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Ochette
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3217/4002 SP:504/504 BP:3
+B-Ochette - HP:3215/4447 SP:369/369 BP:1
+C-Throné - HP:1173/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:6423/6740 Shields:7
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Ice Elemental
+3.Dark Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Ochette
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Monarch usa Galestorm
+Agnea se defiende
+Agnea recibe 157 de daño elemental
+Ochette se defiende
+Ochette recibe 205 de daño elemental
+Throné se defiende
+Throné recibe 209 de daño elemental
+Agnea termina con HP:3060
+Ochette termina con HP:3010
+Throné termina con HP:964
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3060/4002 SP:504/504 BP:3
+B-Ochette - HP:3010/4447 SP:369/369 BP:1
+C-Throné - HP:964/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:6423/6740 Shields:7
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Ochette
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Ice Elemental usa Iceshot
+Throné se defiende
+Throné recibe 123 de daño elemental
+Throné termina con HP:841
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3060/4002 SP:504/504 BP:3
+B-Ochette - HP:3010/4447 SP:369/369 BP:1
+C-Throné - HP:841/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:6423/6740 Shields:7
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Ochette
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Dark Elemental usa Shadowshot
+Throné se defiende
+Throné recibe 131 de daño elemental
+Throné termina con HP:710
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3060/4002 SP:504/504 BP:3
+B-Ochette - HP:3010/4447 SP:369/369 BP:1
+C-Throné - HP:710/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:6423/6740 Shields:7
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Ochette
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Throné se defiende
+Throné recibe 82 de daño elemental
+Throné termina con HP:628
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3060/4002 SP:504/504 BP:4
+B-Ochette - HP:3010/4447 SP:369/369 BP:2
+C-Throné - HP:628/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Monarch - HP:6423/6740 Shields:7
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Agnea
+3.Ochette
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Ochette
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Monarch - HP:6423/6740 Shields:7
+2: Light Wisp - HP:972/972 Shields:1
+3: Dark Elemental - HP:1822/1822 Shields:4
+4: Ice Elemental - HP:1968/2160 Shields:4
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Throné ataca
+Dark Elemental recibe 0 de daño de tipo Sword
+Dark Elemental recibe 0 de daño de tipo Sword
+Dark Elemental termina con HP:1822
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3060/4002 SP:504/504 BP:4
+B-Ochette - HP:3010/4447 SP:369/369 BP:2
+C-Throné - HP:628/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:6423/6740 Shields:7
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Ochette
+3.Monarch
+4.Ice Elemental
+5.Dark Elemental
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Ochette
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3060/4002 SP:504/504 BP:4
+B-Ochette - HP:3010/4447 SP:369/369 BP:2
+C-Throné - HP:628/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:6423/6740 Shields:7
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Throné
+3.Ochette
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3060/4002 SP:504/504 BP:4
+B-Ochette - HP:3010/4447 SP:369/369 BP:2
+C-Throné - HP:628/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:6423/6740 Shields:7
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Ice Elemental
+3.Dark Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Throné
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Monarch usa Galestorm
+Agnea se defiende
+Agnea recibe 157 de daño elemental
+Ochette se defiende
+Ochette recibe 205 de daño elemental
+Throné recibe 418 de daño elemental
+Agnea termina con HP:2903
+Ochette termina con HP:2805
+Throné termina con HP:210
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2903/4002 SP:504/504 BP:4
+B-Ochette - HP:2805/4447 SP:369/369 BP:2
+C-Throné - HP:210/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:6423/6740 Shields:7
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Throné
+4.Monarch
+5.Ice Elemental
+6.Dark Elemental
+7.Light Wisp
+----------------------------------------
+Ice Elemental usa Iceshot
+Throné recibe 247 de daño elemental
+Throné termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2903/4002 SP:504/504 BP:4
+B-Ochette - HP:2805/4447 SP:369/369 BP:2
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:6423/6740 Shields:7
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Monarch
+4.Ice Elemental
+5.Dark Elemental
+6.Light Wisp
+----------------------------------------
+Dark Elemental usa Shadowshot
+Ochette se defiende
+Ochette recibe 127 de daño elemental
+Ochette termina con HP:2678
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2903/4002 SP:504/504 BP:4
+B-Ochette - HP:2678/4447 SP:369/369 BP:2
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:6423/6740 Shields:7
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Monarch
+4.Ice Elemental
+5.Dark Elemental
+6.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Agnea se defiende
+Agnea recibe 30 de daño elemental
+Agnea termina con HP:2873
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2873/4002 SP:504/504 BP:5
+B-Ochette - HP:2678/4447 SP:369/369 BP:3
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:6423/6740 Shields:7
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Ochette
+3.Monarch
+4.Ice Elemental
+5.Dark Elemental
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Monarch
+4.Ice Elemental
+5.Dark Elemental
+6.Light Wisp
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2873/4002 SP:504/504 BP:5
+B-Ochette - HP:2678/4447 SP:369/369 BP:3
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:6423/6740 Shields:7
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Monarch
+4.Ice Elemental
+5.Dark Elemental
+6.Light Wisp
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Monarch - HP:6423/6740 Shields:7
+2: Light Wisp - HP:972/972 Shields:1
+3: Dark Elemental - HP:1822/1822 Shields:4
+4: Ice Elemental - HP:1968/2160 Shields:4
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Ochette ataca
+Monarch recibe 317 de daño de tipo Bow con debilidad
+Monarch recibe 317 de daño de tipo Bow con debilidad
+Monarch recibe 317 de daño de tipo Bow con debilidad
+Monarch recibe 317 de daño de tipo Bow con debilidad
+Monarch termina con HP:5155
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2873/4002 SP:504/504 BP:5
+B-Ochette - HP:2678/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Ice Elemental
+3.Dark Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Monarch
+4.Ice Elemental
+5.Dark Elemental
+6.Light Wisp
+----------------------------------------
+Monarch usa Galestorm
+Agnea se defiende
+Agnea recibe 157 de daño elemental
+Ochette recibe 411 de daño elemental
+Agnea termina con HP:2716
+Ochette termina con HP:2267
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2716/4002 SP:504/504 BP:5
+B-Ochette - HP:2267/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Monarch
+4.Ice Elemental
+5.Dark Elemental
+6.Light Wisp
+----------------------------------------
+Ice Elemental usa Iceshot
+Ochette recibe 240 de daño elemental
+Ochette termina con HP:2027
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2716/4002 SP:504/504 BP:5
+B-Ochette - HP:2027/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Monarch
+4.Ice Elemental
+5.Dark Elemental
+6.Light Wisp
+----------------------------------------
+Dark Elemental usa Shadowshot
+Ochette recibe 255 de daño elemental
+Ochette termina con HP:1772
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2716/4002 SP:504/504 BP:5
+B-Ochette - HP:1772/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Monarch
+4.Ice Elemental
+5.Dark Elemental
+6.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Agnea se defiende
+Agnea recibe 30 de daño elemental
+Agnea termina con HP:2686
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2686/4002 SP:504/504 BP:5
+B-Ochette - HP:1772/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Ochette
+3.Monarch
+4.Ice Elemental
+5.Dark Elemental
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Monarch
+4.Ice Elemental
+5.Dark Elemental
+6.Light Wisp
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Monarch - HP:5155/6740 Shields:3
+2: Light Wisp - HP:972/972 Shields:1
+3: Dark Elemental - HP:1822/1822 Shields:4
+4: Ice Elemental - HP:1968/2160 Shields:4
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Agnea ataca
+Ice Elemental recibe 0 de daño de tipo Dagger
+Ice Elemental recibe 0 de daño de tipo Dagger
+Ice Elemental termina con HP:1968
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2686/4002 SP:504/504 BP:4
+B-Ochette - HP:1772/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Monarch
+4.Ice Elemental
+5.Dark Elemental
+6.Light Wisp
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2686/4002 SP:504/504 BP:4
+B-Ochette - HP:1772/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Ice Elemental
+3.Dark Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Agnea
+3.Monarch
+4.Ice Elemental
+5.Dark Elemental
+6.Light Wisp
+----------------------------------------
+Monarch usa Galestorm
+Agnea recibe 314 de daño elemental
+Ochette se defiende
+Ochette recibe 205 de daño elemental
+Agnea termina con HP:2372
+Ochette termina con HP:1567
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2372/4002 SP:504/504 BP:4
+B-Ochette - HP:1567/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Agnea
+3.Monarch
+4.Ice Elemental
+5.Dark Elemental
+6.Light Wisp
+----------------------------------------
+Ice Elemental usa Iceshot
+Ochette se defiende
+Ochette recibe 120 de daño elemental
+Ochette termina con HP:1447
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2372/4002 SP:504/504 BP:4
+B-Ochette - HP:1447/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Agnea
+3.Monarch
+4.Ice Elemental
+5.Dark Elemental
+6.Light Wisp
+----------------------------------------
+Dark Elemental usa Shadowshot
+Ochette se defiende
+Ochette recibe 127 de daño elemental
+Ochette termina con HP:1320
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2372/4002 SP:504/504 BP:4
+B-Ochette - HP:1320/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Agnea
+3.Monarch
+4.Ice Elemental
+5.Dark Elemental
+6.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Agnea recibe 61 de daño elemental
+Agnea termina con HP:2311
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2311/4002 SP:504/504 BP:4
+B-Ochette - HP:1320/4447 SP:369/369 BP:1
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:972/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Agnea
+3.Monarch
+4.Ice Elemental
+5.Dark Elemental
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Monarch
+4.Ice Elemental
+5.Dark Elemental
+6.Light Wisp
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Monarch - HP:5155/6740 Shields:3
+2: Light Wisp - HP:972/972 Shields:1
+3: Dark Elemental - HP:1822/1822 Shields:4
+4: Ice Elemental - HP:1968/2160 Shields:4
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Ochette ataca
+Light Wisp recibe 202 de daño de tipo Axe
+Light Wisp recibe 202 de daño de tipo Axe
+Light Wisp termina con HP:568
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2311/4002 SP:504/504 BP:4
+B-Ochette - HP:1320/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:568/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Monarch
+4.Ice Elemental
+5.Dark Elemental
+6.Light Wisp
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2311/4002 SP:504/504 BP:4
+B-Ochette - HP:1320/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:568/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Ice Elemental
+3.Dark Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Monarch
+4.Ice Elemental
+5.Dark Elemental
+6.Light Wisp
+----------------------------------------
+Monarch usa Galestorm
+Agnea se defiende
+Agnea recibe 157 de daño elemental
+Ochette recibe 411 de daño elemental
+Agnea termina con HP:2154
+Ochette termina con HP:909
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2154/4002 SP:504/504 BP:4
+B-Ochette - HP:909/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:568/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Monarch
+4.Ice Elemental
+5.Dark Elemental
+6.Light Wisp
+----------------------------------------
+Ice Elemental usa Iceshot
+Ochette recibe 240 de daño elemental
+Ochette termina con HP:669
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2154/4002 SP:504/504 BP:4
+B-Ochette - HP:669/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:568/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Monarch
+4.Ice Elemental
+5.Dark Elemental
+6.Light Wisp
+----------------------------------------
+Dark Elemental usa Shadowshot
+Ochette recibe 255 de daño elemental
+Ochette termina con HP:414
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2154/4002 SP:504/504 BP:4
+B-Ochette - HP:414/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:568/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Monarch
+4.Ice Elemental
+5.Dark Elemental
+6.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Agnea se defiende
+Agnea recibe 30 de daño elemental
+Agnea termina con HP:2124
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2124/4002 SP:504/504 BP:5
+B-Ochette - HP:414/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:568/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Ochette
+3.Monarch
+4.Ice Elemental
+5.Dark Elemental
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Monarch
+4.Ice Elemental
+5.Dark Elemental
+6.Light Wisp
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2124/4002 SP:504/504 BP:5
+B-Ochette - HP:414/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:568/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Monarch
+4.Ice Elemental
+5.Dark Elemental
+6.Light Wisp
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2124/4002 SP:504/504 BP:5
+B-Ochette - HP:414/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:568/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Ice Elemental
+3.Dark Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Monarch
+4.Ice Elemental
+5.Dark Elemental
+6.Light Wisp
+----------------------------------------
+Monarch usa Galestorm
+Agnea se defiende
+Agnea recibe 157 de daño elemental
+Ochette se defiende
+Ochette recibe 205 de daño elemental
+Agnea termina con HP:1967
+Ochette termina con HP:209
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1967/4002 SP:504/504 BP:5
+B-Ochette - HP:209/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:568/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Monarch
+4.Ice Elemental
+5.Dark Elemental
+6.Light Wisp
+----------------------------------------
+Ice Elemental usa Iceshot
+Ochette se defiende
+Ochette recibe 120 de daño elemental
+Ochette termina con HP:89
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1967/4002 SP:504/504 BP:5
+B-Ochette - HP:89/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:568/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Monarch
+4.Ice Elemental
+5.Dark Elemental
+6.Light Wisp
+----------------------------------------
+Dark Elemental usa Shadowshot
+Ochette se defiende
+Ochette recibe 127 de daño elemental
+Ochette termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1967/4002 SP:504/504 BP:5
+B-Ochette - HP:0/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:568/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Agnea se defiende
+Agnea recibe 30 de daño elemental
+Agnea termina con HP:1937
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1937/4002 SP:504/504 BP:5
+B-Ochette - HP:0/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:568/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1937/4002 SP:504/504 BP:5
+B-Ochette - HP:0/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:568/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Ice Elemental
+3.Dark Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Monarch usa Galestorm
+Agnea se defiende
+Agnea recibe 157 de daño elemental
+Agnea termina con HP:1780
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1780/4002 SP:504/504 BP:5
+B-Ochette - HP:0/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:568/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Ice Elemental usa Iceshot
+Agnea se defiende
+Agnea recibe 71 de daño elemental
+Agnea termina con HP:1709
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1709/4002 SP:504/504 BP:5
+B-Ochette - HP:0/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:568/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Dark Elemental usa Shadowshot
+Agnea se defiende
+Agnea recibe 79 de daño elemental
+Agnea termina con HP:1630
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1630/4002 SP:504/504 BP:5
+B-Ochette - HP:0/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:568/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Agnea se defiende
+Agnea recibe 30 de daño elemental
+Agnea termina con HP:1600
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1600/4002 SP:504/504 BP:5
+B-Ochette - HP:0/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:568/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Monarch - HP:5155/6740 Shields:3
+2: Light Wisp - HP:568/972 Shields:1
+3: Dark Elemental - HP:1822/1822 Shields:4
+4: Ice Elemental - HP:1968/2160 Shields:4
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Agnea ataca
+Light Wisp recibe 0 de daño de tipo Dagger
+Light Wisp recibe 0 de daño de tipo Dagger
+Light Wisp recibe 0 de daño de tipo Dagger
+Light Wisp recibe 0 de daño de tipo Dagger
+Light Wisp termina con HP:568
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1600/4002 SP:504/504 BP:2
+B-Ochette - HP:0/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:568/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Ice Elemental
+3.Dark Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Monarch usa Galestorm
+Agnea recibe 314 de daño elemental
+Agnea termina con HP:1286
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1286/4002 SP:504/504 BP:2
+B-Ochette - HP:0/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:568/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Ice Elemental usa Iceshot
+Agnea recibe 143 de daño elemental
+Agnea termina con HP:1143
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1143/4002 SP:504/504 BP:2
+B-Ochette - HP:0/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:568/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Dark Elemental usa Shadowshot
+Agnea recibe 158 de daño elemental
+Agnea termina con HP:985
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:985/4002 SP:504/504 BP:2
+B-Ochette - HP:0/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:568/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Agnea recibe 61 de daño elemental
+Agnea termina con HP:924
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:924/4002 SP:504/504 BP:2
+B-Ochette - HP:0/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:568/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:924/4002 SP:504/504 BP:2
+B-Ochette - HP:0/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:568/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Ice Elemental
+3.Dark Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Monarch usa Galestorm
+Agnea se defiende
+Agnea recibe 157 de daño elemental
+Agnea termina con HP:767
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:767/4002 SP:504/504 BP:2
+B-Ochette - HP:0/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:568/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Ice Elemental usa Iceshot
+Agnea se defiende
+Agnea recibe 71 de daño elemental
+Agnea termina con HP:696
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:696/4002 SP:504/504 BP:2
+B-Ochette - HP:0/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:568/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Dark Elemental usa Shadowshot
+Agnea se defiende
+Agnea recibe 79 de daño elemental
+Agnea termina con HP:617
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:617/4002 SP:504/504 BP:2
+B-Ochette - HP:0/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:568/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Agnea se defiende
+Agnea recibe 30 de daño elemental
+Agnea termina con HP:587
+----------------------------------------
+INICIA RONDA 14
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:587/4002 SP:504/504 BP:3
+B-Ochette - HP:0/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:568/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:587/4002 SP:504/504 BP:3
+B-Ochette - HP:0/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:568/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Ice Elemental
+3.Dark Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Monarch usa Galestorm
+Agnea se defiende
+Agnea recibe 157 de daño elemental
+Agnea termina con HP:430
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:430/4002 SP:504/504 BP:3
+B-Ochette - HP:0/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:568/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Ice Elemental usa Iceshot
+Agnea se defiende
+Agnea recibe 71 de daño elemental
+Agnea termina con HP:359
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:359/4002 SP:504/504 BP:3
+B-Ochette - HP:0/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:568/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Dark Elemental usa Shadowshot
+Agnea se defiende
+Agnea recibe 79 de daño elemental
+Agnea termina con HP:280
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:280/4002 SP:504/504 BP:3
+B-Ochette - HP:0/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:568/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Agnea se defiende
+Agnea recibe 30 de daño elemental
+Agnea termina con HP:250
+----------------------------------------
+INICIA RONDA 15
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:250/4002 SP:504/504 BP:4
+B-Ochette - HP:0/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:568/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:250/4002 SP:504/504 BP:4
+B-Ochette - HP:0/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:568/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Ice Elemental
+3.Dark Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Monarch usa Galestorm
+Agnea se defiende
+Agnea recibe 157 de daño elemental
+Agnea termina con HP:93
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:93/4002 SP:504/504 BP:4
+B-Ochette - HP:0/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:568/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Ice Elemental usa Iceshot
+Agnea se defiende
+Agnea recibe 71 de daño elemental
+Agnea termina con HP:22
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:22/4002 SP:504/504 BP:4
+B-Ochette - HP:0/4447 SP:369/369 BP:0
+C-Throné - HP:0/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:5155/6740 Shields:3
+B-Light Wisp - HP:568/972 Shields:1
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Ice Elemental - HP:1968/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Monarch
+3.Ice Elemental
+4.Dark Elemental
+5.Light Wisp
+----------------------------------------
+Dark Elemental usa Shadowshot
+Agnea se defiende
+Agnea recibe 79 de daño elemental
+Agnea termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

@@ -14,39 +14,10 @@ public sealed class PassiveSkillProfileFactory
 
     public PassiveSkillProfile Create(IReadOnlyList<string> passiveSkillNames)
     {
-        PassiveSkillProfileBuilder profileBuilder = new();
+        PassiveSkillProfileBuilder profileBuilder = new(PassiveBonusesByName);
         foreach (string passiveSkillName in passiveSkillNames)
             profileBuilder.ApplyPassiveSkill(passiveSkillName);
 
         return profileBuilder.Build();
-    }
-
-    private sealed class PassiveSkillProfileBuilder
-    {
-        private PassiveStatBonus _statBonuses = PassiveStatBonus.None;
-        private bool _hasBoostStart;
-        private bool _hasStatSwap;
-        private bool _hasVimAndVigor;
-        private bool _hasSecondWind;
-        private bool _hasPatience;
-
-        public void ApplyPassiveSkill(string passiveSkillName)
-        {
-            AddStatBonus(passiveSkillName);
-            _hasBoostStart = _hasBoostStart || passiveSkillName == "Boost Start";
-            _hasStatSwap = _hasStatSwap || passiveSkillName == "Stat Swap";
-            _hasVimAndVigor = _hasVimAndVigor || passiveSkillName == "Vim and Vigor";
-            _hasSecondWind = _hasSecondWind || passiveSkillName == "Second Wind";
-            _hasPatience = _hasPatience || passiveSkillName == "Patience";
-        }
-
-        public PassiveSkillProfile Build()
-            => new(_statBonuses, _hasBoostStart, _hasStatSwap, _hasVimAndVigor, _hasSecondWind, _hasPatience);
-
-        private void AddStatBonus(string passiveSkillName)
-        {
-            if (PassiveBonusesByName.TryGetValue(passiveSkillName, out PassiveStatBonus passiveBonus))
-                _statBonuses = _statBonuses.Add(passiveBonus);
-        }
     }
 }

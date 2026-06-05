@@ -1,0 +1,409 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+INPUT: 6
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Behemoth - HP:12690/12690 Shields:8
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Forest Ratkin I - HP:1348/1348 Shields:1
+D-Shadow Wisp - HP:729/729 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Cyrus
+3.Shadow Wisp
+4.Thunder Wisp
+5.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Cyrus
+3.Shadow Wisp
+4.Thunder Wisp
+5.Forest Ratkin I
+----------------------------------------
+Behemoth usa Stampede
+Cyrus recibe 739 de daño físico
+Cyrus termina con HP:2818
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2818/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Behemoth - HP:12690/12690 Shields:8
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Forest Ratkin I - HP:1348/1348 Shields:1
+D-Shadow Wisp - HP:729/729 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Shadow Wisp
+3.Thunder Wisp
+4.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Cyrus
+3.Shadow Wisp
+4.Thunder Wisp
+5.Forest Ratkin I
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Vivify
+2: Trade Tempest
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Behemoth - HP:12690/12690 Shields:8
+2: Thunder Wisp - HP:947/947 Shields:1
+3: Forest Ratkin I - HP:1348/1348 Shields:1
+4: Shadow Wisp - HP:729/729 Shields:1
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Forest Ratkin I recibe 161 de daño de tipo Stave
+Forest Ratkin I termina con HP:1187
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2818/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Behemoth - HP:12690/12690 Shields:8
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Forest Ratkin I - HP:1187/1348 Shields:1
+D-Shadow Wisp - HP:729/729 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Shadow Wisp
+2.Thunder Wisp
+3.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Cyrus
+3.Shadow Wisp
+4.Thunder Wisp
+5.Forest Ratkin I
+----------------------------------------
+Shadow Wisp usa Enshadow
+Cyrus recibe 42 de daño elemental
+Cyrus termina con HP:2776
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2776/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Behemoth - HP:12690/12690 Shields:8
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Forest Ratkin I - HP:1187/1348 Shields:1
+D-Shadow Wisp - HP:729/729 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+2.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Cyrus
+3.Shadow Wisp
+4.Thunder Wisp
+5.Forest Ratkin I
+----------------------------------------
+Thunder Wisp usa Enshadow
+Cyrus recibe 132 de daño elemental
+Cyrus termina con HP:2644
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2644/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Behemoth - HP:12690/12690 Shields:8
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Forest Ratkin I - HP:1187/1348 Shields:1
+D-Shadow Wisp - HP:729/729 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Cyrus
+3.Shadow Wisp
+4.Thunder Wisp
+5.Forest Ratkin I
+----------------------------------------
+Forest Ratkin I usa Stab
+Cyrus recibe 101 de daño físico
+Cyrus termina con HP:2543
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2543/3557 SP:582/582 BP:2
+Equipo del enemigo
+A-Behemoth - HP:12690/12690 Shields:8
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Forest Ratkin I - HP:1187/1348 Shields:1
+D-Shadow Wisp - HP:729/729 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Cyrus
+3.Shadow Wisp
+4.Thunder Wisp
+5.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Cyrus
+3.Shadow Wisp
+4.Thunder Wisp
+5.Forest Ratkin I
+----------------------------------------
+Behemoth usa Stampede
+Cyrus recibe 739 de daño físico
+Cyrus termina con HP:1804
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1804/3557 SP:582/582 BP:2
+Equipo del enemigo
+A-Behemoth - HP:12690/12690 Shields:8
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Forest Ratkin I - HP:1187/1348 Shields:1
+D-Shadow Wisp - HP:729/729 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Shadow Wisp
+3.Thunder Wisp
+4.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Cyrus
+3.Shadow Wisp
+4.Thunder Wisp
+5.Forest Ratkin I
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Vivify
+2: Trade Tempest
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Cyrus usa Trade Tempest
+Behemoth recibe 1265 de daño de tipo Wind
+Thunder Wisp recibe 2333 de daño de tipo Wind con debilidad
+Thunder Wisp entra en Breaking Point
+Forest Ratkin I recibe 1627 de daño de tipo Wind
+Shadow Wisp recibe 1639 de daño de tipo Wind
+Behemoth termina con HP:11425
+Thunder Wisp termina con HP:0
+Forest Ratkin I termina con HP:0
+Shadow Wisp termina con HP:0
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1804/3557 SP:572/582 BP:1
+Equipo del enemigo
+A-Behemoth - HP:11425/12690 Shields:8
+B-Thunder Wisp - HP:0/947 Shields:0
+C-Forest Ratkin I - HP:0/1348 Shields:1
+D-Shadow Wisp - HP:0/729 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Cyrus
+----------------------------------------
+Behemoth usa Stampede
+Cyrus recibe 739 de daño físico
+Cyrus termina con HP:1065
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1065/3557 SP:572/582 BP:1
+Equipo del enemigo
+A-Behemoth - HP:11425/12690 Shields:8
+B-Thunder Wisp - HP:0/947 Shields:0
+C-Forest Ratkin I - HP:0/1348 Shields:1
+D-Shadow Wisp - HP:0/729 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Cyrus
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1065/3557 SP:572/582 BP:2
+Equipo del enemigo
+A-Behemoth - HP:11425/12690 Shields:8
+B-Thunder Wisp - HP:0/947 Shields:0
+C-Forest Ratkin I - HP:0/1348 Shields:1
+D-Shadow Wisp - HP:0/729 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Cyrus
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Behemoth - HP:11425/12690 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Behemoth recibe 0 de daño de tipo Stave
+Behemoth termina con HP:11425
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1065/3557 SP:572/582 BP:2
+Equipo del enemigo
+A-Behemoth - HP:11425/12690 Shields:8
+B-Thunder Wisp - HP:0/947 Shields:0
+C-Forest Ratkin I - HP:0/1348 Shields:1
+D-Shadow Wisp - HP:0/729 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Cyrus
+----------------------------------------
+Behemoth usa Stampede
+Cyrus recibe 739 de daño físico
+Cyrus termina con HP:326
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:326/3557 SP:572/582 BP:3
+Equipo del enemigo
+A-Behemoth - HP:11425/12690 Shields:8
+B-Thunder Wisp - HP:0/947 Shields:0
+C-Forest Ratkin I - HP:0/1348 Shields:1
+D-Shadow Wisp - HP:0/729 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Cyrus
+----------------------------------------
+Behemoth usa Stampede
+Cyrus recibe 739 de daño físico
+Cyrus termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

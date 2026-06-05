@@ -1,0 +1,1502 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+INPUT: 13
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:476/476 BP:1
+B-Ochette - HP:4447/4447 SP:369/369 BP:1
+C-Alfyn - HP:5336/5336 SP:383/383 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Castti
+3.Dreadwolf
+4.Alfyn
+5.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Castti
+3.Dreadwolf
+4.Alfyn
+5.Behemoth
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Ochette usa Heal Wounds
+Castti recupera 470 de vida
+Alfyn recupera 470 de vida
+Ochette recupera 470 de vida
+Castti termina con HP:5336
+Alfyn termina con HP:5336
+Ochette termina con HP:4447
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:476/476 BP:1
+B-Ochette - HP:4447/4447 SP:363/369 BP:0
+C-Alfyn - HP:5336/5336 SP:383/383 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Dreadwolf
+3.Alfyn
+4.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Castti
+3.Dreadwolf
+4.Alfyn
+5.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:476/476 BP:1
+B-Ochette - HP:4447/4447 SP:363/369 BP:0
+C-Alfyn - HP:5336/5336 SP:383/383 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Alfyn
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Ochette
+3.Dreadwolf
+4.Alfyn
+5.Behemoth
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Ochette recibe 831 de daño físico
+Ochette termina con HP:3616
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:476/476 BP:1
+B-Ochette - HP:3616/4447 SP:363/369 BP:0
+C-Alfyn - HP:5336/5336 SP:383/383 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Ochette
+3.Dreadwolf
+4.Alfyn
+5.Behemoth
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:476/476 BP:1
+B-Ochette - HP:3616/4447 SP:363/369 BP:0
+C-Alfyn - HP:5336/5336 SP:383/383 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Ochette
+4.Dreadwolf
+5.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti se defiende
+Castti recibe 284 de daño físico
+Ochette recibe 809 de daño físico
+Alfyn se defiende
+Alfyn recibe 314 de daño físico
+Castti termina con HP:5052
+Ochette termina con HP:2807
+Alfyn termina con HP:5022
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5052/5336 SP:476/476 BP:2
+B-Ochette - HP:2807/4447 SP:363/369 BP:0
+C-Alfyn - HP:5022/5336 SP:383/383 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Alfyn
+3.Ochette
+4.Dreadwolf
+5.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Castti
+3.Dreadwolf
+4.Alfyn
+5.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Luminescence
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti usa Luminescence
+Dreadwolf recibe 298 de daño de tipo Light
+Behemoth recibe 356 de daño de tipo Light
+Dreadwolf termina con HP:7232
+Behemoth termina con HP:12334
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5052/5336 SP:467/476 BP:1
+B-Ochette - HP:2807/4447 SP:363/369 BP:0
+C-Alfyn - HP:5022/5336 SP:383/383 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:7232/7530 Shields:9
+B-Behemoth - HP:12334/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Ochette
+3.Dreadwolf
+4.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Castti
+3.Dreadwolf
+4.Alfyn
+5.Behemoth
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Cross Strike
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Dreadwolf - HP:7232/7530 Shields:9
+2: Behemoth - HP:12334/12690 Shields:8
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Alfyn usa Cross Strike
+Dreadwolf recibe 1474 de daño de tipo Sword
+Dreadwolf termina con HP:5758
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5052/5336 SP:467/476 BP:1
+B-Ochette - HP:2807/4447 SP:363/369 BP:0
+C-Alfyn - HP:5022/5336 SP:371/383 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:5758/7530 Shields:9
+B-Behemoth - HP:12334/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Dreadwolf
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Castti
+3.Dreadwolf
+4.Alfyn
+5.Behemoth
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Ochette usa Heal Wounds
+Castti recupera 352 de vida
+Alfyn recupera 352 de vida
+Ochette recupera 352 de vida
+Castti termina con HP:5336
+Alfyn termina con HP:5336
+Ochette termina con HP:3159
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:467/476 BP:1
+B-Ochette - HP:3159/4447 SP:357/369 BP:0
+C-Alfyn - HP:5336/5336 SP:371/383 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:5758/7530 Shields:9
+B-Behemoth - HP:12334/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Castti
+3.Dreadwolf
+4.Alfyn
+5.Behemoth
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Ochette recibe 831 de daño físico
+Ochette termina con HP:2328
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:467/476 BP:1
+B-Ochette - HP:2328/4447 SP:357/369 BP:0
+C-Alfyn - HP:5336/5336 SP:371/383 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:5758/7530 Shields:9
+B-Behemoth - HP:12334/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Castti
+3.Dreadwolf
+4.Alfyn
+5.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 568 de daño físico
+Ochette recibe 809 de daño físico
+Alfyn recibe 628 de daño físico
+Castti termina con HP:4768
+Ochette termina con HP:1519
+Alfyn termina con HP:4708
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4768/5336 SP:467/476 BP:1
+B-Ochette - HP:1519/4447 SP:357/369 BP:1
+C-Alfyn - HP:4708/5336 SP:371/383 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:5758/7530 Shields:9
+B-Behemoth - HP:12334/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Castti
+3.Dreadwolf
+4.Alfyn
+5.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Castti
+3.Dreadwolf
+4.Alfyn
+5.Behemoth
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Ochette no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Ochette usa Heal Wounds
+Castti recupera 470 de vida
+Alfyn recupera 470 de vida
+Ochette recupera 470 de vida
+Castti termina con HP:5238
+Alfyn termina con HP:5178
+Ochette termina con HP:1989
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5238/5336 SP:467/476 BP:1
+B-Ochette - HP:1989/4447 SP:351/369 BP:0
+C-Alfyn - HP:5178/5336 SP:371/383 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:5758/7530 Shields:9
+B-Behemoth - HP:12334/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Dreadwolf
+3.Alfyn
+4.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Castti
+3.Dreadwolf
+4.Alfyn
+5.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Luminescence
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti usa Luminescence
+Dreadwolf recibe 298 de daño de tipo Light
+Behemoth recibe 356 de daño de tipo Light
+Dreadwolf termina con HP:5460
+Behemoth termina con HP:11978
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5238/5336 SP:458/476 BP:0
+B-Ochette - HP:1989/4447 SP:351/369 BP:0
+C-Alfyn - HP:5178/5336 SP:371/383 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:5460/7530 Shields:9
+B-Behemoth - HP:11978/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Alfyn
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Castti
+3.Dreadwolf
+4.Alfyn
+5.Behemoth
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Ochette recibe 831 de daño físico
+Ochette termina con HP:1158
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5238/5336 SP:458/476 BP:0
+B-Ochette - HP:1158/4447 SP:351/369 BP:0
+C-Alfyn - HP:5178/5336 SP:371/383 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:5460/7530 Shields:9
+B-Behemoth - HP:11978/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Castti
+3.Dreadwolf
+4.Alfyn
+5.Behemoth
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Cross Strike
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Dreadwolf - HP:5460/7530 Shields:9
+2: Behemoth - HP:11978/12690 Shields:8
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Alfyn usa Cross Strike
+Dreadwolf recibe 182 de daño de tipo Sword
+Dreadwolf termina con HP:5278
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5238/5336 SP:458/476 BP:0
+B-Ochette - HP:1158/4447 SP:351/369 BP:0
+C-Alfyn - HP:5178/5336 SP:359/383 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:5278/7530 Shields:9
+B-Behemoth - HP:11978/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Castti
+3.Dreadwolf
+4.Alfyn
+5.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 568 de daño físico
+Ochette recibe 809 de daño físico
+Alfyn recibe 628 de daño físico
+Castti termina con HP:4670
+Ochette termina con HP:349
+Alfyn termina con HP:4550
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4670/5336 SP:458/476 BP:0
+B-Ochette - HP:349/4447 SP:351/369 BP:0
+C-Alfyn - HP:4550/5336 SP:359/383 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:5278/7530 Shields:9
+B-Behemoth - HP:11978/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Castti
+3.Dreadwolf
+4.Alfyn
+5.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Castti
+3.Dreadwolf
+4.Alfyn
+5.Behemoth
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Ochette usa Heal Wounds
+Castti recupera 352 de vida
+Alfyn recupera 352 de vida
+Ochette recupera 352 de vida
+Castti termina con HP:5022
+Alfyn termina con HP:4902
+Ochette termina con HP:701
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5022/5336 SP:458/476 BP:0
+B-Ochette - HP:701/4447 SP:345/369 BP:0
+C-Alfyn - HP:4902/5336 SP:359/383 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:5278/7530 Shields:9
+B-Behemoth - HP:11978/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Dreadwolf
+3.Alfyn
+4.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Castti
+3.Dreadwolf
+4.Alfyn
+5.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Dreadwolf - HP:5278/7530 Shields:9
+2: Behemoth - HP:11978/12690 Shields:8
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Castti ataca
+Behemoth recibe 163 de daño de tipo Axe con debilidad
+Behemoth termina con HP:11815
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5022/5336 SP:458/476 BP:0
+B-Ochette - HP:701/4447 SP:345/369 BP:0
+C-Alfyn - HP:4902/5336 SP:359/383 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:5278/7530 Shields:9
+B-Behemoth - HP:11815/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Alfyn
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Castti
+3.Dreadwolf
+4.Alfyn
+5.Behemoth
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Ochette recibe 831 de daño físico
+Ochette termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5022/5336 SP:458/476 BP:0
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+C-Alfyn - HP:4902/5336 SP:359/383 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:5278/7530 Shields:9
+B-Behemoth - HP:11815/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Alfyn
+4.Behemoth
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5022/5336 SP:458/476 BP:0
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+C-Alfyn - HP:4902/5336 SP:359/383 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:5278/7530 Shields:9
+B-Behemoth - HP:11815/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Castti
+3.Dreadwolf
+4.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 568 de daño físico
+Alfyn se defiende
+Alfyn recibe 314 de daño físico
+Castti termina con HP:4454
+Alfyn termina con HP:4588
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4454/5336 SP:458/476 BP:1
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+C-Alfyn - HP:4588/5336 SP:359/383 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:5278/7530 Shields:9
+B-Behemoth - HP:11815/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Castti
+3.Dreadwolf
+4.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Alfyn
+4.Behemoth
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4454/5336 SP:458/476 BP:1
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+C-Alfyn - HP:4588/5336 SP:359/383 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:5278/7530 Shields:9
+B-Behemoth - HP:11815/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Dreadwolf
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Castti
+3.Dreadwolf
+4.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4454/5336 SP:458/476 BP:1
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+C-Alfyn - HP:4588/5336 SP:359/383 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:5278/7530 Shields:9
+B-Behemoth - HP:11815/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Dreadwolf
+4.Behemoth
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Alfyn se defiende
+Alfyn recibe 325 de daño físico
+Alfyn termina con HP:4263
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4454/5336 SP:458/476 BP:1
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+C-Alfyn - HP:4263/5336 SP:359/383 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:5278/7530 Shields:9
+B-Behemoth - HP:11815/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Dreadwolf
+4.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti se defiende
+Castti recibe 284 de daño físico
+Alfyn se defiende
+Alfyn recibe 314 de daño físico
+Castti termina con HP:4170
+Alfyn termina con HP:3949
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4170/5336 SP:458/476 BP:2
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+C-Alfyn - HP:3949/5336 SP:359/383 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:5278/7530 Shields:9
+B-Behemoth - HP:11815/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Alfyn
+3.Dreadwolf
+4.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Alfyn
+4.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4170/5336 SP:458/476 BP:2
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+C-Alfyn - HP:3949/5336 SP:359/383 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:5278/7530 Shields:9
+B-Behemoth - HP:11815/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Dreadwolf
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Alfyn
+4.Behemoth
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Dreadwolf - HP:5278/7530 Shields:9
+2: Behemoth - HP:11815/12690 Shields:7
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Behemoth recibe 66 de daño de tipo Axe con debilidad
+Behemoth termina con HP:11749
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4170/5336 SP:458/476 BP:2
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+C-Alfyn - HP:3949/5336 SP:359/383 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:5278/7530 Shields:9
+B-Behemoth - HP:11749/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Alfyn
+4.Behemoth
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Alfyn recibe 650 de daño físico
+Alfyn termina con HP:3299
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4170/5336 SP:458/476 BP:2
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+C-Alfyn - HP:3299/5336 SP:359/383 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:5278/7530 Shields:9
+B-Behemoth - HP:11749/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Alfyn
+4.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti se defiende
+Castti recibe 284 de daño físico
+Alfyn recibe 628 de daño físico
+Castti termina con HP:3886
+Alfyn termina con HP:2671
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3886/5336 SP:458/476 BP:3
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+C-Alfyn - HP:2671/5336 SP:359/383 BP:4
+Equipo del enemigo
+A-Dreadwolf - HP:5278/7530 Shields:9
+B-Behemoth - HP:11749/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Dreadwolf
+3.Alfyn
+4.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Alfyn
+4.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Luminescence
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti usa Luminescence
+Dreadwolf recibe 298 de daño de tipo Light
+Behemoth recibe 356 de daño de tipo Light
+Dreadwolf termina con HP:4980
+Behemoth termina con HP:11393
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3886/5336 SP:449/476 BP:2
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+C-Alfyn - HP:2671/5336 SP:359/383 BP:4
+Equipo del enemigo
+A-Dreadwolf - HP:4980/7530 Shields:9
+B-Behemoth - HP:11393/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Alfyn
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Alfyn
+4.Behemoth
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Alfyn recibe 650 de daño físico
+Alfyn termina con HP:2021
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3886/5336 SP:449/476 BP:2
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+C-Alfyn - HP:2021/5336 SP:359/383 BP:4
+Equipo del enemigo
+A-Dreadwolf - HP:4980/7530 Shields:9
+B-Behemoth - HP:11393/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Alfyn
+4.Behemoth
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3886/5336 SP:449/476 BP:2
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+C-Alfyn - HP:2021/5336 SP:359/383 BP:4
+Equipo del enemigo
+A-Dreadwolf - HP:4980/7530 Shields:9
+B-Behemoth - HP:11393/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Castti
+3.Dreadwolf
+4.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 568 de daño físico
+Alfyn se defiende
+Alfyn recibe 314 de daño físico
+Castti termina con HP:3318
+Alfyn termina con HP:1707
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3318/5336 SP:449/476 BP:2
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+C-Alfyn - HP:1707/5336 SP:359/383 BP:5
+Equipo del enemigo
+A-Dreadwolf - HP:4980/7530 Shields:9
+B-Behemoth - HP:11393/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Castti
+3.Dreadwolf
+4.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Alfyn
+4.Behemoth
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Cross Strike
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Dreadwolf - HP:4980/7530 Shields:9
+2: Behemoth - HP:11393/12690 Shields:6
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Alfyn usa Cross Strike
+Dreadwolf recibe 1474 de daño de tipo Sword
+Dreadwolf termina con HP:3506
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3318/5336 SP:449/476 BP:2
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+C-Alfyn - HP:1707/5336 SP:347/383 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:3506/7530 Shields:9
+B-Behemoth - HP:11393/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Dreadwolf
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Alfyn
+4.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Luminescence
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti usa Luminescence
+Dreadwolf recibe 298 de daño de tipo Light
+Behemoth recibe 356 de daño de tipo Light
+Dreadwolf termina con HP:3208
+Behemoth termina con HP:11037
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3318/5336 SP:440/476 BP:1
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+C-Alfyn - HP:1707/5336 SP:347/383 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:3208/7530 Shields:9
+B-Behemoth - HP:11037/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Alfyn
+4.Behemoth
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Alfyn recibe 650 de daño físico
+Alfyn termina con HP:1057
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3318/5336 SP:440/476 BP:1
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+C-Alfyn - HP:1057/5336 SP:347/383 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:3208/7530 Shields:9
+B-Behemoth - HP:11037/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Alfyn
+4.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 568 de daño físico
+Alfyn recibe 628 de daño físico
+Castti termina con HP:2750
+Alfyn termina con HP:429
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2750/5336 SP:440/476 BP:1
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+C-Alfyn - HP:429/5336 SP:347/383 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:3208/7530 Shields:9
+B-Behemoth - HP:11037/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Dreadwolf
+3.Alfyn
+4.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Alfyn
+4.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2750/5336 SP:440/476 BP:1
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+C-Alfyn - HP:429/5336 SP:347/383 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:3208/7530 Shields:9
+B-Behemoth - HP:11037/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Alfyn
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Alfyn
+4.Behemoth
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Alfyn recibe 650 de daño físico
+Alfyn termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2750/5336 SP:440/476 BP:1
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+C-Alfyn - HP:0/5336 SP:347/383 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:3208/7530 Shields:9
+B-Behemoth - HP:11037/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti se defiende
+Castti recibe 284 de daño físico
+Castti termina con HP:2466
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2466/5336 SP:440/476 BP:2
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+C-Alfyn - HP:0/5336 SP:347/383 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:3208/7530 Shields:9
+B-Behemoth - HP:11037/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Dreadwolf
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Luminescence
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti usa Luminescence
+Dreadwolf recibe 298 de daño de tipo Light
+Behemoth recibe 356 de daño de tipo Light
+Dreadwolf termina con HP:2910
+Behemoth termina con HP:10681
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2466/5336 SP:431/476 BP:1
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+C-Alfyn - HP:0/5336 SP:347/383 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:2910/7530 Shields:9
+B-Behemoth - HP:10681/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Behemoth
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Castti recibe 590 de daño físico
+Castti termina con HP:1876
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1876/5336 SP:431/476 BP:1
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+C-Alfyn - HP:0/5336 SP:347/383 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:2910/7530 Shields:9
+B-Behemoth - HP:10681/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 568 de daño físico
+Castti termina con HP:1308
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1308/5336 SP:431/476 BP:1
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+C-Alfyn - HP:0/5336 SP:347/383 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:2910/7530 Shields:9
+B-Behemoth - HP:10681/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Dreadwolf
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Luminescence
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti usa Luminescence
+Dreadwolf recibe 298 de daño de tipo Light
+Behemoth recibe 356 de daño de tipo Light
+Dreadwolf termina con HP:2612
+Behemoth termina con HP:10325
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1308/5336 SP:422/476 BP:0
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+C-Alfyn - HP:0/5336 SP:347/383 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:2612/7530 Shields:9
+B-Behemoth - HP:10325/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Behemoth
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Castti recibe 590 de daño físico
+Castti termina con HP:718
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:718/5336 SP:422/476 BP:0
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+C-Alfyn - HP:0/5336 SP:347/383 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:2612/7530 Shields:9
+B-Behemoth - HP:10325/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 568 de daño físico
+Castti termina con HP:150
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:150/5336 SP:422/476 BP:0
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+C-Alfyn - HP:0/5336 SP:347/383 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:2612/7530 Shields:9
+B-Behemoth - HP:10325/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Dreadwolf
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Luminescence
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Castti usa Luminescence
+Dreadwolf recibe 0 de daño de tipo Light
+Behemoth recibe 0 de daño de tipo Light
+Dreadwolf termina con HP:2612
+Behemoth termina con HP:10325
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:150/5336 SP:413/476 BP:0
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+C-Alfyn - HP:0/5336 SP:347/383 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:2612/7530 Shields:9
+B-Behemoth - HP:10325/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Behemoth
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Castti recibe 590 de daño físico
+Castti termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

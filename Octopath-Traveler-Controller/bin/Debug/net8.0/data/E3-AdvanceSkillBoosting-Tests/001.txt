@@ -1,0 +1,152 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+INPUT: 0
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Ice Guardian - HP:1471/1471 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Meep
+3.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Meep
+3.Ice Guardian
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Fire Storm
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Fire Storm
+Meep recibe 472 de daño de tipo Fire
+Meep recibe 472 de daño de tipo Fire
+Ice Guardian recibe 558 de daño de tipo Fire con debilidad
+Ice Guardian recibe 558 de daño de tipo Fire con debilidad
+Meep termina con HP:72
+Ice Guardian termina con HP:355
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:560/582 BP:1
+Equipo del enemigo
+A-Meep - HP:72/1016 Shields:2
+B-Ice Guardian - HP:355/1471 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Meep
+3.Ice Guardian
+----------------------------------------
+Meep usa Attack
+Cyrus recibe 237 de daño físico
+Cyrus termina con HP:3320
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3320/3557 SP:560/582 BP:1
+Equipo del enemigo
+A-Meep - HP:72/1016 Shields:2
+B-Ice Guardian - HP:355/1471 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Meep
+3.Ice Guardian
+----------------------------------------
+Ice Guardian usa Attack
+Cyrus recibe 179 de daño físico
+Cyrus termina con HP:3141
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3141/3557 SP:560/582 BP:2
+Equipo del enemigo
+A-Meep - HP:72/1016 Shields:2
+B-Ice Guardian - HP:355/1471 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Meep
+3.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Meep
+3.Ice Guardian
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Fire Storm
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Cyrus usa Fire Storm
+Meep recibe 1779 de daño de tipo Fire
+Meep recibe 1779 de daño de tipo Fire
+Ice Guardian recibe 2519 de daño de tipo Fire con debilidad
+Ice Guardian entra en Breaking Point
+Ice Guardian recibe 3359 de daño de tipo Fire con debilidad
+Meep termina con HP:0
+Ice Guardian termina con HP:0
+----------------------------------------
+Gana equipo del jugador

@@ -1,0 +1,1861 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 75
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4502/4502 SP:504/504 BP:1
+B-Throné - HP:4447/4447 SP:382/382 BP:1
+Equipo del enemigo
+A-Heavenwing - HP:6900/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Heavenwing - HP:6900/6900 Shields:7
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné ataca
+Heavenwing recibe 152 de daño de tipo Sword
+Heavenwing termina con HP:6748
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4502/4502 SP:504/504 BP:1
+B-Throné - HP:4447/4447 SP:382/382 BP:1
+Equipo del enemigo
+A-Heavenwing - HP:6748/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Heal More
+2: Icewind
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Icewind
+Heavenwing recibe 301 de daño de tipo Ice
+Heavenwing termina con HP:6447
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4502/4502 SP:496/504 BP:1
+B-Throné - HP:4447/4447 SP:382/382 BP:1
+Equipo del enemigo
+A-Heavenwing - HP:6447/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea recibe 343 de daño elemental
+Throné recibe 447 de daño elemental
+Agnea termina con HP:4159
+Throné termina con HP:4000
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4159/4502 SP:496/504 BP:2
+B-Throné - HP:4000/4447 SP:382/382 BP:2
+Equipo del enemigo
+A-Heavenwing - HP:6447/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4159/4502 SP:496/504 BP:2
+B-Throné - HP:4000/4447 SP:382/382 BP:2
+Equipo del enemigo
+A-Heavenwing - HP:6447/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Heavenwing - HP:6447/6900 Shields:7
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Heavenwing recibe 0 de daño de tipo Dagger
+Heavenwing termina con HP:6447
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4159/4502 SP:496/504 BP:2
+B-Throné - HP:4000/4447 SP:382/382 BP:2
+Equipo del enemigo
+A-Heavenwing - HP:6447/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea recibe 343 de daño elemental
+Throné se defiende
+Throné recibe 223 de daño elemental
+Agnea termina con HP:3816
+Throné termina con HP:3777
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3816/4502 SP:496/504 BP:3
+B-Throné - HP:3777/4447 SP:382/382 BP:3
+Equipo del enemigo
+A-Heavenwing - HP:6447/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Heavenwing - HP:6447/6900 Shields:7
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné ataca
+Heavenwing recibe 152 de daño de tipo Sword
+Heavenwing termina con HP:6295
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3816/4502 SP:496/504 BP:3
+B-Throné - HP:3777/4447 SP:382/382 BP:3
+Equipo del enemigo
+A-Heavenwing - HP:6295/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Heavenwing - HP:6295/6900 Shields:7
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Heavenwing recibe 0 de daño de tipo Dagger
+Heavenwing termina con HP:6295
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3816/4502 SP:496/504 BP:3
+B-Throné - HP:3777/4447 SP:382/382 BP:3
+Equipo del enemigo
+A-Heavenwing - HP:6295/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea recibe 343 de daño elemental
+Throné recibe 447 de daño elemental
+Agnea termina con HP:3473
+Throné termina con HP:3330
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3473/4502 SP:496/504 BP:4
+B-Throné - HP:3330/4447 SP:382/382 BP:4
+Equipo del enemigo
+A-Heavenwing - HP:6295/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3473/4502 SP:496/504 BP:4
+B-Throné - HP:3330/4447 SP:382/382 BP:4
+Equipo del enemigo
+A-Heavenwing - HP:6295/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3473/4502 SP:496/504 BP:4
+B-Throné - HP:3330/4447 SP:382/382 BP:4
+Equipo del enemigo
+A-Heavenwing - HP:6295/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea se defiende
+Agnea recibe 171 de daño elemental
+Throné se defiende
+Throné recibe 223 de daño elemental
+Agnea termina con HP:3302
+Throné termina con HP:3107
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3302/4502 SP:496/504 BP:5
+B-Throné - HP:3107/4447 SP:382/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6295/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3302/4502 SP:496/504 BP:5
+B-Throné - HP:3107/4447 SP:382/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6295/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Heal More
+2: Icewind
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Heal More
+Throné recupera 664 de vida
+Agnea recupera 664 de vida
+Throné termina con HP:3771
+Agnea termina con HP:3966
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3966/4502 SP:471/504 BP:5
+B-Throné - HP:3771/4447 SP:382/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6295/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea recibe 343 de daño elemental
+Throné se defiende
+Throné recibe 223 de daño elemental
+Agnea termina con HP:3623
+Throné termina con HP:3548
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3623/4502 SP:471/504 BP:5
+B-Throné - HP:3548/4447 SP:382/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6295/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3623/4502 SP:471/504 BP:5
+B-Throné - HP:3548/4447 SP:382/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6295/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3623/4502 SP:471/504 BP:5
+B-Throné - HP:3548/4447 SP:382/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6295/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea se defiende
+Agnea recibe 171 de daño elemental
+Throné se defiende
+Throné recibe 223 de daño elemental
+Agnea termina con HP:3452
+Throné termina con HP:3325
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3452/4502 SP:471/504 BP:5
+B-Throné - HP:3325/4447 SP:382/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6295/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Icewind
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné usa Icewind
+Heavenwing recibe 1 de daño de tipo Ice
+Heavenwing termina con HP:6294
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3452/4502 SP:471/504 BP:5
+B-Throné - HP:3325/4447 SP:374/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6294/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3452/4502 SP:471/504 BP:5
+B-Throné - HP:3325/4447 SP:374/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6294/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Throné
+3.Heavenwing
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea se defiende
+Agnea recibe 171 de daño elemental
+Throné recibe 447 de daño elemental
+Agnea termina con HP:3281
+Throné termina con HP:2878
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3281/4502 SP:471/504 BP:5
+B-Throné - HP:2878/4447 SP:374/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6294/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Throné
+3.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Heavenwing - HP:6294/6900 Shields:7
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Heavenwing recibe 0 de daño de tipo Dagger
+Heavenwing termina con HP:6294
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3281/4502 SP:471/504 BP:5
+B-Throné - HP:2878/4447 SP:374/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6294/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Heavenwing - HP:6294/6900 Shields:7
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné ataca
+Heavenwing recibe 152 de daño de tipo Sword
+Heavenwing termina con HP:6142
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3281/4502 SP:471/504 BP:5
+B-Throné - HP:2878/4447 SP:374/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6142/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea recibe 343 de daño elemental
+Throné recibe 447 de daño elemental
+Agnea termina con HP:2938
+Throné termina con HP:2431
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2938/4502 SP:471/504 BP:5
+B-Throné - HP:2431/4447 SP:374/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6142/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Icewind
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné usa Icewind
+Heavenwing recibe 1 de daño de tipo Ice
+Heavenwing termina con HP:6141
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2938/4502 SP:471/504 BP:5
+B-Throné - HP:2431/4447 SP:366/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6141/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Heavenwing - HP:6141/6900 Shields:7
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Heavenwing recibe 0 de daño de tipo Dagger
+Heavenwing termina con HP:6141
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2938/4502 SP:471/504 BP:5
+B-Throné - HP:2431/4447 SP:366/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6141/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea recibe 343 de daño elemental
+Throné recibe 447 de daño elemental
+Agnea termina con HP:2595
+Throné termina con HP:1984
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2595/4502 SP:471/504 BP:5
+B-Throné - HP:1984/4447 SP:366/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6141/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Heavenwing - HP:6141/6900 Shields:7
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné ataca
+Heavenwing recibe 152 de daño de tipo Dagger
+Heavenwing termina con HP:5989
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2595/4502 SP:471/504 BP:5
+B-Throné - HP:1984/4447 SP:366/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5989/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2595/4502 SP:471/504 BP:5
+B-Throné - HP:1984/4447 SP:366/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5989/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Throné
+3.Heavenwing
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea se defiende
+Agnea recibe 171 de daño elemental
+Throné recibe 447 de daño elemental
+Agnea termina con HP:2424
+Throné termina con HP:1537
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2424/4502 SP:471/504 BP:5
+B-Throné - HP:1537/4447 SP:366/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5989/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Throné
+3.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2424/4502 SP:471/504 BP:5
+B-Throné - HP:1537/4447 SP:366/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5989/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Throné
+3.Heavenwing
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Heavenwing - HP:5989/6900 Shields:7
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné ataca
+Heavenwing recibe 152 de daño de tipo Sword
+Heavenwing termina con HP:5837
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2424/4502 SP:471/504 BP:5
+B-Throné - HP:1537/4447 SP:366/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5837/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Throné
+3.Heavenwing
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea se defiende
+Agnea recibe 171 de daño elemental
+Throné recibe 447 de daño elemental
+Agnea termina con HP:2253
+Throné termina con HP:1090
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2253/4502 SP:471/504 BP:5
+B-Throné - HP:1090/4447 SP:366/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5837/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Throné
+3.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Heavenwing - HP:5837/6900 Shields:7
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Heavenwing recibe 0 de daño de tipo Dagger
+Heavenwing termina con HP:5837
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2253/4502 SP:471/504 BP:5
+B-Throné - HP:1090/4447 SP:366/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5837/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2253/4502 SP:471/504 BP:5
+B-Throné - HP:1090/4447 SP:366/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5837/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea recibe 343 de daño elemental
+Throné se defiende
+Throné recibe 223 de daño elemental
+Agnea termina con HP:1910
+Throné termina con HP:867
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1910/4502 SP:471/504 BP:5
+B-Throné - HP:867/4447 SP:366/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5837/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1910/4502 SP:471/504 BP:5
+B-Throné - HP:867/4447 SP:366/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5837/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1910/4502 SP:471/504 BP:5
+B-Throné - HP:867/4447 SP:366/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5837/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea se defiende
+Agnea recibe 171 de daño elemental
+Throné se defiende
+Throné recibe 223 de daño elemental
+Agnea termina con HP:1739
+Throné termina con HP:644
+----------------------------------------
+INICIA RONDA 14
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1739/4502 SP:471/504 BP:5
+B-Throné - HP:644/4447 SP:366/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5837/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Icewind
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné usa Icewind
+Heavenwing recibe 1 de daño de tipo Ice
+Heavenwing termina con HP:5836
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1739/4502 SP:471/504 BP:5
+B-Throné - HP:644/4447 SP:358/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5836/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1739/4502 SP:471/504 BP:5
+B-Throné - HP:644/4447 SP:358/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5836/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Throné
+3.Heavenwing
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea se defiende
+Agnea recibe 171 de daño elemental
+Throné recibe 447 de daño elemental
+Agnea termina con HP:1568
+Throné termina con HP:197
+----------------------------------------
+INICIA RONDA 15
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1568/4502 SP:471/504 BP:5
+B-Throné - HP:197/4447 SP:358/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5836/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Throné
+3.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Heavenwing
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1568/4502 SP:471/504 BP:5
+B-Throné - HP:197/4447 SP:358/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5836/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Throné
+3.Heavenwing
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Heavenwing - HP:5836/6900 Shields:7
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné ataca
+Heavenwing recibe 152 de daño de tipo Sword
+Heavenwing termina con HP:5684
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1568/4502 SP:471/504 BP:5
+B-Throné - HP:197/4447 SP:358/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5684/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Throné
+3.Heavenwing
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea se defiende
+Agnea recibe 171 de daño elemental
+Throné recibe 447 de daño elemental
+Agnea termina con HP:1397
+Throné termina con HP:0
+----------------------------------------
+INICIA RONDA 16
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1397/4502 SP:471/504 BP:5
+B-Throné - HP:0/4447 SP:358/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5684/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heavenwing
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Heavenwing - HP:5684/6900 Shields:7
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Heavenwing recibe 0 de daño de tipo Dagger
+Heavenwing termina con HP:5684
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1397/4502 SP:471/504 BP:5
+B-Throné - HP:0/4447 SP:358/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5684/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heavenwing
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea recibe 343 de daño elemental
+Agnea termina con HP:1054
+----------------------------------------
+INICIA RONDA 17
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1054/4502 SP:471/504 BP:5
+B-Throné - HP:0/4447 SP:358/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5684/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heavenwing
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1054/4502 SP:471/504 BP:5
+B-Throné - HP:0/4447 SP:358/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5684/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heavenwing
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea se defiende
+Agnea recibe 171 de daño elemental
+Agnea termina con HP:883
+----------------------------------------
+INICIA RONDA 18
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:883/4502 SP:471/504 BP:5
+B-Throné - HP:0/4447 SP:358/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5684/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heavenwing
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Heal More
+2: Icewind
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Icewind
+Heavenwing recibe 301 de daño de tipo Ice
+Heavenwing termina con HP:5383
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:883/4502 SP:463/504 BP:5
+B-Throné - HP:0/4447 SP:358/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5383/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heavenwing
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea recibe 343 de daño elemental
+Agnea termina con HP:540
+----------------------------------------
+INICIA RONDA 19
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:540/4502 SP:463/504 BP:5
+B-Throné - HP:0/4447 SP:358/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5383/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heavenwing
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Heal More
+2: Icewind
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Heal More
+Agnea recupera 664 de vida
+Agnea termina con HP:1204
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1204/4502 SP:438/504 BP:5
+B-Throné - HP:0/4447 SP:358/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5383/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heavenwing
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea recibe 343 de daño elemental
+Agnea termina con HP:861
+----------------------------------------
+INICIA RONDA 20
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:861/4502 SP:438/504 BP:5
+B-Throné - HP:0/4447 SP:358/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5383/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heavenwing
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Heal More
+2: Icewind
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Heal More
+Agnea recupera 664 de vida
+Agnea termina con HP:1525
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1525/4502 SP:413/504 BP:5
+B-Throné - HP:0/4447 SP:358/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5383/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heavenwing
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea recibe 343 de daño elemental
+Agnea termina con HP:1182
+----------------------------------------
+INICIA RONDA 21
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1182/4502 SP:413/504 BP:5
+B-Throné - HP:0/4447 SP:358/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5383/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heavenwing
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Heavenwing - HP:5383/6900 Shields:7
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Heavenwing recibe 0 de daño de tipo Dagger
+Heavenwing termina con HP:5383
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1182/4502 SP:413/504 BP:5
+B-Throné - HP:0/4447 SP:358/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5383/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heavenwing
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea recibe 343 de daño elemental
+Agnea termina con HP:839
+----------------------------------------
+INICIA RONDA 22
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:839/4502 SP:413/504 BP:5
+B-Throné - HP:0/4447 SP:358/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5383/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heavenwing
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Heavenwing - HP:5383/6900 Shields:7
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Heavenwing recibe 0 de daño de tipo Dagger
+Heavenwing termina con HP:5383
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:839/4502 SP:413/504 BP:5
+B-Throné - HP:0/4447 SP:358/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5383/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heavenwing
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea recibe 343 de daño elemental
+Agnea termina con HP:496
+----------------------------------------
+INICIA RONDA 23
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:496/4502 SP:413/504 BP:5
+B-Throné - HP:0/4447 SP:358/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5383/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heavenwing
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Heavenwing - HP:5383/6900 Shields:7
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Heavenwing recibe 0 de daño de tipo Dagger
+Heavenwing termina con HP:5383
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:496/4502 SP:413/504 BP:5
+B-Throné - HP:0/4447 SP:358/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5383/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heavenwing
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea recibe 343 de daño elemental
+Agnea termina con HP:153
+----------------------------------------
+INICIA RONDA 24
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:153/4502 SP:413/504 BP:5
+B-Throné - HP:0/4447 SP:358/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5383/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heavenwing
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Heal More
+2: Icewind
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Icewind
+Heavenwing recibe 301 de daño de tipo Ice
+Heavenwing termina con HP:5082
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:153/4502 SP:405/504 BP:5
+B-Throné - HP:0/4447 SP:358/382 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5082/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heavenwing
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea recibe 343 de daño elemental
+Agnea termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

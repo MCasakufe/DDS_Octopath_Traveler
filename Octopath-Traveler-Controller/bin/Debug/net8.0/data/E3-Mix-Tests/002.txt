@@ -1,0 +1,521 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+INPUT: 1
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:582/582 BP:1
+B-Primrose - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Mattias? - HP:5780/5780 Shields:4
+C-Devourer of Men - HP:7500/7500 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Cyrus
+3.Mattias?
+4.Meep
+5.Devourer of Men
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Mattias?
+4.Meep
+5.Devourer of Men
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Night Ode
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Night Ode
+Meep recibe 679 de daño de tipo Dark con debilidad
+Mattias? recibe 88 de daño de tipo Dark
+Devourer of Men recibe 427 de daño de tipo Dark
+Meep termina con HP:337
+Mattias? termina con HP:5692
+Devourer of Men termina con HP:7073
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:582/582 BP:1
+B-Primrose - HP:4002/4002 SP:494/504 BP:1
+Equipo del enemigo
+A-Meep - HP:337/1016 Shields:1
+B-Mattias? - HP:5692/5780 Shields:4
+C-Devourer of Men - HP:7073/7500 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Mattias?
+3.Meep
+4.Devourer of Men
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Mattias?
+4.Meep
+5.Devourer of Men
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Arrowstorm
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Cyrus usa Arrowstorm
+Meep recibe 114 de daño de tipo Bow con debilidad
+Meep entra en Breaking Point
+Meep recibe 152 de daño de tipo Bow con debilidad
+Meep recibe 152 de daño de tipo Bow con debilidad
+Meep recibe 152 de daño de tipo Bow con debilidad
+Meep recibe 152 de daño de tipo Bow con debilidad
+Meep recibe 152 de daño de tipo Bow con debilidad
+Mattias? recibe 2 de daño de tipo Bow
+Mattias? recibe 2 de daño de tipo Bow
+Mattias? recibe 2 de daño de tipo Bow
+Mattias? recibe 2 de daño de tipo Bow
+Mattias? recibe 2 de daño de tipo Bow
+Mattias? recibe 2 de daño de tipo Bow
+Devourer of Men recibe 162 de daño de tipo Bow con debilidad
+Devourer of Men recibe 162 de daño de tipo Bow con debilidad
+Devourer of Men recibe 162 de daño de tipo Bow con debilidad
+Devourer of Men recibe 162 de daño de tipo Bow con debilidad
+Devourer of Men recibe 162 de daño de tipo Bow con debilidad
+Devourer of Men recibe 162 de daño de tipo Bow con debilidad
+Meep termina con HP:0
+Mattias? termina con HP:5680
+Devourer of Men termina con HP:6101
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:558/582 BP:0
+B-Primrose - HP:4002/4002 SP:494/504 BP:1
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:0
+B-Mattias? - HP:5680/5780 Shields:4
+C-Devourer of Men - HP:6101/7500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Devourer of Men
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Mattias?
+4.Devourer of Men
+----------------------------------------
+Mattias? usa Black Gale
+Cyrus recibe 615 de daño elemental
+Primrose recibe 613 de daño elemental
+Cyrus termina con HP:2942
+Primrose termina con HP:3389
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2942/3557 SP:558/582 BP:0
+B-Primrose - HP:3389/4002 SP:494/504 BP:1
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:0
+B-Mattias? - HP:5680/5780 Shields:4
+C-Devourer of Men - HP:6101/7500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Men
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Mattias?
+4.Devourer of Men
+----------------------------------------
+Devourer of Men usa Shadow Magic
+Cyrus recibe 330 de daño elemental
+Cyrus recibe 330 de daño elemental
+Primrose recibe 328 de daño elemental
+Primrose recibe 328 de daño elemental
+Cyrus termina con HP:2282
+Primrose termina con HP:2733
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2282/3557 SP:558/582 BP:0
+B-Primrose - HP:2733/4002 SP:494/504 BP:2
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:0
+B-Mattias? - HP:5680/5780 Shields:4
+C-Devourer of Men - HP:6101/7500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Cyrus
+3.Mattias?
+4.Devourer of Men
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Mattias?
+4.Devourer of Men
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Night Ode
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Night Ode
+Mattias? recibe 88 de daño de tipo Dark
+Devourer of Men recibe 427 de daño de tipo Dark
+Mattias? termina con HP:5592
+Devourer of Men termina con HP:5674
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2282/3557 SP:558/582 BP:0
+B-Primrose - HP:2733/4002 SP:484/504 BP:2
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:0
+B-Mattias? - HP:5592/5780 Shields:4
+C-Devourer of Men - HP:5674/7500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Mattias?
+3.Devourer of Men
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Mattias?
+4.Devourer of Men
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Mattias? - HP:5592/5780 Shields:4
+2: Devourer of Men - HP:5674/7500 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Cyrus ataca
+Devourer of Men recibe 285 de daño de tipo Stave con debilidad
+Devourer of Men termina con HP:5389
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2282/3557 SP:558/582 BP:0
+B-Primrose - HP:2733/4002 SP:484/504 BP:2
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:0
+B-Mattias? - HP:5592/5780 Shields:4
+C-Devourer of Men - HP:5389/7500 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Devourer of Men
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Mattias?
+4.Devourer of Men
+----------------------------------------
+Mattias? usa Black Gale
+Cyrus recibe 615 de daño elemental
+Primrose recibe 613 de daño elemental
+Cyrus termina con HP:1667
+Primrose termina con HP:2120
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1667/3557 SP:558/582 BP:0
+B-Primrose - HP:2120/4002 SP:484/504 BP:2
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:0
+B-Mattias? - HP:5592/5780 Shields:4
+C-Devourer of Men - HP:5389/7500 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Men
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Mattias?
+4.Devourer of Men
+----------------------------------------
+Devourer of Men usa Shadow Magic
+Cyrus recibe 330 de daño elemental
+Cyrus recibe 330 de daño elemental
+Primrose recibe 328 de daño elemental
+Primrose recibe 328 de daño elemental
+Cyrus termina con HP:1007
+Primrose termina con HP:1464
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1007/3557 SP:558/582 BP:1
+B-Primrose - HP:1464/4002 SP:484/504 BP:3
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:0
+B-Mattias? - HP:5592/5780 Shields:4
+C-Devourer of Men - HP:5389/7500 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Cyrus
+3.Mattias?
+4.Devourer of Men
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Mattias?
+4.Devourer of Men
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Mattias? - HP:5592/5780 Shields:4
+2: Devourer of Men - HP:5389/7500 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Mattias? recibe 0 de daño de tipo Dagger
+Mattias? termina con HP:5592
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1007/3557 SP:558/582 BP:1
+B-Primrose - HP:1464/4002 SP:484/504 BP:3
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:0
+B-Mattias? - HP:5592/5780 Shields:4
+C-Devourer of Men - HP:5389/7500 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Mattias?
+3.Devourer of Men
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Mattias?
+4.Devourer of Men
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Arrowstorm
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Arrowstorm
+Mattias? recibe 0 de daño de tipo Bow
+Mattias? recibe 0 de daño de tipo Bow
+Mattias? recibe 0 de daño de tipo Bow
+Mattias? recibe 0 de daño de tipo Bow
+Mattias? recibe 0 de daño de tipo Bow
+Mattias? recibe 0 de daño de tipo Bow
+Devourer of Men recibe 0 de daño de tipo Bow con debilidad
+Devourer of Men recibe 0 de daño de tipo Bow con debilidad
+Devourer of Men recibe 0 de daño de tipo Bow con debilidad
+Devourer of Men recibe 0 de daño de tipo Bow con debilidad
+Devourer of Men recibe 0 de daño de tipo Bow con debilidad
+Devourer of Men recibe 0 de daño de tipo Bow con debilidad
+Mattias? termina con HP:5592
+Devourer of Men termina con HP:5389
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1007/3557 SP:534/582 BP:1
+B-Primrose - HP:1464/4002 SP:484/504 BP:3
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:0
+B-Mattias? - HP:5592/5780 Shields:4
+C-Devourer of Men - HP:5389/7500 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Devourer of Men
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Mattias?
+4.Devourer of Men
+----------------------------------------
+Mattias? usa Black Gale
+Cyrus recibe 615 de daño elemental
+Primrose recibe 613 de daño elemental
+Cyrus termina con HP:392
+Primrose termina con HP:851
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:392/3557 SP:534/582 BP:1
+B-Primrose - HP:851/4002 SP:484/504 BP:3
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:0
+B-Mattias? - HP:5592/5780 Shields:4
+C-Devourer of Men - HP:5389/7500 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Men
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Cyrus
+3.Mattias?
+4.Devourer of Men
+----------------------------------------
+Devourer of Men usa Shadow Magic
+Cyrus recibe 330 de daño elemental
+Cyrus recibe 330 de daño elemental
+Primrose recibe 328 de daño elemental
+Primrose recibe 328 de daño elemental
+Cyrus termina con HP:0
+Primrose termina con HP:195
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:534/582 BP:1
+B-Primrose - HP:195/4002 SP:484/504 BP:4
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:0
+B-Mattias? - HP:5592/5780 Shields:4
+C-Devourer of Men - HP:5389/7500 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Mattias?
+3.Devourer of Men
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Mattias?
+3.Devourer of Men
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Mattias? - HP:5592/5780 Shields:4
+2: Devourer of Men - HP:5389/7500 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Mattias? recibe 0 de daño de tipo Dagger
+Mattias? termina con HP:5592
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:534/582 BP:1
+B-Primrose - HP:195/4002 SP:484/504 BP:4
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:0
+B-Mattias? - HP:5592/5780 Shields:4
+C-Devourer of Men - HP:5389/7500 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Devourer of Men
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Mattias?
+3.Devourer of Men
+----------------------------------------
+Mattias? usa Black Gale
+Primrose recibe 613 de daño elemental
+Primrose termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

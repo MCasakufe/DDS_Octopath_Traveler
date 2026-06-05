@@ -1,0 +1,1471 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+INPUT: 10
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:1
+B-Alfyn - HP:5336/5336 SP:383/383 BP:1
+C-Ophilia - HP:4002/4002 SP:470/470 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Light Wisp - HP:972/972 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+D-Monarch - HP:6740/6740 Shields:8
+E-Heavenwing - HP:6900/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Ophilia
+3.Hikari
+4.Heavenwing
+5.Alfyn
+6.Behemoth
+7.Monarch
+8.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Ophilia
+3.Hikari
+4.Heavenwing
+5.Alfyn
+6.Behemoth
+7.Monarch
+8.Light Wisp
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Ophilia recibe 750 de daño físico
+Ophilia termina con HP:3252
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:1
+B-Alfyn - HP:5336/5336 SP:383/383 BP:1
+C-Ophilia - HP:3252/4002 SP:470/470 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Light Wisp - HP:972/972 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+D-Monarch - HP:6740/6740 Shields:8
+E-Heavenwing - HP:6900/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Hikari
+3.Heavenwing
+4.Alfyn
+5.Behemoth
+6.Monarch
+7.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Ophilia
+3.Hikari
+4.Heavenwing
+5.Alfyn
+6.Behemoth
+7.Monarch
+8.Light Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Dreadwolf - HP:7530/7530 Shields:9
+2: Light Wisp - HP:972/972 Shields:1
+3: Behemoth - HP:12690/12690 Shields:8
+4: Monarch - HP:6740/6740 Shields:8
+5: Heavenwing - HP:6900/6900 Shields:7
+6: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Ophilia ataca
+Behemoth recibe 0 de daño de tipo Stave
+Behemoth recibe 0 de daño de tipo Stave
+Behemoth termina con HP:12690
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:1
+B-Alfyn - HP:5336/5336 SP:383/383 BP:1
+C-Ophilia - HP:3252/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Light Wisp - HP:972/972 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+D-Monarch - HP:6740/6740 Shields:8
+E-Heavenwing - HP:6900/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+4.Behemoth
+5.Monarch
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Ophilia
+3.Hikari
+4.Heavenwing
+5.Alfyn
+6.Behemoth
+7.Monarch
+8.Light Wisp
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Dreadwolf - HP:7530/7530 Shields:9
+2: Light Wisp - HP:972/972 Shields:1
+3: Behemoth - HP:12690/12690 Shields:8
+4: Monarch - HP:6740/6740 Shields:8
+5: Heavenwing - HP:6900/6900 Shields:7
+6: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Hikari ataca
+Monarch recibe 313 de daño de tipo Spear con debilidad
+Monarch recibe 313 de daño de tipo Spear con debilidad
+Monarch termina con HP:6114
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:0
+B-Alfyn - HP:5336/5336 SP:383/383 BP:1
+C-Ophilia - HP:3252/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Light Wisp - HP:972/972 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+D-Monarch - HP:6114/6740 Shields:6
+E-Heavenwing - HP:6900/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Alfyn
+3.Behemoth
+4.Monarch
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Ophilia
+3.Hikari
+4.Heavenwing
+5.Alfyn
+6.Behemoth
+7.Monarch
+8.Light Wisp
+----------------------------------------
+Heavenwing usa Incinerate
+Hikari recibe 404 de daño elemental
+Alfyn recibe 437 de daño elemental
+Ophilia recibe 276 de daño elemental
+Hikari termina con HP:5377
+Alfyn termina con HP:4899
+Ophilia termina con HP:2976
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5377/5781 SP:317/317 BP:0
+B-Alfyn - HP:4899/5336 SP:383/383 BP:1
+C-Ophilia - HP:2976/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Light Wisp - HP:972/972 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+D-Monarch - HP:6114/6740 Shields:6
+E-Heavenwing - HP:6900/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Behemoth
+3.Monarch
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Ophilia
+3.Hikari
+4.Heavenwing
+5.Alfyn
+6.Behemoth
+7.Monarch
+8.Light Wisp
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Dreadwolf - HP:7530/7530 Shields:9
+2: Light Wisp - HP:972/972 Shields:1
+3: Behemoth - HP:12690/12690 Shields:8
+4: Monarch - HP:6114/6740 Shields:6
+5: Heavenwing - HP:6900/6900 Shields:7
+6: Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Alfyn no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Alfyn no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Alfyn no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Alfyn no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Alfyn no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Alfyn ataca
+Heavenwing recibe 64 de daño de tipo Axe
+Heavenwing recibe 64 de daño de tipo Axe
+Heavenwing termina con HP:6772
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5377/5781 SP:317/317 BP:0
+B-Alfyn - HP:4899/5336 SP:383/383 BP:0
+C-Ophilia - HP:2976/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Light Wisp - HP:972/972 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+D-Monarch - HP:6114/6740 Shields:6
+E-Heavenwing - HP:6772/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Monarch
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Ophilia
+3.Hikari
+4.Heavenwing
+5.Alfyn
+6.Behemoth
+7.Monarch
+8.Light Wisp
+----------------------------------------
+Behemoth usa Stampede
+Hikari recibe 642 de daño físico
+Alfyn recibe 628 de daño físico
+Ophilia recibe 728 de daño físico
+Hikari termina con HP:4735
+Alfyn termina con HP:4271
+Ophilia termina con HP:2248
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4735/5781 SP:317/317 BP:0
+B-Alfyn - HP:4271/5336 SP:383/383 BP:0
+C-Ophilia - HP:2248/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Light Wisp - HP:972/972 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+D-Monarch - HP:6114/6740 Shields:6
+E-Heavenwing - HP:6772/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Ophilia
+3.Hikari
+4.Heavenwing
+5.Alfyn
+6.Behemoth
+7.Monarch
+8.Light Wisp
+----------------------------------------
+Monarch usa Galestorm
+Hikari recibe 375 de daño elemental
+Alfyn recibe 408 de daño elemental
+Ophilia recibe 247 de daño elemental
+Hikari termina con HP:4360
+Alfyn termina con HP:3863
+Ophilia termina con HP:2001
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4360/5781 SP:317/317 BP:0
+B-Alfyn - HP:3863/5336 SP:383/383 BP:0
+C-Ophilia - HP:2001/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Light Wisp - HP:972/972 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+D-Monarch - HP:6114/6740 Shields:6
+E-Heavenwing - HP:6772/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Ophilia
+3.Hikari
+4.Heavenwing
+5.Alfyn
+6.Behemoth
+7.Monarch
+8.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Ophilia recibe 0 de daño elemental
+Ophilia termina con HP:2001
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4360/5781 SP:317/317 BP:0
+B-Alfyn - HP:3863/5336 SP:383/383 BP:0
+C-Ophilia - HP:2001/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Light Wisp - HP:972/972 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+D-Monarch - HP:6114/6740 Shields:6
+E-Heavenwing - HP:6772/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Ophilia
+3.Hikari
+4.Heavenwing
+5.Alfyn
+6.Behemoth
+7.Monarch
+8.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Ophilia
+3.Hikari
+4.Heavenwing
+5.Alfyn
+6.Behemoth
+7.Monarch
+8.Light Wisp
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Ophilia recibe 750 de daño físico
+Ophilia termina con HP:1251
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4360/5781 SP:317/317 BP:0
+B-Alfyn - HP:3863/5336 SP:383/383 BP:0
+C-Ophilia - HP:1251/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Light Wisp - HP:972/972 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+D-Monarch - HP:6114/6740 Shields:6
+E-Heavenwing - HP:6772/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Hikari
+3.Heavenwing
+4.Alfyn
+5.Behemoth
+6.Monarch
+7.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Ophilia
+3.Hikari
+4.Heavenwing
+5.Alfyn
+6.Behemoth
+7.Monarch
+8.Light Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Dreadwolf - HP:7530/7530 Shields:9
+2: Light Wisp - HP:972/972 Shields:1
+3: Behemoth - HP:12690/12690 Shields:8
+4: Monarch - HP:6114/6740 Shields:6
+5: Heavenwing - HP:6772/6900 Shields:7
+6: Cancelar
+INPUT: 2
+----------------------------------------
+Ophilia ataca
+Light Wisp recibe 0 de daño de tipo Stave
+Light Wisp termina con HP:972
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4360/5781 SP:317/317 BP:0
+B-Alfyn - HP:3863/5336 SP:383/383 BP:0
+C-Ophilia - HP:1251/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Light Wisp - HP:972/972 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+D-Monarch - HP:6114/6740 Shields:6
+E-Heavenwing - HP:6772/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Heavenwing
+3.Alfyn
+4.Behemoth
+5.Monarch
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Ophilia
+3.Hikari
+4.Heavenwing
+5.Alfyn
+6.Behemoth
+7.Monarch
+8.Light Wisp
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4360/5781 SP:317/317 BP:0
+B-Alfyn - HP:3863/5336 SP:383/383 BP:0
+C-Ophilia - HP:1251/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Light Wisp - HP:972/972 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+D-Monarch - HP:6114/6740 Shields:6
+E-Heavenwing - HP:6772/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Alfyn
+3.Behemoth
+4.Monarch
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Dreadwolf
+3.Ophilia
+4.Heavenwing
+5.Alfyn
+6.Behemoth
+7.Monarch
+8.Light Wisp
+----------------------------------------
+Heavenwing usa Incinerate
+Hikari se defiende
+Hikari recibe 202 de daño elemental
+Alfyn recibe 437 de daño elemental
+Ophilia recibe 276 de daño elemental
+Hikari termina con HP:4158
+Alfyn termina con HP:3426
+Ophilia termina con HP:975
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4158/5781 SP:317/317 BP:0
+B-Alfyn - HP:3426/5336 SP:383/383 BP:0
+C-Ophilia - HP:975/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Light Wisp - HP:972/972 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+D-Monarch - HP:6114/6740 Shields:6
+E-Heavenwing - HP:6772/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Behemoth
+3.Monarch
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Dreadwolf
+3.Ophilia
+4.Heavenwing
+5.Alfyn
+6.Behemoth
+7.Monarch
+8.Light Wisp
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4158/5781 SP:317/317 BP:0
+B-Alfyn - HP:3426/5336 SP:383/383 BP:0
+C-Ophilia - HP:975/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Light Wisp - HP:972/972 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+D-Monarch - HP:6114/6740 Shields:6
+E-Heavenwing - HP:6772/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Monarch
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Alfyn
+3.Dreadwolf
+4.Ophilia
+5.Heavenwing
+6.Behemoth
+7.Monarch
+8.Light Wisp
+----------------------------------------
+Behemoth usa Stampede
+Hikari se defiende
+Hikari recibe 321 de daño físico
+Alfyn se defiende
+Alfyn recibe 314 de daño físico
+Ophilia recibe 728 de daño físico
+Hikari termina con HP:3837
+Alfyn termina con HP:3112
+Ophilia termina con HP:247
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3837/5781 SP:317/317 BP:0
+B-Alfyn - HP:3112/5336 SP:383/383 BP:0
+C-Ophilia - HP:247/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Light Wisp - HP:972/972 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+D-Monarch - HP:6114/6740 Shields:6
+E-Heavenwing - HP:6772/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Alfyn
+3.Dreadwolf
+4.Ophilia
+5.Heavenwing
+6.Behemoth
+7.Monarch
+8.Light Wisp
+----------------------------------------
+Monarch usa Galestorm
+Hikari se defiende
+Hikari recibe 187 de daño elemental
+Alfyn se defiende
+Alfyn recibe 204 de daño elemental
+Ophilia recibe 247 de daño elemental
+Hikari termina con HP:3650
+Alfyn termina con HP:2908
+Ophilia termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3650/5781 SP:317/317 BP:0
+B-Alfyn - HP:2908/5336 SP:383/383 BP:0
+C-Ophilia - HP:0/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Light Wisp - HP:972/972 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+D-Monarch - HP:6114/6740 Shields:6
+E-Heavenwing - HP:6772/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Alfyn
+3.Dreadwolf
+4.Heavenwing
+5.Behemoth
+6.Monarch
+7.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Hikari se defiende
+Hikari recibe 61 de daño elemental
+Hikari termina con HP:3589
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3589/5781 SP:317/317 BP:1
+B-Alfyn - HP:2908/5336 SP:383/383 BP:1
+C-Ophilia - HP:0/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Light Wisp - HP:972/972 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+D-Monarch - HP:6114/6740 Shields:6
+E-Heavenwing - HP:6772/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Alfyn
+3.Dreadwolf
+4.Heavenwing
+5.Behemoth
+6.Monarch
+7.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Hikari
+3.Heavenwing
+4.Alfyn
+5.Behemoth
+6.Monarch
+7.Light Wisp
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Dreadwolf - HP:7530/7530 Shields:9
+2: Light Wisp - HP:972/972 Shields:1
+3: Behemoth - HP:12690/12690 Shields:8
+4: Monarch - HP:6114/6740 Shields:6
+5: Heavenwing - HP:6772/6900 Shields:7
+6: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Hikari no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Hikari no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Hikari ataca
+Light Wisp recibe 200 de daño de tipo Spear
+Light Wisp recibe 200 de daño de tipo Spear
+Light Wisp termina con HP:572
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3589/5781 SP:317/317 BP:0
+B-Alfyn - HP:2908/5336 SP:383/383 BP:1
+C-Ophilia - HP:0/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Light Wisp - HP:572/972 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+D-Monarch - HP:6114/6740 Shields:6
+E-Heavenwing - HP:6772/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Dreadwolf
+3.Heavenwing
+4.Behemoth
+5.Monarch
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Hikari
+3.Heavenwing
+4.Alfyn
+5.Behemoth
+6.Monarch
+7.Light Wisp
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3589/5781 SP:317/317 BP:0
+B-Alfyn - HP:2908/5336 SP:383/383 BP:1
+C-Ophilia - HP:0/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Light Wisp - HP:572/972 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+D-Monarch - HP:6114/6740 Shields:6
+E-Heavenwing - HP:6772/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Heavenwing
+3.Behemoth
+4.Monarch
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Dreadwolf
+3.Hikari
+4.Heavenwing
+5.Behemoth
+6.Monarch
+7.Light Wisp
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Hikari recibe 664 de daño físico
+Hikari termina con HP:2925
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2925/5781 SP:317/317 BP:0
+B-Alfyn - HP:2908/5336 SP:383/383 BP:1
+C-Ophilia - HP:0/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Light Wisp - HP:572/972 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+D-Monarch - HP:6114/6740 Shields:6
+E-Heavenwing - HP:6772/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Behemoth
+3.Monarch
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Dreadwolf
+3.Hikari
+4.Heavenwing
+5.Behemoth
+6.Monarch
+7.Light Wisp
+----------------------------------------
+Heavenwing usa Incinerate
+Hikari recibe 404 de daño elemental
+Alfyn se defiende
+Alfyn recibe 218 de daño elemental
+Hikari termina con HP:2521
+Alfyn termina con HP:2690
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2521/5781 SP:317/317 BP:0
+B-Alfyn - HP:2690/5336 SP:383/383 BP:1
+C-Ophilia - HP:0/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Light Wisp - HP:572/972 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+D-Monarch - HP:6114/6740 Shields:6
+E-Heavenwing - HP:6772/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Monarch
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Dreadwolf
+3.Hikari
+4.Heavenwing
+5.Behemoth
+6.Monarch
+7.Light Wisp
+----------------------------------------
+Behemoth usa Stampede
+Hikari recibe 642 de daño físico
+Alfyn se defiende
+Alfyn recibe 314 de daño físico
+Hikari termina con HP:1879
+Alfyn termina con HP:2376
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1879/5781 SP:317/317 BP:0
+B-Alfyn - HP:2376/5336 SP:383/383 BP:1
+C-Ophilia - HP:0/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Light Wisp - HP:572/972 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+D-Monarch - HP:6114/6740 Shields:6
+E-Heavenwing - HP:6772/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Dreadwolf
+3.Hikari
+4.Heavenwing
+5.Behemoth
+6.Monarch
+7.Light Wisp
+----------------------------------------
+Monarch usa Galestorm
+Hikari recibe 375 de daño elemental
+Alfyn se defiende
+Alfyn recibe 204 de daño elemental
+Hikari termina con HP:1504
+Alfyn termina con HP:2172
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1504/5781 SP:317/317 BP:0
+B-Alfyn - HP:2172/5336 SP:383/383 BP:1
+C-Ophilia - HP:0/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Light Wisp - HP:572/972 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+D-Monarch - HP:6114/6740 Shields:6
+E-Heavenwing - HP:6772/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Dreadwolf
+3.Hikari
+4.Heavenwing
+5.Behemoth
+6.Monarch
+7.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Hikari recibe 122 de daño elemental
+Hikari termina con HP:1382
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1382/5781 SP:317/317 BP:0
+B-Alfyn - HP:2172/5336 SP:383/383 BP:2
+C-Ophilia - HP:0/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Light Wisp - HP:572/972 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+D-Monarch - HP:6114/6740 Shields:6
+E-Heavenwing - HP:6772/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Dreadwolf
+3.Hikari
+4.Heavenwing
+5.Behemoth
+6.Monarch
+7.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Hikari
+3.Heavenwing
+4.Alfyn
+5.Behemoth
+6.Monarch
+7.Light Wisp
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1382/5781 SP:317/317 BP:0
+B-Alfyn - HP:2172/5336 SP:383/383 BP:2
+C-Ophilia - HP:0/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Light Wisp - HP:572/972 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+D-Monarch - HP:6114/6740 Shields:6
+E-Heavenwing - HP:6772/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Hikari
+3.Heavenwing
+4.Behemoth
+5.Monarch
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Dreadwolf
+3.Hikari
+4.Heavenwing
+5.Behemoth
+6.Monarch
+7.Light Wisp
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Hikari recibe 664 de daño físico
+Hikari termina con HP:718
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:718/5781 SP:317/317 BP:0
+B-Alfyn - HP:2172/5336 SP:383/383 BP:2
+C-Ophilia - HP:0/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Light Wisp - HP:572/972 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+D-Monarch - HP:6114/6740 Shields:6
+E-Heavenwing - HP:6772/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Heavenwing
+3.Behemoth
+4.Monarch
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Dreadwolf
+3.Hikari
+4.Heavenwing
+5.Behemoth
+6.Monarch
+7.Light Wisp
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:718/5781 SP:317/317 BP:0
+B-Alfyn - HP:2172/5336 SP:383/383 BP:2
+C-Ophilia - HP:0/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Light Wisp - HP:572/972 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+D-Monarch - HP:6114/6740 Shields:6
+E-Heavenwing - HP:6772/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Behemoth
+3.Monarch
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Alfyn
+3.Dreadwolf
+4.Heavenwing
+5.Behemoth
+6.Monarch
+7.Light Wisp
+----------------------------------------
+Heavenwing usa Incinerate
+Hikari se defiende
+Hikari recibe 202 de daño elemental
+Alfyn se defiende
+Alfyn recibe 218 de daño elemental
+Hikari termina con HP:516
+Alfyn termina con HP:1954
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:516/5781 SP:317/317 BP:0
+B-Alfyn - HP:1954/5336 SP:383/383 BP:2
+C-Ophilia - HP:0/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Light Wisp - HP:572/972 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+D-Monarch - HP:6114/6740 Shields:6
+E-Heavenwing - HP:6772/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Monarch
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Alfyn
+3.Dreadwolf
+4.Heavenwing
+5.Behemoth
+6.Monarch
+7.Light Wisp
+----------------------------------------
+Behemoth usa Stampede
+Hikari se defiende
+Hikari recibe 321 de daño físico
+Alfyn se defiende
+Alfyn recibe 314 de daño físico
+Hikari termina con HP:195
+Alfyn termina con HP:1640
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:195/5781 SP:317/317 BP:0
+B-Alfyn - HP:1640/5336 SP:383/383 BP:2
+C-Ophilia - HP:0/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Light Wisp - HP:572/972 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+D-Monarch - HP:6114/6740 Shields:6
+E-Heavenwing - HP:6772/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Alfyn
+3.Dreadwolf
+4.Heavenwing
+5.Behemoth
+6.Monarch
+7.Light Wisp
+----------------------------------------
+Monarch usa Galestorm
+Hikari se defiende
+Hikari recibe 187 de daño elemental
+Alfyn se defiende
+Alfyn recibe 204 de daño elemental
+Hikari termina con HP:8
+Alfyn termina con HP:1436
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:8/5781 SP:317/317 BP:0
+B-Alfyn - HP:1436/5336 SP:383/383 BP:2
+C-Ophilia - HP:0/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Light Wisp - HP:572/972 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+D-Monarch - HP:6114/6740 Shields:6
+E-Heavenwing - HP:6772/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Alfyn
+3.Dreadwolf
+4.Heavenwing
+5.Behemoth
+6.Monarch
+7.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Hikari se defiende
+Hikari recibe 61 de daño elemental
+Hikari termina con HP:0
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:0/5781 SP:317/317 BP:0
+B-Alfyn - HP:1436/5336 SP:383/383 BP:3
+C-Ophilia - HP:0/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Light Wisp - HP:572/972 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+D-Monarch - HP:6114/6740 Shields:6
+E-Heavenwing - HP:6772/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Dreadwolf
+3.Heavenwing
+4.Behemoth
+5.Monarch
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Heavenwing
+3.Alfyn
+4.Behemoth
+5.Monarch
+6.Light Wisp
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:0/5781 SP:317/317 BP:0
+B-Alfyn - HP:1436/5336 SP:383/383 BP:3
+C-Ophilia - HP:0/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Light Wisp - HP:572/972 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+D-Monarch - HP:6114/6740 Shields:6
+E-Heavenwing - HP:6772/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Heavenwing
+3.Behemoth
+4.Monarch
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Dreadwolf
+3.Heavenwing
+4.Behemoth
+5.Monarch
+6.Light Wisp
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Alfyn se defiende
+Alfyn recibe 325 de daño físico
+Alfyn termina con HP:1111
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:0/5781 SP:317/317 BP:0
+B-Alfyn - HP:1111/5336 SP:383/383 BP:3
+C-Ophilia - HP:0/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Light Wisp - HP:572/972 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+D-Monarch - HP:6114/6740 Shields:6
+E-Heavenwing - HP:6772/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Behemoth
+3.Monarch
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Dreadwolf
+3.Heavenwing
+4.Behemoth
+5.Monarch
+6.Light Wisp
+----------------------------------------
+Heavenwing usa Incinerate
+Alfyn se defiende
+Alfyn recibe 218 de daño elemental
+Alfyn termina con HP:893
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:0/5781 SP:317/317 BP:0
+B-Alfyn - HP:893/5336 SP:383/383 BP:3
+C-Ophilia - HP:0/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Light Wisp - HP:572/972 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+D-Monarch - HP:6114/6740 Shields:6
+E-Heavenwing - HP:6772/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Monarch
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Dreadwolf
+3.Heavenwing
+4.Behemoth
+5.Monarch
+6.Light Wisp
+----------------------------------------
+Behemoth usa Stampede
+Alfyn se defiende
+Alfyn recibe 314 de daño físico
+Alfyn termina con HP:579
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:0/5781 SP:317/317 BP:0
+B-Alfyn - HP:579/5336 SP:383/383 BP:3
+C-Ophilia - HP:0/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Light Wisp - HP:572/972 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+D-Monarch - HP:6114/6740 Shields:6
+E-Heavenwing - HP:6772/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Dreadwolf
+3.Heavenwing
+4.Behemoth
+5.Monarch
+6.Light Wisp
+----------------------------------------
+Monarch usa Galestorm
+Alfyn se defiende
+Alfyn recibe 204 de daño elemental
+Alfyn termina con HP:375
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:0/5781 SP:317/317 BP:0
+B-Alfyn - HP:375/5336 SP:383/383 BP:3
+C-Ophilia - HP:0/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Light Wisp - HP:572/972 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+D-Monarch - HP:6114/6740 Shields:6
+E-Heavenwing - HP:6772/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Dreadwolf
+3.Heavenwing
+4.Behemoth
+5.Monarch
+6.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Alfyn se defiende
+Alfyn recibe 77 de daño elemental
+Alfyn termina con HP:298
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:0/5781 SP:317/317 BP:0
+B-Alfyn - HP:298/5336 SP:383/383 BP:4
+C-Ophilia - HP:0/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Light Wisp - HP:572/972 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+D-Monarch - HP:6114/6740 Shields:6
+E-Heavenwing - HP:6772/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Dreadwolf
+3.Heavenwing
+4.Behemoth
+5.Monarch
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Heavenwing
+3.Alfyn
+4.Behemoth
+5.Monarch
+6.Light Wisp
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:0/5781 SP:317/317 BP:0
+B-Alfyn - HP:298/5336 SP:383/383 BP:4
+C-Ophilia - HP:0/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Light Wisp - HP:572/972 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+D-Monarch - HP:6114/6740 Shields:6
+E-Heavenwing - HP:6772/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Heavenwing
+3.Behemoth
+4.Monarch
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Dreadwolf
+3.Heavenwing
+4.Behemoth
+5.Monarch
+6.Light Wisp
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Alfyn se defiende
+Alfyn recibe 325 de daño físico
+Alfyn termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

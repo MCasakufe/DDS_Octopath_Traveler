@@ -1,0 +1,1017 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+INPUT: 23
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Behemoth
+3.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Behemoth
+3.Olberic
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Primrose - HP:4002/4002 SP:504/504 BP:1
+2: Olberic - HP:5781/5781 SP:291/291 BP:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Primrose usa Mole Dance
+Primrose tendrá Increased Physical Defense durante 4 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:500/504 BP:0
+B-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Behemoth
+3.Olberic
+----------------------------------------
+Behemoth usa Stampede
+Primrose recibe 526 de daño físico
+Olberic recibe 642 de daño físico
+Primrose termina con HP:3476
+Olberic termina con HP:5139
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3476/4002 SP:500/504 BP:0
+B-Olberic - HP:5139/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Behemoth
+3.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Behemoth - HP:12690/12690 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Behemoth recibe 114 de daño de tipo Sword
+Behemoth termina con HP:12576
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3476/4002 SP:500/504 BP:0
+B-Olberic - HP:5139/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Behemoth - HP:12576/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Behemoth
+3.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Behemoth
+3.Olberic
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Primrose - HP:3476/4002 SP:500/504 BP:0
+2: Olberic - HP:5139/5781 SP:291/291 BP:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Primrose usa Mole Dance
+Olberic tendrá Increased Physical Defense durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3476/4002 SP:496/504 BP:0
+B-Olberic - HP:5139/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Behemoth - HP:12576/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Behemoth
+3.Olberic
+----------------------------------------
+Behemoth usa Stampede
+Primrose recibe 526 de daño físico
+Olberic recibe 428 de daño físico
+Primrose termina con HP:2950
+Olberic termina con HP:4711
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2950/4002 SP:496/504 BP:0
+B-Olberic - HP:4711/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Behemoth - HP:12576/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Behemoth
+3.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Behemoth - HP:12576/12690 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Behemoth recibe 114 de daño de tipo Sword
+Behemoth termina con HP:12462
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2950/4002 SP:496/504 BP:1
+B-Olberic - HP:4711/5781 SP:291/291 BP:3
+Equipo del enemigo
+A-Behemoth - HP:12462/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Behemoth
+3.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Behemoth
+3.Olberic
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Behemoth - HP:12462/12690 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Behemoth recibe 0 de daño de tipo Dagger
+Behemoth termina con HP:12462
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2950/4002 SP:496/504 BP:1
+B-Olberic - HP:4711/5781 SP:291/291 BP:3
+Equipo del enemigo
+A-Behemoth - HP:12462/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Behemoth
+3.Olberic
+----------------------------------------
+Behemoth usa Stampede
+Primrose recibe 526 de daño físico
+Olberic recibe 428 de daño físico
+Primrose termina con HP:2424
+Olberic termina con HP:4283
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2424/4002 SP:496/504 BP:1
+B-Olberic - HP:4283/5781 SP:291/291 BP:3
+Equipo del enemigo
+A-Behemoth - HP:12462/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Behemoth
+3.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Behemoth - HP:12462/12690 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Behemoth recibe 114 de daño de tipo Sword
+Behemoth termina con HP:12348
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2424/4002 SP:496/504 BP:2
+B-Olberic - HP:4283/5781 SP:291/291 BP:4
+Equipo del enemigo
+A-Behemoth - HP:12348/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Behemoth
+3.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Behemoth
+3.Olberic
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Behemoth - HP:12348/12690 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Behemoth recibe 0 de daño de tipo Dagger
+Behemoth termina con HP:12348
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2424/4002 SP:496/504 BP:2
+B-Olberic - HP:4283/5781 SP:291/291 BP:4
+Equipo del enemigo
+A-Behemoth - HP:12348/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Behemoth
+3.Olberic
+----------------------------------------
+Behemoth usa Stampede
+Primrose recibe 526 de daño físico
+Olberic recibe 642 de daño físico
+Primrose termina con HP:1898
+Olberic termina con HP:3641
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1898/4002 SP:496/504 BP:2
+B-Olberic - HP:3641/5781 SP:291/291 BP:4
+Equipo del enemigo
+A-Behemoth - HP:12348/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Behemoth
+3.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Behemoth - HP:12348/12690 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Behemoth recibe 114 de daño de tipo Sword
+Behemoth termina con HP:12234
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1898/4002 SP:496/504 BP:3
+B-Olberic - HP:3641/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Behemoth - HP:12234/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Behemoth
+3.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Behemoth
+3.Olberic
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Behemoth - HP:12234/12690 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Behemoth recibe 0 de daño de tipo Dagger
+Behemoth termina con HP:12234
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1898/4002 SP:496/504 BP:3
+B-Olberic - HP:3641/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Behemoth - HP:12234/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Behemoth
+3.Olberic
+----------------------------------------
+Behemoth usa Stampede
+Primrose recibe 790 de daño físico
+Olberic recibe 642 de daño físico
+Primrose termina con HP:1108
+Olberic termina con HP:2999
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1108/4002 SP:496/504 BP:3
+B-Olberic - HP:2999/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Behemoth - HP:12234/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Behemoth
+3.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Behemoth - HP:12234/12690 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Behemoth recibe 114 de daño de tipo Sword
+Behemoth termina con HP:12120
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1108/4002 SP:496/504 BP:4
+B-Olberic - HP:2999/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Behemoth - HP:12120/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Behemoth
+3.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Behemoth
+3.Olberic
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Primrose - HP:1108/4002 SP:496/504 BP:4
+2: Olberic - HP:2999/5781 SP:291/291 BP:5
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Primrose usa Mole Dance
+Olberic tendrá Increased Physical Defense durante 6 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1108/4002 SP:492/504 BP:2
+B-Olberic - HP:2999/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Behemoth - HP:12120/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Behemoth
+3.Olberic
+----------------------------------------
+Behemoth usa Stampede
+Primrose recibe 790 de daño físico
+Olberic recibe 428 de daño físico
+Primrose termina con HP:318
+Olberic termina con HP:2571
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:318/4002 SP:492/504 BP:2
+B-Olberic - HP:2571/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Behemoth - HP:12120/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Behemoth
+3.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Behemoth - HP:12120/12690 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Behemoth recibe 114 de daño de tipo Sword
+Behemoth termina con HP:12006
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:318/4002 SP:492/504 BP:2
+B-Olberic - HP:2571/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Behemoth - HP:12006/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Behemoth
+3.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Behemoth
+3.Olberic
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Behemoth - HP:12006/12690 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Behemoth recibe 0 de daño de tipo Dagger
+Behemoth termina con HP:12006
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:318/4002 SP:492/504 BP:2
+B-Olberic - HP:2571/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Behemoth - HP:12006/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Behemoth
+3.Olberic
+----------------------------------------
+Behemoth usa Stampede
+Primrose recibe 790 de daño físico
+Olberic recibe 428 de daño físico
+Primrose termina con HP:0
+Olberic termina con HP:2143
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:492/504 BP:2
+B-Olberic - HP:2143/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Behemoth - HP:12006/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Behemoth - HP:12006/12690 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Behemoth recibe 114 de daño de tipo Sword
+Behemoth termina con HP:11892
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:492/504 BP:2
+B-Olberic - HP:2143/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Behemoth - HP:11892/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Behemoth usa Stampede
+Olberic recibe 428 de daño físico
+Olberic termina con HP:1715
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:492/504 BP:2
+B-Olberic - HP:1715/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Behemoth - HP:11892/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Behemoth - HP:11892/12690 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Behemoth recibe 114 de daño de tipo Sword
+Behemoth termina con HP:11778
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:492/504 BP:2
+B-Olberic - HP:1715/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Behemoth - HP:11778/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Behemoth usa Stampede
+Olberic recibe 428 de daño físico
+Olberic termina con HP:1287
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:492/504 BP:2
+B-Olberic - HP:1287/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Behemoth - HP:11778/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Behemoth - HP:11778/12690 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Behemoth recibe 114 de daño de tipo Sword
+Behemoth termina con HP:11664
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:492/504 BP:2
+B-Olberic - HP:1287/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Behemoth - HP:11664/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Behemoth usa Stampede
+Olberic recibe 428 de daño físico
+Olberic termina con HP:859
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:492/504 BP:2
+B-Olberic - HP:859/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Behemoth - HP:11664/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:492/504 BP:2
+B-Olberic - HP:859/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Behemoth - HP:11664/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:492/504 BP:2
+B-Olberic - HP:859/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Behemoth - HP:11664/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Olberic se defiende
+Olberic recibe 214 de daño físico
+Olberic termina con HP:645
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:492/504 BP:2
+B-Olberic - HP:645/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Behemoth - HP:11664/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Behemoth - HP:11664/12690 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Behemoth recibe 114 de daño de tipo Sword
+Behemoth termina con HP:11550
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:492/504 BP:2
+B-Olberic - HP:645/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Behemoth - HP:11550/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Behemoth usa Stampede
+Olberic recibe 642 de daño físico
+Olberic termina con HP:3
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:492/504 BP:2
+B-Olberic - HP:3/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Behemoth - HP:11550/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Behemoth usa Stampede
+Olberic recibe 642 de daño físico
+Olberic termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

@@ -1,0 +1,891 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+INPUT: 6
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-H'aanit - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Meep - HP:1016/1016 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Meep recibe 108 de daño de tipo Bow con debilidad
+Meep termina con HP:908
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-H'aanit - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Meep - HP:908/1016 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Meep - HP:908/1016 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Meep recibe 0 de daño de tipo Stave con debilidad
+Meep termina con HP:908
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-H'aanit - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Meep - HP:908/1016 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+----------------------------------------
+Meep usa Attack
+H'aanit recibe 287 de daño físico
+H'aanit termina con HP:4160
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:2
+B-H'aanit - HP:4160/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Meep - HP:908/1016 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Meep - HP:908/1016 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Meep recibe 108 de daño de tipo Bow con debilidad
+Meep entra en Breaking Point
+Meep termina con HP:800
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:2
+B-H'aanit - HP:4160/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Meep - HP:800/1016 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Meep - HP:800/1016 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Meep recibe 0 de daño de tipo Stave con debilidad
+Meep termina con HP:800
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:3
+B-H'aanit - HP:4160/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Meep - HP:800/1016 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Ophilia
+----------------------------------------
+Turnos de la siguiente ronda
+1.Meep
+2.H'aanit
+3.Ophilia
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:3
+B-H'aanit - HP:4160/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Meep - HP:800/1016 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+----------------------------------------
+Turnos de la siguiente ronda
+1.Meep
+2.H'aanit
+3.Ophilia
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Meep - HP:800/1016 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Meep recibe 0 de daño de tipo Stave con debilidad
+Meep termina con HP:800
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:4
+B-H'aanit - HP:4160/4447 SP:369/369 BP:4
+Equipo del enemigo
+A-Meep - HP:800/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.H'aanit
+3.Ophilia
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+----------------------------------------
+Meep usa Attack
+H'aanit recibe 287 de daño físico
+H'aanit termina con HP:3873
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:4
+B-H'aanit - HP:3873/4447 SP:369/369 BP:4
+Equipo del enemigo
+A-Meep - HP:800/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Ophilia
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Meep - HP:800/1016 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Meep recibe 108 de daño de tipo Bow con debilidad
+Meep termina con HP:692
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:4
+B-H'aanit - HP:3873/4447 SP:369/369 BP:4
+Equipo del enemigo
+A-Meep - HP:692/1016 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Meep - HP:692/1016 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Meep recibe 0 de daño de tipo Stave con debilidad
+Meep termina con HP:692
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-H'aanit - HP:3873/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Meep - HP:692/1016 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Meep - HP:692/1016 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Meep recibe 108 de daño de tipo Bow con debilidad
+Meep entra en Breaking Point
+Meep termina con HP:584
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-H'aanit - HP:3873/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Meep - HP:584/1016 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-H'aanit - HP:3873/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Meep - HP:584/1016 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.H'aanit
+----------------------------------------
+Turnos de la siguiente ronda
+1.Meep
+2.H'aanit
+3.Ophilia
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Meep - HP:584/1016 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Meep recibe 0 de daño de tipo Stave con debilidad
+Meep termina con HP:584
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-H'aanit - HP:3873/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Meep - HP:584/1016 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+----------------------------------------
+Turnos de la siguiente ronda
+1.Meep
+2.H'aanit
+3.Ophilia
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Meep - HP:584/1016 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Meep recibe 144 de daño de tipo Bow con debilidad
+Meep termina con HP:440
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-H'aanit - HP:3873/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Meep - HP:440/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.H'aanit
+3.Ophilia
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+----------------------------------------
+Meep usa Attack
+Ophilia recibe 226 de daño físico
+Ophilia termina con HP:3776
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3776/4002 SP:470/470 BP:5
+B-H'aanit - HP:3873/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Meep - HP:440/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Ophilia
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Meep - HP:440/1016 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Meep recibe 108 de daño de tipo Bow con debilidad
+Meep termina con HP:332
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3776/4002 SP:470/470 BP:5
+B-H'aanit - HP:3873/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Meep - HP:332/1016 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Meep - HP:332/1016 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Meep recibe 0 de daño de tipo Stave con debilidad
+Meep termina con HP:332
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3776/4002 SP:470/470 BP:5
+B-H'aanit - HP:3873/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Meep - HP:332/1016 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Meep - HP:332/1016 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Meep recibe 108 de daño de tipo Bow con debilidad
+Meep entra en Breaking Point
+Meep termina con HP:224
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3776/4002 SP:470/470 BP:5
+B-H'aanit - HP:3873/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Meep - HP:224/1016 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Meep - HP:224/1016 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Meep recibe 0 de daño de tipo Stave con debilidad
+Meep termina con HP:224
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3776/4002 SP:470/470 BP:5
+B-H'aanit - HP:3873/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Meep - HP:224/1016 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Ophilia
+----------------------------------------
+Turnos de la siguiente ronda
+1.Meep
+2.H'aanit
+3.Ophilia
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Meep - HP:224/1016 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Meep recibe 108 de daño de tipo Axe
+Meep termina con HP:116
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3776/4002 SP:470/470 BP:5
+B-H'aanit - HP:3873/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Meep - HP:116/1016 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+----------------------------------------
+Turnos de la siguiente ronda
+1.Meep
+2.H'aanit
+3.Ophilia
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3776/4002 SP:470/470 BP:5
+B-H'aanit - HP:3873/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Meep - HP:116/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Ophilia
+3.H'aanit
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+----------------------------------------
+Meep usa Attack
+H'aanit recibe 287 de daño físico
+H'aanit termina con HP:3586
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3776/4002 SP:470/470 BP:5
+B-H'aanit - HP:3586/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Meep - HP:116/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.H'aanit
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3776/4002 SP:470/470 BP:5
+B-H'aanit - HP:3586/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Meep - HP:116/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.H'aanit
+3.Meep
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Meep - HP:116/1016 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Meep recibe 108 de daño de tipo Bow con debilidad
+Meep termina con HP:8
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3776/4002 SP:470/470 BP:5
+B-H'aanit - HP:3586/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Meep - HP:8/1016 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.H'aanit
+3.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3776/4002 SP:470/470 BP:5
+B-H'aanit - HP:3586/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Meep - HP:8/1016 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.H'aanit
+3.Meep
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Meep - HP:8/1016 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Meep recibe 72 de daño de tipo Axe
+Meep termina con HP:0
+----------------------------------------
+Gana equipo del jugador

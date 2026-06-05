@@ -1,15 +1,11 @@
 namespace Octopath_Traveler_Models.Battle;
 
-internal sealed record BeastAttackDamageRequest(
-    BeastCombatUnit Attacker,
-    TravelerCombatUnit Target,
-    double SkillModifier,
-    BeastAttackDamageKind DamageKind);
-
 internal sealed class BeastAttackDamageCalculator
 {
+    private const int MinimumDamage = 0;
     private const int HalfCurrentHpRoundingOffset = 1;
     private const int HalfCurrentHpDivisor = 2;
+    private const int DefendDamageDivisor = 2;
 
     public int CalculateDamage(BeastAttackDamageRequest damageRequest)
     {
@@ -18,7 +14,14 @@ internal sealed class BeastAttackDamageCalculator
 
         int attackerStat = SelectAttackerStat(damageRequest);
         int defenderStat = SelectDefenderStat(damageRequest);
-        int baseDamage = CalculateBaseDamage(attackerStat, damageRequest.SkillModifier, defenderStat);
+        double attackerStatusMultiplier = SelectAttackerStatusMultiplier(damageRequest);
+        double defenderStatusMultiplier = SelectDefenderStatusMultiplier(damageRequest);
+        int baseDamage = CalculateBaseDamage(
+            attackerStat,
+            damageRequest.SkillModifier,
+            defenderStat,
+            attackerStatusMultiplier,
+            defenderStatusMultiplier);
         return ApplyDefendReduction(damageRequest.Target, baseDamage);
     }
 
@@ -35,9 +38,29 @@ internal sealed class BeastAttackDamageCalculator
             ? damageRequest.Target.ElemDef
             : damageRequest.Target.PhysDef;
 
-    private static int CalculateBaseDamage(int attackerStat, double modifier, int defenderStat)
-        => Math.Max(0, (int)Math.Floor(attackerStat * modifier - defenderStat));
+    private static int CalculateBaseDamage(
+        int attackerStat,
+        double modifier,
+        int defenderStat,
+        double attackerStatusMultiplier,
+        double defenderStatusMultiplier)
+    {
+        double rawDamage = (attackerStat * modifier - defenderStat)
+                           * attackerStatusMultiplier
+                           * defenderStatusMultiplier;
+        return Math.Max(MinimumDamage, (int)Math.Floor(rawDamage));
+    }
+
+    private static double SelectAttackerStatusMultiplier(BeastAttackDamageRequest damageRequest)
+        => damageRequest.DamageKind == BeastAttackDamageKind.Elemental
+            ? damageRequest.Attacker.GetElementalAttackDamageMultiplier()
+            : damageRequest.Attacker.GetPhysicalAttackDamageMultiplier();
+
+    private static double SelectDefenderStatusMultiplier(BeastAttackDamageRequest damageRequest)
+        => damageRequest.DamageKind == BeastAttackDamageKind.Elemental
+            ? damageRequest.Target.GetElementalDefenseDamageMultiplier()
+            : damageRequest.Target.GetPhysicalDefenseDamageMultiplier();
 
     private static int ApplyDefendReduction(TravelerCombatUnit target, int baseDamage)
-        => target.IsDefendingCurrentRound ? baseDamage / 2 : baseDamage;
+        => target.IsDefendingCurrentRound ? baseDamage / DefendDamageDivisor : baseDamage;
 }

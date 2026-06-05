@@ -1,0 +1,731 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+INPUT: 23
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:407/407 BP:1
+B-Heatcore - HP:2822/2822 SP:342/342 BP:1
+C-Partitio - HP:4891/4891 SP:314/314 BP:1
+D-Ochette - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Lord of the Flies - HP:5590/5590 Shields:3
+B-Wind Elemental - HP:2496/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Ochette
+3.Tressa
+4.Partitio
+5.Lord of the Flies
+6.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Ochette
+3.Tressa
+4.Partitio
+5.Lord of the Flies
+6.Wind Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Level Slash
+2: First Aid
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Tressa - HP:4891/4891 SP:407/407 BP:1
+2: Heatcore - HP:2822/2822 SP:342/342 BP:1
+3: Partitio - HP:4891/4891 SP:314/314 BP:1
+4: Ochette - HP:4447/4447 SP:369/369 BP:1
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Heatcore usa First Aid
+Ochette recupera 531 de vida
+Ochette termina con HP:4978
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:407/407 BP:1
+B-Heatcore - HP:2822/2822 SP:338/342 BP:0
+C-Partitio - HP:4891/4891 SP:314/314 BP:1
+D-Ochette - HP:4978/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Lord of the Flies - HP:5590/5590 Shields:3
+B-Wind Elemental - HP:2496/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Tressa
+3.Partitio
+4.Lord of the Flies
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Ochette
+3.Tressa
+4.Partitio
+5.Lord of the Flies
+6.Wind Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Icewind
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Ochette usa Icewind
+Lord of the Flies recibe 764 de daño de tipo Ice
+Wind Elemental recibe 1698 de daño de tipo Ice con debilidad
+Lord of the Flies termina con HP:4826
+Wind Elemental termina con HP:798
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:407/407 BP:1
+B-Heatcore - HP:2822/2822 SP:338/342 BP:0
+C-Partitio - HP:4891/4891 SP:314/314 BP:1
+D-Ochette - HP:4978/4447 SP:361/369 BP:0
+Equipo del enemigo
+A-Lord of the Flies - HP:4826/5590 Shields:3
+B-Wind Elemental - HP:798/2496 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Partitio
+3.Lord of the Flies
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Ochette
+3.Tressa
+4.Partitio
+5.Lord of the Flies
+6.Wind Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Lord of the Flies - HP:4826/5590 Shields:3
+2: Wind Elemental - HP:798/2496 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Lord of the Flies recibe 31 de daño de tipo Bow con debilidad
+Lord of the Flies termina con HP:4795
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:407/407 BP:1
+B-Heatcore - HP:2822/2822 SP:338/342 BP:0
+C-Partitio - HP:4891/4891 SP:314/314 BP:1
+D-Ochette - HP:4978/4447 SP:361/369 BP:0
+Equipo del enemigo
+A-Lord of the Flies - HP:4795/5590 Shields:2
+B-Wind Elemental - HP:798/2496 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Lord of the Flies
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Ochette
+3.Tressa
+4.Partitio
+5.Lord of the Flies
+6.Wind Elemental
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Lord of the Flies - HP:4795/5590 Shields:2
+2: Wind Elemental - HP:798/2496 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Lord of the Flies recibe 79 de daño de tipo Bow con debilidad
+Lord of the Flies termina con HP:4716
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:407/407 BP:1
+B-Heatcore - HP:2822/2822 SP:338/342 BP:0
+C-Partitio - HP:4891/4891 SP:314/314 BP:1
+D-Ochette - HP:4978/4447 SP:361/369 BP:0
+Equipo del enemigo
+A-Lord of the Flies - HP:4716/5590 Shields:1
+B-Wind Elemental - HP:798/2496 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Ochette
+3.Tressa
+4.Partitio
+5.Lord of the Flies
+6.Wind Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Tressa recibe 171 de daño físico
+Tressa termina con HP:4720
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4720/4891 SP:407/407 BP:1
+B-Heatcore - HP:2822/2822 SP:338/342 BP:0
+C-Partitio - HP:4891/4891 SP:314/314 BP:1
+D-Ochette - HP:4978/4447 SP:361/369 BP:0
+Equipo del enemigo
+A-Lord of the Flies - HP:4716/5590 Shields:1
+B-Wind Elemental - HP:798/2496 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Ochette
+3.Tressa
+4.Partitio
+5.Lord of the Flies
+6.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Ochette recibe 128 de daño elemental
+Ochette termina con HP:4850
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4720/4891 SP:407/407 BP:2
+B-Heatcore - HP:2822/2822 SP:338/342 BP:0
+C-Partitio - HP:4891/4891 SP:314/314 BP:2
+D-Ochette - HP:4850/4447 SP:361/369 BP:0
+Equipo del enemigo
+A-Lord of the Flies - HP:4716/5590 Shields:1
+B-Wind Elemental - HP:798/2496 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Ochette
+3.Tressa
+4.Partitio
+5.Lord of the Flies
+6.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Ochette
+3.Tressa
+4.Partitio
+5.Lord of the Flies
+6.Wind Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Lord of the Flies - HP:4716/5590 Shields:1
+2: Wind Elemental - HP:798/2496 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Heatcore ataca
+Lord of the Flies recibe 0 de daño de tipo Axe
+Lord of the Flies termina con HP:4716
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4720/4891 SP:407/407 BP:2
+B-Heatcore - HP:2822/2822 SP:338/342 BP:0
+C-Partitio - HP:4891/4891 SP:314/314 BP:2
+D-Ochette - HP:4850/4447 SP:361/369 BP:0
+Equipo del enemigo
+A-Lord of the Flies - HP:4716/5590 Shields:1
+B-Wind Elemental - HP:798/2496 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Tressa
+3.Partitio
+4.Lord of the Flies
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Ochette
+3.Tressa
+4.Partitio
+5.Lord of the Flies
+6.Wind Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Icewind
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Ochette usa Icewind
+Lord of the Flies recibe 102 de daño de tipo Ice
+Wind Elemental recibe 705 de daño de tipo Ice con debilidad
+Lord of the Flies termina con HP:4614
+Wind Elemental termina con HP:93
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4720/4891 SP:407/407 BP:2
+B-Heatcore - HP:2822/2822 SP:338/342 BP:0
+C-Partitio - HP:4891/4891 SP:314/314 BP:2
+D-Ochette - HP:4850/4447 SP:353/369 BP:0
+Equipo del enemigo
+A-Lord of the Flies - HP:4614/5590 Shields:1
+B-Wind Elemental - HP:93/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Partitio
+3.Lord of the Flies
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Ochette
+3.Tressa
+4.Partitio
+5.Lord of the Flies
+6.Wind Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Holy Light
+2: Lightning Bolt
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa usa Lightning Bolt
+Lord of the Flies recibe 604 de daño de tipo Lightning
+Wind Elemental recibe 1273 de daño de tipo Lightning con debilidad
+Lord of the Flies termina con HP:4010
+Wind Elemental termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4720/4891 SP:399/407 BP:1
+B-Heatcore - HP:2822/2822 SP:338/342 BP:0
+C-Partitio - HP:4891/4891 SP:314/314 BP:2
+D-Ochette - HP:4850/4447 SP:353/369 BP:0
+Equipo del enemigo
+A-Lord of the Flies - HP:4010/5590 Shields:1
+B-Wind Elemental - HP:0/2496 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Ochette
+3.Tressa
+4.Partitio
+5.Lord of the Flies
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Lord of the Flies - HP:4010/5590 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Lord of the Flies recibe 79 de daño de tipo Bow con debilidad
+Lord of the Flies entra en Breaking Point
+Lord of the Flies termina con HP:3931
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4720/4891 SP:399/407 BP:1
+B-Heatcore - HP:2822/2822 SP:338/342 BP:1
+C-Partitio - HP:4891/4891 SP:314/314 BP:3
+D-Ochette - HP:4850/4447 SP:353/369 BP:1
+Equipo del enemigo
+A-Lord of the Flies - HP:3931/5590 Shields:0
+B-Wind Elemental - HP:0/2496 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Ochette
+3.Tressa
+4.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Heatcore
+3.Ochette
+4.Tressa
+5.Partitio
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Level Slash
+2: First Aid
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Tressa - HP:4720/4891 SP:399/407 BP:1
+2: Heatcore - HP:2822/2822 SP:338/342 BP:1
+3: Partitio - HP:4891/4891 SP:314/314 BP:3
+4: Ochette - HP:4850/4447 SP:353/369 BP:1
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Heatcore usa First Aid
+Ochette recupera 531 de vida
+Ochette termina con HP:5381
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4720/4891 SP:399/407 BP:1
+B-Heatcore - HP:2822/2822 SP:334/342 BP:0
+C-Partitio - HP:4891/4891 SP:314/314 BP:3
+D-Ochette - HP:5381/4447 SP:353/369 BP:1
+Equipo del enemigo
+A-Lord of the Flies - HP:3931/5590 Shields:0
+B-Wind Elemental - HP:0/2496 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Tressa
+3.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Heatcore
+3.Ochette
+4.Tressa
+5.Partitio
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Icewind
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Ochette no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette usa Icewind
+Lord of the Flies recibe 154 de daño de tipo Ice
+Lord of the Flies termina con HP:3777
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4720/4891 SP:399/407 BP:1
+B-Heatcore - HP:2822/2822 SP:334/342 BP:0
+C-Partitio - HP:4891/4891 SP:314/314 BP:3
+D-Ochette - HP:5381/4447 SP:345/369 BP:1
+Equipo del enemigo
+A-Lord of the Flies - HP:3777/5590 Shields:0
+B-Wind Elemental - HP:0/2496 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Heatcore
+3.Ochette
+4.Tressa
+5.Partitio
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Holy Light
+2: Lightning Bolt
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Lord of the Flies - HP:3777/5590 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa usa Holy Light
+Lord of the Flies recibe 1316 de daño de tipo Light con debilidad
+Lord of the Flies termina con HP:2461
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4720/4891 SP:393/407 BP:0
+B-Heatcore - HP:2822/2822 SP:334/342 BP:0
+C-Partitio - HP:4891/4891 SP:314/314 BP:3
+D-Ochette - HP:5381/4447 SP:345/369 BP:1
+Equipo del enemigo
+A-Lord of the Flies - HP:2461/5590 Shields:0
+B-Wind Elemental - HP:0/2496 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Heatcore
+3.Ochette
+4.Tressa
+5.Partitio
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4720/4891 SP:393/407 BP:0
+B-Heatcore - HP:2822/2822 SP:334/342 BP:0
+C-Partitio - HP:4891/4891 SP:314/314 BP:4
+D-Ochette - HP:5381/4447 SP:345/369 BP:2
+Equipo del enemigo
+A-Lord of the Flies - HP:2461/5590 Shields:3
+B-Wind Elemental - HP:0/2496 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Partitio
+3.Heatcore
+4.Ochette
+5.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Ochette
+3.Tressa
+4.Partitio
+5.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Tressa recibe 171 de daño físico
+Tressa termina con HP:4549
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4549/4891 SP:393/407 BP:0
+B-Heatcore - HP:2822/2822 SP:334/342 BP:0
+C-Partitio - HP:4891/4891 SP:314/314 BP:4
+D-Ochette - HP:5381/4447 SP:345/369 BP:2
+Equipo del enemigo
+A-Lord of the Flies - HP:2461/5590 Shields:3
+B-Wind Elemental - HP:0/2496 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Heatcore
+3.Ochette
+4.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Ochette
+3.Tressa
+4.Partitio
+5.Lord of the Flies
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Tradewinds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Lord of the Flies - HP:2461/5590 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Partitio usa Tradewinds
+Lord of the Flies recibe 3262 de daño de tipo Wind con debilidad
+Lord of the Flies termina con HP:0
+----------------------------------------
+Gana equipo del jugador

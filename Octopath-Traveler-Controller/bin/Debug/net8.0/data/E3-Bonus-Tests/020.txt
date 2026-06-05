@@ -1,0 +1,799 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+INPUT: 19
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.Meep
+4.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Meep
+4.Shaggy Meep
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Meep - HP:1016/1016 Shields:2
+2: Shaggy Meep - HP:1036/1036 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Meep recibe 89 de daño de tipo Dagger
+Meep termina con HP:927
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Meep - HP:927/1016 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Meep
+3.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Meep
+4.Shaggy Meep
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Meep - HP:927/1016 Shields:2
+2: Shaggy Meep - HP:1036/1036 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Shaggy Meep recibe 123 de daño de tipo Dagger
+Shaggy Meep termina con HP:913
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Meep - HP:927/1016 Shields:2
+B-Shaggy Meep - HP:913/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Meep
+4.Shaggy Meep
+----------------------------------------
+Meep usa Attack
+Therion recibe 263 de daño físico
+Therion termina con HP:4184
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Therion - HP:4184/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Meep - HP:927/1016 Shields:2
+B-Shaggy Meep - HP:913/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Meep
+4.Shaggy Meep
+----------------------------------------
+Shaggy Meep usa Attack
+Therion recibe 184 de daño físico
+Therion termina con HP:4000
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:2
+B-Therion - HP:4000/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Meep - HP:927/1016 Shields:2
+B-Shaggy Meep - HP:913/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.Meep
+4.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Meep
+4.Shaggy Meep
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Fireball
+Meep recibe 296 de daño de tipo Fire
+Shaggy Meep recibe 341 de daño de tipo Fire
+Meep termina con HP:631
+Shaggy Meep termina con HP:572
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:2
+B-Therion - HP:4000/4447 SP:324/332 BP:2
+Equipo del enemigo
+A-Meep - HP:631/1016 Shields:2
+B-Shaggy Meep - HP:572/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Meep
+3.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Meep
+4.Shaggy Meep
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Meep - HP:631/1016 Shields:2
+2: Shaggy Meep - HP:572/1036 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Shaggy Meep recibe 123 de daño de tipo Dagger
+Shaggy Meep termina con HP:449
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:2
+B-Therion - HP:4000/4447 SP:324/332 BP:2
+Equipo del enemigo
+A-Meep - HP:631/1016 Shields:2
+B-Shaggy Meep - HP:449/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Meep
+4.Shaggy Meep
+----------------------------------------
+Meep usa Attack
+Primrose recibe 288 de daño físico
+Primrose termina con HP:3714
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3714/4002 SP:504/504 BP:2
+B-Therion - HP:4000/4447 SP:324/332 BP:2
+Equipo del enemigo
+A-Meep - HP:631/1016 Shields:2
+B-Shaggy Meep - HP:449/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Meep
+4.Shaggy Meep
+----------------------------------------
+Shaggy Meep usa Attack
+Therion recibe 184 de daño físico
+Therion termina con HP:3816
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3714/4002 SP:504/504 BP:3
+B-Therion - HP:3816/4447 SP:324/332 BP:3
+Equipo del enemigo
+A-Meep - HP:631/1016 Shields:2
+B-Shaggy Meep - HP:449/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.Meep
+4.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Meep
+4.Shaggy Meep
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Fireball
+Meep recibe 197 de daño de tipo Fire
+Shaggy Meep recibe 227 de daño de tipo Fire
+Meep termina con HP:434
+Shaggy Meep termina con HP:222
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3714/4002 SP:504/504 BP:3
+B-Therion - HP:3816/4447 SP:316/332 BP:3
+Equipo del enemigo
+A-Meep - HP:434/1016 Shields:2
+B-Shaggy Meep - HP:222/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Meep
+3.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Meep
+4.Shaggy Meep
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Meep - HP:434/1016 Shields:2
+2: Shaggy Meep - HP:222/1036 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Shaggy Meep recibe 82 de daño de tipo Dagger
+Shaggy Meep termina con HP:140
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3714/4002 SP:504/504 BP:3
+B-Therion - HP:3816/4447 SP:316/332 BP:3
+Equipo del enemigo
+A-Meep - HP:434/1016 Shields:2
+B-Shaggy Meep - HP:140/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Meep
+4.Shaggy Meep
+----------------------------------------
+Meep usa Attack
+Therion recibe 263 de daño físico
+Therion termina con HP:3553
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3714/4002 SP:504/504 BP:3
+B-Therion - HP:3553/4447 SP:316/332 BP:3
+Equipo del enemigo
+A-Meep - HP:434/1016 Shields:2
+B-Shaggy Meep - HP:140/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Meep
+4.Shaggy Meep
+----------------------------------------
+Shaggy Meep usa Attack
+Primrose recibe 209 de daño físico
+Primrose termina con HP:3505
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3505/4002 SP:504/504 BP:4
+B-Therion - HP:3553/4447 SP:316/332 BP:4
+Equipo del enemigo
+A-Meep - HP:434/1016 Shields:2
+B-Shaggy Meep - HP:140/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.Meep
+4.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Meep
+4.Shaggy Meep
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Meep - HP:434/1016 Shields:2
+2: Shaggy Meep - HP:140/1036 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Meep recibe 59 de daño de tipo Dagger
+Meep termina con HP:375
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3505/4002 SP:504/504 BP:4
+B-Therion - HP:3553/4447 SP:316/332 BP:4
+Equipo del enemigo
+A-Meep - HP:375/1016 Shields:2
+B-Shaggy Meep - HP:140/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Meep
+3.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Meep
+4.Shaggy Meep
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Meep - HP:375/1016 Shields:2
+2: Shaggy Meep - HP:140/1036 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Shaggy Meep recibe 82 de daño de tipo Dagger
+Shaggy Meep termina con HP:58
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3505/4002 SP:504/504 BP:4
+B-Therion - HP:3553/4447 SP:316/332 BP:4
+Equipo del enemigo
+A-Meep - HP:375/1016 Shields:2
+B-Shaggy Meep - HP:58/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Meep
+4.Shaggy Meep
+----------------------------------------
+Meep usa Attack
+Therion recibe 263 de daño físico
+Therion termina con HP:3290
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3505/4002 SP:504/504 BP:4
+B-Therion - HP:3290/4447 SP:316/332 BP:4
+Equipo del enemigo
+A-Meep - HP:375/1016 Shields:2
+B-Shaggy Meep - HP:58/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Meep
+4.Shaggy Meep
+----------------------------------------
+Shaggy Meep usa Attack
+Primrose recibe 209 de daño físico
+Primrose termina con HP:3296
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3296/4002 SP:504/504 BP:5
+B-Therion - HP:3290/4447 SP:316/332 BP:5
+Equipo del enemigo
+A-Meep - HP:375/1016 Shields:2
+B-Shaggy Meep - HP:58/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.Meep
+4.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Meep
+4.Shaggy Meep
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Fireball
+Meep recibe 197 de daño de tipo Fire
+Shaggy Meep recibe 227 de daño de tipo Fire
+Meep termina con HP:178
+Shaggy Meep termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3296/4002 SP:504/504 BP:5
+B-Therion - HP:3290/4447 SP:308/332 BP:5
+Equipo del enemigo
+A-Meep - HP:178/1016 Shields:2
+B-Shaggy Meep - HP:0/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Meep
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Meep - HP:178/1016 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Meep recibe 0 de daño de tipo Dagger
+Meep termina con HP:178
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3296/4002 SP:504/504 BP:5
+B-Therion - HP:3290/4447 SP:308/332 BP:5
+Equipo del enemigo
+A-Meep - HP:178/1016 Shields:2
+B-Shaggy Meep - HP:0/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Meep
+----------------------------------------
+Meep usa Attack
+Primrose recibe 288 de daño físico
+Primrose termina con HP:3008
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3008/4002 SP:504/504 BP:5
+B-Therion - HP:3290/4447 SP:308/332 BP:5
+Equipo del enemigo
+A-Meep - HP:178/1016 Shields:2
+B-Shaggy Meep - HP:0/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Meep
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Meep - HP:178/1016 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Meep recibe 59 de daño de tipo Dagger
+Meep termina con HP:119
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3008/4002 SP:504/504 BP:5
+B-Therion - HP:3290/4447 SP:308/332 BP:5
+Equipo del enemigo
+A-Meep - HP:119/1016 Shields:2
+B-Shaggy Meep - HP:0/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Meep
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Meep - HP:119/1016 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Meep recibe 0 de daño de tipo Dagger
+Meep termina con HP:119
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3008/4002 SP:504/504 BP:5
+B-Therion - HP:3290/4447 SP:308/332 BP:5
+Equipo del enemigo
+A-Meep - HP:119/1016 Shields:2
+B-Shaggy Meep - HP:0/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Meep
+----------------------------------------
+Meep usa Attack
+Therion recibe 263 de daño físico
+Therion termina con HP:3027
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3008/4002 SP:504/504 BP:5
+B-Therion - HP:3027/4447 SP:308/332 BP:5
+Equipo del enemigo
+A-Meep - HP:119/1016 Shields:2
+B-Shaggy Meep - HP:0/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Meep
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Fireball
+Meep recibe 197 de daño de tipo Fire
+Meep termina con HP:0
+----------------------------------------
+Gana equipo del jugador

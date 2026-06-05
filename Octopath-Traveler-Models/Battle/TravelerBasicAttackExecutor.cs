@@ -1,25 +1,10 @@
 namespace Octopath_Traveler_Models.Battle;
 
-public sealed record TravelerBasicAttack(
-    string AttackerName,
-    string TargetName,
-    string WeaponType,
-    IReadOnlyList<TravelerBasicAttackHit> Hits,
-    int TargetCurrentHp);
-
-public sealed record TravelerBasicAttackHit(
-    int Damage,
-    bool IsWeaknessHit,
-    bool EnteredBreakingPoint);
-
-public sealed record TravelerBasicAttackExecutionRequest(
-    TravelerCombatUnit Traveler,
-    BeastCombatUnit Target,
-    string WeaponType,
-    int UsedBp);
-
 public sealed class TravelerBasicAttackExecutor
 {
+    private const int BasicAttackBaseHitCount = 1;
+    private const int MinimumUsedBp = 0;
+
     private readonly TravelerBasicAttackHitExecutor _hitExecutor;
 
     public TravelerBasicAttackExecutor(PhysicalAttackExecutionService physicalAttackExecutionService)
@@ -30,7 +15,7 @@ public sealed class TravelerBasicAttackExecutor
 
     public TravelerBasicAttack ExecuteAttack(TravelerBasicAttackExecutionRequest executionRequest)
     {
-        IReadOnlyList<TravelerBasicAttackHit> hits = ExecuteHits(executionRequest);
+        IReadOnlyList<TravelerBasicAttackHit> hits = ApplyHits(executionRequest);
 
         return new TravelerBasicAttack(
             executionRequest.Traveler.Name,
@@ -40,22 +25,22 @@ public sealed class TravelerBasicAttackExecutor
             executionRequest.Target.CurrentHp);
     }
 
-    private IReadOnlyList<TravelerBasicAttackHit> ExecuteHits(TravelerBasicAttackExecutionRequest executionRequest)
+    private IReadOnlyList<TravelerBasicAttackHit> ApplyHits(TravelerBasicAttackExecutionRequest executionRequest)
     {
         List<TravelerBasicAttackHit> hits = [];
         for (int hitIndex = 0; hitIndex < CalculateHitCount(executionRequest.UsedBp); hitIndex++)
-            hits.Add(ExecuteHit(executionRequest));
+            hits.Add(ApplyHit(executionRequest));
 
         return hits;
     }
 
-    private TravelerBasicAttackHit ExecuteHit(TravelerBasicAttackExecutionRequest executionRequest)
+    private TravelerBasicAttackHit ApplyHit(TravelerBasicAttackExecutionRequest executionRequest)
         => _hitExecutor.ExecuteHit(new TravelerBasicAttackHitExecutionRequest(
             executionRequest.Traveler,
             executionRequest.Target,
             executionRequest.WeaponType));
 
     private static int CalculateHitCount(int usedBp)
-        => 1 + Math.Max(0, usedBp);
+        => BasicAttackBaseHitCount + Math.Max(MinimumUsedBp, usedBp);
 }
 

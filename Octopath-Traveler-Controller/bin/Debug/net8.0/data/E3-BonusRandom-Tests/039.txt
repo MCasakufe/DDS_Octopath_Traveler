@@ -1,0 +1,3850 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+INPUT: 38
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:433/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:1
+C-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+D-H'aanit - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Wind Elemental - HP:2496/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Light Wisp - HP:972/972 Shields:1
+2: Devil Deer - HP:2002/2002 Shields:5
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Devil Deer recibe 48 de daño de tipo Bow
+Devil Deer termina con HP:1954
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:433/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:1
+C-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+D-H'aanit - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Devil Deer - HP:1954/2002 Shields:5
+C-Wind Elemental - HP:2496/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Z'aanta
+3.Alfyn
+4.Devil Deer
+5.Wind Elemental
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Light Wisp - HP:972/972 Shields:1
+2: Devil Deer - HP:1954/2002 Shields:5
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Devil Deer recibe 0 de daño de tipo Stave con debilidad
+Devil Deer termina con HP:1954
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:433/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:1
+C-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+D-H'aanit - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Devil Deer - HP:1954/2002 Shields:5
+C-Wind Elemental - HP:2496/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Alfyn
+3.Devil Deer
+4.Wind Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Holy Light
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Light Wisp - HP:972/972 Shields:1
+2: Devil Deer - HP:1954/2002 Shields:5
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Z'aanta no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Z'aanta no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Z'aanta no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Z'aanta no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Z'aanta no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Z'aanta usa Holy Light
+Wind Elemental recibe 843 de daño de tipo Light
+Wind Elemental termina con HP:1653
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:433/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:1
+C-Z'aanta - HP:3222/3222 SP:365/371 BP:0
+D-H'aanit - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Devil Deer - HP:1954/2002 Shields:5
+C-Wind Elemental - HP:1653/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Devil Deer
+3.Wind Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Tradewinds
+2: First Aid
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Alfyn - HP:5336/5336 SP:433/433 BP:1
+2: Temenos - HP:4002/4002 SP:432/432 BP:1
+3: Z'aanta - HP:3222/3222 SP:365/371 BP:0
+4: H'aanit - HP:4447/4447 SP:369/369 BP:1
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Alfyn no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Alfyn usa First Aid
+H'aanit recupera 499 de vida
+H'aanit termina con HP:4946
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:429/433 BP:0
+B-Temenos - HP:4002/4002 SP:432/432 BP:1
+C-Z'aanta - HP:3222/3222 SP:365/371 BP:0
+D-H'aanit - HP:4946/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Devil Deer - HP:1954/2002 Shields:5
+C-Wind Elemental - HP:1653/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Devil Deer usa Boar Rush
+H'aanit recibe 619 de daño físico
+H'aanit termina con HP:4327
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:429/433 BP:0
+B-Temenos - HP:4002/4002 SP:432/432 BP:1
+C-Z'aanta - HP:3222/3222 SP:365/371 BP:0
+D-H'aanit - HP:4327/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Devil Deer - HP:1954/2002 Shields:5
+C-Wind Elemental - HP:1653/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Wind Elemental usa Windshot
+Z'aanta recibe 194 de daño elemental
+Z'aanta termina con HP:3028
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:429/433 BP:0
+B-Temenos - HP:4002/4002 SP:432/432 BP:1
+C-Z'aanta - HP:3028/3222 SP:365/371 BP:0
+D-H'aanit - HP:4327/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Devil Deer - HP:1954/2002 Shields:5
+C-Wind Elemental - HP:1653/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+H'aanit recibe 138 de daño elemental
+H'aanit termina con HP:4189
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:429/433 BP:0
+B-Temenos - HP:4002/4002 SP:432/432 BP:2
+C-Z'aanta - HP:3028/3222 SP:365/371 BP:0
+D-H'aanit - HP:4189/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Devil Deer - HP:1954/2002 Shields:5
+C-Wind Elemental - HP:1653/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Light Wisp - HP:972/972 Shields:1
+2: Devil Deer - HP:1954/2002 Shields:5
+3: Wind Elemental - HP:1653/2496 Shields:4
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Light Wisp recibe 153 de daño de tipo Bow
+Light Wisp termina con HP:819
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:429/433 BP:0
+B-Temenos - HP:4002/4002 SP:432/432 BP:2
+C-Z'aanta - HP:3028/3222 SP:365/371 BP:0
+D-H'aanit - HP:4189/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:819/972 Shields:1
+B-Devil Deer - HP:1954/2002 Shields:5
+C-Wind Elemental - HP:1653/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Z'aanta
+3.Alfyn
+4.Devil Deer
+5.Wind Elemental
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Light Wisp - HP:819/972 Shields:1
+2: Devil Deer - HP:1954/2002 Shields:5
+3: Wind Elemental - HP:1653/2496 Shields:4
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Light Wisp recibe 18 de daño de tipo Stave
+Light Wisp termina con HP:801
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:429/433 BP:0
+B-Temenos - HP:4002/4002 SP:432/432 BP:2
+C-Z'aanta - HP:3028/3222 SP:365/371 BP:0
+D-H'aanit - HP:4189/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:801/972 Shields:1
+B-Devil Deer - HP:1954/2002 Shields:5
+C-Wind Elemental - HP:1653/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Alfyn
+3.Devil Deer
+4.Wind Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Holy Light
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Light Wisp - HP:801/972 Shields:1
+2: Devil Deer - HP:1954/2002 Shields:5
+3: Wind Elemental - HP:1653/2496 Shields:4
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Z'aanta usa Holy Light
+Light Wisp recibe 350 de daño de tipo Light
+Light Wisp termina con HP:451
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:429/433 BP:0
+B-Temenos - HP:4002/4002 SP:432/432 BP:2
+C-Z'aanta - HP:3028/3222 SP:359/371 BP:0
+D-H'aanit - HP:4189/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1954/2002 Shields:5
+C-Wind Elemental - HP:1653/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Devil Deer
+3.Wind Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Tradewinds
+2: First Aid
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Alfyn - HP:5336/5336 SP:429/433 BP:0
+2: Temenos - HP:4002/4002 SP:432/432 BP:2
+3: Z'aanta - HP:3028/3222 SP:359/371 BP:0
+4: H'aanit - HP:4189/4447 SP:369/369 BP:2
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Alfyn usa First Aid
+Alfyn recupera 357 de vida
+Alfyn termina con HP:5693
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5693/5336 SP:425/433 BP:0
+B-Temenos - HP:4002/4002 SP:432/432 BP:2
+C-Z'aanta - HP:3028/3222 SP:359/371 BP:0
+D-H'aanit - HP:4189/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1954/2002 Shields:5
+C-Wind Elemental - HP:1653/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Devil Deer usa Boar Rush
+H'aanit recibe 619 de daño físico
+H'aanit termina con HP:3570
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5693/5336 SP:425/433 BP:0
+B-Temenos - HP:4002/4002 SP:432/432 BP:2
+C-Z'aanta - HP:3028/3222 SP:359/371 BP:0
+D-H'aanit - HP:3570/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1954/2002 Shields:5
+C-Wind Elemental - HP:1653/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Wind Elemental usa Windshot
+Z'aanta recibe 194 de daño elemental
+Z'aanta termina con HP:2834
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5693/5336 SP:425/433 BP:0
+B-Temenos - HP:4002/4002 SP:432/432 BP:2
+C-Z'aanta - HP:2834/3222 SP:359/371 BP:0
+D-H'aanit - HP:3570/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1954/2002 Shields:5
+C-Wind Elemental - HP:1653/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+H'aanit recibe 138 de daño elemental
+H'aanit termina con HP:3432
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5693/5336 SP:425/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:3
+C-Z'aanta - HP:2834/3222 SP:359/371 BP:1
+D-H'aanit - HP:3432/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1954/2002 Shields:5
+C-Wind Elemental - HP:1653/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+H'aanit usa Heal Wounds
+Alfyn recupera 637 de vida
+Temenos recupera 637 de vida
+Z'aanta recupera 637 de vida
+H'aanit recupera 637 de vida
+Alfyn termina con HP:6330
+Temenos termina con HP:4002
+Z'aanta termina con HP:3222
+H'aanit termina con HP:4069
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:6330/5336 SP:425/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:3
+C-Z'aanta - HP:3222/3222 SP:359/371 BP:1
+D-H'aanit - HP:4069/4447 SP:363/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1954/2002 Shields:5
+C-Wind Elemental - HP:1653/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Z'aanta
+3.Alfyn
+4.Devil Deer
+5.Wind Elemental
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Light Wisp - HP:451/972 Shields:1
+2: Devil Deer - HP:1954/2002 Shields:5
+3: Wind Elemental - HP:1653/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Devil Deer recibe 0 de daño de tipo Stave con debilidad
+Devil Deer termina con HP:1954
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:6330/5336 SP:425/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:3
+C-Z'aanta - HP:3222/3222 SP:359/371 BP:1
+D-H'aanit - HP:4069/4447 SP:363/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1954/2002 Shields:5
+C-Wind Elemental - HP:1653/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Alfyn
+3.Devil Deer
+4.Wind Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Holy Light
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Light Wisp - HP:451/972 Shields:1
+2: Devil Deer - HP:1954/2002 Shields:5
+3: Wind Elemental - HP:1653/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Z'aanta no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Z'aanta no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Z'aanta no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Z'aanta usa Holy Light
+Devil Deer recibe 518 de daño de tipo Light
+Devil Deer termina con HP:1436
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:6330/5336 SP:425/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:3
+C-Z'aanta - HP:3222/3222 SP:353/371 BP:0
+D-H'aanit - HP:4069/4447 SP:363/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1436/2002 Shields:5
+C-Wind Elemental - HP:1653/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Devil Deer
+3.Wind Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:6330/5336 SP:425/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:3
+C-Z'aanta - HP:3222/3222 SP:353/371 BP:0
+D-H'aanit - HP:4069/4447 SP:363/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1436/2002 Shields:5
+C-Wind Elemental - HP:1653/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.H'aanit
+3.Temenos
+4.Z'aanta
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Devil Deer usa Boar Rush
+H'aanit recibe 619 de daño físico
+H'aanit termina con HP:3450
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:6330/5336 SP:425/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:3
+C-Z'aanta - HP:3222/3222 SP:353/371 BP:0
+D-H'aanit - HP:3450/4447 SP:363/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1436/2002 Shields:5
+C-Wind Elemental - HP:1653/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.H'aanit
+3.Temenos
+4.Z'aanta
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Wind Elemental usa Windshot
+Z'aanta recibe 194 de daño elemental
+Z'aanta termina con HP:3028
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:6330/5336 SP:425/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:3
+C-Z'aanta - HP:3028/3222 SP:353/371 BP:0
+D-H'aanit - HP:3450/4447 SP:363/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1436/2002 Shields:5
+C-Wind Elemental - HP:1653/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.H'aanit
+3.Temenos
+4.Z'aanta
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+H'aanit recibe 138 de daño elemental
+H'aanit termina con HP:3312
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:6330/5336 SP:425/433 BP:2
+B-Temenos - HP:4002/4002 SP:432/432 BP:4
+C-Z'aanta - HP:3028/3222 SP:353/371 BP:0
+D-H'aanit - HP:3312/4447 SP:363/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1436/2002 Shields:5
+C-Wind Elemental - HP:1653/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.H'aanit
+3.Temenos
+4.Z'aanta
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Tradewinds
+2: First Aid
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Light Wisp - HP:451/972 Shields:1
+2: Devil Deer - HP:1436/2002 Shields:5
+3: Wind Elemental - HP:1653/2496 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Alfyn usa Tradewinds
+Wind Elemental recibe 681 de daño de tipo Wind
+Wind Elemental termina con HP:972
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:6330/5336 SP:418/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:4
+C-Z'aanta - HP:3028/3222 SP:353/371 BP:0
+D-H'aanit - HP:3312/4447 SP:363/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1436/2002 Shields:5
+C-Wind Elemental - HP:972/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Devil Deer
+5.Wind Elemental
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Light Wisp - HP:451/972 Shields:1
+2: Devil Deer - HP:1436/2002 Shields:5
+3: Wind Elemental - HP:972/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Devil Deer recibe 72 de daño de tipo Axe con debilidad
+Devil Deer termina con HP:1364
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:6330/5336 SP:418/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:4
+C-Z'aanta - HP:3028/3222 SP:353/371 BP:0
+D-H'aanit - HP:3312/4447 SP:363/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1364/2002 Shields:4
+C-Wind Elemental - HP:972/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Z'aanta
+3.Devil Deer
+4.Wind Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Light Wisp - HP:451/972 Shields:1
+2: Devil Deer - HP:1364/2002 Shields:4
+3: Wind Elemental - HP:972/2496 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Wind Elemental recibe 0 de daño de tipo Stave
+Wind Elemental termina con HP:972
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:6330/5336 SP:418/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:4
+C-Z'aanta - HP:3028/3222 SP:353/371 BP:0
+D-H'aanit - HP:3312/4447 SP:363/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1364/2002 Shields:4
+C-Wind Elemental - HP:972/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Devil Deer
+3.Wind Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:6330/5336 SP:418/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:4
+C-Z'aanta - HP:3028/3222 SP:353/371 BP:0
+D-H'aanit - HP:3312/4447 SP:363/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1364/2002 Shields:4
+C-Wind Elemental - HP:972/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.H'aanit
+3.Temenos
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Devil Deer usa Boar Rush
+H'aanit recibe 619 de daño físico
+H'aanit termina con HP:2693
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:6330/5336 SP:418/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:4
+C-Z'aanta - HP:3028/3222 SP:353/371 BP:0
+D-H'aanit - HP:2693/4447 SP:363/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1364/2002 Shields:4
+C-Wind Elemental - HP:972/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.H'aanit
+3.Temenos
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Wind Elemental usa Windshot
+Z'aanta se defiende
+Z'aanta recibe 97 de daño elemental
+Z'aanta termina con HP:2931
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:6330/5336 SP:418/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:4
+C-Z'aanta - HP:2931/3222 SP:353/371 BP:0
+D-H'aanit - HP:2693/4447 SP:363/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1364/2002 Shields:4
+C-Wind Elemental - HP:972/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.H'aanit
+3.Temenos
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+H'aanit recibe 138 de daño elemental
+H'aanit termina con HP:2555
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:6330/5336 SP:418/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:2931/3222 SP:353/371 BP:1
+D-H'aanit - HP:2555/4447 SP:363/369 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1364/2002 Shields:4
+C-Wind Elemental - HP:972/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.H'aanit
+3.Temenos
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Holy Light
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Light Wisp - HP:451/972 Shields:1
+2: Devil Deer - HP:1364/2002 Shields:4
+3: Wind Elemental - HP:972/2496 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Z'aanta no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Z'aanta no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta usa Holy Light
+Wind Elemental recibe 333 de daño de tipo Light
+Wind Elemental termina con HP:639
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:6330/5336 SP:418/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:2931/3222 SP:347/371 BP:1
+D-H'aanit - HP:2555/4447 SP:363/369 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1364/2002 Shields:4
+C-Wind Elemental - HP:639/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Temenos
+3.Alfyn
+4.Devil Deer
+5.Wind Elemental
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit usa Heal Wounds
+Alfyn recupera 382 de vida
+Temenos recupera 382 de vida
+Z'aanta recupera 382 de vida
+H'aanit recupera 382 de vida
+Alfyn termina con HP:6712
+Temenos termina con HP:4002
+Z'aanta termina con HP:3222
+H'aanit termina con HP:2937
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:6712/5336 SP:418/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3222/3222 SP:347/371 BP:1
+D-H'aanit - HP:2937/4447 SP:357/369 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1364/2002 Shields:4
+C-Wind Elemental - HP:639/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Alfyn
+3.Devil Deer
+4.Wind Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:6712/5336 SP:418/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3222/3222 SP:347/371 BP:1
+D-H'aanit - HP:2937/4447 SP:357/369 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1364/2002 Shields:4
+C-Wind Elemental - HP:639/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Devil Deer
+3.Wind Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.H'aanit
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:6712/5336 SP:418/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3222/3222 SP:347/371 BP:1
+D-H'aanit - HP:2937/4447 SP:357/369 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1364/2002 Shields:4
+C-Wind Elemental - HP:639/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Alfyn
+3.H'aanit
+4.Z'aanta
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Devil Deer usa Boar Rush
+H'aanit recibe 619 de daño físico
+H'aanit termina con HP:2318
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:6712/5336 SP:418/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3222/3222 SP:347/371 BP:1
+D-H'aanit - HP:2318/4447 SP:357/369 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1364/2002 Shields:4
+C-Wind Elemental - HP:639/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Alfyn
+3.H'aanit
+4.Z'aanta
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Wind Elemental usa Windshot
+Z'aanta recibe 194 de daño elemental
+Z'aanta termina con HP:3028
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:6712/5336 SP:418/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3028/3222 SP:347/371 BP:1
+D-H'aanit - HP:2318/4447 SP:357/369 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1364/2002 Shields:4
+C-Wind Elemental - HP:639/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Alfyn
+3.H'aanit
+4.Z'aanta
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+H'aanit recibe 138 de daño elemental
+H'aanit termina con HP:2180
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:6712/5336 SP:418/433 BP:2
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3028/3222 SP:347/371 BP:2
+D-H'aanit - HP:2180/4447 SP:357/369 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1364/2002 Shields:4
+C-Wind Elemental - HP:639/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Alfyn
+3.H'aanit
+4.Z'aanta
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:6712/5336 SP:418/433 BP:2
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3028/3222 SP:347/371 BP:2
+D-H'aanit - HP:2180/4447 SP:357/369 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1364/2002 Shields:4
+C-Wind Elemental - HP:639/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.H'aanit
+3.Z'aanta
+4.Devil Deer
+5.Wind Elemental
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.H'aanit
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Light Wisp - HP:451/972 Shields:1
+2: Devil Deer - HP:1364/2002 Shields:4
+3: Wind Elemental - HP:639/2496 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Wind Elemental recibe 52 de daño de tipo Axe
+Wind Elemental termina con HP:587
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:6712/5336 SP:418/433 BP:2
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3028/3222 SP:347/371 BP:2
+D-H'aanit - HP:2180/4447 SP:357/369 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1364/2002 Shields:4
+C-Wind Elemental - HP:587/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Z'aanta
+3.Devil Deer
+4.Wind Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.H'aanit
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+H'aanit usa Heal Wounds
+Alfyn recupera 765 de vida
+Temenos recupera 765 de vida
+Z'aanta recupera 765 de vida
+H'aanit recupera 765 de vida
+Alfyn termina con HP:7477
+Temenos termina con HP:4002
+Z'aanta termina con HP:3222
+H'aanit termina con HP:2945
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:7477/5336 SP:418/433 BP:2
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3222/3222 SP:347/371 BP:2
+D-H'aanit - HP:2945/4447 SP:351/369 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1364/2002 Shields:4
+C-Wind Elemental - HP:587/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Devil Deer
+3.Wind Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.H'aanit
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Holy Light
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Light Wisp - HP:451/972 Shields:1
+2: Devil Deer - HP:1364/2002 Shields:4
+3: Wind Elemental - HP:587/2496 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Z'aanta no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta usa Holy Light
+Wind Elemental recibe 333 de daño de tipo Light
+Wind Elemental termina con HP:254
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:7477/5336 SP:418/433 BP:2
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3222/3222 SP:341/371 BP:2
+D-H'aanit - HP:2945/4447 SP:351/369 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1364/2002 Shields:4
+C-Wind Elemental - HP:254/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.H'aanit
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Devil Deer usa Boar Rush
+H'aanit recibe 619 de daño físico
+H'aanit termina con HP:2326
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:7477/5336 SP:418/433 BP:2
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3222/3222 SP:341/371 BP:2
+D-H'aanit - HP:2326/4447 SP:351/369 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1364/2002 Shields:4
+C-Wind Elemental - HP:254/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.H'aanit
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Wind Elemental usa Windshot
+Z'aanta recibe 194 de daño elemental
+Z'aanta termina con HP:3028
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:7477/5336 SP:418/433 BP:2
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3028/3222 SP:341/371 BP:2
+D-H'aanit - HP:2326/4447 SP:351/369 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1364/2002 Shields:4
+C-Wind Elemental - HP:254/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.H'aanit
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+H'aanit recibe 138 de daño elemental
+H'aanit termina con HP:2188
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:7477/5336 SP:418/433 BP:3
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3028/3222 SP:341/371 BP:3
+D-H'aanit - HP:2188/4447 SP:351/369 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1364/2002 Shields:4
+C-Wind Elemental - HP:254/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.H'aanit
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:7477/5336 SP:418/433 BP:3
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3028/3222 SP:341/371 BP:3
+D-H'aanit - HP:2188/4447 SP:351/369 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1364/2002 Shields:4
+C-Wind Elemental - HP:254/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Z'aanta
+3.Alfyn
+4.Devil Deer
+5.Wind Elemental
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.H'aanit
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+H'aanit usa Heal Wounds
+Alfyn recupera 382 de vida
+Temenos recupera 382 de vida
+Z'aanta recupera 382 de vida
+H'aanit recupera 382 de vida
+Alfyn termina con HP:7859
+Temenos termina con HP:4002
+Z'aanta termina con HP:3222
+H'aanit termina con HP:2570
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:7859/5336 SP:418/433 BP:3
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3222/3222 SP:341/371 BP:3
+D-H'aanit - HP:2570/4447 SP:345/369 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1364/2002 Shields:4
+C-Wind Elemental - HP:254/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Alfyn
+3.Devil Deer
+4.Wind Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.H'aanit
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:7859/5336 SP:418/433 BP:3
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3222/3222 SP:341/371 BP:3
+D-H'aanit - HP:2570/4447 SP:345/369 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1364/2002 Shields:4
+C-Wind Elemental - HP:254/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Devil Deer
+3.Wind Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Z'aanta
+3.H'aanit
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Tradewinds
+2: First Aid
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Alfyn - HP:7859/5336 SP:418/433 BP:3
+2: Temenos - HP:4002/4002 SP:432/432 BP:5
+3: Z'aanta - HP:3222/3222 SP:341/371 BP:3
+4: H'aanit - HP:2570/4447 SP:345/369 BP:0
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Alfyn usa First Aid
+H'aanit recupera 642 de vida
+H'aanit termina con HP:3212
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:7859/5336 SP:414/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3222/3222 SP:341/371 BP:3
+D-H'aanit - HP:3212/4447 SP:345/369 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1364/2002 Shields:4
+C-Wind Elemental - HP:254/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Z'aanta
+3.H'aanit
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Devil Deer usa Boar Rush
+H'aanit recibe 619 de daño físico
+H'aanit termina con HP:2593
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:7859/5336 SP:414/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3222/3222 SP:341/371 BP:3
+D-H'aanit - HP:2593/4447 SP:345/369 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1364/2002 Shields:4
+C-Wind Elemental - HP:254/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Z'aanta
+3.H'aanit
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Wind Elemental usa Windshot
+Z'aanta se defiende
+Z'aanta recibe 97 de daño elemental
+Z'aanta termina con HP:3125
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:7859/5336 SP:414/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3125/3222 SP:341/371 BP:3
+D-H'aanit - HP:2593/4447 SP:345/369 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1364/2002 Shields:4
+C-Wind Elemental - HP:254/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Z'aanta
+3.H'aanit
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+H'aanit recibe 138 de daño elemental
+H'aanit termina con HP:2455
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:7859/5336 SP:414/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3125/3222 SP:341/371 BP:4
+D-H'aanit - HP:2455/4447 SP:345/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1364/2002 Shields:4
+C-Wind Elemental - HP:254/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Z'aanta
+3.H'aanit
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Light Wisp - HP:451/972 Shields:1
+2: Devil Deer - HP:1364/2002 Shields:4
+3: Wind Elemental - HP:254/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Devil Deer recibe 0 de daño de tipo Stave con debilidad
+Devil Deer termina con HP:1364
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:7859/5336 SP:414/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3125/3222 SP:341/371 BP:4
+D-H'aanit - HP:2455/4447 SP:345/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:1364/2002 Shields:4
+C-Wind Elemental - HP:254/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.H'aanit
+3.Alfyn
+4.Devil Deer
+5.Wind Elemental
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Holy Light
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Light Wisp - HP:451/972 Shields:1
+2: Devil Deer - HP:1364/2002 Shields:4
+3: Wind Elemental - HP:254/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Z'aanta usa Holy Light
+Devil Deer recibe 518 de daño de tipo Light
+Devil Deer termina con HP:846
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:7859/5336 SP:414/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3125/3222 SP:335/371 BP:3
+D-H'aanit - HP:2455/4447 SP:345/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:846/2002 Shields:4
+C-Wind Elemental - HP:254/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Alfyn
+3.Devil Deer
+4.Wind Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+H'aanit no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+H'aanit usa Heal Wounds
+Alfyn recupera 510 de vida
+Temenos recupera 510 de vida
+Z'aanta recupera 510 de vida
+H'aanit recupera 510 de vida
+Alfyn termina con HP:8369
+Temenos termina con HP:4002
+Z'aanta termina con HP:3222
+H'aanit termina con HP:2965
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:8369/5336 SP:414/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3222/3222 SP:335/371 BP:3
+D-H'aanit - HP:2965/4447 SP:339/369 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Devil Deer - HP:846/2002 Shields:4
+C-Wind Elemental - HP:254/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Devil Deer
+3.Wind Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Light Wisp - HP:451/972 Shields:1
+2: Devil Deer - HP:846/2002 Shields:4
+3: Wind Elemental - HP:254/2496 Shields:4
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Light Wisp recibe 143 de daño de tipo Axe
+Light Wisp termina con HP:308
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:8369/5336 SP:414/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3222/3222 SP:335/371 BP:3
+D-H'aanit - HP:2965/4447 SP:339/369 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:308/972 Shields:1
+B-Devil Deer - HP:846/2002 Shields:4
+C-Wind Elemental - HP:254/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Devil Deer usa Boar Rush
+H'aanit recibe 619 de daño físico
+H'aanit termina con HP:2346
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:8369/5336 SP:414/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3222/3222 SP:335/371 BP:3
+D-H'aanit - HP:2346/4447 SP:339/369 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:308/972 Shields:1
+B-Devil Deer - HP:846/2002 Shields:4
+C-Wind Elemental - HP:254/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Wind Elemental usa Windshot
+Z'aanta recibe 194 de daño elemental
+Z'aanta termina con HP:3028
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:8369/5336 SP:414/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3028/3222 SP:335/371 BP:3
+D-H'aanit - HP:2346/4447 SP:339/369 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:308/972 Shields:1
+B-Devil Deer - HP:846/2002 Shields:4
+C-Wind Elemental - HP:254/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+H'aanit recibe 138 de daño elemental
+H'aanit termina con HP:2208
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:8369/5336 SP:414/433 BP:2
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3028/3222 SP:335/371 BP:3
+D-H'aanit - HP:2208/4447 SP:339/369 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:308/972 Shields:1
+B-Devil Deer - HP:846/2002 Shields:4
+C-Wind Elemental - HP:254/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+H'aanit usa Heal Wounds
+Alfyn recupera 382 de vida
+Temenos recupera 382 de vida
+Z'aanta recupera 382 de vida
+H'aanit recupera 382 de vida
+Alfyn termina con HP:8751
+Temenos termina con HP:4002
+Z'aanta termina con HP:3222
+H'aanit termina con HP:2590
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:8751/5336 SP:414/433 BP:2
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3222/3222 SP:335/371 BP:3
+D-H'aanit - HP:2590/4447 SP:333/369 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:308/972 Shields:1
+B-Devil Deer - HP:846/2002 Shields:4
+C-Wind Elemental - HP:254/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Z'aanta
+3.Alfyn
+4.Devil Deer
+5.Wind Elemental
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:8751/5336 SP:414/433 BP:2
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3222/3222 SP:335/371 BP:3
+D-H'aanit - HP:2590/4447 SP:333/369 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:308/972 Shields:1
+B-Devil Deer - HP:846/2002 Shields:4
+C-Wind Elemental - HP:254/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Alfyn
+3.Devil Deer
+4.Wind Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.H'aanit
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Light Wisp - HP:308/972 Shields:1
+2: Devil Deer - HP:846/2002 Shields:4
+3: Wind Elemental - HP:254/2496 Shields:4
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Light Wisp recibe 230 de daño de tipo Bow
+Light Wisp termina con HP:78
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:8751/5336 SP:414/433 BP:2
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3222/3222 SP:335/371 BP:3
+D-H'aanit - HP:2590/4447 SP:333/369 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:78/972 Shields:1
+B-Devil Deer - HP:846/2002 Shields:4
+C-Wind Elemental - HP:254/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Devil Deer
+3.Wind Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.H'aanit
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Tradewinds
+2: First Aid
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Alfyn - HP:8751/5336 SP:414/433 BP:2
+2: Temenos - HP:4002/4002 SP:432/432 BP:5
+3: Z'aanta - HP:3222/3222 SP:335/371 BP:3
+4: H'aanit - HP:2590/4447 SP:333/369 BP:0
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Alfyn usa First Aid
+Temenos recupera 499 de vida
+Temenos termina con HP:4002
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:8751/5336 SP:410/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3222/3222 SP:335/371 BP:3
+D-H'aanit - HP:2590/4447 SP:333/369 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:78/972 Shields:1
+B-Devil Deer - HP:846/2002 Shields:4
+C-Wind Elemental - HP:254/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.H'aanit
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Devil Deer usa Boar Rush
+H'aanit recibe 619 de daño físico
+H'aanit termina con HP:1971
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:8751/5336 SP:410/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3222/3222 SP:335/371 BP:3
+D-H'aanit - HP:1971/4447 SP:333/369 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:78/972 Shields:1
+B-Devil Deer - HP:846/2002 Shields:4
+C-Wind Elemental - HP:254/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.H'aanit
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Wind Elemental usa Windshot
+Z'aanta recibe 194 de daño elemental
+Z'aanta termina con HP:3028
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:8751/5336 SP:410/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3028/3222 SP:335/371 BP:3
+D-H'aanit - HP:1971/4447 SP:333/369 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:78/972 Shields:1
+B-Devil Deer - HP:846/2002 Shields:4
+C-Wind Elemental - HP:254/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.H'aanit
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+H'aanit recibe 138 de daño elemental
+H'aanit termina con HP:1833
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:8751/5336 SP:410/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3028/3222 SP:335/371 BP:4
+D-H'aanit - HP:1833/4447 SP:333/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:78/972 Shields:1
+B-Devil Deer - HP:846/2002 Shields:4
+C-Wind Elemental - HP:254/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.H'aanit
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Light Wisp - HP:78/972 Shields:1
+2: Devil Deer - HP:846/2002 Shields:4
+3: Wind Elemental - HP:254/2496 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Wind Elemental recibe 0 de daño de tipo Stave
+Wind Elemental termina con HP:254
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:8751/5336 SP:410/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3028/3222 SP:335/371 BP:4
+D-H'aanit - HP:1833/4447 SP:333/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:78/972 Shields:1
+B-Devil Deer - HP:846/2002 Shields:4
+C-Wind Elemental - HP:254/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Z'aanta
+3.Alfyn
+4.Devil Deer
+5.Wind Elemental
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Light Wisp - HP:78/972 Shields:1
+2: Devil Deer - HP:846/2002 Shields:4
+3: Wind Elemental - HP:254/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Devil Deer recibe 72 de daño de tipo Axe con debilidad
+Devil Deer termina con HP:774
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:8751/5336 SP:410/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3028/3222 SP:335/371 BP:4
+D-H'aanit - HP:1833/4447 SP:333/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:78/972 Shields:1
+B-Devil Deer - HP:774/2002 Shields:3
+C-Wind Elemental - HP:254/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Alfyn
+3.Devil Deer
+4.Wind Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Light Wisp - HP:78/972 Shields:1
+2: Devil Deer - HP:774/2002 Shields:3
+3: Wind Elemental - HP:254/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Devil Deer recibe 125 de daño de tipo Bow
+Devil Deer termina con HP:649
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:8751/5336 SP:410/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3028/3222 SP:335/371 BP:4
+D-H'aanit - HP:1833/4447 SP:333/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:78/972 Shields:1
+B-Devil Deer - HP:649/2002 Shields:3
+C-Wind Elemental - HP:254/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Devil Deer
+3.Wind Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Light Wisp - HP:78/972 Shields:1
+2: Devil Deer - HP:649/2002 Shields:3
+3: Wind Elemental - HP:254/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Devil Deer recibe 57 de daño de tipo Axe con debilidad
+Devil Deer termina con HP:592
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:8751/5336 SP:410/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3028/3222 SP:335/371 BP:4
+D-H'aanit - HP:1833/4447 SP:333/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:78/972 Shields:1
+B-Devil Deer - HP:592/2002 Shields:2
+C-Wind Elemental - HP:254/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Devil Deer usa Boar Rush
+H'aanit recibe 619 de daño físico
+H'aanit termina con HP:1214
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:8751/5336 SP:410/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3028/3222 SP:335/371 BP:4
+D-H'aanit - HP:1214/4447 SP:333/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:78/972 Shields:1
+B-Devil Deer - HP:592/2002 Shields:2
+C-Wind Elemental - HP:254/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Wind Elemental usa Windshot
+Z'aanta recibe 194 de daño elemental
+Z'aanta termina con HP:2834
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:8751/5336 SP:410/433 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:2834/3222 SP:335/371 BP:4
+D-H'aanit - HP:1214/4447 SP:333/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:78/972 Shields:1
+B-Devil Deer - HP:592/2002 Shields:2
+C-Wind Elemental - HP:254/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+H'aanit recibe 138 de daño elemental
+H'aanit termina con HP:1076
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:8751/5336 SP:410/433 BP:2
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:2834/3222 SP:335/371 BP:5
+D-H'aanit - HP:1076/4447 SP:333/369 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:78/972 Shields:1
+B-Devil Deer - HP:592/2002 Shields:2
+C-Wind Elemental - HP:254/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+H'aanit usa Heal Wounds
+Alfyn recupera 510 de vida
+Temenos recupera 510 de vida
+Z'aanta recupera 510 de vida
+H'aanit recupera 510 de vida
+Alfyn termina con HP:9261
+Temenos termina con HP:4002
+Z'aanta termina con HP:3222
+H'aanit termina con HP:1586
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:9261/5336 SP:410/433 BP:2
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3222/3222 SP:335/371 BP:5
+D-H'aanit - HP:1586/4447 SP:327/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:78/972 Shields:1
+B-Devil Deer - HP:592/2002 Shields:2
+C-Wind Elemental - HP:254/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Z'aanta
+3.Alfyn
+4.Devil Deer
+5.Wind Elemental
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Light Wisp - HP:78/972 Shields:1
+2: Devil Deer - HP:592/2002 Shields:2
+3: Wind Elemental - HP:254/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Devil Deer recibe 0 de daño de tipo Stave con debilidad
+Devil Deer termina con HP:592
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:9261/5336 SP:410/433 BP:2
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3222/3222 SP:335/371 BP:5
+D-H'aanit - HP:1586/4447 SP:327/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:78/972 Shields:1
+B-Devil Deer - HP:592/2002 Shields:2
+C-Wind Elemental - HP:254/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Alfyn
+3.Devil Deer
+4.Wind Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:9261/5336 SP:410/433 BP:2
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3222/3222 SP:335/371 BP:5
+D-H'aanit - HP:1586/4447 SP:327/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:78/972 Shields:1
+B-Devil Deer - HP:592/2002 Shields:2
+C-Wind Elemental - HP:254/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Devil Deer
+3.Wind Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.H'aanit
+3.Temenos
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Tradewinds
+2: First Aid
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Light Wisp - HP:78/972 Shields:1
+2: Devil Deer - HP:592/2002 Shields:2
+3: Wind Elemental - HP:254/2496 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Tradewinds
+Wind Elemental recibe 252 de daño de tipo Wind
+Wind Elemental termina con HP:2
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:9261/5336 SP:403/433 BP:2
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3222/3222 SP:335/371 BP:5
+D-H'aanit - HP:1586/4447 SP:327/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:78/972 Shields:1
+B-Devil Deer - HP:592/2002 Shields:2
+C-Wind Elemental - HP:2/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.H'aanit
+3.Temenos
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Devil Deer usa Boar Rush
+H'aanit recibe 619 de daño físico
+H'aanit termina con HP:967
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:9261/5336 SP:403/433 BP:2
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3222/3222 SP:335/371 BP:5
+D-H'aanit - HP:967/4447 SP:327/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:78/972 Shields:1
+B-Devil Deer - HP:592/2002 Shields:2
+C-Wind Elemental - HP:2/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.H'aanit
+3.Temenos
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Wind Elemental usa Windshot
+Z'aanta se defiende
+Z'aanta recibe 97 de daño elemental
+Z'aanta termina con HP:3125
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:9261/5336 SP:403/433 BP:2
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3125/3222 SP:335/371 BP:5
+D-H'aanit - HP:967/4447 SP:327/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:78/972 Shields:1
+B-Devil Deer - HP:592/2002 Shields:2
+C-Wind Elemental - HP:2/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.H'aanit
+3.Temenos
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+H'aanit recibe 138 de daño elemental
+H'aanit termina con HP:829
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:9261/5336 SP:403/433 BP:3
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3125/3222 SP:335/371 BP:5
+D-H'aanit - HP:829/4447 SP:327/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:78/972 Shields:1
+B-Devil Deer - HP:592/2002 Shields:2
+C-Wind Elemental - HP:2/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.H'aanit
+3.Temenos
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Light Wisp - HP:78/972 Shields:1
+2: Devil Deer - HP:592/2002 Shields:2
+3: Wind Elemental - HP:2/2496 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Wind Elemental recibe 139 de daño de tipo Bow
+Wind Elemental termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:9261/5336 SP:403/433 BP:3
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3125/3222 SP:335/371 BP:5
+D-H'aanit - HP:829/4447 SP:327/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:78/972 Shields:1
+B-Devil Deer - HP:592/2002 Shields:2
+C-Wind Elemental - HP:0/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Temenos
+3.Alfyn
+4.Devil Deer
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Light Wisp
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Light Wisp - HP:78/972 Shields:1
+2: Devil Deer - HP:592/2002 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Devil Deer recibe 48 de daño de tipo Bow
+Devil Deer termina con HP:544
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:9261/5336 SP:403/433 BP:3
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3125/3222 SP:335/371 BP:5
+D-H'aanit - HP:829/4447 SP:327/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:78/972 Shields:1
+B-Devil Deer - HP:544/2002 Shields:2
+C-Wind Elemental - HP:0/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Alfyn
+3.Devil Deer
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Light Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:9261/5336 SP:403/433 BP:3
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3125/3222 SP:335/371 BP:5
+D-H'aanit - HP:829/4447 SP:327/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:78/972 Shields:1
+B-Devil Deer - HP:544/2002 Shields:2
+C-Wind Elemental - HP:0/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Devil Deer
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.H'aanit
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Light Wisp
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:9261/5336 SP:403/433 BP:3
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3125/3222 SP:335/371 BP:5
+D-H'aanit - HP:829/4447 SP:327/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:78/972 Shields:1
+B-Devil Deer - HP:544/2002 Shields:2
+C-Wind Elemental - HP:0/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Alfyn
+3.H'aanit
+4.Z'aanta
+5.Devil Deer
+6.Light Wisp
+----------------------------------------
+Devil Deer usa Boar Rush
+H'aanit recibe 619 de daño físico
+H'aanit termina con HP:210
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:9261/5336 SP:403/433 BP:3
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3125/3222 SP:335/371 BP:5
+D-H'aanit - HP:210/4447 SP:327/369 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:78/972 Shields:1
+B-Devil Deer - HP:544/2002 Shields:2
+C-Wind Elemental - HP:0/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Alfyn
+3.H'aanit
+4.Z'aanta
+5.Devil Deer
+6.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+H'aanit recibe 138 de daño elemental
+H'aanit termina con HP:72
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:9261/5336 SP:403/433 BP:4
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3125/3222 SP:335/371 BP:5
+D-H'aanit - HP:72/4447 SP:327/369 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:78/972 Shields:1
+B-Devil Deer - HP:544/2002 Shields:2
+C-Wind Elemental - HP:0/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Alfyn
+3.H'aanit
+4.Z'aanta
+5.Devil Deer
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Light Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Light Wisp - HP:78/972 Shields:1
+2: Devil Deer - HP:544/2002 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Light Wisp recibe 18 de daño de tipo Stave
+Light Wisp termina con HP:60
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:9261/5336 SP:403/433 BP:4
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3125/3222 SP:335/371 BP:5
+D-H'aanit - HP:72/4447 SP:327/369 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:60/972 Shields:1
+B-Devil Deer - HP:544/2002 Shields:2
+C-Wind Elemental - HP:0/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.H'aanit
+3.Z'aanta
+4.Devil Deer
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Devil Deer
+6.Light Wisp
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Tradewinds
+2: First Aid
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Light Wisp - HP:60/972 Shields:1
+2: Devil Deer - HP:544/2002 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Alfyn usa Tradewinds
+Devil Deer recibe 1177 de daño de tipo Wind con debilidad
+Devil Deer termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:9261/5336 SP:396/433 BP:2
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3125/3222 SP:335/371 BP:5
+D-H'aanit - HP:72/4447 SP:327/369 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:60/972 Shields:1
+B-Devil Deer - HP:0/2002 Shields:1
+C-Wind Elemental - HP:0/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Z'aanta
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Light Wisp
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+H'aanit usa Heal Wounds
+Alfyn recupera 637 de vida
+Temenos recupera 637 de vida
+Z'aanta recupera 637 de vida
+H'aanit recupera 637 de vida
+Alfyn termina con HP:9898
+Temenos termina con HP:4002
+Z'aanta termina con HP:3222
+H'aanit termina con HP:709
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:9898/5336 SP:396/433 BP:2
+B-Temenos - HP:4002/4002 SP:432/432 BP:5
+C-Z'aanta - HP:3222/3222 SP:335/371 BP:5
+D-H'aanit - HP:709/4447 SP:321/369 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:60/972 Shields:1
+B-Devil Deer - HP:0/2002 Shields:1
+C-Wind Elemental - HP:0/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Temenos
+3.Z'aanta
+4.Alfyn
+5.Light Wisp
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Light Wisp - HP:60/972 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Light Wisp recibe 230 de daño de tipo Axe
+Light Wisp termina con HP:0
+----------------------------------------
+Gana equipo del jugador

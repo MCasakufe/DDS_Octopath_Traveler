@@ -1,0 +1,1860 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+INPUT: 39
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:392/392 BP:1
+B-Hikari - HP:5781/5781 SP:317/317 BP:1
+C-Tressa - HP:4891/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Behemoth - HP:12690/12690 Shields:8
+C-Frost Fox - HP:1302/1302 Shields:2
+D-Light Elemental - HP:1880/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Dreadwolf
+3.Hikari
+4.Behemoth
+5.Tressa
+6.Frost Fox
+7.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Hikari
+4.Behemoth
+5.Tressa
+6.Frost Fox
+7.Light Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Elemental Break
+2: Luminescence
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Heatcore usa Luminescence
+Dreadwolf recibe 307 de daño de tipo Light
+Behemoth recibe 365 de daño de tipo Light
+Frost Fox recibe 498 de daño de tipo Light
+Light Elemental recibe 658 de daño de tipo Light
+Dreadwolf termina con HP:7223
+Behemoth termina con HP:12325
+Frost Fox termina con HP:804
+Light Elemental termina con HP:1222
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:383/392 BP:0
+B-Hikari - HP:5781/5781 SP:317/317 BP:1
+C-Tressa - HP:4891/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7223/7530 Shields:9
+B-Behemoth - HP:12325/12690 Shields:8
+C-Frost Fox - HP:804/1302 Shields:2
+D-Light Elemental - HP:1222/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Hikari
+3.Behemoth
+4.Tressa
+5.Frost Fox
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Hikari
+4.Behemoth
+5.Tressa
+6.Frost Fox
+7.Light Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Heatcore recibe 762 de daño físico
+Heatcore termina con HP:2060
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2060/2822 SP:383/392 BP:0
+B-Hikari - HP:5781/5781 SP:317/317 BP:1
+C-Tressa - HP:4891/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7223/7530 Shields:9
+B-Behemoth - HP:12325/12690 Shields:8
+C-Frost Fox - HP:804/1302 Shields:2
+D-Light Elemental - HP:1222/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+3.Tressa
+4.Frost Fox
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Hikari
+4.Behemoth
+5.Tressa
+6.Frost Fox
+7.Light Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Tenebrae Operire
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Hikari no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Hikari usa Tenebrae Operire
+Dreadwolf recibe 273 de daño de tipo Dark
+Dreadwolf recibe 273 de daño de tipo Dark
+Dreadwolf recibe 273 de daño de tipo Dark
+Behemoth recibe 331 de daño de tipo Dark
+Behemoth recibe 331 de daño de tipo Dark
+Behemoth recibe 331 de daño de tipo Dark
+Frost Fox recibe 464 de daño de tipo Dark
+Frost Fox recibe 464 de daño de tipo Dark
+Frost Fox recibe 464 de daño de tipo Dark
+Light Elemental recibe 936 de daño de tipo Dark con debilidad
+Light Elemental recibe 936 de daño de tipo Dark con debilidad
+Light Elemental recibe 936 de daño de tipo Dark con debilidad
+Dreadwolf termina con HP:6404
+Behemoth termina con HP:11332
+Frost Fox termina con HP:0
+Light Elemental termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2060/2822 SP:383/392 BP:0
+B-Hikari - HP:5781/5781 SP:281/317 BP:0
+C-Tressa - HP:4891/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:6404/7530 Shields:9
+B-Behemoth - HP:11332/12690 Shields:8
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Hikari
+4.Behemoth
+5.Tressa
+----------------------------------------
+Behemoth usa Stampede
+Heatcore recibe 0 de daño físico
+Hikari recibe 642 de daño físico
+Tressa recibe 687 de daño físico
+Heatcore termina con HP:2060
+Hikari termina con HP:5139
+Tressa termina con HP:4204
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2060/2822 SP:383/392 BP:0
+B-Hikari - HP:5139/5781 SP:281/317 BP:0
+C-Tressa - HP:4204/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:6404/7530 Shields:9
+B-Behemoth - HP:11332/12690 Shields:8
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Hikari
+4.Behemoth
+5.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2060/2822 SP:383/392 BP:0
+B-Hikari - HP:5139/5781 SP:281/317 BP:0
+C-Tressa - HP:4204/4891 SP:357/357 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:6404/7530 Shields:9
+B-Behemoth - HP:11332/12690 Shields:8
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Heatcore
+3.Dreadwolf
+4.Hikari
+5.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Hikari
+4.Behemoth
+5.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Lux Congerere
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Lux Congerere
+Dreadwolf recibe 68 de daño de tipo Light
+Dreadwolf recibe 68 de daño de tipo Light
+Dreadwolf recibe 68 de daño de tipo Light
+Behemoth recibe 126 de daño de tipo Light
+Behemoth recibe 126 de daño de tipo Light
+Behemoth recibe 126 de daño de tipo Light
+Dreadwolf termina con HP:6200
+Behemoth termina con HP:10954
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2060/2822 SP:383/392 BP:0
+B-Hikari - HP:5139/5781 SP:281/317 BP:0
+C-Tressa - HP:4204/4891 SP:321/357 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:6200/7530 Shields:9
+B-Behemoth - HP:10954/12690 Shields:8
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Dreadwolf
+3.Hikari
+4.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Hikari
+4.Behemoth
+5.Tressa
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Dreadwolf - HP:6200/7530 Shields:9
+2: Behemoth - HP:10954/12690 Shields:8
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Heatcore ataca
+Behemoth recibe 3 de daño de tipo Axe con debilidad
+Behemoth termina con HP:10951
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2060/2822 SP:383/392 BP:0
+B-Hikari - HP:5139/5781 SP:281/317 BP:0
+C-Tressa - HP:4204/4891 SP:321/357 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:6200/7530 Shields:9
+B-Behemoth - HP:10951/12690 Shields:7
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Hikari
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Hikari
+4.Behemoth
+5.Tressa
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Heatcore recibe 0 de daño físico
+Heatcore termina con HP:2060
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2060/2822 SP:383/392 BP:0
+B-Hikari - HP:5139/5781 SP:281/317 BP:0
+C-Tressa - HP:4204/4891 SP:321/357 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:6200/7530 Shields:9
+B-Behemoth - HP:10951/12690 Shields:7
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Hikari
+4.Behemoth
+5.Tressa
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Dreadwolf - HP:6200/7530 Shields:9
+2: Behemoth - HP:10951/12690 Shields:7
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Hikari ataca
+Dreadwolf recibe 130 de daño de tipo Spear con debilidad
+Dreadwolf termina con HP:6070
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2060/2822 SP:383/392 BP:0
+B-Hikari - HP:5139/5781 SP:281/317 BP:0
+C-Tressa - HP:4204/4891 SP:321/357 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:6070/7530 Shields:8
+B-Behemoth - HP:10951/12690 Shields:7
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Hikari
+4.Behemoth
+5.Tressa
+----------------------------------------
+Behemoth usa Stampede
+Heatcore recibe 740 de daño físico
+Hikari recibe 642 de daño físico
+Tressa recibe 687 de daño físico
+Heatcore termina con HP:1320
+Hikari termina con HP:4497
+Tressa termina con HP:3517
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1320/2822 SP:383/392 BP:1
+B-Hikari - HP:4497/5781 SP:281/317 BP:1
+C-Tressa - HP:3517/4891 SP:321/357 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:6070/7530 Shields:8
+B-Behemoth - HP:10951/12690 Shields:7
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Dreadwolf
+3.Hikari
+4.Behemoth
+5.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Hikari
+4.Behemoth
+5.Tressa
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Elemental Break
+2: Luminescence
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Dreadwolf - HP:6070/7530 Shields:8
+2: Behemoth - HP:10951/12690 Shields:7
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Heatcore usa Elemental Break
+Dreadwolf recibe 928 de daño de tipo Stave
+Dreadwolf tendrá Decreased Elemental Defense durante 2 rondas
+Dreadwolf termina con HP:5142
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1320/2822 SP:363/392 BP:0
+B-Hikari - HP:4497/5781 SP:281/317 BP:1
+C-Tressa - HP:3517/4891 SP:321/357 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:5142/7530 Shields:8
+B-Behemoth - HP:10951/12690 Shields:7
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Hikari
+3.Behemoth
+4.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Hikari
+4.Behemoth
+5.Tressa
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Heatcore recibe 0 de daño físico
+Heatcore termina con HP:1320
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1320/2822 SP:363/392 BP:0
+B-Hikari - HP:4497/5781 SP:281/317 BP:1
+C-Tressa - HP:3517/4891 SP:321/357 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:5142/7530 Shields:8
+B-Behemoth - HP:10951/12690 Shields:7
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+3.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Hikari
+4.Behemoth
+5.Tressa
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Tenebrae Operire
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Tenebrae Operire
+Dreadwolf recibe 0 de daño de tipo Dark
+Dreadwolf recibe 0 de daño de tipo Dark
+Dreadwolf recibe 0 de daño de tipo Dark
+Behemoth recibe 0 de daño de tipo Dark
+Behemoth recibe 0 de daño de tipo Dark
+Behemoth recibe 0 de daño de tipo Dark
+Dreadwolf termina con HP:5142
+Behemoth termina con HP:10951
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1320/2822 SP:363/392 BP:0
+B-Hikari - HP:4497/5781 SP:245/317 BP:1
+C-Tressa - HP:3517/4891 SP:321/357 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:5142/7530 Shields:8
+B-Behemoth - HP:10951/12690 Shields:7
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Hikari
+4.Behemoth
+5.Tressa
+----------------------------------------
+Behemoth usa Stampede
+Heatcore recibe 740 de daño físico
+Hikari recibe 642 de daño físico
+Tressa recibe 687 de daño físico
+Heatcore termina con HP:580
+Hikari termina con HP:3855
+Tressa termina con HP:2830
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:580/2822 SP:363/392 BP:0
+B-Hikari - HP:3855/5781 SP:245/317 BP:1
+C-Tressa - HP:2830/4891 SP:321/357 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:5142/7530 Shields:8
+B-Behemoth - HP:10951/12690 Shields:7
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Hikari
+4.Behemoth
+5.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Dreadwolf - HP:5142/7530 Shields:8
+2: Behemoth - HP:10951/12690 Shields:7
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa ataca
+Behemoth recibe 73 de daño de tipo Bow con debilidad
+Behemoth recibe 73 de daño de tipo Bow con debilidad
+Behemoth recibe 73 de daño de tipo Bow con debilidad
+Tressa recupera 2 SP
+Behemoth termina con HP:10732
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:580/2822 SP:363/392 BP:0
+B-Hikari - HP:3855/5781 SP:245/317 BP:2
+C-Tressa - HP:2830/4891 SP:323/357 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:5142/7530 Shields:8
+B-Behemoth - HP:10732/12690 Shields:4
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Dreadwolf
+3.Hikari
+4.Behemoth
+5.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Hikari
+4.Behemoth
+5.Tressa
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Elemental Break
+2: Luminescence
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Heatcore usa Luminescence
+Dreadwolf recibe 0 de daño de tipo Light
+Behemoth recibe 0 de daño de tipo Light
+Dreadwolf termina con HP:5142
+Behemoth termina con HP:10732
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:580/2822 SP:354/392 BP:0
+B-Hikari - HP:3855/5781 SP:245/317 BP:2
+C-Tressa - HP:2830/4891 SP:323/357 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:5142/7530 Shields:8
+B-Behemoth - HP:10732/12690 Shields:4
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Hikari
+3.Behemoth
+4.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Hikari
+4.Behemoth
+5.Tressa
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Heatcore recibe 0 de daño físico
+Heatcore termina con HP:580
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:580/2822 SP:354/392 BP:0
+B-Hikari - HP:3855/5781 SP:245/317 BP:2
+C-Tressa - HP:2830/4891 SP:323/357 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:5142/7530 Shields:8
+B-Behemoth - HP:10732/12690 Shields:4
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+3.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Hikari
+4.Behemoth
+5.Tressa
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Dreadwolf - HP:5142/7530 Shields:8
+2: Behemoth - HP:10732/12690 Shields:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Hikari no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Hikari no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Hikari ataca
+Dreadwolf recibe 130 de daño de tipo Spear con debilidad
+Dreadwolf recibe 130 de daño de tipo Spear con debilidad
+Dreadwolf termina con HP:4882
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:580/2822 SP:354/392 BP:0
+B-Hikari - HP:3855/5781 SP:245/317 BP:1
+C-Tressa - HP:2830/4891 SP:323/357 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:4882/7530 Shields:6
+B-Behemoth - HP:10732/12690 Shields:4
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Hikari
+4.Behemoth
+5.Tressa
+----------------------------------------
+Behemoth usa Stampede
+Heatcore recibe 0 de daño físico
+Hikari recibe 642 de daño físico
+Tressa recibe 687 de daño físico
+Heatcore termina con HP:580
+Hikari termina con HP:3213
+Tressa termina con HP:2143
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:580/2822 SP:354/392 BP:0
+B-Hikari - HP:3213/5781 SP:245/317 BP:1
+C-Tressa - HP:2143/4891 SP:323/357 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:4882/7530 Shields:6
+B-Behemoth - HP:10732/12690 Shields:4
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Hikari
+4.Behemoth
+5.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Lux Congerere
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa usa Lux Congerere
+Dreadwolf recibe 879 de daño de tipo Light
+Dreadwolf recibe 879 de daño de tipo Light
+Dreadwolf recibe 879 de daño de tipo Light
+Behemoth recibe 644 de daño de tipo Light
+Behemoth recibe 644 de daño de tipo Light
+Behemoth recibe 644 de daño de tipo Light
+Dreadwolf termina con HP:2245
+Behemoth termina con HP:8800
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:580/2822 SP:354/392 BP:1
+B-Hikari - HP:3213/5781 SP:245/317 BP:1
+C-Tressa - HP:2143/4891 SP:287/357 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:2245/7530 Shields:6
+B-Behemoth - HP:8800/12690 Shields:4
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Dreadwolf
+3.Hikari
+4.Behemoth
+5.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Hikari
+4.Behemoth
+5.Tressa
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Elemental Break
+2: Luminescence
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Dreadwolf - HP:2245/7530 Shields:6
+2: Behemoth - HP:8800/12690 Shields:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Heatcore no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore usa Elemental Break
+Dreadwolf recibe 232 de daño de tipo Stave
+Dreadwolf tendrá Decreased Elemental Defense durante 2 rondas
+Dreadwolf termina con HP:2013
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:580/2822 SP:334/392 BP:1
+B-Hikari - HP:3213/5781 SP:245/317 BP:1
+C-Tressa - HP:2143/4891 SP:287/357 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:2013/7530 Shields:6
+B-Behemoth - HP:8800/12690 Shields:4
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Hikari
+3.Behemoth
+4.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Hikari
+4.Behemoth
+5.Tressa
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Heatcore recibe 762 de daño físico
+Heatcore termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:334/392 BP:1
+B-Hikari - HP:3213/5781 SP:245/317 BP:1
+C-Tressa - HP:2143/4891 SP:287/357 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:2013/7530 Shields:6
+B-Behemoth - HP:8800/12690 Shields:4
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+3.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Hikari
+3.Behemoth
+4.Tressa
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:334/392 BP:1
+B-Hikari - HP:3213/5781 SP:245/317 BP:1
+C-Tressa - HP:2143/4891 SP:287/357 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:2013/7530 Shields:6
+B-Behemoth - HP:8800/12690 Shields:4
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Dreadwolf
+3.Behemoth
+4.Tressa
+----------------------------------------
+Behemoth usa Stampede
+Hikari se defiende
+Hikari recibe 321 de daño físico
+Tressa recibe 687 de daño físico
+Hikari termina con HP:2892
+Tressa termina con HP:1456
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:334/392 BP:1
+B-Hikari - HP:2892/5781 SP:245/317 BP:1
+C-Tressa - HP:1456/4891 SP:287/357 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:2013/7530 Shields:6
+B-Behemoth - HP:8800/12690 Shields:4
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Dreadwolf
+3.Behemoth
+4.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Dreadwolf - HP:2013/7530 Shields:6
+2: Behemoth - HP:8800/12690 Shields:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Dreadwolf recibe 35 de daño de tipo Bow
+Dreadwolf termina con HP:1978
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:334/392 BP:1
+B-Hikari - HP:2892/5781 SP:245/317 BP:2
+C-Tressa - HP:1456/4891 SP:287/357 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:1978/7530 Shields:6
+B-Behemoth - HP:8800/12690 Shields:4
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Dreadwolf
+3.Behemoth
+4.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Hikari
+3.Behemoth
+4.Tressa
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Tenebrae Operire
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Tenebrae Operire
+Dreadwolf recibe 0 de daño de tipo Dark
+Dreadwolf recibe 0 de daño de tipo Dark
+Dreadwolf recibe 0 de daño de tipo Dark
+Behemoth recibe 0 de daño de tipo Dark
+Behemoth recibe 0 de daño de tipo Dark
+Behemoth recibe 0 de daño de tipo Dark
+Dreadwolf termina con HP:1978
+Behemoth termina con HP:8800
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:334/392 BP:1
+B-Hikari - HP:2892/5781 SP:209/317 BP:2
+C-Tressa - HP:1456/4891 SP:287/357 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:1978/7530 Shields:6
+B-Behemoth - HP:8800/12690 Shields:4
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Behemoth
+3.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Hikari
+3.Behemoth
+4.Tressa
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Tressa recibe 709 de daño físico
+Tressa termina con HP:747
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:334/392 BP:1
+B-Hikari - HP:2892/5781 SP:209/317 BP:2
+C-Tressa - HP:747/4891 SP:287/357 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:1978/7530 Shields:6
+B-Behemoth - HP:8800/12690 Shields:4
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Hikari
+3.Behemoth
+4.Tressa
+----------------------------------------
+Behemoth usa Stampede
+Hikari recibe 642 de daño físico
+Tressa recibe 687 de daño físico
+Hikari termina con HP:2250
+Tressa termina con HP:60
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:334/392 BP:1
+B-Hikari - HP:2250/5781 SP:209/317 BP:2
+C-Tressa - HP:60/4891 SP:287/357 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:1978/7530 Shields:6
+B-Behemoth - HP:8800/12690 Shields:4
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Hikari
+3.Behemoth
+4.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Lux Congerere
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa usa Lux Congerere
+Dreadwolf recibe 879 de daño de tipo Light
+Dreadwolf recibe 879 de daño de tipo Light
+Dreadwolf recibe 879 de daño de tipo Light
+Behemoth recibe 644 de daño de tipo Light
+Behemoth recibe 644 de daño de tipo Light
+Behemoth recibe 644 de daño de tipo Light
+Dreadwolf termina con HP:0
+Behemoth termina con HP:6868
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:334/392 BP:1
+B-Hikari - HP:2250/5781 SP:209/317 BP:3
+C-Tressa - HP:60/4891 SP:251/357 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:0/7530 Shields:6
+B-Behemoth - HP:6868/12690 Shields:4
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+3.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+3.Tressa
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:334/392 BP:1
+B-Hikari - HP:2250/5781 SP:209/317 BP:3
+C-Tressa - HP:60/4891 SP:251/357 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:0/7530 Shields:6
+B-Behemoth - HP:6868/12690 Shields:4
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+3.Tressa
+----------------------------------------
+Behemoth usa Stampede
+Hikari se defiende
+Hikari recibe 321 de daño físico
+Tressa recibe 687 de daño físico
+Hikari termina con HP:1929
+Tressa termina con HP:0
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:334/392 BP:1
+B-Hikari - HP:1929/5781 SP:209/317 BP:4
+C-Tressa - HP:0/4891 SP:251/357 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:0/7530 Shields:6
+B-Behemoth - HP:6868/12690 Shields:4
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Behemoth - HP:6868/12690 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Behemoth recibe 101 de daño de tipo Sword
+Behemoth termina con HP:6767
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:334/392 BP:1
+B-Hikari - HP:1929/5781 SP:209/317 BP:4
+C-Tressa - HP:0/4891 SP:251/357 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:0/7530 Shields:6
+B-Behemoth - HP:6767/12690 Shields:4
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Hikari recibe 642 de daño físico
+Hikari termina con HP:1287
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:334/392 BP:1
+B-Hikari - HP:1287/5781 SP:209/317 BP:5
+C-Tressa - HP:0/4891 SP:251/357 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:0/7530 Shields:6
+B-Behemoth - HP:6767/12690 Shields:4
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Behemoth - HP:6767/12690 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Hikari ataca
+Behemoth recibe 101 de daño de tipo Sword
+Behemoth recibe 101 de daño de tipo Sword
+Behemoth termina con HP:6565
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:334/392 BP:1
+B-Hikari - HP:1287/5781 SP:209/317 BP:4
+C-Tressa - HP:0/4891 SP:251/357 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:0/7530 Shields:6
+B-Behemoth - HP:6565/12690 Shields:4
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Hikari recibe 642 de daño físico
+Hikari termina con HP:645
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:334/392 BP:1
+B-Hikari - HP:645/5781 SP:209/317 BP:4
+C-Tressa - HP:0/4891 SP:251/357 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:0/7530 Shields:6
+B-Behemoth - HP:6565/12690 Shields:4
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Behemoth - HP:6565/12690 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Hikari ataca
+Behemoth recibe 151 de daño de tipo Spear con debilidad
+Behemoth recibe 151 de daño de tipo Spear con debilidad
+Behemoth recibe 151 de daño de tipo Spear con debilidad
+Behemoth recibe 151 de daño de tipo Spear con debilidad
+Behemoth entra en Breaking Point
+Behemoth termina con HP:5961
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:334/392 BP:1
+B-Hikari - HP:645/5781 SP:209/317 BP:1
+C-Tressa - HP:0/4891 SP:251/357 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:0/7530 Shields:6
+B-Behemoth - HP:5961/12690 Shields:0
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Hikari
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:334/392 BP:1
+B-Hikari - HP:645/5781 SP:209/317 BP:2
+C-Tressa - HP:0/4891 SP:251/357 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:0/7530 Shields:6
+B-Behemoth - HP:5961/12690 Shields:8
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Hikari recibe 642 de daño físico
+Hikari termina con HP:3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:334/392 BP:1
+B-Hikari - HP:3/5781 SP:209/317 BP:2
+C-Tressa - HP:0/4891 SP:251/357 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:0/7530 Shields:6
+B-Behemoth - HP:5961/12690 Shields:8
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:334/392 BP:1
+B-Hikari - HP:3/5781 SP:209/317 BP:3
+C-Tressa - HP:0/4891 SP:251/357 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:0/7530 Shields:6
+B-Behemoth - HP:5961/12690 Shields:8
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Behemoth - HP:5961/12690 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Hikari ataca
+Behemoth recibe 151 de daño de tipo Spear con debilidad
+Behemoth recibe 151 de daño de tipo Spear con debilidad
+Behemoth recibe 151 de daño de tipo Spear con debilidad
+Behemoth termina con HP:5508
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:334/392 BP:1
+B-Hikari - HP:3/5781 SP:209/317 BP:1
+C-Tressa - HP:0/4891 SP:251/357 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:0/7530 Shields:6
+B-Behemoth - HP:5508/12690 Shields:5
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Hikari recibe 642 de daño físico
+Hikari revive
+Hikari termina con HP:1445
+----------------------------------------
+INICIA RONDA 14
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:334/392 BP:1
+B-Hikari - HP:1445/5781 SP:209/317 BP:1
+C-Tressa - HP:0/4891 SP:251/357 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:0/7530 Shields:6
+B-Behemoth - HP:5508/12690 Shields:5
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Tenebrae Operire
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Hikari no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Hikari no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Hikari no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Tenebrae Operire
+Behemoth recibe 0 de daño de tipo Dark
+Behemoth recibe 0 de daño de tipo Dark
+Behemoth recibe 0 de daño de tipo Dark
+Behemoth termina con HP:5508
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:334/392 BP:1
+B-Hikari - HP:1445/5781 SP:173/317 BP:1
+C-Tressa - HP:0/4891 SP:251/357 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:0/7530 Shields:6
+B-Behemoth - HP:5508/12690 Shields:5
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Hikari recibe 642 de daño físico
+Hikari termina con HP:803
+----------------------------------------
+INICIA RONDA 15
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:334/392 BP:1
+B-Hikari - HP:803/5781 SP:173/317 BP:2
+C-Tressa - HP:0/4891 SP:251/357 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:0/7530 Shields:6
+B-Behemoth - HP:5508/12690 Shields:5
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Tenebrae Operire
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Tenebrae Operire
+Behemoth recibe 0 de daño de tipo Dark
+Behemoth recibe 0 de daño de tipo Dark
+Behemoth recibe 0 de daño de tipo Dark
+Behemoth termina con HP:5508
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:334/392 BP:1
+B-Hikari - HP:803/5781 SP:137/317 BP:2
+C-Tressa - HP:0/4891 SP:251/357 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:0/7530 Shields:6
+B-Behemoth - HP:5508/12690 Shields:5
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Hikari recibe 642 de daño físico
+Hikari termina con HP:161
+----------------------------------------
+INICIA RONDA 16
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:334/392 BP:1
+B-Hikari - HP:161/5781 SP:137/317 BP:3
+C-Tressa - HP:0/4891 SP:251/357 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:0/7530 Shields:6
+B-Behemoth - HP:5508/12690 Shields:5
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Behemoth - HP:5508/12690 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Hikari ataca
+Behemoth recibe 101 de daño de tipo Sword
+Behemoth recibe 101 de daño de tipo Sword
+Behemoth recibe 101 de daño de tipo Sword
+Behemoth recibe 101 de daño de tipo Sword
+Behemoth termina con HP:5104
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:334/392 BP:1
+B-Hikari - HP:161/5781 SP:137/317 BP:0
+C-Tressa - HP:0/4891 SP:251/357 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:0/7530 Shields:6
+B-Behemoth - HP:5104/12690 Shields:5
+C-Frost Fox - HP:0/1302 Shields:2
+D-Light Elemental - HP:0/1880 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Hikari recibe 642 de daño físico
+Hikari termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

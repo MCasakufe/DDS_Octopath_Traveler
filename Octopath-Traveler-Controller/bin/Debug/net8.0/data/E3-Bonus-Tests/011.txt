@@ -1,0 +1,972 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+INPUT: 10
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-Primrose - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Forest Fox - HP:1380/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ophilia
+3.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Forest Fox
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Forest Fox - HP:1380/1380 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Forest Fox recibe 41 de daño de tipo Dagger
+Forest Fox termina con HP:1339
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-Primrose - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Forest Fox - HP:1339/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Forest Fox
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Forest Fox - HP:1339/1380 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Forest Fox recibe 55 de daño de tipo Stave
+Forest Fox termina con HP:1284
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-Primrose - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Forest Fox - HP:1284/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Forest Fox
+----------------------------------------
+Forest Fox usa Double Bite
+Primrose recibe 254 de daño físico
+Primrose recibe 254 de daño físico
+Primrose termina con HP:3494
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:2
+B-Primrose - HP:3494/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:1284/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ophilia
+3.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Forest Fox
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Forest Fox - HP:1284/1380 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Forest Fox recibe 41 de daño de tipo Dagger
+Forest Fox termina con HP:1243
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:2
+B-Primrose - HP:3494/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:1243/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Forest Fox
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Forest Fox - HP:1243/1380 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Forest Fox recibe 55 de daño de tipo Stave
+Forest Fox termina con HP:1188
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:2
+B-Primrose - HP:3494/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:1188/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Forest Fox
+----------------------------------------
+Forest Fox usa Double Bite
+Primrose recibe 254 de daño físico
+Primrose recibe 254 de daño físico
+Primrose termina con HP:2986
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:3
+B-Primrose - HP:2986/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Forest Fox - HP:1188/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ophilia
+3.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Forest Fox
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Forest Fox - HP:1188/1380 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Forest Fox recibe 41 de daño de tipo Dagger
+Forest Fox termina con HP:1147
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:3
+B-Primrose - HP:2986/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Forest Fox - HP:1147/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Forest Fox
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Forest Fox - HP:1147/1380 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Forest Fox recibe 55 de daño de tipo Stave
+Forest Fox termina con HP:1092
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:3
+B-Primrose - HP:2986/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Forest Fox - HP:1092/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Forest Fox
+----------------------------------------
+Forest Fox usa Double Bite
+Primrose recibe 254 de daño físico
+Primrose recibe 254 de daño físico
+Primrose termina con HP:2478
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:4
+B-Primrose - HP:2478/4002 SP:504/504 BP:4
+Equipo del enemigo
+A-Forest Fox - HP:1092/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ophilia
+3.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Forest Fox
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Forest Fox - HP:1092/1380 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Forest Fox recibe 41 de daño de tipo Dagger
+Forest Fox termina con HP:1051
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:4
+B-Primrose - HP:2478/4002 SP:504/504 BP:4
+Equipo del enemigo
+A-Forest Fox - HP:1051/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Forest Fox
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Forest Fox - HP:1051/1380 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Forest Fox recibe 55 de daño de tipo Stave
+Forest Fox termina con HP:996
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:4
+B-Primrose - HP:2478/4002 SP:504/504 BP:4
+Equipo del enemigo
+A-Forest Fox - HP:996/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Forest Fox
+----------------------------------------
+Forest Fox usa Double Bite
+Primrose recibe 254 de daño físico
+Primrose recibe 254 de daño físico
+Primrose termina con HP:1970
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-Primrose - HP:1970/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Fox - HP:996/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ophilia
+3.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Forest Fox
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Forest Fox - HP:996/1380 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Forest Fox recibe 41 de daño de tipo Dagger
+Forest Fox termina con HP:955
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-Primrose - HP:1970/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Fox - HP:955/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Forest Fox
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Forest Fox - HP:955/1380 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Forest Fox recibe 55 de daño de tipo Stave
+Forest Fox termina con HP:900
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-Primrose - HP:1970/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Fox - HP:900/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Forest Fox
+----------------------------------------
+Forest Fox usa Double Bite
+Primrose recibe 254 de daño físico
+Primrose recibe 254 de daño físico
+Primrose termina con HP:1462
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-Primrose - HP:1462/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Fox - HP:900/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ophilia
+3.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Forest Fox
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Forest Fox - HP:900/1380 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Forest Fox recibe 41 de daño de tipo Dagger
+Forest Fox termina con HP:859
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-Primrose - HP:1462/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Fox - HP:859/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Forest Fox
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Forest Fox - HP:859/1380 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Forest Fox recibe 55 de daño de tipo Stave
+Forest Fox termina con HP:804
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-Primrose - HP:1462/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Fox - HP:804/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Forest Fox
+----------------------------------------
+Forest Fox usa Double Bite
+Primrose recibe 254 de daño físico
+Primrose recibe 254 de daño físico
+Primrose termina con HP:954
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-Primrose - HP:954/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Fox - HP:804/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ophilia
+3.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Forest Fox
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Forest Fox - HP:804/1380 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Forest Fox recibe 41 de daño de tipo Dagger
+Forest Fox termina con HP:763
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-Primrose - HP:954/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Fox - HP:763/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Forest Fox
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Forest Fox - HP:763/1380 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Forest Fox recibe 55 de daño de tipo Stave
+Forest Fox termina con HP:708
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-Primrose - HP:954/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Fox - HP:708/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Forest Fox
+----------------------------------------
+Forest Fox usa Double Bite
+Primrose recibe 254 de daño físico
+Primrose recibe 254 de daño físico
+Primrose termina con HP:446
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-Primrose - HP:446/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Fox - HP:708/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ophilia
+3.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Forest Fox
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Aelfric's Auspices
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Ophilia - HP:4002/4002 SP:470/470 BP:5
+2: Primrose - HP:446/4002 SP:504/504 BP:5
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Primrose usa Aelfric's Auspices
+Ophilia activará sus habilidades 2 veces durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-Primrose - HP:446/4002 SP:474/504 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:708/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Forest Fox
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Forest Fox - HP:708/1380 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Forest Fox recibe 55 de daño de tipo Stave
+Forest Fox termina con HP:653
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-Primrose - HP:446/4002 SP:474/504 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:653/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Forest Fox
+----------------------------------------
+Forest Fox usa Double Bite
+Primrose recibe 254 de daño físico
+Primrose recibe 254 de daño físico
+Primrose termina con HP:0
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-Primrose - HP:0/4002 SP:474/504 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:653/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Forest Fox
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Primrose - HP:0/4002 SP:474/504 BP:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Vivify
+Primrose revive
+Primrose recupera 598 de vida
+Primrose recupera 598 de vida
+Primrose termina con HP:1197
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:454/470 BP:5
+B-Primrose - HP:1197/4002 SP:474/504 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:653/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Forest Fox
+----------------------------------------
+Forest Fox usa Double Bite
+Primrose recibe 254 de daño físico
+Primrose recibe 254 de daño físico
+Primrose termina con HP:689
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:454/470 BP:5
+B-Primrose - HP:689/4002 SP:474/504 BP:3
+Equipo del enemigo
+A-Forest Fox - HP:653/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ophilia
+3.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Forest Fox
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Forest Fox - HP:653/1380 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Forest Fox recibe 41 de daño de tipo Dagger
+Forest Fox termina con HP:612
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:454/470 BP:5
+B-Primrose - HP:689/4002 SP:474/504 BP:3
+Equipo del enemigo
+A-Forest Fox - HP:612/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Forest Fox
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo

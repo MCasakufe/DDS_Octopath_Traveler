@@ -1,0 +1,513 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+INPUT: 26
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:1
+B-Throné - HP:4447/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Monarch - HP:6740/6740 Shields:8
+B-Albino Bat - HP:1896/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Hikari
+3.Monarch
+4.Albino Bat
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Hikari
+3.Monarch
+4.Albino Bat
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:1
+B-Throné - HP:4447/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Monarch - HP:6740/6740 Shields:8
+B-Albino Bat - HP:1896/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Monarch
+3.Albino Bat
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Hikari
+3.Monarch
+4.Albino Bat
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Tenebrae Operire
+2: Thousand Spears
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Hikari usa Tenebrae Operire
+Monarch recibe 570 de daño de tipo Dark con debilidad
+Monarch recibe 570 de daño de tipo Dark con debilidad
+Monarch recibe 570 de daño de tipo Dark con debilidad
+Albino Bat recibe 790 de daño de tipo Dark con debilidad
+Albino Bat recibe 790 de daño de tipo Dark con debilidad
+Albino Bat recibe 790 de daño de tipo Dark con debilidad
+Monarch termina con HP:5030
+Albino Bat termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:281/317 BP:0
+B-Throné - HP:4447/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Monarch - HP:5030/6740 Shields:5
+B-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Hikari
+3.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Hikari recibe 375 de daño elemental
+Throné se defiende
+Throné recibe 209 de daño elemental
+Hikari termina con HP:5406
+Throné termina con HP:4238
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5406/5781 SP:281/317 BP:0
+B-Throné - HP:4238/4447 SP:332/332 BP:3
+Equipo del enemigo
+A-Monarch - HP:5030/6740 Shields:5
+B-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Hikari
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Hikari
+3.Monarch
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Lux Congerere
+2: Armor Corrosive
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Throné usa Lux Congerere
+Monarch recibe 1380 de daño de tipo Light
+Monarch recibe 1380 de daño de tipo Light
+Monarch recibe 1380 de daño de tipo Light
+Monarch termina con HP:890
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5406/5781 SP:281/317 BP:0
+B-Throné - HP:4238/4447 SP:296/332 BP:0
+Equipo del enemigo
+A-Monarch - HP:890/6740 Shields:5
+B-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Hikari
+3.Monarch
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Tenebrae Operire
+2: Thousand Spears
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Hikari usa Thousand Spears
+Monarch recibe 0 de daño de tipo Spear con debilidad
+Monarch recibe 0 de daño de tipo Spear con debilidad
+Monarch recibe 0 de daño de tipo Spear con debilidad
+Monarch recibe 0 de daño de tipo Spear con debilidad
+Monarch recibe 0 de daño de tipo Spear con debilidad
+Monarch recibe 0 de daño de tipo Spear con debilidad
+Monarch recibe 0 de daño de tipo Spear con debilidad
+Monarch termina con HP:890
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5406/5781 SP:261/317 BP:0
+B-Throné - HP:4238/4447 SP:296/332 BP:0
+Equipo del enemigo
+A-Monarch - HP:890/6740 Shields:5
+B-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Hikari
+3.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Hikari recibe 375 de daño elemental
+Throné recibe 418 de daño elemental
+Hikari termina con HP:5031
+Throné termina con HP:3820
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5031/5781 SP:261/317 BP:1
+B-Throné - HP:3820/4447 SP:296/332 BP:0
+Equipo del enemigo
+A-Monarch - HP:890/6740 Shields:5
+B-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Hikari
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Hikari
+3.Monarch
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Monarch - HP:890/6740 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Throné ataca
+Monarch recibe 175 de daño de tipo Dagger
+Throné recupera 1 SP
+Monarch termina con HP:715
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5031/5781 SP:261/317 BP:1
+B-Throné - HP:3820/4447 SP:297/332 BP:0
+Equipo del enemigo
+A-Monarch - HP:715/6740 Shields:5
+B-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Hikari
+3.Monarch
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Tenebrae Operire
+2: Thousand Spears
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Thousand Spears
+Monarch recibe 0 de daño de tipo Spear con debilidad
+Monarch recibe 0 de daño de tipo Spear con debilidad
+Monarch recibe 0 de daño de tipo Spear con debilidad
+Monarch recibe 0 de daño de tipo Spear con debilidad
+Monarch recibe 0 de daño de tipo Spear con debilidad
+Monarch recibe 0 de daño de tipo Spear con debilidad
+Monarch recibe 0 de daño de tipo Spear con debilidad
+Monarch termina con HP:715
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5031/5781 SP:241/317 BP:1
+B-Throné - HP:3820/4447 SP:297/332 BP:0
+Equipo del enemigo
+A-Monarch - HP:715/6740 Shields:5
+B-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Hikari
+3.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Hikari recibe 375 de daño elemental
+Throné recibe 418 de daño elemental
+Hikari termina con HP:4656
+Throné termina con HP:3402
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4656/5781 SP:241/317 BP:2
+B-Throné - HP:3402/4447 SP:297/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:715/6740 Shields:5
+B-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Hikari
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Hikari
+3.Monarch
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Lux Congerere
+2: Armor Corrosive
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Throné no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné usa Lux Congerere
+Monarch recibe 80 de daño de tipo Light
+Monarch recibe 80 de daño de tipo Light
+Monarch recibe 80 de daño de tipo Light
+Monarch termina con HP:475
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4656/5781 SP:241/317 BP:2
+B-Throné - HP:3402/4447 SP:261/332 BP:1
+Equipo del enemigo
+A-Monarch - HP:475/6740 Shields:5
+B-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Hikari
+3.Monarch
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Monarch - HP:475/6740 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Hikari ataca
+Monarch recibe 313 de daño de tipo Spear con debilidad
+Monarch recibe 313 de daño de tipo Spear con debilidad
+Hikari recupera 6 SP
+Monarch termina con HP:0
+----------------------------------------
+Gana equipo del jugador

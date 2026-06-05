@@ -1,0 +1,921 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+INPUT: 23
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Heatcore - HP:2822/2822 SP:342/342 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Dreadwolf
+3.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Olberic
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Dreadwolf - HP:7530/7530 Shields:9
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore ataca
+Dreadwolf recibe 0 de daño de tipo Bow
+Dreadwolf termina con HP:7530
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Heatcore - HP:2822/2822 SP:342/342 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Olberic
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Heatcore recibe 762 de daño físico
+Heatcore termina con HP:2060
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Heatcore - HP:2060/2822 SP:342/342 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Dreadwolf - HP:7530/7530 Shields:9
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Dreadwolf recibe 100 de daño de tipo Sword
+Dreadwolf termina con HP:7430
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:2
+B-Heatcore - HP:2060/2822 SP:342/342 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:7430/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Dreadwolf
+3.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Olberic
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Dreadwolf - HP:7430/7530 Shields:9
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore ataca
+Dreadwolf recibe 0 de daño de tipo Bow
+Dreadwolf termina con HP:7430
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:2
+B-Heatcore - HP:2060/2822 SP:342/342 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:7430/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Olberic
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Heatcore recibe 762 de daño físico
+Heatcore termina con HP:1298
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:2
+B-Heatcore - HP:1298/2822 SP:342/342 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:7430/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Dreadwolf - HP:7430/7530 Shields:9
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Dreadwolf recibe 100 de daño de tipo Sword
+Dreadwolf termina con HP:7330
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:3
+B-Heatcore - HP:1298/2822 SP:342/342 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:7330/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Dreadwolf
+3.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Olberic
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Dreadwolf - HP:7330/7530 Shields:9
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore ataca
+Dreadwolf recibe 0 de daño de tipo Bow
+Dreadwolf termina con HP:7330
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:3
+B-Heatcore - HP:1298/2822 SP:342/342 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:7330/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Olberic
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Heatcore recibe 762 de daño físico
+Heatcore termina con HP:536
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:3
+B-Heatcore - HP:536/2822 SP:342/342 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:7330/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Dreadwolf - HP:7330/7530 Shields:9
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Dreadwolf recibe 100 de daño de tipo Sword
+Dreadwolf termina con HP:7230
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:4
+B-Heatcore - HP:536/2822 SP:342/342 BP:4
+Equipo del enemigo
+A-Dreadwolf - HP:7230/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Dreadwolf
+3.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Olberic
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Dreadwolf - HP:7230/7530 Shields:9
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore ataca
+Dreadwolf recibe 0 de daño de tipo Bow
+Dreadwolf termina con HP:7230
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:4
+B-Heatcore - HP:536/2822 SP:342/342 BP:4
+Equipo del enemigo
+A-Dreadwolf - HP:7230/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Olberic
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Heatcore recibe 762 de daño físico
+Heatcore termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:4
+B-Heatcore - HP:0/2822 SP:342/342 BP:4
+Equipo del enemigo
+A-Dreadwolf - HP:7230/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Dreadwolf - HP:7230/7530 Shields:9
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Dreadwolf recibe 100 de daño de tipo Sword
+Dreadwolf termina con HP:7130
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Heatcore - HP:0/2822 SP:342/342 BP:4
+Equipo del enemigo
+A-Dreadwolf - HP:7130/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Olberic recibe 664 de daño físico
+Olberic termina con HP:5117
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5117/5781 SP:291/291 BP:5
+B-Heatcore - HP:0/2822 SP:342/342 BP:4
+Equipo del enemigo
+A-Dreadwolf - HP:7130/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Dreadwolf - HP:7130/7530 Shields:9
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Dreadwolf recibe 100 de daño de tipo Sword
+Dreadwolf termina con HP:7030
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5117/5781 SP:291/291 BP:5
+B-Heatcore - HP:0/2822 SP:342/342 BP:4
+Equipo del enemigo
+A-Dreadwolf - HP:7030/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Olberic recibe 664 de daño físico
+Olberic termina con HP:4453
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4453/5781 SP:291/291 BP:5
+B-Heatcore - HP:0/2822 SP:342/342 BP:4
+Equipo del enemigo
+A-Dreadwolf - HP:7030/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Dreadwolf - HP:7030/7530 Shields:9
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Dreadwolf recibe 100 de daño de tipo Sword
+Dreadwolf termina con HP:6930
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4453/5781 SP:291/291 BP:5
+B-Heatcore - HP:0/2822 SP:342/342 BP:4
+Equipo del enemigo
+A-Dreadwolf - HP:6930/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Olberic recibe 664 de daño físico
+Olberic termina con HP:3789
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3789/5781 SP:291/291 BP:5
+B-Heatcore - HP:0/2822 SP:342/342 BP:4
+Equipo del enemigo
+A-Dreadwolf - HP:6930/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Dreadwolf - HP:6930/7530 Shields:9
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Dreadwolf recibe 100 de daño de tipo Sword
+Dreadwolf termina con HP:6830
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3789/5781 SP:291/291 BP:5
+B-Heatcore - HP:0/2822 SP:342/342 BP:4
+Equipo del enemigo
+A-Dreadwolf - HP:6830/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Olberic recibe 664 de daño físico
+Olberic termina con HP:3125
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3125/5781 SP:291/291 BP:5
+B-Heatcore - HP:0/2822 SP:342/342 BP:4
+Equipo del enemigo
+A-Dreadwolf - HP:6830/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Dreadwolf - HP:6830/7530 Shields:9
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Dreadwolf recibe 100 de daño de tipo Sword
+Dreadwolf termina con HP:6730
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3125/5781 SP:291/291 BP:5
+B-Heatcore - HP:0/2822 SP:342/342 BP:4
+Equipo del enemigo
+A-Dreadwolf - HP:6730/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Olberic recibe 664 de daño físico
+Olberic termina con HP:2461
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:2461/5781 SP:291/291 BP:5
+B-Heatcore - HP:0/2822 SP:342/342 BP:4
+Equipo del enemigo
+A-Dreadwolf - HP:6730/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Dreadwolf - HP:6730/7530 Shields:9
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Dreadwolf recibe 100 de daño de tipo Sword
+Dreadwolf termina con HP:6630
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:2461/5781 SP:291/291 BP:5
+B-Heatcore - HP:0/2822 SP:342/342 BP:4
+Equipo del enemigo
+A-Dreadwolf - HP:6630/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Olberic recibe 664 de daño físico
+Olberic termina con HP:1797
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:1797/5781 SP:291/291 BP:5
+B-Heatcore - HP:0/2822 SP:342/342 BP:4
+Equipo del enemigo
+A-Dreadwolf - HP:6630/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Dreadwolf - HP:6630/7530 Shields:9
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Dreadwolf recibe 100 de daño de tipo Sword
+Dreadwolf termina con HP:6530
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:1797/5781 SP:291/291 BP:5
+B-Heatcore - HP:0/2822 SP:342/342 BP:4
+Equipo del enemigo
+A-Dreadwolf - HP:6530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Olberic recibe 664 de daño físico
+Olberic termina con HP:1133
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:1133/5781 SP:291/291 BP:5
+B-Heatcore - HP:0/2822 SP:342/342 BP:4
+Equipo del enemigo
+A-Dreadwolf - HP:6530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Dreadwolf - HP:6530/7530 Shields:9
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Dreadwolf recibe 100 de daño de tipo Sword
+Dreadwolf termina con HP:6430
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:1133/5781 SP:291/291 BP:5
+B-Heatcore - HP:0/2822 SP:342/342 BP:4
+Equipo del enemigo
+A-Dreadwolf - HP:6430/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Olberic recibe 664 de daño físico
+Olberic termina con HP:469
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:469/5781 SP:291/291 BP:5
+B-Heatcore - HP:0/2822 SP:342/342 BP:4
+Equipo del enemigo
+A-Dreadwolf - HP:6430/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Dreadwolf - HP:6430/7530 Shields:9
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Dreadwolf recibe 100 de daño de tipo Sword
+Dreadwolf termina con HP:6330
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:469/5781 SP:291/291 BP:5
+B-Heatcore - HP:0/2822 SP:342/342 BP:4
+Equipo del enemigo
+A-Dreadwolf - HP:6330/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Olberic
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Olberic recibe 664 de daño físico
+Olberic termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

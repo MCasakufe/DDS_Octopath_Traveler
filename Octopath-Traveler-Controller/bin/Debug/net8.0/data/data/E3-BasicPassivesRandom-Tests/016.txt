@@ -1,0 +1,1384 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+INPUT: 15
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:332/332 BP:2
+B-Hikari - HP:5781/5781 SP:317/317 BP:2
+C-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Wind Elemental - HP:2496/2496 Shields:4
+B-Frost Fox - HP:1302/1302 Shields:2
+C-Lightning Elemental - HP:2133/2133 Shields:4
+D-Devourer of Dreams - HP:7500/7500 Shields:10
+E-Fire Elemental - HP:1354/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Hikari
+3.Cyrus
+4.Frost Fox
+5.Devourer of Dreams
+6.Fire Elemental
+7.Lightning Elemental
+8.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Hikari
+3.Cyrus
+4.Frost Fox
+5.Devourer of Dreams
+6.Fire Elemental
+7.Lightning Elemental
+8.Wind Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Wind Elemental - HP:2496/2496 Shields:4
+2: Frost Fox - HP:1302/1302 Shields:2
+3: Lightning Elemental - HP:2133/2133 Shields:4
+4: Devourer of Dreams - HP:7500/7500 Shields:10
+5: Fire Elemental - HP:1354/1354 Shields:4
+6: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné ataca
+Wind Elemental recibe 75 de daño de tipo Dagger
+Wind Elemental termina con HP:2421
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:332/332 BP:2
+B-Hikari - HP:5781/5781 SP:317/317 BP:2
+C-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Wind Elemental - HP:2421/2496 Shields:4
+B-Frost Fox - HP:1302/1302 Shields:2
+C-Lightning Elemental - HP:2133/2133 Shields:4
+D-Devourer of Dreams - HP:7500/7500 Shields:10
+E-Fire Elemental - HP:1354/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Cyrus
+3.Frost Fox
+4.Devourer of Dreams
+5.Fire Elemental
+6.Lightning Elemental
+7.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Hikari
+3.Cyrus
+4.Frost Fox
+5.Devourer of Dreams
+6.Fire Elemental
+7.Lightning Elemental
+8.Wind Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Wind Elemental - HP:2421/2496 Shields:4
+2: Frost Fox - HP:1302/1302 Shields:2
+3: Lightning Elemental - HP:2133/2133 Shields:4
+4: Devourer of Dreams - HP:7500/7500 Shields:10
+5: Fire Elemental - HP:1354/1354 Shields:4
+6: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Wind Elemental recibe 0 de daño de tipo Sword
+Wind Elemental termina con HP:2421
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:332/332 BP:2
+B-Hikari - HP:5781/5781 SP:317/317 BP:2
+C-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Wind Elemental - HP:2421/2496 Shields:4
+B-Frost Fox - HP:1302/1302 Shields:2
+C-Lightning Elemental - HP:2133/2133 Shields:4
+D-Devourer of Dreams - HP:7500/7500 Shields:10
+E-Fire Elemental - HP:1354/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Frost Fox
+3.Devourer of Dreams
+4.Fire Elemental
+5.Lightning Elemental
+6.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Hikari
+3.Cyrus
+4.Frost Fox
+5.Devourer of Dreams
+6.Fire Elemental
+7.Lightning Elemental
+8.Wind Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Wind Elemental - HP:2421/2496 Shields:4
+2: Frost Fox - HP:1302/1302 Shields:2
+3: Lightning Elemental - HP:2133/2133 Shields:4
+4: Devourer of Dreams - HP:7500/7500 Shields:10
+5: Fire Elemental - HP:1354/1354 Shields:4
+6: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Wind Elemental recibe 148 de daño de tipo Stave
+Wind Elemental termina con HP:2273
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:332/332 BP:2
+B-Hikari - HP:5781/5781 SP:317/317 BP:2
+C-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Wind Elemental - HP:2273/2496 Shields:4
+B-Frost Fox - HP:1302/1302 Shields:2
+C-Lightning Elemental - HP:2133/2133 Shields:4
+D-Devourer of Dreams - HP:7500/7500 Shields:10
+E-Fire Elemental - HP:1354/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Devourer of Dreams
+3.Fire Elemental
+4.Lightning Elemental
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Hikari
+3.Cyrus
+4.Frost Fox
+5.Devourer of Dreams
+6.Fire Elemental
+7.Lightning Elemental
+8.Wind Elemental
+----------------------------------------
+Frost Fox usa Ice blast
+Throné recibe 305 de daño elemental
+Hikari recibe 262 de daño elemental
+Cyrus recibe 203 de daño elemental
+Throné termina con HP:4142
+Hikari termina con HP:5519
+Cyrus termina con HP:3354
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4142/4447 SP:332/332 BP:2
+B-Hikari - HP:5519/5781 SP:317/317 BP:2
+C-Cyrus - HP:3354/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Wind Elemental - HP:2273/2496 Shields:4
+B-Frost Fox - HP:1302/1302 Shields:2
+C-Lightning Elemental - HP:2133/2133 Shields:4
+D-Devourer of Dreams - HP:7500/7500 Shields:10
+E-Fire Elemental - HP:1354/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Fire Elemental
+3.Lightning Elemental
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Hikari
+3.Cyrus
+4.Frost Fox
+5.Devourer of Dreams
+6.Fire Elemental
+7.Lightning Elemental
+8.Wind Elemental
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Throné recibe 2071 de daño
+Hikari recibe 2760 de daño
+Cyrus recibe 1677 de daño
+Throné termina con HP:2071
+Hikari termina con HP:2759
+Cyrus termina con HP:1677
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:2071/4447 SP:332/332 BP:2
+B-Hikari - HP:2759/5781 SP:317/317 BP:2
+C-Cyrus - HP:1677/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Wind Elemental - HP:2273/2496 Shields:4
+B-Frost Fox - HP:1302/1302 Shields:2
+C-Lightning Elemental - HP:2133/2133 Shields:4
+D-Devourer of Dreams - HP:7500/7500 Shields:10
+E-Fire Elemental - HP:1354/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+2.Lightning Elemental
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Hikari
+3.Cyrus
+4.Frost Fox
+5.Devourer of Dreams
+6.Fire Elemental
+7.Lightning Elemental
+8.Wind Elemental
+----------------------------------------
+Fire Elemental usa Firesand
+Throné recibe 276 de daño elemental
+Throné termina con HP:1795
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:1795/4447 SP:332/332 BP:2
+B-Hikari - HP:2759/5781 SP:317/317 BP:2
+C-Cyrus - HP:1677/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Wind Elemental - HP:2273/2496 Shields:4
+B-Frost Fox - HP:1302/1302 Shields:2
+C-Lightning Elemental - HP:2133/2133 Shields:4
+D-Devourer of Dreams - HP:7500/7500 Shields:10
+E-Fire Elemental - HP:1354/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Hikari
+3.Cyrus
+4.Frost Fox
+5.Devourer of Dreams
+6.Fire Elemental
+7.Lightning Elemental
+8.Wind Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Throné recibe 180 de daño elemental
+Throné termina con HP:1615
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:1615/4447 SP:332/332 BP:2
+B-Hikari - HP:2759/5781 SP:317/317 BP:2
+C-Cyrus - HP:1677/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Wind Elemental - HP:2273/2496 Shields:4
+B-Frost Fox - HP:1302/1302 Shields:2
+C-Lightning Elemental - HP:2133/2133 Shields:4
+D-Devourer of Dreams - HP:7500/7500 Shields:10
+E-Fire Elemental - HP:1354/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Hikari
+3.Cyrus
+4.Frost Fox
+5.Devourer of Dreams
+6.Fire Elemental
+7.Lightning Elemental
+8.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Throné recibe 199 de daño elemental
+Throné termina con HP:1416
+----------------------------------------
+Throné obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:1416/4447 SP:332/332 BP:2
+B-Hikari - HP:2759/5781 SP:317/317 BP:2
+C-Cyrus - HP:1677/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Wind Elemental - HP:2273/2496 Shields:4
+B-Frost Fox - HP:1302/1302 Shields:2
+C-Lightning Elemental - HP:2133/2133 Shields:4
+D-Devourer of Dreams - HP:7500/7500 Shields:10
+E-Fire Elemental - HP:1354/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Hikari
+3.Cyrus
+4.Frost Fox
+5.Devourer of Dreams
+6.Fire Elemental
+7.Lightning Elemental
+8.Wind Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:1860/4447 SP:332/332 BP:3
+B-Hikari - HP:2759/5781 SP:317/317 BP:3
+C-Cyrus - HP:1677/3557 SP:582/582 BP:2
+Equipo del enemigo
+A-Wind Elemental - HP:2273/2496 Shields:4
+B-Frost Fox - HP:1302/1302 Shields:2
+C-Lightning Elemental - HP:2133/2133 Shields:4
+D-Devourer of Dreams - HP:7500/7500 Shields:10
+E-Fire Elemental - HP:1354/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Hikari
+3.Cyrus
+4.Frost Fox
+5.Devourer of Dreams
+6.Fire Elemental
+7.Lightning Elemental
+8.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Hikari
+3.Cyrus
+4.Frost Fox
+5.Devourer of Dreams
+6.Fire Elemental
+7.Lightning Elemental
+8.Wind Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Wind Elemental - HP:2273/2496 Shields:4
+2: Frost Fox - HP:1302/1302 Shields:2
+3: Lightning Elemental - HP:2133/2133 Shields:4
+4: Devourer of Dreams - HP:7500/7500 Shields:10
+5: Fire Elemental - HP:1354/1354 Shields:4
+6: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné ataca
+Lightning Elemental recibe 170 de daño de tipo Dagger
+Lightning Elemental termina con HP:1963
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:1860/4447 SP:332/332 BP:3
+B-Hikari - HP:2759/5781 SP:317/317 BP:3
+C-Cyrus - HP:1677/3557 SP:582/582 BP:2
+Equipo del enemigo
+A-Wind Elemental - HP:2273/2496 Shields:4
+B-Frost Fox - HP:1302/1302 Shields:2
+C-Lightning Elemental - HP:1963/2133 Shields:4
+D-Devourer of Dreams - HP:7500/7500 Shields:10
+E-Fire Elemental - HP:1354/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Cyrus
+3.Frost Fox
+4.Devourer of Dreams
+5.Fire Elemental
+6.Lightning Elemental
+7.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Hikari
+3.Cyrus
+4.Frost Fox
+5.Devourer of Dreams
+6.Fire Elemental
+7.Lightning Elemental
+8.Wind Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Lightning Bolt
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Lightning Bolt
+Wind Elemental recibe 688 de daño de tipo Lightning con debilidad
+Frost Fox recibe 478 de daño de tipo Lightning con debilidad
+Lightning Elemental recibe 287 de daño de tipo Lightning
+Devourer of Dreams recibe 356 de daño de tipo Lightning
+Fire Elemental recibe 390 de daño de tipo Lightning
+Wind Elemental termina con HP:1585
+Frost Fox termina con HP:824
+Lightning Elemental termina con HP:1676
+Devourer of Dreams termina con HP:7144
+Fire Elemental termina con HP:964
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:1860/4447 SP:332/332 BP:3
+B-Hikari - HP:2759/5781 SP:309/317 BP:3
+C-Cyrus - HP:1677/3557 SP:582/582 BP:2
+Equipo del enemigo
+A-Wind Elemental - HP:1585/2496 Shields:3
+B-Frost Fox - HP:824/1302 Shields:1
+C-Lightning Elemental - HP:1676/2133 Shields:4
+D-Devourer of Dreams - HP:7144/7500 Shields:10
+E-Fire Elemental - HP:964/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Frost Fox
+3.Devourer of Dreams
+4.Fire Elemental
+5.Lightning Elemental
+6.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Hikari
+3.Cyrus
+4.Frost Fox
+5.Devourer of Dreams
+6.Fire Elemental
+7.Lightning Elemental
+8.Wind Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Wind Elemental - HP:1585/2496 Shields:3
+2: Frost Fox - HP:824/1302 Shields:1
+3: Lightning Elemental - HP:1676/2133 Shields:4
+4: Devourer of Dreams - HP:7144/7500 Shields:10
+5: Fire Elemental - HP:964/1354 Shields:4
+6: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Lightning Elemental recibe 243 de daño de tipo Stave
+Lightning Elemental termina con HP:1433
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:1860/4447 SP:332/332 BP:3
+B-Hikari - HP:2759/5781 SP:309/317 BP:3
+C-Cyrus - HP:1677/3557 SP:582/582 BP:2
+Equipo del enemigo
+A-Wind Elemental - HP:1585/2496 Shields:3
+B-Frost Fox - HP:824/1302 Shields:1
+C-Lightning Elemental - HP:1433/2133 Shields:4
+D-Devourer of Dreams - HP:7144/7500 Shields:10
+E-Fire Elemental - HP:964/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Devourer of Dreams
+3.Fire Elemental
+4.Lightning Elemental
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Hikari
+3.Cyrus
+4.Frost Fox
+5.Devourer of Dreams
+6.Fire Elemental
+7.Lightning Elemental
+8.Wind Elemental
+----------------------------------------
+Frost Fox usa Ice blast
+Throné recibe 305 de daño elemental
+Hikari recibe 262 de daño elemental
+Cyrus recibe 203 de daño elemental
+Throné termina con HP:1555
+Hikari termina con HP:2497
+Cyrus termina con HP:1474
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:1555/4447 SP:332/332 BP:3
+B-Hikari - HP:2497/5781 SP:309/317 BP:3
+C-Cyrus - HP:1474/3557 SP:582/582 BP:2
+Equipo del enemigo
+A-Wind Elemental - HP:1585/2496 Shields:3
+B-Frost Fox - HP:824/1302 Shields:1
+C-Lightning Elemental - HP:1433/2133 Shields:4
+D-Devourer of Dreams - HP:7144/7500 Shields:10
+E-Fire Elemental - HP:964/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Fire Elemental
+3.Lightning Elemental
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Hikari
+3.Cyrus
+4.Frost Fox
+5.Devourer of Dreams
+6.Fire Elemental
+7.Lightning Elemental
+8.Wind Elemental
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Throné recibe 778 de daño
+Hikari recibe 1249 de daño
+Cyrus recibe 737 de daño
+Throné termina con HP:777
+Hikari termina con HP:1248
+Cyrus termina con HP:737
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:777/4447 SP:332/332 BP:3
+B-Hikari - HP:1248/5781 SP:309/317 BP:3
+C-Cyrus - HP:737/3557 SP:582/582 BP:2
+Equipo del enemigo
+A-Wind Elemental - HP:1585/2496 Shields:3
+B-Frost Fox - HP:824/1302 Shields:1
+C-Lightning Elemental - HP:1433/2133 Shields:4
+D-Devourer of Dreams - HP:7144/7500 Shields:10
+E-Fire Elemental - HP:964/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+2.Lightning Elemental
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Hikari
+3.Cyrus
+4.Frost Fox
+5.Devourer of Dreams
+6.Fire Elemental
+7.Lightning Elemental
+8.Wind Elemental
+----------------------------------------
+Fire Elemental usa Firesand
+Throné recibe 276 de daño elemental
+Throné termina con HP:501
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:501/4447 SP:332/332 BP:3
+B-Hikari - HP:1248/5781 SP:309/317 BP:3
+C-Cyrus - HP:737/3557 SP:582/582 BP:2
+Equipo del enemigo
+A-Wind Elemental - HP:1585/2496 Shields:3
+B-Frost Fox - HP:824/1302 Shields:1
+C-Lightning Elemental - HP:1433/2133 Shields:4
+D-Devourer of Dreams - HP:7144/7500 Shields:10
+E-Fire Elemental - HP:964/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Hikari
+3.Cyrus
+4.Frost Fox
+5.Devourer of Dreams
+6.Fire Elemental
+7.Lightning Elemental
+8.Wind Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Throné recibe 180 de daño elemental
+Throné termina con HP:321
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:321/4447 SP:332/332 BP:3
+B-Hikari - HP:1248/5781 SP:309/317 BP:3
+C-Cyrus - HP:737/3557 SP:582/582 BP:2
+Equipo del enemigo
+A-Wind Elemental - HP:1585/2496 Shields:3
+B-Frost Fox - HP:824/1302 Shields:1
+C-Lightning Elemental - HP:1433/2133 Shields:4
+D-Devourer of Dreams - HP:7144/7500 Shields:10
+E-Fire Elemental - HP:964/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Hikari
+3.Cyrus
+4.Frost Fox
+5.Devourer of Dreams
+6.Fire Elemental
+7.Lightning Elemental
+8.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Throné recibe 199 de daño elemental
+Throné termina con HP:122
+----------------------------------------
+Throné obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:122/4447 SP:332/332 BP:3
+B-Hikari - HP:1248/5781 SP:309/317 BP:3
+C-Cyrus - HP:737/3557 SP:582/582 BP:2
+Equipo del enemigo
+A-Wind Elemental - HP:1585/2496 Shields:3
+B-Frost Fox - HP:824/1302 Shields:1
+C-Lightning Elemental - HP:1433/2133 Shields:4
+D-Devourer of Dreams - HP:7144/7500 Shields:10
+E-Fire Elemental - HP:964/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Hikari
+3.Cyrus
+4.Frost Fox
+5.Devourer of Dreams
+6.Fire Elemental
+7.Lightning Elemental
+8.Wind Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Holy Light
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Wind Elemental - HP:1585/2496 Shields:3
+2: Frost Fox - HP:824/1302 Shields:1
+3: Lightning Elemental - HP:1433/2133 Shields:4
+4: Devourer of Dreams - HP:7144/7500 Shields:10
+5: Fire Elemental - HP:964/1354 Shields:4
+6: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné usa Holy Light
+Frost Fox recibe 134 de daño de tipo Light
+Frost Fox termina con HP:690
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:566/4447 SP:326/332 BP:4
+B-Hikari - HP:1248/5781 SP:309/317 BP:4
+C-Cyrus - HP:737/3557 SP:582/582 BP:3
+Equipo del enemigo
+A-Wind Elemental - HP:1585/2496 Shields:3
+B-Frost Fox - HP:690/1302 Shields:1
+C-Lightning Elemental - HP:1433/2133 Shields:4
+D-Devourer of Dreams - HP:7144/7500 Shields:10
+E-Fire Elemental - HP:964/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Hikari
+3.Cyrus
+4.Frost Fox
+5.Devourer of Dreams
+6.Fire Elemental
+7.Lightning Elemental
+8.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Hikari
+3.Cyrus
+4.Frost Fox
+5.Devourer of Dreams
+6.Fire Elemental
+7.Lightning Elemental
+8.Wind Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:566/4447 SP:326/332 BP:4
+B-Hikari - HP:1248/5781 SP:309/317 BP:4
+C-Cyrus - HP:737/3557 SP:582/582 BP:3
+Equipo del enemigo
+A-Wind Elemental - HP:1585/2496 Shields:3
+B-Frost Fox - HP:690/1302 Shields:1
+C-Lightning Elemental - HP:1433/2133 Shields:4
+D-Devourer of Dreams - HP:7144/7500 Shields:10
+E-Fire Elemental - HP:964/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Cyrus
+3.Frost Fox
+4.Devourer of Dreams
+5.Fire Elemental
+6.Lightning Elemental
+7.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Hikari
+3.Cyrus
+4.Frost Fox
+5.Devourer of Dreams
+6.Fire Elemental
+7.Lightning Elemental
+8.Wind Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:566/4447 SP:326/332 BP:4
+B-Hikari - HP:1248/5781 SP:309/317 BP:4
+C-Cyrus - HP:737/3557 SP:582/582 BP:3
+Equipo del enemigo
+A-Wind Elemental - HP:1585/2496 Shields:3
+B-Frost Fox - HP:690/1302 Shields:1
+C-Lightning Elemental - HP:1433/2133 Shields:4
+D-Devourer of Dreams - HP:7144/7500 Shields:10
+E-Fire Elemental - HP:964/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Frost Fox
+3.Devourer of Dreams
+4.Fire Elemental
+5.Lightning Elemental
+6.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Hikari
+3.Cyrus
+4.Frost Fox
+5.Devourer of Dreams
+6.Fire Elemental
+7.Lightning Elemental
+8.Wind Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:566/4447 SP:326/332 BP:4
+B-Hikari - HP:1248/5781 SP:309/317 BP:4
+C-Cyrus - HP:737/3557 SP:582/582 BP:3
+Equipo del enemigo
+A-Wind Elemental - HP:1585/2496 Shields:3
+B-Frost Fox - HP:690/1302 Shields:1
+C-Lightning Elemental - HP:1433/2133 Shields:4
+D-Devourer of Dreams - HP:7144/7500 Shields:10
+E-Fire Elemental - HP:964/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Devourer of Dreams
+3.Fire Elemental
+4.Lightning Elemental
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Hikari
+3.Cyrus
+4.Frost Fox
+5.Devourer of Dreams
+6.Fire Elemental
+7.Lightning Elemental
+8.Wind Elemental
+----------------------------------------
+Frost Fox usa Ice blast
+Throné se defiende
+Throné recibe 152 de daño elemental
+Hikari se defiende
+Hikari recibe 131 de daño elemental
+Cyrus se defiende
+Cyrus recibe 101 de daño elemental
+Throné termina con HP:414
+Hikari termina con HP:1117
+Cyrus termina con HP:636
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:414/4447 SP:326/332 BP:4
+B-Hikari - HP:1117/5781 SP:309/317 BP:4
+C-Cyrus - HP:636/3557 SP:582/582 BP:3
+Equipo del enemigo
+A-Wind Elemental - HP:1585/2496 Shields:3
+B-Frost Fox - HP:690/1302 Shields:1
+C-Lightning Elemental - HP:1433/2133 Shields:4
+D-Devourer of Dreams - HP:7144/7500 Shields:10
+E-Fire Elemental - HP:964/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Fire Elemental
+3.Lightning Elemental
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Hikari
+3.Cyrus
+4.Frost Fox
+5.Devourer of Dreams
+6.Fire Elemental
+7.Lightning Elemental
+8.Wind Elemental
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Throné recibe 207 de daño
+Hikari recibe 559 de daño
+Cyrus recibe 318 de daño
+Throné termina con HP:207
+Hikari termina con HP:558
+Cyrus termina con HP:318
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:207/4447 SP:326/332 BP:4
+B-Hikari - HP:558/5781 SP:309/317 BP:4
+C-Cyrus - HP:318/3557 SP:582/582 BP:3
+Equipo del enemigo
+A-Wind Elemental - HP:1585/2496 Shields:3
+B-Frost Fox - HP:690/1302 Shields:1
+C-Lightning Elemental - HP:1433/2133 Shields:4
+D-Devourer of Dreams - HP:7144/7500 Shields:10
+E-Fire Elemental - HP:964/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+2.Lightning Elemental
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Hikari
+3.Cyrus
+4.Frost Fox
+5.Devourer of Dreams
+6.Fire Elemental
+7.Lightning Elemental
+8.Wind Elemental
+----------------------------------------
+Fire Elemental usa Firesand
+Throné se defiende
+Throné recibe 138 de daño elemental
+Throné termina con HP:69
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:69/4447 SP:326/332 BP:4
+B-Hikari - HP:558/5781 SP:309/317 BP:4
+C-Cyrus - HP:318/3557 SP:582/582 BP:3
+Equipo del enemigo
+A-Wind Elemental - HP:1585/2496 Shields:3
+B-Frost Fox - HP:690/1302 Shields:1
+C-Lightning Elemental - HP:1433/2133 Shields:4
+D-Devourer of Dreams - HP:7144/7500 Shields:10
+E-Fire Elemental - HP:964/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Hikari
+3.Cyrus
+4.Frost Fox
+5.Devourer of Dreams
+6.Fire Elemental
+7.Lightning Elemental
+8.Wind Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Throné se defiende
+Throné recibe 90 de daño elemental
+Throné termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4447 SP:326/332 BP:4
+B-Hikari - HP:558/5781 SP:309/317 BP:4
+C-Cyrus - HP:318/3557 SP:582/582 BP:3
+Equipo del enemigo
+A-Wind Elemental - HP:1585/2496 Shields:3
+B-Frost Fox - HP:690/1302 Shields:1
+C-Lightning Elemental - HP:1433/2133 Shields:4
+D-Devourer of Dreams - HP:7144/7500 Shields:10
+E-Fire Elemental - HP:964/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Cyrus
+3.Frost Fox
+4.Devourer of Dreams
+5.Fire Elemental
+6.Lightning Elemental
+7.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Hikari se defiende
+Hikari recibe 78 de daño elemental
+Hikari termina con HP:480
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4447 SP:326/332 BP:4
+B-Hikari - HP:480/5781 SP:309/317 BP:5
+C-Cyrus - HP:318/3557 SP:582/582 BP:4
+Equipo del enemigo
+A-Wind Elemental - HP:1585/2496 Shields:3
+B-Frost Fox - HP:690/1302 Shields:1
+C-Lightning Elemental - HP:1433/2133 Shields:4
+D-Devourer of Dreams - HP:7144/7500 Shields:10
+E-Fire Elemental - HP:964/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Cyrus
+3.Frost Fox
+4.Devourer of Dreams
+5.Fire Elemental
+6.Lightning Elemental
+7.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Cyrus
+3.Frost Fox
+4.Devourer of Dreams
+5.Fire Elemental
+6.Lightning Elemental
+7.Wind Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Lightning Bolt
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Lightning Bolt
+Wind Elemental recibe 688 de daño de tipo Lightning con debilidad
+Frost Fox recibe 478 de daño de tipo Lightning con debilidad
+Frost Fox entra en Breaking Point
+Lightning Elemental recibe 287 de daño de tipo Lightning
+Devourer of Dreams recibe 356 de daño de tipo Lightning
+Fire Elemental recibe 390 de daño de tipo Lightning
+Wind Elemental termina con HP:897
+Frost Fox termina con HP:212
+Lightning Elemental termina con HP:1146
+Devourer of Dreams termina con HP:6788
+Fire Elemental termina con HP:574
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4447 SP:326/332 BP:4
+B-Hikari - HP:480/5781 SP:301/317 BP:5
+C-Cyrus - HP:318/3557 SP:582/582 BP:4
+Equipo del enemigo
+A-Wind Elemental - HP:897/2496 Shields:2
+B-Frost Fox - HP:212/1302 Shields:0
+C-Lightning Elemental - HP:1146/2133 Shields:4
+D-Devourer of Dreams - HP:6788/7500 Shields:10
+E-Fire Elemental - HP:574/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Devourer of Dreams
+3.Fire Elemental
+4.Lightning Elemental
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Cyrus
+3.Devourer of Dreams
+4.Fire Elemental
+5.Lightning Elemental
+6.Wind Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4447 SP:326/332 BP:4
+B-Hikari - HP:480/5781 SP:301/317 BP:5
+C-Cyrus - HP:318/3557 SP:582/582 BP:4
+Equipo del enemigo
+A-Wind Elemental - HP:897/2496 Shields:2
+B-Frost Fox - HP:212/1302 Shields:0
+C-Lightning Elemental - HP:1146/2133 Shields:4
+D-Devourer of Dreams - HP:6788/7500 Shields:10
+E-Fire Elemental - HP:574/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Fire Elemental
+3.Lightning Elemental
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Hikari
+3.Devourer of Dreams
+4.Fire Elemental
+5.Lightning Elemental
+6.Wind Elemental
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Hikari recibe 240 de daño
+Cyrus recibe 159 de daño
+Hikari termina con HP:240
+Cyrus termina con HP:159
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4447 SP:326/332 BP:4
+B-Hikari - HP:240/5781 SP:301/317 BP:5
+C-Cyrus - HP:159/3557 SP:582/582 BP:4
+Equipo del enemigo
+A-Wind Elemental - HP:897/2496 Shields:2
+B-Frost Fox - HP:212/1302 Shields:0
+C-Lightning Elemental - HP:1146/2133 Shields:4
+D-Devourer of Dreams - HP:6788/7500 Shields:10
+E-Fire Elemental - HP:574/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+2.Lightning Elemental
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Hikari
+3.Devourer of Dreams
+4.Fire Elemental
+5.Lightning Elemental
+6.Wind Elemental
+----------------------------------------
+Fire Elemental usa Firesand
+Hikari recibe 233 de daño elemental
+Hikari termina con HP:7
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4447 SP:326/332 BP:4
+B-Hikari - HP:7/5781 SP:301/317 BP:5
+C-Cyrus - HP:159/3557 SP:582/582 BP:4
+Equipo del enemigo
+A-Wind Elemental - HP:897/2496 Shields:2
+B-Frost Fox - HP:212/1302 Shields:0
+C-Lightning Elemental - HP:1146/2133 Shields:4
+D-Devourer of Dreams - HP:6788/7500 Shields:10
+E-Fire Elemental - HP:574/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Hikari
+3.Devourer of Dreams
+4.Fire Elemental
+5.Lightning Elemental
+6.Wind Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Hikari recibe 137 de daño elemental
+Hikari termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4447 SP:326/332 BP:4
+B-Hikari - HP:0/5781 SP:301/317 BP:5
+C-Cyrus - HP:159/3557 SP:582/582 BP:4
+Equipo del enemigo
+A-Wind Elemental - HP:897/2496 Shields:2
+B-Frost Fox - HP:212/1302 Shields:0
+C-Lightning Elemental - HP:1146/2133 Shields:4
+D-Devourer of Dreams - HP:6788/7500 Shields:10
+E-Fire Elemental - HP:574/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Devourer of Dreams
+3.Fire Elemental
+4.Lightning Elemental
+5.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Cyrus se defiende
+Cyrus recibe 48 de daño elemental
+Cyrus termina con HP:111
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4447 SP:326/332 BP:4
+B-Hikari - HP:0/5781 SP:301/317 BP:5
+C-Cyrus - HP:111/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Wind Elemental - HP:897/2496 Shields:2
+B-Frost Fox - HP:212/1302 Shields:0
+C-Lightning Elemental - HP:1146/2133 Shields:4
+D-Devourer of Dreams - HP:6788/7500 Shields:10
+E-Fire Elemental - HP:574/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Devourer of Dreams
+3.Fire Elemental
+4.Lightning Elemental
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Frost Fox
+2.Cyrus
+3.Devourer of Dreams
+4.Fire Elemental
+5.Lightning Elemental
+6.Wind Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Wind Elemental - HP:897/2496 Shields:2
+2: Frost Fox - HP:212/1302 Shields:0
+3: Lightning Elemental - HP:1146/2133 Shields:4
+4: Devourer of Dreams - HP:6788/7500 Shields:10
+5: Fire Elemental - HP:574/1354 Shields:4
+6: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Devourer of Dreams recibe 190 de daño de tipo Stave
+Devourer of Dreams termina con HP:6598
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4447 SP:326/332 BP:4
+B-Hikari - HP:0/5781 SP:301/317 BP:5
+C-Cyrus - HP:111/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Wind Elemental - HP:897/2496 Shields:2
+B-Frost Fox - HP:212/1302 Shields:0
+C-Lightning Elemental - HP:1146/2133 Shields:4
+D-Devourer of Dreams - HP:6598/7500 Shields:10
+E-Fire Elemental - HP:574/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Fire Elemental
+3.Lightning Elemental
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Frost Fox
+2.Cyrus
+3.Devourer of Dreams
+4.Fire Elemental
+5.Lightning Elemental
+6.Wind Elemental
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Cyrus recibe 56 de daño
+Cyrus termina con HP:55
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4447 SP:326/332 BP:4
+B-Hikari - HP:0/5781 SP:301/317 BP:5
+C-Cyrus - HP:55/3557 SP:582/582 BP:5
+Equipo del enemigo
+A-Wind Elemental - HP:897/2496 Shields:2
+B-Frost Fox - HP:212/1302 Shields:0
+C-Lightning Elemental - HP:1146/2133 Shields:4
+D-Devourer of Dreams - HP:6598/7500 Shields:10
+E-Fire Elemental - HP:574/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+2.Lightning Elemental
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Frost Fox
+2.Cyrus
+3.Devourer of Dreams
+4.Fire Elemental
+5.Lightning Elemental
+6.Wind Elemental
+----------------------------------------
+Fire Elemental usa Firesand
+Cyrus recibe 174 de daño elemental
+Cyrus termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

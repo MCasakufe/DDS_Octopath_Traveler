@@ -1,0 +1,702 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+INPUT: 7
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:369/369 BP:1
+B-Z'aanta - HP:3222/3222 SP:371/371 BP:2
+C-Heatcore - HP:2822/2822 SP:342/342 BP:1
+D-Agnea - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Fire Elemental - HP:1354/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Agnea
+3.Ochette
+4.Z'aanta
+5.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Agnea
+3.Ochette
+4.Z'aanta
+5.Fire Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:369/369 BP:1
+B-Z'aanta - HP:3222/3222 SP:371/371 BP:2
+C-Heatcore - HP:2822/2822 SP:342/342 BP:1
+D-Agnea - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Fire Elemental - HP:1354/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Ochette
+3.Z'aanta
+4.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Agnea
+3.Ochette
+4.Z'aanta
+5.Fire Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Fire Elemental - HP:1354/1354 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Fire Elemental recibe 222 de daño de tipo Dagger
+Fire Elemental termina con HP:1132
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:369/369 BP:1
+B-Z'aanta - HP:3222/3222 SP:371/371 BP:2
+C-Heatcore - HP:2822/2822 SP:342/342 BP:1
+D-Agnea - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Fire Elemental - HP:1132/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Z'aanta
+3.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Agnea
+3.Ochette
+4.Z'aanta
+5.Fire Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:369/369 BP:1
+B-Z'aanta - HP:3222/3222 SP:371/371 BP:2
+C-Heatcore - HP:2822/2822 SP:342/342 BP:1
+D-Agnea - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Fire Elemental - HP:1132/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Ochette
+3.Agnea
+4.Z'aanta
+5.Fire Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:369/369 BP:1
+B-Z'aanta - HP:3222/3222 SP:371/371 BP:2
+C-Heatcore - HP:2822/2822 SP:342/342 BP:1
+D-Agnea - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Fire Elemental - HP:1132/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Ochette
+3.Z'aanta
+4.Agnea
+5.Fire Elemental
+----------------------------------------
+Fire Elemental usa Firesand
+Z'aanta se defiende
+Z'aanta recibe 135 de daño elemental
+Z'aanta termina con HP:3087
+----------------------------------------
+Heatcore obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:369/369 BP:1
+B-Z'aanta - HP:3087/3222 SP:371/371 BP:2
+C-Heatcore - HP:2822/2822 SP:342/342 BP:1
+D-Agnea - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Fire Elemental - HP:1132/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Ochette
+3.Z'aanta
+4.Agnea
+5.Fire Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Leghold Trap
+2: Luminescence
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Fire Elemental - HP:1132/1354 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore usa Leghold Trap
+Fire Elemental tendrá menor prioridad de turno durante 2 rondas
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:369/369 BP:2
+B-Z'aanta - HP:3087/3222 SP:371/371 BP:3
+C-Heatcore - HP:2822/2822 SP:336/342 BP:2
+D-Agnea - HP:4002/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Fire Elemental - HP:1132/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Ochette
+3.Z'aanta
+4.Agnea
+5.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Agnea
+3.Ochette
+4.Z'aanta
+5.Fire Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:369/369 BP:2
+B-Z'aanta - HP:3087/3222 SP:371/371 BP:3
+C-Heatcore - HP:2822/2822 SP:336/342 BP:2
+D-Agnea - HP:4002/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Fire Elemental - HP:1132/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Z'aanta
+3.Agnea
+4.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Agnea
+3.Ochette
+4.Z'aanta
+5.Fire Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Holy Light
+2: Fireball
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Fire Elemental - HP:1132/1354 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette usa Holy Light
+Fire Elemental recibe 244 de daño de tipo Light
+Fire Elemental termina con HP:888
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:363/369 BP:2
+B-Z'aanta - HP:3087/3222 SP:371/371 BP:3
+C-Heatcore - HP:2822/2822 SP:336/342 BP:2
+D-Agnea - HP:4002/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Fire Elemental - HP:888/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Agnea
+3.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Agnea
+3.Ochette
+4.Z'aanta
+5.Fire Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Spearhead
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Fire Elemental - HP:888/1354 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta usa Spearhead
+Fire Elemental recibe 231 de daño de tipo Spear
+Fire Elemental termina con HP:657
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:363/369 BP:2
+B-Z'aanta - HP:3087/3222 SP:365/371 BP:3
+C-Heatcore - HP:2822/2822 SP:336/342 BP:2
+D-Agnea - HP:4002/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Fire Elemental - HP:657/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Z'aanta
+3.Agnea
+4.Ochette
+5.Fire Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Leghold Trap
+2: Fireball
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Fireball
+Fire Elemental recibe 106 de daño de tipo Fire
+Fire Elemental termina con HP:551
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:363/369 BP:2
+B-Z'aanta - HP:3087/3222 SP:365/371 BP:3
+C-Heatcore - HP:2822/2822 SP:336/342 BP:2
+D-Agnea - HP:4002/4002 SP:496/504 BP:2
+Equipo del enemigo
+A-Fire Elemental - HP:551/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Z'aanta
+3.Agnea
+4.Ochette
+5.Fire Elemental
+----------------------------------------
+Fire Elemental usa Firesand
+Z'aanta recibe 271 de daño elemental
+Z'aanta termina con HP:2816
+----------------------------------------
+Heatcore obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:363/369 BP:2
+B-Z'aanta - HP:2816/3222 SP:365/371 BP:3
+C-Heatcore - HP:2822/2822 SP:336/342 BP:2
+D-Agnea - HP:4002/4002 SP:496/504 BP:2
+Equipo del enemigo
+A-Fire Elemental - HP:551/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Z'aanta
+3.Agnea
+4.Ochette
+5.Fire Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:363/369 BP:3
+B-Z'aanta - HP:2816/3222 SP:365/371 BP:4
+C-Heatcore - HP:2822/2822 SP:336/342 BP:3
+D-Agnea - HP:4002/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:551/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Z'aanta
+3.Agnea
+4.Ochette
+5.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Agnea
+3.Ochette
+4.Z'aanta
+5.Fire Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Fire Elemental - HP:551/1354 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore ataca
+Fire Elemental recibe 88 de daño de tipo Axe
+Fire Elemental termina con HP:463
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:363/369 BP:3
+B-Z'aanta - HP:2816/3222 SP:365/371 BP:4
+C-Heatcore - HP:2822/2822 SP:336/342 BP:3
+D-Agnea - HP:4002/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:463/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Agnea
+3.Ochette
+4.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Agnea
+3.Ochette
+4.Z'aanta
+5.Fire Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Spearhead
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Fire Elemental - HP:463/1354 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta usa Spearhead
+Fire Elemental recibe 231 de daño de tipo Spear
+Fire Elemental termina con HP:232
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:363/369 BP:3
+B-Z'aanta - HP:2816/3222 SP:359/371 BP:4
+C-Heatcore - HP:2822/2822 SP:336/342 BP:3
+D-Agnea - HP:4002/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:232/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Ochette
+3.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Heatcore
+3.Agnea
+4.Ochette
+5.Fire Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:363/369 BP:3
+B-Z'aanta - HP:2816/3222 SP:359/371 BP:4
+C-Heatcore - HP:2822/2822 SP:336/342 BP:3
+D-Agnea - HP:4002/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:232/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Heatcore
+4.Ochette
+5.Fire Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Fire Elemental - HP:232/1354 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette ataca
+Fire Elemental recibe 189 de daño de tipo Bow
+Fire Elemental termina con HP:43
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:363/369 BP:3
+B-Z'aanta - HP:2816/3222 SP:359/371 BP:4
+C-Heatcore - HP:2822/2822 SP:336/342 BP:3
+D-Agnea - HP:4002/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:43/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Heatcore
+4.Ochette
+5.Fire Elemental
+----------------------------------------
+Fire Elemental usa Firesand
+Z'aanta recibe 271 de daño elemental
+Z'aanta termina con HP:2545
+----------------------------------------
+Heatcore obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:363/369 BP:3
+B-Z'aanta - HP:2545/3222 SP:359/371 BP:4
+C-Heatcore - HP:2822/2822 SP:336/342 BP:3
+D-Agnea - HP:4002/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:43/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Heatcore
+4.Ochette
+5.Fire Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:363/369 BP:4
+B-Z'aanta - HP:2545/3222 SP:359/371 BP:5
+C-Heatcore - HP:2822/2822 SP:336/342 BP:4
+D-Agnea - HP:4002/4002 SP:504/504 BP:4
+Equipo del enemigo
+A-Fire Elemental - HP:43/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Agnea
+3.Z'aanta
+4.Ochette
+5.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Agnea
+3.Ochette
+4.Z'aanta
+5.Fire Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Fire Elemental - HP:43/1354 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore ataca
+Fire Elemental recibe 88 de daño de tipo Bow
+Fire Elemental termina con HP:0
+----------------------------------------
+Gana equipo del jugador

@@ -1,0 +1,619 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+INPUT: 56
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Primrose - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:1060/1060 Shields:3
+B-Shaggy Meep - HP:1036/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Olberic
+3.Mossy Meep
+4.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Mossy Meep
+4.Shaggy Meep
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Mossy Meep - HP:1060/1060 Shields:3
+2: Shaggy Meep - HP:1036/1036 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Mossy Meep recibe 0 de daño de tipo Dagger
+Mossy Meep termina con HP:1060
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Primrose - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:1060/1060 Shields:3
+B-Shaggy Meep - HP:1036/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Mossy Meep
+3.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Mossy Meep
+4.Shaggy Meep
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Spearhead
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Mossy Meep - HP:1060/1060 Shields:3
+2: Shaggy Meep - HP:1036/1036 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Spearhead
+Mossy Meep recibe 191 de daño de tipo Spear
+Mossy Meep termina con HP:869
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:285/291 BP:1
+B-Primrose - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:869/1060 Shields:3
+B-Shaggy Meep - HP:1036/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+2.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Primrose
+3.Mossy Meep
+4.Shaggy Meep
+----------------------------------------
+Mossy Meep usa Attack
+Olberic recibe 157 de daño físico
+Olberic termina con HP:5624
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5624/5781 SP:285/291 BP:1
+B-Primrose - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:869/1060 Shields:3
+B-Shaggy Meep - HP:1036/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Primrose
+3.Mossy Meep
+4.Shaggy Meep
+----------------------------------------
+Shaggy Meep usa Attack
+Olberic recibe 61 de daño físico
+Olberic termina con HP:5563
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5563/5781 SP:285/291 BP:2
+B-Primrose - HP:4002/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:869/1060 Shields:3
+B-Shaggy Meep - HP:1036/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Primrose
+3.Mossy Meep
+4.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Mossy Meep
+4.Shaggy Meep
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Mossy Meep - HP:869/1060 Shields:3
+2: Shaggy Meep - HP:1036/1036 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Mossy Meep recibe 156 de daño de tipo Sword con debilidad
+Mossy Meep termina con HP:713
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5563/5781 SP:285/291 BP:2
+B-Primrose - HP:4002/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:713/1060 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Mossy Meep
+3.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Mossy Meep
+4.Shaggy Meep
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Mossy Meep - HP:713/1060 Shields:2
+2: Shaggy Meep - HP:1036/1036 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Mossy Meep recibe 0 de daño de tipo Dagger
+Mossy Meep termina con HP:713
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5563/5781 SP:285/291 BP:2
+B-Primrose - HP:4002/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:713/1060 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+2.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Mossy Meep
+4.Shaggy Meep
+----------------------------------------
+Mossy Meep usa Attack
+Olberic recibe 157 de daño físico
+Olberic termina con HP:5406
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5406/5781 SP:285/291 BP:2
+B-Primrose - HP:4002/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:713/1060 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Mossy Meep
+4.Shaggy Meep
+----------------------------------------
+Shaggy Meep usa Attack
+Olberic recibe 61 de daño físico
+Olberic termina con HP:5345
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5345/5781 SP:285/291 BP:3
+B-Primrose - HP:4002/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Mossy Meep - HP:713/1060 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Olberic
+3.Mossy Meep
+4.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Mossy Meep
+4.Shaggy Meep
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Mossy Meep - HP:713/1060 Shields:2
+2: Shaggy Meep - HP:1036/1036 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Mossy Meep recibe 0 de daño de tipo Dagger
+Mossy Meep termina con HP:713
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5345/5781 SP:285/291 BP:3
+B-Primrose - HP:4002/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Mossy Meep - HP:713/1060 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Mossy Meep
+3.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Mossy Meep
+4.Shaggy Meep
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Spearhead
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Mossy Meep - HP:713/1060 Shields:2
+2: Shaggy Meep - HP:1036/1036 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Olberic usa Spearhead
+Mossy Meep recibe 1493 de daño de tipo Spear
+Mossy Meep termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5345/5781 SP:279/291 BP:1
+B-Primrose - HP:4002/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Mossy Meep - HP:0/1060 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Primrose
+3.Shaggy Meep
+----------------------------------------
+Shaggy Meep usa Attack
+Olberic recibe 61 de daño físico
+Olberic termina con HP:5284
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5284/5781 SP:279/291 BP:1
+B-Primrose - HP:4002/4002 SP:504/504 BP:4
+Equipo del enemigo
+A-Mossy Meep - HP:0/1060 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Primrose
+3.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Shaggy Meep
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Shaggy Meep - HP:1036/1036 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Shaggy Meep recibe 501 de daño de tipo Sword con debilidad
+Shaggy Meep termina con HP:535
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5284/5781 SP:279/291 BP:1
+B-Primrose - HP:4002/4002 SP:504/504 BP:4
+Equipo del enemigo
+A-Mossy Meep - HP:0/1060 Shields:2
+B-Shaggy Meep - HP:535/1036 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Shaggy Meep
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Shaggy Meep - HP:535/1036 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Shaggy Meep recibe 82 de daño de tipo Dagger
+Shaggy Meep termina con HP:453
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5284/5781 SP:279/291 BP:1
+B-Primrose - HP:4002/4002 SP:504/504 BP:4
+Equipo del enemigo
+A-Mossy Meep - HP:0/1060 Shields:2
+B-Shaggy Meep - HP:453/1036 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Shaggy Meep
+----------------------------------------
+Shaggy Meep usa Attack
+Olberic recibe 61 de daño físico
+Olberic termina con HP:5223
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5223/5781 SP:279/291 BP:2
+B-Primrose - HP:4002/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Mossy Meep - HP:0/1060 Shields:2
+B-Shaggy Meep - HP:453/1036 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Olberic
+3.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Shaggy Meep
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Shaggy Meep - HP:453/1036 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Shaggy Meep recibe 82 de daño de tipo Dagger
+Shaggy Meep termina con HP:371
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5223/5781 SP:279/291 BP:2
+B-Primrose - HP:4002/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Mossy Meep - HP:0/1060 Shields:2
+B-Shaggy Meep - HP:371/1036 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Shaggy Meep
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Spearhead
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Shaggy Meep - HP:371/1036 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Olberic usa Spearhead
+Shaggy Meep recibe 1072 de daño de tipo Spear
+Shaggy Meep termina con HP:0
+----------------------------------------
+Gana equipo del jugador

@@ -1,0 +1,1344 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+INPUT: 28
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:582/582 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:1
+C-H'aanit - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Lord of the Flies - HP:5590/5590 Shields:3
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Light Elemental - HP:1880/1880 Shields:4
+D-Ice Wisp - HP:801/801 Shields:1
+E-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.H'aanit
+3.Cyrus
+4.Devourer of Dreams
+5.Lord of the Flies
+6.Devil Deer
+7.Ice Wisp
+8.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Cyrus
+4.Devourer of Dreams
+5.Lord of the Flies
+6.Devil Deer
+7.Ice Wisp
+8.Light Elemental
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Ethereal Healing
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Ethereal Healing
+Cyrus tendrá restauración de HP durante 2 rondas
+H'aanit tendrá restauración de HP durante 2 rondas
+Therion tendrá restauración de HP durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:582/582 BP:1
+B-Therion - HP:4447/4447 SP:302/332 BP:1
+C-H'aanit - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Lord of the Flies - HP:5590/5590 Shields:3
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Light Elemental - HP:1880/1880 Shields:4
+D-Ice Wisp - HP:801/801 Shields:1
+E-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Cyrus
+3.Devourer of Dreams
+4.Lord of the Flies
+5.Devil Deer
+6.Ice Wisp
+7.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Cyrus
+4.Devourer of Dreams
+5.Lord of the Flies
+6.Devil Deer
+7.Ice Wisp
+8.Light Elemental
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Tradewinds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Lord of the Flies - HP:5590/5590 Shields:3
+2: Devil Deer - HP:2002/2002 Shields:5
+3: Light Elemental - HP:1880/1880 Shields:4
+4: Ice Wisp - HP:801/801 Shields:1
+5: Devourer of Dreams - HP:7500/7500 Shields:10
+6: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit usa Tradewinds
+Lord of the Flies recibe 102 de daño de tipo Wind con debilidad
+Lord of the Flies termina con HP:5488
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:582/582 BP:1
+B-Therion - HP:4447/4447 SP:302/332 BP:1
+C-H'aanit - HP:4447/4447 SP:362/369 BP:1
+Equipo del enemigo
+A-Lord of the Flies - HP:5488/5590 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Light Elemental - HP:1880/1880 Shields:4
+D-Ice Wisp - HP:801/801 Shields:1
+E-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Devourer of Dreams
+3.Lord of the Flies
+4.Devil Deer
+5.Ice Wisp
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Cyrus
+4.Devourer of Dreams
+5.Lord of the Flies
+6.Devil Deer
+7.Ice Wisp
+8.Light Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3912/3557 SP:582/582 BP:1
+B-Therion - HP:4447/4447 SP:302/332 BP:1
+C-H'aanit - HP:4447/4447 SP:362/369 BP:1
+Equipo del enemigo
+A-Lord of the Flies - HP:5488/5590 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Light Elemental - HP:1880/1880 Shields:4
+D-Ice Wisp - HP:801/801 Shields:1
+E-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Lord of the Flies
+3.Devil Deer
+4.Ice Wisp
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Therion
+3.H'aanit
+4.Devourer of Dreams
+5.Lord of the Flies
+6.Devil Deer
+7.Ice Wisp
+8.Light Elemental
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Cyrus recibe 1956 de daño
+Therion recibe 2224 de daño
+H'aanit recibe 2224 de daño
+Cyrus termina con HP:1956
+Therion termina con HP:2223
+H'aanit termina con HP:2223
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1956/3557 SP:582/582 BP:1
+B-Therion - HP:2223/4447 SP:302/332 BP:1
+C-H'aanit - HP:2223/4447 SP:362/369 BP:1
+Equipo del enemigo
+A-Lord of the Flies - HP:5488/5590 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Light Elemental - HP:1880/1880 Shields:4
+D-Ice Wisp - HP:801/801 Shields:1
+E-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Devil Deer
+3.Ice Wisp
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Therion
+3.H'aanit
+4.Devourer of Dreams
+5.Lord of the Flies
+6.Devil Deer
+7.Ice Wisp
+8.Light Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Cyrus se defiende
+Cyrus recibe 154 de daño físico
+Cyrus termina con HP:1802
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1802/3557 SP:582/582 BP:1
+B-Therion - HP:2223/4447 SP:302/332 BP:1
+C-H'aanit - HP:2223/4447 SP:362/369 BP:1
+Equipo del enemigo
+A-Lord of the Flies - HP:5488/5590 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Light Elemental - HP:1880/1880 Shields:4
+D-Ice Wisp - HP:801/801 Shields:1
+E-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Ice Wisp
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Therion
+3.H'aanit
+4.Devourer of Dreams
+5.Lord of the Flies
+6.Devil Deer
+7.Ice Wisp
+8.Light Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+H'aanit recibe 619 de daño físico
+H'aanit termina con HP:1604
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1802/3557 SP:582/582 BP:1
+B-Therion - HP:2223/4447 SP:302/332 BP:1
+C-H'aanit - HP:1604/4447 SP:362/369 BP:1
+Equipo del enemigo
+A-Lord of the Flies - HP:5488/5590 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Light Elemental - HP:1880/1880 Shields:4
+D-Ice Wisp - HP:801/801 Shields:1
+E-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Ice Wisp
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Therion
+3.H'aanit
+4.Devourer of Dreams
+5.Lord of the Flies
+6.Devil Deer
+7.Ice Wisp
+8.Light Elemental
+----------------------------------------
+Ice Wisp usa Freeze
+Therion recibe 160 de daño elemental
+Therion termina con HP:2063
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1802/3557 SP:582/582 BP:1
+B-Therion - HP:2063/4447 SP:302/332 BP:1
+C-H'aanit - HP:1604/4447 SP:362/369 BP:1
+Equipo del enemigo
+A-Lord of the Flies - HP:5488/5590 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Light Elemental - HP:1880/1880 Shields:4
+D-Ice Wisp - HP:801/801 Shields:1
+E-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Therion
+3.H'aanit
+4.Devourer of Dreams
+5.Lord of the Flies
+6.Devil Deer
+7.Ice Wisp
+8.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Therion recibe 149 de daño elemental
+Therion termina con HP:1914
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1802/3557 SP:582/582 BP:2
+B-Therion - HP:1914/4447 SP:302/332 BP:2
+C-H'aanit - HP:1604/4447 SP:362/369 BP:2
+Equipo del enemigo
+A-Lord of the Flies - HP:5488/5590 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Light Elemental - HP:1880/1880 Shields:4
+D-Ice Wisp - HP:801/801 Shields:1
+E-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Therion
+3.H'aanit
+4.Devourer of Dreams
+5.Lord of the Flies
+6.Devil Deer
+7.Ice Wisp
+8.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Cyrus
+4.Devourer of Dreams
+5.Lord of the Flies
+6.Devil Deer
+7.Ice Wisp
+8.Light Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Lord of the Flies - HP:5488/5590 Shields:2
+2: Devil Deer - HP:2002/2002 Shields:5
+3: Light Elemental - HP:1880/1880 Shields:4
+4: Ice Wisp - HP:801/801 Shields:1
+5: Devourer of Dreams - HP:7500/7500 Shields:10
+6: Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Devourer of Dreams recibe 0 de daño de tipo Stave
+Devourer of Dreams recibe 0 de daño de tipo Stave
+Devourer of Dreams termina con HP:7500
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2157/3557 SP:582/582 BP:2
+B-Therion - HP:1914/4447 SP:302/332 BP:2
+C-H'aanit - HP:1604/4447 SP:362/369 BP:2
+Equipo del enemigo
+A-Lord of the Flies - HP:5488/5590 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Light Elemental - HP:1880/1880 Shields:4
+D-Ice Wisp - HP:801/801 Shields:1
+E-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.H'aanit
+3.Devourer of Dreams
+4.Lord of the Flies
+5.Devil Deer
+6.Ice Wisp
+7.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Cyrus
+4.Devourer of Dreams
+5.Lord of the Flies
+6.Devil Deer
+7.Ice Wisp
+8.Light Elemental
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Ethereal Healing
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Therion usa Ethereal Healing
+Cyrus tendrá restauración de HP durante 3 rondas
+H'aanit tendrá restauración de HP durante 3 rondas
+Therion tendrá restauración de HP durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2157/3557 SP:582/582 BP:2
+B-Therion - HP:2358/4447 SP:272/332 BP:1
+C-H'aanit - HP:1604/4447 SP:362/369 BP:2
+Equipo del enemigo
+A-Lord of the Flies - HP:5488/5590 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Light Elemental - HP:1880/1880 Shields:4
+D-Ice Wisp - HP:801/801 Shields:1
+E-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Devourer of Dreams
+3.Lord of the Flies
+4.Devil Deer
+5.Ice Wisp
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Cyrus
+4.Devourer of Dreams
+5.Lord of the Flies
+6.Devil Deer
+7.Ice Wisp
+8.Light Elemental
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Lord of the Flies - HP:5488/5590 Shields:2
+2: Devil Deer - HP:2002/2002 Shields:5
+3: Light Elemental - HP:1880/1880 Shields:4
+4: Ice Wisp - HP:801/801 Shields:1
+5: Devourer of Dreams - HP:7500/7500 Shields:10
+6: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Ice Wisp recibe 267 de daño de tipo Axe
+Ice Wisp recibe 267 de daño de tipo Axe
+Ice Wisp termina con HP:267
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2157/3557 SP:582/582 BP:2
+B-Therion - HP:2358/4447 SP:272/332 BP:1
+C-H'aanit - HP:2048/4447 SP:362/369 BP:2
+Equipo del enemigo
+A-Lord of the Flies - HP:5488/5590 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Light Elemental - HP:1880/1880 Shields:4
+D-Ice Wisp - HP:267/801 Shields:1
+E-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Lord of the Flies
+3.Devil Deer
+4.Ice Wisp
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Cyrus
+4.Devourer of Dreams
+5.Lord of the Flies
+6.Devil Deer
+7.Ice Wisp
+8.Light Elemental
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Cyrus recibe 1079 de daño
+Therion recibe 1179 de daño
+H'aanit recibe 1024 de daño
+Cyrus termina con HP:1078
+Therion termina con HP:1179
+H'aanit termina con HP:1024
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1078/3557 SP:582/582 BP:2
+B-Therion - HP:1179/4447 SP:272/332 BP:1
+C-H'aanit - HP:1024/4447 SP:362/369 BP:2
+Equipo del enemigo
+A-Lord of the Flies - HP:5488/5590 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Light Elemental - HP:1880/1880 Shields:4
+D-Ice Wisp - HP:267/801 Shields:1
+E-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Devil Deer
+3.Ice Wisp
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Cyrus
+4.Devourer of Dreams
+5.Lord of the Flies
+6.Devil Deer
+7.Ice Wisp
+8.Light Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Cyrus recibe 309 de daño físico
+Cyrus termina con HP:769
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:769/3557 SP:582/582 BP:2
+B-Therion - HP:1179/4447 SP:272/332 BP:1
+C-H'aanit - HP:1024/4447 SP:362/369 BP:2
+Equipo del enemigo
+A-Lord of the Flies - HP:5488/5590 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Light Elemental - HP:1880/1880 Shields:4
+D-Ice Wisp - HP:267/801 Shields:1
+E-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Ice Wisp
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Cyrus
+4.Devourer of Dreams
+5.Lord of the Flies
+6.Devil Deer
+7.Ice Wisp
+8.Light Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+H'aanit recibe 619 de daño físico
+H'aanit termina con HP:405
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:769/3557 SP:582/582 BP:2
+B-Therion - HP:1179/4447 SP:272/332 BP:1
+C-H'aanit - HP:405/4447 SP:362/369 BP:2
+Equipo del enemigo
+A-Lord of the Flies - HP:5488/5590 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Light Elemental - HP:1880/1880 Shields:4
+D-Ice Wisp - HP:267/801 Shields:1
+E-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Ice Wisp
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Cyrus
+4.Devourer of Dreams
+5.Lord of the Flies
+6.Devil Deer
+7.Ice Wisp
+8.Light Elemental
+----------------------------------------
+Ice Wisp usa Freeze
+Therion recibe 160 de daño elemental
+Therion termina con HP:1019
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:769/3557 SP:582/582 BP:2
+B-Therion - HP:1019/4447 SP:272/332 BP:1
+C-H'aanit - HP:405/4447 SP:362/369 BP:2
+Equipo del enemigo
+A-Lord of the Flies - HP:5488/5590 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Light Elemental - HP:1880/1880 Shields:4
+D-Ice Wisp - HP:267/801 Shields:1
+E-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Cyrus
+4.Devourer of Dreams
+5.Lord of the Flies
+6.Devil Deer
+7.Ice Wisp
+8.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Therion recibe 149 de daño elemental
+Therion termina con HP:870
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:769/3557 SP:582/582 BP:3
+B-Therion - HP:870/4447 SP:272/332 BP:1
+C-H'aanit - HP:405/4447 SP:362/369 BP:3
+Equipo del enemigo
+A-Lord of the Flies - HP:5488/5590 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Light Elemental - HP:1880/1880 Shields:4
+D-Ice Wisp - HP:267/801 Shields:1
+E-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.H'aanit
+3.Cyrus
+4.Devourer of Dreams
+5.Lord of the Flies
+6.Devil Deer
+7.Ice Wisp
+8.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Cyrus
+4.Devourer of Dreams
+5.Lord of the Flies
+6.Devil Deer
+7.Ice Wisp
+8.Light Elemental
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Ethereal Healing
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Ethereal Healing
+Cyrus tendrá restauración de HP durante 2 rondas
+H'aanit tendrá restauración de HP durante 2 rondas
+Therion tendrá restauración de HP durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:769/3557 SP:582/582 BP:3
+B-Therion - HP:1314/4447 SP:242/332 BP:1
+C-H'aanit - HP:405/4447 SP:362/369 BP:3
+Equipo del enemigo
+A-Lord of the Flies - HP:5488/5590 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Light Elemental - HP:1880/1880 Shields:4
+D-Ice Wisp - HP:267/801 Shields:1
+E-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Cyrus
+3.Devourer of Dreams
+4.Lord of the Flies
+5.Devil Deer
+6.Ice Wisp
+7.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Cyrus
+4.Devourer of Dreams
+5.Lord of the Flies
+6.Devil Deer
+7.Ice Wisp
+8.Light Elemental
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Tradewinds
+2: Sealticge's Seduction
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Cyrus - HP:769/3557 SP:582/582 BP:3
+2: Therion - HP:1314/4447 SP:242/332 BP:1
+3: H'aanit - HP:405/4447 SP:362/369 BP:3
+4: Cancelar
+INPUT: 2
+----------------------------------------
+H'aanit usa Sealticge's Seduction
+Therion modificará sus targets durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:769/3557 SP:582/582 BP:3
+B-Therion - HP:1314/4447 SP:242/332 BP:1
+C-H'aanit - HP:849/4447 SP:332/369 BP:0
+Equipo del enemigo
+A-Lord of the Flies - HP:5488/5590 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Light Elemental - HP:1880/1880 Shields:4
+D-Ice Wisp - HP:267/801 Shields:1
+E-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Devourer of Dreams
+3.Lord of the Flies
+4.Devil Deer
+5.Ice Wisp
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Cyrus
+4.Devourer of Dreams
+5.Lord of the Flies
+6.Devil Deer
+7.Ice Wisp
+8.Light Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Lord of the Flies - HP:5488/5590 Shields:2
+2: Devil Deer - HP:2002/2002 Shields:5
+3: Light Elemental - HP:1880/1880 Shields:4
+4: Ice Wisp - HP:267/801 Shields:1
+5: Devourer of Dreams - HP:7500/7500 Shields:10
+6: Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Devourer of Dreams recibe 0 de daño de tipo Stave
+Devourer of Dreams termina con HP:7500
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1124/3557 SP:582/582 BP:3
+B-Therion - HP:1314/4447 SP:242/332 BP:1
+C-H'aanit - HP:849/4447 SP:332/369 BP:0
+Equipo del enemigo
+A-Lord of the Flies - HP:5488/5590 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Light Elemental - HP:1880/1880 Shields:4
+D-Ice Wisp - HP:267/801 Shields:1
+E-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Lord of the Flies
+3.Devil Deer
+4.Ice Wisp
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Cyrus
+4.Devourer of Dreams
+5.Lord of the Flies
+6.Devil Deer
+7.Ice Wisp
+8.Light Elemental
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Cyrus recibe 562 de daño
+Therion recibe 657 de daño
+H'aanit recibe 425 de daño
+Cyrus termina con HP:562
+Therion termina con HP:657
+H'aanit termina con HP:424
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:562/3557 SP:582/582 BP:3
+B-Therion - HP:657/4447 SP:242/332 BP:1
+C-H'aanit - HP:424/4447 SP:332/369 BP:0
+Equipo del enemigo
+A-Lord of the Flies - HP:5488/5590 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Light Elemental - HP:1880/1880 Shields:4
+D-Ice Wisp - HP:267/801 Shields:1
+E-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Devil Deer
+3.Ice Wisp
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Cyrus
+4.Devourer of Dreams
+5.Lord of the Flies
+6.Devil Deer
+7.Ice Wisp
+8.Light Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Cyrus recibe 309 de daño físico
+Cyrus termina con HP:253
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:253/3557 SP:582/582 BP:3
+B-Therion - HP:657/4447 SP:242/332 BP:1
+C-H'aanit - HP:424/4447 SP:332/369 BP:0
+Equipo del enemigo
+A-Lord of the Flies - HP:5488/5590 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Light Elemental - HP:1880/1880 Shields:4
+D-Ice Wisp - HP:267/801 Shields:1
+E-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Ice Wisp
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Cyrus
+4.Devourer of Dreams
+5.Lord of the Flies
+6.Devil Deer
+7.Ice Wisp
+8.Light Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+H'aanit recibe 619 de daño físico
+H'aanit termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:253/3557 SP:582/582 BP:3
+B-Therion - HP:657/4447 SP:242/332 BP:1
+C-H'aanit - HP:0/4447 SP:332/369 BP:0
+Equipo del enemigo
+A-Lord of the Flies - HP:5488/5590 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Light Elemental - HP:1880/1880 Shields:4
+D-Ice Wisp - HP:267/801 Shields:1
+E-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Ice Wisp
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Cyrus
+3.Devourer of Dreams
+4.Lord of the Flies
+5.Devil Deer
+6.Ice Wisp
+7.Light Elemental
+----------------------------------------
+Ice Wisp usa Freeze
+Therion recibe 160 de daño elemental
+Therion termina con HP:497
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:253/3557 SP:582/582 BP:3
+B-Therion - HP:497/4447 SP:242/332 BP:1
+C-H'aanit - HP:0/4447 SP:332/369 BP:0
+Equipo del enemigo
+A-Lord of the Flies - HP:5488/5590 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Light Elemental - HP:1880/1880 Shields:4
+D-Ice Wisp - HP:267/801 Shields:1
+E-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Cyrus
+3.Devourer of Dreams
+4.Lord of the Flies
+5.Devil Deer
+6.Ice Wisp
+7.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Therion recibe 149 de daño elemental
+Therion termina con HP:348
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:253/3557 SP:582/582 BP:4
+B-Therion - HP:348/4447 SP:242/332 BP:2
+C-H'aanit - HP:0/4447 SP:332/369 BP:0
+Equipo del enemigo
+A-Lord of the Flies - HP:5488/5590 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Light Elemental - HP:1880/1880 Shields:4
+D-Ice Wisp - HP:267/801 Shields:1
+E-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Cyrus
+3.Devourer of Dreams
+4.Lord of the Flies
+5.Devil Deer
+6.Ice Wisp
+7.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Cyrus
+3.Devourer of Dreams
+4.Lord of the Flies
+5.Devil Deer
+6.Ice Wisp
+7.Light Elemental
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Ethereal Healing
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Therion usa Ethereal Healing
+Cyrus tendrá restauración de HP durante 4 rondas
+Therion tendrá restauración de HP durante 4 rondas
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:253/3557 SP:582/582 BP:4
+B-Therion - HP:792/4447 SP:212/332 BP:0
+C-H'aanit - HP:0/4447 SP:332/369 BP:0
+Equipo del enemigo
+A-Lord of the Flies - HP:5488/5590 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Light Elemental - HP:1880/1880 Shields:4
+D-Ice Wisp - HP:267/801 Shields:1
+E-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Devourer of Dreams
+3.Lord of the Flies
+4.Devil Deer
+5.Ice Wisp
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Cyrus
+3.Devourer of Dreams
+4.Lord of the Flies
+5.Devil Deer
+6.Ice Wisp
+7.Light Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:608/3557 SP:582/582 BP:4
+B-Therion - HP:792/4447 SP:212/332 BP:0
+C-H'aanit - HP:0/4447 SP:332/369 BP:0
+Equipo del enemigo
+A-Lord of the Flies - HP:5488/5590 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Light Elemental - HP:1880/1880 Shields:4
+D-Ice Wisp - HP:267/801 Shields:1
+E-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Lord of the Flies
+3.Devil Deer
+4.Ice Wisp
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Therion
+3.Devourer of Dreams
+4.Lord of the Flies
+5.Devil Deer
+6.Ice Wisp
+7.Light Elemental
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Cyrus recibe 304 de daño
+Therion recibe 396 de daño
+Cyrus termina con HP:304
+Therion termina con HP:396
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:304/3557 SP:582/582 BP:4
+B-Therion - HP:396/4447 SP:212/332 BP:0
+C-H'aanit - HP:0/4447 SP:332/369 BP:0
+Equipo del enemigo
+A-Lord of the Flies - HP:5488/5590 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Light Elemental - HP:1880/1880 Shields:4
+D-Ice Wisp - HP:267/801 Shields:1
+E-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Devil Deer
+3.Ice Wisp
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Therion
+3.Devourer of Dreams
+4.Lord of the Flies
+5.Devil Deer
+6.Ice Wisp
+7.Light Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Cyrus se defiende
+Cyrus recibe 154 de daño físico
+Cyrus termina con HP:150
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:150/3557 SP:582/582 BP:4
+B-Therion - HP:396/4447 SP:212/332 BP:0
+C-H'aanit - HP:0/4447 SP:332/369 BP:0
+Equipo del enemigo
+A-Lord of the Flies - HP:5488/5590 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Light Elemental - HP:1880/1880 Shields:4
+D-Ice Wisp - HP:267/801 Shields:1
+E-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Ice Wisp
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Therion
+3.Devourer of Dreams
+4.Lord of the Flies
+5.Devil Deer
+6.Ice Wisp
+7.Light Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+Therion recibe 595 de daño físico
+Therion termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:150/3557 SP:582/582 BP:4
+B-Therion - HP:0/4447 SP:212/332 BP:0
+C-H'aanit - HP:0/4447 SP:332/369 BP:0
+Equipo del enemigo
+A-Lord of the Flies - HP:5488/5590 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Light Elemental - HP:1880/1880 Shields:4
+D-Ice Wisp - HP:267/801 Shields:1
+E-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Ice Wisp
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Devourer of Dreams
+3.Lord of the Flies
+4.Devil Deer
+5.Ice Wisp
+6.Light Elemental
+----------------------------------------
+Ice Wisp usa Freeze
+Cyrus se defiende
+Cyrus recibe 29 de daño elemental
+Cyrus termina con HP:121
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:121/3557 SP:582/582 BP:4
+B-Therion - HP:0/4447 SP:212/332 BP:0
+C-H'aanit - HP:0/4447 SP:332/369 BP:0
+Equipo del enemigo
+A-Lord of the Flies - HP:5488/5590 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Light Elemental - HP:1880/1880 Shields:4
+D-Ice Wisp - HP:267/801 Shields:1
+E-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Devourer of Dreams
+3.Lord of the Flies
+4.Devil Deer
+5.Ice Wisp
+6.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Cyrus se defiende
+Cyrus recibe 23 de daño elemental
+Cyrus termina con HP:98
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:98/3557 SP:582/582 BP:5
+B-Therion - HP:0/4447 SP:212/332 BP:0
+C-H'aanit - HP:0/4447 SP:332/369 BP:0
+Equipo del enemigo
+A-Lord of the Flies - HP:5488/5590 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Light Elemental - HP:1880/1880 Shields:4
+D-Ice Wisp - HP:267/801 Shields:1
+E-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Devourer of Dreams
+3.Lord of the Flies
+4.Devil Deer
+5.Ice Wisp
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Devourer of Dreams
+3.Lord of the Flies
+4.Devil Deer
+5.Ice Wisp
+6.Light Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:453/3557 SP:582/582 BP:5
+B-Therion - HP:0/4447 SP:212/332 BP:0
+C-H'aanit - HP:0/4447 SP:332/369 BP:0
+Equipo del enemigo
+A-Lord of the Flies - HP:5488/5590 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Light Elemental - HP:1880/1880 Shields:4
+D-Ice Wisp - HP:267/801 Shields:1
+E-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Lord of the Flies
+3.Devil Deer
+4.Ice Wisp
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Devourer of Dreams
+3.Lord of the Flies
+4.Devil Deer
+5.Ice Wisp
+6.Light Elemental
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Cyrus recibe 227 de daño
+Cyrus termina con HP:226
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:226/3557 SP:582/582 BP:5
+B-Therion - HP:0/4447 SP:212/332 BP:0
+C-H'aanit - HP:0/4447 SP:332/369 BP:0
+Equipo del enemigo
+A-Lord of the Flies - HP:5488/5590 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Light Elemental - HP:1880/1880 Shields:4
+D-Ice Wisp - HP:267/801 Shields:1
+E-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Devil Deer
+3.Ice Wisp
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Devourer of Dreams
+3.Lord of the Flies
+4.Devil Deer
+5.Ice Wisp
+6.Light Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Cyrus se defiende
+Cyrus recibe 154 de daño físico
+Cyrus termina con HP:72
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:72/3557 SP:582/582 BP:5
+B-Therion - HP:0/4447 SP:212/332 BP:0
+C-H'aanit - HP:0/4447 SP:332/369 BP:0
+Equipo del enemigo
+A-Lord of the Flies - HP:5488/5590 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Light Elemental - HP:1880/1880 Shields:4
+D-Ice Wisp - HP:267/801 Shields:1
+E-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Ice Wisp
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Devourer of Dreams
+3.Lord of the Flies
+4.Devil Deer
+5.Ice Wisp
+6.Light Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+Cyrus se defiende
+Cyrus recibe 284 de daño físico
+Cyrus termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

@@ -5,6 +5,9 @@ namespace Octopath_Traveler_Models.Battle;
 
 public sealed class TeamSetupBattleStateFactory
 {
+    private const int InitialBattleRoundNumber = 1;
+    private const int FirstBoardSlotIndex = 0;
+
     private readonly RuntimeDataCatalogProvider _runtimeDataCatalogProvider;
     private readonly PassiveSkillProfileFactory _passiveSkillProfileFactory = new();
 
@@ -19,7 +22,7 @@ public sealed class TeamSetupBattleStateFactory
 
         IReadOnlyList<TravelerCombatUnit> travelerTeam = CreateTravelerTeam(teamSetup, runtimeDataCatalog);
         IReadOnlyList<BeastCombatUnit> beastTeam = CreateBeastTeam(teamSetup, runtimeDataCatalog);
-        return new BattleState(1, travelerTeam, beastTeam);
+        return new BattleState(InitialBattleRoundNumber, travelerTeam, beastTeam);
     }
 
     private IReadOnlyList<TravelerCombatUnit> CreateTravelerTeam(
@@ -27,7 +30,7 @@ public sealed class TeamSetupBattleStateFactory
         RuntimeDataCatalog runtimeDataCatalog)
     {
         List<TravelerCombatUnit> travelerTeam = [];
-        for (int boardSlotIndex = 0; boardSlotIndex < teamSetup.Travelers.Count; boardSlotIndex++)
+        for (int boardSlotIndex = FirstBoardSlotIndex; boardSlotIndex < teamSetup.Travelers.Count; boardSlotIndex++)
         {
             TravelerSetup travelerSetup = teamSetup.Travelers[boardSlotIndex];
             if (!runtimeDataCatalog.TravelersByName.TryGetValue(travelerSetup.Name, out TravelerDefinition? travelerDefinition)
@@ -62,7 +65,7 @@ public sealed class TeamSetupBattleStateFactory
     private static IReadOnlyList<BeastCombatUnit> CreateBeastTeam(TeamSetup teamSetup, RuntimeDataCatalog runtimeDataCatalog)
     {
         List<BeastCombatUnit> beastTeam = [];
-        for (int boardSlotIndex = 0; boardSlotIndex < teamSetup.Beasts.Count; boardSlotIndex++)
+        for (int boardSlotIndex = FirstBoardSlotIndex; boardSlotIndex < teamSetup.Beasts.Count; boardSlotIndex++)
         {
             string beastName = teamSetup.Beasts[boardSlotIndex];
             if (!runtimeDataCatalog.BeastsByName.TryGetValue(beastName, out BeastDefinition? beastDefinition)

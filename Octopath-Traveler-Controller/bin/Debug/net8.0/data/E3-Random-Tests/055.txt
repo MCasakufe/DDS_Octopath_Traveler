@@ -1,0 +1,1188 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+INPUT: 54
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-Primrose - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Mattias? - HP:5780/5780 Shields:4
+C-Ice Remnant - HP:2779/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ophilia
+3.Mattias?
+4.Ice Remnant
+5.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Mattias?
+4.Ice Remnant
+5.Armor Eater
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Elemental Break
+2: Glacies Claudere
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Armor Eater - HP:1594/1594 Shields:4
+2: Mattias? - HP:5780/5780 Shields:4
+3: Ice Remnant - HP:2779/2779 Shields:3
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Primrose no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Primrose no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Primrose no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Elemental Break
+Mattias? recibe 0 de daño de tipo Stave
+Mattias? tendrá Decreased Elemental Defense durante 2 rondas
+Mattias? termina con HP:5780
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-Primrose - HP:4002/4002 SP:484/504 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Mattias? - HP:5780/5780 Shields:4
+C-Ice Remnant - HP:2779/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Mattias?
+3.Ice Remnant
+4.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Mattias?
+4.Ice Remnant
+5.Armor Eater
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-Primrose - HP:4002/4002 SP:484/504 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Mattias? - HP:5780/5780 Shields:4
+C-Ice Remnant - HP:2779/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Ice Remnant
+3.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Primrose
+3.Mattias?
+4.Ice Remnant
+5.Armor Eater
+----------------------------------------
+Mattias? usa Black Gale
+Ophilia se defiende
+Ophilia recibe 273 de daño elemental
+Primrose recibe 0 de daño elemental
+Ophilia termina con HP:3729
+Primrose termina con HP:4002
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3729/4002 SP:470/470 BP:1
+B-Primrose - HP:4002/4002 SP:484/504 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Mattias? - HP:5780/5780 Shields:4
+C-Ice Remnant - HP:2779/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ice Remnant
+2.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Primrose
+3.Mattias?
+4.Ice Remnant
+5.Armor Eater
+----------------------------------------
+Ice Remnant usa Double Bite
+Primrose recibe 45 de daño físico
+Primrose recibe 45 de daño físico
+Primrose termina con HP:3912
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3729/4002 SP:470/470 BP:1
+B-Primrose - HP:3912/4002 SP:484/504 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Mattias? - HP:5780/5780 Shields:4
+C-Ice Remnant - HP:2779/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Primrose
+3.Mattias?
+4.Ice Remnant
+5.Armor Eater
+----------------------------------------
+Armor Eater usa Consume Armor
+Ophilia tendrá Decreased Physical Defense durante 2 rondas
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3729/4002 SP:470/470 BP:2
+B-Primrose - HP:3912/4002 SP:484/504 BP:2
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Mattias? - HP:5780/5780 Shields:4
+C-Ice Remnant - HP:2779/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Primrose
+3.Mattias?
+4.Ice Remnant
+5.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Mattias?
+4.Ice Remnant
+5.Armor Eater
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Armor Eater - HP:1594/1594 Shields:4
+2: Mattias? - HP:5780/5780 Shields:4
+3: Ice Remnant - HP:2779/2779 Shields:3
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Ophilia no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Ophilia no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Mattias? recibe 0 de daño de tipo Stave
+Mattias? termina con HP:5780
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3729/4002 SP:470/470 BP:2
+B-Primrose - HP:3912/4002 SP:484/504 BP:2
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Mattias? - HP:5780/5780 Shields:4
+C-Ice Remnant - HP:2779/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Mattias?
+3.Ice Remnant
+4.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Mattias?
+4.Ice Remnant
+5.Armor Eater
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Elemental Break
+2: Glacies Claudere
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Armor Eater - HP:1594/1594 Shields:4
+2: Mattias? - HP:5780/5780 Shields:4
+3: Ice Remnant - HP:2779/2779 Shields:3
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Elemental Break
+Mattias? recibe 0 de daño de tipo Stave
+Mattias? tendrá Decreased Elemental Defense durante 2 rondas
+Mattias? termina con HP:5780
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3729/4002 SP:470/470 BP:2
+B-Primrose - HP:3912/4002 SP:464/504 BP:2
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Mattias? - HP:5780/5780 Shields:4
+C-Ice Remnant - HP:2779/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Ice Remnant
+3.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Mattias?
+4.Ice Remnant
+5.Armor Eater
+----------------------------------------
+Mattias? usa Black Gale
+Ophilia recibe 546 de daño elemental
+Primrose recibe 0 de daño elemental
+Ophilia termina con HP:3183
+Primrose termina con HP:3912
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3183/4002 SP:470/470 BP:2
+B-Primrose - HP:3912/4002 SP:464/504 BP:2
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Mattias? - HP:5780/5780 Shields:4
+C-Ice Remnant - HP:2779/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ice Remnant
+2.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Mattias?
+4.Ice Remnant
+5.Armor Eater
+----------------------------------------
+Ice Remnant usa Double Bite
+Primrose recibe 45 de daño físico
+Primrose recibe 45 de daño físico
+Primrose termina con HP:3822
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3183/4002 SP:470/470 BP:2
+B-Primrose - HP:3822/4002 SP:464/504 BP:2
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Mattias? - HP:5780/5780 Shields:4
+C-Ice Remnant - HP:2779/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Mattias?
+4.Ice Remnant
+5.Armor Eater
+----------------------------------------
+Armor Eater usa Consume Armor
+Ophilia tendrá Decreased Physical Defense durante 2 rondas
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3183/4002 SP:470/470 BP:3
+B-Primrose - HP:3822/4002 SP:464/504 BP:3
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Mattias? - HP:5780/5780 Shields:4
+C-Ice Remnant - HP:2779/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ophilia
+3.Mattias?
+4.Ice Remnant
+5.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Mattias?
+4.Ice Remnant
+5.Armor Eater
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Elemental Break
+2: Glacies Claudere
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Glacies Claudere
+Armor Eater recibe 521 de daño de tipo Ice
+Armor Eater recibe 521 de daño de tipo Ice
+Armor Eater recibe 521 de daño de tipo Ice
+Mattias? recibe 378 de daño de tipo Ice con debilidad
+Mattias? recibe 378 de daño de tipo Ice con debilidad
+Mattias? recibe 378 de daño de tipo Ice con debilidad
+Ice Remnant recibe 558 de daño de tipo Ice
+Ice Remnant recibe 558 de daño de tipo Ice
+Ice Remnant recibe 558 de daño de tipo Ice
+Armor Eater termina con HP:31
+Mattias? termina con HP:4646
+Ice Remnant termina con HP:1105
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3183/4002 SP:470/470 BP:3
+B-Primrose - HP:3822/4002 SP:428/504 BP:3
+Equipo del enemigo
+A-Armor Eater - HP:31/1594 Shields:4
+B-Mattias? - HP:4646/5780 Shields:1
+C-Ice Remnant - HP:1105/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Mattias?
+3.Ice Remnant
+4.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Mattias?
+4.Ice Remnant
+5.Armor Eater
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Armor Eater - HP:31/1594 Shields:4
+2: Mattias? - HP:4646/5780 Shields:1
+3: Ice Remnant - HP:1105/2779 Shields:3
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Ophilia ataca
+Mattias? recibe 0 de daño de tipo Stave
+Mattias? recibe 0 de daño de tipo Stave
+Mattias? recibe 0 de daño de tipo Stave
+Mattias? recibe 0 de daño de tipo Stave
+Mattias? termina con HP:4646
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3183/4002 SP:470/470 BP:0
+B-Primrose - HP:3822/4002 SP:428/504 BP:3
+Equipo del enemigo
+A-Armor Eater - HP:31/1594 Shields:4
+B-Mattias? - HP:4646/5780 Shields:1
+C-Ice Remnant - HP:1105/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Ice Remnant
+3.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Mattias?
+4.Ice Remnant
+5.Armor Eater
+----------------------------------------
+Mattias? usa Black Gale
+Ophilia recibe 546 de daño elemental
+Primrose recibe 0 de daño elemental
+Ophilia termina con HP:2637
+Primrose termina con HP:3822
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2637/4002 SP:470/470 BP:0
+B-Primrose - HP:3822/4002 SP:428/504 BP:3
+Equipo del enemigo
+A-Armor Eater - HP:31/1594 Shields:4
+B-Mattias? - HP:4646/5780 Shields:1
+C-Ice Remnant - HP:1105/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ice Remnant
+2.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Mattias?
+4.Ice Remnant
+5.Armor Eater
+----------------------------------------
+Ice Remnant usa Double Bite
+Primrose recibe 45 de daño físico
+Primrose recibe 45 de daño físico
+Primrose termina con HP:3732
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2637/4002 SP:470/470 BP:0
+B-Primrose - HP:3732/4002 SP:428/504 BP:3
+Equipo del enemigo
+A-Armor Eater - HP:31/1594 Shields:4
+B-Mattias? - HP:4646/5780 Shields:1
+C-Ice Remnant - HP:1105/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Mattias?
+4.Ice Remnant
+5.Armor Eater
+----------------------------------------
+Armor Eater usa Consume Armor
+Ophilia tendrá Decreased Physical Defense durante 2 rondas
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2637/4002 SP:470/470 BP:0
+B-Primrose - HP:3732/4002 SP:428/504 BP:4
+Equipo del enemigo
+A-Armor Eater - HP:31/1594 Shields:4
+B-Mattias? - HP:4646/5780 Shields:1
+C-Ice Remnant - HP:1105/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ophilia
+3.Mattias?
+4.Ice Remnant
+5.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Mattias?
+4.Ice Remnant
+5.Armor Eater
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Armor Eater - HP:31/1594 Shields:4
+2: Mattias? - HP:4646/5780 Shields:1
+3: Ice Remnant - HP:1105/2779 Shields:3
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Primrose ataca
+Armor Eater recibe 51 de daño de tipo Dagger
+Armor Eater recibe 51 de daño de tipo Dagger
+Armor Eater recibe 51 de daño de tipo Dagger
+Armor Eater termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2637/4002 SP:470/470 BP:0
+B-Primrose - HP:3732/4002 SP:428/504 BP:2
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:4
+B-Mattias? - HP:4646/5780 Shields:1
+C-Ice Remnant - HP:1105/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Mattias?
+3.Ice Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Mattias?
+4.Ice Remnant
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Mattias? - HP:4646/5780 Shields:1
+2: Ice Remnant - HP:1105/2779 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Ophilia ataca
+Mattias? recibe 0 de daño de tipo Stave
+Mattias? termina con HP:4646
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2637/4002 SP:470/470 BP:0
+B-Primrose - HP:3732/4002 SP:428/504 BP:2
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:4
+B-Mattias? - HP:4646/5780 Shields:1
+C-Ice Remnant - HP:1105/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Ice Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Mattias?
+4.Ice Remnant
+----------------------------------------
+Mattias? usa Black Gale
+Ophilia recibe 546 de daño elemental
+Primrose recibe 0 de daño elemental
+Ophilia termina con HP:2091
+Primrose termina con HP:3732
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2091/4002 SP:470/470 BP:0
+B-Primrose - HP:3732/4002 SP:428/504 BP:2
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:4
+B-Mattias? - HP:4646/5780 Shields:1
+C-Ice Remnant - HP:1105/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ice Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Mattias?
+4.Ice Remnant
+----------------------------------------
+Ice Remnant usa Double Bite
+Primrose recibe 45 de daño físico
+Primrose recibe 45 de daño físico
+Primrose termina con HP:3642
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2091/4002 SP:470/470 BP:1
+B-Primrose - HP:3642/4002 SP:428/504 BP:2
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:4
+B-Mattias? - HP:4646/5780 Shields:1
+C-Ice Remnant - HP:1105/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ophilia
+3.Mattias?
+4.Ice Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Mattias?
+4.Ice Remnant
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Mattias? - HP:4646/5780 Shields:1
+2: Ice Remnant - HP:1105/2779 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Primrose ataca
+Mattias? recibe 0 de daño de tipo Dagger
+Mattias? recibe 0 de daño de tipo Dagger
+Mattias? recibe 0 de daño de tipo Dagger
+Mattias? termina con HP:4646
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2091/4002 SP:470/470 BP:1
+B-Primrose - HP:3642/4002 SP:428/504 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:4
+B-Mattias? - HP:4646/5780 Shields:1
+C-Ice Remnant - HP:1105/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Mattias?
+3.Ice Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Mattias?
+4.Ice Remnant
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Glacies Claudere
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Ophilia usa Glacies Claudere
+Mattias? recibe 804 de daño de tipo Ice con debilidad
+Mattias? entra en Breaking Point
+Mattias? recibe 1072 de daño de tipo Ice con debilidad
+Mattias? recibe 1072 de daño de tipo Ice con debilidad
+Ice Remnant recibe 926 de daño de tipo Ice
+Ice Remnant recibe 926 de daño de tipo Ice
+Ice Remnant recibe 926 de daño de tipo Ice
+Mattias? termina con HP:1698
+Ice Remnant termina con HP:0
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2091/4002 SP:434/470 BP:0
+B-Primrose - HP:3642/4002 SP:428/504 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:4
+B-Mattias? - HP:1698/5780 Shields:0
+C-Ice Remnant - HP:0/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ophilia
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mattias?
+2.Primrose
+3.Ophilia
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Elemental Break
+2: Glacies Claudere
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Mattias? - HP:1698/5780 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Primrose usa Elemental Break
+Mattias? recibe 0 de daño de tipo Stave
+Mattias? tendrá Decreased Elemental Defense durante 2 rondas
+Mattias? termina con HP:1698
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2091/4002 SP:434/470 BP:0
+B-Primrose - HP:3642/4002 SP:408/504 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:4
+B-Mattias? - HP:1698/5780 Shields:0
+C-Ice Remnant - HP:0/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mattias?
+2.Primrose
+3.Ophilia
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2091/4002 SP:434/470 BP:1
+B-Primrose - HP:3642/4002 SP:408/504 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:4
+B-Mattias? - HP:1698/5780 Shields:4
+C-Ice Remnant - HP:0/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Ophilia
+3.Primrose
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Ophilia recibe 546 de daño elemental
+Primrose recibe 0 de daño elemental
+Ophilia termina con HP:1545
+Primrose termina con HP:3642
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1545/4002 SP:434/470 BP:1
+B-Primrose - HP:3642/4002 SP:408/504 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:4
+B-Mattias? - HP:1698/5780 Shields:4
+C-Ice Remnant - HP:0/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Primrose
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Mattias?
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1545/4002 SP:434/470 BP:1
+B-Primrose - HP:3642/4002 SP:408/504 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:4
+B-Mattias? - HP:1698/5780 Shields:4
+C-Ice Remnant - HP:0/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Primrose
+3.Mattias?
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Elemental Break
+2: Glacies Claudere
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Mattias? - HP:1698/5780 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Primrose usa Elemental Break
+Mattias? recibe 454 de daño de tipo Stave
+Mattias? tendrá Decreased Elemental Defense durante 2 rondas
+Mattias? termina con HP:1244
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1545/4002 SP:434/470 BP:2
+B-Primrose - HP:3642/4002 SP:388/504 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:4
+B-Mattias? - HP:1244/5780 Shields:4
+C-Ice Remnant - HP:0/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Primrose
+3.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Mattias?
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Mattias? - HP:1244/5780 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Ophilia no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Ophilia ataca
+Mattias? recibe 0 de daño de tipo Stave
+Mattias? recibe 0 de daño de tipo Stave
+Mattias? termina con HP:1244
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1545/4002 SP:434/470 BP:1
+B-Primrose - HP:3642/4002 SP:388/504 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:4
+B-Mattias? - HP:1244/5780 Shields:4
+C-Ice Remnant - HP:0/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Mattias?
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Mattias? - HP:1244/5780 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Primrose ataca
+Mattias? recibe 0 de daño de tipo Dagger
+Mattias? termina con HP:1244
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1545/4002 SP:434/470 BP:1
+B-Primrose - HP:3642/4002 SP:388/504 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:4
+B-Mattias? - HP:1244/5780 Shields:4
+C-Ice Remnant - HP:0/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Ophilia recibe 546 de daño elemental
+Primrose recibe 0 de daño elemental
+Ophilia termina con HP:999
+Primrose termina con HP:3642
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:999/4002 SP:434/470 BP:1
+B-Primrose - HP:3642/4002 SP:388/504 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:4
+B-Mattias? - HP:1244/5780 Shields:4
+C-Ice Remnant - HP:0/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ophilia
+3.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Mattias?
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Elemental Break
+2: Glacies Claudere
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Primrose usa Glacies Claudere
+Mattias? recibe 1972 de daño de tipo Ice con debilidad
+Mattias? recibe 1972 de daño de tipo Ice con debilidad
+Mattias? recibe 1972 de daño de tipo Ice con debilidad
+Mattias? termina con HP:0
+----------------------------------------
+Gana equipo del jugador

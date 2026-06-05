@@ -2,6 +2,16 @@ namespace Octopath_Traveler_Models.Battle;
 
 public abstract class Unit
 {
+    private const int NoHpRemaining = 0;
+    private const int NoRounds = 0;
+    private const int RoundCountdownStep = 1;
+    private const double NoStatusDamageMultiplier = 1.0;
+    private const double IncreasedStatusDamageMultiplier = 1.5;
+    private const double DecreasedStatusDamageMultiplier = 2.0 / 3.0;
+    private const double IncreasedSpeedMultiplier = 1.5;
+
+    private readonly Dictionary<UnitStatusEffectKind, int> _statusEffectDurations = new();
+
     protected Unit(
         string name,
         int maxHp,
@@ -41,5 +51,88 @@ public abstract class Unit
 
     public int BoardSlotIndex { get; }
 
-    public bool IsAlive => CurrentHp > 0;
+    public bool IsAlive => CurrentHp > NoHpRemaining;
+
+    public IReadOnlyList<UnitStatusEffect> ActiveStatusEffects => _statusEffectDurations
+        .OrderBy(effectDuration => effectDuration.Key)
+        .Select(effectDuration => new UnitStatusEffect(effectDuration.Key, effectDuration.Value))
+        .ToList();
+
+    public void ApplyStatusEffect(UnitStatusEffectKind statusEffectKind, int durationRounds)
+    {
+        if (durationRounds <= NoRounds)
+            return;
+
+        if (_statusEffectDurations.ContainsKey(statusEffectKind))
+            _statusEffectDurations[statusEffectKind] += durationRounds;
+        else
+            _statusEffectDurations[statusEffectKind] = durationRounds;
+    }
+
+    public bool HasStatusEffect(UnitStatusEffectKind statusEffectKind)
+        => _statusEffectDurations.ContainsKey(statusEffectKind);
+
+    public int GetStatusEffectDuration(UnitStatusEffectKind statusEffectKind)
+        => _statusEffectDurations.GetValueOrDefault(statusEffectKind);
+
+    public double GetPhysicalAttackDamageMultiplier()
+        => CalculateStatusDamageMultiplier(
+            UnitStatusEffectKind.IncreasedPhysicalAttack,
+            UnitStatusEffectKind.DecreasedPhysicalAttack);
+
+    public double GetElementalAttackDamageMultiplier()
+        => HasStatusEffect(UnitStatusEffectKind.IncreasedElementalAttack)
+            ? IncreasedStatusDamageMultiplier
+            : NoStatusDamageMultiplier;
+
+    public double GetPhysicalDefenseDamageMultiplier()
+        => CalculateStatusDamageMultiplier(
+            UnitStatusEffectKind.DecreasedPhysicalDefense,
+            UnitStatusEffectKind.IncreasedPhysicalDefense);
+
+    public double GetElementalDefenseDamageMultiplier()
+        => CalculateStatusDamageMultiplier(
+            UnitStatusEffectKind.DecreasedElementalDefense,
+            UnitStatusEffectKind.IncreasedElementalDefense);
+
+    public int GetEffectiveSpeed()
+        => CalculateEffectiveSpeed(HasStatusEffect(UnitStatusEffectKind.IncreasedSpeed));
+
+    public int GetEffectiveSpeedAfterRoundCountdown()
+        => CalculateEffectiveSpeed(
+            GetStatusEffectDuration(UnitStatusEffectKind.IncreasedSpeed) > RoundCountdownStep);
+
+    protected void DecreaseStatusEffectDurationsForNextRound()
+    {
+        foreach (UnitStatusEffectKind statusEffectKind in _statusEffectDurations.Keys.ToList())
+            DecreaseStatusEffectDuration(statusEffectKind);
+    }
+
+    private double CalculateStatusDamageMultiplier(
+        UnitStatusEffectKind increasedDamageStatus,
+        UnitStatusEffectKind decreasedDamageStatus)
+    {
+        double multiplier = NoStatusDamageMultiplier;
+        if (HasStatusEffect(increasedDamageStatus))
+            multiplier *= IncreasedStatusDamageMultiplier;
+
+        if (HasStatusEffect(decreasedDamageStatus))
+            multiplier *= DecreasedStatusDamageMultiplier;
+
+        return multiplier;
+    }
+
+    private int CalculateEffectiveSpeed(bool hasIncreasedSpeed)
+        => hasIncreasedSpeed
+            ? (int)Math.Floor(Speed * IncreasedSpeedMultiplier)
+            : Speed;
+
+    private void DecreaseStatusEffectDuration(UnitStatusEffectKind statusEffectKind)
+    {
+        int remainingRounds = _statusEffectDurations[statusEffectKind] - RoundCountdownStep;
+        if (remainingRounds <= NoRounds)
+            _statusEffectDurations.Remove(statusEffectKind);
+        else
+            _statusEffectDurations[statusEffectKind] = remainingRounds;
+    }
 }

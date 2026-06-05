@@ -1,0 +1,248 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+INPUT: 6
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4002/4002 SP:504/504 BP:1
+B-Tressa - HP:4891/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Fire Elemental - HP:1354/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Tressa
+3.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Tressa
+3.Fire Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Fire Elemental - HP:1354/1354 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Fire Elemental recibe 0 de daño de tipo Dagger
+Fire Elemental termina con HP:1354
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4002/4002 SP:504/504 BP:1
+B-Tressa - HP:4891/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Fire Elemental - HP:1354/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Tressa
+3.Fire Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Leghold Trap
+2: Holy Light
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Fire Elemental - HP:1354/1354 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Holy Light
+Fire Elemental recibe 330 de daño de tipo Light
+Fire Elemental termina con HP:1024
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4002/4002 SP:504/504 BP:1
+B-Tressa - HP:4891/4891 SP:351/357 BP:1
+Equipo del enemigo
+A-Fire Elemental - HP:1024/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Tressa
+3.Fire Elemental
+----------------------------------------
+Fire Elemental usa Firesand
+Tressa recibe 219 de daño elemental
+Tressa termina con HP:4672
+----------------------------------------
+Agnea obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4002/4002 SP:504/504 BP:1
+B-Tressa - HP:4672/4891 SP:351/357 BP:1
+Equipo del enemigo
+A-Fire Elemental - HP:1024/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Tressa
+3.Fire Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Fireball
+2: Spearhead
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Fireball
+Fire Elemental recibe 430 de daño de tipo Fire
+Fire Elemental termina con HP:594
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4002/4002 SP:496/504 BP:2
+B-Tressa - HP:4672/4891 SP:357/357 BP:2
+Equipo del enemigo
+A-Fire Elemental - HP:594/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Tressa
+3.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Tressa
+3.Fire Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Fireball
+2: Spearhead
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Fireball
+Fire Elemental recibe 430 de daño de tipo Fire
+Fire Elemental termina con HP:164
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4002/4002 SP:488/504 BP:2
+B-Tressa - HP:4672/4891 SP:357/357 BP:2
+Equipo del enemigo
+A-Fire Elemental - HP:164/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Tressa
+3.Fire Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Leghold Trap
+2: Holy Light
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Fire Elemental - HP:164/1354 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Holy Light
+Fire Elemental recibe 330 de daño de tipo Light
+Fire Elemental termina con HP:0
+----------------------------------------
+Gana equipo del jugador

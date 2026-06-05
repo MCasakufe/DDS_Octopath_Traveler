@@ -32,7 +32,7 @@ internal sealed class ShootingStarsTravelerSkillEffect : TravelerSkillEffect
         BeastCombatUnit target,
         string damageType)
     {
-        TravelerSkillDamageProfile damageProfile = new(damageType, effectContext.Skill.Modifier);
+        TravelerSkillDamageProfile damageProfile = BuildSkillDamageProfile(effectContext, damageType);
         BeastDamageResolution damageResolution = ResolveStandardBeastDamage(
             effectContext,
             target,

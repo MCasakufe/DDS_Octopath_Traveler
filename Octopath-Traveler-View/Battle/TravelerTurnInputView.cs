@@ -6,6 +6,12 @@ namespace Octopath_Traveler_View.Battle;
 public sealed class TravelerTurnInputView
 {
     private const string SeparatorLine = "----------------------------------------";
+    private const int MenuOptionNumberOffset = 1;
+    private const int MinimumSelectableIndex = 0;
+    private const int MinimumBpToPrompt = 1;
+    private const int DefaultUsedBp = 0;
+    private const int MinimumRequestedBp = 0;
+    private const int MaximumUsedBp = 3;
 
     private readonly View _view;
     private readonly TravelerTurnSelectionPolicy _selectionPolicy;
@@ -105,13 +111,21 @@ public sealed class TravelerTurnInputView
         if (selectedTarget is null)
             return null;
 
-        int usedBp = ReadUsedBp(traveler.Name, traveler.CurrentBp);
+        int usedBp = SelectSkillUsedBp(selectedSkill, traveler);
         return new TravelerSkillSelection(
             selectedSkill,
             selectedTarget.SelectedBeastTarget,
             selectedTarget.SelectedTravelerTarget,
             selectedWeapon,
             usedBp);
+    }
+
+    private int SelectSkillUsedBp(SkillDefinition selectedSkill, TravelerCombatUnit traveler)
+    {
+        if (!_selectionPolicy.RequiresBpSelection(selectedSkill))
+            return _selectionPolicy.SelectAutomaticBpCost(selectedSkill);
+
+        return ReadUsedBp(traveler.Name, traveler.CurrentBp);
     }
 
     private string? TrySelectSkillWeapon(TravelerSkillInputPlan inputPlan)
@@ -211,9 +225,9 @@ public sealed class TravelerTurnInputView
         _view.WriteLine(title);
 
         for (int index = 0; index < options.Count; index++)
-            _view.WriteLine($"{index + 1}: {options[index]}");
+            _view.WriteLine($"{index + MenuOptionNumberOffset}: {options[index]}");
 
-        _view.WriteLine($"{options.Count + 1}: Cancelar");
+        _view.WriteLine($"{options.Count + MenuOptionNumberOffset}: Cancelar");
     }
 
     private int? TryReadSelectedIndex(int selectableOptionCount)
@@ -222,20 +236,20 @@ public sealed class TravelerTurnInputView
         if (selectedOption is null)
             return null;
 
-        int cancelOption = selectableOptionCount + 1;
+        int cancelOption = selectableOptionCount + MenuOptionNumberOffset;
         if (selectedOption.Value == cancelOption)
             return null;
 
-        int selectedIndex = selectedOption.Value - 1;
-        return selectedIndex >= 0 && selectedIndex < selectableOptionCount
+        int selectedIndex = selectedOption.Value - MenuOptionNumberOffset;
+        return selectedIndex >= MinimumSelectableIndex && selectedIndex < selectableOptionCount
             ? selectedIndex
             : null;
     }
 
     private int ReadUsedBp(string travelerName, int currentBp)
     {
-        if (currentBp < 1)
-            return 0;
+        if (currentBp < MinimumBpToPrompt)
+            return DefaultUsedBp;
 
         while (true)
         {
@@ -244,12 +258,12 @@ public sealed class TravelerTurnInputView
 
             string? enteredText = _view.ReadLine();
             if (!int.TryParse(enteredText, out int requestedBp))
-                return 0;
+                return DefaultUsedBp;
 
-            if (requestedBp < 0)
-                return 0;
+            if (requestedBp < MinimumRequestedBp)
+                return DefaultUsedBp;
 
-            if (requestedBp > 3 || requestedBp > currentBp)
+            if (requestedBp > MaximumUsedBp || requestedBp > currentBp)
             {
                 _view.WriteLine(SeparatorLine);
                 _view.WriteLine($"{travelerName} no tiene {requestedBp} BP para utilizar");

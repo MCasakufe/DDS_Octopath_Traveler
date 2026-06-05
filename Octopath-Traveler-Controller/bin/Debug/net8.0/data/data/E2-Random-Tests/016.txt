@@ -1,0 +1,1972 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 15
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-H'aanit - HP:4947/4947 SP:419/419 BP:1
+C-Ochette - HP:4447/4447 SP:419/419 BP:1
+Equipo del enemigo
+A-Thunder Wisp - HP:947/947 Shields:1
+B-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.H'aanit
+3.Dreadwolf
+4.Ophilia
+5.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.H'aanit
+3.Dreadwolf
+4.Ophilia
+5.Thunder Wisp
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Thunder Wisp - HP:947/947 Shields:1
+2: Dreadwolf - HP:7530/7530 Shields:9
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette ataca
+Thunder Wisp recibe 0 de daño de tipo Bow
+Thunder Wisp termina con HP:947
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-H'aanit - HP:4947/4947 SP:419/419 BP:1
+C-Ochette - HP:4447/4447 SP:419/419 BP:1
+Equipo del enemigo
+A-Thunder Wisp - HP:947/947 Shields:1
+B-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Dreadwolf
+3.Ophilia
+4.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.H'aanit
+3.Dreadwolf
+4.Ophilia
+5.Thunder Wisp
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-H'aanit - HP:4947/4947 SP:419/419 BP:1
+C-Ochette - HP:4447/4447 SP:419/419 BP:1
+Equipo del enemigo
+A-Thunder Wisp - HP:947/947 Shields:1
+B-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Ophilia
+3.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ochette
+3.Dreadwolf
+4.Ophilia
+5.Thunder Wisp
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Ochette recibe 831 de daño físico
+Ochette termina con HP:3616
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-H'aanit - HP:4947/4947 SP:419/419 BP:1
+C-Ochette - HP:3616/4447 SP:419/419 BP:1
+Equipo del enemigo
+A-Thunder Wisp - HP:947/947 Shields:1
+B-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ochette
+3.Dreadwolf
+4.Ophilia
+5.Thunder Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-H'aanit - HP:4947/4947 SP:419/419 BP:1
+C-Ochette - HP:3616/4447 SP:419/419 BP:1
+Equipo del enemigo
+A-Thunder Wisp - HP:947/947 Shields:1
+B-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Ochette
+4.Dreadwolf
+5.Thunder Wisp
+----------------------------------------
+Thunder Wisp usa Enshadow
+Ochette recibe 294 de daño elemental
+Ochette termina con HP:3322
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:2
+B-H'aanit - HP:4947/4947 SP:419/419 BP:2
+C-Ochette - HP:3322/4447 SP:419/419 BP:2
+Equipo del enemigo
+A-Thunder Wisp - HP:947/947 Shields:1
+B-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Ophilia
+3.Ochette
+4.Dreadwolf
+5.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.H'aanit
+3.Dreadwolf
+4.Ophilia
+5.Thunder Wisp
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Thunder Wisp - HP:947/947 Shields:1
+2: Dreadwolf - HP:7530/7530 Shields:9
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Dreadwolf recibe 105 de daño de tipo Bow
+Dreadwolf termina con HP:7425
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:2
+B-H'aanit - HP:4947/4947 SP:419/419 BP:2
+C-Ochette - HP:3322/4447 SP:419/419 BP:2
+Equipo del enemigo
+A-Thunder Wisp - HP:947/947 Shields:1
+B-Dreadwolf - HP:7425/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Ochette
+3.Dreadwolf
+4.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.H'aanit
+3.Dreadwolf
+4.Ophilia
+5.Thunder Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:2
+B-H'aanit - HP:4947/4947 SP:419/419 BP:2
+C-Ochette - HP:3322/4447 SP:419/419 BP:2
+Equipo del enemigo
+A-Thunder Wisp - HP:947/947 Shields:1
+B-Dreadwolf - HP:7425/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Dreadwolf
+3.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Ochette
+3.H'aanit
+4.Dreadwolf
+5.Thunder Wisp
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Wildfire
+2: Phoenix Storm
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Thunder Wisp - HP:947/947 Shields:1
+2: Dreadwolf - HP:7425/7530 Shields:9
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette usa Wildfire
+Thunder Wisp recibe 266 de daño de tipo Fire
+Thunder Wisp termina con HP:681
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:2
+B-H'aanit - HP:4947/4947 SP:419/419 BP:2
+C-Ochette - HP:3322/4447 SP:412/419 BP:2
+Equipo del enemigo
+A-Thunder Wisp - HP:681/947 Shields:1
+B-Dreadwolf - HP:7425/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Ochette
+3.H'aanit
+4.Dreadwolf
+5.Thunder Wisp
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Ochette recibe 831 de daño físico
+Ochette termina con HP:2491
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:2
+B-H'aanit - HP:4947/4947 SP:419/419 BP:2
+C-Ochette - HP:2491/4447 SP:412/419 BP:2
+Equipo del enemigo
+A-Thunder Wisp - HP:681/947 Shields:1
+B-Dreadwolf - HP:7425/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Ochette
+3.H'aanit
+4.Dreadwolf
+5.Thunder Wisp
+----------------------------------------
+Thunder Wisp usa Enshadow
+Ochette recibe 294 de daño elemental
+Ochette termina con HP:2197
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:3
+B-H'aanit - HP:4947/4947 SP:419/419 BP:3
+C-Ochette - HP:2197/4447 SP:412/419 BP:3
+Equipo del enemigo
+A-Thunder Wisp - HP:681/947 Shields:1
+B-Dreadwolf - HP:7425/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Ochette
+3.H'aanit
+4.Dreadwolf
+5.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.H'aanit
+3.Dreadwolf
+4.Ophilia
+5.Thunder Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:3
+B-H'aanit - HP:4947/4947 SP:419/419 BP:3
+C-Ochette - HP:2197/4447 SP:412/419 BP:3
+Equipo del enemigo
+A-Thunder Wisp - HP:681/947 Shields:1
+B-Dreadwolf - HP:7425/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.H'aanit
+3.Dreadwolf
+4.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Ochette
+3.H'aanit
+4.Dreadwolf
+5.Thunder Wisp
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Thunder Wisp - HP:681/947 Shields:1
+2: Dreadwolf - HP:7425/7530 Shields:9
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette ataca
+Dreadwolf recibe 89 de daño de tipo Bow
+Dreadwolf termina con HP:7336
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:3
+B-H'aanit - HP:4947/4947 SP:419/419 BP:3
+C-Ochette - HP:2197/4447 SP:412/419 BP:3
+Equipo del enemigo
+A-Thunder Wisp - HP:681/947 Shields:1
+B-Dreadwolf - HP:7336/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Dreadwolf
+3.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Ochette
+3.H'aanit
+4.Dreadwolf
+5.Thunder Wisp
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Thunder Wisp - HP:681/947 Shields:1
+2: Dreadwolf - HP:7336/7530 Shields:9
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Thunder Wisp recibe 0 de daño de tipo Axe
+Thunder Wisp termina con HP:681
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:3
+B-H'aanit - HP:4947/4947 SP:419/419 BP:3
+C-Ochette - HP:2197/4447 SP:412/419 BP:3
+Equipo del enemigo
+A-Thunder Wisp - HP:681/947 Shields:1
+B-Dreadwolf - HP:7336/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Ochette
+3.H'aanit
+4.Dreadwolf
+5.Thunder Wisp
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Ochette recibe 831 de daño físico
+Ochette termina con HP:1366
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:3
+B-H'aanit - HP:4947/4947 SP:419/419 BP:3
+C-Ochette - HP:1366/4447 SP:412/419 BP:3
+Equipo del enemigo
+A-Thunder Wisp - HP:681/947 Shields:1
+B-Dreadwolf - HP:7336/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Ochette
+3.H'aanit
+4.Dreadwolf
+5.Thunder Wisp
+----------------------------------------
+Thunder Wisp usa Enshadow
+Ochette recibe 294 de daño elemental
+Ochette termina con HP:1072
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:4
+B-H'aanit - HP:4947/4947 SP:419/419 BP:4
+C-Ochette - HP:1072/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:681/947 Shields:1
+B-Dreadwolf - HP:7336/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Ochette
+3.H'aanit
+4.Dreadwolf
+5.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.H'aanit
+3.Dreadwolf
+4.Ophilia
+5.Thunder Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:4
+B-H'aanit - HP:4947/4947 SP:419/419 BP:4
+C-Ochette - HP:1072/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:681/947 Shields:1
+B-Dreadwolf - HP:7336/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.H'aanit
+3.Dreadwolf
+4.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Ochette
+3.H'aanit
+4.Dreadwolf
+5.Thunder Wisp
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Thunder Wisp - HP:681/947 Shields:1
+2: Dreadwolf - HP:7336/7530 Shields:9
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette ataca
+Dreadwolf recibe 89 de daño de tipo Bow
+Dreadwolf termina con HP:7247
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:4
+B-H'aanit - HP:4947/4947 SP:419/419 BP:4
+C-Ochette - HP:1072/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:681/947 Shields:1
+B-Dreadwolf - HP:7247/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Dreadwolf
+3.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Ochette
+3.H'aanit
+4.Dreadwolf
+5.Thunder Wisp
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Thunder Wisp - HP:681/947 Shields:1
+2: Dreadwolf - HP:7247/7530 Shields:9
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Dreadwolf recibe 158 de daño de tipo Axe con debilidad
+Dreadwolf termina con HP:7089
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:4
+B-H'aanit - HP:4947/4947 SP:419/419 BP:4
+C-Ochette - HP:1072/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:681/947 Shields:1
+B-Dreadwolf - HP:7089/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Ochette
+3.H'aanit
+4.Dreadwolf
+5.Thunder Wisp
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Ochette recibe 831 de daño físico
+Ochette termina con HP:241
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:4
+B-H'aanit - HP:4947/4947 SP:419/419 BP:4
+C-Ochette - HP:241/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:681/947 Shields:1
+B-Dreadwolf - HP:7089/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Ochette
+3.H'aanit
+4.Dreadwolf
+5.Thunder Wisp
+----------------------------------------
+Thunder Wisp usa Enshadow
+Ochette recibe 294 de daño elemental
+Ochette termina con HP:0
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-H'aanit - HP:4947/4947 SP:419/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:681/947 Shields:1
+B-Dreadwolf - HP:7089/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.H'aanit
+3.Dreadwolf
+4.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Dreadwolf
+3.Ophilia
+4.Thunder Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-H'aanit - HP:4947/4947 SP:419/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:681/947 Shields:1
+B-Dreadwolf - HP:7089/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Dreadwolf
+3.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.H'aanit
+3.Dreadwolf
+4.Thunder Wisp
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-H'aanit - HP:4947/4947 SP:419/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:681/947 Shields:1
+B-Dreadwolf - HP:7089/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Dreadwolf
+4.Thunder Wisp
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+H'aanit se defiende
+H'aanit recibe 405 de daño físico
+H'aanit termina con HP:4542
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-H'aanit - HP:4542/4947 SP:419/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:681/947 Shields:1
+B-Dreadwolf - HP:7089/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Dreadwolf
+4.Thunder Wisp
+----------------------------------------
+Thunder Wisp usa Enshadow
+H'aanit se defiende
+H'aanit recibe 137 de daño elemental
+H'aanit termina con HP:4405
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-H'aanit - HP:4405/4947 SP:419/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:681/947 Shields:1
+B-Dreadwolf - HP:7089/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Ophilia
+3.Dreadwolf
+4.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Dreadwolf
+3.Ophilia
+4.Thunder Wisp
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Thunder Wisp - HP:681/947 Shields:1
+2: Dreadwolf - HP:7089/7530 Shields:8
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Dreadwolf recibe 105 de daño de tipo Bow
+Dreadwolf termina con HP:6984
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-H'aanit - HP:4405/4947 SP:419/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:681/947 Shields:1
+B-Dreadwolf - HP:6984/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Dreadwolf
+3.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Dreadwolf
+3.Ophilia
+4.Thunder Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Thunder Wisp - HP:681/947 Shields:1
+2: Dreadwolf - HP:6984/7530 Shields:8
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Dreadwolf recibe 0 de daño de tipo Stave
+Dreadwolf termina con HP:6984
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-H'aanit - HP:4405/4947 SP:419/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:681/947 Shields:1
+B-Dreadwolf - HP:6984/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Dreadwolf
+3.Ophilia
+4.Thunder Wisp
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+H'aanit recibe 811 de daño físico
+H'aanit termina con HP:3594
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-H'aanit - HP:3594/4947 SP:419/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:681/947 Shields:1
+B-Dreadwolf - HP:6984/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Dreadwolf
+3.Ophilia
+4.Thunder Wisp
+----------------------------------------
+Thunder Wisp usa Enshadow
+H'aanit recibe 274 de daño elemental
+H'aanit termina con HP:3320
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-H'aanit - HP:3320/4947 SP:419/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:681/947 Shields:1
+B-Dreadwolf - HP:6984/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Dreadwolf
+3.Ophilia
+4.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Dreadwolf
+3.Ophilia
+4.Thunder Wisp
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Fox Spirit
+2: Nightmare Chimera
+3: Yatagarasu
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit usa Fox Spirit
+Thunder Wisp recibe 262 de daño de tipo Stave
+Dreadwolf recibe 368 de daño de tipo Stave
+Thunder Wisp termina con HP:419
+Dreadwolf termina con HP:6616
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-H'aanit - HP:3320/4947 SP:384/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:419/947 Shields:1
+B-Dreadwolf - HP:6616/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Ophilia
+3.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Dreadwolf
+3.Ophilia
+4.Thunder Wisp
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+H'aanit recibe 811 de daño físico
+H'aanit termina con HP:2509
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-H'aanit - HP:2509/4947 SP:384/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:419/947 Shields:1
+B-Dreadwolf - HP:6616/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Dreadwolf
+3.Ophilia
+4.Thunder Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Thunder Wisp - HP:419/947 Shields:1
+2: Dreadwolf - HP:6616/7530 Shields:8
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Dreadwolf recibe 0 de daño de tipo Stave
+Dreadwolf termina con HP:6616
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-H'aanit - HP:2509/4947 SP:384/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:419/947 Shields:1
+B-Dreadwolf - HP:6616/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Dreadwolf
+3.Ophilia
+4.Thunder Wisp
+----------------------------------------
+Thunder Wisp usa Enshadow
+H'aanit recibe 274 de daño elemental
+H'aanit termina con HP:2235
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-H'aanit - HP:2235/4947 SP:384/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:419/947 Shields:1
+B-Dreadwolf - HP:6616/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Dreadwolf
+3.Ophilia
+4.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Dreadwolf
+3.Ophilia
+4.Thunder Wisp
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-H'aanit - HP:2235/4947 SP:384/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:419/947 Shields:1
+B-Dreadwolf - HP:6616/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Ophilia
+3.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Dreadwolf
+3.Ophilia
+4.Thunder Wisp
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+H'aanit se defiende
+H'aanit recibe 405 de daño físico
+H'aanit termina con HP:1830
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-H'aanit - HP:1830/4947 SP:384/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:419/947 Shields:1
+B-Dreadwolf - HP:6616/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Dreadwolf
+3.Ophilia
+4.Thunder Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Thunder Wisp - HP:419/947 Shields:1
+2: Dreadwolf - HP:6616/7530 Shields:8
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Dreadwolf recibe 0 de daño de tipo Stave
+Dreadwolf termina con HP:6616
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-H'aanit - HP:1830/4947 SP:384/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:419/947 Shields:1
+B-Dreadwolf - HP:6616/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Dreadwolf
+3.Ophilia
+4.Thunder Wisp
+----------------------------------------
+Thunder Wisp usa Enshadow
+H'aanit se defiende
+H'aanit recibe 137 de daño elemental
+H'aanit termina con HP:1693
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-H'aanit - HP:1693/4947 SP:384/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:419/947 Shields:1
+B-Dreadwolf - HP:6616/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Dreadwolf
+3.Ophilia
+4.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Dreadwolf
+3.Ophilia
+4.Thunder Wisp
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Thunder Wisp - HP:419/947 Shields:1
+2: Dreadwolf - HP:6616/7530 Shields:8
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Thunder Wisp recibe 0 de daño de tipo Axe
+Thunder Wisp termina con HP:419
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-H'aanit - HP:1693/4947 SP:384/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:419/947 Shields:1
+B-Dreadwolf - HP:6616/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Ophilia
+3.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Dreadwolf
+3.Ophilia
+4.Thunder Wisp
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+H'aanit recibe 811 de daño físico
+H'aanit termina con HP:882
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:5
+B-H'aanit - HP:882/4947 SP:384/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:419/947 Shields:1
+B-Dreadwolf - HP:6616/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Dreadwolf
+3.Ophilia
+4.Thunder Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Moonlight Waltz
+2: Spearhead
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Thunder Wisp - HP:419/947 Shields:1
+2: Dreadwolf - HP:6616/7530 Shields:8
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Moonlight Waltz
+Thunder Wisp recibe 646 de daño de tipo Dark con debilidad
+Thunder Wisp entra en Breaking Point
+Thunder Wisp termina con HP:0
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:463/470 BP:5
+B-H'aanit - HP:882/4947 SP:384/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:0/947 Shields:0
+B-Dreadwolf - HP:6616/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Dreadwolf
+3.Ophilia
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Dreadwolf
+3.Ophilia
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:463/470 BP:5
+B-H'aanit - HP:882/4947 SP:384/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:0/947 Shields:0
+B-Dreadwolf - HP:6616/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Ophilia
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Dreadwolf
+3.Ophilia
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+H'aanit se defiende
+H'aanit recibe 405 de daño físico
+H'aanit termina con HP:477
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:463/470 BP:5
+B-H'aanit - HP:477/4947 SP:384/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:0/947 Shields:0
+B-Dreadwolf - HP:6616/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Dreadwolf
+3.Ophilia
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:463/470 BP:5
+B-H'aanit - HP:477/4947 SP:384/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:0/947 Shields:0
+B-Dreadwolf - HP:6616/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Ophilia
+3.Dreadwolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Dreadwolf
+3.Ophilia
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:463/470 BP:5
+B-H'aanit - HP:477/4947 SP:384/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:0/947 Shields:0
+B-Dreadwolf - HP:6616/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Dreadwolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Dreadwolf
+3.Ophilia
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:463/470 BP:5
+B-H'aanit - HP:477/4947 SP:384/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:0/947 Shields:0
+B-Dreadwolf - HP:6616/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Dreadwolf
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+H'aanit se defiende
+H'aanit recibe 405 de daño físico
+H'aanit termina con HP:72
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:463/470 BP:5
+B-H'aanit - HP:72/4947 SP:384/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:0/947 Shields:0
+B-Dreadwolf - HP:6616/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Ophilia
+3.Dreadwolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Dreadwolf
+3.Ophilia
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Dreadwolf - HP:6616/7530 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Dreadwolf recibe 105 de daño de tipo Bow
+Dreadwolf termina con HP:6511
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:463/470 BP:5
+B-H'aanit - HP:72/4947 SP:384/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:0/947 Shields:0
+B-Dreadwolf - HP:6511/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Dreadwolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Dreadwolf
+3.Ophilia
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Moonlight Waltz
+2: Spearhead
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Dreadwolf - HP:6511/7530 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Moonlight Waltz
+Dreadwolf recibe 180 de daño de tipo Dark
+Dreadwolf termina con HP:6331
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:456/470 BP:5
+B-H'aanit - HP:72/4947 SP:384/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:0/947 Shields:0
+B-Dreadwolf - HP:6331/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Dreadwolf
+3.Ophilia
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+H'aanit recibe 811 de daño físico
+H'aanit termina con HP:0
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:456/470 BP:5
+B-H'aanit - HP:0/4947 SP:384/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:0/947 Shields:0
+B-Dreadwolf - HP:6331/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Ophilia
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Ophilia
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Ophilia recibe 750 de daño físico
+Ophilia termina con HP:3252
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3252/4002 SP:456/470 BP:5
+B-H'aanit - HP:0/4947 SP:384/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:0/947 Shields:0
+B-Dreadwolf - HP:6331/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Ophilia
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Moonlight Waltz
+2: Spearhead
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Dreadwolf - HP:6331/7530 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Spearhead
+Dreadwolf recibe 0 de daño de tipo Spear con debilidad
+Dreadwolf termina con HP:6331
+----------------------------------------
+INICIA RONDA 14
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3252/4002 SP:450/470 BP:5
+B-H'aanit - HP:0/4947 SP:384/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:0/947 Shields:0
+B-Dreadwolf - HP:6331/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Dreadwolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Ophilia
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3252/4002 SP:450/470 BP:5
+B-H'aanit - HP:0/4947 SP:384/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:0/947 Shields:0
+B-Dreadwolf - HP:6331/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Ophilia se defiende
+Ophilia recibe 375 de daño físico
+Ophilia termina con HP:2877
+----------------------------------------
+INICIA RONDA 15
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2877/4002 SP:450/470 BP:5
+B-H'aanit - HP:0/4947 SP:384/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:0/947 Shields:0
+B-Dreadwolf - HP:6331/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Dreadwolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Ophilia
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Moonlight Waltz
+2: Spearhead
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Dreadwolf - HP:6331/7530 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Moonlight Waltz
+Dreadwolf recibe 180 de daño de tipo Dark
+Dreadwolf termina con HP:6151
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2877/4002 SP:443/470 BP:5
+B-H'aanit - HP:0/4947 SP:384/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:0/947 Shields:0
+B-Dreadwolf - HP:6151/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Ophilia
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Ophilia recibe 750 de daño físico
+Ophilia termina con HP:2127
+----------------------------------------
+INICIA RONDA 16
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2127/4002 SP:443/470 BP:5
+B-H'aanit - HP:0/4947 SP:384/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:0/947 Shields:0
+B-Dreadwolf - HP:6151/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Ophilia
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Ophilia
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Ophilia recibe 750 de daño físico
+Ophilia termina con HP:1377
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1377/4002 SP:443/470 BP:5
+B-H'aanit - HP:0/4947 SP:384/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:0/947 Shields:0
+B-Dreadwolf - HP:6151/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Ophilia
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Moonlight Waltz
+2: Spearhead
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Dreadwolf - HP:6151/7530 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Spearhead
+Dreadwolf recibe 0 de daño de tipo Spear con debilidad
+Dreadwolf termina con HP:6151
+----------------------------------------
+INICIA RONDA 17
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1377/4002 SP:437/470 BP:5
+B-H'aanit - HP:0/4947 SP:384/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:0/947 Shields:0
+B-Dreadwolf - HP:6151/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Dreadwolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Ophilia
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1377/4002 SP:437/470 BP:5
+B-H'aanit - HP:0/4947 SP:384/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:0/947 Shields:0
+B-Dreadwolf - HP:6151/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Dreadwolf
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Ophilia se defiende
+Ophilia recibe 375 de daño físico
+Ophilia termina con HP:1002
+----------------------------------------
+INICIA RONDA 18
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1002/4002 SP:437/470 BP:5
+B-H'aanit - HP:0/4947 SP:384/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:0/947 Shields:0
+B-Dreadwolf - HP:6151/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Dreadwolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Ophilia
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Dreadwolf - HP:6151/7530 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Dreadwolf recibe 0 de daño de tipo Stave
+Dreadwolf termina con HP:6151
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1002/4002 SP:437/470 BP:5
+B-H'aanit - HP:0/4947 SP:384/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:0/947 Shields:0
+B-Dreadwolf - HP:6151/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Ophilia
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Ophilia recibe 750 de daño físico
+Ophilia termina con HP:252
+----------------------------------------
+INICIA RONDA 19
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:252/4002 SP:437/470 BP:5
+B-H'aanit - HP:0/4947 SP:384/419 BP:5
+C-Ochette - HP:0/4447 SP:412/419 BP:4
+Equipo del enemigo
+A-Thunder Wisp - HP:0/947 Shields:0
+B-Dreadwolf - HP:6151/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Ophilia
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Ophilia
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Ophilia recibe 750 de daño físico
+Ophilia termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

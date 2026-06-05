@@ -1,0 +1,654 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+INPUT: 19
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Winter Wanderweed - HP:2314/2314 Shields:3
+B-Withered Wanderweed - HP:2314/2314 Shields:1
+C-Wolf - HP:1577/1577 Shields:2
+D-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Wolf
+2.Winter Wanderweed
+3.Cyrus
+4.Withered Wanderweed
+5.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wolf
+2.Winter Wanderweed
+3.Cyrus
+4.Withered Wanderweed
+5.Lord of the Flies
+----------------------------------------
+Wolf usa Attack
+Cyrus recibe 164 de daño físico
+Cyrus termina con HP:3393
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3393/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Winter Wanderweed - HP:2314/2314 Shields:3
+B-Withered Wanderweed - HP:2314/2314 Shields:1
+C-Wolf - HP:1577/1577 Shields:2
+D-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Winter Wanderweed
+2.Cyrus
+3.Withered Wanderweed
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wolf
+2.Winter Wanderweed
+3.Cyrus
+4.Withered Wanderweed
+5.Lord of the Flies
+----------------------------------------
+Winter Wanderweed usa Attack
+Cyrus recibe 202 de daño físico
+Cyrus termina con HP:3191
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3191/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Winter Wanderweed - HP:2314/2314 Shields:3
+B-Withered Wanderweed - HP:2314/2314 Shields:1
+C-Wolf - HP:1577/1577 Shields:2
+D-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Withered Wanderweed
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wolf
+2.Winter Wanderweed
+3.Cyrus
+4.Withered Wanderweed
+5.Lord of the Flies
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Shooting Stars
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Shooting Stars
+Winter Wanderweed recibe 219 de daño de tipo Wind con debilidad
+Winter Wanderweed recibe 146 de daño de tipo Light
+Winter Wanderweed recibe 146 de daño de tipo Dark
+Withered Wanderweed recibe 146 de daño de tipo Wind
+Withered Wanderweed recibe 146 de daño de tipo Light
+Withered Wanderweed recibe 146 de daño de tipo Dark
+Wolf recibe 270 de daño de tipo Wind con debilidad
+Wolf recibe 180 de daño de tipo Light
+Wolf recibe 180 de daño de tipo Dark
+Lord of the Flies recibe 47 de daño de tipo Wind con debilidad
+Lord of the Flies recibe 47 de daño de tipo Light con debilidad
+Lord of the Flies recibe 31 de daño de tipo Dark
+Winter Wanderweed termina con HP:1803
+Withered Wanderweed termina con HP:1876
+Wolf termina con HP:947
+Lord of the Flies termina con HP:5465
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3191/3557 SP:547/582 BP:1
+Equipo del enemigo
+A-Winter Wanderweed - HP:1803/2314 Shields:2
+B-Withered Wanderweed - HP:1876/2314 Shields:1
+C-Wolf - HP:947/1577 Shields:1
+D-Lord of the Flies - HP:5465/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Withered Wanderweed
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wolf
+2.Winter Wanderweed
+3.Cyrus
+4.Withered Wanderweed
+5.Lord of the Flies
+----------------------------------------
+Withered Wanderweed usa Attack
+Cyrus recibe 114 de daño físico
+Cyrus termina con HP:3077
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3077/3557 SP:547/582 BP:1
+Equipo del enemigo
+A-Winter Wanderweed - HP:1803/2314 Shields:2
+B-Withered Wanderweed - HP:1876/2314 Shields:1
+C-Wolf - HP:947/1577 Shields:1
+D-Lord of the Flies - HP:5465/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wolf
+2.Winter Wanderweed
+3.Cyrus
+4.Withered Wanderweed
+5.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Cyrus recibe 309 de daño físico
+Cyrus termina con HP:2768
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2768/3557 SP:547/582 BP:2
+Equipo del enemigo
+A-Winter Wanderweed - HP:1803/2314 Shields:2
+B-Withered Wanderweed - HP:1876/2314 Shields:1
+C-Wolf - HP:947/1577 Shields:1
+D-Lord of the Flies - HP:5465/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wolf
+2.Winter Wanderweed
+3.Cyrus
+4.Withered Wanderweed
+5.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wolf
+2.Winter Wanderweed
+3.Cyrus
+4.Withered Wanderweed
+5.Lord of the Flies
+----------------------------------------
+Wolf usa Attack
+Cyrus recibe 164 de daño físico
+Cyrus termina con HP:2604
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2604/3557 SP:547/582 BP:2
+Equipo del enemigo
+A-Winter Wanderweed - HP:1803/2314 Shields:2
+B-Withered Wanderweed - HP:1876/2314 Shields:1
+C-Wolf - HP:947/1577 Shields:1
+D-Lord of the Flies - HP:5465/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Winter Wanderweed
+2.Cyrus
+3.Withered Wanderweed
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wolf
+2.Winter Wanderweed
+3.Cyrus
+4.Withered Wanderweed
+5.Lord of the Flies
+----------------------------------------
+Winter Wanderweed usa Attack
+Cyrus recibe 202 de daño físico
+Cyrus termina con HP:2402
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2402/3557 SP:547/582 BP:2
+Equipo del enemigo
+A-Winter Wanderweed - HP:1803/2314 Shields:2
+B-Withered Wanderweed - HP:1876/2314 Shields:1
+C-Wolf - HP:947/1577 Shields:1
+D-Lord of the Flies - HP:5465/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Withered Wanderweed
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wolf
+2.Winter Wanderweed
+3.Cyrus
+4.Withered Wanderweed
+5.Lord of the Flies
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Shooting Stars
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Shooting Stars
+Winter Wanderweed recibe 219 de daño de tipo Wind con debilidad
+Winter Wanderweed recibe 146 de daño de tipo Light
+Winter Wanderweed recibe 146 de daño de tipo Dark
+Withered Wanderweed recibe 146 de daño de tipo Wind
+Withered Wanderweed recibe 146 de daño de tipo Light
+Withered Wanderweed recibe 146 de daño de tipo Dark
+Wolf recibe 270 de daño de tipo Wind con debilidad
+Wolf entra en Breaking Point
+Wolf recibe 270 de daño de tipo Light
+Wolf recibe 270 de daño de tipo Dark
+Lord of the Flies recibe 47 de daño de tipo Wind con debilidad
+Lord of the Flies entra en Breaking Point
+Lord of the Flies recibe 63 de daño de tipo Light con debilidad
+Lord of the Flies recibe 47 de daño de tipo Dark
+Winter Wanderweed termina con HP:1292
+Withered Wanderweed termina con HP:1438
+Wolf termina con HP:137
+Lord of the Flies termina con HP:5308
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2402/3557 SP:512/582 BP:2
+Equipo del enemigo
+A-Winter Wanderweed - HP:1292/2314 Shields:1
+B-Withered Wanderweed - HP:1438/2314 Shields:1
+C-Wolf - HP:137/1577 Shields:0
+D-Lord of the Flies - HP:5308/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Withered Wanderweed
+----------------------------------------
+Turnos de la siguiente ronda
+1.Winter Wanderweed
+2.Cyrus
+3.Withered Wanderweed
+----------------------------------------
+Withered Wanderweed usa Attack
+Cyrus recibe 114 de daño físico
+Cyrus termina con HP:2288
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2288/3557 SP:512/582 BP:3
+Equipo del enemigo
+A-Winter Wanderweed - HP:1292/2314 Shields:1
+B-Withered Wanderweed - HP:1438/2314 Shields:1
+C-Wolf - HP:137/1577 Shields:0
+D-Lord of the Flies - HP:5308/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Winter Wanderweed
+2.Cyrus
+3.Withered Wanderweed
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wolf
+2.Lord of the Flies
+3.Winter Wanderweed
+4.Cyrus
+5.Withered Wanderweed
+----------------------------------------
+Winter Wanderweed usa Attack
+Cyrus recibe 202 de daño físico
+Cyrus termina con HP:2086
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2086/3557 SP:512/582 BP:3
+Equipo del enemigo
+A-Winter Wanderweed - HP:1292/2314 Shields:1
+B-Withered Wanderweed - HP:1438/2314 Shields:1
+C-Wolf - HP:137/1577 Shields:0
+D-Lord of the Flies - HP:5308/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Withered Wanderweed
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wolf
+2.Lord of the Flies
+3.Winter Wanderweed
+4.Cyrus
+5.Withered Wanderweed
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Shooting Stars
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Shooting Stars
+Winter Wanderweed recibe 219 de daño de tipo Wind con debilidad
+Winter Wanderweed entra en Breaking Point
+Winter Wanderweed recibe 219 de daño de tipo Light
+Winter Wanderweed recibe 219 de daño de tipo Dark
+Withered Wanderweed recibe 146 de daño de tipo Wind
+Withered Wanderweed recibe 146 de daño de tipo Light
+Withered Wanderweed recibe 146 de daño de tipo Dark
+Wolf recibe 361 de daño de tipo Wind con debilidad
+Wolf recibe 270 de daño de tipo Light
+Wolf recibe 270 de daño de tipo Dark
+Lord of the Flies recibe 63 de daño de tipo Wind con debilidad
+Lord of the Flies recibe 63 de daño de tipo Light con debilidad
+Lord of the Flies recibe 47 de daño de tipo Dark
+Winter Wanderweed termina con HP:635
+Withered Wanderweed termina con HP:1000
+Wolf termina con HP:0
+Lord of the Flies termina con HP:5135
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2086/3557 SP:477/582 BP:3
+Equipo del enemigo
+A-Winter Wanderweed - HP:635/2314 Shields:0
+B-Withered Wanderweed - HP:1000/2314 Shields:1
+C-Wolf - HP:0/1577 Shields:0
+D-Lord of the Flies - HP:5135/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Withered Wanderweed
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Cyrus
+3.Withered Wanderweed
+----------------------------------------
+Withered Wanderweed usa Attack
+Cyrus recibe 114 de daño físico
+Cyrus termina con HP:1972
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1972/3557 SP:477/582 BP:4
+Equipo del enemigo
+A-Winter Wanderweed - HP:635/2314 Shields:0
+B-Withered Wanderweed - HP:1000/2314 Shields:1
+C-Wolf - HP:0/1577 Shields:0
+D-Lord of the Flies - HP:5135/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Cyrus
+3.Withered Wanderweed
+----------------------------------------
+Turnos de la siguiente ronda
+1.Winter Wanderweed
+2.Cyrus
+3.Withered Wanderweed
+4.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Cyrus recibe 309 de daño físico
+Cyrus termina con HP:1663
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1663/3557 SP:477/582 BP:4
+Equipo del enemigo
+A-Winter Wanderweed - HP:635/2314 Shields:0
+B-Withered Wanderweed - HP:1000/2314 Shields:1
+C-Wolf - HP:0/1577 Shields:0
+D-Lord of the Flies - HP:5135/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Withered Wanderweed
+----------------------------------------
+Turnos de la siguiente ronda
+1.Winter Wanderweed
+2.Cyrus
+3.Withered Wanderweed
+4.Lord of the Flies
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Shooting Stars
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Shooting Stars
+Winter Wanderweed recibe 293 de daño de tipo Wind con debilidad
+Winter Wanderweed recibe 219 de daño de tipo Light
+Winter Wanderweed recibe 219 de daño de tipo Dark
+Withered Wanderweed recibe 146 de daño de tipo Wind
+Withered Wanderweed recibe 146 de daño de tipo Light
+Withered Wanderweed recibe 146 de daño de tipo Dark
+Lord of the Flies recibe 47 de daño de tipo Wind con debilidad
+Lord of the Flies recibe 47 de daño de tipo Light con debilidad
+Lord of the Flies recibe 31 de daño de tipo Dark
+Winter Wanderweed termina con HP:0
+Withered Wanderweed termina con HP:562
+Lord of the Flies termina con HP:5010
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1663/3557 SP:442/582 BP:4
+Equipo del enemigo
+A-Winter Wanderweed - HP:0/2314 Shields:0
+B-Withered Wanderweed - HP:562/2314 Shields:1
+C-Wolf - HP:0/1577 Shields:0
+D-Lord of the Flies - HP:5010/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Withered Wanderweed
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Withered Wanderweed
+3.Lord of the Flies
+----------------------------------------
+Withered Wanderweed usa Attack
+Cyrus recibe 114 de daño físico
+Cyrus termina con HP:1549
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1549/3557 SP:442/582 BP:5
+Equipo del enemigo
+A-Winter Wanderweed - HP:0/2314 Shields:0
+B-Withered Wanderweed - HP:562/2314 Shields:1
+C-Wolf - HP:0/1577 Shields:0
+D-Lord of the Flies - HP:5010/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Withered Wanderweed
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Withered Wanderweed
+3.Lord of the Flies
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Shooting Stars
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Shooting Stars
+Withered Wanderweed recibe 146 de daño de tipo Wind
+Withered Wanderweed recibe 146 de daño de tipo Light
+Withered Wanderweed recibe 146 de daño de tipo Dark
+Lord of the Flies recibe 47 de daño de tipo Wind con debilidad
+Lord of the Flies entra en Breaking Point
+Lord of the Flies recibe 63 de daño de tipo Light con debilidad
+Lord of the Flies recibe 47 de daño de tipo Dark
+Withered Wanderweed termina con HP:124
+Lord of the Flies termina con HP:4853
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1549/3557 SP:407/582 BP:5
+Equipo del enemigo
+A-Winter Wanderweed - HP:0/2314 Shields:0
+B-Withered Wanderweed - HP:124/2314 Shields:1
+C-Wolf - HP:0/1577 Shields:0
+D-Lord of the Flies - HP:4853/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Withered Wanderweed
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Withered Wanderweed
+----------------------------------------
+Withered Wanderweed usa Attack
+Cyrus recibe 114 de daño físico
+Cyrus termina con HP:1435
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1435/3557 SP:407/582 BP:5
+Equipo del enemigo
+A-Winter Wanderweed - HP:0/2314 Shields:0
+B-Withered Wanderweed - HP:124/2314 Shields:1
+C-Wolf - HP:0/1577 Shields:0
+D-Lord of the Flies - HP:4853/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Withered Wanderweed
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Cyrus
+3.Withered Wanderweed
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Shooting Stars
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Shooting Stars
+Withered Wanderweed recibe 146 de daño de tipo Wind
+Withered Wanderweed recibe 146 de daño de tipo Light
+Withered Wanderweed recibe 146 de daño de tipo Dark
+Lord of the Flies recibe 63 de daño de tipo Wind con debilidad
+Lord of the Flies recibe 63 de daño de tipo Light con debilidad
+Lord of the Flies recibe 47 de daño de tipo Dark
+Withered Wanderweed termina con HP:0
+Lord of the Flies termina con HP:4680
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1435/3557 SP:372/582 BP:5
+Equipo del enemigo
+A-Winter Wanderweed - HP:0/2314 Shields:0
+B-Withered Wanderweed - HP:0/2314 Shields:1
+C-Wolf - HP:0/1577 Shields:0
+D-Lord of the Flies - HP:4680/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Cyrus recibe 309 de daño físico
+Cyrus termina con HP:1126
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1126/3557 SP:372/582 BP:5
+Equipo del enemigo
+A-Winter Wanderweed - HP:0/2314 Shields:0
+B-Withered Wanderweed - HP:0/2314 Shields:1
+C-Wolf - HP:0/1577 Shields:0
+D-Lord of the Flies - HP:4680/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Lord of the Flies
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo

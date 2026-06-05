@@ -9,10 +9,10 @@ internal abstract class TravelerSkillBehavior
         _effects = effects;
     }
 
-    public bool CanExecuteSkill(string skillName)
+    public bool CanHandleSkill(string skillName)
         => UsesSkillName(skillName);
 
-    public IReadOnlyList<TravelerSkillResult> Execute(TravelerSkillExecutionContext executionContext)
+    public IReadOnlyList<TravelerSkillResult> Apply(TravelerSkillExecutionContext executionContext)
     {
         TravelerSkillTargetSelector targetSelector = SelectTargetSelector(executionContext);
         TravelerSkillTargetSelection targetSelection = targetSelector.SelectTargets(

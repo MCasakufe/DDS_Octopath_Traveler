@@ -4,6 +4,7 @@ internal sealed class BeastAttackDamageProfileFactory
 {
     private const string HalfCurrentHpSkillName = "Vortal Claw";
     private const int MinimumConfiguredHitCount = 0;
+    private const int HalfCurrentHpHitCount = 1;
 
     private static readonly HashSet<string> ElementalDamageSkills = new(StringComparer.Ordinal)
     {
@@ -21,7 +22,9 @@ internal sealed class BeastAttackDamageProfileFactory
         "Iceshot",
         "Shadowshot",
         "Black Gale",
-        "Galestorm"
+        "Galestorm",
+        "Shadow Magic",
+        "Volcano"
     };
 
     public BeastAttackDamageProfile Create(BeastCombatUnit beast)
@@ -44,7 +47,7 @@ internal sealed class BeastAttackDamageProfileFactory
     private static int SelectHitCount(int configuredHits, BeastAttackDamageKind damageKind)
     {
         if (damageKind == BeastAttackDamageKind.HalfCurrentHp)
-            return 1;
+            return HalfCurrentHpHitCount;
 
         return configuredHits <= MinimumConfiguredHitCount ? MinimumConfiguredHitCount : configuredHits;
     }

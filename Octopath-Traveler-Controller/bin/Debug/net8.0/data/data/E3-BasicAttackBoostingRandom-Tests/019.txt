@@ -1,0 +1,1587 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+INPUT: 18
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4891/4891 SP:314/314 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:1
+C-Tressa - HP:4891/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Tressa
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Tressa
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4891/4891 SP:314/314 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:1
+C-Tressa - HP:4891/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Partitio
+3.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Tressa
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Mattias? - HP:5780/5780 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Mattias? recibe 0 de daño de tipo Spear
+Mattias? recibe 0 de daño de tipo Spear
+Mattias? termina con HP:5780
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4891/4891 SP:314/314 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:1
+C-Tressa - HP:4891/4891 SP:357/357 BP:0
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Tressa
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Mattias? - HP:5780/5780 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Partitio ataca
+Mattias? recibe 32 de daño de tipo Spear
+Mattias? recibe 32 de daño de tipo Spear
+Mattias? termina con HP:5716
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4891/4891 SP:314/314 BP:0
+B-Temenos - HP:4002/4002 SP:432/432 BP:1
+C-Tressa - HP:4891/4891 SP:357/357 BP:0
+Equipo del enemigo
+A-Mattias? - HP:5716/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Tressa
+3.Partitio
+4.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Partitio recibe 660 de daño elemental
+Temenos se defiende
+Temenos recibe 273 de daño elemental
+Tressa recibe 660 de daño elemental
+Partitio termina con HP:4231
+Temenos termina con HP:3729
+Tressa termina con HP:4231
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4231/4891 SP:314/314 BP:0
+B-Temenos - HP:3729/4002 SP:432/432 BP:2
+C-Tressa - HP:4231/4891 SP:357/357 BP:0
+Equipo del enemigo
+A-Mattias? - HP:5716/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Tressa
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Tressa
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Mattias? - HP:5716/5780 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Temenos ataca
+Mattias? recibe 0 de daño de tipo Stave
+Mattias? recibe 0 de daño de tipo Stave
+Mattias? recibe 0 de daño de tipo Stave
+Mattias? termina con HP:5716
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4231/4891 SP:314/314 BP:0
+B-Temenos - HP:3729/4002 SP:432/432 BP:0
+C-Tressa - HP:4231/4891 SP:357/357 BP:0
+Equipo del enemigo
+A-Mattias? - HP:5716/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Partitio
+3.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Tressa
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Mattias? - HP:5716/5780 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Mattias? recibe 0 de daño de tipo Spear
+Mattias? termina con HP:5716
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4231/4891 SP:314/314 BP:0
+B-Temenos - HP:3729/4002 SP:432/432 BP:0
+C-Tressa - HP:4231/4891 SP:357/357 BP:0
+Equipo del enemigo
+A-Mattias? - HP:5716/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Tressa
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Mattias? - HP:5716/5780 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Partitio ataca
+Mattias? recibe 32 de daño de tipo Spear
+Mattias? termina con HP:5684
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4231/4891 SP:314/314 BP:0
+B-Temenos - HP:3729/4002 SP:432/432 BP:0
+C-Tressa - HP:4231/4891 SP:357/357 BP:0
+Equipo del enemigo
+A-Mattias? - HP:5684/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Tressa
+3.Partitio
+4.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Partitio recibe 660 de daño elemental
+Temenos recibe 546 de daño elemental
+Tressa recibe 660 de daño elemental
+Partitio termina con HP:3571
+Temenos termina con HP:3183
+Tressa termina con HP:3571
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3571/4891 SP:314/314 BP:1
+B-Temenos - HP:3183/4002 SP:432/432 BP:0
+C-Tressa - HP:3571/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5684/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Tressa
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Tressa
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Mattias? - HP:5684/5780 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Temenos ataca
+Mattias? recibe 0 de daño de tipo Stave
+Mattias? termina con HP:5684
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3571/4891 SP:314/314 BP:1
+B-Temenos - HP:3183/4002 SP:432/432 BP:0
+C-Tressa - HP:3571/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5684/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Partitio
+3.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Tressa
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3571/4891 SP:314/314 BP:1
+B-Temenos - HP:3183/4002 SP:432/432 BP:0
+C-Tressa - HP:3571/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5684/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Temenos
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3571/4891 SP:314/314 BP:1
+B-Temenos - HP:3183/4002 SP:432/432 BP:0
+C-Tressa - HP:3571/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5684/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Partitio
+3.Temenos
+4.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Partitio se defiende
+Partitio recibe 330 de daño elemental
+Temenos recibe 546 de daño elemental
+Tressa se defiende
+Tressa recibe 330 de daño elemental
+Partitio termina con HP:3241
+Temenos termina con HP:2637
+Tressa termina con HP:3241
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3241/4891 SP:314/314 BP:2
+B-Temenos - HP:2637/4002 SP:432/432 BP:1
+C-Tressa - HP:3241/4891 SP:357/357 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5684/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Partitio
+3.Temenos
+4.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Tressa
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Mattias? - HP:5684/5780 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Mattias? recibe 0 de daño de tipo Spear
+Mattias? recibe 0 de daño de tipo Spear
+Mattias? termina con HP:5684
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3241/4891 SP:314/314 BP:2
+B-Temenos - HP:2637/4002 SP:432/432 BP:1
+C-Tressa - HP:3241/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5684/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Temenos
+3.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Tressa
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Mattias? - HP:5684/5780 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Partitio no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Partitio ataca
+Mattias? recibe 32 de daño de tipo Spear
+Mattias? recibe 32 de daño de tipo Spear
+Mattias? termina con HP:5620
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3241/4891 SP:314/314 BP:1
+B-Temenos - HP:2637/4002 SP:432/432 BP:1
+C-Tressa - HP:3241/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5620/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Tressa
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Mattias? - HP:5620/5780 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Temenos no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Temenos no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Temenos no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Temenos no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Temenos no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Temenos ataca
+Mattias? recibe 0 de daño de tipo Stave
+Mattias? recibe 0 de daño de tipo Stave
+Mattias? termina con HP:5620
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3241/4891 SP:314/314 BP:1
+B-Temenos - HP:2637/4002 SP:432/432 BP:0
+C-Tressa - HP:3241/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5620/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Tressa
+3.Partitio
+4.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Partitio recibe 660 de daño elemental
+Temenos recibe 546 de daño elemental
+Tressa recibe 660 de daño elemental
+Partitio termina con HP:2581
+Temenos termina con HP:2091
+Tressa termina con HP:2581
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2581/4891 SP:314/314 BP:1
+B-Temenos - HP:2091/4002 SP:432/432 BP:0
+C-Tressa - HP:2581/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5620/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Tressa
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Tressa
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2581/4891 SP:314/314 BP:1
+B-Temenos - HP:2091/4002 SP:432/432 BP:0
+C-Tressa - HP:2581/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5620/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Partitio
+3.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Tressa
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2581/4891 SP:314/314 BP:1
+B-Temenos - HP:2091/4002 SP:432/432 BP:0
+C-Tressa - HP:2581/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5620/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Tressa
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Mattias? - HP:5620/5780 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Partitio no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Partitio ataca
+Mattias? recibe 32 de daño de tipo Spear
+Mattias? recibe 32 de daño de tipo Spear
+Mattias? termina con HP:5556
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2581/4891 SP:314/314 BP:0
+B-Temenos - HP:2091/4002 SP:432/432 BP:0
+C-Tressa - HP:2581/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5556/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Tressa
+3.Partitio
+4.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Partitio recibe 660 de daño elemental
+Temenos se defiende
+Temenos recibe 273 de daño elemental
+Tressa se defiende
+Tressa recibe 330 de daño elemental
+Partitio termina con HP:1921
+Temenos termina con HP:1818
+Tressa termina con HP:2251
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:1921/4891 SP:314/314 BP:0
+B-Temenos - HP:1818/4002 SP:432/432 BP:1
+C-Tressa - HP:2251/4891 SP:357/357 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5556/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Tressa
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Tressa
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:1921/4891 SP:314/314 BP:0
+B-Temenos - HP:1818/4002 SP:432/432 BP:1
+C-Tressa - HP:2251/4891 SP:357/357 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5556/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Partitio
+3.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Tressa
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Mattias? - HP:5556/5780 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Mattias? recibe 0 de daño de tipo Spear
+Mattias? recibe 0 de daño de tipo Spear
+Mattias? termina con HP:5556
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:1921/4891 SP:314/314 BP:0
+B-Temenos - HP:1818/4002 SP:432/432 BP:1
+C-Tressa - HP:2251/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5556/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Tressa
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:1921/4891 SP:314/314 BP:0
+B-Temenos - HP:1818/4002 SP:432/432 BP:1
+C-Tressa - HP:2251/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5556/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Tressa
+4.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Partitio se defiende
+Partitio recibe 330 de daño elemental
+Temenos se defiende
+Temenos recibe 273 de daño elemental
+Tressa recibe 660 de daño elemental
+Partitio termina con HP:1591
+Temenos termina con HP:1545
+Tressa termina con HP:1591
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:1591/4891 SP:314/314 BP:1
+B-Temenos - HP:1545/4002 SP:432/432 BP:2
+C-Tressa - HP:1591/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5556/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Partitio
+3.Tressa
+4.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Tressa
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:1591/4891 SP:314/314 BP:1
+B-Temenos - HP:1545/4002 SP:432/432 BP:2
+C-Tressa - HP:1591/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5556/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Tressa
+3.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Tressa
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:1591/4891 SP:314/314 BP:1
+B-Temenos - HP:1545/4002 SP:432/432 BP:2
+C-Tressa - HP:1591/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5556/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Tressa
+4.Mattias?
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:1591/4891 SP:314/314 BP:1
+B-Temenos - HP:1545/4002 SP:432/432 BP:2
+C-Tressa - HP:1591/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5556/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Tressa
+3.Partitio
+4.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Partitio se defiende
+Partitio recibe 330 de daño elemental
+Temenos se defiende
+Temenos recibe 273 de daño elemental
+Tressa se defiende
+Tressa recibe 330 de daño elemental
+Partitio termina con HP:1261
+Temenos termina con HP:1272
+Tressa termina con HP:1261
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:1261/4891 SP:314/314 BP:2
+B-Temenos - HP:1272/4002 SP:432/432 BP:3
+C-Tressa - HP:1261/4891 SP:357/357 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5556/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Tressa
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Tressa
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:1261/4891 SP:314/314 BP:2
+B-Temenos - HP:1272/4002 SP:432/432 BP:3
+C-Tressa - HP:1261/4891 SP:357/357 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5556/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Partitio
+3.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Tressa
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:1261/4891 SP:314/314 BP:2
+B-Temenos - HP:1272/4002 SP:432/432 BP:3
+C-Tressa - HP:1261/4891 SP:357/357 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5556/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Tressa
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:1261/4891 SP:314/314 BP:2
+B-Temenos - HP:1272/4002 SP:432/432 BP:3
+C-Tressa - HP:1261/4891 SP:357/357 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5556/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Tressa
+3.Partitio
+4.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Partitio se defiende
+Partitio recibe 330 de daño elemental
+Temenos se defiende
+Temenos recibe 273 de daño elemental
+Tressa se defiende
+Tressa recibe 330 de daño elemental
+Partitio termina con HP:931
+Temenos termina con HP:999
+Tressa termina con HP:931
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:931/4891 SP:314/314 BP:3
+B-Temenos - HP:999/4002 SP:432/432 BP:4
+C-Tressa - HP:931/4891 SP:357/357 BP:3
+Equipo del enemigo
+A-Mattias? - HP:5556/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Tressa
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Tressa
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Mattias? - HP:5556/5780 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Temenos ataca
+Mattias? recibe 0 de daño de tipo Stave
+Mattias? recibe 0 de daño de tipo Stave
+Mattias? termina con HP:5556
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:931/4891 SP:314/314 BP:3
+B-Temenos - HP:999/4002 SP:432/432 BP:3
+C-Tressa - HP:931/4891 SP:357/357 BP:3
+Equipo del enemigo
+A-Mattias? - HP:5556/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Partitio
+3.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Tressa
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:931/4891 SP:314/314 BP:3
+B-Temenos - HP:999/4002 SP:432/432 BP:3
+C-Tressa - HP:931/4891 SP:357/357 BP:3
+Equipo del enemigo
+A-Mattias? - HP:5556/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Temenos
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Mattias? - HP:5556/5780 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Partitio ataca
+Mattias? recibe 32 de daño de tipo Spear
+Mattias? recibe 32 de daño de tipo Spear
+Mattias? recibe 32 de daño de tipo Spear
+Mattias? recibe 32 de daño de tipo Spear
+Mattias? termina con HP:5428
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:931/4891 SP:314/314 BP:0
+B-Temenos - HP:999/4002 SP:432/432 BP:3
+C-Tressa - HP:931/4891 SP:357/357 BP:3
+Equipo del enemigo
+A-Mattias? - HP:5428/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Temenos
+3.Partitio
+4.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Partitio recibe 660 de daño elemental
+Temenos recibe 546 de daño elemental
+Tressa se defiende
+Tressa recibe 330 de daño elemental
+Partitio termina con HP:271
+Temenos termina con HP:453
+Tressa termina con HP:601
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:271/4891 SP:314/314 BP:0
+B-Temenos - HP:453/4002 SP:432/432 BP:3
+C-Tressa - HP:601/4891 SP:357/357 BP:4
+Equipo del enemigo
+A-Mattias? - HP:5428/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Temenos
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Tressa
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:271/4891 SP:314/314 BP:0
+B-Temenos - HP:453/4002 SP:432/432 BP:3
+C-Tressa - HP:601/4891 SP:357/357 BP:4
+Equipo del enemigo
+A-Mattias? - HP:5428/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Partitio
+3.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Temenos
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Mattias? - HP:5428/5780 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Temenos ataca
+Mattias? recibe 0 de daño de tipo Stave
+Mattias? recibe 0 de daño de tipo Stave
+Mattias? termina con HP:5428
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:271/4891 SP:314/314 BP:0
+B-Temenos - HP:453/4002 SP:432/432 BP:2
+C-Tressa - HP:601/4891 SP:357/357 BP:4
+Equipo del enemigo
+A-Mattias? - HP:5428/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Temenos
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:271/4891 SP:314/314 BP:0
+B-Temenos - HP:453/4002 SP:432/432 BP:2
+C-Tressa - HP:601/4891 SP:357/357 BP:4
+Equipo del enemigo
+A-Mattias? - HP:5428/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Partitio
+3.Temenos
+4.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Partitio se defiende
+Partitio recibe 330 de daño elemental
+Temenos recibe 546 de daño elemental
+Tressa se defiende
+Tressa recibe 330 de daño elemental
+Partitio termina con HP:0
+Temenos termina con HP:0
+Tressa termina con HP:271
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:0
+B-Temenos - HP:0/4002 SP:432/432 BP:2
+C-Tressa - HP:271/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5428/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Mattias?
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:0
+B-Temenos - HP:0/4002 SP:432/432 BP:2
+C-Tressa - HP:271/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5428/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Tressa se defiende
+Tressa recibe 330 de daño elemental
+Tressa termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

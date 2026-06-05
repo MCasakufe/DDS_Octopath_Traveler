@@ -1,0 +1,1868 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 98
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:407/407 BP:1
+B-Cyrus - HP:4057/4057 SP:582/582 BP:1
+Equipo del enemigo
+A-Devil Deer - HP:2002/2002 Shields:5
+B-Fire Elemental - HP:1354/1354 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:1129/1129 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Heal Wounds
+2: True Strike
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Devil Deer - HP:2002/2002 Shields:5
+2: Fire Elemental - HP:1354/1354 Shields:4
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Heavenwing - HP:6900/6900 Shields:7
+5: Light Guardian - HP:1129/1129 Shields:3
+6: Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa True Strike
+Light Guardian recibe 337 de daño de tipo Bow con debilidad
+Light Guardian termina con HP:792
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:407/407 BP:1
+B-Cyrus - HP:4057/4057 SP:572/582 BP:1
+Equipo del enemigo
+A-Devil Deer - HP:2002/2002 Shields:5
+B-Fire Elemental - HP:1354/1354 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:792/1129 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Tressa
+3.Devil Deer
+4.Fire Elemental
+5.Wind Elemental
+6.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Heavenwing usa Incinerate
+Tressa recibe 390 de daño elemental
+Cyrus recibe 345 de daño elemental
+Tressa termina con HP:4501
+Cyrus termina con HP:3712
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4501/4891 SP:407/407 BP:1
+B-Cyrus - HP:3712/4057 SP:572/582 BP:1
+Equipo del enemigo
+A-Devil Deer - HP:2002/2002 Shields:5
+B-Fire Elemental - HP:1354/1354 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:792/1129 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Devil Deer
+3.Fire Elemental
+4.Wind Elemental
+5.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Devil Deer - HP:2002/2002 Shields:5
+2: Fire Elemental - HP:1354/1354 Shields:4
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Heavenwing - HP:6900/6900 Shields:7
+5: Light Guardian - HP:792/1129 Shields:2
+6: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Devil Deer recibe 43 de daño de tipo Bow
+Devil Deer termina con HP:1959
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4501/4891 SP:407/407 BP:1
+B-Cyrus - HP:3712/4057 SP:572/582 BP:1
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1354/1354 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:792/1129 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Fire Elemental
+3.Wind Elemental
+4.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Devil Deer usa Boar Rush
+Cyrus recibe 569 de daño físico
+Cyrus termina con HP:3143
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4501/4891 SP:407/407 BP:1
+B-Cyrus - HP:3143/4057 SP:572/582 BP:1
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1354/1354 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:792/1129 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+2.Wind Elemental
+3.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Fire Elemental usa Firesand
+Tressa recibe 219 de daño elemental
+Tressa termina con HP:4282
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4282/4891 SP:407/407 BP:1
+B-Cyrus - HP:3143/4057 SP:572/582 BP:1
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1354/1354 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:792/1129 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Wind Elemental usa Windshot
+Tressa recibe 142 de daño elemental
+Tressa termina con HP:4140
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4140/4891 SP:407/407 BP:1
+B-Cyrus - HP:3143/4057 SP:572/582 BP:1
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1354/1354 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:792/1129 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Light Guardian usa Attack
+Tressa recibe 29 de daño físico
+Tressa termina con HP:4111
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4111/4891 SP:407/407 BP:2
+B-Cyrus - HP:3143/4057 SP:572/582 BP:2
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1354/1354 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:792/1129 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4111/4891 SP:407/407 BP:2
+B-Cyrus - HP:3143/4057 SP:572/582 BP:2
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1354/1354 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:792/1129 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Tressa
+3.Devil Deer
+4.Fire Elemental
+5.Wind Elemental
+6.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Heavenwing usa Incinerate
+Tressa recibe 390 de daño elemental
+Cyrus se defiende
+Cyrus recibe 172 de daño elemental
+Tressa termina con HP:3721
+Cyrus termina con HP:2971
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3721/4891 SP:407/407 BP:2
+B-Cyrus - HP:2971/4057 SP:572/582 BP:2
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1354/1354 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:792/1129 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Devil Deer
+3.Fire Elemental
+4.Wind Elemental
+5.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Devil Deer - HP:1959/2002 Shields:5
+2: Fire Elemental - HP:1354/1354 Shields:4
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Heavenwing - HP:6900/6900 Shields:7
+5: Light Guardian - HP:792/1129 Shields:2
+6: Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Light Guardian recibe 378 de daño de tipo Bow con debilidad
+Light Guardian termina con HP:414
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3721/4891 SP:407/407 BP:2
+B-Cyrus - HP:2971/4057 SP:572/582 BP:2
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1354/1354 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:414/1129 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Fire Elemental
+3.Wind Elemental
+4.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Devil Deer usa Boar Rush
+Cyrus se defiende
+Cyrus recibe 284 de daño físico
+Cyrus termina con HP:2687
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3721/4891 SP:407/407 BP:2
+B-Cyrus - HP:2687/4057 SP:572/582 BP:2
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1354/1354 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:414/1129 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+2.Wind Elemental
+3.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Fire Elemental usa Firesand
+Tressa recibe 219 de daño elemental
+Tressa termina con HP:3502
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3502/4891 SP:407/407 BP:2
+B-Cyrus - HP:2687/4057 SP:572/582 BP:2
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1354/1354 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:414/1129 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Wind Elemental usa Windshot
+Tressa recibe 142 de daño elemental
+Tressa termina con HP:3360
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3360/4891 SP:407/407 BP:2
+B-Cyrus - HP:2687/4057 SP:572/582 BP:2
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1354/1354 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:414/1129 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Light Guardian usa Attack
+Tressa recibe 29 de daño físico
+Tressa termina con HP:3331
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3331/4891 SP:407/407 BP:3
+B-Cyrus - HP:2687/4057 SP:572/582 BP:3
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1354/1354 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:414/1129 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3331/4891 SP:407/407 BP:3
+B-Cyrus - HP:2687/4057 SP:572/582 BP:3
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1354/1354 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:414/1129 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Tressa
+3.Devil Deer
+4.Fire Elemental
+5.Wind Elemental
+6.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Heavenwing usa Incinerate
+Tressa recibe 390 de daño elemental
+Cyrus se defiende
+Cyrus recibe 172 de daño elemental
+Tressa termina con HP:2941
+Cyrus termina con HP:2515
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2941/4891 SP:407/407 BP:3
+B-Cyrus - HP:2515/4057 SP:572/582 BP:3
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1354/1354 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:414/1129 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Devil Deer
+3.Fire Elemental
+4.Wind Elemental
+5.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2941/4891 SP:407/407 BP:3
+B-Cyrus - HP:2515/4057 SP:572/582 BP:3
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1354/1354 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:414/1129 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Fire Elemental
+3.Wind Elemental
+4.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Tressa
+3.Heavenwing
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Devil Deer usa Boar Rush
+Cyrus se defiende
+Cyrus recibe 284 de daño físico
+Cyrus termina con HP:2231
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2941/4891 SP:407/407 BP:3
+B-Cyrus - HP:2231/4057 SP:572/582 BP:3
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1354/1354 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:414/1129 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+2.Wind Elemental
+3.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Tressa
+3.Heavenwing
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Fire Elemental usa Firesand
+Tressa se defiende
+Tressa recibe 109 de daño elemental
+Tressa termina con HP:2832
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2832/4891 SP:407/407 BP:3
+B-Cyrus - HP:2231/4057 SP:572/582 BP:3
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1354/1354 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:414/1129 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Tressa
+3.Heavenwing
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Wind Elemental usa Windshot
+Tressa se defiende
+Tressa recibe 71 de daño elemental
+Tressa termina con HP:2761
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2761/4891 SP:407/407 BP:3
+B-Cyrus - HP:2231/4057 SP:572/582 BP:3
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1354/1354 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:414/1129 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Tressa
+3.Heavenwing
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Light Guardian usa Attack
+Tressa se defiende
+Tressa recibe 14 de daño físico
+Tressa termina con HP:2747
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2747/4891 SP:407/407 BP:4
+B-Cyrus - HP:2231/4057 SP:572/582 BP:4
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1354/1354 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:414/1129 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Tressa
+3.Heavenwing
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2747/4891 SP:407/407 BP:4
+B-Cyrus - HP:2231/4057 SP:572/582 BP:4
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1354/1354 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:414/1129 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Heavenwing
+3.Devil Deer
+4.Fire Elemental
+5.Wind Elemental
+6.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2747/4891 SP:407/407 BP:4
+B-Cyrus - HP:2231/4057 SP:572/582 BP:4
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1354/1354 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:414/1129 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Devil Deer
+3.Fire Elemental
+4.Wind Elemental
+5.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Tressa
+3.Heavenwing
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Heavenwing usa Incinerate
+Tressa se defiende
+Tressa recibe 195 de daño elemental
+Cyrus se defiende
+Cyrus recibe 172 de daño elemental
+Tressa termina con HP:2552
+Cyrus termina con HP:2059
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2552/4891 SP:407/407 BP:4
+B-Cyrus - HP:2059/4057 SP:572/582 BP:4
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1354/1354 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:414/1129 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Fire Elemental
+3.Wind Elemental
+4.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Tressa
+3.Heavenwing
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Devil Deer usa Boar Rush
+Cyrus se defiende
+Cyrus recibe 284 de daño físico
+Cyrus termina con HP:1775
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2552/4891 SP:407/407 BP:4
+B-Cyrus - HP:1775/4057 SP:572/582 BP:4
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1354/1354 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:414/1129 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+2.Wind Elemental
+3.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Tressa
+3.Heavenwing
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Fire Elemental usa Firesand
+Tressa se defiende
+Tressa recibe 109 de daño elemental
+Tressa termina con HP:2443
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2443/4891 SP:407/407 BP:4
+B-Cyrus - HP:1775/4057 SP:572/582 BP:4
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1354/1354 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:414/1129 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Tressa
+3.Heavenwing
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Wind Elemental usa Windshot
+Tressa se defiende
+Tressa recibe 71 de daño elemental
+Tressa termina con HP:2372
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2372/4891 SP:407/407 BP:4
+B-Cyrus - HP:1775/4057 SP:572/582 BP:4
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1354/1354 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:414/1129 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Tressa
+3.Heavenwing
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Light Guardian usa Attack
+Tressa se defiende
+Tressa recibe 14 de daño físico
+Tressa termina con HP:2358
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2358/4891 SP:407/407 BP:5
+B-Cyrus - HP:1775/4057 SP:572/582 BP:5
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1354/1354 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:414/1129 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Tressa
+3.Heavenwing
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Heal Wounds
+2: True Strike
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Heal Wounds
+Tressa recupera 495 de vida
+Cyrus recupera 495 de vida
+Tressa termina con HP:2853
+Cyrus termina con HP:2270
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2853/4891 SP:407/407 BP:5
+B-Cyrus - HP:2270/4057 SP:566/582 BP:5
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1354/1354 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:414/1129 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Heavenwing
+3.Devil Deer
+4.Fire Elemental
+5.Wind Elemental
+6.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Devil Deer - HP:1959/2002 Shields:5
+2: Fire Elemental - HP:1354/1354 Shields:4
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Heavenwing - HP:6900/6900 Shields:7
+5: Light Guardian - HP:414/1129 Shields:1
+6: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Wind Elemental recibe 57 de daño de tipo Bow
+Wind Elemental termina con HP:2439
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2853/4891 SP:407/407 BP:5
+B-Cyrus - HP:2270/4057 SP:566/582 BP:5
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1354/1354 Shields:4
+C-Wind Elemental - HP:2439/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:414/1129 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Devil Deer
+3.Fire Elemental
+4.Wind Elemental
+5.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Heavenwing usa Incinerate
+Tressa recibe 390 de daño elemental
+Cyrus recibe 345 de daño elemental
+Tressa termina con HP:2463
+Cyrus termina con HP:1925
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2463/4891 SP:407/407 BP:5
+B-Cyrus - HP:1925/4057 SP:566/582 BP:5
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1354/1354 Shields:4
+C-Wind Elemental - HP:2439/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:414/1129 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Fire Elemental
+3.Wind Elemental
+4.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Devil Deer usa Boar Rush
+Cyrus recibe 569 de daño físico
+Cyrus termina con HP:1356
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2463/4891 SP:407/407 BP:5
+B-Cyrus - HP:1356/4057 SP:566/582 BP:5
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1354/1354 Shields:4
+C-Wind Elemental - HP:2439/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:414/1129 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+2.Wind Elemental
+3.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Fire Elemental usa Firesand
+Tressa recibe 219 de daño elemental
+Tressa termina con HP:2244
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2244/4891 SP:407/407 BP:5
+B-Cyrus - HP:1356/4057 SP:566/582 BP:5
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1354/1354 Shields:4
+C-Wind Elemental - HP:2439/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:414/1129 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Wind Elemental usa Windshot
+Tressa recibe 142 de daño elemental
+Tressa termina con HP:2102
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2102/4891 SP:407/407 BP:5
+B-Cyrus - HP:1356/4057 SP:566/582 BP:5
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1354/1354 Shields:4
+C-Wind Elemental - HP:2439/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:414/1129 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Light Guardian usa Attack
+Tressa recibe 29 de daño físico
+Tressa termina con HP:2073
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2073/4891 SP:407/407 BP:5
+B-Cyrus - HP:1356/4057 SP:566/582 BP:5
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1354/1354 Shields:4
+C-Wind Elemental - HP:2439/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:414/1129 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Heal Wounds
+2: True Strike
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Devil Deer - HP:1959/2002 Shields:5
+2: Fire Elemental - HP:1354/1354 Shields:4
+3: Wind Elemental - HP:2439/2496 Shields:4
+4: Heavenwing - HP:6900/6900 Shields:7
+5: Light Guardian - HP:414/1129 Shields:1
+6: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa True Strike
+Fire Elemental recibe 108 de daño de tipo Bow
+Fire Elemental termina con HP:1246
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2073/4891 SP:407/407 BP:5
+B-Cyrus - HP:1356/4057 SP:556/582 BP:5
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1246/1354 Shields:4
+C-Wind Elemental - HP:2439/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:414/1129 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Tressa
+3.Devil Deer
+4.Fire Elemental
+5.Wind Elemental
+6.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Heavenwing usa Incinerate
+Tressa recibe 390 de daño elemental
+Cyrus recibe 345 de daño elemental
+Tressa termina con HP:1683
+Cyrus termina con HP:1011
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:1683/4891 SP:407/407 BP:5
+B-Cyrus - HP:1011/4057 SP:556/582 BP:5
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1246/1354 Shields:4
+C-Wind Elemental - HP:2439/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:414/1129 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Devil Deer
+3.Fire Elemental
+4.Wind Elemental
+5.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Devil Deer - HP:1959/2002 Shields:5
+2: Fire Elemental - HP:1246/1354 Shields:4
+3: Wind Elemental - HP:2439/2496 Shields:4
+4: Heavenwing - HP:6900/6900 Shields:7
+5: Light Guardian - HP:414/1129 Shields:1
+6: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Fire Elemental recibe 135 de daño de tipo Spear
+Fire Elemental termina con HP:1111
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:1683/4891 SP:407/407 BP:5
+B-Cyrus - HP:1011/4057 SP:556/582 BP:5
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1111/1354 Shields:4
+C-Wind Elemental - HP:2439/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:414/1129 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Fire Elemental
+3.Wind Elemental
+4.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Devil Deer usa Boar Rush
+Cyrus recibe 569 de daño físico
+Cyrus termina con HP:442
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:1683/4891 SP:407/407 BP:5
+B-Cyrus - HP:442/4057 SP:556/582 BP:5
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1111/1354 Shields:4
+C-Wind Elemental - HP:2439/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:414/1129 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+2.Wind Elemental
+3.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Fire Elemental usa Firesand
+Tressa recibe 219 de daño elemental
+Tressa termina con HP:1464
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:1464/4891 SP:407/407 BP:5
+B-Cyrus - HP:442/4057 SP:556/582 BP:5
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1111/1354 Shields:4
+C-Wind Elemental - HP:2439/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:414/1129 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Wind Elemental usa Windshot
+Tressa recibe 142 de daño elemental
+Tressa termina con HP:1322
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:1322/4891 SP:407/407 BP:5
+B-Cyrus - HP:442/4057 SP:556/582 BP:5
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1111/1354 Shields:4
+C-Wind Elemental - HP:2439/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:414/1129 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Light Guardian usa Attack
+Tressa recibe 29 de daño físico
+Tressa termina con HP:1293
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:1293/4891 SP:407/407 BP:5
+B-Cyrus - HP:442/4057 SP:556/582 BP:5
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1111/1354 Shields:4
+C-Wind Elemental - HP:2439/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:414/1129 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+7.Light Guardian
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Heal Wounds
+2: True Strike
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Devil Deer - HP:1959/2002 Shields:5
+2: Fire Elemental - HP:1111/1354 Shields:4
+3: Wind Elemental - HP:2439/2496 Shields:4
+4: Heavenwing - HP:6900/6900 Shields:7
+5: Light Guardian - HP:414/1129 Shields:1
+6: Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa True Strike
+Light Guardian recibe 337 de daño de tipo Bow con debilidad
+Light Guardian entra en Breaking Point
+Light Guardian termina con HP:77
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:1293/4891 SP:407/407 BP:5
+B-Cyrus - HP:442/4057 SP:546/582 BP:5
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1111/1354 Shields:4
+C-Wind Elemental - HP:2439/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:77/1129 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Tressa
+3.Devil Deer
+4.Fire Elemental
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Tressa recibe 390 de daño elemental
+Cyrus recibe 345 de daño elemental
+Tressa termina con HP:903
+Cyrus termina con HP:97
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:903/4891 SP:407/407 BP:5
+B-Cyrus - HP:97/4057 SP:546/582 BP:5
+Equipo del enemigo
+A-Devil Deer - HP:1959/2002 Shields:5
+B-Fire Elemental - HP:1111/1354 Shields:4
+C-Wind Elemental - HP:2439/2496 Shields:4
+D-Heavenwing - HP:6900/6900 Shields:7
+E-Light Guardian - HP:77/1129 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Devil Deer
+3.Fire Elemental
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Icewind
+2: Nightmare Chimera
+3: Phoenix Storm
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Icewind
+Devil Deer recibe 113 de daño de tipo Ice
+Fire Elemental recibe 553 de daño de tipo Ice con debilidad
+Wind Elemental recibe 657 de daño de tipo Ice con debilidad
+Heavenwing recibe 165 de daño de tipo Ice
+Light Guardian recibe 648 de daño de tipo Ice
+Devil Deer termina con HP:1846
+Fire Elemental termina con HP:558
+Wind Elemental termina con HP:1782
+Heavenwing termina con HP:6735
+Light Guardian termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:903/4891 SP:399/407 BP:5
+B-Cyrus - HP:97/4057 SP:546/582 BP:5
+Equipo del enemigo
+A-Devil Deer - HP:1846/2002 Shields:5
+B-Fire Elemental - HP:558/1354 Shields:3
+C-Wind Elemental - HP:1782/2496 Shields:3
+D-Heavenwing - HP:6735/6900 Shields:7
+E-Light Guardian - HP:0/1129 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Fire Elemental
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heavenwing
+3.Tressa
+4.Devil Deer
+5.Fire Elemental
+6.Wind Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+Cyrus recibe 569 de daño físico
+Cyrus termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:903/4891 SP:399/407 BP:5
+B-Cyrus - HP:0/4057 SP:546/582 BP:5
+Equipo del enemigo
+A-Devil Deer - HP:1846/2002 Shields:5
+B-Fire Elemental - HP:558/1354 Shields:3
+C-Wind Elemental - HP:1782/2496 Shields:3
+D-Heavenwing - HP:6735/6900 Shields:7
+E-Light Guardian - HP:0/1129 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heavenwing
+2.Tressa
+3.Devil Deer
+4.Fire Elemental
+5.Wind Elemental
+----------------------------------------
+Fire Elemental usa Firesand
+Tressa recibe 219 de daño elemental
+Tressa termina con HP:684
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:684/4891 SP:399/407 BP:5
+B-Cyrus - HP:0/4057 SP:546/582 BP:5
+Equipo del enemigo
+A-Devil Deer - HP:1846/2002 Shields:5
+B-Fire Elemental - HP:558/1354 Shields:3
+C-Wind Elemental - HP:1782/2496 Shields:3
+D-Heavenwing - HP:6735/6900 Shields:7
+E-Light Guardian - HP:0/1129 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heavenwing
+2.Tressa
+3.Devil Deer
+4.Fire Elemental
+5.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Tressa recibe 142 de daño elemental
+Tressa termina con HP:542
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:542/4891 SP:399/407 BP:5
+B-Cyrus - HP:0/4057 SP:546/582 BP:5
+Equipo del enemigo
+A-Devil Deer - HP:1846/2002 Shields:5
+B-Fire Elemental - HP:558/1354 Shields:3
+C-Wind Elemental - HP:1782/2496 Shields:3
+D-Heavenwing - HP:6735/6900 Shields:7
+E-Light Guardian - HP:0/1129 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Tressa
+3.Devil Deer
+4.Fire Elemental
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heavenwing
+2.Tressa
+3.Devil Deer
+4.Fire Elemental
+5.Wind Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Tressa recibe 390 de daño elemental
+Tressa termina con HP:152
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:152/4891 SP:399/407 BP:5
+B-Cyrus - HP:0/4057 SP:546/582 BP:5
+Equipo del enemigo
+A-Devil Deer - HP:1846/2002 Shields:5
+B-Fire Elemental - HP:558/1354 Shields:3
+C-Wind Elemental - HP:1782/2496 Shields:3
+D-Heavenwing - HP:6735/6900 Shields:7
+E-Light Guardian - HP:0/1129 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Devil Deer
+3.Fire Elemental
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heavenwing
+2.Tressa
+3.Devil Deer
+4.Fire Elemental
+5.Wind Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Icewind
+2: Nightmare Chimera
+3: Phoenix Storm
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Icewind
+Devil Deer recibe 113 de daño de tipo Ice
+Fire Elemental recibe 553 de daño de tipo Ice con debilidad
+Wind Elemental recibe 657 de daño de tipo Ice con debilidad
+Heavenwing recibe 165 de daño de tipo Ice
+Devil Deer termina con HP:1733
+Fire Elemental termina con HP:5
+Wind Elemental termina con HP:1125
+Heavenwing termina con HP:6570
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:152/4891 SP:391/407 BP:5
+B-Cyrus - HP:0/4057 SP:546/582 BP:5
+Equipo del enemigo
+A-Devil Deer - HP:1733/2002 Shields:5
+B-Fire Elemental - HP:5/1354 Shields:2
+C-Wind Elemental - HP:1125/2496 Shields:2
+D-Heavenwing - HP:6570/6900 Shields:7
+E-Light Guardian - HP:0/1129 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Fire Elemental
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heavenwing
+2.Tressa
+3.Devil Deer
+4.Fire Elemental
+5.Wind Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+Tressa recibe 517 de daño físico
+Tressa termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

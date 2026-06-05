@@ -1,0 +1,892 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+INPUT: 5
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:332/332 BP:1
+B-Primrose - HP:4002/4002 SP:504/504 BP:1
+C-Z'aanta - HP:3222/3222 SP:421/421 BP:1
+Equipo del enemigo
+A-Accursed Armor - HP:3746/3746 Shields:5
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Devourer of Dreams
+5.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Devourer of Dreams
+5.Accursed Armor
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Accursed Armor - HP:3746/3746 Shields:5
+2: Devourer of Dreams - HP:7500/7500 Shields:10
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Accursed Armor recibe 190 de daño de tipo Dagger
+Accursed Armor termina con HP:3556
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:332/332 BP:1
+B-Primrose - HP:4002/4002 SP:504/504 BP:1
+C-Z'aanta - HP:3222/3222 SP:421/421 BP:1
+Equipo del enemigo
+A-Accursed Armor - HP:3556/3746 Shields:5
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Z'aanta
+3.Devourer of Dreams
+4.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Devourer of Dreams
+5.Accursed Armor
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Accursed Armor - HP:3556/3746 Shields:5
+2: Devourer of Dreams - HP:7500/7500 Shields:10
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Devourer of Dreams recibe 0 de daño de tipo Dagger
+Devourer of Dreams termina con HP:7500
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:332/332 BP:1
+B-Primrose - HP:4002/4002 SP:504/504 BP:1
+C-Z'aanta - HP:3222/3222 SP:421/421 BP:1
+Equipo del enemigo
+A-Accursed Armor - HP:3556/3746 Shields:5
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Devourer of Dreams
+3.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Devourer of Dreams
+5.Accursed Armor
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Guardian Liondog
+2: First Aid
+3: Fire Storm
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Therion - HP:4447/4447 SP:332/332 BP:1
+2: Primrose - HP:4002/4002 SP:504/504 BP:1
+3: Z'aanta - HP:3222/3222 SP:421/421 BP:1
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Z'aanta no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta usa First Aid
+Primrose recupera 349 de vida
+Primrose termina con HP:4002
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:332/332 BP:1
+B-Primrose - HP:4002/4002 SP:504/504 BP:1
+C-Z'aanta - HP:3222/3222 SP:417/421 BP:1
+Equipo del enemigo
+A-Accursed Armor - HP:3556/3746 Shields:5
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Devourer of Dreams
+5.Accursed Armor
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Therion recibe 2224 de daño
+Primrose recibe 2001 de daño
+Z'aanta recibe 1611 de daño
+Therion termina con HP:2223
+Primrose termina con HP:2001
+Z'aanta termina con HP:1611
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2223/4447 SP:332/332 BP:1
+B-Primrose - HP:2001/4002 SP:504/504 BP:1
+C-Z'aanta - HP:1611/3222 SP:417/421 BP:1
+Equipo del enemigo
+A-Accursed Armor - HP:3556/3746 Shields:5
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Devourer of Dreams
+5.Accursed Armor
+----------------------------------------
+Accursed Armor usa Gather Strength
+Primrose recibe 330 de daño físico
+Accursed Armor tendrá Increased Physical Attack durante 2 rondas
+Primrose termina con HP:1671
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2223/4447 SP:332/332 BP:2
+B-Primrose - HP:1671/4002 SP:504/504 BP:2
+C-Z'aanta - HP:1611/3222 SP:417/421 BP:2
+Equipo del enemigo
+A-Accursed Armor - HP:3556/3746 Shields:5
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Devourer of Dreams
+5.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Devourer of Dreams
+5.Accursed Armor
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2223/4447 SP:332/332 BP:2
+B-Primrose - HP:1671/4002 SP:504/504 BP:2
+C-Z'aanta - HP:1611/3222 SP:417/421 BP:2
+Equipo del enemigo
+A-Accursed Armor - HP:3556/3746 Shields:5
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Z'aanta
+3.Devourer of Dreams
+4.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Devourer of Dreams
+5.Accursed Armor
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2223/4447 SP:332/332 BP:2
+B-Primrose - HP:1671/4002 SP:504/504 BP:2
+C-Z'aanta - HP:1611/3222 SP:417/421 BP:2
+Equipo del enemigo
+A-Accursed Armor - HP:3556/3746 Shields:5
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Devourer of Dreams
+3.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Devourer of Dreams
+5.Accursed Armor
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2223/4447 SP:332/332 BP:2
+B-Primrose - HP:1671/4002 SP:504/504 BP:2
+C-Z'aanta - HP:1611/3222 SP:417/421 BP:2
+Equipo del enemigo
+A-Accursed Armor - HP:3556/3746 Shields:5
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Devourer of Dreams
+5.Accursed Armor
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Therion recibe 1112 de daño
+Primrose recibe 836 de daño
+Z'aanta recibe 806 de daño
+Therion termina con HP:1111
+Primrose termina con HP:835
+Z'aanta termina con HP:805
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:1111/4447 SP:332/332 BP:2
+B-Primrose - HP:835/4002 SP:504/504 BP:2
+C-Z'aanta - HP:805/3222 SP:417/421 BP:2
+Equipo del enemigo
+A-Accursed Armor - HP:3556/3746 Shields:5
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Devourer of Dreams
+5.Accursed Armor
+----------------------------------------
+Accursed Armor usa Gather Strength
+Primrose se defiende
+Primrose recibe 247 de daño físico
+Accursed Armor tendrá Increased Physical Attack durante 2 rondas
+Primrose termina con HP:588
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:1111/4447 SP:332/332 BP:3
+B-Primrose - HP:588/4002 SP:504/504 BP:3
+C-Z'aanta - HP:805/3222 SP:417/421 BP:3
+Equipo del enemigo
+A-Accursed Armor - HP:3556/3746 Shields:5
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Devourer of Dreams
+5.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Devourer of Dreams
+5.Accursed Armor
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Accursed Armor - HP:3556/3746 Shields:5
+2: Devourer of Dreams - HP:7500/7500 Shields:10
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Devourer of Dreams recibe 91 de daño de tipo Dagger
+Devourer of Dreams termina con HP:7409
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:1111/4447 SP:332/332 BP:3
+B-Primrose - HP:588/4002 SP:504/504 BP:3
+C-Z'aanta - HP:805/3222 SP:417/421 BP:3
+Equipo del enemigo
+A-Accursed Armor - HP:3556/3746 Shields:5
+B-Devourer of Dreams - HP:7409/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Z'aanta
+3.Devourer of Dreams
+4.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Devourer of Dreams
+5.Accursed Armor
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Sealticge's Seduction
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Therion - HP:1111/4447 SP:332/332 BP:3
+2: Primrose - HP:588/4002 SP:504/504 BP:3
+3: Z'aanta - HP:805/3222 SP:417/421 BP:3
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Primrose usa Sealticge's Seduction
+Z'aanta modificará sus targets durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:1111/4447 SP:332/332 BP:3
+B-Primrose - HP:588/4002 SP:474/504 BP:0
+C-Z'aanta - HP:805/3222 SP:417/421 BP:3
+Equipo del enemigo
+A-Accursed Armor - HP:3556/3746 Shields:5
+B-Devourer of Dreams - HP:7409/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Devourer of Dreams
+3.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Devourer of Dreams
+5.Accursed Armor
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Guardian Liondog
+2: First Aid
+3: Fire Storm
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta usa Guardian Liondog
+Accursed Armor recibe 493 de daño de tipo Sword
+Accursed Armor recibe 493 de daño de tipo Sword
+Accursed Armor recibe 493 de daño de tipo Sword
+Accursed Armor recibe 493 de daño de tipo Sword
+Accursed Armor recibe 493 de daño de tipo Sword
+Devourer of Dreams recibe 591 de daño de tipo Sword con debilidad
+Devourer of Dreams recibe 591 de daño de tipo Sword con debilidad
+Devourer of Dreams recibe 591 de daño de tipo Sword con debilidad
+Devourer of Dreams recibe 591 de daño de tipo Sword con debilidad
+Devourer of Dreams recibe 591 de daño de tipo Sword con debilidad
+Accursed Armor termina con HP:1091
+Devourer of Dreams termina con HP:4454
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:1111/4447 SP:332/332 BP:3
+B-Primrose - HP:588/4002 SP:474/504 BP:0
+C-Z'aanta - HP:805/3222 SP:382/421 BP:3
+Equipo del enemigo
+A-Accursed Armor - HP:1091/3746 Shields:5
+B-Devourer of Dreams - HP:4454/7500 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Devourer of Dreams
+5.Accursed Armor
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Therion recibe 556 de daño
+Primrose recibe 294 de daño
+Z'aanta recibe 403 de daño
+Therion termina con HP:555
+Primrose termina con HP:294
+Z'aanta termina con HP:402
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:555/4447 SP:332/332 BP:3
+B-Primrose - HP:294/4002 SP:474/504 BP:0
+C-Z'aanta - HP:402/3222 SP:382/421 BP:3
+Equipo del enemigo
+A-Accursed Armor - HP:1091/3746 Shields:5
+B-Devourer of Dreams - HP:4454/7500 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Devourer of Dreams
+5.Accursed Armor
+----------------------------------------
+Accursed Armor usa Gather Strength
+Primrose recibe 495 de daño físico
+Accursed Armor tendrá Increased Physical Attack durante 2 rondas
+Primrose termina con HP:0
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:555/4447 SP:332/332 BP:4
+B-Primrose - HP:0/4002 SP:474/504 BP:0
+C-Z'aanta - HP:402/3222 SP:382/421 BP:4
+Equipo del enemigo
+A-Accursed Armor - HP:1091/3746 Shields:5
+B-Devourer of Dreams - HP:4454/7500 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Z'aanta
+3.Devourer of Dreams
+4.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Devourer of Dreams
+4.Accursed Armor
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Guardian Liondog
+2: Spearhead
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Accursed Armor - HP:1091/3746 Shields:5
+2: Devourer of Dreams - HP:4454/7500 Shields:5
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Spearhead
+Devourer of Dreams recibe 167 de daño de tipo Spear
+Devourer of Dreams termina con HP:4287
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:555/4447 SP:326/332 BP:4
+B-Primrose - HP:0/4002 SP:474/504 BP:0
+C-Z'aanta - HP:402/3222 SP:382/421 BP:4
+Equipo del enemigo
+A-Accursed Armor - HP:1091/3746 Shields:5
+B-Devourer of Dreams - HP:4287/7500 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Devourer of Dreams
+3.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Devourer of Dreams
+4.Accursed Armor
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Guardian Liondog
+2: First Aid
+3: Fire Storm
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Z'aanta usa Fire Storm
+Accursed Armor recibe 843 de daño de tipo Fire con debilidad
+Accursed Armor recibe 843 de daño de tipo Fire con debilidad
+Devourer of Dreams recibe 601 de daño de tipo Fire
+Devourer of Dreams recibe 601 de daño de tipo Fire
+Accursed Armor termina con HP:0
+Devourer of Dreams termina con HP:3085
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:555/4447 SP:326/332 BP:4
+B-Primrose - HP:0/4002 SP:474/504 BP:0
+C-Z'aanta - HP:402/3222 SP:360/421 BP:3
+Equipo del enemigo
+A-Accursed Armor - HP:0/3746 Shields:3
+B-Devourer of Dreams - HP:3085/7500 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Therion recibe 278 de daño
+Z'aanta recibe 201 de daño
+Therion termina con HP:277
+Z'aanta termina con HP:201
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:277/4447 SP:326/332 BP:5
+B-Primrose - HP:0/4002 SP:474/504 BP:0
+C-Z'aanta - HP:201/3222 SP:360/421 BP:3
+Equipo del enemigo
+A-Accursed Armor - HP:0/3746 Shields:3
+B-Devourer of Dreams - HP:3085/7500 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Z'aanta
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Devourer of Dreams
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Guardian Liondog
+2: Spearhead
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Devourer of Dreams - HP:3085/7500 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Therion usa Spearhead
+Devourer of Dreams recibe 1868 de daño de tipo Spear
+Devourer of Dreams termina con HP:1217
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:277/4447 SP:320/332 BP:2
+B-Primrose - HP:0/4002 SP:474/504 BP:0
+C-Z'aanta - HP:201/3222 SP:360/421 BP:3
+Equipo del enemigo
+A-Accursed Armor - HP:0/3746 Shields:3
+B-Devourer of Dreams - HP:1217/7500 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Devourer of Dreams
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Devourer of Dreams - HP:1217/7500 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Devourer of Dreams recibe 116 de daño de tipo Bow
+Devourer of Dreams termina con HP:1101
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:277/4447 SP:320/332 BP:2
+B-Primrose - HP:0/4002 SP:474/504 BP:0
+C-Z'aanta - HP:201/3222 SP:360/421 BP:3
+Equipo del enemigo
+A-Accursed Armor - HP:0/3746 Shields:3
+B-Devourer of Dreams - HP:1101/7500 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Therion recibe 139 de daño
+Z'aanta recibe 101 de daño
+Therion termina con HP:138
+Z'aanta termina con HP:100
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:138/4447 SP:320/332 BP:2
+B-Primrose - HP:0/4002 SP:474/504 BP:0
+C-Z'aanta - HP:100/3222 SP:360/421 BP:4
+Equipo del enemigo
+A-Accursed Armor - HP:0/3746 Shields:3
+B-Devourer of Dreams - HP:1101/7500 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Z'aanta
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Devourer of Dreams
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Devourer of Dreams - HP:1101/7500 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Devourer of Dreams recibe 91 de daño de tipo Dagger
+Devourer of Dreams termina con HP:1010
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:138/4447 SP:320/332 BP:2
+B-Primrose - HP:0/4002 SP:474/504 BP:0
+C-Z'aanta - HP:100/3222 SP:360/421 BP:4
+Equipo del enemigo
+A-Accursed Armor - HP:0/3746 Shields:3
+B-Devourer of Dreams - HP:1010/7500 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Devourer of Dreams
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Guardian Liondog
+2: First Aid
+3: Fire Storm
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Z'aanta usa Fire Storm
+Devourer of Dreams recibe 1019 de daño de tipo Fire
+Devourer of Dreams recibe 1019 de daño de tipo Fire
+Devourer of Dreams termina con HP:0
+----------------------------------------
+Gana equipo del jugador

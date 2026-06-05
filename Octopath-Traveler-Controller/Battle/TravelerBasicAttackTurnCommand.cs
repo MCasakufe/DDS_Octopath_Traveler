@@ -27,6 +27,6 @@ public sealed class TravelerBasicAttackTurnCommand
             turnOutcome.SelectedBeastTarget,
             turnOutcome.SelectedWeapon,
             usedBp));
-        _battleConsoleView.PrintTravelerBasicAttack(attack);
+        _battleConsoleView.WriteTravelerBasicAttack(attack);
     }
 }

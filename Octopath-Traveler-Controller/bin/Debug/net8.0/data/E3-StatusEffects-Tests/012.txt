@@ -1,0 +1,1226 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+INPUT: 11
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Wolf - HP:1577/1577 Shields:2
+C-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Primrose - HP:4002/4002 SP:504/504 BP:1
+2: Olberic - HP:5781/5781 SP:291/291 BP:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Mole Dance
+Olberic tendrá Increased Physical Defense durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:500/504 BP:1
+B-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Wolf - HP:1577/1577 Shields:2
+C-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Wolf
+2.Olberic
+3.Meep
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Wolf usa Attack
+Olberic recibe 45 de daño físico
+Olberic termina con HP:5736
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:500/504 BP:1
+B-Olberic - HP:5736/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Wolf - HP:1577/1577 Shields:2
+C-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Meep - HP:1016/1016 Shields:2
+2: Wolf - HP:1577/1577 Shields:2
+3: War Wolf - HP:3548/3548 Shields:2
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Meep recibe 132 de daño de tipo Sword
+Meep termina con HP:884
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:500/504 BP:1
+B-Olberic - HP:5736/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Meep - HP:884/1016 Shields:2
+B-Wolf - HP:1577/1577 Shields:2
+C-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Meep usa Attack
+Olberic recibe 93 de daño físico
+Olberic termina con HP:5643
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:500/504 BP:1
+B-Olberic - HP:5643/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Meep - HP:884/1016 Shields:2
+B-Wolf - HP:1577/1577 Shields:2
+C-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic recibe 49 de daño físico
+Olberic termina con HP:5594
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:500/504 BP:2
+B-Olberic - HP:5594/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Meep - HP:884/1016 Shields:2
+B-Wolf - HP:1577/1577 Shields:2
+C-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Primrose - HP:4002/4002 SP:500/504 BP:2
+2: Olberic - HP:5594/5781 SP:291/291 BP:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Mole Dance
+Olberic tendrá Increased Physical Defense durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:496/504 BP:2
+B-Olberic - HP:5594/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Meep - HP:884/1016 Shields:2
+B-Wolf - HP:1577/1577 Shields:2
+C-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Wolf
+2.Olberic
+3.Meep
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Wolf usa Attack
+Olberic recibe 45 de daño físico
+Olberic termina con HP:5549
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:496/504 BP:2
+B-Olberic - HP:5549/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Meep - HP:884/1016 Shields:2
+B-Wolf - HP:1577/1577 Shields:2
+C-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Meep - HP:884/1016 Shields:2
+2: Wolf - HP:1577/1577 Shields:2
+3: War Wolf - HP:3548/3548 Shields:2
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Meep recibe 132 de daño de tipo Sword
+Meep termina con HP:752
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:496/504 BP:2
+B-Olberic - HP:5549/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Meep - HP:752/1016 Shields:2
+B-Wolf - HP:1577/1577 Shields:2
+C-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Meep usa Attack
+Olberic recibe 93 de daño físico
+Olberic termina con HP:5456
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:496/504 BP:2
+B-Olberic - HP:5456/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Meep - HP:752/1016 Shields:2
+B-Wolf - HP:1577/1577 Shields:2
+C-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic recibe 49 de daño físico
+Olberic termina con HP:5407
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:496/504 BP:3
+B-Olberic - HP:5407/5781 SP:291/291 BP:3
+Equipo del enemigo
+A-Meep - HP:752/1016 Shields:2
+B-Wolf - HP:1577/1577 Shields:2
+C-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Meep - HP:752/1016 Shields:2
+2: Wolf - HP:1577/1577 Shields:2
+3: War Wolf - HP:3548/3548 Shields:2
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Meep recibe 0 de daño de tipo Dagger
+Meep termina con HP:752
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:496/504 BP:3
+B-Olberic - HP:5407/5781 SP:291/291 BP:3
+Equipo del enemigo
+A-Meep - HP:752/1016 Shields:2
+B-Wolf - HP:1577/1577 Shields:2
+C-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Wolf
+2.Olberic
+3.Meep
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Wolf usa Attack
+Olberic recibe 45 de daño físico
+Olberic termina con HP:5362
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:496/504 BP:3
+B-Olberic - HP:5362/5781 SP:291/291 BP:3
+Equipo del enemigo
+A-Meep - HP:752/1016 Shields:2
+B-Wolf - HP:1577/1577 Shields:2
+C-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Meep - HP:752/1016 Shields:2
+2: Wolf - HP:1577/1577 Shields:2
+3: War Wolf - HP:3548/3548 Shields:2
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Meep recibe 132 de daño de tipo Sword
+Meep termina con HP:620
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:496/504 BP:3
+B-Olberic - HP:5362/5781 SP:291/291 BP:3
+Equipo del enemigo
+A-Meep - HP:620/1016 Shields:2
+B-Wolf - HP:1577/1577 Shields:2
+C-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Meep usa Attack
+Olberic recibe 93 de daño físico
+Olberic termina con HP:5269
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:496/504 BP:3
+B-Olberic - HP:5269/5781 SP:291/291 BP:3
+Equipo del enemigo
+A-Meep - HP:620/1016 Shields:2
+B-Wolf - HP:1577/1577 Shields:2
+C-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic recibe 49 de daño físico
+Olberic termina con HP:5220
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:496/504 BP:4
+B-Olberic - HP:5220/5781 SP:291/291 BP:4
+Equipo del enemigo
+A-Meep - HP:620/1016 Shields:2
+B-Wolf - HP:1577/1577 Shields:2
+C-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Meep - HP:620/1016 Shields:2
+2: Wolf - HP:1577/1577 Shields:2
+3: War Wolf - HP:3548/3548 Shields:2
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Meep recibe 0 de daño de tipo Dagger
+Meep termina con HP:620
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:496/504 BP:4
+B-Olberic - HP:5220/5781 SP:291/291 BP:4
+Equipo del enemigo
+A-Meep - HP:620/1016 Shields:2
+B-Wolf - HP:1577/1577 Shields:2
+C-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Wolf
+2.Olberic
+3.Meep
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Wolf usa Attack
+Olberic recibe 45 de daño físico
+Olberic termina con HP:5175
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:496/504 BP:4
+B-Olberic - HP:5175/5781 SP:291/291 BP:4
+Equipo del enemigo
+A-Meep - HP:620/1016 Shields:2
+B-Wolf - HP:1577/1577 Shields:2
+C-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Meep - HP:620/1016 Shields:2
+2: Wolf - HP:1577/1577 Shields:2
+3: War Wolf - HP:3548/3548 Shields:2
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Meep recibe 132 de daño de tipo Sword
+Meep termina con HP:488
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:496/504 BP:4
+B-Olberic - HP:5175/5781 SP:291/291 BP:4
+Equipo del enemigo
+A-Meep - HP:488/1016 Shields:2
+B-Wolf - HP:1577/1577 Shields:2
+C-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Meep usa Attack
+Olberic recibe 93 de daño físico
+Olberic termina con HP:5082
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:496/504 BP:4
+B-Olberic - HP:5082/5781 SP:291/291 BP:4
+Equipo del enemigo
+A-Meep - HP:488/1016 Shields:2
+B-Wolf - HP:1577/1577 Shields:2
+C-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic recibe 49 de daño físico
+Olberic termina con HP:5033
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:496/504 BP:5
+B-Olberic - HP:5033/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Meep - HP:488/1016 Shields:2
+B-Wolf - HP:1577/1577 Shields:2
+C-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Meep - HP:488/1016 Shields:2
+2: Wolf - HP:1577/1577 Shields:2
+3: War Wolf - HP:3548/3548 Shields:2
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Meep recibe 0 de daño de tipo Dagger
+Meep termina con HP:488
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:496/504 BP:5
+B-Olberic - HP:5033/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Meep - HP:488/1016 Shields:2
+B-Wolf - HP:1577/1577 Shields:2
+C-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Wolf
+2.Olberic
+3.Meep
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Wolf usa Attack
+Olberic recibe 67 de daño físico
+Olberic termina con HP:4966
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:496/504 BP:5
+B-Olberic - HP:4966/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Meep - HP:488/1016 Shields:2
+B-Wolf - HP:1577/1577 Shields:2
+C-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Meep - HP:488/1016 Shields:2
+2: Wolf - HP:1577/1577 Shields:2
+3: War Wolf - HP:3548/3548 Shields:2
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Meep recibe 132 de daño de tipo Sword
+Meep termina con HP:356
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:496/504 BP:5
+B-Olberic - HP:4966/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Meep - HP:356/1016 Shields:2
+B-Wolf - HP:1577/1577 Shields:2
+C-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:4826
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:496/504 BP:5
+B-Olberic - HP:4826/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Meep - HP:356/1016 Shields:2
+B-Wolf - HP:1577/1577 Shields:2
+C-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic recibe 74 de daño físico
+Olberic termina con HP:4752
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:496/504 BP:5
+B-Olberic - HP:4752/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Meep - HP:356/1016 Shields:2
+B-Wolf - HP:1577/1577 Shields:2
+C-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Meep - HP:356/1016 Shields:2
+2: Wolf - HP:1577/1577 Shields:2
+3: War Wolf - HP:3548/3548 Shields:2
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Meep recibe 0 de daño de tipo Dagger
+Meep termina con HP:356
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:496/504 BP:5
+B-Olberic - HP:4752/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Meep - HP:356/1016 Shields:2
+B-Wolf - HP:1577/1577 Shields:2
+C-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Wolf
+2.Olberic
+3.Meep
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Wolf usa Attack
+Olberic recibe 67 de daño físico
+Olberic termina con HP:4685
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:496/504 BP:5
+B-Olberic - HP:4685/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Meep - HP:356/1016 Shields:2
+B-Wolf - HP:1577/1577 Shields:2
+C-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Meep - HP:356/1016 Shields:2
+2: Wolf - HP:1577/1577 Shields:2
+3: War Wolf - HP:3548/3548 Shields:2
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Meep recibe 132 de daño de tipo Sword
+Meep termina con HP:224
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:496/504 BP:5
+B-Olberic - HP:4685/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Meep - HP:224/1016 Shields:2
+B-Wolf - HP:1577/1577 Shields:2
+C-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:4545
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:496/504 BP:5
+B-Olberic - HP:4545/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Meep - HP:224/1016 Shields:2
+B-Wolf - HP:1577/1577 Shields:2
+C-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic recibe 74 de daño físico
+Olberic termina con HP:4471
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:496/504 BP:5
+B-Olberic - HP:4471/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Meep - HP:224/1016 Shields:2
+B-Wolf - HP:1577/1577 Shields:2
+C-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Meep - HP:224/1016 Shields:2
+2: Wolf - HP:1577/1577 Shields:2
+3: War Wolf - HP:3548/3548 Shields:2
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Meep recibe 0 de daño de tipo Dagger
+Meep termina con HP:224
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:496/504 BP:5
+B-Olberic - HP:4471/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Meep - HP:224/1016 Shields:2
+B-Wolf - HP:1577/1577 Shields:2
+C-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Wolf
+2.Olberic
+3.Meep
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Wolf usa Attack
+Olberic recibe 67 de daño físico
+Olberic termina con HP:4404
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:496/504 BP:5
+B-Olberic - HP:4404/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Meep - HP:224/1016 Shields:2
+B-Wolf - HP:1577/1577 Shields:2
+C-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Meep - HP:224/1016 Shields:2
+2: Wolf - HP:1577/1577 Shields:2
+3: War Wolf - HP:3548/3548 Shields:2
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Meep recibe 132 de daño de tipo Sword
+Meep termina con HP:92
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:496/504 BP:5
+B-Olberic - HP:4404/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Meep - HP:92/1016 Shields:2
+B-Wolf - HP:1577/1577 Shields:2
+C-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:4264
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:496/504 BP:5
+B-Olberic - HP:4264/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Meep - HP:92/1016 Shields:2
+B-Wolf - HP:1577/1577 Shields:2
+C-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic recibe 74 de daño físico
+Olberic termina con HP:4190
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:496/504 BP:5
+B-Olberic - HP:4190/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Meep - HP:92/1016 Shields:2
+B-Wolf - HP:1577/1577 Shields:2
+C-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Olberic
+4.Meep
+5.War Wolf
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo

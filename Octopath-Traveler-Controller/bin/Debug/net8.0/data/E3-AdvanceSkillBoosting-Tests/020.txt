@@ -1,0 +1,1402 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+INPUT: 19
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Tressa - HP:4891/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Red Fox - HP:1451/1451 Shields:3
+C-Horse Fly - HP:2857/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Olberic
+3.Meep
+4.Horse Fly
+5.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Olberic
+3.Meep
+4.Horse Fly
+5.Red Fox
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Meep - HP:1016/1016 Shields:2
+2: Red Fox - HP:1451/1451 Shields:3
+3: Horse Fly - HP:2857/2857 Shields:2
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Red Fox recibe 255 de daño de tipo Spear
+Red Fox termina con HP:1196
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Tressa - HP:4891/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Red Fox - HP:1196/1451 Shields:3
+C-Horse Fly - HP:2857/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Horse Fly
+4.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Olberic
+3.Meep
+4.Horse Fly
+5.Red Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Abide
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Olberic - HP:5781/5781 SP:291/291 BP:1
+2: Tressa - HP:4891/4891 SP:357/357 BP:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Olberic usa Abide
+Tressa tendrá Increased Physical Attack durante 4 rondas
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:287/291 BP:0
+B-Tressa - HP:4891/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Red Fox - HP:1196/1451 Shields:3
+C-Horse Fly - HP:2857/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Horse Fly
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Olberic
+3.Meep
+4.Horse Fly
+5.Red Fox
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:5641
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5641/5781 SP:287/291 BP:0
+B-Tressa - HP:4891/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Red Fox - HP:1196/1451 Shields:3
+C-Horse Fly - HP:2857/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Horse Fly
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Olberic
+3.Meep
+4.Horse Fly
+5.Red Fox
+----------------------------------------
+Horse Fly usa Attack
+Olberic recibe 162 de daño físico
+Olberic termina con HP:5479
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5479/5781 SP:287/291 BP:0
+B-Tressa - HP:4891/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Red Fox - HP:1196/1451 Shields:3
+C-Horse Fly - HP:2857/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Olberic
+3.Meep
+4.Horse Fly
+5.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Olberic recibe 65 de daño físico
+Olberic termina con HP:5414
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5414/5781 SP:287/291 BP:0
+B-Tressa - HP:4891/4891 SP:357/357 BP:2
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Red Fox - HP:1196/1451 Shields:3
+C-Horse Fly - HP:2857/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Olberic
+3.Meep
+4.Horse Fly
+5.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Olberic
+3.Meep
+4.Horse Fly
+5.Red Fox
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Meep - HP:1016/1016 Shields:2
+2: Red Fox - HP:1196/1451 Shields:3
+3: Horse Fly - HP:2857/2857 Shields:2
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Red Fox recibe 382 de daño de tipo Spear
+Red Fox termina con HP:814
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5414/5781 SP:287/291 BP:0
+B-Tressa - HP:4891/4891 SP:357/357 BP:2
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Red Fox - HP:814/1451 Shields:3
+C-Horse Fly - HP:2857/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Horse Fly
+4.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Olberic
+3.Meep
+4.Horse Fly
+5.Red Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Meep - HP:1016/1016 Shields:2
+2: Red Fox - HP:814/1451 Shields:3
+3: Horse Fly - HP:2857/2857 Shields:2
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Olberic ataca
+Meep recibe 132 de daño de tipo Sword
+Meep termina con HP:884
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5414/5781 SP:287/291 BP:0
+B-Tressa - HP:4891/4891 SP:357/357 BP:2
+Equipo del enemigo
+A-Meep - HP:884/1016 Shields:2
+B-Red Fox - HP:814/1451 Shields:3
+C-Horse Fly - HP:2857/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Horse Fly
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Olberic
+3.Meep
+4.Horse Fly
+5.Red Fox
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:5274
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5274/5781 SP:287/291 BP:0
+B-Tressa - HP:4891/4891 SP:357/357 BP:2
+Equipo del enemigo
+A-Meep - HP:884/1016 Shields:2
+B-Red Fox - HP:814/1451 Shields:3
+C-Horse Fly - HP:2857/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Horse Fly
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Olberic
+3.Meep
+4.Horse Fly
+5.Red Fox
+----------------------------------------
+Horse Fly usa Attack
+Olberic recibe 162 de daño físico
+Olberic termina con HP:5112
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5112/5781 SP:287/291 BP:0
+B-Tressa - HP:4891/4891 SP:357/357 BP:2
+Equipo del enemigo
+A-Meep - HP:884/1016 Shields:2
+B-Red Fox - HP:814/1451 Shields:3
+C-Horse Fly - HP:2857/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Olberic
+3.Meep
+4.Horse Fly
+5.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Olberic recibe 65 de daño físico
+Olberic termina con HP:5047
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5047/5781 SP:287/291 BP:1
+B-Tressa - HP:4891/4891 SP:357/357 BP:3
+Equipo del enemigo
+A-Meep - HP:884/1016 Shields:2
+B-Red Fox - HP:814/1451 Shields:3
+C-Horse Fly - HP:2857/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Olberic
+3.Meep
+4.Horse Fly
+5.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Olberic
+3.Meep
+4.Horse Fly
+5.Red Fox
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Meep - HP:884/1016 Shields:2
+2: Red Fox - HP:814/1451 Shields:3
+3: Horse Fly - HP:2857/2857 Shields:2
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Red Fox recibe 382 de daño de tipo Spear
+Red Fox termina con HP:432
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5047/5781 SP:287/291 BP:1
+B-Tressa - HP:4891/4891 SP:357/357 BP:3
+Equipo del enemigo
+A-Meep - HP:884/1016 Shields:2
+B-Red Fox - HP:432/1451 Shields:3
+C-Horse Fly - HP:2857/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Horse Fly
+4.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Olberic
+3.Meep
+4.Horse Fly
+5.Red Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Meep - HP:884/1016 Shields:2
+2: Red Fox - HP:432/1451 Shields:3
+3: Horse Fly - HP:2857/2857 Shields:2
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Meep recibe 132 de daño de tipo Sword
+Meep termina con HP:752
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5047/5781 SP:287/291 BP:1
+B-Tressa - HP:4891/4891 SP:357/357 BP:3
+Equipo del enemigo
+A-Meep - HP:752/1016 Shields:2
+B-Red Fox - HP:432/1451 Shields:3
+C-Horse Fly - HP:2857/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Horse Fly
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Olberic
+3.Meep
+4.Horse Fly
+5.Red Fox
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:4907
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4907/5781 SP:287/291 BP:1
+B-Tressa - HP:4891/4891 SP:357/357 BP:3
+Equipo del enemigo
+A-Meep - HP:752/1016 Shields:2
+B-Red Fox - HP:432/1451 Shields:3
+C-Horse Fly - HP:2857/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Horse Fly
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Olberic
+3.Meep
+4.Horse Fly
+5.Red Fox
+----------------------------------------
+Horse Fly usa Attack
+Olberic recibe 162 de daño físico
+Olberic termina con HP:4745
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4745/5781 SP:287/291 BP:1
+B-Tressa - HP:4891/4891 SP:357/357 BP:3
+Equipo del enemigo
+A-Meep - HP:752/1016 Shields:2
+B-Red Fox - HP:432/1451 Shields:3
+C-Horse Fly - HP:2857/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Olberic
+3.Meep
+4.Horse Fly
+5.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Tressa recibe 110 de daño físico
+Tressa termina con HP:4781
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4745/5781 SP:287/291 BP:2
+B-Tressa - HP:4781/4891 SP:357/357 BP:4
+Equipo del enemigo
+A-Meep - HP:752/1016 Shields:2
+B-Red Fox - HP:432/1451 Shields:3
+C-Horse Fly - HP:2857/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Olberic
+3.Meep
+4.Horse Fly
+5.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Olberic
+3.Meep
+4.Horse Fly
+5.Red Fox
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Meep - HP:752/1016 Shields:2
+2: Red Fox - HP:432/1451 Shields:3
+3: Horse Fly - HP:2857/2857 Shields:2
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Red Fox recibe 382 de daño de tipo Spear
+Red Fox termina con HP:50
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4745/5781 SP:287/291 BP:2
+B-Tressa - HP:4781/4891 SP:357/357 BP:4
+Equipo del enemigo
+A-Meep - HP:752/1016 Shields:2
+B-Red Fox - HP:50/1451 Shields:3
+C-Horse Fly - HP:2857/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Horse Fly
+4.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Olberic
+3.Meep
+4.Horse Fly
+5.Red Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Abide
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Olberic - HP:4745/5781 SP:287/291 BP:2
+2: Tressa - HP:4781/4891 SP:357/357 BP:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Olberic usa Abide
+Olberic tendrá Increased Physical Attack durante 6 rondas
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4745/5781 SP:283/291 BP:0
+B-Tressa - HP:4781/4891 SP:357/357 BP:4
+Equipo del enemigo
+A-Meep - HP:752/1016 Shields:2
+B-Red Fox - HP:50/1451 Shields:3
+C-Horse Fly - HP:2857/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Horse Fly
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Olberic
+3.Meep
+4.Horse Fly
+5.Red Fox
+----------------------------------------
+Meep usa Attack
+Tressa recibe 185 de daño físico
+Tressa termina con HP:4596
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4745/5781 SP:283/291 BP:0
+B-Tressa - HP:4596/4891 SP:357/357 BP:4
+Equipo del enemigo
+A-Meep - HP:752/1016 Shields:2
+B-Red Fox - HP:50/1451 Shields:3
+C-Horse Fly - HP:2857/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Horse Fly
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Olberic
+3.Meep
+4.Horse Fly
+5.Red Fox
+----------------------------------------
+Horse Fly usa Attack
+Olberic recibe 162 de daño físico
+Olberic termina con HP:4583
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4583/5781 SP:283/291 BP:0
+B-Tressa - HP:4596/4891 SP:357/357 BP:4
+Equipo del enemigo
+A-Meep - HP:752/1016 Shields:2
+B-Red Fox - HP:50/1451 Shields:3
+C-Horse Fly - HP:2857/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Olberic
+3.Meep
+4.Horse Fly
+5.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Tressa recibe 110 de daño físico
+Tressa termina con HP:4486
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4583/5781 SP:283/291 BP:0
+B-Tressa - HP:4486/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:752/1016 Shields:2
+B-Red Fox - HP:50/1451 Shields:3
+C-Horse Fly - HP:2857/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Olberic
+3.Meep
+4.Horse Fly
+5.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Olberic
+3.Meep
+4.Horse Fly
+5.Red Fox
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Meep - HP:752/1016 Shields:2
+2: Red Fox - HP:50/1451 Shields:3
+3: Horse Fly - HP:2857/2857 Shields:2
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Red Fox recibe 255 de daño de tipo Spear
+Red Fox termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4583/5781 SP:283/291 BP:0
+B-Tressa - HP:4486/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:752/1016 Shields:2
+B-Red Fox - HP:0/1451 Shields:3
+C-Horse Fly - HP:2857/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Olberic
+3.Meep
+4.Horse Fly
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Meep - HP:752/1016 Shields:2
+2: Horse Fly - HP:2857/2857 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Olberic ataca
+Meep recibe 198 de daño de tipo Sword
+Meep termina con HP:554
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4583/5781 SP:283/291 BP:0
+B-Tressa - HP:4486/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:554/1016 Shields:2
+B-Red Fox - HP:0/1451 Shields:3
+C-Horse Fly - HP:2857/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Olberic
+3.Meep
+4.Horse Fly
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:4443
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4443/5781 SP:283/291 BP:0
+B-Tressa - HP:4486/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:554/1016 Shields:2
+B-Red Fox - HP:0/1451 Shields:3
+C-Horse Fly - HP:2857/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Olberic
+3.Meep
+4.Horse Fly
+----------------------------------------
+Horse Fly usa Attack
+Tressa recibe 207 de daño físico
+Tressa termina con HP:4279
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4443/5781 SP:283/291 BP:1
+B-Tressa - HP:4279/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:554/1016 Shields:2
+B-Red Fox - HP:0/1451 Shields:3
+C-Horse Fly - HP:2857/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Olberic
+3.Meep
+4.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Olberic
+3.Meep
+4.Horse Fly
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Meep - HP:554/1016 Shields:2
+2: Horse Fly - HP:2857/2857 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Horse Fly recibe 142 de daño de tipo Spear con debilidad
+Horse Fly termina con HP:2715
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4443/5781 SP:283/291 BP:1
+B-Tressa - HP:4279/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:554/1016 Shields:2
+B-Red Fox - HP:0/1451 Shields:3
+C-Horse Fly - HP:2715/2857 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Olberic
+3.Meep
+4.Horse Fly
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Meep - HP:554/1016 Shields:2
+2: Horse Fly - HP:2715/2857 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Meep recibe 198 de daño de tipo Sword
+Meep termina con HP:356
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4443/5781 SP:283/291 BP:1
+B-Tressa - HP:4279/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:356/1016 Shields:2
+B-Red Fox - HP:0/1451 Shields:3
+C-Horse Fly - HP:2715/2857 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Olberic
+3.Meep
+4.Horse Fly
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:4303
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4303/5781 SP:283/291 BP:1
+B-Tressa - HP:4279/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:356/1016 Shields:2
+B-Red Fox - HP:0/1451 Shields:3
+C-Horse Fly - HP:2715/2857 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Olberic
+3.Meep
+4.Horse Fly
+----------------------------------------
+Horse Fly usa Attack
+Olberic recibe 162 de daño físico
+Olberic termina con HP:4141
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4141/5781 SP:283/291 BP:2
+B-Tressa - HP:4279/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:356/1016 Shields:2
+B-Red Fox - HP:0/1451 Shields:3
+C-Horse Fly - HP:2715/2857 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Olberic
+3.Meep
+4.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Olberic
+3.Meep
+4.Horse Fly
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Meep - HP:356/1016 Shields:2
+2: Horse Fly - HP:2715/2857 Shields:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Horse Fly recibe 142 de daño de tipo Spear con debilidad
+Horse Fly entra en Breaking Point
+Horse Fly termina con HP:2573
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4141/5781 SP:283/291 BP:2
+B-Tressa - HP:4279/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:356/1016 Shields:2
+B-Red Fox - HP:0/1451 Shields:3
+C-Horse Fly - HP:2573/2857 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Olberic
+3.Meep
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Meep - HP:356/1016 Shields:2
+2: Horse Fly - HP:2573/2857 Shields:0
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Meep recibe 198 de daño de tipo Sword
+Meep termina con HP:158
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4141/5781 SP:283/291 BP:2
+B-Tressa - HP:4279/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:158/1016 Shields:2
+B-Red Fox - HP:0/1451 Shields:3
+C-Horse Fly - HP:2573/2857 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Olberic
+3.Meep
+----------------------------------------
+Meep usa Attack
+Tressa recibe 185 de daño físico
+Tressa termina con HP:4094
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4141/5781 SP:283/291 BP:3
+B-Tressa - HP:4094/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:158/1016 Shields:2
+B-Red Fox - HP:0/1451 Shields:3
+C-Horse Fly - HP:2573/2857 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Olberic
+3.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Horse Fly
+2.Tressa
+3.Olberic
+4.Meep
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Meep - HP:158/1016 Shields:2
+2: Horse Fly - HP:2573/2857 Shields:0
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Horse Fly recibe 190 de daño de tipo Spear con debilidad
+Horse Fly termina con HP:2383
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4141/5781 SP:283/291 BP:3
+B-Tressa - HP:4094/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:158/1016 Shields:2
+B-Red Fox - HP:0/1451 Shields:3
+C-Horse Fly - HP:2383/2857 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Horse Fly
+2.Tressa
+3.Olberic
+4.Meep
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Meep - HP:158/1016 Shields:2
+2: Horse Fly - HP:2383/2857 Shields:0
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Meep recibe 198 de daño de tipo Sword
+Meep termina con HP:0
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4141/5781 SP:283/291 BP:4
+B-Tressa - HP:4094/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:2
+B-Red Fox - HP:0/1451 Shields:3
+C-Horse Fly - HP:2383/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Horse Fly
+2.Tressa
+3.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Olberic
+3.Horse Fly
+----------------------------------------
+Horse Fly usa Attack
+Olberic recibe 162 de daño físico
+Olberic termina con HP:3979
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3979/5781 SP:283/291 BP:4
+B-Tressa - HP:4094/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:2
+B-Red Fox - HP:0/1451 Shields:3
+C-Horse Fly - HP:2383/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Olberic
+3.Horse Fly
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Horse Fly - HP:2383/2857 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Horse Fly recibe 142 de daño de tipo Spear con debilidad
+Horse Fly termina con HP:2241
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3979/5781 SP:283/291 BP:4
+B-Tressa - HP:4094/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:2
+B-Red Fox - HP:0/1451 Shields:3
+C-Horse Fly - HP:2241/2857 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Olberic
+3.Horse Fly
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Horse Fly - HP:2241/2857 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Horse Fly recibe 240 de daño de tipo Sword
+Horse Fly termina con HP:2001
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3979/5781 SP:283/291 BP:5
+B-Tressa - HP:4094/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:2
+B-Red Fox - HP:0/1451 Shields:3
+C-Horse Fly - HP:2001/2857 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Olberic
+3.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Olberic
+3.Horse Fly
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Horse Fly - HP:2001/2857 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Horse Fly recibe 142 de daño de tipo Spear con debilidad
+Horse Fly entra en Breaking Point
+Horse Fly termina con HP:1859
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3979/5781 SP:283/291 BP:5
+B-Tressa - HP:4094/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:2
+B-Red Fox - HP:0/1451 Shields:3
+C-Horse Fly - HP:1859/2857 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Horse Fly - HP:1859/2857 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Horse Fly recibe 240 de daño de tipo Sword
+Horse Fly termina con HP:1619
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3979/5781 SP:283/291 BP:5
+B-Tressa - HP:4094/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:2
+B-Red Fox - HP:0/1451 Shields:3
+C-Horse Fly - HP:1619/2857 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Horse Fly
+2.Tressa
+3.Olberic
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo

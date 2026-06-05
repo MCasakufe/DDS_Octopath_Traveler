@@ -1,0 +1,449 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+INPUT: 10
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Mossy Meep - HP:1060/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Olberic
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Olberic
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Fox Spirit
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Fox Spirit
+Meep recibe 67 de daño de tipo Stave con debilidad
+Mossy Meep recibe 25 de daño de tipo Stave con debilidad
+Meep termina con HP:949
+Mossy Meep termina con HP:1035
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:435/470 BP:1
+B-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Meep - HP:949/1016 Shields:1
+B-Mossy Meep - HP:1035/1060 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Olberic
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Meep - HP:949/1016 Shields:1
+2: Mossy Meep - HP:1035/1060 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Meep recibe 132 de daño de tipo Sword
+Meep termina con HP:817
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:435/470 BP:1
+B-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Meep - HP:817/1016 Shields:1
+B-Mossy Meep - HP:1035/1060 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Olberic
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:5641
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:435/470 BP:1
+B-Olberic - HP:5641/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Meep - HP:817/1016 Shields:1
+B-Mossy Meep - HP:1035/1060 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Olberic
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Mossy Meep usa Attack
+Olberic recibe 157 de daño físico
+Olberic termina con HP:5484
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:2
+B-Olberic - HP:5484/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Meep - HP:817/1016 Shields:1
+B-Mossy Meep - HP:1035/1060 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Olberic
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Olberic
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Meep - HP:817/1016 Shields:1
+2: Mossy Meep - HP:1035/1060 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Mossy Meep recibe 0 de daño de tipo Stave con debilidad
+Mossy Meep termina con HP:1035
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:2
+B-Olberic - HP:5484/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Meep - HP:817/1016 Shields:1
+B-Mossy Meep - HP:1035/1060 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Olberic
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Meep - HP:817/1016 Shields:1
+2: Mossy Meep - HP:1035/1060 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Meep recibe 132 de daño de tipo Sword
+Meep termina con HP:685
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:2
+B-Olberic - HP:5484/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Meep - HP:685/1016 Shields:1
+B-Mossy Meep - HP:1035/1060 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Olberic
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:5344
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:2
+B-Olberic - HP:5344/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Meep - HP:685/1016 Shields:1
+B-Mossy Meep - HP:1035/1060 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Olberic
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Mossy Meep usa Attack
+Olberic recibe 157 de daño físico
+Olberic termina con HP:5187
+----------------------------------------
+Ophilia obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:2
+B-Olberic - HP:5187/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Meep - HP:685/1016 Shields:1
+B-Mossy Meep - HP:1035/1060 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Olberic
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Fox Spirit
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Fox Spirit
+Meep recibe 67 de daño de tipo Stave con debilidad
+Meep entra en Breaking Point
+Mossy Meep recibe 25 de daño de tipo Stave con debilidad
+Meep termina con HP:618
+Mossy Meep termina con HP:1010
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:446/470 BP:3
+B-Olberic - HP:5187/5781 SP:291/291 BP:3
+Equipo del enemigo
+A-Meep - HP:618/1016 Shields:0
+B-Mossy Meep - HP:1010/1060 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Olberic
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Meep
+2.Ophilia
+3.Olberic
+4.Mossy Meep
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Fox Spirit
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Fox Spirit
+Meep recibe 89 de daño de tipo Stave con debilidad
+Mossy Meep recibe 25 de daño de tipo Stave con debilidad
+Mossy Meep entra en Breaking Point
+Meep termina con HP:529
+Mossy Meep termina con HP:985
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:411/470 BP:3
+B-Olberic - HP:5187/5781 SP:291/291 BP:3
+Equipo del enemigo
+A-Meep - HP:529/1016 Shields:0
+B-Mossy Meep - HP:985/1060 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Meep
+2.Ophilia
+3.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Meep - HP:529/1016 Shields:0
+2: Mossy Meep - HP:985/1060 Shields:0
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Meep recibe 198 de daño de tipo Sword
+Meep termina con HP:331
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:434/470 BP:4
+B-Olberic - HP:5187/5781 SP:291/291 BP:4
+Equipo del enemigo
+A-Meep - HP:331/1016 Shields:2
+B-Mossy Meep - HP:985/1060 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Ophilia
+3.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mossy Meep
+2.Ophilia
+3.Olberic
+4.Meep
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:5047
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:434/470 BP:4
+B-Olberic - HP:5047/5781 SP:291/291 BP:4
+Equipo del enemigo
+A-Meep - HP:331/1016 Shields:2
+B-Mossy Meep - HP:985/1060 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mossy Meep
+2.Ophilia
+3.Olberic
+4.Meep
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo

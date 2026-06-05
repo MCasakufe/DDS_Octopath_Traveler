@@ -1,0 +1,1973 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+INPUT: 11
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:6281/6281 SP:367/367 BP:1
+B-Tressa - HP:4891/4891 SP:407/407 BP:1
+C-Osvald - HP:3557/3557 SP:541/541 BP:1
+D-H'aanit - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Fire Wisp - HP:972/972 Shields:1
+B-Hoary Bear - HP:2688/2688 Shields:3
+C-Monarch - HP:6740/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+6.Hoary Bear
+7.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+6.Hoary Bear
+7.Fire Wisp
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Luminescence
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit usa Luminescence
+Fire Wisp recibe 336 de daño de tipo Light
+Hoary Bear recibe 187 de daño de tipo Light
+Monarch recibe 89 de daño de tipo Light
+Fire Wisp termina con HP:636
+Hoary Bear termina con HP:2501
+Monarch termina con HP:6651
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:6281/6281 SP:367/367 BP:1
+B-Tressa - HP:4891/4891 SP:407/407 BP:1
+C-Osvald - HP:3557/3557 SP:541/541 BP:1
+D-H'aanit - HP:4447/4447 SP:360/369 BP:1
+Equipo del enemigo
+A-Fire Wisp - HP:636/972 Shields:1
+B-Hoary Bear - HP:2501/2688 Shields:3
+C-Monarch - HP:6651/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Tressa
+3.Osvald
+4.Monarch
+5.Hoary Bear
+6.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+6.Hoary Bear
+7.Fire Wisp
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Revive
+2: Vivify
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Hikari no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Hikari usa Revive
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:6281/6281 SP:317/367 BP:0
+B-Tressa - HP:4891/4891 SP:407/407 BP:1
+C-Osvald - HP:3557/3557 SP:541/541 BP:1
+D-H'aanit - HP:4447/4447 SP:360/369 BP:1
+Equipo del enemigo
+A-Fire Wisp - HP:636/972 Shields:1
+B-Hoary Bear - HP:2501/2688 Shields:3
+C-Monarch - HP:6651/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Osvald
+3.Monarch
+4.Hoary Bear
+5.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+6.Hoary Bear
+7.Fire Wisp
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: First Aid
+2: Vivify
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Hikari - HP:6281/6281 SP:317/367 BP:0
+2: Tressa - HP:4891/4891 SP:407/407 BP:1
+3: Osvald - HP:3557/3557 SP:541/541 BP:1
+4: H'aanit - HP:4447/4447 SP:360/369 BP:1
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa usa First Aid
+H'aanit recupera 598 de vida
+H'aanit termina con HP:4447
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:6281/6281 SP:317/367 BP:0
+B-Tressa - HP:4891/4891 SP:403/407 BP:0
+C-Osvald - HP:3557/3557 SP:541/541 BP:1
+D-H'aanit - HP:4447/4447 SP:360/369 BP:1
+Equipo del enemigo
+A-Fire Wisp - HP:636/972 Shields:1
+B-Hoary Bear - HP:2501/2688 Shields:3
+C-Monarch - HP:6651/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Monarch
+3.Hoary Bear
+4.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+6.Hoary Bear
+7.Fire Wisp
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Fire Wisp - HP:636/972 Shields:1
+2: Hoary Bear - HP:2501/2688 Shields:3
+3: Monarch - HP:6651/6740 Shields:8
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Hoary Bear recibe 76 de daño de tipo Stave
+Hoary Bear termina con HP:2425
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:6281/6281 SP:317/367 BP:0
+B-Tressa - HP:4891/4891 SP:403/407 BP:0
+C-Osvald - HP:3557/3557 SP:541/541 BP:1
+D-H'aanit - HP:4447/4447 SP:360/369 BP:1
+Equipo del enemigo
+A-Fire Wisp - HP:636/972 Shields:1
+B-Hoary Bear - HP:2425/2688 Shields:3
+C-Monarch - HP:6651/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Hoary Bear
+3.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+6.Hoary Bear
+7.Fire Wisp
+----------------------------------------
+Monarch usa Galestorm
+Hikari recibe 375 de daño elemental
+Tressa recibe 361 de daño elemental
+Osvald recibe 316 de daño elemental
+H'aanit recibe 391 de daño elemental
+Hikari termina con HP:5906
+Tressa termina con HP:4530
+Osvald termina con HP:3241
+H'aanit termina con HP:4056
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5906/6281 SP:317/367 BP:0
+B-Tressa - HP:4530/4891 SP:403/407 BP:0
+C-Osvald - HP:3241/3557 SP:541/541 BP:1
+D-H'aanit - HP:4056/4447 SP:360/369 BP:1
+Equipo del enemigo
+A-Fire Wisp - HP:636/972 Shields:1
+B-Hoary Bear - HP:2425/2688 Shields:3
+C-Monarch - HP:6651/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Hoary Bear
+2.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+6.Hoary Bear
+7.Fire Wisp
+----------------------------------------
+Hoary Bear usa Rampage
+Hikari recibe 163 de daño físico
+Tressa recibe 208 de daño físico
+Osvald recibe 220 de daño físico
+H'aanit recibe 310 de daño físico
+Hikari termina con HP:5743
+Tressa termina con HP:4322
+Osvald termina con HP:3021
+H'aanit termina con HP:3746
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5743/6281 SP:317/367 BP:0
+B-Tressa - HP:4322/4891 SP:403/407 BP:0
+C-Osvald - HP:3021/3557 SP:541/541 BP:1
+D-H'aanit - HP:3746/4447 SP:360/369 BP:1
+Equipo del enemigo
+A-Fire Wisp - HP:636/972 Shields:1
+B-Hoary Bear - HP:2425/2688 Shields:3
+C-Monarch - HP:6651/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+6.Hoary Bear
+7.Fire Wisp
+----------------------------------------
+Fire Wisp usa Meteor Storm
+H'aanit recibe 138 de daño elemental
+H'aanit termina con HP:3608
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5743/6281 SP:317/367 BP:0
+B-Tressa - HP:4322/4891 SP:403/407 BP:0
+C-Osvald - HP:3021/3557 SP:541/541 BP:2
+D-H'aanit - HP:3608/4447 SP:360/369 BP:2
+Equipo del enemigo
+A-Fire Wisp - HP:636/972 Shields:1
+B-Hoary Bear - HP:2425/2688 Shields:3
+C-Monarch - HP:6651/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+6.Hoary Bear
+7.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+6.Hoary Bear
+7.Fire Wisp
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Fire Wisp - HP:636/972 Shields:1
+2: Hoary Bear - HP:2425/2688 Shields:3
+3: Monarch - HP:6651/6740 Shields:8
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Fire Wisp recibe 191 de daño de tipo Bow
+Fire Wisp termina con HP:445
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5743/6281 SP:317/367 BP:0
+B-Tressa - HP:4322/4891 SP:403/407 BP:0
+C-Osvald - HP:3021/3557 SP:541/541 BP:2
+D-H'aanit - HP:3608/4447 SP:360/369 BP:2
+Equipo del enemigo
+A-Fire Wisp - HP:445/972 Shields:1
+B-Hoary Bear - HP:2425/2688 Shields:3
+C-Monarch - HP:6651/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Tressa
+3.Osvald
+4.Monarch
+5.Hoary Bear
+6.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+6.Hoary Bear
+7.Fire Wisp
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Fire Wisp - HP:445/972 Shields:1
+2: Hoary Bear - HP:2425/2688 Shields:3
+3: Monarch - HP:6651/6740 Shields:8
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Hikari ataca
+Fire Wisp recibe 238 de daño de tipo Sword
+Fire Wisp termina con HP:207
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5743/6281 SP:317/367 BP:0
+B-Tressa - HP:4322/4891 SP:403/407 BP:0
+C-Osvald - HP:3021/3557 SP:541/541 BP:2
+D-H'aanit - HP:3608/4447 SP:360/369 BP:2
+Equipo del enemigo
+A-Fire Wisp - HP:207/972 Shields:1
+B-Hoary Bear - HP:2425/2688 Shields:3
+C-Monarch - HP:6651/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Osvald
+3.Monarch
+4.Hoary Bear
+5.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+6.Hoary Bear
+7.Fire Wisp
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Fire Wisp - HP:207/972 Shields:1
+2: Hoary Bear - HP:2425/2688 Shields:3
+3: Monarch - HP:6651/6740 Shields:8
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Fire Wisp recibe 186 de daño de tipo Spear
+Fire Wisp termina con HP:21
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5743/6281 SP:317/367 BP:0
+B-Tressa - HP:4322/4891 SP:403/407 BP:0
+C-Osvald - HP:3021/3557 SP:541/541 BP:2
+D-H'aanit - HP:3608/4447 SP:360/369 BP:2
+Equipo del enemigo
+A-Fire Wisp - HP:21/972 Shields:1
+B-Hoary Bear - HP:2425/2688 Shields:3
+C-Monarch - HP:6651/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Monarch
+3.Hoary Bear
+4.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+6.Hoary Bear
+7.Fire Wisp
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Fire Wisp - HP:21/972 Shields:1
+2: Hoary Bear - HP:2425/2688 Shields:3
+3: Monarch - HP:6651/6740 Shields:8
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Fire Wisp recibe 58 de daño de tipo Stave
+Fire Wisp termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5743/6281 SP:317/367 BP:0
+B-Tressa - HP:4322/4891 SP:403/407 BP:0
+C-Osvald - HP:3021/3557 SP:541/541 BP:2
+D-H'aanit - HP:3608/4447 SP:360/369 BP:2
+Equipo del enemigo
+A-Fire Wisp - HP:0/972 Shields:1
+B-Hoary Bear - HP:2425/2688 Shields:3
+C-Monarch - HP:6651/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+6.Hoary Bear
+----------------------------------------
+Monarch usa Galestorm
+Hikari recibe 375 de daño elemental
+Tressa recibe 361 de daño elemental
+Osvald recibe 316 de daño elemental
+H'aanit recibe 391 de daño elemental
+Hikari termina con HP:5368
+Tressa termina con HP:3961
+Osvald termina con HP:2705
+H'aanit termina con HP:3217
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5368/6281 SP:317/367 BP:0
+B-Tressa - HP:3961/4891 SP:403/407 BP:0
+C-Osvald - HP:2705/3557 SP:541/541 BP:2
+D-H'aanit - HP:3217/4447 SP:360/369 BP:2
+Equipo del enemigo
+A-Fire Wisp - HP:0/972 Shields:1
+B-Hoary Bear - HP:2425/2688 Shields:3
+C-Monarch - HP:6651/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+6.Hoary Bear
+----------------------------------------
+Hoary Bear usa Rampage
+Hikari recibe 163 de daño físico
+Tressa recibe 208 de daño físico
+Osvald recibe 220 de daño físico
+H'aanit recibe 310 de daño físico
+Hikari termina con HP:5205
+Tressa termina con HP:3753
+Osvald termina con HP:2485
+H'aanit termina con HP:2907
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5205/6281 SP:317/367 BP:1
+B-Tressa - HP:3753/4891 SP:403/407 BP:1
+C-Osvald - HP:2485/3557 SP:541/541 BP:3
+D-H'aanit - HP:2907/4447 SP:360/369 BP:3
+Equipo del enemigo
+A-Fire Wisp - HP:0/972 Shields:1
+B-Hoary Bear - HP:2425/2688 Shields:3
+C-Monarch - HP:6651/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+6.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+6.Hoary Bear
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Hoary Bear - HP:2425/2688 Shields:3
+2: Monarch - HP:6651/6740 Shields:8
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Hoary Bear recibe 209 de daño de tipo Bow
+Hoary Bear termina con HP:2216
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5205/6281 SP:317/367 BP:1
+B-Tressa - HP:3753/4891 SP:403/407 BP:1
+C-Osvald - HP:2485/3557 SP:541/541 BP:3
+D-H'aanit - HP:2907/4447 SP:360/369 BP:3
+Equipo del enemigo
+A-Fire Wisp - HP:0/972 Shields:1
+B-Hoary Bear - HP:2216/2688 Shields:3
+C-Monarch - HP:6651/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Tressa
+3.Osvald
+4.Monarch
+5.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+6.Hoary Bear
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Revive
+2: Vivify
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Revive
+2: Vivify
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Hoary Bear - HP:2216/2688 Shields:3
+2: Monarch - HP:6651/6740 Shields:8
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Hoary Bear recibe 256 de daño de tipo Sword
+Hoary Bear termina con HP:1960
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5205/6281 SP:317/367 BP:1
+B-Tressa - HP:3753/4891 SP:403/407 BP:1
+C-Osvald - HP:2485/3557 SP:541/541 BP:3
+D-H'aanit - HP:2907/4447 SP:360/369 BP:3
+Equipo del enemigo
+A-Fire Wisp - HP:0/972 Shields:1
+B-Hoary Bear - HP:1960/2688 Shields:3
+C-Monarch - HP:6651/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Osvald
+3.Monarch
+4.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+6.Hoary Bear
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: First Aid
+2: Vivify
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Hikari - HP:5205/6281 SP:317/367 BP:1
+2: Tressa - HP:3753/4891 SP:403/407 BP:1
+3: Osvald - HP:2485/3557 SP:541/541 BP:3
+4: H'aanit - HP:2907/4447 SP:360/369 BP:3
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa First Aid
+Osvald recupera 427 de vida
+Osvald termina con HP:2912
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5205/6281 SP:317/367 BP:1
+B-Tressa - HP:3753/4891 SP:399/407 BP:1
+C-Osvald - HP:2912/3557 SP:541/541 BP:3
+D-H'aanit - HP:2907/4447 SP:360/369 BP:3
+Equipo del enemigo
+A-Fire Wisp - HP:0/972 Shields:1
+B-Hoary Bear - HP:1960/2688 Shields:3
+C-Monarch - HP:6651/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Monarch
+3.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+6.Hoary Bear
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Trade Tempest
+2: Icewind
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Osvald usa Trade Tempest
+Hoary Bear recibe 3325 de daño de tipo Wind con debilidad
+Monarch recibe 2118 de daño de tipo Wind
+Hoary Bear termina con HP:0
+Monarch termina con HP:4533
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5205/6281 SP:317/367 BP:1
+B-Tressa - HP:3753/4891 SP:399/407 BP:1
+C-Osvald - HP:2912/3557 SP:531/541 BP:0
+D-H'aanit - HP:2907/4447 SP:360/369 BP:3
+Equipo del enemigo
+A-Fire Wisp - HP:0/972 Shields:1
+B-Hoary Bear - HP:0/2688 Shields:2
+C-Monarch - HP:4533/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Hikari recibe 375 de daño elemental
+Tressa recibe 361 de daño elemental
+Osvald recibe 316 de daño elemental
+H'aanit recibe 391 de daño elemental
+Hikari termina con HP:4830
+Tressa termina con HP:3392
+Osvald termina con HP:2596
+H'aanit termina con HP:2516
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4830/6281 SP:317/367 BP:2
+B-Tressa - HP:3392/4891 SP:399/407 BP:2
+C-Osvald - HP:2596/3557 SP:531/541 BP:0
+D-H'aanit - HP:2516/4447 SP:360/369 BP:4
+Equipo del enemigo
+A-Fire Wisp - HP:0/972 Shields:1
+B-Hoary Bear - HP:0/2688 Shields:2
+C-Monarch - HP:4533/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Monarch - HP:4533/6740 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Monarch recibe 243 de daño de tipo Bow con debilidad
+Monarch termina con HP:4290
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4830/6281 SP:317/367 BP:2
+B-Tressa - HP:3392/4891 SP:399/407 BP:2
+C-Osvald - HP:2596/3557 SP:531/541 BP:0
+D-H'aanit - HP:2516/4447 SP:360/369 BP:4
+Equipo del enemigo
+A-Fire Wisp - HP:0/972 Shields:1
+B-Hoary Bear - HP:0/2688 Shields:2
+C-Monarch - HP:4290/6740 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Tressa
+3.Osvald
+4.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Revive
+2: Vivify
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Revive
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4830/6281 SP:267/367 BP:2
+B-Tressa - HP:3392/4891 SP:399/407 BP:2
+C-Osvald - HP:2596/3557 SP:531/541 BP:0
+D-H'aanit - HP:2516/4447 SP:360/369 BP:4
+Equipo del enemigo
+A-Fire Wisp - HP:0/972 Shields:1
+B-Hoary Bear - HP:0/2688 Shields:2
+C-Monarch - HP:4290/6740 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Osvald
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: First Aid
+2: Vivify
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Hikari - HP:4830/6281 SP:267/367 BP:2
+2: Tressa - HP:3392/4891 SP:399/407 BP:2
+3: Osvald - HP:2596/3557 SP:531/541 BP:0
+4: H'aanit - HP:2516/4447 SP:360/369 BP:4
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa usa First Aid
+Tressa recupera 769 de vida
+Tressa termina con HP:4161
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4830/6281 SP:267/367 BP:2
+B-Tressa - HP:4161/4891 SP:395/407 BP:0
+C-Osvald - HP:2596/3557 SP:531/541 BP:0
+D-H'aanit - HP:2516/4447 SP:360/369 BP:4
+Equipo del enemigo
+A-Fire Wisp - HP:0/972 Shields:1
+B-Hoary Bear - HP:0/2688 Shields:2
+C-Monarch - HP:4290/6740 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4830/6281 SP:267/367 BP:2
+B-Tressa - HP:4161/4891 SP:395/407 BP:0
+C-Osvald - HP:2596/3557 SP:531/541 BP:0
+D-H'aanit - HP:2516/4447 SP:360/369 BP:4
+Equipo del enemigo
+A-Fire Wisp - HP:0/972 Shields:1
+B-Hoary Bear - HP:0/2688 Shields:2
+C-Monarch - HP:4290/6740 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.H'aanit
+3.Hikari
+4.Tressa
+5.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Hikari recibe 375 de daño elemental
+Tressa recibe 361 de daño elemental
+Osvald se defiende
+Osvald recibe 158 de daño elemental
+H'aanit recibe 391 de daño elemental
+Hikari termina con HP:4455
+Tressa termina con HP:3800
+Osvald termina con HP:2438
+H'aanit termina con HP:2125
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4455/6281 SP:267/367 BP:3
+B-Tressa - HP:3800/4891 SP:395/407 BP:0
+C-Osvald - HP:2438/3557 SP:531/541 BP:1
+D-H'aanit - HP:2125/4447 SP:360/369 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:0/972 Shields:1
+B-Hoary Bear - HP:0/2688 Shields:2
+C-Monarch - HP:4290/6740 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.H'aanit
+3.Hikari
+4.Tressa
+5.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Trade Tempest
+2: Icewind
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Trade Tempest
+Monarch recibe 280 de daño de tipo Wind
+Monarch termina con HP:4010
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4455/6281 SP:267/367 BP:3
+B-Tressa - HP:3800/4891 SP:395/407 BP:0
+C-Osvald - HP:2438/3557 SP:521/541 BP:1
+D-H'aanit - HP:2125/4447 SP:360/369 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:0/972 Shields:1
+B-Hoary Bear - HP:0/2688 Shields:2
+C-Monarch - HP:4010/6740 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Luminescence
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit usa Luminescence
+Monarch recibe 89 de daño de tipo Light
+Monarch termina con HP:3921
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4455/6281 SP:267/367 BP:3
+B-Tressa - HP:3800/4891 SP:395/407 BP:0
+C-Osvald - HP:2438/3557 SP:521/541 BP:1
+D-H'aanit - HP:2125/4447 SP:351/369 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:0/972 Shields:1
+B-Hoary Bear - HP:0/2688 Shields:2
+C-Monarch - HP:3921/6740 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Tressa
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4455/6281 SP:267/367 BP:3
+B-Tressa - HP:3800/4891 SP:395/407 BP:0
+C-Osvald - HP:2438/3557 SP:521/541 BP:1
+D-H'aanit - HP:2125/4447 SP:351/369 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:0/972 Shields:1
+B-Hoary Bear - HP:0/2688 Shields:2
+C-Monarch - HP:3921/6740 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.H'aanit
+3.Tressa
+4.Osvald
+5.Monarch
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4455/6281 SP:267/367 BP:3
+B-Tressa - HP:3800/4891 SP:395/407 BP:0
+C-Osvald - HP:2438/3557 SP:521/541 BP:1
+D-H'aanit - HP:2125/4447 SP:351/369 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:0/972 Shields:1
+B-Hoary Bear - HP:0/2688 Shields:2
+C-Monarch - HP:3921/6740 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Tressa
+3.H'aanit
+4.Osvald
+5.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Hikari se defiende
+Hikari recibe 187 de daño elemental
+Tressa se defiende
+Tressa recibe 180 de daño elemental
+Osvald recibe 316 de daño elemental
+H'aanit recibe 391 de daño elemental
+Hikari termina con HP:4268
+Tressa termina con HP:3620
+Osvald termina con HP:2122
+H'aanit termina con HP:1734
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4268/6281 SP:267/367 BP:4
+B-Tressa - HP:3620/4891 SP:395/407 BP:1
+C-Osvald - HP:2122/3557 SP:521/541 BP:2
+D-H'aanit - HP:1734/4447 SP:351/369 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:0/972 Shields:1
+B-Hoary Bear - HP:0/2688 Shields:2
+C-Monarch - HP:3921/6740 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Tressa
+3.H'aanit
+4.Osvald
+5.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4268/6281 SP:267/367 BP:4
+B-Tressa - HP:3620/4891 SP:395/407 BP:1
+C-Osvald - HP:2122/3557 SP:521/541 BP:2
+D-H'aanit - HP:1734/4447 SP:351/369 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:0/972 Shields:1
+B-Hoary Bear - HP:0/2688 Shields:2
+C-Monarch - HP:3921/6740 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.H'aanit
+3.Osvald
+4.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.H'aanit
+3.Tressa
+4.Osvald
+5.Monarch
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: First Aid
+2: Vivify
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: First Aid
+2: Vivify
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Hikari - HP:4268/6281 SP:267/367 BP:4
+2: Tressa - HP:3620/4891 SP:395/407 BP:1
+3: Osvald - HP:2122/3557 SP:521/541 BP:2
+4: H'aanit - HP:1734/4447 SP:351/369 BP:5
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa First Aid
+Osvald recupera 427 de vida
+Osvald termina con HP:2549
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4268/6281 SP:267/367 BP:4
+B-Tressa - HP:3620/4891 SP:391/407 BP:1
+C-Osvald - HP:2549/3557 SP:521/541 BP:2
+D-H'aanit - HP:1734/4447 SP:351/369 BP:5
+Equipo del enemigo
+A-Fire Wisp - HP:0/972 Shields:1
+B-Hoary Bear - HP:0/2688 Shields:2
+C-Monarch - HP:3921/6740 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Osvald
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.H'aanit
+3.Tressa
+4.Osvald
+5.Monarch
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Luminescence
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+H'aanit usa Luminescence
+Monarch recibe 1413 de daño de tipo Light
+Monarch termina con HP:2508
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4268/6281 SP:267/367 BP:4
+B-Tressa - HP:3620/4891 SP:391/407 BP:1
+C-Osvald - HP:2549/3557 SP:521/541 BP:2
+D-H'aanit - HP:1734/4447 SP:342/369 BP:2
+Equipo del enemigo
+A-Fire Wisp - HP:0/972 Shields:1
+B-Hoary Bear - HP:0/2688 Shields:2
+C-Monarch - HP:2508/6740 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.H'aanit
+3.Tressa
+4.Osvald
+5.Monarch
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Trade Tempest
+2: Icewind
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Icewind
+Monarch recibe 280 de daño de tipo Ice
+Monarch termina con HP:2228
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4268/6281 SP:267/367 BP:4
+B-Tressa - HP:3620/4891 SP:391/407 BP:1
+C-Osvald - HP:2549/3557 SP:513/541 BP:2
+D-H'aanit - HP:1734/4447 SP:342/369 BP:2
+Equipo del enemigo
+A-Fire Wisp - HP:0/972 Shields:1
+B-Hoary Bear - HP:0/2688 Shields:2
+C-Monarch - HP:2228/6740 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.H'aanit
+3.Tressa
+4.Osvald
+5.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Hikari se defiende
+Hikari recibe 187 de daño elemental
+Tressa recibe 361 de daño elemental
+Osvald recibe 316 de daño elemental
+H'aanit recibe 391 de daño elemental
+Hikari termina con HP:4081
+Tressa termina con HP:3259
+Osvald termina con HP:2233
+H'aanit termina con HP:1343
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4081/6281 SP:267/367 BP:5
+B-Tressa - HP:3259/4891 SP:391/407 BP:2
+C-Osvald - HP:2233/3557 SP:513/541 BP:3
+D-H'aanit - HP:1343/4447 SP:342/369 BP:2
+Equipo del enemigo
+A-Fire Wisp - HP:0/972 Shields:1
+B-Hoary Bear - HP:0/2688 Shields:2
+C-Monarch - HP:2228/6740 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.H'aanit
+3.Tressa
+4.Osvald
+5.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Revive
+2: Vivify
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Hikari usa Revive
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4081/6281 SP:217/367 BP:4
+B-Tressa - HP:3259/4891 SP:391/407 BP:2
+C-Osvald - HP:2233/3557 SP:513/541 BP:3
+D-H'aanit - HP:1343/4447 SP:342/369 BP:2
+Equipo del enemigo
+A-Fire Wisp - HP:0/972 Shields:1
+B-Hoary Bear - HP:0/2688 Shields:2
+C-Monarch - HP:2228/6740 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Tressa
+3.Osvald
+4.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Luminescence
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+H'aanit usa Luminescence
+Monarch recibe 530 de daño de tipo Light
+Monarch termina con HP:1698
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4081/6281 SP:217/367 BP:4
+B-Tressa - HP:3259/4891 SP:391/407 BP:2
+C-Osvald - HP:2233/3557 SP:513/541 BP:3
+D-H'aanit - HP:1343/4447 SP:333/369 BP:1
+Equipo del enemigo
+A-Fire Wisp - HP:0/972 Shields:1
+B-Hoary Bear - HP:0/2688 Shields:2
+C-Monarch - HP:1698/6740 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Osvald
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4081/6281 SP:217/367 BP:4
+B-Tressa - HP:3259/4891 SP:391/407 BP:2
+C-Osvald - HP:2233/3557 SP:513/541 BP:3
+D-H'aanit - HP:1343/4447 SP:333/369 BP:1
+Equipo del enemigo
+A-Fire Wisp - HP:0/972 Shields:1
+B-Hoary Bear - HP:0/2688 Shields:2
+C-Monarch - HP:1698/6740 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.H'aanit
+3.Hikari
+4.Osvald
+5.Monarch
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4081/6281 SP:217/367 BP:4
+B-Tressa - HP:3259/4891 SP:391/407 BP:2
+C-Osvald - HP:2233/3557 SP:513/541 BP:3
+D-H'aanit - HP:1343/4447 SP:333/369 BP:1
+Equipo del enemigo
+A-Fire Wisp - HP:0/972 Shields:1
+B-Hoary Bear - HP:0/2688 Shields:2
+C-Monarch - HP:1698/6740 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Osvald
+3.H'aanit
+4.Hikari
+5.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Hikari recibe 375 de daño elemental
+Tressa se defiende
+Tressa recibe 180 de daño elemental
+Osvald se defiende
+Osvald recibe 158 de daño elemental
+H'aanit recibe 391 de daño elemental
+Hikari termina con HP:3706
+Tressa termina con HP:3079
+Osvald termina con HP:2075
+H'aanit termina con HP:952
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3706/6281 SP:217/367 BP:4
+B-Tressa - HP:3079/4891 SP:391/407 BP:3
+C-Osvald - HP:2075/3557 SP:513/541 BP:4
+D-H'aanit - HP:952/4447 SP:333/369 BP:1
+Equipo del enemigo
+A-Fire Wisp - HP:0/972 Shields:1
+B-Hoary Bear - HP:0/2688 Shields:2
+C-Monarch - HP:1698/6740 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Osvald
+3.H'aanit
+4.Hikari
+5.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: First Aid
+2: Vivify
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Hikari - HP:3706/6281 SP:217/367 BP:4
+2: Tressa - HP:3079/4891 SP:391/407 BP:3
+3: Osvald - HP:2075/3557 SP:513/541 BP:4
+4: H'aanit - HP:952/4447 SP:333/369 BP:1
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa usa First Aid
+Hikari recupera 769 de vida
+Hikari termina con HP:4475
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4475/6281 SP:217/367 BP:4
+B-Tressa - HP:3079/4891 SP:387/407 BP:1
+C-Osvald - HP:2075/3557 SP:513/541 BP:4
+D-H'aanit - HP:952/4447 SP:333/369 BP:1
+Equipo del enemigo
+A-Fire Wisp - HP:0/972 Shields:1
+B-Hoary Bear - HP:0/2688 Shields:2
+C-Monarch - HP:1698/6740 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.H'aanit
+3.Hikari
+4.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Trade Tempest
+2: Icewind
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Trade Tempest
+Monarch recibe 280 de daño de tipo Wind
+Monarch termina con HP:1418
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4475/6281 SP:217/367 BP:4
+B-Tressa - HP:3079/4891 SP:387/407 BP:1
+C-Osvald - HP:2075/3557 SP:503/541 BP:4
+D-H'aanit - HP:952/4447 SP:333/369 BP:1
+Equipo del enemigo
+A-Fire Wisp - HP:0/972 Shields:1
+B-Hoary Bear - HP:0/2688 Shields:2
+C-Monarch - HP:1418/6740 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Hikari
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Monarch - HP:1418/6740 Shields:7
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Monarch recibe 243 de daño de tipo Bow con debilidad
+Monarch termina con HP:1175
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4475/6281 SP:217/367 BP:4
+B-Tressa - HP:3079/4891 SP:387/407 BP:1
+C-Osvald - HP:2075/3557 SP:503/541 BP:4
+D-H'aanit - HP:952/4447 SP:333/369 BP:1
+Equipo del enemigo
+A-Fire Wisp - HP:0/972 Shields:1
+B-Hoary Bear - HP:0/2688 Shields:2
+C-Monarch - HP:1175/6740 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Revive
+2: Vivify
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Revive
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4475/6281 SP:167/367 BP:4
+B-Tressa - HP:3079/4891 SP:387/407 BP:1
+C-Osvald - HP:2075/3557 SP:503/541 BP:4
+D-H'aanit - HP:952/4447 SP:333/369 BP:1
+Equipo del enemigo
+A-Fire Wisp - HP:0/972 Shields:1
+B-Hoary Bear - HP:0/2688 Shields:2
+C-Monarch - HP:1175/6740 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Hikari recibe 375 de daño elemental
+Tressa recibe 361 de daño elemental
+Osvald recibe 316 de daño elemental
+H'aanit recibe 391 de daño elemental
+Hikari termina con HP:4100
+Tressa termina con HP:2718
+Osvald termina con HP:1759
+H'aanit termina con HP:561
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4100/6281 SP:167/367 BP:5
+B-Tressa - HP:2718/4891 SP:387/407 BP:1
+C-Osvald - HP:1759/3557 SP:503/541 BP:5
+D-H'aanit - HP:561/4447 SP:333/369 BP:2
+Equipo del enemigo
+A-Fire Wisp - HP:0/972 Shields:1
+B-Hoary Bear - HP:0/2688 Shields:2
+C-Monarch - HP:1175/6740 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Luminescence
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+H'aanit usa Luminescence
+Monarch recibe 972 de daño de tipo Light
+Monarch termina con HP:203
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4100/6281 SP:167/367 BP:5
+B-Tressa - HP:2718/4891 SP:387/407 BP:1
+C-Osvald - HP:1759/3557 SP:503/541 BP:5
+D-H'aanit - HP:561/4447 SP:324/369 BP:0
+Equipo del enemigo
+A-Fire Wisp - HP:0/972 Shields:1
+B-Hoary Bear - HP:0/2688 Shields:2
+C-Monarch - HP:203/6740 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Tressa
+3.Osvald
+4.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Osvald
+5.Monarch
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Revive
+2: Vivify
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Monarch - HP:203/6740 Shields:6
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Monarch recibe 209 de daño de tipo Sword
+Monarch termina con HP:0
+----------------------------------------
+Gana equipo del jugador

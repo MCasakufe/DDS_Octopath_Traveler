@@ -1,0 +1,1829 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+INPUT: 29
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:1
+B-Temenos - HP:4502/4502 SP:432/432 BP:1
+C-Alfyn - HP:5836/5836 SP:383/383 BP:1
+D-Ochette - HP:4447/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Blood Revenant - HP:16352/16352 Shields:7
+C-Ice Elemental - HP:2160/2160 Shields:4
+D-Lightning Elemental - HP:2133/2133 Shields:4
+E-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Dreadwolf
+3.Castti
+4.Temenos
+5.Alfyn
+6.Blood Revenant
+7.Ice Elemental
+8.Dark Elemental
+9.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Dreadwolf
+3.Castti
+4.Temenos
+5.Alfyn
+6.Blood Revenant
+7.Ice Elemental
+8.Dark Elemental
+9.Lightning Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Castti - HP:5336/5336 SP:426/426 BP:1
+2: Temenos - HP:4502/4502 SP:432/432 BP:1
+3: Alfyn - HP:5836/5836 SP:383/383 BP:1
+4: Ochette - HP:4447/4447 SP:369/369 BP:2
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Ochette no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Ochette no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette usa Mole Dance
+Castti tendrá Increased Physical Defense durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:1
+B-Temenos - HP:4502/4502 SP:432/432 BP:1
+C-Alfyn - HP:5836/5836 SP:383/383 BP:1
+D-Ochette - HP:4447/4447 SP:365/369 BP:2
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Blood Revenant - HP:16352/16352 Shields:7
+C-Ice Elemental - HP:2160/2160 Shields:4
+D-Lightning Elemental - HP:2133/2133 Shields:4
+E-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Castti
+3.Temenos
+4.Alfyn
+5.Blood Revenant
+6.Ice Elemental
+7.Dark Elemental
+8.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Dreadwolf
+3.Castti
+4.Temenos
+5.Alfyn
+6.Blood Revenant
+7.Ice Elemental
+8.Dark Elemental
+9.Lightning Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Ochette recibe 831 de daño físico
+Ochette termina con HP:3616
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:1
+B-Temenos - HP:4502/4502 SP:432/432 BP:1
+C-Alfyn - HP:5836/5836 SP:383/383 BP:1
+D-Ochette - HP:3616/4447 SP:365/369 BP:2
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Blood Revenant - HP:16352/16352 Shields:7
+C-Ice Elemental - HP:2160/2160 Shields:4
+D-Lightning Elemental - HP:2133/2133 Shields:4
+E-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Temenos
+3.Alfyn
+4.Blood Revenant
+5.Ice Elemental
+6.Dark Elemental
+7.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Dreadwolf
+3.Castti
+4.Temenos
+5.Alfyn
+6.Blood Revenant
+7.Ice Elemental
+8.Dark Elemental
+9.Lightning Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Dark Elemental - HP:1822/1822 Shields:4
+2: Blood Revenant - HP:16352/16352 Shields:7
+3: Ice Elemental - HP:2160/2160 Shields:4
+4: Lightning Elemental - HP:2133/2133 Shields:4
+5: Dreadwolf - HP:7530/7530 Shields:9
+6: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Blood Revenant recibe 0 de daño de tipo Axe
+Blood Revenant termina con HP:16352
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:1
+B-Temenos - HP:4502/4502 SP:432/432 BP:1
+C-Alfyn - HP:5836/5836 SP:383/383 BP:1
+D-Ochette - HP:3616/4447 SP:365/369 BP:2
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Blood Revenant - HP:16352/16352 Shields:7
+C-Ice Elemental - HP:2160/2160 Shields:4
+D-Lightning Elemental - HP:2133/2133 Shields:4
+E-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Alfyn
+3.Blood Revenant
+4.Ice Elemental
+5.Dark Elemental
+6.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Dreadwolf
+3.Castti
+4.Temenos
+5.Alfyn
+6.Blood Revenant
+7.Ice Elemental
+8.Dark Elemental
+9.Lightning Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Tenebrae Operire
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Temenos usa Tenebrae Operire
+Dark Elemental recibe 920 de daño de tipo Dark
+Dark Elemental recibe 920 de daño de tipo Dark
+Dark Elemental recibe 920 de daño de tipo Dark
+Blood Revenant recibe 658 de daño de tipo Dark
+Blood Revenant recibe 658 de daño de tipo Dark
+Blood Revenant recibe 658 de daño de tipo Dark
+Ice Elemental recibe 933 de daño de tipo Dark
+Ice Elemental recibe 933 de daño de tipo Dark
+Ice Elemental recibe 933 de daño de tipo Dark
+Lightning Elemental recibe 800 de daño de tipo Dark
+Lightning Elemental recibe 800 de daño de tipo Dark
+Lightning Elemental recibe 800 de daño de tipo Dark
+Dreadwolf recibe 641 de daño de tipo Dark
+Dreadwolf recibe 641 de daño de tipo Dark
+Dreadwolf recibe 641 de daño de tipo Dark
+Dark Elemental termina con HP:0
+Blood Revenant termina con HP:14378
+Ice Elemental termina con HP:0
+Lightning Elemental termina con HP:0
+Dreadwolf termina con HP:5607
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:1
+B-Temenos - HP:4502/4502 SP:396/432 BP:0
+C-Alfyn - HP:5836/5836 SP:383/383 BP:1
+D-Ochette - HP:3616/4447 SP:365/369 BP:2
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:4
+B-Blood Revenant - HP:14378/16352 Shields:7
+C-Ice Elemental - HP:0/2160 Shields:4
+D-Lightning Elemental - HP:0/2133 Shields:4
+E-Dreadwolf - HP:5607/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Dreadwolf
+3.Castti
+4.Temenos
+5.Alfyn
+6.Blood Revenant
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Elemental Break
+2: Lion Dance
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Blood Revenant - HP:14378/16352 Shields:7
+2: Dreadwolf - HP:5607/7530 Shields:9
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Elemental Break
+Blood Revenant recibe 342 de daño de tipo Stave con debilidad
+Blood Revenant tendrá Decreased Elemental Defense durante 2 rondas
+Blood Revenant termina con HP:14036
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:1
+B-Temenos - HP:4502/4502 SP:396/432 BP:0
+C-Alfyn - HP:5836/5836 SP:363/383 BP:1
+D-Ochette - HP:3616/4447 SP:365/369 BP:2
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:4
+B-Blood Revenant - HP:14036/16352 Shields:6
+C-Ice Elemental - HP:0/2160 Shields:4
+D-Lightning Elemental - HP:0/2133 Shields:4
+E-Dreadwolf - HP:5607/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Dreadwolf
+3.Castti
+4.Temenos
+5.Alfyn
+6.Blood Revenant
+----------------------------------------
+Blood Revenant usa Volcano
+Castti recibe 536 de daño elemental
+Castti tendrá Decreased Elemental Defense durante 2 rondas
+Temenos recibe 465 de daño elemental
+Temenos tendrá Decreased Elemental Defense durante 2 rondas
+Alfyn recibe 626 de daño elemental
+Alfyn tendrá Decreased Elemental Defense durante 2 rondas
+Ochette recibe 629 de daño elemental
+Ochette tendrá Decreased Elemental Defense durante 2 rondas
+Castti termina con HP:4800
+Temenos termina con HP:4037
+Alfyn termina con HP:5210
+Ochette termina con HP:2987
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4800/5336 SP:426/426 BP:2
+B-Temenos - HP:4037/4502 SP:396/432 BP:0
+C-Alfyn - HP:5210/5836 SP:363/383 BP:2
+D-Ochette - HP:2987/4447 SP:365/369 BP:3
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:4
+B-Blood Revenant - HP:14036/16352 Shields:6
+C-Ice Elemental - HP:0/2160 Shields:4
+D-Lightning Elemental - HP:0/2133 Shields:4
+E-Dreadwolf - HP:5607/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Dreadwolf
+3.Castti
+4.Temenos
+5.Alfyn
+6.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Dreadwolf
+3.Castti
+4.Temenos
+5.Alfyn
+6.Blood Revenant
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Blood Revenant - HP:14036/16352 Shields:6
+2: Dreadwolf - HP:5607/7530 Shields:9
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Ochette ataca
+Blood Revenant recibe 32 de daño de tipo Bow con debilidad
+Blood Revenant recibe 32 de daño de tipo Bow con debilidad
+Blood Revenant recibe 32 de daño de tipo Bow con debilidad
+Blood Revenant recibe 32 de daño de tipo Bow con debilidad
+Ochette recupera 1 SP
+Blood Revenant termina con HP:13908
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4800/5336 SP:426/426 BP:2
+B-Temenos - HP:4037/4502 SP:396/432 BP:0
+C-Alfyn - HP:5210/5836 SP:363/383 BP:2
+D-Ochette - HP:2987/4447 SP:366/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:4
+B-Blood Revenant - HP:13908/16352 Shields:2
+C-Ice Elemental - HP:0/2160 Shields:4
+D-Lightning Elemental - HP:0/2133 Shields:4
+E-Dreadwolf - HP:5607/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Castti
+3.Temenos
+4.Alfyn
+5.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Dreadwolf
+3.Castti
+4.Temenos
+5.Alfyn
+6.Blood Revenant
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Ochette recibe 831 de daño físico
+Ochette termina con HP:2156
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4800/5336 SP:426/426 BP:2
+B-Temenos - HP:4037/4502 SP:396/432 BP:0
+C-Alfyn - HP:5210/5836 SP:363/383 BP:2
+D-Ochette - HP:2156/4447 SP:366/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:4
+B-Blood Revenant - HP:13908/16352 Shields:2
+C-Ice Elemental - HP:0/2160 Shields:4
+D-Lightning Elemental - HP:0/2133 Shields:4
+E-Dreadwolf - HP:5607/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Temenos
+3.Alfyn
+4.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Dreadwolf
+3.Castti
+4.Temenos
+5.Alfyn
+6.Blood Revenant
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4800/5336 SP:426/426 BP:2
+B-Temenos - HP:4037/4502 SP:396/432 BP:0
+C-Alfyn - HP:5210/5836 SP:363/383 BP:2
+D-Ochette - HP:2156/4447 SP:366/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:4
+B-Blood Revenant - HP:13908/16352 Shields:2
+C-Ice Elemental - HP:0/2160 Shields:4
+D-Lightning Elemental - HP:0/2133 Shields:4
+E-Dreadwolf - HP:5607/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Alfyn
+3.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Ochette
+3.Dreadwolf
+4.Temenos
+5.Alfyn
+6.Blood Revenant
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4800/5336 SP:426/426 BP:2
+B-Temenos - HP:4037/4502 SP:396/432 BP:0
+C-Alfyn - HP:5210/5836 SP:363/383 BP:2
+D-Ochette - HP:2156/4447 SP:366/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:4
+B-Blood Revenant - HP:13908/16352 Shields:2
+C-Ice Elemental - HP:0/2160 Shields:4
+D-Lightning Elemental - HP:0/2133 Shields:4
+E-Dreadwolf - HP:5607/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Temenos
+3.Ochette
+4.Dreadwolf
+5.Alfyn
+6.Blood Revenant
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4800/5336 SP:426/426 BP:2
+B-Temenos - HP:4037/4502 SP:396/432 BP:0
+C-Alfyn - HP:5210/5836 SP:363/383 BP:2
+D-Ochette - HP:2156/4447 SP:366/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:4
+B-Blood Revenant - HP:13908/16352 Shields:2
+C-Ice Elemental - HP:0/2160 Shields:4
+D-Lightning Elemental - HP:0/2133 Shields:4
+E-Dreadwolf - HP:5607/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Temenos
+3.Alfyn
+4.Ochette
+5.Dreadwolf
+6.Blood Revenant
+----------------------------------------
+Blood Revenant usa Volcano
+Castti se defiende
+Castti recibe 402 de daño elemental
+Castti tendrá Decreased Elemental Defense durante 2 rondas
+Temenos se defiende
+Temenos recibe 348 de daño elemental
+Temenos tendrá Decreased Elemental Defense durante 2 rondas
+Alfyn se defiende
+Alfyn recibe 469 de daño elemental
+Alfyn tendrá Decreased Elemental Defense durante 2 rondas
+Ochette recibe 943 de daño elemental
+Ochette tendrá Decreased Elemental Defense durante 2 rondas
+Castti termina con HP:4398
+Temenos termina con HP:3689
+Alfyn termina con HP:4741
+Ochette termina con HP:1213
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4398/5336 SP:426/426 BP:3
+B-Temenos - HP:3689/4502 SP:396/432 BP:1
+C-Alfyn - HP:4741/5836 SP:363/383 BP:3
+D-Ochette - HP:1213/4447 SP:366/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:4
+B-Blood Revenant - HP:13908/16352 Shields:2
+C-Ice Elemental - HP:0/2160 Shields:4
+D-Lightning Elemental - HP:0/2133 Shields:4
+E-Dreadwolf - HP:5607/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Temenos
+3.Alfyn
+4.Ochette
+5.Dreadwolf
+6.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Dreadwolf
+3.Castti
+4.Temenos
+5.Alfyn
+6.Blood Revenant
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Blood Revenant - HP:13908/16352 Shields:2
+2: Dreadwolf - HP:5607/7530 Shields:9
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti ataca
+Blood Revenant recibe 0 de daño de tipo Axe
+Blood Revenant recibe 0 de daño de tipo Axe
+Blood Revenant recibe 0 de daño de tipo Axe
+Blood Revenant termina con HP:13908
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4398/5336 SP:426/426 BP:1
+B-Temenos - HP:3689/4502 SP:396/432 BP:1
+C-Alfyn - HP:4741/5836 SP:363/383 BP:3
+D-Ochette - HP:1213/4447 SP:366/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:4
+B-Blood Revenant - HP:13908/16352 Shields:2
+C-Ice Elemental - HP:0/2160 Shields:4
+D-Lightning Elemental - HP:0/2133 Shields:4
+E-Dreadwolf - HP:5607/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Alfyn
+3.Ochette
+4.Dreadwolf
+5.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Dreadwolf
+3.Castti
+4.Temenos
+5.Alfyn
+6.Blood Revenant
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Tenebrae Operire
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Temenos usa Tenebrae Operire
+Blood Revenant recibe 658 de daño de tipo Dark
+Blood Revenant recibe 658 de daño de tipo Dark
+Blood Revenant recibe 658 de daño de tipo Dark
+Dreadwolf recibe 641 de daño de tipo Dark
+Dreadwolf recibe 641 de daño de tipo Dark
+Dreadwolf recibe 641 de daño de tipo Dark
+Blood Revenant termina con HP:11934
+Dreadwolf termina con HP:3684
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4398/5336 SP:426/426 BP:1
+B-Temenos - HP:3689/4502 SP:360/432 BP:0
+C-Alfyn - HP:4741/5836 SP:363/383 BP:3
+D-Ochette - HP:1213/4447 SP:366/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:4
+B-Blood Revenant - HP:11934/16352 Shields:2
+C-Ice Elemental - HP:0/2160 Shields:4
+D-Lightning Elemental - HP:0/2133 Shields:4
+E-Dreadwolf - HP:3684/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Ochette
+3.Dreadwolf
+4.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Dreadwolf
+3.Castti
+4.Temenos
+5.Alfyn
+6.Blood Revenant
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Elemental Break
+2: Lion Dance
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Castti - HP:4398/5336 SP:426/426 BP:1
+2: Temenos - HP:3689/4502 SP:360/432 BP:0
+3: Alfyn - HP:4741/5836 SP:363/383 BP:3
+4: Ochette - HP:1213/4447 SP:366/369 BP:0
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Alfyn usa Lion Dance
+Temenos tendrá Increased Physical Attack durante 4 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4398/5336 SP:426/426 BP:1
+B-Temenos - HP:3689/4502 SP:360/432 BP:0
+C-Alfyn - HP:4741/5836 SP:359/383 BP:2
+D-Ochette - HP:1213/4447 SP:366/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:4
+B-Blood Revenant - HP:11934/16352 Shields:2
+C-Ice Elemental - HP:0/2160 Shields:4
+D-Lightning Elemental - HP:0/2133 Shields:4
+E-Dreadwolf - HP:3684/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Dreadwolf
+3.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Dreadwolf
+3.Castti
+4.Temenos
+5.Alfyn
+6.Blood Revenant
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Castti - HP:4398/5336 SP:426/426 BP:1
+2: Temenos - HP:3689/4502 SP:360/432 BP:0
+3: Alfyn - HP:4741/5836 SP:359/383 BP:2
+4: Ochette - HP:1213/4447 SP:366/369 BP:0
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Ochette usa Mole Dance
+Ochette tendrá Increased Physical Defense durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4398/5336 SP:426/426 BP:1
+B-Temenos - HP:3689/4502 SP:360/432 BP:0
+C-Alfyn - HP:4741/5836 SP:359/383 BP:2
+D-Ochette - HP:1213/4447 SP:362/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:4
+B-Blood Revenant - HP:11934/16352 Shields:2
+C-Ice Elemental - HP:0/2160 Shields:4
+D-Lightning Elemental - HP:0/2133 Shields:4
+E-Dreadwolf - HP:3684/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Dreadwolf
+3.Castti
+4.Temenos
+5.Alfyn
+6.Blood Revenant
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Ochette recibe 554 de daño físico
+Ochette termina con HP:659
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4398/5336 SP:426/426 BP:1
+B-Temenos - HP:3689/4502 SP:360/432 BP:0
+C-Alfyn - HP:4741/5836 SP:359/383 BP:2
+D-Ochette - HP:659/4447 SP:362/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:4
+B-Blood Revenant - HP:11934/16352 Shields:2
+C-Ice Elemental - HP:0/2160 Shields:4
+D-Lightning Elemental - HP:0/2133 Shields:4
+E-Dreadwolf - HP:3684/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Dreadwolf
+3.Castti
+4.Temenos
+5.Alfyn
+6.Blood Revenant
+----------------------------------------
+Blood Revenant usa Volcano
+Castti recibe 804 de daño elemental
+Castti tendrá Decreased Elemental Defense durante 2 rondas
+Temenos recibe 697 de daño elemental
+Temenos tendrá Decreased Elemental Defense durante 2 rondas
+Alfyn recibe 939 de daño elemental
+Alfyn tendrá Decreased Elemental Defense durante 2 rondas
+Ochette recibe 943 de daño elemental
+Ochette tendrá Decreased Elemental Defense durante 2 rondas
+Castti termina con HP:3594
+Temenos termina con HP:2992
+Alfyn termina con HP:3802
+Ochette termina con HP:0
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3594/5336 SP:426/426 BP:1
+B-Temenos - HP:2992/4502 SP:360/432 BP:0
+C-Alfyn - HP:3802/5836 SP:359/383 BP:2
+D-Ochette - HP:0/4447 SP:362/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:4
+B-Blood Revenant - HP:11934/16352 Shields:2
+C-Ice Elemental - HP:0/2160 Shields:4
+D-Lightning Elemental - HP:0/2133 Shields:4
+E-Dreadwolf - HP:3684/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Castti
+3.Temenos
+4.Alfyn
+5.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Temenos
+4.Alfyn
+5.Blood Revenant
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Temenos recibe 740 de daño físico
+Temenos termina con HP:2252
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3594/5336 SP:426/426 BP:1
+B-Temenos - HP:2252/4502 SP:360/432 BP:0
+C-Alfyn - HP:3802/5836 SP:359/383 BP:2
+D-Ochette - HP:0/4447 SP:362/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:4
+B-Blood Revenant - HP:11934/16352 Shields:2
+C-Ice Elemental - HP:0/2160 Shields:4
+D-Lightning Elemental - HP:0/2133 Shields:4
+E-Dreadwolf - HP:3684/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Temenos
+3.Alfyn
+4.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Temenos
+4.Alfyn
+5.Blood Revenant
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Blood Revenant - HP:11934/16352 Shields:2
+2: Dreadwolf - HP:3684/7530 Shields:9
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Blood Revenant recibe 0 de daño de tipo Axe
+Blood Revenant termina con HP:11934
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3594/5336 SP:426/426 BP:1
+B-Temenos - HP:2252/4502 SP:360/432 BP:0
+C-Alfyn - HP:3802/5836 SP:359/383 BP:2
+D-Ochette - HP:0/4447 SP:362/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:4
+B-Blood Revenant - HP:11934/16352 Shields:2
+C-Ice Elemental - HP:0/2160 Shields:4
+D-Lightning Elemental - HP:0/2133 Shields:4
+E-Dreadwolf - HP:3684/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Alfyn
+3.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Temenos
+4.Alfyn
+5.Blood Revenant
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3594/5336 SP:426/426 BP:1
+B-Temenos - HP:2252/4502 SP:360/432 BP:0
+C-Alfyn - HP:3802/5836 SP:359/383 BP:2
+D-Ochette - HP:0/4447 SP:362/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:4
+B-Blood Revenant - HP:11934/16352 Shields:2
+C-Ice Elemental - HP:0/2160 Shields:4
+D-Lightning Elemental - HP:0/2133 Shields:4
+E-Dreadwolf - HP:3684/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Dreadwolf
+3.Castti
+4.Alfyn
+5.Blood Revenant
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Elemental Break
+2: Lion Dance
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Blood Revenant - HP:11934/16352 Shields:2
+2: Dreadwolf - HP:3684/7530 Shields:9
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Alfyn usa Elemental Break
+Blood Revenant recibe 2622 de daño de tipo Stave con debilidad
+Blood Revenant tendrá Decreased Elemental Defense durante 2 rondas
+Blood Revenant termina con HP:9312
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3594/5336 SP:426/426 BP:1
+B-Temenos - HP:2252/4502 SP:360/432 BP:0
+C-Alfyn - HP:3802/5836 SP:339/383 BP:0
+D-Ochette - HP:0/4447 SP:362/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:4
+B-Blood Revenant - HP:9312/16352 Shields:1
+C-Ice Elemental - HP:0/2160 Shields:4
+D-Lightning Elemental - HP:0/2133 Shields:4
+E-Dreadwolf - HP:3684/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Dreadwolf
+3.Castti
+4.Alfyn
+5.Blood Revenant
+----------------------------------------
+Blood Revenant usa Volcano
+Castti recibe 804 de daño elemental
+Castti tendrá Decreased Elemental Defense durante 2 rondas
+Temenos se defiende
+Temenos recibe 348 de daño elemental
+Temenos tendrá Decreased Elemental Defense durante 2 rondas
+Alfyn recibe 939 de daño elemental
+Alfyn tendrá Decreased Elemental Defense durante 2 rondas
+Castti termina con HP:2790
+Temenos termina con HP:1904
+Alfyn termina con HP:2863
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2790/5336 SP:426/426 BP:2
+B-Temenos - HP:1904/4502 SP:360/432 BP:1
+C-Alfyn - HP:2863/5836 SP:339/383 BP:0
+D-Ochette - HP:0/4447 SP:362/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:4
+B-Blood Revenant - HP:9312/16352 Shields:1
+C-Ice Elemental - HP:0/2160 Shields:4
+D-Lightning Elemental - HP:0/2133 Shields:4
+E-Dreadwolf - HP:3684/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Dreadwolf
+3.Castti
+4.Alfyn
+5.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Temenos
+4.Alfyn
+5.Blood Revenant
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Tenebrae Operire
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Temenos usa Tenebrae Operire
+Blood Revenant recibe 987 de daño de tipo Dark
+Blood Revenant recibe 987 de daño de tipo Dark
+Blood Revenant recibe 987 de daño de tipo Dark
+Dreadwolf recibe 641 de daño de tipo Dark
+Dreadwolf recibe 641 de daño de tipo Dark
+Dreadwolf recibe 641 de daño de tipo Dark
+Blood Revenant termina con HP:6351
+Dreadwolf termina con HP:1761
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2790/5336 SP:426/426 BP:2
+B-Temenos - HP:1904/4502 SP:324/432 BP:0
+C-Alfyn - HP:2863/5836 SP:339/383 BP:0
+D-Ochette - HP:0/4447 SP:362/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:4
+B-Blood Revenant - HP:6351/16352 Shields:1
+C-Ice Elemental - HP:0/2160 Shields:4
+D-Lightning Elemental - HP:0/2133 Shields:4
+E-Dreadwolf - HP:1761/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Temenos
+4.Alfyn
+5.Blood Revenant
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Temenos recibe 740 de daño físico
+Temenos termina con HP:1164
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2790/5336 SP:426/426 BP:2
+B-Temenos - HP:1164/4502 SP:324/432 BP:0
+C-Alfyn - HP:2863/5836 SP:339/383 BP:0
+D-Ochette - HP:0/4447 SP:362/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:4
+B-Blood Revenant - HP:6351/16352 Shields:1
+C-Ice Elemental - HP:0/2160 Shields:4
+D-Lightning Elemental - HP:0/2133 Shields:4
+E-Dreadwolf - HP:1761/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Alfyn
+3.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Temenos
+4.Alfyn
+5.Blood Revenant
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2790/5336 SP:426/426 BP:2
+B-Temenos - HP:1164/4502 SP:324/432 BP:0
+C-Alfyn - HP:2863/5836 SP:339/383 BP:0
+D-Ochette - HP:0/4447 SP:362/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:4
+B-Blood Revenant - HP:6351/16352 Shields:1
+C-Ice Elemental - HP:0/2160 Shields:4
+D-Lightning Elemental - HP:0/2133 Shields:4
+E-Dreadwolf - HP:1761/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Temenos
+4.Alfyn
+5.Blood Revenant
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Elemental Break
+2: Lion Dance
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Castti - HP:2790/5336 SP:426/426 BP:2
+2: Temenos - HP:1164/4502 SP:324/432 BP:0
+3: Alfyn - HP:2863/5836 SP:339/383 BP:0
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Alfyn usa Lion Dance
+Temenos tendrá Increased Physical Attack durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2790/5336 SP:426/426 BP:2
+B-Temenos - HP:1164/4502 SP:324/432 BP:0
+C-Alfyn - HP:2863/5836 SP:335/383 BP:0
+D-Ochette - HP:0/4447 SP:362/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:4
+B-Blood Revenant - HP:6351/16352 Shields:1
+C-Ice Elemental - HP:0/2160 Shields:4
+D-Lightning Elemental - HP:0/2133 Shields:4
+E-Dreadwolf - HP:1761/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Temenos
+4.Alfyn
+5.Blood Revenant
+----------------------------------------
+Blood Revenant usa Volcano
+Castti se defiende
+Castti recibe 402 de daño elemental
+Castti tendrá Decreased Elemental Defense durante 2 rondas
+Temenos recibe 697 de daño elemental
+Temenos tendrá Decreased Elemental Defense durante 2 rondas
+Alfyn recibe 939 de daño elemental
+Alfyn tendrá Decreased Elemental Defense durante 2 rondas
+Castti termina con HP:2388
+Temenos termina con HP:467
+Alfyn termina con HP:1924
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2388/5336 SP:426/426 BP:3
+B-Temenos - HP:467/4502 SP:324/432 BP:0
+C-Alfyn - HP:1924/5836 SP:335/383 BP:1
+D-Ochette - HP:0/4447 SP:362/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:4
+B-Blood Revenant - HP:6351/16352 Shields:1
+C-Ice Elemental - HP:0/2160 Shields:4
+D-Lightning Elemental - HP:0/2133 Shields:4
+E-Dreadwolf - HP:1761/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Dreadwolf
+3.Temenos
+4.Alfyn
+5.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Temenos
+4.Alfyn
+5.Blood Revenant
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Steorra's Prophecy
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Castti usa Steorra's Prophecy
+Blood Revenant recibe 527 de daño de tipo Dark
+Dreadwolf recibe 510 de daño de tipo Dark
+Blood Revenant termina con HP:5824
+Dreadwolf termina con HP:1251
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2388/5336 SP:376/426 BP:0
+B-Temenos - HP:467/4502 SP:324/432 BP:0
+C-Alfyn - HP:1924/5836 SP:335/383 BP:1
+D-Ochette - HP:0/4447 SP:362/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:4
+B-Blood Revenant - HP:5824/16352 Shields:1
+C-Ice Elemental - HP:0/2160 Shields:4
+D-Lightning Elemental - HP:0/2133 Shields:4
+E-Dreadwolf - HP:1251/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Temenos
+3.Alfyn
+4.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Temenos
+4.Alfyn
+5.Blood Revenant
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Temenos recibe 740 de daño físico
+Temenos termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2388/5336 SP:376/426 BP:0
+B-Temenos - HP:0/4502 SP:324/432 BP:0
+C-Alfyn - HP:1924/5836 SP:335/383 BP:1
+D-Ochette - HP:0/4447 SP:362/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:4
+B-Blood Revenant - HP:5824/16352 Shields:1
+C-Ice Elemental - HP:0/2160 Shields:4
+D-Lightning Elemental - HP:0/2133 Shields:4
+E-Dreadwolf - HP:1251/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Blood Revenant
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Blood Revenant - HP:5824/16352 Shields:1
+2: Dreadwolf - HP:1251/7530 Shields:9
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Alfyn no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Blood Revenant recibe 0 de daño de tipo Axe
+Blood Revenant termina con HP:5824
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2388/5336 SP:376/426 BP:0
+B-Temenos - HP:0/4502 SP:324/432 BP:0
+C-Alfyn - HP:1924/5836 SP:335/383 BP:1
+D-Ochette - HP:0/4447 SP:362/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:4
+B-Blood Revenant - HP:5824/16352 Shields:1
+C-Ice Elemental - HP:0/2160 Shields:4
+D-Lightning Elemental - HP:0/2133 Shields:4
+E-Dreadwolf - HP:1251/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Blood Revenant
+----------------------------------------
+Blood Revenant usa Volcano
+Castti recibe 804 de daño elemental
+Castti tendrá Decreased Elemental Defense durante 2 rondas
+Alfyn recibe 939 de daño elemental
+Alfyn tendrá Decreased Elemental Defense durante 2 rondas
+Castti termina con HP:1584
+Alfyn termina con HP:985
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1584/5336 SP:376/426 BP:0
+B-Temenos - HP:0/4502 SP:324/432 BP:0
+C-Alfyn - HP:985/5836 SP:335/383 BP:2
+D-Ochette - HP:0/4447 SP:362/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:4
+B-Blood Revenant - HP:5824/16352 Shields:1
+C-Ice Elemental - HP:0/2160 Shields:4
+D-Lightning Elemental - HP:0/2133 Shields:4
+E-Dreadwolf - HP:1251/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Blood Revenant
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Alfyn recibe 650 de daño físico
+Alfyn termina con HP:335
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1584/5336 SP:376/426 BP:0
+B-Temenos - HP:0/4502 SP:324/432 BP:0
+C-Alfyn - HP:335/5836 SP:335/383 BP:2
+D-Ochette - HP:0/4447 SP:362/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:4
+B-Blood Revenant - HP:5824/16352 Shields:1
+C-Ice Elemental - HP:0/2160 Shields:4
+D-Lightning Elemental - HP:0/2133 Shields:4
+E-Dreadwolf - HP:1251/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Alfyn
+3.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Blood Revenant
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1584/5336 SP:376/426 BP:0
+B-Temenos - HP:0/4502 SP:324/432 BP:0
+C-Alfyn - HP:335/5836 SP:335/383 BP:2
+D-Ochette - HP:0/4447 SP:362/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:4
+B-Blood Revenant - HP:5824/16352 Shields:1
+C-Ice Elemental - HP:0/2160 Shields:4
+D-Lightning Elemental - HP:0/2133 Shields:4
+E-Dreadwolf - HP:1251/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Alfyn
+4.Blood Revenant
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Blood Revenant - HP:5824/16352 Shields:1
+2: Dreadwolf - HP:1251/7530 Shields:9
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Dreadwolf recibe 45 de daño de tipo Axe con debilidad
+Dreadwolf termina con HP:1206
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1584/5336 SP:376/426 BP:0
+B-Temenos - HP:0/4502 SP:324/432 BP:0
+C-Alfyn - HP:335/5836 SP:335/383 BP:2
+D-Ochette - HP:0/4447 SP:362/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:4
+B-Blood Revenant - HP:5824/16352 Shields:1
+C-Ice Elemental - HP:0/2160 Shields:4
+D-Lightning Elemental - HP:0/2133 Shields:4
+E-Dreadwolf - HP:1206/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Alfyn
+4.Blood Revenant
+----------------------------------------
+Blood Revenant usa Volcano
+Castti se defiende
+Castti recibe 402 de daño elemental
+Castti tendrá Decreased Elemental Defense durante 2 rondas
+Alfyn recibe 939 de daño elemental
+Alfyn tendrá Decreased Elemental Defense durante 2 rondas
+Castti termina con HP:1182
+Alfyn termina con HP:0
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1182/5336 SP:376/426 BP:1
+B-Temenos - HP:0/4502 SP:324/432 BP:0
+C-Alfyn - HP:0/5836 SP:335/383 BP:2
+D-Ochette - HP:0/4447 SP:362/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:4
+B-Blood Revenant - HP:5824/16352 Shields:1
+C-Ice Elemental - HP:0/2160 Shields:4
+D-Lightning Elemental - HP:0/2133 Shields:4
+E-Dreadwolf - HP:1206/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Dreadwolf
+3.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Blood Revenant
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Blood Revenant - HP:5824/16352 Shields:1
+2: Dreadwolf - HP:1206/7530 Shields:8
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti ataca
+Blood Revenant recibe 0 de daño de tipo Axe
+Blood Revenant recibe 0 de daño de tipo Axe
+Blood Revenant termina con HP:5824
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1182/5336 SP:376/426 BP:0
+B-Temenos - HP:0/4502 SP:324/432 BP:0
+C-Alfyn - HP:0/5836 SP:335/383 BP:2
+D-Ochette - HP:0/4447 SP:362/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:4
+B-Blood Revenant - HP:5824/16352 Shields:1
+C-Ice Elemental - HP:0/2160 Shields:4
+D-Lightning Elemental - HP:0/2133 Shields:4
+E-Dreadwolf - HP:1206/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Blood Revenant
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Castti recibe 590 de daño físico
+Castti termina con HP:592
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:592/5336 SP:376/426 BP:0
+B-Temenos - HP:0/4502 SP:324/432 BP:0
+C-Alfyn - HP:0/5836 SP:335/383 BP:2
+D-Ochette - HP:0/4447 SP:362/369 BP:0
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:4
+B-Blood Revenant - HP:5824/16352 Shields:1
+C-Ice Elemental - HP:0/2160 Shields:4
+D-Lightning Elemental - HP:0/2133 Shields:4
+E-Dreadwolf - HP:1206/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Blood Revenant
+----------------------------------------
+Blood Revenant usa Volcano
+Castti recibe 804 de daño elemental
+Castti tendrá Decreased Elemental Defense durante 2 rondas
+Castti termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

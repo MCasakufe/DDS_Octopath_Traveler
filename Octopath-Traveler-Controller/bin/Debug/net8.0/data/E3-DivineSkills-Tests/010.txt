@@ -1,0 +1,443 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+INPUT: 9
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Flying Fish - HP:649/649 Shields:4
+C-Light Guardian - HP:1129/1129 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.Flying Fish
+4.Meep
+5.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Flying Fish
+4.Meep
+5.Light Guardian
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Meep - HP:1016/1016 Shields:2
+2: Flying Fish - HP:649/649 Shields:4
+3: Light Guardian - HP:1129/1129 Shields:3
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Meep recibe 59 de daño de tipo Dagger
+Meep termina con HP:957
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Meep - HP:957/1016 Shields:2
+B-Flying Fish - HP:649/649 Shields:4
+C-Light Guardian - HP:1129/1129 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Flying Fish
+3.Meep
+4.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Flying Fish
+4.Meep
+5.Light Guardian
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Meep - HP:957/1016 Shields:2
+2: Flying Fish - HP:649/649 Shields:4
+3: Light Guardian - HP:1129/1129 Shields:3
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Light Guardian recibe 97 de daño de tipo Dagger con debilidad
+Light Guardian termina con HP:1032
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Meep - HP:957/1016 Shields:2
+B-Flying Fish - HP:649/649 Shields:4
+C-Light Guardian - HP:1032/1129 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Flying Fish
+2.Meep
+3.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Flying Fish
+4.Meep
+5.Light Guardian
+----------------------------------------
+Flying Fish usa Attack
+Therion recibe 319 de daño físico
+Therion termina con HP:4128
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Therion - HP:4128/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Meep - HP:957/1016 Shields:2
+B-Flying Fish - HP:649/649 Shields:4
+C-Light Guardian - HP:1032/1129 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Flying Fish
+4.Meep
+5.Light Guardian
+----------------------------------------
+Meep usa Attack
+Therion recibe 263 de daño físico
+Therion termina con HP:3865
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Therion - HP:3865/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Meep - HP:957/1016 Shields:2
+B-Flying Fish - HP:649/649 Shields:4
+C-Light Guardian - HP:1032/1129 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Flying Fish
+4.Meep
+5.Light Guardian
+----------------------------------------
+Light Guardian usa Attack
+Primrose recibe 132 de daño físico
+Primrose termina con HP:3870
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3870/4002 SP:504/504 BP:2
+B-Therion - HP:3865/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Meep - HP:957/1016 Shields:2
+B-Flying Fish - HP:649/649 Shields:4
+C-Light Guardian - HP:1032/1129 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.Flying Fish
+4.Meep
+5.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Flying Fish
+4.Meep
+5.Light Guardian
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Meep - HP:957/1016 Shields:2
+2: Flying Fish - HP:649/649 Shields:4
+3: Light Guardian - HP:1032/1129 Shields:2
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Light Guardian recibe 366 de daño de tipo Dagger con debilidad
+Light Guardian termina con HP:666
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3870/4002 SP:504/504 BP:2
+B-Therion - HP:3865/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Meep - HP:957/1016 Shields:2
+B-Flying Fish - HP:649/649 Shields:4
+C-Light Guardian - HP:666/1129 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Flying Fish
+3.Meep
+4.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Flying Fish
+4.Meep
+5.Light Guardian
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Meep - HP:957/1016 Shields:2
+2: Flying Fish - HP:649/649 Shields:4
+3: Light Guardian - HP:666/1129 Shields:1
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Meep recibe 0 de daño de tipo Dagger
+Meep termina con HP:957
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3870/4002 SP:504/504 BP:2
+B-Therion - HP:3865/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Meep - HP:957/1016 Shields:2
+B-Flying Fish - HP:649/649 Shields:4
+C-Light Guardian - HP:666/1129 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Flying Fish
+2.Meep
+3.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Flying Fish
+4.Meep
+5.Light Guardian
+----------------------------------------
+Flying Fish usa Attack
+Primrose recibe 344 de daño físico
+Primrose termina con HP:3526
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3526/4002 SP:504/504 BP:2
+B-Therion - HP:3865/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Meep - HP:957/1016 Shields:2
+B-Flying Fish - HP:649/649 Shields:4
+C-Light Guardian - HP:666/1129 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Flying Fish
+4.Meep
+5.Light Guardian
+----------------------------------------
+Meep usa Attack
+Therion recibe 263 de daño físico
+Therion termina con HP:3602
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3526/4002 SP:504/504 BP:2
+B-Therion - HP:3602/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Meep - HP:957/1016 Shields:2
+B-Flying Fish - HP:649/649 Shields:4
+C-Light Guardian - HP:666/1129 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Flying Fish
+4.Meep
+5.Light Guardian
+----------------------------------------
+Light Guardian usa Attack
+Therion recibe 107 de daño físico
+Therion termina con HP:3495
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3526/4002 SP:504/504 BP:3
+B-Therion - HP:3495/4447 SP:332/332 BP:3
+Equipo del enemigo
+A-Meep - HP:957/1016 Shields:2
+B-Flying Fish - HP:649/649 Shields:4
+C-Light Guardian - HP:666/1129 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.Flying Fish
+4.Meep
+5.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Flying Fish
+4.Meep
+5.Light Guardian
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Meep - HP:957/1016 Shields:2
+2: Flying Fish - HP:649/649 Shields:4
+3: Light Guardian - HP:666/1129 Shields:1
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Meep recibe 59 de daño de tipo Dagger
+Meep termina con HP:898
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3526/4002 SP:504/504 BP:3
+B-Therion - HP:3495/4447 SP:332/332 BP:3
+Equipo del enemigo
+A-Meep - HP:898/1016 Shields:2
+B-Flying Fish - HP:649/649 Shields:4
+C-Light Guardian - HP:666/1129 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Flying Fish
+3.Meep
+4.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Flying Fish
+4.Meep
+5.Light Guardian
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Steorra's Prophecy
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Primrose usa Steorra's Prophecy
+Meep recibe 2801 de daño de tipo Dark con debilidad
+Flying Fish recibe 2628 de daño de tipo Dark con debilidad
+Light Guardian recibe 2907 de daño de tipo Dark con debilidad
+Light Guardian entra en Breaking Point
+Meep termina con HP:0
+Flying Fish termina con HP:0
+Light Guardian termina con HP:0
+----------------------------------------
+Gana equipo del jugador

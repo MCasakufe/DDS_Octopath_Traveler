@@ -1,0 +1,1311 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+INPUT: 68
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+B-Olberic - HP:5781/5781 SP:291/291 BP:1
+C-Agnea - HP:4002/4002 SP:554/554 BP:1
+Equipo del enemigo
+A-Flying Fish - HP:649/649 Shields:4
+B-Forest Fox - HP:1380/1380 Shields:2
+C-Light Guardian - HP:1129/1129 Shields:3
+D-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Z'aanta
+3.Flying Fish
+4.Olberic
+5.Devourer of Dreams
+6.Forest Fox
+7.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Flying Fish
+4.Olberic
+5.Devourer of Dreams
+6.Forest Fox
+7.Light Guardian
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Armor Corrosive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Flying Fish - HP:649/649 Shields:4
+2: Forest Fox - HP:1380/1380 Shields:2
+3: Light Guardian - HP:1129/1129 Shields:3
+4: Devourer of Dreams - HP:7500/7500 Shields:10
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Agnea usa Armor Corrosive
+Forest Fox tendrá Decreased Physical Defense durante 4 rondas
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+B-Olberic - HP:5781/5781 SP:291/291 BP:1
+C-Agnea - HP:4002/4002 SP:550/554 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:649/649 Shields:4
+B-Forest Fox - HP:1380/1380 Shields:2
+C-Light Guardian - HP:1129/1129 Shields:3
+D-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Flying Fish
+3.Olberic
+4.Devourer of Dreams
+5.Forest Fox
+6.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Flying Fish
+4.Olberic
+5.Devourer of Dreams
+6.Forest Fox
+7.Light Guardian
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Guardian Liondog
+2: Armor Corrosive
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Z'aanta no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta usa Guardian Liondog
+Flying Fish recibe 439 de daño de tipo Sword con debilidad
+Flying Fish recibe 439 de daño de tipo Sword con debilidad
+Flying Fish recibe 439 de daño de tipo Sword con debilidad
+Flying Fish recibe 439 de daño de tipo Sword con debilidad
+Flying Fish entra en Breaking Point
+Flying Fish recibe 586 de daño de tipo Sword con debilidad
+Flying Fish termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:336/371 BP:1
+B-Olberic - HP:5781/5781 SP:291/291 BP:1
+C-Agnea - HP:4002/4002 SP:550/554 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:0/649 Shields:0
+B-Forest Fox - HP:1380/1380 Shields:2
+C-Light Guardian - HP:1129/1129 Shields:3
+D-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Devourer of Dreams
+3.Forest Fox
+4.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Olberic
+4.Devourer of Dreams
+5.Forest Fox
+6.Light Guardian
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:336/371 BP:1
+B-Olberic - HP:5781/5781 SP:291/291 BP:1
+C-Agnea - HP:4002/4002 SP:550/554 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:0/649 Shields:0
+B-Forest Fox - HP:1380/1380 Shields:2
+C-Light Guardian - HP:1129/1129 Shields:3
+D-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Forest Fox
+3.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Agnea
+3.Z'aanta
+4.Devourer of Dreams
+5.Forest Fox
+6.Light Guardian
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Z'aanta recibe 1611 de daño
+Olberic recibe 2891 de daño
+Agnea recibe 2001 de daño
+Z'aanta termina con HP:1611
+Olberic termina con HP:2890
+Agnea termina con HP:2001
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1611/3222 SP:336/371 BP:1
+B-Olberic - HP:2890/5781 SP:291/291 BP:1
+C-Agnea - HP:2001/4002 SP:550/554 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:0/649 Shields:0
+B-Forest Fox - HP:1380/1380 Shields:2
+C-Light Guardian - HP:1129/1129 Shields:3
+D-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Forest Fox
+2.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Agnea
+3.Z'aanta
+4.Devourer of Dreams
+5.Forest Fox
+6.Light Guardian
+----------------------------------------
+Forest Fox usa Double Bite
+Agnea recibe 254 de daño físico
+Agnea recibe 254 de daño físico
+Agnea termina con HP:1493
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1611/3222 SP:336/371 BP:1
+B-Olberic - HP:2890/5781 SP:291/291 BP:1
+C-Agnea - HP:1493/4002 SP:550/554 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:0/649 Shields:0
+B-Forest Fox - HP:1380/1380 Shields:2
+C-Light Guardian - HP:1129/1129 Shields:3
+D-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Agnea
+3.Z'aanta
+4.Devourer of Dreams
+5.Forest Fox
+6.Light Guardian
+----------------------------------------
+Light Guardian usa Attack
+Olberic se defiende
+Olberic recibe 0 de daño físico
+Olberic termina con HP:2890
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1933/3222 SP:336/371 BP:2
+B-Olberic - HP:2890/5781 SP:291/291 BP:2
+C-Agnea - HP:1493/4002 SP:550/554 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:0/649 Shields:0
+B-Forest Fox - HP:1380/1380 Shields:2
+C-Light Guardian - HP:1129/1129 Shields:3
+D-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Agnea
+3.Z'aanta
+4.Devourer of Dreams
+5.Forest Fox
+6.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Olberic
+4.Devourer of Dreams
+5.Forest Fox
+6.Light Guardian
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Holy Light
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Forest Fox - HP:1380/1380 Shields:2
+2: Light Guardian - HP:1129/1129 Shields:3
+3: Devourer of Dreams - HP:7500/7500 Shields:10
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Olberic no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Olberic usa Holy Light
+Devourer of Dreams recibe 871 de daño de tipo Light con debilidad
+Devourer of Dreams termina con HP:6629
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1933/3222 SP:336/371 BP:2
+B-Olberic - HP:2890/5781 SP:285/291 BP:1
+C-Agnea - HP:1493/4002 SP:550/554 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:0/649 Shields:0
+B-Forest Fox - HP:1380/1380 Shields:2
+C-Light Guardian - HP:1129/1129 Shields:3
+D-Devourer of Dreams - HP:6629/7500 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Z'aanta
+3.Devourer of Dreams
+4.Forest Fox
+5.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Olberic
+4.Devourer of Dreams
+5.Forest Fox
+6.Light Guardian
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Armor Corrosive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Forest Fox - HP:1380/1380 Shields:2
+2: Light Guardian - HP:1129/1129 Shields:3
+3: Devourer of Dreams - HP:6629/7500 Shields:9
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Agnea usa Armor Corrosive
+Light Guardian tendrá Decreased Physical Defense durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1933/3222 SP:336/371 BP:2
+B-Olberic - HP:2890/5781 SP:285/291 BP:1
+C-Agnea - HP:1493/4002 SP:546/554 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:0/649 Shields:0
+B-Forest Fox - HP:1380/1380 Shields:2
+C-Light Guardian - HP:1129/1129 Shields:3
+D-Devourer of Dreams - HP:6629/7500 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Devourer of Dreams
+3.Forest Fox
+4.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Olberic
+4.Devourer of Dreams
+5.Forest Fox
+6.Light Guardian
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Guardian Liondog
+2: Armor Corrosive
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Forest Fox - HP:1380/1380 Shields:2
+2: Light Guardian - HP:1129/1129 Shields:3
+3: Devourer of Dreams - HP:6629/7500 Shields:9
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Z'aanta usa Armor Corrosive
+Devourer of Dreams tendrá Decreased Physical Defense durante 6 rondas
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1933/3222 SP:332/371 BP:0
+B-Olberic - HP:2890/5781 SP:285/291 BP:1
+C-Agnea - HP:1493/4002 SP:546/554 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:0/649 Shields:0
+B-Forest Fox - HP:1380/1380 Shields:2
+C-Light Guardian - HP:1129/1129 Shields:3
+D-Devourer of Dreams - HP:6629/7500 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Forest Fox
+3.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Olberic
+4.Devourer of Dreams
+5.Forest Fox
+6.Light Guardian
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Z'aanta recibe 967 de daño
+Olberic recibe 1445 de daño
+Agnea recibe 747 de daño
+Z'aanta termina con HP:966
+Olberic termina con HP:1445
+Agnea termina con HP:746
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:966/3222 SP:332/371 BP:0
+B-Olberic - HP:1445/5781 SP:285/291 BP:1
+C-Agnea - HP:746/4002 SP:546/554 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:0/649 Shields:0
+B-Forest Fox - HP:1380/1380 Shields:2
+C-Light Guardian - HP:1129/1129 Shields:3
+D-Devourer of Dreams - HP:6629/7500 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Forest Fox
+2.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Olberic
+4.Devourer of Dreams
+5.Forest Fox
+6.Light Guardian
+----------------------------------------
+Forest Fox usa Double Bite
+Agnea recibe 254 de daño físico
+Agnea recibe 254 de daño físico
+Agnea termina con HP:238
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:966/3222 SP:332/371 BP:0
+B-Olberic - HP:1445/5781 SP:285/291 BP:1
+C-Agnea - HP:238/4002 SP:546/554 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:0/649 Shields:0
+B-Forest Fox - HP:1380/1380 Shields:2
+C-Light Guardian - HP:1129/1129 Shields:3
+D-Devourer of Dreams - HP:6629/7500 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Olberic
+4.Devourer of Dreams
+5.Forest Fox
+6.Light Guardian
+----------------------------------------
+Light Guardian usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:1445
+----------------------------------------
+Agnea obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:966/3222 SP:332/371 BP:0
+B-Olberic - HP:1445/5781 SP:285/291 BP:1
+C-Agnea - HP:238/4002 SP:546/554 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:0/649 Shields:0
+B-Forest Fox - HP:1380/1380 Shields:2
+C-Light Guardian - HP:1129/1129 Shields:3
+D-Devourer of Dreams - HP:6629/7500 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Olberic
+4.Devourer of Dreams
+5.Forest Fox
+6.Light Guardian
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Armor Corrosive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Forest Fox - HP:1380/1380 Shields:2
+2: Light Guardian - HP:1129/1129 Shields:3
+3: Devourer of Dreams - HP:6629/7500 Shields:9
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Agnea usa Armor Corrosive
+Light Guardian tendrá Decreased Physical Defense durante 2 rondas
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1288/3222 SP:332/371 BP:0
+B-Olberic - HP:1445/5781 SP:285/291 BP:1
+C-Agnea - HP:238/4002 SP:542/554 BP:1
+Equipo del enemigo
+A-Flying Fish - HP:0/649 Shields:0
+B-Forest Fox - HP:1380/1380 Shields:2
+C-Light Guardian - HP:1129/1129 Shields:3
+D-Devourer of Dreams - HP:6629/7500 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Z'aanta
+3.Olberic
+4.Devourer of Dreams
+5.Forest Fox
+6.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Olberic
+4.Devourer of Dreams
+5.Forest Fox
+6.Light Guardian
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Forest Fox - HP:1380/1380 Shields:2
+2: Light Guardian - HP:1129/1129 Shields:3
+3: Devourer of Dreams - HP:6629/7500 Shields:9
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Agnea no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Agnea no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Agnea no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Agnea no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Agnea ataca
+Forest Fox recibe 51 de daño de tipo Dagger
+Forest Fox recibe 51 de daño de tipo Dagger
+Forest Fox termina con HP:1278
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1288/3222 SP:332/371 BP:0
+B-Olberic - HP:1445/5781 SP:285/291 BP:1
+C-Agnea - HP:238/4002 SP:542/554 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:0/649 Shields:0
+B-Forest Fox - HP:1278/1380 Shields:2
+C-Light Guardian - HP:1129/1129 Shields:3
+D-Devourer of Dreams - HP:6629/7500 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Olberic
+3.Devourer of Dreams
+4.Forest Fox
+5.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Olberic
+4.Devourer of Dreams
+5.Forest Fox
+6.Light Guardian
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Guardian Liondog
+2: Armor Corrosive
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Z'aanta usa Guardian Liondog
+Devourer of Dreams recibe 630 de daño de tipo Sword con debilidad
+Devourer of Dreams recibe 630 de daño de tipo Sword con debilidad
+Devourer of Dreams recibe 630 de daño de tipo Sword con debilidad
+Devourer of Dreams recibe 630 de daño de tipo Sword con debilidad
+Devourer of Dreams recibe 630 de daño de tipo Sword con debilidad
+Devourer of Dreams termina con HP:3479
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1288/3222 SP:297/371 BP:0
+B-Olberic - HP:1445/5781 SP:285/291 BP:1
+C-Agnea - HP:238/4002 SP:542/554 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:0/649 Shields:0
+B-Forest Fox - HP:1278/1380 Shields:2
+C-Light Guardian - HP:1129/1129 Shields:3
+D-Devourer of Dreams - HP:3479/7500 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Devourer of Dreams
+3.Forest Fox
+4.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Olberic
+4.Devourer of Dreams
+5.Forest Fox
+6.Light Guardian
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Holy Light
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Forest Fox - HP:1278/1380 Shields:2
+2: Light Guardian - HP:1129/1129 Shields:3
+3: Devourer of Dreams - HP:3479/7500 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Olberic usa Holy Light
+Devourer of Dreams recibe 871 de daño de tipo Light con debilidad
+Devourer of Dreams termina con HP:2608
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1288/3222 SP:297/371 BP:0
+B-Olberic - HP:1445/5781 SP:279/291 BP:0
+C-Agnea - HP:238/4002 SP:542/554 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:0/649 Shields:0
+B-Forest Fox - HP:1278/1380 Shields:2
+C-Light Guardian - HP:1129/1129 Shields:3
+D-Devourer of Dreams - HP:2608/7500 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Forest Fox
+3.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Olberic
+4.Devourer of Dreams
+5.Forest Fox
+6.Light Guardian
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Z'aanta recibe 644 de daño
+Olberic recibe 723 de daño
+Agnea recibe 119 de daño
+Z'aanta termina con HP:644
+Olberic termina con HP:722
+Agnea termina con HP:119
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:644/3222 SP:297/371 BP:0
+B-Olberic - HP:722/5781 SP:279/291 BP:0
+C-Agnea - HP:119/4002 SP:542/554 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:0/649 Shields:0
+B-Forest Fox - HP:1278/1380 Shields:2
+C-Light Guardian - HP:1129/1129 Shields:3
+D-Devourer of Dreams - HP:2608/7500 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Forest Fox
+2.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Olberic
+4.Devourer of Dreams
+5.Forest Fox
+6.Light Guardian
+----------------------------------------
+Forest Fox usa Double Bite
+Agnea recibe 254 de daño físico
+Agnea recibe 254 de daño físico
+Agnea termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:644/3222 SP:297/371 BP:0
+B-Olberic - HP:722/5781 SP:279/291 BP:0
+C-Agnea - HP:0/4002 SP:542/554 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:0/649 Shields:0
+B-Forest Fox - HP:1278/1380 Shields:2
+C-Light Guardian - HP:1129/1129 Shields:3
+D-Devourer of Dreams - HP:2608/7500 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Olberic
+3.Devourer of Dreams
+4.Forest Fox
+5.Light Guardian
+----------------------------------------
+Light Guardian usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:722
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:966/3222 SP:297/371 BP:1
+B-Olberic - HP:722/5781 SP:279/291 BP:0
+C-Agnea - HP:0/4002 SP:542/554 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:0/649 Shields:0
+B-Forest Fox - HP:1278/1380 Shields:2
+C-Light Guardian - HP:1129/1129 Shields:3
+D-Devourer of Dreams - HP:2608/7500 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Olberic
+3.Devourer of Dreams
+4.Forest Fox
+5.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Olberic
+3.Devourer of Dreams
+4.Forest Fox
+5.Light Guardian
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:966/3222 SP:297/371 BP:1
+B-Olberic - HP:722/5781 SP:279/291 BP:0
+C-Agnea - HP:0/4002 SP:542/554 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:0/649 Shields:0
+B-Forest Fox - HP:1278/1380 Shields:2
+C-Light Guardian - HP:1129/1129 Shields:3
+D-Devourer of Dreams - HP:2608/7500 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Devourer of Dreams
+3.Forest Fox
+4.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Olberic
+3.Devourer of Dreams
+4.Forest Fox
+5.Light Guardian
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Forest Fox - HP:1278/1380 Shields:2
+2: Light Guardian - HP:1129/1129 Shields:3
+3: Devourer of Dreams - HP:2608/7500 Shields:3
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Olberic ataca
+Forest Fox recibe 439 de daño de tipo Spear
+Forest Fox termina con HP:839
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:966/3222 SP:297/371 BP:1
+B-Olberic - HP:722/5781 SP:279/291 BP:0
+C-Agnea - HP:0/4002 SP:542/554 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:0/649 Shields:0
+B-Forest Fox - HP:839/1380 Shields:2
+C-Light Guardian - HP:1129/1129 Shields:3
+D-Devourer of Dreams - HP:2608/7500 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Forest Fox
+3.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Olberic
+3.Devourer of Dreams
+4.Forest Fox
+5.Light Guardian
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Z'aanta recibe 483 de daño
+Olberic recibe 361 de daño
+Z'aanta termina con HP:483
+Olberic termina con HP:361
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:483/3222 SP:297/371 BP:1
+B-Olberic - HP:361/5781 SP:279/291 BP:0
+C-Agnea - HP:0/4002 SP:542/554 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:0/649 Shields:0
+B-Forest Fox - HP:839/1380 Shields:2
+C-Light Guardian - HP:1129/1129 Shields:3
+D-Devourer of Dreams - HP:2608/7500 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Forest Fox
+2.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Olberic
+3.Devourer of Dreams
+4.Forest Fox
+5.Light Guardian
+----------------------------------------
+Forest Fox usa Double Bite
+Z'aanta se defiende
+Z'aanta recibe 123 de daño físico
+Z'aanta recibe 123 de daño físico
+Z'aanta termina con HP:237
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:237/3222 SP:297/371 BP:1
+B-Olberic - HP:361/5781 SP:279/291 BP:0
+C-Agnea - HP:0/4002 SP:542/554 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:0/649 Shields:0
+B-Forest Fox - HP:839/1380 Shields:2
+C-Light Guardian - HP:1129/1129 Shields:3
+D-Devourer of Dreams - HP:2608/7500 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Olberic
+3.Devourer of Dreams
+4.Forest Fox
+5.Light Guardian
+----------------------------------------
+Light Guardian usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:361
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:559/3222 SP:297/371 BP:2
+B-Olberic - HP:361/5781 SP:279/291 BP:1
+C-Agnea - HP:0/4002 SP:542/554 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:0/649 Shields:0
+B-Forest Fox - HP:839/1380 Shields:2
+C-Light Guardian - HP:1129/1129 Shields:3
+D-Devourer of Dreams - HP:2608/7500 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Olberic
+3.Devourer of Dreams
+4.Forest Fox
+5.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Olberic
+3.Devourer of Dreams
+4.Forest Fox
+5.Light Guardian
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Forest Fox - HP:839/1380 Shields:2
+2: Light Guardian - HP:1129/1129 Shields:3
+3: Devourer of Dreams - HP:2608/7500 Shields:3
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Z'aanta ataca
+Devourer of Dreams recibe 63 de daño de tipo Bow
+Devourer of Dreams recibe 63 de daño de tipo Bow
+Devourer of Dreams recibe 63 de daño de tipo Bow
+Devourer of Dreams termina con HP:2419
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:559/3222 SP:297/371 BP:0
+B-Olberic - HP:361/5781 SP:279/291 BP:1
+C-Agnea - HP:0/4002 SP:542/554 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:0/649 Shields:0
+B-Forest Fox - HP:839/1380 Shields:2
+C-Light Guardian - HP:1129/1129 Shields:3
+D-Devourer of Dreams - HP:2419/7500 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Devourer of Dreams
+3.Forest Fox
+4.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Olberic
+3.Devourer of Dreams
+4.Forest Fox
+5.Light Guardian
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:559/3222 SP:297/371 BP:0
+B-Olberic - HP:361/5781 SP:279/291 BP:1
+C-Agnea - HP:0/4002 SP:542/554 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:0/649 Shields:0
+B-Forest Fox - HP:839/1380 Shields:2
+C-Light Guardian - HP:1129/1129 Shields:3
+D-Devourer of Dreams - HP:2419/7500 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Forest Fox
+3.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Z'aanta
+3.Devourer of Dreams
+4.Forest Fox
+5.Light Guardian
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Z'aanta recibe 280 de daño
+Olberic recibe 181 de daño
+Z'aanta termina con HP:279
+Olberic termina con HP:180
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:279/3222 SP:297/371 BP:0
+B-Olberic - HP:180/5781 SP:279/291 BP:1
+C-Agnea - HP:0/4002 SP:542/554 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:0/649 Shields:0
+B-Forest Fox - HP:839/1380 Shields:2
+C-Light Guardian - HP:1129/1129 Shields:3
+D-Devourer of Dreams - HP:2419/7500 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Forest Fox
+2.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Z'aanta
+3.Devourer of Dreams
+4.Forest Fox
+5.Light Guardian
+----------------------------------------
+Forest Fox usa Double Bite
+Z'aanta recibe 246 de daño físico
+Z'aanta recibe 246 de daño físico
+Z'aanta termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:297/371 BP:0
+B-Olberic - HP:180/5781 SP:279/291 BP:1
+C-Agnea - HP:0/4002 SP:542/554 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:0/649 Shields:0
+B-Forest Fox - HP:839/1380 Shields:2
+C-Light Guardian - HP:1129/1129 Shields:3
+D-Devourer of Dreams - HP:2419/7500 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Devourer of Dreams
+3.Forest Fox
+4.Light Guardian
+----------------------------------------
+Light Guardian usa Attack
+Olberic se defiende
+Olberic recibe 0 de daño físico
+Olberic termina con HP:180
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:297/371 BP:0
+B-Olberic - HP:180/5781 SP:279/291 BP:2
+C-Agnea - HP:0/4002 SP:542/554 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:0/649 Shields:0
+B-Forest Fox - HP:839/1380 Shields:2
+C-Light Guardian - HP:1129/1129 Shields:3
+D-Devourer of Dreams - HP:2419/7500 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Devourer of Dreams
+3.Forest Fox
+4.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Devourer of Dreams
+3.Forest Fox
+4.Light Guardian
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Holy Light
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Forest Fox - HP:839/1380 Shields:2
+2: Light Guardian - HP:1129/1129 Shields:3
+3: Devourer of Dreams - HP:2419/7500 Shields:3
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Olberic usa Holy Light
+Devourer of Dreams recibe 1517 de daño de tipo Light con debilidad
+Devourer of Dreams termina con HP:902
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:297/371 BP:0
+B-Olberic - HP:180/5781 SP:273/291 BP:0
+C-Agnea - HP:0/4002 SP:542/554 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:0/649 Shields:0
+B-Forest Fox - HP:839/1380 Shields:2
+C-Light Guardian - HP:1129/1129 Shields:3
+D-Devourer of Dreams - HP:902/7500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Forest Fox
+3.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Devourer of Dreams
+3.Forest Fox
+4.Light Guardian
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Olberic recibe 90 de daño
+Olberic termina con HP:90
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:297/371 BP:0
+B-Olberic - HP:90/5781 SP:273/291 BP:0
+C-Agnea - HP:0/4002 SP:542/554 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:0/649 Shields:0
+B-Forest Fox - HP:839/1380 Shields:2
+C-Light Guardian - HP:1129/1129 Shields:3
+D-Devourer of Dreams - HP:902/7500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Forest Fox
+2.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Devourer of Dreams
+3.Forest Fox
+4.Light Guardian
+----------------------------------------
+Forest Fox usa Double Bite
+Olberic recibe 106 de daño físico
+Olberic recibe 106 de daño físico
+Olberic termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

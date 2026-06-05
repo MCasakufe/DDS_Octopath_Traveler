@@ -1,0 +1,558 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+INPUT: 16
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:332/332 BP:1
+B-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Horse Fly - HP:2857/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Olberic
+3.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Olberic
+3.Horse Fly
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Horse Fly - HP:2857/2857 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Horse Fly recibe 87 de daño de tipo Dagger
+Horse Fly termina con HP:2770
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:332/332 BP:1
+B-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Horse Fly - HP:2770/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Olberic
+3.Horse Fly
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Horse Fly - HP:2770/2857 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Horse Fly recibe 160 de daño de tipo Sword
+Horse Fly termina con HP:2610
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:332/332 BP:1
+B-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Horse Fly - HP:2610/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Olberic
+3.Horse Fly
+----------------------------------------
+Horse Fly usa Attack
+Olberic recibe 162 de daño físico
+Olberic termina con HP:5619
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:332/332 BP:2
+B-Olberic - HP:5619/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Horse Fly - HP:2610/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Olberic
+3.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Olberic
+3.Horse Fly
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Armor Corrosive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Horse Fly - HP:2610/2857 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Armor Corrosive
+Horse Fly tendrá Decreased Physical Defense durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:328/332 BP:2
+B-Olberic - HP:5619/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Horse Fly - HP:2610/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Olberic
+3.Horse Fly
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Horse Fly - HP:2610/2857 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Horse Fly recibe 240 de daño de tipo Sword
+Horse Fly termina con HP:2370
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:328/332 BP:2
+B-Olberic - HP:5619/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Horse Fly - HP:2370/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Olberic
+3.Horse Fly
+----------------------------------------
+Horse Fly usa Attack
+Olberic recibe 162 de daño físico
+Olberic termina con HP:5457
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:328/332 BP:3
+B-Olberic - HP:5457/5781 SP:291/291 BP:3
+Equipo del enemigo
+A-Horse Fly - HP:2370/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Olberic
+3.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Olberic
+3.Horse Fly
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Horse Fly - HP:2370/2857 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Horse Fly recibe 131 de daño de tipo Dagger
+Horse Fly termina con HP:2239
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:328/332 BP:3
+B-Olberic - HP:5457/5781 SP:291/291 BP:3
+Equipo del enemigo
+A-Horse Fly - HP:2239/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Olberic
+3.Horse Fly
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Horse Fly - HP:2239/2857 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Horse Fly recibe 240 de daño de tipo Sword
+Horse Fly termina con HP:1999
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:328/332 BP:3
+B-Olberic - HP:5457/5781 SP:291/291 BP:3
+Equipo del enemigo
+A-Horse Fly - HP:1999/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Olberic
+3.Horse Fly
+----------------------------------------
+Horse Fly usa Attack
+Olberic recibe 162 de daño físico
+Olberic termina con HP:5295
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:328/332 BP:4
+B-Olberic - HP:5295/5781 SP:291/291 BP:4
+Equipo del enemigo
+A-Horse Fly - HP:1999/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Olberic
+3.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Olberic
+3.Horse Fly
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Horse Fly - HP:1999/2857 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Horse Fly recibe 87 de daño de tipo Dagger
+Horse Fly termina con HP:1912
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:328/332 BP:4
+B-Olberic - HP:5295/5781 SP:291/291 BP:4
+Equipo del enemigo
+A-Horse Fly - HP:1912/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Olberic
+3.Horse Fly
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Horse Fly - HP:1912/2857 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Horse Fly recibe 160 de daño de tipo Sword
+Horse Fly termina con HP:1752
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:328/332 BP:4
+B-Olberic - HP:5295/5781 SP:291/291 BP:4
+Equipo del enemigo
+A-Horse Fly - HP:1752/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Olberic
+3.Horse Fly
+----------------------------------------
+Horse Fly usa Attack
+Olberic recibe 162 de daño físico
+Olberic termina con HP:5133
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:328/332 BP:5
+B-Olberic - HP:5133/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Horse Fly - HP:1752/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Olberic
+3.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Olberic
+3.Horse Fly
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Horse Fly - HP:1752/2857 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Horse Fly recibe 87 de daño de tipo Dagger
+Horse Fly termina con HP:1665
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:328/332 BP:5
+B-Olberic - HP:5133/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Horse Fly - HP:1665/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Olberic
+3.Horse Fly
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Horse Fly - HP:1665/2857 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Horse Fly recibe 160 de daño de tipo Sword
+Horse Fly termina con HP:1505
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:328/332 BP:5
+B-Olberic - HP:5133/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Horse Fly - HP:1505/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Olberic
+3.Horse Fly
+----------------------------------------
+Horse Fly usa Attack
+Olberic recibe 162 de daño físico
+Olberic termina con HP:4971
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:328/332 BP:5
+B-Olberic - HP:4971/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Horse Fly - HP:1505/2857 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Olberic
+3.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Olberic
+3.Horse Fly
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo

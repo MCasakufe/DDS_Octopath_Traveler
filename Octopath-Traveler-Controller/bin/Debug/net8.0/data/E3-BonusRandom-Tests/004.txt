@@ -1,0 +1,505 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+INPUT: 3
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:369/369 BP:2
+B-Throné - HP:4447/4447 SP:332/332 BP:1
+C-Alfyn - HP:5336/5336 SP:383/383 BP:2
+D-Tressa - HP:4891/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-War Wolf - HP:3548/3548 Shields:2
+C-Curator - HP:1530/1530 Shields:3
+D-Cait - HP:500/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Throné
+3.Ochette
+4.Alfyn
+5.Tressa
+6.War Wolf
+7.Curator
+8.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Throné
+3.Ochette
+4.Alfyn
+5.Tressa
+6.War Wolf
+7.Curator
+8.Light Elemental
+----------------------------------------
+Cait usa Attack
+Alfyn recibe 0 de daño físico
+Alfyn termina con HP:5336
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:369/369 BP:2
+B-Throné - HP:4447/4447 SP:332/332 BP:1
+C-Alfyn - HP:5336/5336 SP:383/383 BP:2
+D-Tressa - HP:4891/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-War Wolf - HP:3548/3548 Shields:2
+C-Curator - HP:1530/1530 Shields:3
+D-Cait - HP:500/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Ochette
+3.Alfyn
+4.Tressa
+5.War Wolf
+6.Curator
+7.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Throné
+3.Ochette
+4.Alfyn
+5.Tressa
+6.War Wolf
+7.Curator
+8.Light Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:369/369 BP:2
+B-Throné - HP:4447/4447 SP:332/332 BP:1
+C-Alfyn - HP:5336/5336 SP:383/383 BP:2
+D-Tressa - HP:4891/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-War Wolf - HP:3548/3548 Shields:2
+C-Curator - HP:1530/1530 Shields:3
+D-Cait - HP:500/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Alfyn
+3.Tressa
+4.War Wolf
+5.Curator
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cait
+3.Ochette
+4.Alfyn
+5.Tressa
+6.War Wolf
+7.Curator
+8.Light Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Light Elemental - HP:1880/1880 Shields:4
+2: War Wolf - HP:3548/3548 Shields:2
+3: Curator - HP:1530/1530 Shields:3
+4: Cait - HP:500/500 Shields:2
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette ataca
+Curator recibe 550 de daño de tipo Bow con debilidad
+Curator termina con HP:980
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:369/369 BP:2
+B-Throné - HP:4447/4447 SP:332/332 BP:1
+C-Alfyn - HP:5336/5336 SP:383/383 BP:2
+D-Tressa - HP:4891/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-War Wolf - HP:3548/3548 Shields:2
+C-Curator - HP:980/1530 Shields:2
+D-Cait - HP:500/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Tressa
+3.War Wolf
+4.Curator
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cait
+3.Ochette
+4.Alfyn
+5.Tressa
+6.War Wolf
+7.Curator
+8.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Light Elemental - HP:1880/1880 Shields:4
+2: War Wolf - HP:3548/3548 Shields:2
+3: Curator - HP:980/1530 Shields:2
+4: Cait - HP:500/500 Shields:2
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Cait recibe 107 de daño de tipo Axe con debilidad
+Cait termina con HP:393
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:369/369 BP:2
+B-Throné - HP:4447/4447 SP:332/332 BP:1
+C-Alfyn - HP:5336/5336 SP:383/383 BP:2
+D-Tressa - HP:4891/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-War Wolf - HP:3548/3548 Shields:2
+C-Curator - HP:980/1530 Shields:2
+D-Cait - HP:393/500 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.War Wolf
+3.Curator
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cait
+3.Ochette
+4.Alfyn
+5.Tressa
+6.War Wolf
+7.Curator
+8.Light Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Light Elemental - HP:1880/1880 Shields:4
+2: War Wolf - HP:3548/3548 Shields:2
+3: Curator - HP:980/1530 Shields:2
+4: Cait - HP:393/500 Shields:1
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Light Elemental recibe 191 de daño de tipo Bow
+Light Elemental termina con HP:1689
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:369/369 BP:2
+B-Throné - HP:4447/4447 SP:332/332 BP:1
+C-Alfyn - HP:5336/5336 SP:383/383 BP:2
+D-Tressa - HP:4891/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1689/1880 Shields:4
+B-War Wolf - HP:3548/3548 Shields:2
+C-Curator - HP:980/1530 Shields:2
+D-Cait - HP:393/500 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+2.Curator
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cait
+3.Ochette
+4.Alfyn
+5.Tressa
+6.War Wolf
+7.Curator
+8.Light Elemental
+----------------------------------------
+War Wolf usa Attack
+Alfyn recibe 60 de daño físico
+Alfyn termina con HP:5276
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:369/369 BP:2
+B-Throné - HP:4447/4447 SP:332/332 BP:1
+C-Alfyn - HP:5276/5336 SP:383/383 BP:2
+D-Tressa - HP:4891/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1689/1880 Shields:4
+B-War Wolf - HP:3548/3548 Shields:2
+C-Curator - HP:980/1530 Shields:2
+D-Cait - HP:393/500 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Curator
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cait
+3.Ochette
+4.Alfyn
+5.Tressa
+6.War Wolf
+7.Curator
+8.Light Elemental
+----------------------------------------
+Curator usa Augmented Magic
+Light Elemental tendrá Increased Elemental Attack durante 2 rondas
+Light Elemental tendrá Increased Elemental Defense durante 2 rondas
+War Wolf tendrá Increased Elemental Attack durante 2 rondas
+War Wolf tendrá Increased Elemental Defense durante 2 rondas
+Cait tendrá Increased Elemental Attack durante 2 rondas
+Cait tendrá Increased Elemental Defense durante 2 rondas
+Curator tendrá Increased Elemental Attack durante 2 rondas
+Curator tendrá Increased Elemental Defense durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:369/369 BP:2
+B-Throné - HP:4447/4447 SP:332/332 BP:1
+C-Alfyn - HP:5276/5336 SP:383/383 BP:2
+D-Tressa - HP:4891/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1689/1880 Shields:4
+B-War Wolf - HP:3548/3548 Shields:2
+C-Curator - HP:980/1530 Shields:2
+D-Cait - HP:393/500 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cait
+3.Ochette
+4.Alfyn
+5.Tressa
+6.War Wolf
+7.Curator
+8.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Throné se defiende
+Throné recibe 74 de daño elemental
+Throné termina con HP:4373
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:369/369 BP:3
+B-Throné - HP:4373/4447 SP:332/332 BP:2
+C-Alfyn - HP:5276/5336 SP:383/383 BP:3
+D-Tressa - HP:4891/4891 SP:357/357 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:1689/1880 Shields:4
+B-War Wolf - HP:3548/3548 Shields:2
+C-Curator - HP:980/1530 Shields:2
+D-Cait - HP:393/500 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Cait
+3.Ochette
+4.Alfyn
+5.Tressa
+6.War Wolf
+7.Curator
+8.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Throné
+3.Ochette
+4.Alfyn
+5.Tressa
+6.War Wolf
+7.Curator
+8.Light Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:369/369 BP:3
+B-Throné - HP:4373/4447 SP:332/332 BP:2
+C-Alfyn - HP:5276/5336 SP:383/383 BP:3
+D-Tressa - HP:4891/4891 SP:357/357 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:1689/1880 Shields:4
+B-War Wolf - HP:3548/3548 Shields:2
+C-Curator - HP:980/1530 Shields:2
+D-Cait - HP:393/500 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Ochette
+3.Alfyn
+4.Tressa
+5.War Wolf
+6.Curator
+7.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cait
+3.Ochette
+4.Alfyn
+5.Tressa
+6.War Wolf
+7.Curator
+8.Light Elemental
+----------------------------------------
+Cait usa Attack
+Alfyn recibe 0 de daño físico
+Alfyn termina con HP:5276
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:369/369 BP:3
+B-Throné - HP:4373/4447 SP:332/332 BP:2
+C-Alfyn - HP:5276/5336 SP:383/383 BP:3
+D-Tressa - HP:4891/4891 SP:357/357 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:1689/1880 Shields:4
+B-War Wolf - HP:3548/3548 Shields:2
+C-Curator - HP:980/1530 Shields:2
+D-Cait - HP:393/500 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Alfyn
+3.Tressa
+4.War Wolf
+5.Curator
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cait
+3.Ochette
+4.Alfyn
+5.Tressa
+6.War Wolf
+7.Curator
+8.Light Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Draefendi's Rage
+2: First Aid
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Ochette usa Draefendi's Rage
+Light Elemental recibe 2609 de daño de tipo Bow
+War Wolf recibe 4117 de daño de tipo Bow con debilidad
+Curator recibe 4192 de daño de tipo Bow con debilidad
+Cait recibe 2682 de daño de tipo Bow
+Light Elemental termina con HP:0
+War Wolf termina con HP:0
+Curator termina con HP:0
+Cait termina con HP:0
+----------------------------------------
+Gana equipo del jugador

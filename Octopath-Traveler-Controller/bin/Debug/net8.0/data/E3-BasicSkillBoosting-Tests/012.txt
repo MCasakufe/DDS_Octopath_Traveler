@@ -1,0 +1,589 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+INPUT: 11
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Horned Fly - HP:1205/1205 Shields:2
+C-Lightning Elemental - HP:2133/2133 Shields:4
+D-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Lord of the Flies
+3.Horned Fly
+4.Lightning Elemental
+5.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Lord of the Flies
+3.Horned Fly
+4.Lightning Elemental
+5.Hoary Bear
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Trade Tempest
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Trade Tempest
+Hoary Bear recibe 355 de daño de tipo Wind con debilidad
+Horned Fly recibe 283 de daño de tipo Wind con debilidad
+Lightning Elemental recibe 286 de daño de tipo Wind con debilidad
+Lord of the Flies recibe 177 de daño de tipo Wind con debilidad
+Hoary Bear termina con HP:2333
+Horned Fly termina con HP:922
+Lightning Elemental termina con HP:1847
+Lord of the Flies termina con HP:5413
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:347/357 BP:1
+Equipo del enemigo
+A-Hoary Bear - HP:2333/2688 Shields:2
+B-Horned Fly - HP:922/1205 Shields:1
+C-Lightning Elemental - HP:1847/2133 Shields:3
+D-Lord of the Flies - HP:5413/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Horned Fly
+3.Lightning Elemental
+4.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Lord of the Flies
+3.Horned Fly
+4.Lightning Elemental
+5.Hoary Bear
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Tressa recibe 257 de daño físico
+Tressa termina con HP:4634
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4634/4891 SP:347/357 BP:1
+Equipo del enemigo
+A-Hoary Bear - HP:2333/2688 Shields:2
+B-Horned Fly - HP:922/1205 Shields:1
+C-Lightning Elemental - HP:1847/2133 Shields:3
+D-Lord of the Flies - HP:5413/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Horned Fly
+2.Lightning Elemental
+3.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Lord of the Flies
+3.Horned Fly
+4.Lightning Elemental
+5.Hoary Bear
+----------------------------------------
+Horned Fly usa Attack
+Tressa recibe 179 de daño físico
+Tressa termina con HP:4455
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4455/4891 SP:347/357 BP:1
+Equipo del enemigo
+A-Hoary Bear - HP:2333/2688 Shields:2
+B-Horned Fly - HP:922/1205 Shields:1
+C-Lightning Elemental - HP:1847/2133 Shields:3
+D-Lord of the Flies - HP:5413/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+2.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Lord of the Flies
+3.Horned Fly
+4.Lightning Elemental
+5.Hoary Bear
+----------------------------------------
+Lightning Elemental usa Thundershot
+Tressa recibe 123 de daño elemental
+Tressa termina con HP:4332
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4332/4891 SP:347/357 BP:1
+Equipo del enemigo
+A-Hoary Bear - HP:2333/2688 Shields:2
+B-Horned Fly - HP:922/1205 Shields:1
+C-Lightning Elemental - HP:1847/2133 Shields:3
+D-Lord of the Flies - HP:5413/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Lord of the Flies
+3.Horned Fly
+4.Lightning Elemental
+5.Hoary Bear
+----------------------------------------
+Hoary Bear usa Rampage
+Tressa recibe 208 de daño físico
+Tressa termina con HP:4124
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4124/4891 SP:347/357 BP:2
+Equipo del enemigo
+A-Hoary Bear - HP:2333/2688 Shields:2
+B-Horned Fly - HP:922/1205 Shields:1
+C-Lightning Elemental - HP:1847/2133 Shields:3
+D-Lord of the Flies - HP:5413/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Lord of the Flies
+3.Horned Fly
+4.Lightning Elemental
+5.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Lord of the Flies
+3.Horned Fly
+4.Lightning Elemental
+5.Hoary Bear
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Trade Tempest
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Trade Tempest
+Hoary Bear recibe 355 de daño de tipo Wind con debilidad
+Horned Fly recibe 283 de daño de tipo Wind con debilidad
+Horned Fly entra en Breaking Point
+Lightning Elemental recibe 286 de daño de tipo Wind con debilidad
+Lord of the Flies recibe 177 de daño de tipo Wind con debilidad
+Hoary Bear termina con HP:1978
+Horned Fly termina con HP:639
+Lightning Elemental termina con HP:1561
+Lord of the Flies termina con HP:5236
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4124/4891 SP:337/357 BP:2
+Equipo del enemigo
+A-Hoary Bear - HP:1978/2688 Shields:1
+B-Horned Fly - HP:639/1205 Shields:0
+C-Lightning Elemental - HP:1561/2133 Shields:2
+D-Lord of the Flies - HP:5236/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Lightning Elemental
+3.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Lord of the Flies
+3.Lightning Elemental
+4.Hoary Bear
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Tressa recibe 257 de daño físico
+Tressa termina con HP:3867
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3867/4891 SP:337/357 BP:2
+Equipo del enemigo
+A-Hoary Bear - HP:1978/2688 Shields:1
+B-Horned Fly - HP:639/1205 Shields:0
+C-Lightning Elemental - HP:1561/2133 Shields:2
+D-Lord of the Flies - HP:5236/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+2.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Lord of the Flies
+3.Lightning Elemental
+4.Hoary Bear
+----------------------------------------
+Lightning Elemental usa Thundershot
+Tressa recibe 123 de daño elemental
+Tressa termina con HP:3744
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3744/4891 SP:337/357 BP:2
+Equipo del enemigo
+A-Hoary Bear - HP:1978/2688 Shields:1
+B-Horned Fly - HP:639/1205 Shields:0
+C-Lightning Elemental - HP:1561/2133 Shields:2
+D-Lord of the Flies - HP:5236/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Lord of the Flies
+3.Lightning Elemental
+4.Hoary Bear
+----------------------------------------
+Hoary Bear usa Rampage
+Tressa recibe 208 de daño físico
+Tressa termina con HP:3536
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3536/4891 SP:337/357 BP:3
+Equipo del enemigo
+A-Hoary Bear - HP:1978/2688 Shields:1
+B-Horned Fly - HP:639/1205 Shields:0
+C-Lightning Elemental - HP:1561/2133 Shields:2
+D-Lord of the Flies - HP:5236/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Lord of the Flies
+3.Lightning Elemental
+4.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Horned Fly
+2.Tressa
+3.Lord of the Flies
+4.Lightning Elemental
+5.Hoary Bear
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Trade Tempest
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa usa Trade Tempest
+Hoary Bear recibe 2542 de daño de tipo Wind con debilidad
+Hoary Bear entra en Breaking Point
+Horned Fly recibe 3294 de daño de tipo Wind con debilidad
+Lightning Elemental recibe 2473 de daño de tipo Wind con debilidad
+Lord of the Flies recibe 2364 de daño de tipo Wind con debilidad
+Lord of the Flies entra en Breaking Point
+Hoary Bear termina con HP:0
+Horned Fly termina con HP:0
+Lightning Elemental termina con HP:0
+Lord of the Flies termina con HP:2872
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3536/4891 SP:327/357 BP:0
+Equipo del enemigo
+A-Hoary Bear - HP:0/2688 Shields:0
+B-Horned Fly - HP:0/1205 Shields:0
+C-Lightning Elemental - HP:0/2133 Shields:1
+D-Lord of the Flies - HP:2872/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Trade Tempest
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Tressa usa Trade Tempest
+Lord of the Flies recibe 236 de daño de tipo Wind con debilidad
+Lord of the Flies termina con HP:2636
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3536/4891 SP:317/357 BP:1
+Equipo del enemigo
+A-Hoary Bear - HP:0/2688 Shields:0
+B-Horned Fly - HP:0/1205 Shields:0
+C-Lightning Elemental - HP:0/2133 Shields:1
+D-Lord of the Flies - HP:2636/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Tressa recibe 257 de daño físico
+Tressa termina con HP:3279
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3279/4891 SP:317/357 BP:1
+Equipo del enemigo
+A-Hoary Bear - HP:0/2688 Shields:0
+B-Horned Fly - HP:0/1205 Shields:0
+C-Lightning Elemental - HP:0/2133 Shields:1
+D-Lord of the Flies - HP:2636/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Lord of the Flies
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Trade Tempest
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa usa Trade Tempest
+Lord of the Flies recibe 906 de daño de tipo Wind con debilidad
+Lord of the Flies termina con HP:1730
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3279/4891 SP:307/357 BP:0
+Equipo del enemigo
+A-Hoary Bear - HP:0/2688 Shields:0
+B-Horned Fly - HP:0/1205 Shields:0
+C-Lightning Elemental - HP:0/2133 Shields:1
+D-Lord of the Flies - HP:1730/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Lord of the Flies
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Trade Tempest
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Tressa usa Trade Tempest
+Lord of the Flies recibe 177 de daño de tipo Wind con debilidad
+Lord of the Flies termina con HP:1553
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3279/4891 SP:297/357 BP:0
+Equipo del enemigo
+A-Hoary Bear - HP:0/2688 Shields:0
+B-Horned Fly - HP:0/1205 Shields:0
+C-Lightning Elemental - HP:0/2133 Shields:1
+D-Lord of the Flies - HP:1553/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Tressa recibe 257 de daño físico
+Tressa termina con HP:3022
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3022/4891 SP:297/357 BP:1
+Equipo del enemigo
+A-Hoary Bear - HP:0/2688 Shields:0
+B-Horned Fly - HP:0/1205 Shields:0
+C-Lightning Elemental - HP:0/2133 Shields:1
+D-Lord of the Flies - HP:1553/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Lord of the Flies
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Trade Tempest
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Trade Tempest
+Lord of the Flies recibe 177 de daño de tipo Wind con debilidad
+Lord of the Flies entra en Breaking Point
+Lord of the Flies termina con HP:1376
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3022/4891 SP:287/357 BP:2
+Equipo del enemigo
+A-Hoary Bear - HP:0/2688 Shields:0
+B-Horned Fly - HP:0/1205 Shields:0
+C-Lightning Elemental - HP:0/2133 Shields:1
+D-Lord of the Flies - HP:1376/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Trade Tempest
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa usa Trade Tempest
+Lord of the Flies recibe 2180 de daño de tipo Wind con debilidad
+Lord of the Flies termina con HP:0
+----------------------------------------
+Gana equipo del jugador

@@ -1,0 +1,1497 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 60
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Ochette - HP:4947/4947 SP:369/369 BP:1
+C-Osvald - HP:4057/4057 SP:591/591 BP:1
+D-Cyrus - HP:4057/4057 SP:632/632 BP:1
+Equipo del enemigo
+A-Cultured Cait - HP:600/600 Shields:4
+B-Flying Fish - HP:649/649 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cultured Cait
+2.Ochette
+3.Cyrus
+4.Flying Fish
+5.Olberic
+6.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cultured Cait
+2.Ochette
+3.Cyrus
+4.Flying Fish
+5.Olberic
+6.Osvald
+----------------------------------------
+Cultured Cait usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:5781
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Ochette - HP:4947/4947 SP:369/369 BP:1
+C-Osvald - HP:4057/4057 SP:591/591 BP:1
+D-Cyrus - HP:4057/4057 SP:632/632 BP:1
+Equipo del enemigo
+A-Cultured Cait - HP:600/600 Shields:4
+B-Flying Fish - HP:649/649 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Cyrus
+3.Flying Fish
+4.Olberic
+5.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cultured Cait
+2.Ochette
+3.Cyrus
+4.Flying Fish
+5.Olberic
+6.Osvald
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Shooting Stars
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette usa Shooting Stars
+Cultured Cait recibe 0 de daño de tipo Wind
+Cultured Cait recibe 0 de daño de tipo Light
+Cultured Cait recibe 0 de daño de tipo Dark
+Flying Fish recibe 0 de daño de tipo Wind
+Flying Fish recibe 0 de daño de tipo Light
+Flying Fish recibe 0 de daño de tipo Dark con debilidad
+Cultured Cait termina con HP:600
+Flying Fish termina con HP:649
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Ochette - HP:4947/4947 SP:334/369 BP:1
+C-Osvald - HP:4057/4057 SP:591/591 BP:1
+D-Cyrus - HP:4057/4057 SP:632/632 BP:1
+Equipo del enemigo
+A-Cultured Cait - HP:600/600 Shields:4
+B-Flying Fish - HP:649/649 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Flying Fish
+3.Olberic
+4.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cultured Cait
+2.Ochette
+3.Cyrus
+4.Flying Fish
+5.Olberic
+6.Osvald
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Cultured Cait - HP:600/600 Shields:4
+2: Flying Fish - HP:649/649 Shields:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Flying Fish recibe 0 de daño de tipo Stave
+Flying Fish termina con HP:649
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Ochette - HP:4947/4947 SP:334/369 BP:1
+C-Osvald - HP:4057/4057 SP:591/591 BP:1
+D-Cyrus - HP:4057/4057 SP:632/632 BP:1
+Equipo del enemigo
+A-Cultured Cait - HP:600/600 Shields:4
+B-Flying Fish - HP:649/649 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Flying Fish
+2.Olberic
+3.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cultured Cait
+2.Ochette
+3.Cyrus
+4.Flying Fish
+5.Olberic
+6.Osvald
+----------------------------------------
+Flying Fish usa Attack
+Olberic recibe 196 de daño físico
+Olberic termina con HP:5585
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5585/5781 SP:291/291 BP:1
+B-Ochette - HP:4947/4947 SP:334/369 BP:1
+C-Osvald - HP:4057/4057 SP:591/591 BP:1
+D-Cyrus - HP:4057/4057 SP:632/632 BP:1
+Equipo del enemigo
+A-Cultured Cait - HP:600/600 Shields:4
+B-Flying Fish - HP:649/649 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cultured Cait
+2.Ochette
+3.Cyrus
+4.Flying Fish
+5.Olberic
+6.Osvald
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Cultured Cait - HP:600/600 Shields:4
+2: Flying Fish - HP:649/649 Shields:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Cultured Cait recibe 418 de daño de tipo Sword con debilidad
+Cultured Cait termina con HP:182
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5585/5781 SP:291/291 BP:1
+B-Ochette - HP:4947/4947 SP:334/369 BP:1
+C-Osvald - HP:4057/4057 SP:591/591 BP:1
+D-Cyrus - HP:4057/4057 SP:632/632 BP:1
+Equipo del enemigo
+A-Cultured Cait - HP:182/600 Shields:3
+B-Flying Fish - HP:649/649 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cultured Cait
+2.Ochette
+3.Cyrus
+4.Flying Fish
+5.Olberic
+6.Osvald
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Last Stand
+2: Revive
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Revive
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5585/5781 SP:291/291 BP:2
+B-Ochette - HP:4947/4947 SP:334/369 BP:2
+C-Osvald - HP:4057/4057 SP:541/591 BP:2
+D-Cyrus - HP:4057/4057 SP:632/632 BP:2
+Equipo del enemigo
+A-Cultured Cait - HP:182/600 Shields:3
+B-Flying Fish - HP:649/649 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cultured Cait
+2.Ochette
+3.Cyrus
+4.Flying Fish
+5.Olberic
+6.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cultured Cait
+2.Ochette
+3.Cyrus
+4.Flying Fish
+5.Olberic
+6.Osvald
+----------------------------------------
+Cultured Cait usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:5585
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5585/5781 SP:291/291 BP:2
+B-Ochette - HP:4947/4947 SP:334/369 BP:2
+C-Osvald - HP:4057/4057 SP:541/591 BP:2
+D-Cyrus - HP:4057/4057 SP:632/632 BP:2
+Equipo del enemigo
+A-Cultured Cait - HP:182/600 Shields:3
+B-Flying Fish - HP:649/649 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Cyrus
+3.Flying Fish
+4.Olberic
+5.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cultured Cait
+2.Ochette
+3.Cyrus
+4.Flying Fish
+5.Olberic
+6.Osvald
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Shooting Stars
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette usa Shooting Stars
+Cultured Cait recibe 0 de daño de tipo Wind
+Cultured Cait recibe 0 de daño de tipo Light
+Cultured Cait recibe 0 de daño de tipo Dark
+Flying Fish recibe 0 de daño de tipo Wind
+Flying Fish recibe 0 de daño de tipo Light
+Flying Fish recibe 0 de daño de tipo Dark con debilidad
+Cultured Cait termina con HP:182
+Flying Fish termina con HP:649
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5585/5781 SP:291/291 BP:2
+B-Ochette - HP:4947/4947 SP:299/369 BP:2
+C-Osvald - HP:4057/4057 SP:541/591 BP:2
+D-Cyrus - HP:4057/4057 SP:632/632 BP:2
+Equipo del enemigo
+A-Cultured Cait - HP:182/600 Shields:3
+B-Flying Fish - HP:649/649 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Flying Fish
+3.Olberic
+4.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cultured Cait
+2.Ochette
+3.Cyrus
+4.Flying Fish
+5.Olberic
+6.Osvald
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5585/5781 SP:291/291 BP:2
+B-Ochette - HP:4947/4947 SP:299/369 BP:2
+C-Osvald - HP:4057/4057 SP:541/591 BP:2
+D-Cyrus - HP:4057/4057 SP:632/632 BP:2
+Equipo del enemigo
+A-Cultured Cait - HP:182/600 Shields:3
+B-Flying Fish - HP:649/649 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Flying Fish
+2.Olberic
+3.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Cultured Cait
+3.Ochette
+4.Flying Fish
+5.Olberic
+6.Osvald
+----------------------------------------
+Flying Fish usa Attack
+Olberic recibe 196 de daño físico
+Olberic termina con HP:5389
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5389/5781 SP:291/291 BP:2
+B-Ochette - HP:4947/4947 SP:299/369 BP:2
+C-Osvald - HP:4057/4057 SP:541/591 BP:2
+D-Cyrus - HP:4057/4057 SP:632/632 BP:2
+Equipo del enemigo
+A-Cultured Cait - HP:182/600 Shields:3
+B-Flying Fish - HP:649/649 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Cultured Cait
+3.Ochette
+4.Flying Fish
+5.Olberic
+6.Osvald
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Leghold Trap
+2: Icicle
+3: Wildfire
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Cultured Cait - HP:182/600 Shields:3
+2: Flying Fish - HP:649/649 Shields:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Icicle
+Cultured Cait recibe 0 de daño de tipo Ice
+Cultured Cait termina con HP:182
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5389/5781 SP:284/291 BP:2
+B-Ochette - HP:4947/4947 SP:299/369 BP:2
+C-Osvald - HP:4057/4057 SP:541/591 BP:2
+D-Cyrus - HP:4057/4057 SP:632/632 BP:2
+Equipo del enemigo
+A-Cultured Cait - HP:182/600 Shields:3
+B-Flying Fish - HP:649/649 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Cultured Cait
+3.Ochette
+4.Flying Fish
+5.Olberic
+6.Osvald
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Last Stand
+2: Revive
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Last Stand
+Cultured Cait recibe 75 de daño de tipo Axe con debilidad
+Flying Fish recibe 13 de daño de tipo Axe
+Cultured Cait termina con HP:107
+Flying Fish termina con HP:636
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5389/5781 SP:284/291 BP:3
+B-Ochette - HP:4947/4947 SP:299/369 BP:3
+C-Osvald - HP:4057/4057 SP:525/591 BP:3
+D-Cyrus - HP:4057/4057 SP:632/632 BP:3
+Equipo del enemigo
+A-Cultured Cait - HP:107/600 Shields:2
+B-Flying Fish - HP:636/649 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Cultured Cait
+3.Ochette
+4.Flying Fish
+5.Olberic
+6.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cultured Cait
+2.Ochette
+3.Cyrus
+4.Flying Fish
+5.Olberic
+6.Osvald
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Amputation
+2: Last Stand
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Cultured Cait - HP:107/600 Shields:2
+2: Flying Fish - HP:636/649 Shields:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Amputation
+Flying Fish recibe 14 de daño de tipo Axe
+Flying Fish termina con HP:622
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5389/5781 SP:284/291 BP:3
+B-Ochette - HP:4947/4947 SP:299/369 BP:3
+C-Osvald - HP:4057/4057 SP:525/591 BP:3
+D-Cyrus - HP:4057/4057 SP:624/632 BP:3
+Equipo del enemigo
+A-Cultured Cait - HP:107/600 Shields:2
+B-Flying Fish - HP:622/649 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cultured Cait
+2.Ochette
+3.Flying Fish
+4.Olberic
+5.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cultured Cait
+2.Ochette
+3.Cyrus
+4.Flying Fish
+5.Olberic
+6.Osvald
+----------------------------------------
+Cultured Cait usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:5389
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5389/5781 SP:284/291 BP:3
+B-Ochette - HP:4947/4947 SP:299/369 BP:3
+C-Osvald - HP:4057/4057 SP:525/591 BP:3
+D-Cyrus - HP:4057/4057 SP:624/632 BP:3
+Equipo del enemigo
+A-Cultured Cait - HP:107/600 Shields:2
+B-Flying Fish - HP:622/649 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Flying Fish
+3.Olberic
+4.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cultured Cait
+2.Ochette
+3.Cyrus
+4.Flying Fish
+5.Olberic
+6.Osvald
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5389/5781 SP:284/291 BP:3
+B-Ochette - HP:4947/4947 SP:299/369 BP:3
+C-Osvald - HP:4057/4057 SP:525/591 BP:3
+D-Cyrus - HP:4057/4057 SP:624/632 BP:3
+Equipo del enemigo
+A-Cultured Cait - HP:107/600 Shields:2
+B-Flying Fish - HP:622/649 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Flying Fish
+2.Olberic
+3.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Cultured Cait
+3.Cyrus
+4.Flying Fish
+5.Olberic
+6.Osvald
+----------------------------------------
+Flying Fish usa Attack
+Olberic recibe 196 de daño físico
+Olberic termina con HP:5193
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5193/5781 SP:284/291 BP:3
+B-Ochette - HP:4947/4947 SP:299/369 BP:3
+C-Osvald - HP:4057/4057 SP:525/591 BP:3
+D-Cyrus - HP:4057/4057 SP:624/632 BP:3
+Equipo del enemigo
+A-Cultured Cait - HP:107/600 Shields:2
+B-Flying Fish - HP:622/649 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Cultured Cait
+3.Cyrus
+4.Flying Fish
+5.Olberic
+6.Osvald
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Cultured Cait - HP:107/600 Shields:2
+2: Flying Fish - HP:622/649 Shields:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Cultured Cait recibe 418 de daño de tipo Sword con debilidad
+Cultured Cait termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5193/5781 SP:284/291 BP:3
+B-Ochette - HP:4947/4947 SP:299/369 BP:3
+C-Osvald - HP:4057/4057 SP:525/591 BP:3
+D-Cyrus - HP:4057/4057 SP:624/632 BP:3
+Equipo del enemigo
+A-Cultured Cait - HP:0/600 Shields:1
+B-Flying Fish - HP:622/649 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Cyrus
+3.Flying Fish
+4.Olberic
+5.Osvald
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5193/5781 SP:284/291 BP:4
+B-Ochette - HP:4947/4947 SP:299/369 BP:4
+C-Osvald - HP:4057/4057 SP:525/591 BP:4
+D-Cyrus - HP:4057/4057 SP:624/632 BP:4
+Equipo del enemigo
+A-Cultured Cait - HP:0/600 Shields:1
+B-Flying Fish - HP:622/649 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Osvald
+3.Cyrus
+4.Flying Fish
+5.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Cyrus
+3.Flying Fish
+4.Olberic
+5.Osvald
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5193/5781 SP:284/291 BP:4
+B-Ochette - HP:4947/4947 SP:299/369 BP:4
+C-Osvald - HP:4057/4057 SP:525/591 BP:4
+D-Cyrus - HP:4057/4057 SP:624/632 BP:4
+Equipo del enemigo
+A-Cultured Cait - HP:0/600 Shields:1
+B-Flying Fish - HP:622/649 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Cyrus
+3.Flying Fish
+4.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Cyrus
+3.Flying Fish
+4.Olberic
+5.Osvald
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Flying Fish - HP:622/649 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Flying Fish recibe 0 de daño de tipo Stave
+Flying Fish termina con HP:622
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5193/5781 SP:284/291 BP:4
+B-Ochette - HP:4947/4947 SP:299/369 BP:4
+C-Osvald - HP:4057/4057 SP:525/591 BP:4
+D-Cyrus - HP:4057/4057 SP:624/632 BP:4
+Equipo del enemigo
+A-Cultured Cait - HP:0/600 Shields:1
+B-Flying Fish - HP:622/649 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Flying Fish
+3.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Cyrus
+3.Flying Fish
+4.Olberic
+5.Osvald
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Flying Fish - HP:622/649 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Flying Fish recibe 0 de daño de tipo Stave
+Flying Fish termina con HP:622
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5193/5781 SP:284/291 BP:4
+B-Ochette - HP:4947/4947 SP:299/369 BP:4
+C-Osvald - HP:4057/4057 SP:525/591 BP:4
+D-Cyrus - HP:4057/4057 SP:624/632 BP:4
+Equipo del enemigo
+A-Cultured Cait - HP:0/600 Shields:1
+B-Flying Fish - HP:622/649 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Flying Fish
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Cyrus
+3.Flying Fish
+4.Olberic
+5.Osvald
+----------------------------------------
+Flying Fish usa Attack
+Olberic recibe 196 de daño físico
+Olberic termina con HP:4997
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4997/5781 SP:284/291 BP:4
+B-Ochette - HP:4947/4947 SP:299/369 BP:4
+C-Osvald - HP:4057/4057 SP:525/591 BP:4
+D-Cyrus - HP:4057/4057 SP:624/632 BP:4
+Equipo del enemigo
+A-Cultured Cait - HP:0/600 Shields:1
+B-Flying Fish - HP:622/649 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Cyrus
+3.Flying Fish
+4.Olberic
+5.Osvald
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Leghold Trap
+2: Icicle
+3: Wildfire
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Flying Fish - HP:622/649 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Wildfire
+Flying Fish recibe 10 de daño de tipo Fire
+Flying Fish termina con HP:612
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4997/5781 SP:277/291 BP:5
+B-Ochette - HP:4947/4947 SP:299/369 BP:5
+C-Osvald - HP:4057/4057 SP:525/591 BP:5
+D-Cyrus - HP:4057/4057 SP:624/632 BP:5
+Equipo del enemigo
+A-Cultured Cait - HP:0/600 Shields:1
+B-Flying Fish - HP:612/649 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Cyrus
+3.Flying Fish
+4.Olberic
+5.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Cyrus
+3.Flying Fish
+4.Olberic
+5.Osvald
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Shooting Stars
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette usa Shooting Stars
+Flying Fish recibe 0 de daño de tipo Wind
+Flying Fish recibe 0 de daño de tipo Light
+Flying Fish recibe 0 de daño de tipo Dark con debilidad
+Flying Fish termina con HP:612
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4997/5781 SP:277/291 BP:5
+B-Ochette - HP:4947/4947 SP:264/369 BP:5
+C-Osvald - HP:4057/4057 SP:525/591 BP:5
+D-Cyrus - HP:4057/4057 SP:624/632 BP:5
+Equipo del enemigo
+A-Cultured Cait - HP:0/600 Shields:1
+B-Flying Fish - HP:612/649 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Flying Fish
+3.Olberic
+4.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Cyrus
+3.Flying Fish
+4.Olberic
+5.Osvald
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Amputation
+2: Last Stand
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Flying Fish - HP:612/649 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Amputation
+Flying Fish recibe 14 de daño de tipo Axe
+Flying Fish termina con HP:598
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4997/5781 SP:277/291 BP:5
+B-Ochette - HP:4947/4947 SP:264/369 BP:5
+C-Osvald - HP:4057/4057 SP:525/591 BP:5
+D-Cyrus - HP:4057/4057 SP:616/632 BP:5
+Equipo del enemigo
+A-Cultured Cait - HP:0/600 Shields:1
+B-Flying Fish - HP:598/649 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Flying Fish
+2.Olberic
+3.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Cyrus
+3.Flying Fish
+4.Olberic
+5.Osvald
+----------------------------------------
+Flying Fish usa Attack
+Olberic recibe 196 de daño físico
+Olberic termina con HP:4801
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4801/5781 SP:277/291 BP:5
+B-Ochette - HP:4947/4947 SP:264/369 BP:5
+C-Osvald - HP:4057/4057 SP:525/591 BP:5
+D-Cyrus - HP:4057/4057 SP:616/632 BP:5
+Equipo del enemigo
+A-Cultured Cait - HP:0/600 Shields:1
+B-Flying Fish - HP:598/649 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Cyrus
+3.Flying Fish
+4.Olberic
+5.Osvald
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Flying Fish - HP:598/649 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Flying Fish recibe 363 de daño de tipo Sword con debilidad
+Flying Fish termina con HP:235
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4801/5781 SP:277/291 BP:5
+B-Ochette - HP:4947/4947 SP:264/369 BP:5
+C-Osvald - HP:4057/4057 SP:525/591 BP:5
+D-Cyrus - HP:4057/4057 SP:616/632 BP:5
+Equipo del enemigo
+A-Cultured Cait - HP:0/600 Shields:1
+B-Flying Fish - HP:235/649 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Cyrus
+3.Flying Fish
+4.Olberic
+5.Osvald
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Flying Fish - HP:235/649 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Flying Fish recibe 0 de daño de tipo Stave
+Flying Fish termina con HP:235
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4801/5781 SP:277/291 BP:5
+B-Ochette - HP:4947/4947 SP:264/369 BP:5
+C-Osvald - HP:4057/4057 SP:525/591 BP:5
+D-Cyrus - HP:4057/4057 SP:616/632 BP:5
+Equipo del enemigo
+A-Cultured Cait - HP:0/600 Shields:1
+B-Flying Fish - HP:235/649 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Cyrus
+3.Flying Fish
+4.Olberic
+5.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Cyrus
+3.Flying Fish
+4.Olberic
+5.Osvald
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Flying Fish - HP:235/649 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette ataca
+Flying Fish recibe 166 de daño de tipo Axe
+Flying Fish termina con HP:69
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4801/5781 SP:277/291 BP:5
+B-Ochette - HP:4947/4947 SP:264/369 BP:5
+C-Osvald - HP:4057/4057 SP:525/591 BP:5
+D-Cyrus - HP:4057/4057 SP:616/632 BP:5
+Equipo del enemigo
+A-Cultured Cait - HP:0/600 Shields:1
+B-Flying Fish - HP:69/649 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Flying Fish
+3.Olberic
+4.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Cyrus
+3.Flying Fish
+4.Olberic
+5.Osvald
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4801/5781 SP:277/291 BP:5
+B-Ochette - HP:4947/4947 SP:264/369 BP:5
+C-Osvald - HP:4057/4057 SP:525/591 BP:5
+D-Cyrus - HP:4057/4057 SP:616/632 BP:5
+Equipo del enemigo
+A-Cultured Cait - HP:0/600 Shields:1
+B-Flying Fish - HP:69/649 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Flying Fish
+2.Olberic
+3.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ochette
+3.Flying Fish
+4.Olberic
+5.Osvald
+----------------------------------------
+Flying Fish usa Attack
+Ochette recibe 363 de daño físico
+Ochette termina con HP:4584
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4801/5781 SP:277/291 BP:5
+B-Ochette - HP:4584/4947 SP:264/369 BP:5
+C-Osvald - HP:4057/4057 SP:525/591 BP:5
+D-Cyrus - HP:4057/4057 SP:616/632 BP:5
+Equipo del enemigo
+A-Cultured Cait - HP:0/600 Shields:1
+B-Flying Fish - HP:69/649 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ochette
+3.Flying Fish
+4.Olberic
+5.Osvald
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Leghold Trap
+2: Icicle
+3: Wildfire
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Flying Fish - HP:69/649 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Leghold Trap
+Flying Fish tendrá menor prioridad de turno durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4801/5781 SP:271/291 BP:5
+B-Ochette - HP:4584/4947 SP:264/369 BP:5
+C-Osvald - HP:4057/4057 SP:525/591 BP:5
+D-Cyrus - HP:4057/4057 SP:616/632 BP:5
+Equipo del enemigo
+A-Cultured Cait - HP:0/600 Shields:1
+B-Flying Fish - HP:69/649 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ochette
+3.Olberic
+4.Osvald
+5.Flying Fish
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4801/5781 SP:271/291 BP:5
+B-Ochette - HP:4584/4947 SP:264/369 BP:5
+C-Osvald - HP:4057/4057 SP:525/591 BP:5
+D-Cyrus - HP:4057/4057 SP:616/632 BP:5
+Equipo del enemigo
+A-Cultured Cait - HP:0/600 Shields:1
+B-Flying Fish - HP:69/649 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Osvald
+3.Ochette
+4.Olberic
+5.Flying Fish
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Cyrus
+3.Flying Fish
+4.Olberic
+5.Osvald
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4801/5781 SP:271/291 BP:5
+B-Ochette - HP:4584/4947 SP:264/369 BP:5
+C-Osvald - HP:4057/4057 SP:525/591 BP:5
+D-Cyrus - HP:4057/4057 SP:616/632 BP:5
+Equipo del enemigo
+A-Cultured Cait - HP:0/600 Shields:1
+B-Flying Fish - HP:69/649 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Ochette
+3.Olberic
+4.Flying Fish
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ochette
+3.Flying Fish
+4.Olberic
+5.Osvald
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Last Stand
+2: Revive
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Revive
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4801/5781 SP:271/291 BP:5
+B-Ochette - HP:4584/4947 SP:264/369 BP:5
+C-Osvald - HP:4057/4057 SP:475/591 BP:5
+D-Cyrus - HP:4057/4057 SP:616/632 BP:5
+Equipo del enemigo
+A-Cultured Cait - HP:0/600 Shields:1
+B-Flying Fish - HP:69/649 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Olberic
+3.Flying Fish
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ochette
+3.Flying Fish
+4.Olberic
+5.Osvald
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4801/5781 SP:271/291 BP:5
+B-Ochette - HP:4584/4947 SP:264/369 BP:5
+C-Osvald - HP:4057/4057 SP:475/591 BP:5
+D-Cyrus - HP:4057/4057 SP:616/632 BP:5
+Equipo del enemigo
+A-Cultured Cait - HP:0/600 Shields:1
+B-Flying Fish - HP:69/649 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Flying Fish
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Cyrus
+3.Flying Fish
+4.Olberic
+5.Osvald
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Flying Fish - HP:69/649 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Flying Fish recibe 242 de daño de tipo Spear
+Flying Fish termina con HP:0
+----------------------------------------
+Gana equipo del jugador

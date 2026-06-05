@@ -1,10 +1,5 @@
 namespace Octopath_Traveler_Models.Battle;
 
-internal sealed record TravelerBasicAttackHitExecutionRequest(
-    TravelerCombatUnit Traveler,
-    BeastCombatUnit Target,
-    string WeaponType);
-
 internal sealed class TravelerBasicAttackHitExecutor
 {
     private const double BasicAttackModifier = 1.3;
@@ -27,8 +22,7 @@ internal sealed class TravelerBasicAttackHitExecutor
 
     private static BeastHitRequest BuildHitRequest(TravelerBasicAttackHitExecutionRequest executionRequest)
         => new(
-            executionRequest.Traveler.PhysAtk,
-            executionRequest.Traveler.ElemAtk,
+            executionRequest.Traveler,
             executionRequest.Target,
             executionRequest.WeaponType,
             BasicAttackModifier);

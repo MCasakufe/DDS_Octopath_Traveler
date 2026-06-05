@@ -1,0 +1,1204 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+INPUT: 19
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:3322/3322 SP:342/342 BP:1
+B-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:7500/7500 Shields:10
+B-Ice Wisp - HP:801/801 Shields:1
+C-Lightning Elemental - HP:2133/2133 Shields:4
+D-Highland Ratkin I - HP:1000/1000 Shields:1
+E-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Olberic
+3.Highland Ratkin I
+4.Mad Ratkin
+5.Devourer of Dreams
+6.Ice Wisp
+7.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Olberic
+3.Highland Ratkin I
+4.Mad Ratkin
+5.Devourer of Dreams
+6.Ice Wisp
+7.Lightning Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Devourer of Dreams - HP:7500/7500 Shields:10
+2: Ice Wisp - HP:801/801 Shields:1
+3: Lightning Elemental - HP:2133/2133 Shields:4
+4: Highland Ratkin I - HP:1000/1000 Shields:1
+5: Mad Ratkin - HP:1233/1233 Shields:1
+6: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore ataca
+Ice Wisp recibe 323 de daño de tipo Axe
+Ice Wisp termina con HP:478
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:3322/3322 SP:342/342 BP:1
+B-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:7500/7500 Shields:10
+B-Ice Wisp - HP:478/801 Shields:1
+C-Lightning Elemental - HP:2133/2133 Shields:4
+D-Highland Ratkin I - HP:1000/1000 Shields:1
+E-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Devourer of Dreams
+5.Ice Wisp
+6.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Olberic
+3.Highland Ratkin I
+4.Mad Ratkin
+5.Devourer of Dreams
+6.Ice Wisp
+7.Lightning Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Fireball
+Devourer of Dreams recibe 113 de daño de tipo Fire
+Ice Wisp recibe 388 de daño de tipo Fire con debilidad
+Ice Wisp entra en Breaking Point
+Lightning Elemental recibe 14 de daño de tipo Fire con debilidad
+Highland Ratkin I recibe 0 de daño de tipo Fire
+Mad Ratkin recibe 72 de daño de tipo Fire
+Devourer of Dreams termina con HP:7387
+Ice Wisp termina con HP:90
+Lightning Elemental termina con HP:2119
+Highland Ratkin I termina con HP:1000
+Mad Ratkin termina con HP:1161
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:3322/3322 SP:342/342 BP:1
+B-Olberic - HP:5781/5781 SP:283/291 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:7387/7500 Shields:10
+B-Ice Wisp - HP:90/801 Shields:0
+C-Lightning Elemental - HP:2119/2133 Shields:3
+D-Highland Ratkin I - HP:1000/1000 Shields:1
+E-Mad Ratkin - HP:1161/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Devourer of Dreams
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Olberic
+3.Highland Ratkin I
+4.Mad Ratkin
+5.Devourer of Dreams
+6.Lightning Elemental
+----------------------------------------
+Highland Ratkin I usa Stab
+Heatcore recibe 375 de daño físico
+Heatcore termina con HP:2947
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2947/3322 SP:342/342 BP:1
+B-Olberic - HP:5781/5781 SP:283/291 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:7387/7500 Shields:10
+B-Ice Wisp - HP:90/801 Shields:0
+C-Lightning Elemental - HP:2119/2133 Shields:3
+D-Highland Ratkin I - HP:1000/1000 Shields:1
+E-Mad Ratkin - HP:1161/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Devourer of Dreams
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Olberic
+3.Highland Ratkin I
+4.Mad Ratkin
+5.Devourer of Dreams
+6.Lightning Elemental
+----------------------------------------
+Mad Ratkin usa Stab
+Heatcore recibe 329 de daño físico
+Heatcore termina con HP:2618
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2618/3322 SP:342/342 BP:1
+B-Olberic - HP:5781/5781 SP:283/291 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:7387/7500 Shields:10
+B-Ice Wisp - HP:90/801 Shields:0
+C-Lightning Elemental - HP:2119/2133 Shields:3
+D-Highland Ratkin I - HP:1000/1000 Shields:1
+E-Mad Ratkin - HP:1161/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Olberic
+3.Highland Ratkin I
+4.Mad Ratkin
+5.Devourer of Dreams
+6.Lightning Elemental
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Heatcore recibe 1309 de daño
+Olberic recibe 2891 de daño
+Heatcore termina con HP:1309
+Olberic termina con HP:2890
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1309/3322 SP:342/342 BP:1
+B-Olberic - HP:2890/5781 SP:283/291 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:7387/7500 Shields:10
+B-Ice Wisp - HP:90/801 Shields:0
+C-Lightning Elemental - HP:2119/2133 Shields:3
+D-Highland Ratkin I - HP:1000/1000 Shields:1
+E-Mad Ratkin - HP:1161/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Olberic
+3.Highland Ratkin I
+4.Mad Ratkin
+5.Devourer of Dreams
+6.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Heatcore recibe 155 de daño elemental
+Heatcore termina con HP:1154
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1154/3322 SP:342/342 BP:2
+B-Olberic - HP:2890/5781 SP:283/291 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:7387/7500 Shields:10
+B-Ice Wisp - HP:90/801 Shields:0
+C-Lightning Elemental - HP:2119/2133 Shields:3
+D-Highland Ratkin I - HP:1000/1000 Shields:1
+E-Mad Ratkin - HP:1161/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Olberic
+3.Highland Ratkin I
+4.Mad Ratkin
+5.Devourer of Dreams
+6.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ice Wisp
+2.Heatcore
+3.Olberic
+4.Highland Ratkin I
+5.Mad Ratkin
+6.Devourer of Dreams
+7.Lightning Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Ethereal Healing
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Heatcore usa Ethereal Healing
+Olberic tendrá restauración de HP durante 4 rondas
+Heatcore tendrá restauración de HP durante 4 rondas
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1486/3322 SP:312/342 BP:0
+B-Olberic - HP:2890/5781 SP:283/291 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:7387/7500 Shields:10
+B-Ice Wisp - HP:90/801 Shields:0
+C-Lightning Elemental - HP:2119/2133 Shields:3
+D-Highland Ratkin I - HP:1000/1000 Shields:1
+E-Mad Ratkin - HP:1161/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Devourer of Dreams
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ice Wisp
+2.Heatcore
+3.Olberic
+4.Highland Ratkin I
+5.Mad Ratkin
+6.Devourer of Dreams
+7.Lightning Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Fireball
+Devourer of Dreams recibe 113 de daño de tipo Fire
+Ice Wisp recibe 517 de daño de tipo Fire con debilidad
+Lightning Elemental recibe 14 de daño de tipo Fire con debilidad
+Highland Ratkin I recibe 0 de daño de tipo Fire
+Mad Ratkin recibe 72 de daño de tipo Fire
+Devourer of Dreams termina con HP:7274
+Ice Wisp termina con HP:0
+Lightning Elemental termina con HP:2105
+Highland Ratkin I termina con HP:1000
+Mad Ratkin termina con HP:1089
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1486/3322 SP:312/342 BP:0
+B-Olberic - HP:3468/5781 SP:275/291 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:7274/7500 Shields:10
+B-Ice Wisp - HP:0/801 Shields:0
+C-Lightning Elemental - HP:2105/2133 Shields:2
+D-Highland Ratkin I - HP:1000/1000 Shields:1
+E-Mad Ratkin - HP:1089/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Devourer of Dreams
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Olberic
+3.Highland Ratkin I
+4.Mad Ratkin
+5.Devourer of Dreams
+6.Lightning Elemental
+----------------------------------------
+Highland Ratkin I usa Stab
+Heatcore recibe 375 de daño físico
+Heatcore termina con HP:1111
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1111/3322 SP:312/342 BP:0
+B-Olberic - HP:3468/5781 SP:275/291 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:7274/7500 Shields:10
+B-Ice Wisp - HP:0/801 Shields:0
+C-Lightning Elemental - HP:2105/2133 Shields:2
+D-Highland Ratkin I - HP:1000/1000 Shields:1
+E-Mad Ratkin - HP:1089/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Devourer of Dreams
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Olberic
+3.Highland Ratkin I
+4.Mad Ratkin
+5.Devourer of Dreams
+6.Lightning Elemental
+----------------------------------------
+Mad Ratkin usa Stab
+Heatcore recibe 329 de daño físico
+Heatcore termina con HP:782
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:782/3322 SP:312/342 BP:0
+B-Olberic - HP:3468/5781 SP:275/291 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:7274/7500 Shields:10
+B-Ice Wisp - HP:0/801 Shields:0
+C-Lightning Elemental - HP:2105/2133 Shields:2
+D-Highland Ratkin I - HP:1000/1000 Shields:1
+E-Mad Ratkin - HP:1089/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Olberic
+3.Highland Ratkin I
+4.Mad Ratkin
+5.Devourer of Dreams
+6.Lightning Elemental
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Heatcore recibe 391 de daño
+Olberic recibe 1734 de daño
+Heatcore termina con HP:391
+Olberic termina con HP:1734
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:391/3322 SP:312/342 BP:0
+B-Olberic - HP:1734/5781 SP:275/291 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:7274/7500 Shields:10
+B-Ice Wisp - HP:0/801 Shields:0
+C-Lightning Elemental - HP:2105/2133 Shields:2
+D-Highland Ratkin I - HP:1000/1000 Shields:1
+E-Mad Ratkin - HP:1089/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Olberic
+3.Highland Ratkin I
+4.Mad Ratkin
+5.Devourer of Dreams
+6.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Heatcore recibe 155 de daño elemental
+Heatcore termina con HP:236
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:236/3322 SP:312/342 BP:0
+B-Olberic - HP:1734/5781 SP:275/291 BP:3
+Equipo del enemigo
+A-Devourer of Dreams - HP:7274/7500 Shields:10
+B-Ice Wisp - HP:0/801 Shields:0
+C-Lightning Elemental - HP:2105/2133 Shields:2
+D-Highland Ratkin I - HP:1000/1000 Shields:1
+E-Mad Ratkin - HP:1089/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Olberic
+3.Highland Ratkin I
+4.Mad Ratkin
+5.Devourer of Dreams
+6.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Olberic
+3.Highland Ratkin I
+4.Mad Ratkin
+5.Devourer of Dreams
+6.Lightning Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Ethereal Healing
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Heatcore usa Ethereal Healing
+Olberic tendrá restauración de HP durante 2 rondas
+Heatcore tendrá restauración de HP durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:568/3322 SP:282/342 BP:0
+B-Olberic - HP:1734/5781 SP:275/291 BP:3
+Equipo del enemigo
+A-Devourer of Dreams - HP:7274/7500 Shields:10
+B-Ice Wisp - HP:0/801 Shields:0
+C-Lightning Elemental - HP:2105/2133 Shields:2
+D-Highland Ratkin I - HP:1000/1000 Shields:1
+E-Mad Ratkin - HP:1089/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Devourer of Dreams
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Olberic
+3.Highland Ratkin I
+4.Mad Ratkin
+5.Devourer of Dreams
+6.Lightning Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:568/3322 SP:282/342 BP:0
+B-Olberic - HP:2312/5781 SP:275/291 BP:3
+Equipo del enemigo
+A-Devourer of Dreams - HP:7274/7500 Shields:10
+B-Ice Wisp - HP:0/801 Shields:0
+C-Lightning Elemental - HP:2105/2133 Shields:2
+D-Highland Ratkin I - HP:1000/1000 Shields:1
+E-Mad Ratkin - HP:1089/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Devourer of Dreams
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Heatcore
+3.Highland Ratkin I
+4.Mad Ratkin
+5.Devourer of Dreams
+6.Lightning Elemental
+----------------------------------------
+Highland Ratkin I usa Stab
+Heatcore recibe 375 de daño físico
+Heatcore termina con HP:193
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:193/3322 SP:282/342 BP:0
+B-Olberic - HP:2312/5781 SP:275/291 BP:3
+Equipo del enemigo
+A-Devourer of Dreams - HP:7274/7500 Shields:10
+B-Ice Wisp - HP:0/801 Shields:0
+C-Lightning Elemental - HP:2105/2133 Shields:2
+D-Highland Ratkin I - HP:1000/1000 Shields:1
+E-Mad Ratkin - HP:1089/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Devourer of Dreams
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Heatcore
+3.Highland Ratkin I
+4.Mad Ratkin
+5.Devourer of Dreams
+6.Lightning Elemental
+----------------------------------------
+Mad Ratkin usa Stab
+Heatcore recibe 329 de daño físico
+Heatcore termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:282/342 BP:0
+B-Olberic - HP:2312/5781 SP:275/291 BP:3
+Equipo del enemigo
+A-Devourer of Dreams - HP:7274/7500 Shields:10
+B-Ice Wisp - HP:0/801 Shields:0
+C-Lightning Elemental - HP:2105/2133 Shields:2
+D-Highland Ratkin I - HP:1000/1000 Shields:1
+E-Mad Ratkin - HP:1089/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Devourer of Dreams
+5.Lightning Elemental
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Olberic recibe 1156 de daño
+Olberic termina con HP:1156
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:282/342 BP:0
+B-Olberic - HP:1156/5781 SP:275/291 BP:3
+Equipo del enemigo
+A-Devourer of Dreams - HP:7274/7500 Shields:10
+B-Ice Wisp - HP:0/801 Shields:0
+C-Lightning Elemental - HP:2105/2133 Shields:2
+D-Highland Ratkin I - HP:1000/1000 Shields:1
+E-Mad Ratkin - HP:1089/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Devourer of Dreams
+5.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Olberic se defiende
+Olberic recibe 68 de daño elemental
+Olberic termina con HP:1088
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:282/342 BP:0
+B-Olberic - HP:1088/5781 SP:275/291 BP:4
+Equipo del enemigo
+A-Devourer of Dreams - HP:7274/7500 Shields:10
+B-Ice Wisp - HP:0/801 Shields:0
+C-Lightning Elemental - HP:2105/2133 Shields:2
+D-Highland Ratkin I - HP:1000/1000 Shields:1
+E-Mad Ratkin - HP:1089/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Devourer of Dreams
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Devourer of Dreams
+5.Lightning Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Devourer of Dreams - HP:7274/7500 Shields:10
+2: Lightning Elemental - HP:2105/2133 Shields:2
+3: Highland Ratkin I - HP:1000/1000 Shields:1
+4: Mad Ratkin - HP:1089/1233 Shields:1
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Mad Ratkin recibe 283 de daño de tipo Spear con debilidad
+Mad Ratkin entra en Breaking Point
+Mad Ratkin termina con HP:806
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:282/342 BP:0
+B-Olberic - HP:1666/5781 SP:275/291 BP:4
+Equipo del enemigo
+A-Devourer of Dreams - HP:7274/7500 Shields:10
+B-Ice Wisp - HP:0/801 Shields:0
+C-Lightning Elemental - HP:2105/2133 Shields:2
+D-Highland Ratkin I - HP:1000/1000 Shields:1
+E-Mad Ratkin - HP:806/1233 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Devourer of Dreams
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Highland Ratkin I
+3.Devourer of Dreams
+4.Lightning Elemental
+----------------------------------------
+Highland Ratkin I usa Stab
+Olberic recibe 277 de daño físico
+Olberic termina con HP:1389
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:282/342 BP:0
+B-Olberic - HP:1389/5781 SP:275/291 BP:4
+Equipo del enemigo
+A-Devourer of Dreams - HP:7274/7500 Shields:10
+B-Ice Wisp - HP:0/801 Shields:0
+C-Lightning Elemental - HP:2105/2133 Shields:2
+D-Highland Ratkin I - HP:1000/1000 Shields:1
+E-Mad Ratkin - HP:806/1233 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Highland Ratkin I
+3.Devourer of Dreams
+4.Lightning Elemental
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Olberic recibe 695 de daño
+Olberic termina con HP:694
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:282/342 BP:0
+B-Olberic - HP:694/5781 SP:275/291 BP:4
+Equipo del enemigo
+A-Devourer of Dreams - HP:7274/7500 Shields:10
+B-Ice Wisp - HP:0/801 Shields:0
+C-Lightning Elemental - HP:2105/2133 Shields:2
+D-Highland Ratkin I - HP:1000/1000 Shields:1
+E-Mad Ratkin - HP:806/1233 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Highland Ratkin I
+3.Devourer of Dreams
+4.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Olberic recibe 137 de daño elemental
+Olberic termina con HP:557
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:282/342 BP:0
+B-Olberic - HP:557/5781 SP:275/291 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:7274/7500 Shields:10
+B-Ice Wisp - HP:0/801 Shields:0
+C-Lightning Elemental - HP:2105/2133 Shields:2
+D-Highland Ratkin I - HP:1000/1000 Shields:1
+E-Mad Ratkin - HP:806/1233 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Highland Ratkin I
+3.Devourer of Dreams
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Olberic
+3.Highland Ratkin I
+4.Devourer of Dreams
+5.Lightning Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:282/342 BP:0
+B-Olberic - HP:1135/5781 SP:275/291 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:7274/7500 Shields:10
+B-Ice Wisp - HP:0/801 Shields:0
+C-Lightning Elemental - HP:2105/2133 Shields:2
+D-Highland Ratkin I - HP:1000/1000 Shields:1
+E-Mad Ratkin - HP:806/1233 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Devourer of Dreams
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Olberic
+3.Highland Ratkin I
+4.Devourer of Dreams
+5.Lightning Elemental
+----------------------------------------
+Highland Ratkin I usa Stab
+Olberic se defiende
+Olberic recibe 138 de daño físico
+Olberic termina con HP:997
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:282/342 BP:0
+B-Olberic - HP:997/5781 SP:275/291 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:7274/7500 Shields:10
+B-Ice Wisp - HP:0/801 Shields:0
+C-Lightning Elemental - HP:2105/2133 Shields:2
+D-Highland Ratkin I - HP:1000/1000 Shields:1
+E-Mad Ratkin - HP:806/1233 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Olberic
+3.Highland Ratkin I
+4.Devourer of Dreams
+5.Lightning Elemental
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Olberic recibe 499 de daño
+Olberic termina con HP:498
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:282/342 BP:0
+B-Olberic - HP:498/5781 SP:275/291 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:7274/7500 Shields:10
+B-Ice Wisp - HP:0/801 Shields:0
+C-Lightning Elemental - HP:2105/2133 Shields:2
+D-Highland Ratkin I - HP:1000/1000 Shields:1
+E-Mad Ratkin - HP:806/1233 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Olberic
+3.Highland Ratkin I
+4.Devourer of Dreams
+5.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Olberic se defiende
+Olberic recibe 68 de daño elemental
+Olberic termina con HP:430
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:282/342 BP:0
+B-Olberic - HP:430/5781 SP:275/291 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:7274/7500 Shields:10
+B-Ice Wisp - HP:0/801 Shields:0
+C-Lightning Elemental - HP:2105/2133 Shields:2
+D-Highland Ratkin I - HP:1000/1000 Shields:1
+E-Mad Ratkin - HP:806/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Olberic
+3.Highland Ratkin I
+4.Devourer of Dreams
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Devourer of Dreams
+5.Lightning Elemental
+----------------------------------------
+Mad Ratkin usa Stab
+Olberic recibe 231 de daño físico
+Olberic termina con HP:199
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:282/342 BP:0
+B-Olberic - HP:199/5781 SP:275/291 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:7274/7500 Shields:10
+B-Ice Wisp - HP:0/801 Shields:0
+C-Lightning Elemental - HP:2105/2133 Shields:2
+D-Highland Ratkin I - HP:1000/1000 Shields:1
+E-Mad Ratkin - HP:806/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Highland Ratkin I
+3.Devourer of Dreams
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Devourer of Dreams
+5.Lightning Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Devourer of Dreams - HP:7274/7500 Shields:10
+2: Lightning Elemental - HP:2105/2133 Shields:2
+3: Highland Ratkin I - HP:1000/1000 Shields:1
+4: Mad Ratkin - HP:806/1233 Shields:1
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Highland Ratkin I recibe 0 de daño de tipo Sword con debilidad
+Highland Ratkin I termina con HP:1000
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:282/342 BP:0
+B-Olberic - HP:777/5781 SP:275/291 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:7274/7500 Shields:10
+B-Ice Wisp - HP:0/801 Shields:0
+C-Lightning Elemental - HP:2105/2133 Shields:2
+D-Highland Ratkin I - HP:1000/1000 Shields:1
+E-Mad Ratkin - HP:806/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Devourer of Dreams
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Devourer of Dreams
+5.Lightning Elemental
+----------------------------------------
+Highland Ratkin I usa Stab
+Olberic recibe 277 de daño físico
+Olberic termina con HP:500
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:282/342 BP:0
+B-Olberic - HP:500/5781 SP:275/291 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:7274/7500 Shields:10
+B-Ice Wisp - HP:0/801 Shields:0
+C-Lightning Elemental - HP:2105/2133 Shields:2
+D-Highland Ratkin I - HP:1000/1000 Shields:1
+E-Mad Ratkin - HP:806/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Devourer of Dreams
+5.Lightning Elemental
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Olberic recibe 250 de daño
+Olberic termina con HP:250
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:282/342 BP:0
+B-Olberic - HP:250/5781 SP:275/291 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:7274/7500 Shields:10
+B-Ice Wisp - HP:0/801 Shields:0
+C-Lightning Elemental - HP:2105/2133 Shields:2
+D-Highland Ratkin I - HP:1000/1000 Shields:1
+E-Mad Ratkin - HP:806/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Devourer of Dreams
+5.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Olberic recibe 137 de daño elemental
+Olberic termina con HP:113
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:282/342 BP:0
+B-Olberic - HP:113/5781 SP:275/291 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:7274/7500 Shields:10
+B-Ice Wisp - HP:0/801 Shields:0
+C-Lightning Elemental - HP:2105/2133 Shields:2
+D-Highland Ratkin I - HP:1000/1000 Shields:1
+E-Mad Ratkin - HP:806/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Devourer of Dreams
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Devourer of Dreams
+5.Lightning Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Devourer of Dreams - HP:7274/7500 Shields:10
+2: Lightning Elemental - HP:2105/2133 Shields:2
+3: Highland Ratkin I - HP:1000/1000 Shields:1
+4: Mad Ratkin - HP:806/1233 Shields:1
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Mad Ratkin recibe 189 de daño de tipo Sword
+Mad Ratkin termina con HP:617
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:282/342 BP:0
+B-Olberic - HP:691/5781 SP:275/291 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:7274/7500 Shields:10
+B-Ice Wisp - HP:0/801 Shields:0
+C-Lightning Elemental - HP:2105/2133 Shields:2
+D-Highland Ratkin I - HP:1000/1000 Shields:1
+E-Mad Ratkin - HP:617/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Devourer of Dreams
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Devourer of Dreams
+5.Lightning Elemental
+----------------------------------------
+Highland Ratkin I usa Stab
+Olberic recibe 277 de daño físico
+Olberic termina con HP:414
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:282/342 BP:0
+B-Olberic - HP:414/5781 SP:275/291 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:7274/7500 Shields:10
+B-Ice Wisp - HP:0/801 Shields:0
+C-Lightning Elemental - HP:2105/2133 Shields:2
+D-Highland Ratkin I - HP:1000/1000 Shields:1
+E-Mad Ratkin - HP:617/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Devourer of Dreams
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Devourer of Dreams
+5.Lightning Elemental
+----------------------------------------
+Mad Ratkin usa Stab
+Olberic recibe 231 de daño físico
+Olberic termina con HP:183
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:282/342 BP:0
+B-Olberic - HP:183/5781 SP:275/291 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:7274/7500 Shields:10
+B-Ice Wisp - HP:0/801 Shields:0
+C-Lightning Elemental - HP:2105/2133 Shields:2
+D-Highland Ratkin I - HP:1000/1000 Shields:1
+E-Mad Ratkin - HP:617/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Devourer of Dreams
+5.Lightning Elemental
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Olberic recibe 92 de daño
+Olberic termina con HP:91
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:282/342 BP:0
+B-Olberic - HP:91/5781 SP:275/291 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:7274/7500 Shields:10
+B-Ice Wisp - HP:0/801 Shields:0
+C-Lightning Elemental - HP:2105/2133 Shields:2
+D-Highland Ratkin I - HP:1000/1000 Shields:1
+E-Mad Ratkin - HP:617/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Devourer of Dreams
+5.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Olberic recibe 137 de daño elemental
+Olberic termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

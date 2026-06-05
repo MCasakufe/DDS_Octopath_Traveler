@@ -1,0 +1,396 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+INPUT: 8
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Army Ant - HP:502/502 Shields:1
+B-Hoary Bear - HP:2688/2688 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Osvald
+3.Army Ant
+4.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Osvald
+3.Army Ant
+4.Hoary Bear
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Army Ant - HP:502/502 Shields:1
+2: Hoary Bear - HP:2688/2688 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Army Ant recibe 231 de daño de tipo Dagger
+Army Ant termina con HP:271
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Army Ant - HP:271/502 Shields:1
+B-Hoary Bear - HP:2688/2688 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Army Ant
+3.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Osvald
+3.Army Ant
+4.Hoary Bear
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Army Ant - HP:271/502 Shields:1
+2: Hoary Bear - HP:2688/2688 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Hoary Bear recibe 76 de daño de tipo Stave
+Hoary Bear termina con HP:2612
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Army Ant - HP:271/502 Shields:1
+B-Hoary Bear - HP:2612/2688 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Army Ant
+2.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Osvald
+3.Army Ant
+4.Hoary Bear
+----------------------------------------
+Army Ant usa Acid Spray
+Primrose tendrá Decreased Physical Defense durante 2 rondas
+Primrose tendrá Decreased Elemental Defense durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Army Ant - HP:271/502 Shields:1
+B-Hoary Bear - HP:2612/2688 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Osvald
+3.Army Ant
+4.Hoary Bear
+----------------------------------------
+Hoary Bear usa Rampage
+Primrose recibe 467 de daño físico
+Osvald recibe 220 de daño físico
+Primrose termina con HP:3535
+Osvald termina con HP:3337
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3535/4002 SP:504/504 BP:2
+B-Osvald - HP:3337/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Army Ant - HP:271/502 Shields:1
+B-Hoary Bear - HP:2612/2688 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Osvald
+3.Army Ant
+4.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Osvald
+3.Army Ant
+4.Hoary Bear
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Army Ant - HP:271/502 Shields:1
+2: Hoary Bear - HP:2612/2688 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Army Ant recibe 231 de daño de tipo Dagger
+Army Ant termina con HP:40
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3535/4002 SP:504/504 BP:2
+B-Osvald - HP:3337/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Army Ant - HP:40/502 Shields:1
+B-Hoary Bear - HP:2612/2688 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Army Ant
+3.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Osvald
+3.Army Ant
+4.Hoary Bear
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Army Ant - HP:40/502 Shields:1
+2: Hoary Bear - HP:2612/2688 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Army Ant recibe 436 de daño de tipo Stave con debilidad
+Army Ant entra en Breaking Point
+Army Ant termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3535/4002 SP:504/504 BP:2
+B-Osvald - HP:3337/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Army Ant - HP:0/502 Shields:0
+B-Hoary Bear - HP:2612/2688 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Osvald
+3.Hoary Bear
+----------------------------------------
+Hoary Bear usa Rampage
+Primrose recibe 467 de daño físico
+Osvald recibe 220 de daño físico
+Primrose termina con HP:3068
+Osvald termina con HP:3117
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3068/4002 SP:504/504 BP:3
+B-Osvald - HP:3117/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Army Ant - HP:0/502 Shields:0
+B-Hoary Bear - HP:2612/2688 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Osvald
+3.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Osvald
+3.Hoary Bear
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Hoary Bear - HP:2612/2688 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Hoary Bear recibe 17 de daño de tipo Dagger
+Hoary Bear termina con HP:2595
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3068/4002 SP:504/504 BP:3
+B-Osvald - HP:3117/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Army Ant - HP:0/502 Shields:0
+B-Hoary Bear - HP:2595/2688 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Osvald
+3.Hoary Bear
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Hoary Bear - HP:2595/2688 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Hoary Bear recibe 76 de daño de tipo Stave
+Hoary Bear termina con HP:2519
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3068/4002 SP:504/504 BP:3
+B-Osvald - HP:3117/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Army Ant - HP:0/502 Shields:0
+B-Hoary Bear - HP:2519/2688 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Osvald
+3.Hoary Bear
+----------------------------------------
+Hoary Bear usa Rampage
+Primrose recibe 311 de daño físico
+Osvald recibe 220 de daño físico
+Primrose termina con HP:2757
+Osvald termina con HP:2897
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2757/4002 SP:504/504 BP:4
+B-Osvald - HP:2897/3557 SP:541/541 BP:4
+Equipo del enemigo
+A-Army Ant - HP:0/502 Shields:0
+B-Hoary Bear - HP:2519/2688 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Osvald
+3.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Osvald
+3.Hoary Bear
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo

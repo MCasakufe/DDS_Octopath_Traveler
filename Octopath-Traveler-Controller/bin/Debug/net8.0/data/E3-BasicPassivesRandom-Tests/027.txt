@@ -1,0 +1,1255 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+INPUT: 26
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4891/4891 SP:314/314 BP:1
+B-Agnea - HP:4002/4002 SP:504/504 BP:2
+C-Throné - HP:4447/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Behemoth - HP:12690/12690 Shields:8
+B-Light Elemental - HP:1880/1880 Shields:4
+C-Fire Elemental - HP:1354/1354 Shields:4
+D-Wind Wisp - HP:1740/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Agnea
+3.Behemoth
+4.Partitio
+5.Wind Wisp
+6.Fire Elemental
+7.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Behemoth
+4.Partitio
+5.Wind Wisp
+6.Fire Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4891/4891 SP:314/314 BP:1
+B-Agnea - HP:4002/4002 SP:504/504 BP:2
+C-Throné - HP:4447/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Behemoth - HP:12690/12690 Shields:8
+B-Light Elemental - HP:1880/1880 Shields:4
+C-Fire Elemental - HP:1354/1354 Shields:4
+D-Wind Wisp - HP:1740/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Behemoth
+3.Partitio
+4.Wind Wisp
+5.Fire Elemental
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Behemoth
+4.Partitio
+5.Wind Wisp
+6.Fire Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Icewind
+2: Spearhead
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Icewind
+Behemoth recibe 339 de daño de tipo Ice con debilidad
+Light Elemental recibe 779 de daño de tipo Ice con debilidad
+Fire Elemental recibe 645 de daño de tipo Ice con debilidad
+Wind Wisp recibe 409 de daño de tipo Ice
+Behemoth termina con HP:12351
+Light Elemental termina con HP:1101
+Fire Elemental termina con HP:709
+Wind Wisp termina con HP:1331
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4891/4891 SP:314/314 BP:1
+B-Agnea - HP:4002/4002 SP:496/504 BP:2
+C-Throné - HP:4447/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Behemoth - HP:12351/12690 Shields:7
+B-Light Elemental - HP:1101/1880 Shields:3
+C-Fire Elemental - HP:709/1354 Shields:3
+D-Wind Wisp - HP:1331/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Partitio
+3.Wind Wisp
+4.Fire Elemental
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Behemoth
+4.Partitio
+5.Wind Wisp
+6.Fire Elemental
+7.Light Elemental
+----------------------------------------
+Behemoth usa Stampede
+Partitio recibe 687 de daño físico
+Agnea recibe 790 de daño físico
+Throné se defiende
+Throné recibe 392 de daño físico
+Partitio termina con HP:4204
+Agnea termina con HP:3212
+Throné termina con HP:4055
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4204/4891 SP:314/314 BP:1
+B-Agnea - HP:3212/4002 SP:496/504 BP:2
+C-Throné - HP:4055/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Behemoth - HP:12351/12690 Shields:7
+B-Light Elemental - HP:1101/1880 Shields:3
+C-Fire Elemental - HP:709/1354 Shields:3
+D-Wind Wisp - HP:1331/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Wind Wisp
+3.Fire Elemental
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Behemoth
+4.Partitio
+5.Wind Wisp
+6.Fire Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4204/4891 SP:314/314 BP:1
+B-Agnea - HP:3212/4002 SP:496/504 BP:2
+C-Throné - HP:4055/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Behemoth - HP:12351/12690 Shields:7
+B-Light Elemental - HP:1101/1880 Shields:3
+C-Fire Elemental - HP:709/1354 Shields:3
+D-Wind Wisp - HP:1331/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+2.Fire Elemental
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Partitio
+3.Agnea
+4.Behemoth
+5.Wind Wisp
+6.Fire Elemental
+7.Light Elemental
+----------------------------------------
+Wind Wisp usa Wind slash
+Throné se defiende
+Throné recibe 243 de daño elemental
+Throné termina con HP:3812
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4204/4891 SP:314/314 BP:1
+B-Agnea - HP:3212/4002 SP:496/504 BP:2
+C-Throné - HP:3812/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Behemoth - HP:12351/12690 Shields:7
+B-Light Elemental - HP:1101/1880 Shields:3
+C-Fire Elemental - HP:709/1354 Shields:3
+D-Wind Wisp - HP:1331/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Partitio
+3.Agnea
+4.Behemoth
+5.Wind Wisp
+6.Fire Elemental
+7.Light Elemental
+----------------------------------------
+Fire Elemental usa Firesand
+Throné se defiende
+Throné recibe 138 de daño elemental
+Throné termina con HP:3674
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4204/4891 SP:314/314 BP:1
+B-Agnea - HP:3212/4002 SP:496/504 BP:2
+C-Throné - HP:3674/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Behemoth - HP:12351/12690 Shields:7
+B-Light Elemental - HP:1101/1880 Shields:3
+C-Fire Elemental - HP:709/1354 Shields:3
+D-Wind Wisp - HP:1331/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Partitio
+3.Agnea
+4.Behemoth
+5.Wind Wisp
+6.Fire Elemental
+7.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Throné se defiende
+Throné recibe 74 de daño elemental
+Throné termina con HP:3600
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4204/4891 SP:314/314 BP:2
+B-Agnea - HP:3212/4002 SP:496/504 BP:3
+C-Throné - HP:3600/4447 SP:332/332 BP:3
+Equipo del enemigo
+A-Behemoth - HP:12351/12690 Shields:7
+B-Light Elemental - HP:1101/1880 Shields:3
+C-Fire Elemental - HP:709/1354 Shields:3
+D-Wind Wisp - HP:1331/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Partitio
+3.Agnea
+4.Behemoth
+5.Wind Wisp
+6.Fire Elemental
+7.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Behemoth
+4.Partitio
+5.Wind Wisp
+6.Fire Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4204/4891 SP:314/314 BP:2
+B-Agnea - HP:3212/4002 SP:496/504 BP:3
+C-Throné - HP:3600/4447 SP:332/332 BP:3
+Equipo del enemigo
+A-Behemoth - HP:12351/12690 Shields:7
+B-Light Elemental - HP:1101/1880 Shields:3
+C-Fire Elemental - HP:709/1354 Shields:3
+D-Wind Wisp - HP:1331/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Agnea
+3.Behemoth
+4.Wind Wisp
+5.Fire Elemental
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Behemoth
+4.Partitio
+5.Wind Wisp
+6.Fire Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Fireball
+2: Icewind
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio usa Fireball
+Behemoth recibe 18 de daño de tipo Fire
+Light Elemental recibe 311 de daño de tipo Fire
+Fire Elemental recibe 222 de daño de tipo Fire
+Wind Wisp recibe 201 de daño de tipo Fire
+Behemoth termina con HP:12333
+Light Elemental termina con HP:790
+Fire Elemental termina con HP:487
+Wind Wisp termina con HP:1130
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4204/4891 SP:306/314 BP:2
+B-Agnea - HP:3212/4002 SP:496/504 BP:3
+C-Throné - HP:3600/4447 SP:332/332 BP:3
+Equipo del enemigo
+A-Behemoth - HP:12333/12690 Shields:7
+B-Light Elemental - HP:790/1880 Shields:3
+C-Fire Elemental - HP:487/1354 Shields:3
+D-Wind Wisp - HP:1130/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Behemoth
+3.Wind Wisp
+4.Fire Elemental
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Behemoth
+4.Partitio
+5.Wind Wisp
+6.Fire Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Icewind
+2: Spearhead
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Behemoth - HP:12333/12690 Shields:7
+2: Light Elemental - HP:790/1880 Shields:3
+3: Fire Elemental - HP:487/1354 Shields:3
+4: Wind Wisp - HP:1130/1740 Shields:1
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Spearhead
+Wind Wisp recibe 0 de daño de tipo Spear
+Wind Wisp termina con HP:1130
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4204/4891 SP:306/314 BP:2
+B-Agnea - HP:3212/4002 SP:490/504 BP:3
+C-Throné - HP:3600/4447 SP:332/332 BP:3
+Equipo del enemigo
+A-Behemoth - HP:12333/12690 Shields:7
+B-Light Elemental - HP:790/1880 Shields:3
+C-Fire Elemental - HP:487/1354 Shields:3
+D-Wind Wisp - HP:1130/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Wind Wisp
+3.Fire Elemental
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Behemoth
+4.Partitio
+5.Wind Wisp
+6.Fire Elemental
+7.Light Elemental
+----------------------------------------
+Behemoth usa Stampede
+Partitio recibe 687 de daño físico
+Agnea recibe 790 de daño físico
+Throné se defiende
+Throné recibe 392 de daño físico
+Partitio termina con HP:3517
+Agnea termina con HP:2422
+Throné termina con HP:3208
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3517/4891 SP:306/314 BP:2
+B-Agnea - HP:2422/4002 SP:490/504 BP:3
+C-Throné - HP:3208/4447 SP:332/332 BP:3
+Equipo del enemigo
+A-Behemoth - HP:12333/12690 Shields:7
+B-Light Elemental - HP:790/1880 Shields:3
+C-Fire Elemental - HP:487/1354 Shields:3
+D-Wind Wisp - HP:1130/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+2.Fire Elemental
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Behemoth
+4.Partitio
+5.Wind Wisp
+6.Fire Elemental
+7.Light Elemental
+----------------------------------------
+Wind Wisp usa Wind slash
+Throné se defiende
+Throné recibe 243 de daño elemental
+Throné termina con HP:2965
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3517/4891 SP:306/314 BP:2
+B-Agnea - HP:2422/4002 SP:490/504 BP:3
+C-Throné - HP:2965/4447 SP:332/332 BP:3
+Equipo del enemigo
+A-Behemoth - HP:12333/12690 Shields:7
+B-Light Elemental - HP:790/1880 Shields:3
+C-Fire Elemental - HP:487/1354 Shields:3
+D-Wind Wisp - HP:1130/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Behemoth
+4.Partitio
+5.Wind Wisp
+6.Fire Elemental
+7.Light Elemental
+----------------------------------------
+Fire Elemental usa Firesand
+Throné se defiende
+Throné recibe 138 de daño elemental
+Throné termina con HP:2827
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3517/4891 SP:306/314 BP:2
+B-Agnea - HP:2422/4002 SP:490/504 BP:3
+C-Throné - HP:2827/4447 SP:332/332 BP:3
+Equipo del enemigo
+A-Behemoth - HP:12333/12690 Shields:7
+B-Light Elemental - HP:790/1880 Shields:3
+C-Fire Elemental - HP:487/1354 Shields:3
+D-Wind Wisp - HP:1130/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Behemoth
+4.Partitio
+5.Wind Wisp
+6.Fire Elemental
+7.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Throné se defiende
+Throné recibe 74 de daño elemental
+Throné termina con HP:2753
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3517/4891 SP:314/314 BP:3
+B-Agnea - HP:2422/4002 SP:490/504 BP:4
+C-Throné - HP:2753/4447 SP:332/332 BP:4
+Equipo del enemigo
+A-Behemoth - HP:12333/12690 Shields:7
+B-Light Elemental - HP:790/1880 Shields:3
+C-Fire Elemental - HP:487/1354 Shields:3
+D-Wind Wisp - HP:1130/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Agnea
+3.Behemoth
+4.Partitio
+5.Wind Wisp
+6.Fire Elemental
+7.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Behemoth
+4.Partitio
+5.Wind Wisp
+6.Fire Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Behemoth - HP:12333/12690 Shields:7
+2: Light Elemental - HP:790/1880 Shields:3
+3: Fire Elemental - HP:487/1354 Shields:3
+4: Wind Wisp - HP:1130/1740 Shields:1
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné ataca
+Light Elemental recibe 144 de daño de tipo Sword
+Light Elemental termina con HP:646
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3517/4891 SP:314/314 BP:3
+B-Agnea - HP:2422/4002 SP:490/504 BP:4
+C-Throné - HP:2753/4447 SP:332/332 BP:4
+Equipo del enemigo
+A-Behemoth - HP:12333/12690 Shields:7
+B-Light Elemental - HP:646/1880 Shields:3
+C-Fire Elemental - HP:487/1354 Shields:3
+D-Wind Wisp - HP:1130/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Behemoth
+3.Partitio
+4.Wind Wisp
+5.Fire Elemental
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Behemoth
+4.Partitio
+5.Wind Wisp
+6.Fire Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Icewind
+2: Spearhead
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Icewind
+Behemoth recibe 339 de daño de tipo Ice con debilidad
+Light Elemental recibe 779 de daño de tipo Ice con debilidad
+Fire Elemental recibe 645 de daño de tipo Ice con debilidad
+Wind Wisp recibe 409 de daño de tipo Ice
+Behemoth termina con HP:11994
+Light Elemental termina con HP:0
+Fire Elemental termina con HP:0
+Wind Wisp termina con HP:721
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3517/4891 SP:314/314 BP:3
+B-Agnea - HP:2422/4002 SP:482/504 BP:4
+C-Throné - HP:2753/4447 SP:332/332 BP:4
+Equipo del enemigo
+A-Behemoth - HP:11994/12690 Shields:6
+B-Light Elemental - HP:0/1880 Shields:2
+C-Fire Elemental - HP:0/1354 Shields:2
+D-Wind Wisp - HP:721/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Partitio
+3.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Behemoth
+4.Partitio
+5.Wind Wisp
+----------------------------------------
+Behemoth usa Stampede
+Partitio recibe 687 de daño físico
+Agnea recibe 790 de daño físico
+Throné recibe 785 de daño físico
+Partitio termina con HP:2830
+Agnea termina con HP:1632
+Throné termina con HP:1968
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2830/4891 SP:314/314 BP:3
+B-Agnea - HP:1632/4002 SP:482/504 BP:4
+C-Throné - HP:1968/4447 SP:332/332 BP:4
+Equipo del enemigo
+A-Behemoth - HP:11994/12690 Shields:6
+B-Light Elemental - HP:0/1880 Shields:2
+C-Fire Elemental - HP:0/1354 Shields:2
+D-Wind Wisp - HP:721/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Behemoth
+4.Partitio
+5.Wind Wisp
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2830/4891 SP:314/314 BP:3
+B-Agnea - HP:1632/4002 SP:482/504 BP:4
+C-Throné - HP:1968/4447 SP:332/332 BP:4
+Equipo del enemigo
+A-Behemoth - HP:11994/12690 Shields:6
+B-Light Elemental - HP:0/1880 Shields:2
+C-Fire Elemental - HP:0/1354 Shields:2
+D-Wind Wisp - HP:721/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Throné
+3.Agnea
+4.Behemoth
+5.Wind Wisp
+----------------------------------------
+Wind Wisp usa Wind slash
+Throné recibe 487 de daño elemental
+Throné termina con HP:1481
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2830/4891 SP:314/314 BP:4
+B-Agnea - HP:1632/4002 SP:482/504 BP:5
+C-Throné - HP:1481/4447 SP:332/332 BP:5
+Equipo del enemigo
+A-Behemoth - HP:11994/12690 Shields:6
+B-Light Elemental - HP:0/1880 Shields:2
+C-Fire Elemental - HP:0/1354 Shields:2
+D-Wind Wisp - HP:721/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Throné
+3.Agnea
+4.Behemoth
+5.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Behemoth
+4.Partitio
+5.Wind Wisp
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Fireball
+2: Icewind
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio usa Icewind
+Behemoth recibe 27 de daño de tipo Ice con debilidad
+Wind Wisp recibe 201 de daño de tipo Ice
+Behemoth termina con HP:11967
+Wind Wisp termina con HP:520
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2830/4891 SP:306/314 BP:4
+B-Agnea - HP:1632/4002 SP:482/504 BP:5
+C-Throné - HP:1481/4447 SP:332/332 BP:5
+Equipo del enemigo
+A-Behemoth - HP:11967/12690 Shields:5
+B-Light Elemental - HP:0/1880 Shields:2
+C-Fire Elemental - HP:0/1354 Shields:2
+D-Wind Wisp - HP:520/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Agnea
+3.Behemoth
+4.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Behemoth
+4.Partitio
+5.Wind Wisp
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Behemoth - HP:11967/12690 Shields:5
+2: Wind Wisp - HP:520/1740 Shields:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné ataca
+Wind Wisp recibe 0 de daño de tipo Dagger
+Wind Wisp termina con HP:520
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2830/4891 SP:306/314 BP:4
+B-Agnea - HP:1632/4002 SP:482/504 BP:5
+C-Throné - HP:1481/4447 SP:332/332 BP:5
+Equipo del enemigo
+A-Behemoth - HP:11967/12690 Shields:5
+B-Light Elemental - HP:0/1880 Shields:2
+C-Fire Elemental - HP:0/1354 Shields:2
+D-Wind Wisp - HP:520/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Behemoth
+3.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Behemoth
+4.Partitio
+5.Wind Wisp
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Behemoth - HP:11967/12690 Shields:5
+2: Wind Wisp - HP:520/1740 Shields:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Wind Wisp recibe 0 de daño de tipo Dagger
+Wind Wisp termina con HP:520
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2830/4891 SP:306/314 BP:4
+B-Agnea - HP:1632/4002 SP:482/504 BP:5
+C-Throné - HP:1481/4447 SP:332/332 BP:5
+Equipo del enemigo
+A-Behemoth - HP:11967/12690 Shields:5
+B-Light Elemental - HP:0/1880 Shields:2
+C-Fire Elemental - HP:0/1354 Shields:2
+D-Wind Wisp - HP:520/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Behemoth
+4.Partitio
+5.Wind Wisp
+----------------------------------------
+Behemoth usa Stampede
+Partitio recibe 687 de daño físico
+Agnea recibe 790 de daño físico
+Throné recibe 785 de daño físico
+Partitio termina con HP:2143
+Agnea termina con HP:842
+Throné termina con HP:696
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2143/4891 SP:306/314 BP:4
+B-Agnea - HP:842/4002 SP:482/504 BP:5
+C-Throné - HP:696/4447 SP:332/332 BP:5
+Equipo del enemigo
+A-Behemoth - HP:11967/12690 Shields:5
+B-Light Elemental - HP:0/1880 Shields:2
+C-Fire Elemental - HP:0/1354 Shields:2
+D-Wind Wisp - HP:520/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Behemoth
+4.Partitio
+5.Wind Wisp
+----------------------------------------
+Wind Wisp usa Wind slash
+Throné recibe 487 de daño elemental
+Throné termina con HP:209
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2143/4891 SP:314/314 BP:5
+B-Agnea - HP:842/4002 SP:482/504 BP:5
+C-Throné - HP:209/4447 SP:332/332 BP:5
+Equipo del enemigo
+A-Behemoth - HP:11967/12690 Shields:5
+B-Light Elemental - HP:0/1880 Shields:2
+C-Fire Elemental - HP:0/1354 Shields:2
+D-Wind Wisp - HP:520/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Agnea
+3.Behemoth
+4.Partitio
+5.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Behemoth
+4.Partitio
+5.Wind Wisp
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2143/4891 SP:314/314 BP:5
+B-Agnea - HP:842/4002 SP:482/504 BP:5
+C-Throné - HP:209/4447 SP:332/332 BP:5
+Equipo del enemigo
+A-Behemoth - HP:11967/12690 Shields:5
+B-Light Elemental - HP:0/1880 Shields:2
+C-Fire Elemental - HP:0/1354 Shields:2
+D-Wind Wisp - HP:520/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Behemoth
+3.Partitio
+4.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Behemoth
+4.Partitio
+5.Wind Wisp
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Icewind
+2: Spearhead
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Icewind
+Behemoth recibe 339 de daño de tipo Ice con debilidad
+Wind Wisp recibe 409 de daño de tipo Ice
+Behemoth termina con HP:11628
+Wind Wisp termina con HP:111
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2143/4891 SP:314/314 BP:5
+B-Agnea - HP:842/4002 SP:474/504 BP:5
+C-Throné - HP:209/4447 SP:332/332 BP:5
+Equipo del enemigo
+A-Behemoth - HP:11628/12690 Shields:4
+B-Light Elemental - HP:0/1880 Shields:2
+C-Fire Elemental - HP:0/1354 Shields:2
+D-Wind Wisp - HP:111/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Partitio
+3.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Behemoth
+4.Partitio
+5.Wind Wisp
+----------------------------------------
+Behemoth usa Stampede
+Partitio recibe 687 de daño físico
+Agnea recibe 790 de daño físico
+Throné se defiende
+Throné recibe 392 de daño físico
+Partitio termina con HP:1456
+Agnea termina con HP:52
+Throné termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:1456/4891 SP:314/314 BP:5
+B-Agnea - HP:52/4002 SP:474/504 BP:5
+C-Throné - HP:0/4447 SP:332/332 BP:5
+Equipo del enemigo
+A-Behemoth - HP:11628/12690 Shields:4
+B-Light Elemental - HP:0/1880 Shields:2
+C-Fire Elemental - HP:0/1354 Shields:2
+D-Wind Wisp - HP:111/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Behemoth
+3.Partitio
+4.Wind Wisp
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:1456/4891 SP:314/314 BP:5
+B-Agnea - HP:52/4002 SP:474/504 BP:5
+C-Throné - HP:0/4447 SP:332/332 BP:5
+Equipo del enemigo
+A-Behemoth - HP:11628/12690 Shields:4
+B-Light Elemental - HP:0/1880 Shields:2
+C-Fire Elemental - HP:0/1354 Shields:2
+D-Wind Wisp - HP:111/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Agnea
+3.Behemoth
+4.Wind Wisp
+----------------------------------------
+Wind Wisp usa Wind slash
+Agnea recibe 383 de daño elemental
+Agnea termina con HP:0
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:1456/4891 SP:314/314 BP:5
+B-Agnea - HP:0/4002 SP:474/504 BP:5
+C-Throné - HP:0/4447 SP:332/332 BP:5
+Equipo del enemigo
+A-Behemoth - HP:11628/12690 Shields:4
+B-Light Elemental - HP:0/1880 Shields:2
+C-Fire Elemental - HP:0/1354 Shields:2
+D-Wind Wisp - HP:111/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Behemoth
+3.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Partitio
+3.Wind Wisp
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:1456/4891 SP:314/314 BP:5
+B-Agnea - HP:0/4002 SP:474/504 BP:5
+C-Throné - HP:0/4447 SP:332/332 BP:5
+Equipo del enemigo
+A-Behemoth - HP:11628/12690 Shields:4
+B-Light Elemental - HP:0/1880 Shields:2
+C-Fire Elemental - HP:0/1354 Shields:2
+D-Wind Wisp - HP:111/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Behemoth
+3.Wind Wisp
+----------------------------------------
+Behemoth usa Stampede
+Partitio se defiende
+Partitio recibe 343 de daño físico
+Partitio termina con HP:1113
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:1113/4891 SP:314/314 BP:5
+B-Agnea - HP:0/4002 SP:474/504 BP:5
+C-Throné - HP:0/4447 SP:332/332 BP:5
+Equipo del enemigo
+A-Behemoth - HP:11628/12690 Shields:4
+B-Light Elemental - HP:0/1880 Shields:2
+C-Fire Elemental - HP:0/1354 Shields:2
+D-Wind Wisp - HP:111/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Behemoth
+3.Wind Wisp
+----------------------------------------
+Wind Wisp usa Wind slash
+Partitio se defiende
+Partitio recibe 215 de daño elemental
+Partitio termina con HP:898
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:898/4891 SP:314/314 BP:5
+B-Agnea - HP:0/4002 SP:474/504 BP:5
+C-Throné - HP:0/4447 SP:332/332 BP:5
+Equipo del enemigo
+A-Behemoth - HP:11628/12690 Shields:4
+B-Light Elemental - HP:0/1880 Shields:2
+C-Fire Elemental - HP:0/1354 Shields:2
+D-Wind Wisp - HP:111/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Behemoth
+3.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Partitio
+3.Wind Wisp
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Behemoth - HP:11628/12690 Shields:4
+2: Wind Wisp - HP:111/1740 Shields:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Wind Wisp recibe 3 de daño de tipo Spear
+Wind Wisp termina con HP:108
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:898/4891 SP:314/314 BP:5
+B-Agnea - HP:0/4002 SP:474/504 BP:5
+C-Throné - HP:0/4447 SP:332/332 BP:5
+Equipo del enemigo
+A-Behemoth - HP:11628/12690 Shields:4
+B-Light Elemental - HP:0/1880 Shields:2
+C-Fire Elemental - HP:0/1354 Shields:2
+D-Wind Wisp - HP:108/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Partitio
+3.Wind Wisp
+----------------------------------------
+Behemoth usa Stampede
+Partitio recibe 687 de daño físico
+Partitio termina con HP:211
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:211/4891 SP:314/314 BP:5
+B-Agnea - HP:0/4002 SP:474/504 BP:5
+C-Throné - HP:0/4447 SP:332/332 BP:5
+Equipo del enemigo
+A-Behemoth - HP:11628/12690 Shields:4
+B-Light Elemental - HP:0/1880 Shields:2
+C-Fire Elemental - HP:0/1354 Shields:2
+D-Wind Wisp - HP:108/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Partitio
+3.Wind Wisp
+----------------------------------------
+Wind Wisp usa Wind slash
+Partitio recibe 430 de daño elemental
+Partitio termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

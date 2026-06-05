@@ -12,6 +12,7 @@ public sealed class TravelerCombatUnit
     private const int MaxActionBp = 3;
     private const int MinimumRemainingStatValue = 0;
     private const int MaxTravelerBp = 5;
+    private const int BpGainPerRound = 1;
 
     public TravelerCombatUnit(
         TravelerDefinition travelerDefinition,
@@ -92,19 +93,19 @@ public sealed class TravelerCombatUnit
 
     public void ReceiveDamage(int damage)
     {
-        int normalizedDamage = Math.Max(0, damage);
+        int normalizedDamage = Math.Max(MinimumRemainingStatValue, damage);
         CurrentHp = Math.Max(MinimumRemainingStatValue, CurrentHp - normalizedDamage);
     }
 
     public void RecoverHp(int healingAmount)
     {
-        int normalizedHealingAmount = Math.Max(0, healingAmount);
+        int normalizedHealingAmount = Math.Max(MinimumRemainingStatValue, healingAmount);
         CurrentHp = Math.Min(MaxHp, CurrentHp + normalizedHealingAmount);
     }
 
     public void RecoverSp(int spAmount)
     {
-        int normalizedSpAmount = Math.Max(0, spAmount);
+        int normalizedSpAmount = Math.Max(MinimumRemainingStatValue, spAmount);
         CurrentSp = Math.Min(MaxSp, CurrentSp + normalizedSpAmount);
     }
 
@@ -125,12 +126,13 @@ public sealed class TravelerCombatUnit
         HasIncreasedPriorityCurrentRound = HasPendingIncreasedPriority;
         HasPendingIncreasedPriority = false;
         IsWaitingForNextRoundAfterRevive = false;
+        DecreaseStatusEffectDurationsForNextRound();
     }
 
     public void PrepareBpForNextRound()
     {
         if (IsAlive && !SpentBpThisRound)
-            CurrentBp = Math.Min(MaxTravelerBp, CurrentBp + 1);
+            CurrentBp = Math.Min(MaxTravelerBp, CurrentBp + BpGainPerRound);
 
         SpentBpThisRound = false;
     }

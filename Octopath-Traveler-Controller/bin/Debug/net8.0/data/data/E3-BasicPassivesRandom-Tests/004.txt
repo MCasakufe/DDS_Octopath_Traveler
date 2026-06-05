@@ -1,0 +1,845 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+INPUT: 3
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:1
+Equipo del enemigo
+A-Wind Wisp - HP:1740/1740 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Highland Ratkin I - HP:1000/1000 Shields:1
+D-Wind Elemental - HP:2496/2496 Shields:4
+E-Lightning Elemental - HP:2133/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+3.Wind Wisp
+4.Dark Elemental
+5.Lightning Elemental
+6.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Wind Wisp
+4.Dark Elemental
+5.Lightning Elemental
+6.Wind Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Luminescence
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Luminescence
+Wind Wisp recibe 553 de daño de tipo Light con debilidad
+Wind Wisp entra en Breaking Point
+Dark Elemental recibe 610 de daño de tipo Light con debilidad
+Highland Ratkin I recibe 206 de daño de tipo Light
+Wind Elemental recibe 459 de daño de tipo Light
+Lightning Elemental recibe 287 de daño de tipo Light
+Wind Wisp termina con HP:1187
+Dark Elemental termina con HP:1212
+Highland Ratkin I termina con HP:794
+Wind Elemental termina con HP:2037
+Lightning Elemental termina con HP:1846
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:308/317 BP:1
+Equipo del enemigo
+A-Wind Wisp - HP:1187/1740 Shields:0
+B-Dark Elemental - HP:1212/1822 Shields:3
+C-Highland Ratkin I - HP:794/1000 Shields:1
+D-Wind Elemental - HP:2037/2496 Shields:4
+E-Lightning Elemental - HP:1846/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Dark Elemental
+3.Lightning Elemental
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Dark Elemental
+4.Lightning Elemental
+5.Wind Elemental
+----------------------------------------
+Highland Ratkin I usa Stab
+Hikari recibe 277 de daño físico
+Hikari termina con HP:5504
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5504/5781 SP:308/317 BP:1
+Equipo del enemigo
+A-Wind Wisp - HP:1187/1740 Shields:0
+B-Dark Elemental - HP:1212/1822 Shields:3
+C-Highland Ratkin I - HP:794/1000 Shields:1
+D-Wind Elemental - HP:2037/2496 Shields:4
+E-Lightning Elemental - HP:1846/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Lightning Elemental
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Dark Elemental
+4.Lightning Elemental
+5.Wind Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Hikari recibe 219 de daño elemental
+Hikari termina con HP:5285
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5285/5781 SP:308/317 BP:1
+Equipo del enemigo
+A-Wind Wisp - HP:1187/1740 Shields:0
+B-Dark Elemental - HP:1212/1822 Shields:3
+C-Highland Ratkin I - HP:794/1000 Shields:1
+D-Wind Elemental - HP:2037/2496 Shields:4
+E-Lightning Elemental - HP:1846/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Dark Elemental
+4.Lightning Elemental
+5.Wind Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Hikari recibe 137 de daño elemental
+Hikari termina con HP:5148
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5148/5781 SP:308/317 BP:1
+Equipo del enemigo
+A-Wind Wisp - HP:1187/1740 Shields:0
+B-Dark Elemental - HP:1212/1822 Shields:3
+C-Highland Ratkin I - HP:794/1000 Shields:1
+D-Wind Elemental - HP:2037/2496 Shields:4
+E-Lightning Elemental - HP:1846/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Dark Elemental
+4.Lightning Elemental
+5.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Hikari recibe 156 de daño elemental
+Hikari termina con HP:4992
+----------------------------------------
+Hikari obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4992/5781 SP:308/317 BP:1
+Equipo del enemigo
+A-Wind Wisp - HP:1187/1740 Shields:0
+B-Dark Elemental - HP:1212/1822 Shields:3
+C-Highland Ratkin I - HP:794/1000 Shields:1
+D-Wind Elemental - HP:2037/2496 Shields:4
+E-Lightning Elemental - HP:1846/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Dark Elemental
+4.Lightning Elemental
+5.Wind Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Luminescence
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Luminescence
+Wind Wisp recibe 738 de daño de tipo Light con debilidad
+Dark Elemental recibe 610 de daño de tipo Light con debilidad
+Highland Ratkin I recibe 206 de daño de tipo Light
+Wind Elemental recibe 459 de daño de tipo Light
+Lightning Elemental recibe 287 de daño de tipo Light
+Wind Wisp termina con HP:449
+Dark Elemental termina con HP:602
+Highland Ratkin I termina con HP:588
+Wind Elemental termina con HP:1578
+Lightning Elemental termina con HP:1559
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5570/5781 SP:299/317 BP:2
+Equipo del enemigo
+A-Wind Wisp - HP:449/1740 Shields:0
+B-Dark Elemental - HP:602/1822 Shields:2
+C-Highland Ratkin I - HP:588/1000 Shields:1
+D-Wind Elemental - HP:1578/2496 Shields:4
+E-Lightning Elemental - HP:1559/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+3.Dark Elemental
+4.Lightning Elemental
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wind Wisp
+2.Hikari
+3.Highland Ratkin I
+4.Dark Elemental
+5.Lightning Elemental
+6.Wind Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Luminescence
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Luminescence
+Wind Wisp recibe 738 de daño de tipo Light con debilidad
+Dark Elemental recibe 610 de daño de tipo Light con debilidad
+Highland Ratkin I recibe 206 de daño de tipo Light
+Wind Elemental recibe 459 de daño de tipo Light
+Lightning Elemental recibe 287 de daño de tipo Light
+Wind Wisp termina con HP:0
+Dark Elemental termina con HP:0
+Highland Ratkin I termina con HP:382
+Wind Elemental termina con HP:1119
+Lightning Elemental termina con HP:1272
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5570/5781 SP:290/317 BP:2
+Equipo del enemigo
+A-Wind Wisp - HP:0/1740 Shields:0
+B-Dark Elemental - HP:0/1822 Shields:1
+C-Highland Ratkin I - HP:382/1000 Shields:1
+D-Wind Elemental - HP:1119/2496 Shields:4
+E-Lightning Elemental - HP:1272/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Lightning Elemental
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Lightning Elemental
+4.Wind Elemental
+----------------------------------------
+Highland Ratkin I usa Stab
+Hikari recibe 277 de daño físico
+Hikari termina con HP:5293
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5293/5781 SP:290/317 BP:2
+Equipo del enemigo
+A-Wind Wisp - HP:0/1740 Shields:0
+B-Dark Elemental - HP:0/1822 Shields:1
+C-Highland Ratkin I - HP:382/1000 Shields:1
+D-Wind Elemental - HP:1119/2496 Shields:4
+E-Lightning Elemental - HP:1272/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Lightning Elemental
+4.Wind Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Hikari recibe 137 de daño elemental
+Hikari termina con HP:5156
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5156/5781 SP:290/317 BP:2
+Equipo del enemigo
+A-Wind Wisp - HP:0/1740 Shields:0
+B-Dark Elemental - HP:0/1822 Shields:1
+C-Highland Ratkin I - HP:382/1000 Shields:1
+D-Wind Elemental - HP:1119/2496 Shields:4
+E-Lightning Elemental - HP:1272/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Lightning Elemental
+4.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Hikari recibe 156 de daño elemental
+Hikari termina con HP:5000
+----------------------------------------
+Hikari obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5000/5781 SP:290/317 BP:2
+Equipo del enemigo
+A-Wind Wisp - HP:0/1740 Shields:0
+B-Dark Elemental - HP:0/1822 Shields:1
+C-Highland Ratkin I - HP:382/1000 Shields:1
+D-Wind Elemental - HP:1119/2496 Shields:4
+E-Lightning Elemental - HP:1272/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Lightning Elemental
+4.Wind Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5578/5781 SP:290/317 BP:3
+Equipo del enemigo
+A-Wind Wisp - HP:0/1740 Shields:0
+B-Dark Elemental - HP:0/1822 Shields:1
+C-Highland Ratkin I - HP:382/1000 Shields:1
+D-Wind Elemental - HP:1119/2496 Shields:4
+E-Lightning Elemental - HP:1272/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+3.Lightning Elemental
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Lightning Elemental
+4.Wind Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5578/5781 SP:290/317 BP:3
+Equipo del enemigo
+A-Wind Wisp - HP:0/1740 Shields:0
+B-Dark Elemental - HP:0/1822 Shields:1
+C-Highland Ratkin I - HP:382/1000 Shields:1
+D-Wind Elemental - HP:1119/2496 Shields:4
+E-Lightning Elemental - HP:1272/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Lightning Elemental
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Lightning Elemental
+4.Wind Elemental
+----------------------------------------
+Highland Ratkin I usa Stab
+Hikari se defiende
+Hikari recibe 138 de daño físico
+Hikari termina con HP:5440
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5440/5781 SP:290/317 BP:3
+Equipo del enemigo
+A-Wind Wisp - HP:0/1740 Shields:0
+B-Dark Elemental - HP:0/1822 Shields:1
+C-Highland Ratkin I - HP:382/1000 Shields:1
+D-Wind Elemental - HP:1119/2496 Shields:4
+E-Lightning Elemental - HP:1272/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Lightning Elemental
+4.Wind Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Hikari se defiende
+Hikari recibe 68 de daño elemental
+Hikari termina con HP:5372
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5372/5781 SP:290/317 BP:3
+Equipo del enemigo
+A-Wind Wisp - HP:0/1740 Shields:0
+B-Dark Elemental - HP:0/1822 Shields:1
+C-Highland Ratkin I - HP:382/1000 Shields:1
+D-Wind Elemental - HP:1119/2496 Shields:4
+E-Lightning Elemental - HP:1272/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Lightning Elemental
+4.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Hikari se defiende
+Hikari recibe 78 de daño elemental
+Hikari termina con HP:5294
+----------------------------------------
+Hikari obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5294/5781 SP:290/317 BP:3
+Equipo del enemigo
+A-Wind Wisp - HP:0/1740 Shields:0
+B-Dark Elemental - HP:0/1822 Shields:1
+C-Highland Ratkin I - HP:382/1000 Shields:1
+D-Wind Elemental - HP:1119/2496 Shields:4
+E-Lightning Elemental - HP:1272/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Lightning Elemental
+4.Wind Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Luminescence
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Luminescence
+Highland Ratkin I recibe 206 de daño de tipo Light
+Wind Elemental recibe 459 de daño de tipo Light
+Lightning Elemental recibe 287 de daño de tipo Light
+Highland Ratkin I termina con HP:176
+Wind Elemental termina con HP:660
+Lightning Elemental termina con HP:985
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:281/317 BP:4
+Equipo del enemigo
+A-Wind Wisp - HP:0/1740 Shields:0
+B-Dark Elemental - HP:0/1822 Shields:1
+C-Highland Ratkin I - HP:176/1000 Shields:1
+D-Wind Elemental - HP:660/2496 Shields:4
+E-Lightning Elemental - HP:985/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Highland Ratkin I
+3.Lightning Elemental
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Highland Ratkin I
+3.Lightning Elemental
+4.Wind Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Luminescence
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Luminescence
+Highland Ratkin I recibe 206 de daño de tipo Light
+Wind Elemental recibe 459 de daño de tipo Light
+Lightning Elemental recibe 287 de daño de tipo Light
+Highland Ratkin I termina con HP:0
+Wind Elemental termina con HP:201
+Lightning Elemental termina con HP:698
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:272/317 BP:4
+Equipo del enemigo
+A-Wind Wisp - HP:0/1740 Shields:0
+B-Dark Elemental - HP:0/1822 Shields:1
+C-Highland Ratkin I - HP:0/1000 Shields:1
+D-Wind Elemental - HP:201/2496 Shields:4
+E-Lightning Elemental - HP:698/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Lightning Elemental
+3.Wind Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Hikari recibe 137 de daño elemental
+Hikari termina con HP:5644
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5644/5781 SP:272/317 BP:4
+Equipo del enemigo
+A-Wind Wisp - HP:0/1740 Shields:0
+B-Dark Elemental - HP:0/1822 Shields:1
+C-Highland Ratkin I - HP:0/1000 Shields:1
+D-Wind Elemental - HP:201/2496 Shields:4
+E-Lightning Elemental - HP:698/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Lightning Elemental
+3.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Hikari recibe 156 de daño elemental
+Hikari termina con HP:5488
+----------------------------------------
+Hikari obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5488/5781 SP:272/317 BP:4
+Equipo del enemigo
+A-Wind Wisp - HP:0/1740 Shields:0
+B-Dark Elemental - HP:0/1822 Shields:1
+C-Highland Ratkin I - HP:0/1000 Shields:1
+D-Wind Elemental - HP:201/2496 Shields:4
+E-Lightning Elemental - HP:698/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Lightning Elemental
+3.Wind Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:272/317 BP:5
+Equipo del enemigo
+A-Wind Wisp - HP:0/1740 Shields:0
+B-Dark Elemental - HP:0/1822 Shields:1
+C-Highland Ratkin I - HP:0/1000 Shields:1
+D-Wind Elemental - HP:201/2496 Shields:4
+E-Lightning Elemental - HP:698/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Lightning Elemental
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Lightning Elemental
+3.Wind Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Luminescence
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Luminescence
+Wind Elemental recibe 459 de daño de tipo Light
+Lightning Elemental recibe 287 de daño de tipo Light
+Wind Elemental termina con HP:0
+Lightning Elemental termina con HP:411
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:263/317 BP:5
+Equipo del enemigo
+A-Wind Wisp - HP:0/1740 Shields:0
+B-Dark Elemental - HP:0/1822 Shields:1
+C-Highland Ratkin I - HP:0/1000 Shields:1
+D-Wind Elemental - HP:0/2496 Shields:4
+E-Lightning Elemental - HP:411/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Hikari recibe 137 de daño elemental
+Hikari termina con HP:5644
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:263/317 BP:5
+Equipo del enemigo
+A-Wind Wisp - HP:0/1740 Shields:0
+B-Dark Elemental - HP:0/1822 Shields:1
+C-Highland Ratkin I - HP:0/1000 Shields:1
+D-Wind Elemental - HP:0/2496 Shields:4
+E-Lightning Elemental - HP:411/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Lightning Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Luminescence
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Luminescence
+Lightning Elemental recibe 287 de daño de tipo Light
+Lightning Elemental termina con HP:124
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:254/317 BP:5
+Equipo del enemigo
+A-Wind Wisp - HP:0/1740 Shields:0
+B-Dark Elemental - HP:0/1822 Shields:1
+C-Highland Ratkin I - HP:0/1000 Shields:1
+D-Wind Elemental - HP:0/2496 Shields:4
+E-Lightning Elemental - HP:124/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Hikari recibe 137 de daño elemental
+Hikari termina con HP:5644
+----------------------------------------
+Hikari obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5644/5781 SP:254/317 BP:5
+Equipo del enemigo
+A-Wind Wisp - HP:0/1740 Shields:0
+B-Dark Elemental - HP:0/1822 Shields:1
+C-Highland Ratkin I - HP:0/1000 Shields:1
+D-Wind Elemental - HP:0/2496 Shields:4
+E-Lightning Elemental - HP:124/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Lightning Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Lightning Elemental - HP:124/2133 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Lightning Elemental recibe 0 de daño de tipo Sword
+Lightning Elemental termina con HP:124
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:254/317 BP:5
+Equipo del enemigo
+A-Wind Wisp - HP:0/1740 Shields:0
+B-Dark Elemental - HP:0/1822 Shields:1
+C-Highland Ratkin I - HP:0/1000 Shields:1
+D-Wind Elemental - HP:0/2496 Shields:4
+E-Lightning Elemental - HP:124/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Lightning Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Luminescence
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Luminescence
+Lightning Elemental recibe 287 de daño de tipo Light
+Lightning Elemental termina con HP:0
+----------------------------------------
+Gana equipo del jugador

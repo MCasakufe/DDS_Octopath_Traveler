@@ -1,0 +1,1866 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+INPUT: 8
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:383/383 BP:2
+B-Tressa - HP:4891/4891 SP:357/357 BP:1
+C-Therion - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Lightning Remnant - HP:2779/2779 Shields:3
+C-Remnant - HP:2779/2779 Shields:3
+D-Albino Bat - HP:1896/1896 Shields:4
+E-Fire Elemental - HP:1354/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Alfyn
+3.Tressa
+4.Mattias?
+5.Lightning Remnant
+6.Remnant
+7.Fire Elemental
+8.Albino Bat
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Alfyn
+3.Tressa
+4.Mattias?
+5.Lightning Remnant
+6.Remnant
+7.Fire Elemental
+8.Albino Bat
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Mattias? - HP:5780/5780 Shields:4
+2: Lightning Remnant - HP:2779/2779 Shields:3
+3: Remnant - HP:2779/2779 Shields:3
+4: Albino Bat - HP:1896/1896 Shields:4
+5: Fire Elemental - HP:1354/1354 Shields:4
+6: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Remnant recibe 279 de daño de tipo Dagger con debilidad
+Remnant termina con HP:2500
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:383/383 BP:2
+B-Tressa - HP:4891/4891 SP:357/357 BP:1
+C-Therion - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Lightning Remnant - HP:2779/2779 Shields:3
+C-Remnant - HP:2500/2779 Shields:2
+D-Albino Bat - HP:1896/1896 Shields:4
+E-Fire Elemental - HP:1354/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Tressa
+3.Mattias?
+4.Lightning Remnant
+5.Remnant
+6.Fire Elemental
+7.Albino Bat
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Alfyn
+3.Tressa
+4.Mattias?
+5.Lightning Remnant
+6.Remnant
+7.Fire Elemental
+8.Albino Bat
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Mattias? - HP:5780/5780 Shields:4
+2: Lightning Remnant - HP:2779/2779 Shields:3
+3: Remnant - HP:2500/2779 Shields:2
+4: Albino Bat - HP:1896/1896 Shields:4
+5: Fire Elemental - HP:1354/1354 Shields:4
+6: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Albino Bat recibe 141 de daño de tipo Axe
+Albino Bat termina con HP:1755
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:383/383 BP:2
+B-Tressa - HP:4891/4891 SP:357/357 BP:1
+C-Therion - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Lightning Remnant - HP:2779/2779 Shields:3
+C-Remnant - HP:2500/2779 Shields:2
+D-Albino Bat - HP:1755/1896 Shields:4
+E-Fire Elemental - HP:1354/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Mattias?
+3.Lightning Remnant
+4.Remnant
+5.Fire Elemental
+6.Albino Bat
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Alfyn
+3.Tressa
+4.Mattias?
+5.Lightning Remnant
+6.Remnant
+7.Fire Elemental
+8.Albino Bat
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Mattias? - HP:5780/5780 Shields:4
+2: Lightning Remnant - HP:2779/2779 Shields:3
+3: Remnant - HP:2500/2779 Shields:2
+4: Albino Bat - HP:1755/1896 Shields:4
+5: Fire Elemental - HP:1354/1354 Shields:4
+6: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Albino Bat recibe 219 de daño de tipo Bow con debilidad
+Albino Bat termina con HP:1536
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:383/383 BP:2
+B-Tressa - HP:4891/4891 SP:357/357 BP:1
+C-Therion - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Lightning Remnant - HP:2779/2779 Shields:3
+C-Remnant - HP:2500/2779 Shields:2
+D-Albino Bat - HP:1536/1896 Shields:3
+E-Fire Elemental - HP:1354/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lightning Remnant
+3.Remnant
+4.Fire Elemental
+5.Albino Bat
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Alfyn
+3.Tressa
+4.Mattias?
+5.Lightning Remnant
+6.Remnant
+7.Fire Elemental
+8.Albino Bat
+----------------------------------------
+Mattias? usa Black Gale
+Alfyn recibe 707 de daño elemental
+Tressa recibe 660 de daño elemental
+Therion recibe 717 de daño elemental
+Alfyn termina con HP:4629
+Tressa termina con HP:4231
+Therion termina con HP:3730
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4629/5336 SP:383/383 BP:2
+B-Tressa - HP:4231/4891 SP:357/357 BP:1
+C-Therion - HP:3730/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Lightning Remnant - HP:2779/2779 Shields:3
+C-Remnant - HP:2500/2779 Shields:2
+D-Albino Bat - HP:1536/1896 Shields:3
+E-Fire Elemental - HP:1354/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lightning Remnant
+2.Remnant
+3.Fire Elemental
+4.Albino Bat
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Alfyn
+3.Tressa
+4.Mattias?
+5.Lightning Remnant
+6.Remnant
+7.Fire Elemental
+8.Albino Bat
+----------------------------------------
+Lightning Remnant usa Double Bite
+Therion recibe 20 de daño físico
+Therion recibe 20 de daño físico
+Therion termina con HP:3690
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4629/5336 SP:383/383 BP:2
+B-Tressa - HP:4231/4891 SP:357/357 BP:1
+C-Therion - HP:3690/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Lightning Remnant - HP:2779/2779 Shields:3
+C-Remnant - HP:2500/2779 Shields:2
+D-Albino Bat - HP:1536/1896 Shields:3
+E-Fire Elemental - HP:1354/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Remnant
+2.Fire Elemental
+3.Albino Bat
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Alfyn
+3.Tressa
+4.Mattias?
+5.Lightning Remnant
+6.Remnant
+7.Fire Elemental
+8.Albino Bat
+----------------------------------------
+Remnant usa Double Bite
+Therion recibe 20 de daño físico
+Therion recibe 20 de daño físico
+Therion termina con HP:3650
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4629/5336 SP:383/383 BP:2
+B-Tressa - HP:4231/4891 SP:357/357 BP:1
+C-Therion - HP:3650/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Lightning Remnant - HP:2779/2779 Shields:3
+C-Remnant - HP:2500/2779 Shields:2
+D-Albino Bat - HP:1536/1896 Shields:3
+E-Fire Elemental - HP:1354/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+2.Albino Bat
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Alfyn
+3.Tressa
+4.Mattias?
+5.Lightning Remnant
+6.Remnant
+7.Fire Elemental
+8.Albino Bat
+----------------------------------------
+Fire Elemental usa Firesand
+Therion recibe 276 de daño elemental
+Therion termina con HP:3374
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4629/5336 SP:383/383 BP:2
+B-Tressa - HP:4231/4891 SP:357/357 BP:1
+C-Therion - HP:3374/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Lightning Remnant - HP:2779/2779 Shields:3
+C-Remnant - HP:2500/2779 Shields:2
+D-Albino Bat - HP:1536/1896 Shields:3
+E-Fire Elemental - HP:1354/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Albino Bat
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Alfyn
+3.Tressa
+4.Mattias?
+5.Lightning Remnant
+6.Remnant
+7.Fire Elemental
+8.Albino Bat
+----------------------------------------
+Albino Bat usa Flap
+Alfyn recibe 149 de daño físico
+Albino Bat tendrá Increased Speed durante 2 rondas
+Alfyn termina con HP:4480
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4480/5336 SP:383/383 BP:3
+B-Tressa - HP:4231/4891 SP:357/357 BP:2
+C-Therion - HP:3374/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Lightning Remnant - HP:2779/2779 Shields:3
+C-Remnant - HP:2500/2779 Shields:2
+D-Albino Bat - HP:1536/1896 Shields:3
+E-Fire Elemental - HP:1354/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Alfyn
+3.Tressa
+4.Mattias?
+5.Albino Bat
+6.Lightning Remnant
+7.Remnant
+8.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Alfyn
+3.Tressa
+4.Mattias?
+5.Lightning Remnant
+6.Remnant
+7.Fire Elemental
+8.Albino Bat
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Mattias? - HP:5780/5780 Shields:4
+2: Lightning Remnant - HP:2779/2779 Shields:3
+3: Remnant - HP:2500/2779 Shields:2
+4: Albino Bat - HP:1536/1896 Shields:3
+5: Fire Elemental - HP:1354/1354 Shields:4
+6: Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Fire Elemental recibe 27 de daño de tipo Dagger
+Fire Elemental termina con HP:1327
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4480/5336 SP:383/383 BP:3
+B-Tressa - HP:4231/4891 SP:357/357 BP:2
+C-Therion - HP:3374/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Lightning Remnant - HP:2779/2779 Shields:3
+C-Remnant - HP:2500/2779 Shields:2
+D-Albino Bat - HP:1536/1896 Shields:3
+E-Fire Elemental - HP:1327/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Tressa
+3.Mattias?
+4.Albino Bat
+5.Lightning Remnant
+6.Remnant
+7.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Alfyn
+3.Tressa
+4.Mattias?
+5.Lightning Remnant
+6.Remnant
+7.Fire Elemental
+8.Albino Bat
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Mattias? - HP:5780/5780 Shields:4
+2: Lightning Remnant - HP:2779/2779 Shields:3
+3: Remnant - HP:2500/2779 Shields:2
+4: Albino Bat - HP:1536/1896 Shields:3
+5: Fire Elemental - HP:1327/1354 Shields:4
+6: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Mattias? recibe 0 de daño de tipo Axe con debilidad
+Mattias? termina con HP:5780
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4480/5336 SP:383/383 BP:3
+B-Tressa - HP:4231/4891 SP:357/357 BP:2
+C-Therion - HP:3374/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Lightning Remnant - HP:2779/2779 Shields:3
+C-Remnant - HP:2500/2779 Shields:2
+D-Albino Bat - HP:1536/1896 Shields:3
+E-Fire Elemental - HP:1327/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Mattias?
+3.Albino Bat
+4.Lightning Remnant
+5.Remnant
+6.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Alfyn
+3.Tressa
+4.Mattias?
+5.Lightning Remnant
+6.Remnant
+7.Fire Elemental
+8.Albino Bat
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Mattias? - HP:5780/5780 Shields:4
+2: Lightning Remnant - HP:2779/2779 Shields:3
+3: Remnant - HP:2500/2779 Shields:2
+4: Albino Bat - HP:1536/1896 Shields:3
+5: Fire Elemental - HP:1327/1354 Shields:4
+6: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Lightning Remnant recibe 441 de daño de tipo Spear con debilidad
+Lightning Remnant termina con HP:2338
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4480/5336 SP:383/383 BP:3
+B-Tressa - HP:4231/4891 SP:357/357 BP:2
+C-Therion - HP:3374/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Lightning Remnant - HP:2338/2779 Shields:2
+C-Remnant - HP:2500/2779 Shields:2
+D-Albino Bat - HP:1536/1896 Shields:3
+E-Fire Elemental - HP:1327/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Albino Bat
+3.Lightning Remnant
+4.Remnant
+5.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Alfyn
+3.Tressa
+4.Mattias?
+5.Lightning Remnant
+6.Remnant
+7.Fire Elemental
+8.Albino Bat
+----------------------------------------
+Mattias? usa Black Gale
+Alfyn recibe 707 de daño elemental
+Tressa recibe 660 de daño elemental
+Therion recibe 717 de daño elemental
+Alfyn termina con HP:3773
+Tressa termina con HP:3571
+Therion termina con HP:2657
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3773/5336 SP:383/383 BP:3
+B-Tressa - HP:3571/4891 SP:357/357 BP:2
+C-Therion - HP:2657/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Lightning Remnant - HP:2338/2779 Shields:2
+C-Remnant - HP:2500/2779 Shields:2
+D-Albino Bat - HP:1536/1896 Shields:3
+E-Fire Elemental - HP:1327/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Albino Bat
+2.Lightning Remnant
+3.Remnant
+4.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Alfyn
+3.Tressa
+4.Mattias?
+5.Lightning Remnant
+6.Remnant
+7.Fire Elemental
+8.Albino Bat
+----------------------------------------
+Albino Bat usa Flap
+Alfyn recibe 149 de daño físico
+Albino Bat tendrá Increased Speed durante 2 rondas
+Alfyn termina con HP:3624
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3624/5336 SP:383/383 BP:3
+B-Tressa - HP:3571/4891 SP:357/357 BP:2
+C-Therion - HP:2657/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Lightning Remnant - HP:2338/2779 Shields:2
+C-Remnant - HP:2500/2779 Shields:2
+D-Albino Bat - HP:1536/1896 Shields:3
+E-Fire Elemental - HP:1327/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lightning Remnant
+2.Remnant
+3.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Alfyn
+3.Tressa
+4.Mattias?
+5.Albino Bat
+6.Lightning Remnant
+7.Remnant
+8.Fire Elemental
+----------------------------------------
+Lightning Remnant usa Double Bite
+Therion recibe 20 de daño físico
+Therion recibe 20 de daño físico
+Therion termina con HP:2617
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3624/5336 SP:383/383 BP:3
+B-Tressa - HP:3571/4891 SP:357/357 BP:2
+C-Therion - HP:2617/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Lightning Remnant - HP:2338/2779 Shields:2
+C-Remnant - HP:2500/2779 Shields:2
+D-Albino Bat - HP:1536/1896 Shields:3
+E-Fire Elemental - HP:1327/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Remnant
+2.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Alfyn
+3.Tressa
+4.Mattias?
+5.Albino Bat
+6.Lightning Remnant
+7.Remnant
+8.Fire Elemental
+----------------------------------------
+Remnant usa Double Bite
+Therion recibe 20 de daño físico
+Therion recibe 20 de daño físico
+Therion termina con HP:2577
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3624/5336 SP:383/383 BP:3
+B-Tressa - HP:3571/4891 SP:357/357 BP:2
+C-Therion - HP:2577/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Lightning Remnant - HP:2338/2779 Shields:2
+C-Remnant - HP:2500/2779 Shields:2
+D-Albino Bat - HP:1536/1896 Shields:3
+E-Fire Elemental - HP:1327/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Alfyn
+3.Tressa
+4.Mattias?
+5.Albino Bat
+6.Lightning Remnant
+7.Remnant
+8.Fire Elemental
+----------------------------------------
+Fire Elemental usa Firesand
+Therion recibe 276 de daño elemental
+Therion termina con HP:2301
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3624/5336 SP:383/383 BP:4
+B-Tressa - HP:3571/4891 SP:357/357 BP:3
+C-Therion - HP:2301/4447 SP:332/332 BP:3
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Lightning Remnant - HP:2338/2779 Shields:2
+C-Remnant - HP:2500/2779 Shields:2
+D-Albino Bat - HP:1536/1896 Shields:3
+E-Fire Elemental - HP:1327/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Alfyn
+3.Tressa
+4.Mattias?
+5.Albino Bat
+6.Lightning Remnant
+7.Remnant
+8.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Alfyn
+3.Tressa
+4.Mattias?
+5.Albino Bat
+6.Lightning Remnant
+7.Remnant
+8.Fire Elemental
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Mattias? - HP:5780/5780 Shields:4
+2: Lightning Remnant - HP:2338/2779 Shields:2
+3: Remnant - HP:2500/2779 Shields:2
+4: Albino Bat - HP:1536/1896 Shields:3
+5: Fire Elemental - HP:1327/1354 Shields:4
+6: Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Fire Elemental recibe 27 de daño de tipo Sword
+Fire Elemental termina con HP:1300
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3624/5336 SP:383/383 BP:4
+B-Tressa - HP:3571/4891 SP:357/357 BP:3
+C-Therion - HP:2301/4447 SP:332/332 BP:3
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Lightning Remnant - HP:2338/2779 Shields:2
+C-Remnant - HP:2500/2779 Shields:2
+D-Albino Bat - HP:1536/1896 Shields:3
+E-Fire Elemental - HP:1300/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Tressa
+3.Mattias?
+4.Albino Bat
+5.Lightning Remnant
+6.Remnant
+7.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Alfyn
+3.Tressa
+4.Mattias?
+5.Albino Bat
+6.Lightning Remnant
+7.Remnant
+8.Fire Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Mattias? - HP:5780/5780 Shields:4
+2: Lightning Remnant - HP:2338/2779 Shields:2
+3: Remnant - HP:2500/2779 Shields:2
+4: Albino Bat - HP:1536/1896 Shields:3
+5: Fire Elemental - HP:1300/1354 Shields:4
+6: Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Fire Elemental recibe 130 de daño de tipo Axe
+Fire Elemental termina con HP:1170
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3624/5336 SP:383/383 BP:4
+B-Tressa - HP:3571/4891 SP:357/357 BP:3
+C-Therion - HP:2301/4447 SP:332/332 BP:3
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Lightning Remnant - HP:2338/2779 Shields:2
+C-Remnant - HP:2500/2779 Shields:2
+D-Albino Bat - HP:1536/1896 Shields:3
+E-Fire Elemental - HP:1170/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Mattias?
+3.Albino Bat
+4.Lightning Remnant
+5.Remnant
+6.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Alfyn
+3.Tressa
+4.Mattias?
+5.Albino Bat
+6.Lightning Remnant
+7.Remnant
+8.Fire Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3624/5336 SP:383/383 BP:4
+B-Tressa - HP:3571/4891 SP:357/357 BP:3
+C-Therion - HP:2301/4447 SP:332/332 BP:3
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Lightning Remnant - HP:2338/2779 Shields:2
+C-Remnant - HP:2500/2779 Shields:2
+D-Albino Bat - HP:1536/1896 Shields:3
+E-Fire Elemental - HP:1170/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Albino Bat
+3.Lightning Remnant
+4.Remnant
+5.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Therion
+3.Alfyn
+4.Mattias?
+5.Albino Bat
+6.Lightning Remnant
+7.Remnant
+8.Fire Elemental
+----------------------------------------
+Mattias? usa Black Gale
+Alfyn recibe 707 de daño elemental
+Tressa se defiende
+Tressa recibe 330 de daño elemental
+Therion recibe 717 de daño elemental
+Alfyn termina con HP:2917
+Tressa termina con HP:3241
+Therion termina con HP:1584
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2917/5336 SP:383/383 BP:4
+B-Tressa - HP:3241/4891 SP:357/357 BP:3
+C-Therion - HP:1584/4447 SP:332/332 BP:3
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Lightning Remnant - HP:2338/2779 Shields:2
+C-Remnant - HP:2500/2779 Shields:2
+D-Albino Bat - HP:1536/1896 Shields:3
+E-Fire Elemental - HP:1170/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Albino Bat
+2.Lightning Remnant
+3.Remnant
+4.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Therion
+3.Alfyn
+4.Mattias?
+5.Albino Bat
+6.Lightning Remnant
+7.Remnant
+8.Fire Elemental
+----------------------------------------
+Albino Bat usa Flap
+Tressa se defiende
+Tressa recibe 104 de daño físico
+Albino Bat tendrá Increased Speed durante 2 rondas
+Tressa termina con HP:3137
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2917/5336 SP:383/383 BP:4
+B-Tressa - HP:3137/4891 SP:357/357 BP:3
+C-Therion - HP:1584/4447 SP:332/332 BP:3
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Lightning Remnant - HP:2338/2779 Shields:2
+C-Remnant - HP:2500/2779 Shields:2
+D-Albino Bat - HP:1536/1896 Shields:3
+E-Fire Elemental - HP:1170/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lightning Remnant
+2.Remnant
+3.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Therion
+3.Alfyn
+4.Mattias?
+5.Albino Bat
+6.Lightning Remnant
+7.Remnant
+8.Fire Elemental
+----------------------------------------
+Lightning Remnant usa Double Bite
+Therion recibe 20 de daño físico
+Therion recibe 20 de daño físico
+Therion termina con HP:1544
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2917/5336 SP:383/383 BP:4
+B-Tressa - HP:3137/4891 SP:357/357 BP:3
+C-Therion - HP:1544/4447 SP:332/332 BP:3
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Lightning Remnant - HP:2338/2779 Shields:2
+C-Remnant - HP:2500/2779 Shields:2
+D-Albino Bat - HP:1536/1896 Shields:3
+E-Fire Elemental - HP:1170/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Remnant
+2.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Therion
+3.Alfyn
+4.Mattias?
+5.Albino Bat
+6.Lightning Remnant
+7.Remnant
+8.Fire Elemental
+----------------------------------------
+Remnant usa Double Bite
+Therion recibe 20 de daño físico
+Therion recibe 20 de daño físico
+Therion termina con HP:1504
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2917/5336 SP:383/383 BP:4
+B-Tressa - HP:3137/4891 SP:357/357 BP:3
+C-Therion - HP:1504/4447 SP:332/332 BP:3
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Lightning Remnant - HP:2338/2779 Shields:2
+C-Remnant - HP:2500/2779 Shields:2
+D-Albino Bat - HP:1536/1896 Shields:3
+E-Fire Elemental - HP:1170/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Therion
+3.Alfyn
+4.Mattias?
+5.Albino Bat
+6.Lightning Remnant
+7.Remnant
+8.Fire Elemental
+----------------------------------------
+Fire Elemental usa Firesand
+Therion recibe 276 de daño elemental
+Therion termina con HP:1228
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2917/5336 SP:383/383 BP:5
+B-Tressa - HP:3137/4891 SP:357/357 BP:4
+C-Therion - HP:1228/4447 SP:332/332 BP:4
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Lightning Remnant - HP:2338/2779 Shields:2
+C-Remnant - HP:2500/2779 Shields:2
+D-Albino Bat - HP:1536/1896 Shields:3
+E-Fire Elemental - HP:1170/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Therion
+3.Alfyn
+4.Mattias?
+5.Albino Bat
+6.Lightning Remnant
+7.Remnant
+8.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Alfyn
+3.Tressa
+4.Mattias?
+5.Albino Bat
+6.Lightning Remnant
+7.Remnant
+8.Fire Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Mattias? - HP:5780/5780 Shields:4
+2: Lightning Remnant - HP:2338/2779 Shields:2
+3: Remnant - HP:2500/2779 Shields:2
+4: Albino Bat - HP:1536/1896 Shields:3
+5: Fire Elemental - HP:1170/1354 Shields:4
+6: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Albino Bat recibe 219 de daño de tipo Spear con debilidad
+Albino Bat termina con HP:1317
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2917/5336 SP:383/383 BP:5
+B-Tressa - HP:3137/4891 SP:357/357 BP:4
+C-Therion - HP:1228/4447 SP:332/332 BP:4
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Lightning Remnant - HP:2338/2779 Shields:2
+C-Remnant - HP:2500/2779 Shields:2
+D-Albino Bat - HP:1317/1896 Shields:2
+E-Fire Elemental - HP:1170/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Alfyn
+3.Mattias?
+4.Albino Bat
+5.Lightning Remnant
+6.Remnant
+7.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Alfyn
+3.Tressa
+4.Mattias?
+5.Albino Bat
+6.Lightning Remnant
+7.Remnant
+8.Fire Elemental
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Last Stand
+2: Lightning Bolt
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Therion usa Last Stand
+Mattias? recibe 4992 de daño de tipo Axe con debilidad
+Lightning Remnant recibe 6418 de daño de tipo Axe con debilidad
+Remnant recibe 6418 de daño de tipo Axe con debilidad
+Albino Bat recibe 3811 de daño de tipo Axe
+Fire Elemental recibe 3776 de daño de tipo Axe
+Mattias? termina con HP:788
+Lightning Remnant termina con HP:0
+Remnant termina con HP:0
+Albino Bat termina con HP:0
+Fire Elemental termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2917/5336 SP:383/383 BP:5
+B-Tressa - HP:3137/4891 SP:357/357 BP:4
+C-Therion - HP:1228/4447 SP:316/332 BP:1
+Equipo del enemigo
+A-Mattias? - HP:788/5780 Shields:3
+B-Lightning Remnant - HP:0/2779 Shields:1
+C-Remnant - HP:0/2779 Shields:1
+D-Albino Bat - HP:0/1896 Shields:2
+E-Fire Elemental - HP:0/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Alfyn
+3.Tressa
+4.Mattias?
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Mattias? - HP:788/5780 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Mattias? recibe 0 de daño de tipo Axe con debilidad
+Mattias? termina con HP:788
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2917/5336 SP:383/383 BP:5
+B-Tressa - HP:3137/4891 SP:357/357 BP:4
+C-Therion - HP:1228/4447 SP:316/332 BP:1
+Equipo del enemigo
+A-Mattias? - HP:788/5780 Shields:3
+B-Lightning Remnant - HP:0/2779 Shields:1
+C-Remnant - HP:0/2779 Shields:1
+D-Albino Bat - HP:0/1896 Shields:2
+E-Fire Elemental - HP:0/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Alfyn
+3.Tressa
+4.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Alfyn recibe 707 de daño elemental
+Tressa recibe 660 de daño elemental
+Therion recibe 717 de daño elemental
+Alfyn termina con HP:2210
+Tressa termina con HP:2477
+Therion termina con HP:511
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2210/5336 SP:383/383 BP:5
+B-Tressa - HP:2477/4891 SP:357/357 BP:5
+C-Therion - HP:511/4447 SP:316/332 BP:1
+Equipo del enemigo
+A-Mattias? - HP:788/5780 Shields:3
+B-Lightning Remnant - HP:0/2779 Shields:1
+C-Remnant - HP:0/2779 Shields:1
+D-Albino Bat - HP:0/1896 Shields:2
+E-Fire Elemental - HP:0/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Alfyn
+3.Tressa
+4.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Alfyn
+3.Tressa
+4.Mattias?
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2210/5336 SP:383/383 BP:5
+B-Tressa - HP:2477/4891 SP:357/357 BP:5
+C-Therion - HP:511/4447 SP:316/332 BP:1
+Equipo del enemigo
+A-Mattias? - HP:788/5780 Shields:3
+B-Lightning Remnant - HP:0/2779 Shields:1
+C-Remnant - HP:0/2779 Shields:1
+D-Albino Bat - HP:0/1896 Shields:2
+E-Fire Elemental - HP:0/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Tressa
+3.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Alfyn
+3.Tressa
+4.Mattias?
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2210/5336 SP:383/383 BP:5
+B-Tressa - HP:2477/4891 SP:357/357 BP:5
+C-Therion - HP:511/4447 SP:316/332 BP:1
+Equipo del enemigo
+A-Mattias? - HP:788/5780 Shields:3
+B-Lightning Remnant - HP:0/2779 Shields:1
+C-Remnant - HP:0/2779 Shields:1
+D-Albino Bat - HP:0/1896 Shields:2
+E-Fire Elemental - HP:0/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Alfyn
+3.Tressa
+4.Mattias?
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2210/5336 SP:383/383 BP:5
+B-Tressa - HP:2477/4891 SP:357/357 BP:5
+C-Therion - HP:511/4447 SP:316/332 BP:1
+Equipo del enemigo
+A-Mattias? - HP:788/5780 Shields:3
+B-Lightning Remnant - HP:0/2779 Shields:1
+C-Remnant - HP:0/2779 Shields:1
+D-Albino Bat - HP:0/1896 Shields:2
+E-Fire Elemental - HP:0/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Alfyn
+3.Tressa
+4.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Alfyn se defiende
+Alfyn recibe 353 de daño elemental
+Tressa se defiende
+Tressa recibe 330 de daño elemental
+Therion se defiende
+Therion recibe 358 de daño elemental
+Alfyn termina con HP:1857
+Tressa termina con HP:2147
+Therion termina con HP:153
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:1857/5336 SP:383/383 BP:5
+B-Tressa - HP:2147/4891 SP:357/357 BP:5
+C-Therion - HP:153/4447 SP:316/332 BP:2
+Equipo del enemigo
+A-Mattias? - HP:788/5780 Shields:3
+B-Lightning Remnant - HP:0/2779 Shields:1
+C-Remnant - HP:0/2779 Shields:1
+D-Albino Bat - HP:0/1896 Shields:2
+E-Fire Elemental - HP:0/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Alfyn
+3.Tressa
+4.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Alfyn
+3.Tressa
+4.Mattias?
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Last Stand
+2: Lightning Bolt
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Last Stand
+Mattias? recibe 0 de daño de tipo Axe con debilidad
+Mattias? termina con HP:788
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:1857/5336 SP:383/383 BP:5
+B-Tressa - HP:2147/4891 SP:357/357 BP:5
+C-Therion - HP:153/4447 SP:300/332 BP:2
+Equipo del enemigo
+A-Mattias? - HP:788/5780 Shields:3
+B-Lightning Remnant - HP:0/2779 Shields:1
+C-Remnant - HP:0/2779 Shields:1
+D-Albino Bat - HP:0/1896 Shields:2
+E-Fire Elemental - HP:0/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Tressa
+3.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Alfyn
+3.Tressa
+4.Mattias?
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:1857/5336 SP:383/383 BP:5
+B-Tressa - HP:2147/4891 SP:357/357 BP:5
+C-Therion - HP:153/4447 SP:300/332 BP:2
+Equipo del enemigo
+A-Mattias? - HP:788/5780 Shields:3
+B-Lightning Remnant - HP:0/2779 Shields:1
+C-Remnant - HP:0/2779 Shields:1
+D-Albino Bat - HP:0/1896 Shields:2
+E-Fire Elemental - HP:0/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Therion
+3.Tressa
+4.Mattias?
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Mattias? - HP:788/5780 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Mattias? recibe 0 de daño de tipo Bow
+Mattias? termina con HP:788
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:1857/5336 SP:383/383 BP:5
+B-Tressa - HP:2147/4891 SP:357/357 BP:5
+C-Therion - HP:153/4447 SP:300/332 BP:2
+Equipo del enemigo
+A-Mattias? - HP:788/5780 Shields:3
+B-Lightning Remnant - HP:0/2779 Shields:1
+C-Remnant - HP:0/2779 Shields:1
+D-Albino Bat - HP:0/1896 Shields:2
+E-Fire Elemental - HP:0/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Therion
+3.Tressa
+4.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Alfyn se defiende
+Alfyn recibe 353 de daño elemental
+Tressa recibe 660 de daño elemental
+Therion recibe 717 de daño elemental
+Alfyn termina con HP:1504
+Tressa termina con HP:1487
+Therion termina con HP:0
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:1504/5336 SP:383/383 BP:5
+B-Tressa - HP:1487/4891 SP:357/357 BP:5
+C-Therion - HP:0/4447 SP:300/332 BP:2
+Equipo del enemigo
+A-Mattias? - HP:788/5780 Shields:3
+B-Lightning Remnant - HP:0/2779 Shields:1
+C-Remnant - HP:0/2779 Shields:1
+D-Albino Bat - HP:0/1896 Shields:2
+E-Fire Elemental - HP:0/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Tressa
+3.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Tressa
+3.Mattias?
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Balogar's Blade
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Mattias? - HP:788/5780 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Alfyn usa Balogar's Blade
+Mattias? recibe 0 de daño de tipo Fire
+Mattias? recibe 0 de daño de tipo Ice con debilidad
+Mattias? recibe 0 de daño de tipo Lightning
+Mattias? recibe 0 de daño de tipo Wind
+Mattias? recibe 0 de daño de tipo Light con debilidad
+Mattias? recibe 0 de daño de tipo Dark
+Mattias? termina con HP:788
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:1504/5336 SP:333/383 BP:2
+B-Tressa - HP:1487/4891 SP:357/357 BP:5
+C-Therion - HP:0/4447 SP:300/332 BP:2
+Equipo del enemigo
+A-Mattias? - HP:788/5780 Shields:3
+B-Lightning Remnant - HP:0/2779 Shields:1
+C-Remnant - HP:0/2779 Shields:1
+D-Albino Bat - HP:0/1896 Shields:2
+E-Fire Elemental - HP:0/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Tressa
+3.Mattias?
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Mattias? - HP:788/5780 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Mattias? recibe 0 de daño de tipo Bow
+Mattias? termina con HP:788
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:1504/5336 SP:333/383 BP:2
+B-Tressa - HP:1487/4891 SP:357/357 BP:5
+C-Therion - HP:0/4447 SP:300/332 BP:2
+Equipo del enemigo
+A-Mattias? - HP:788/5780 Shields:3
+B-Lightning Remnant - HP:0/2779 Shields:1
+C-Remnant - HP:0/2779 Shields:1
+D-Albino Bat - HP:0/1896 Shields:2
+E-Fire Elemental - HP:0/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Tressa
+3.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Alfyn recibe 707 de daño elemental
+Tressa recibe 660 de daño elemental
+Alfyn termina con HP:797
+Tressa termina con HP:827
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:797/5336 SP:333/383 BP:2
+B-Tressa - HP:827/4891 SP:357/357 BP:5
+C-Therion - HP:0/4447 SP:300/332 BP:2
+Equipo del enemigo
+A-Mattias? - HP:788/5780 Shields:3
+B-Lightning Remnant - HP:0/2779 Shields:1
+C-Remnant - HP:0/2779 Shields:1
+D-Albino Bat - HP:0/1896 Shields:2
+E-Fire Elemental - HP:0/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Tressa
+3.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Tressa
+3.Mattias?
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:797/5336 SP:333/383 BP:2
+B-Tressa - HP:827/4891 SP:357/357 BP:5
+C-Therion - HP:0/4447 SP:300/332 BP:2
+Equipo del enemigo
+A-Mattias? - HP:788/5780 Shields:3
+B-Lightning Remnant - HP:0/2779 Shields:1
+C-Remnant - HP:0/2779 Shields:1
+D-Albino Bat - HP:0/1896 Shields:2
+E-Fire Elemental - HP:0/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Tressa
+3.Mattias?
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:797/5336 SP:333/383 BP:2
+B-Tressa - HP:827/4891 SP:357/357 BP:5
+C-Therion - HP:0/4447 SP:300/332 BP:2
+Equipo del enemigo
+A-Mattias? - HP:788/5780 Shields:3
+B-Lightning Remnant - HP:0/2779 Shields:1
+C-Remnant - HP:0/2779 Shields:1
+D-Albino Bat - HP:0/1896 Shields:2
+E-Fire Elemental - HP:0/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Tressa
+3.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Alfyn se defiende
+Alfyn recibe 353 de daño elemental
+Tressa se defiende
+Tressa recibe 330 de daño elemental
+Alfyn termina con HP:444
+Tressa termina con HP:497
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:444/5336 SP:333/383 BP:3
+B-Tressa - HP:497/4891 SP:357/357 BP:5
+C-Therion - HP:0/4447 SP:300/332 BP:2
+Equipo del enemigo
+A-Mattias? - HP:788/5780 Shields:3
+B-Lightning Remnant - HP:0/2779 Shields:1
+C-Remnant - HP:0/2779 Shields:1
+D-Albino Bat - HP:0/1896 Shields:2
+E-Fire Elemental - HP:0/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Tressa
+3.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Tressa
+3.Mattias?
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Mattias? - HP:788/5780 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Mattias? recibe 0 de daño de tipo Axe con debilidad
+Mattias? termina con HP:788
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:444/5336 SP:333/383 BP:3
+B-Tressa - HP:497/4891 SP:357/357 BP:5
+C-Therion - HP:0/4447 SP:300/332 BP:2
+Equipo del enemigo
+A-Mattias? - HP:788/5780 Shields:3
+B-Lightning Remnant - HP:0/2779 Shields:1
+C-Remnant - HP:0/2779 Shields:1
+D-Albino Bat - HP:0/1896 Shields:2
+E-Fire Elemental - HP:0/1354 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Tressa
+3.Mattias?
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Lux Congerere
+2: Guardian Liondog
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Guardian Liondog
+Mattias? recibe 393 de daño de tipo Sword con debilidad
+Mattias? recibe 393 de daño de tipo Sword con debilidad
+Mattias? recibe 393 de daño de tipo Sword con debilidad
+Mattias? entra en Breaking Point
+Mattias? recibe 524 de daño de tipo Sword con debilidad
+Mattias? recibe 524 de daño de tipo Sword con debilidad
+Mattias? termina con HP:0
+----------------------------------------
+Gana equipo del jugador

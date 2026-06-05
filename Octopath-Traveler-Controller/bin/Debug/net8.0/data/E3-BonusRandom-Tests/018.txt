@@ -1,0 +1,899 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+INPUT: 17
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:4002/4002 SP:432/432 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:7500/7500 Shields:10
+B-Light Wisp - HP:972/972 Shields:1
+C-Light Elemental - HP:1880/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Devourer of Dreams
+3.Light Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Devourer of Dreams
+3.Light Elemental
+4.Light Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Lightning Bolt
+2: Holy Light
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Devourer of Dreams - HP:7500/7500 Shields:10
+2: Light Wisp - HP:972/972 Shields:1
+3: Light Elemental - HP:1880/1880 Shields:4
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos usa Holy Light
+Devourer of Dreams recibe 430 de daño de tipo Light con debilidad
+Devourer of Dreams termina con HP:7070
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:4002/4002 SP:426/432 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:7070/7500 Shields:9
+B-Light Wisp - HP:972/972 Shields:1
+C-Light Elemental - HP:1880/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Light Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Devourer of Dreams
+3.Light Elemental
+4.Light Wisp
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Temenos recibe 2001 de daño
+Temenos termina con HP:2001
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:2001/4002 SP:426/432 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:7070/7500 Shields:9
+B-Light Wisp - HP:972/972 Shields:1
+C-Light Elemental - HP:1880/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Devourer of Dreams
+3.Light Elemental
+4.Light Wisp
+----------------------------------------
+Light Elemental usa Lightshot
+Temenos recibe 0 de daño elemental
+Temenos termina con HP:2001
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:2001/4002 SP:426/432 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:7070/7500 Shields:9
+B-Light Wisp - HP:972/972 Shields:1
+C-Light Elemental - HP:1880/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Devourer of Dreams
+3.Light Elemental
+4.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Temenos recibe 0 de daño elemental
+Temenos termina con HP:2001
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:2001/4002 SP:426/432 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:7070/7500 Shields:9
+B-Light Wisp - HP:972/972 Shields:1
+C-Light Elemental - HP:1880/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Devourer of Dreams
+3.Light Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Devourer of Dreams
+3.Light Elemental
+4.Light Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Lightning Bolt
+2: Holy Light
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos usa Lightning Bolt
+Devourer of Dreams recibe 287 de daño de tipo Lightning
+Light Wisp recibe 407 de daño de tipo Lightning
+Light Elemental recibe 410 de daño de tipo Lightning
+Devourer of Dreams termina con HP:6783
+Light Wisp termina con HP:565
+Light Elemental termina con HP:1470
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:2001/4002 SP:418/432 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:6783/7500 Shields:9
+B-Light Wisp - HP:565/972 Shields:1
+C-Light Elemental - HP:1470/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Light Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Devourer of Dreams
+3.Light Elemental
+4.Light Wisp
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Temenos recibe 1001 de daño
+Temenos termina con HP:1000
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:1000/4002 SP:418/432 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:6783/7500 Shields:9
+B-Light Wisp - HP:565/972 Shields:1
+C-Light Elemental - HP:1470/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Devourer of Dreams
+3.Light Elemental
+4.Light Wisp
+----------------------------------------
+Light Elemental usa Lightshot
+Temenos recibe 0 de daño elemental
+Temenos termina con HP:1000
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:1000/4002 SP:418/432 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:6783/7500 Shields:9
+B-Light Wisp - HP:565/972 Shields:1
+C-Light Elemental - HP:1470/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Devourer of Dreams
+3.Light Elemental
+4.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Temenos recibe 0 de daño elemental
+Temenos termina con HP:1000
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:1000/4002 SP:418/432 BP:3
+Equipo del enemigo
+A-Devourer of Dreams - HP:6783/7500 Shields:9
+B-Light Wisp - HP:565/972 Shields:1
+C-Light Elemental - HP:1470/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Devourer of Dreams
+3.Light Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Devourer of Dreams
+3.Light Elemental
+4.Light Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Lightning Bolt
+2: Holy Light
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Temenos usa Lightning Bolt
+Devourer of Dreams recibe 797 de daño de tipo Lightning
+Light Wisp recibe 917 de daño de tipo Lightning
+Light Elemental recibe 920 de daño de tipo Lightning
+Devourer of Dreams termina con HP:5986
+Light Wisp termina con HP:0
+Light Elemental termina con HP:550
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:1000/4002 SP:410/432 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:5986/7500 Shields:9
+B-Light Wisp - HP:0/972 Shields:1
+C-Light Elemental - HP:550/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Devourer of Dreams
+3.Light Elemental
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Temenos recibe 500 de daño
+Temenos termina con HP:500
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:500/4002 SP:410/432 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:5986/7500 Shields:9
+B-Light Wisp - HP:0/972 Shields:1
+C-Light Elemental - HP:550/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Devourer of Dreams
+3.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Temenos recibe 0 de daño elemental
+Temenos termina con HP:500
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:500/4002 SP:410/432 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:5986/7500 Shields:9
+B-Light Wisp - HP:0/972 Shields:1
+C-Light Elemental - HP:550/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Devourer of Dreams
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Devourer of Dreams
+3.Light Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Lightning Bolt
+2: Holy Light
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Devourer of Dreams - HP:5986/7500 Shields:9
+2: Light Elemental - HP:550/1880 Shields:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Temenos no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Temenos no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Temenos usa Holy Light
+Devourer of Dreams recibe 1281 de daño de tipo Light con debilidad
+Devourer of Dreams termina con HP:4705
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:500/4002 SP:404/432 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:4705/7500 Shields:8
+B-Light Wisp - HP:0/972 Shields:1
+C-Light Elemental - HP:550/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Devourer of Dreams
+3.Light Elemental
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Temenos recibe 250 de daño
+Temenos termina con HP:250
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:250/4002 SP:404/432 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:4705/7500 Shields:8
+B-Light Wisp - HP:0/972 Shields:1
+C-Light Elemental - HP:550/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Devourer of Dreams
+3.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Temenos recibe 0 de daño elemental
+Temenos termina con HP:250
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:250/4002 SP:404/432 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:4705/7500 Shields:8
+B-Light Wisp - HP:0/972 Shields:1
+C-Light Elemental - HP:550/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Devourer of Dreams
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Devourer of Dreams
+3.Light Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Lightning Bolt
+2: Holy Light
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Temenos no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Temenos no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Temenos no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Temenos usa Lightning Bolt
+Devourer of Dreams recibe 797 de daño de tipo Lightning
+Light Elemental recibe 920 de daño de tipo Lightning
+Devourer of Dreams termina con HP:3908
+Light Elemental termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:250/4002 SP:396/432 BP:0
+Equipo del enemigo
+A-Devourer of Dreams - HP:3908/7500 Shields:8
+B-Light Wisp - HP:0/972 Shields:1
+C-Light Elemental - HP:0/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Temenos recibe 125 de daño
+Temenos termina con HP:125
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:125/4002 SP:396/432 BP:0
+Equipo del enemigo
+A-Devourer of Dreams - HP:3908/7500 Shields:8
+B-Light Wisp - HP:0/972 Shields:1
+C-Light Elemental - HP:0/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Devourer of Dreams
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Devourer of Dreams - HP:3908/7500 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Temenos ataca
+Devourer of Dreams recibe 0 de daño de tipo Stave
+Devourer of Dreams termina con HP:3908
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:125/4002 SP:396/432 BP:0
+Equipo del enemigo
+A-Devourer of Dreams - HP:3908/7500 Shields:8
+B-Light Wisp - HP:0/972 Shields:1
+C-Light Elemental - HP:0/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Temenos recibe 63 de daño
+Temenos termina con HP:62
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:62/4002 SP:396/432 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:3908/7500 Shields:8
+B-Light Wisp - HP:0/972 Shields:1
+C-Light Elemental - HP:0/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Devourer of Dreams
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Lightning Bolt
+2: Holy Light
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Devourer of Dreams - HP:3908/7500 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Temenos no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Temenos no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos usa Holy Light
+Devourer of Dreams recibe 430 de daño de tipo Light con debilidad
+Devourer of Dreams termina con HP:3478
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:62/4002 SP:390/432 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:3478/7500 Shields:7
+B-Light Wisp - HP:0/972 Shields:1
+C-Light Elemental - HP:0/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Temenos recibe 31 de daño
+Temenos termina con HP:31
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:31/4002 SP:390/432 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:3478/7500 Shields:7
+B-Light Wisp - HP:0/972 Shields:1
+C-Light Elemental - HP:0/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Devourer of Dreams
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Lightning Bolt
+2: Holy Light
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Devourer of Dreams - HP:3478/7500 Shields:7
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos usa Holy Light
+Devourer of Dreams recibe 430 de daño de tipo Light con debilidad
+Devourer of Dreams termina con HP:3048
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:31/4002 SP:384/432 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:3048/7500 Shields:6
+B-Light Wisp - HP:0/972 Shields:1
+C-Light Elemental - HP:0/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Temenos recibe 16 de daño
+Temenos termina con HP:15
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:15/4002 SP:384/432 BP:3
+Equipo del enemigo
+A-Devourer of Dreams - HP:3048/7500 Shields:6
+B-Light Wisp - HP:0/972 Shields:1
+C-Light Elemental - HP:0/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Devourer of Dreams
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Lightning Bolt
+2: Holy Light
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos usa Lightning Bolt
+Devourer of Dreams recibe 287 de daño de tipo Lightning
+Devourer of Dreams termina con HP:2761
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:15/4002 SP:376/432 BP:3
+Equipo del enemigo
+A-Devourer of Dreams - HP:2761/7500 Shields:6
+B-Light Wisp - HP:0/972 Shields:1
+C-Light Elemental - HP:0/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Temenos recibe 8 de daño
+Temenos termina con HP:7
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:7/4002 SP:376/432 BP:4
+Equipo del enemigo
+A-Devourer of Dreams - HP:2761/7500 Shields:6
+B-Light Wisp - HP:0/972 Shields:1
+C-Light Elemental - HP:0/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Devourer of Dreams
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Devourer of Dreams - HP:2761/7500 Shields:6
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Devourer of Dreams recibe 0 de daño de tipo Stave
+Devourer of Dreams termina con HP:2761
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:7/4002 SP:376/432 BP:4
+Equipo del enemigo
+A-Devourer of Dreams - HP:2761/7500 Shields:6
+B-Light Wisp - HP:0/972 Shields:1
+C-Light Elemental - HP:0/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Temenos recibe 4 de daño
+Temenos termina con HP:3
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:3/4002 SP:376/432 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:2761/7500 Shields:6
+B-Light Wisp - HP:0/972 Shields:1
+C-Light Elemental - HP:0/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Devourer of Dreams
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:3/4002 SP:376/432 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:2761/7500 Shields:6
+B-Light Wisp - HP:0/972 Shields:1
+C-Light Elemental - HP:0/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Temenos recibe 2 de daño
+Temenos termina con HP:1
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:1/4002 SP:376/432 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:2761/7500 Shields:6
+B-Light Wisp - HP:0/972 Shields:1
+C-Light Elemental - HP:0/1880 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Devourer of Dreams
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Lightning Bolt
+2: Holy Light
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Devourer of Dreams - HP:2761/7500 Shields:6
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Temenos usa Holy Light
+Devourer of Dreams recibe 2982 de daño de tipo Light con debilidad
+Devourer of Dreams termina con HP:0
+----------------------------------------
+Gana equipo del jugador

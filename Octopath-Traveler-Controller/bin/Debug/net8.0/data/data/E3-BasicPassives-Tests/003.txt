@@ -1,0 +1,732 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+INPUT: 2
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Shaggy Meep - HP:1036/1036 Shields:3
+B-Red Fox - HP:1451/1451 Shields:3
+C-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Shaggy Meep
+3.War Wolf
+4.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Shaggy Meep
+3.War Wolf
+4.Red Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Fireball
+Shaggy Meep recibe 427 de daño de tipo Fire
+Red Fox recibe 432 de daño de tipo Fire
+War Wolf recibe 388 de daño de tipo Fire
+Shaggy Meep termina con HP:609
+Red Fox termina con HP:1019
+War Wolf termina con HP:3160
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:283/291 BP:1
+Equipo del enemigo
+A-Shaggy Meep - HP:609/1036 Shields:3
+B-Red Fox - HP:1019/1451 Shields:3
+C-War Wolf - HP:3160/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Shaggy Meep
+2.War Wolf
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Shaggy Meep
+3.War Wolf
+4.Red Fox
+----------------------------------------
+Shaggy Meep usa Attack
+Olberic recibe 61 de daño físico
+Olberic termina con HP:5720
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5720/5781 SP:283/291 BP:1
+Equipo del enemigo
+A-Shaggy Meep - HP:609/1036 Shields:3
+B-Red Fox - HP:1019/1451 Shields:3
+C-War Wolf - HP:3160/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Shaggy Meep
+3.War Wolf
+4.Red Fox
+----------------------------------------
+War Wolf usa Attack
+Olberic recibe 74 de daño físico
+Olberic termina con HP:5646
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5646/5781 SP:283/291 BP:1
+Equipo del enemigo
+A-Shaggy Meep - HP:609/1036 Shields:3
+B-Red Fox - HP:1019/1451 Shields:3
+C-War Wolf - HP:3160/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Shaggy Meep
+3.War Wolf
+4.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Olberic recibe 65 de daño físico
+Olberic termina con HP:5581
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5581/5781 SP:283/291 BP:2
+Equipo del enemigo
+A-Shaggy Meep - HP:609/1036 Shields:3
+B-Red Fox - HP:1019/1451 Shields:3
+C-War Wolf - HP:3160/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Shaggy Meep
+3.War Wolf
+4.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Shaggy Meep
+3.War Wolf
+4.Red Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Fireball
+Shaggy Meep recibe 427 de daño de tipo Fire
+Red Fox recibe 432 de daño de tipo Fire
+War Wolf recibe 388 de daño de tipo Fire
+Shaggy Meep termina con HP:182
+Red Fox termina con HP:587
+War Wolf termina con HP:2772
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5581/5781 SP:275/291 BP:2
+Equipo del enemigo
+A-Shaggy Meep - HP:182/1036 Shields:3
+B-Red Fox - HP:587/1451 Shields:3
+C-War Wolf - HP:2772/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Shaggy Meep
+2.War Wolf
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Shaggy Meep
+3.War Wolf
+4.Red Fox
+----------------------------------------
+Shaggy Meep usa Attack
+Olberic recibe 61 de daño físico
+Olberic termina con HP:5520
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5520/5781 SP:275/291 BP:2
+Equipo del enemigo
+A-Shaggy Meep - HP:182/1036 Shields:3
+B-Red Fox - HP:587/1451 Shields:3
+C-War Wolf - HP:2772/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Shaggy Meep
+3.War Wolf
+4.Red Fox
+----------------------------------------
+War Wolf usa Attack
+Olberic recibe 74 de daño físico
+Olberic termina con HP:5446
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5446/5781 SP:275/291 BP:2
+Equipo del enemigo
+A-Shaggy Meep - HP:182/1036 Shields:3
+B-Red Fox - HP:587/1451 Shields:3
+C-War Wolf - HP:2772/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Shaggy Meep
+3.War Wolf
+4.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Olberic recibe 65 de daño físico
+Olberic termina con HP:5381
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5381/5781 SP:275/291 BP:3
+Equipo del enemigo
+A-Shaggy Meep - HP:182/1036 Shields:3
+B-Red Fox - HP:587/1451 Shields:3
+C-War Wolf - HP:2772/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Shaggy Meep
+3.War Wolf
+4.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Shaggy Meep
+3.War Wolf
+4.Red Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Shaggy Meep - HP:182/1036 Shields:3
+2: Red Fox - HP:587/1451 Shields:3
+3: War Wolf - HP:2772/3548 Shields:2
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Shaggy Meep recibe 117 de daño de tipo Sword con debilidad
+Shaggy Meep termina con HP:65
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5381/5781 SP:275/291 BP:3
+Equipo del enemigo
+A-Shaggy Meep - HP:65/1036 Shields:2
+B-Red Fox - HP:587/1451 Shields:3
+C-War Wolf - HP:2772/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Shaggy Meep
+2.War Wolf
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Shaggy Meep
+3.War Wolf
+4.Red Fox
+----------------------------------------
+Shaggy Meep usa Attack
+Olberic recibe 61 de daño físico
+Olberic termina con HP:5320
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5320/5781 SP:275/291 BP:3
+Equipo del enemigo
+A-Shaggy Meep - HP:65/1036 Shields:2
+B-Red Fox - HP:587/1451 Shields:3
+C-War Wolf - HP:2772/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Shaggy Meep
+3.War Wolf
+4.Red Fox
+----------------------------------------
+War Wolf usa Attack
+Olberic recibe 74 de daño físico
+Olberic termina con HP:5246
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5246/5781 SP:275/291 BP:3
+Equipo del enemigo
+A-Shaggy Meep - HP:65/1036 Shields:2
+B-Red Fox - HP:587/1451 Shields:3
+C-War Wolf - HP:2772/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Shaggy Meep
+3.War Wolf
+4.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Olberic recibe 65 de daño físico
+Olberic termina con HP:5181
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5181/5781 SP:275/291 BP:4
+Equipo del enemigo
+A-Shaggy Meep - HP:65/1036 Shields:2
+B-Red Fox - HP:587/1451 Shields:3
+C-War Wolf - HP:2772/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Shaggy Meep
+3.War Wolf
+4.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Shaggy Meep
+3.War Wolf
+4.Red Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Shaggy Meep - HP:65/1036 Shields:2
+2: Red Fox - HP:587/1451 Shields:3
+3: War Wolf - HP:2772/3548 Shields:2
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Red Fox recibe 64 de daño de tipo Sword
+Red Fox termina con HP:523
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5181/5781 SP:275/291 BP:4
+Equipo del enemigo
+A-Shaggy Meep - HP:65/1036 Shields:2
+B-Red Fox - HP:523/1451 Shields:3
+C-War Wolf - HP:2772/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Shaggy Meep
+2.War Wolf
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Shaggy Meep
+3.War Wolf
+4.Red Fox
+----------------------------------------
+Shaggy Meep usa Attack
+Olberic recibe 61 de daño físico
+Olberic termina con HP:5120
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5120/5781 SP:275/291 BP:4
+Equipo del enemigo
+A-Shaggy Meep - HP:65/1036 Shields:2
+B-Red Fox - HP:523/1451 Shields:3
+C-War Wolf - HP:2772/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Shaggy Meep
+3.War Wolf
+4.Red Fox
+----------------------------------------
+War Wolf usa Attack
+Olberic recibe 74 de daño físico
+Olberic termina con HP:5046
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5046/5781 SP:275/291 BP:4
+Equipo del enemigo
+A-Shaggy Meep - HP:65/1036 Shields:2
+B-Red Fox - HP:523/1451 Shields:3
+C-War Wolf - HP:2772/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Shaggy Meep
+3.War Wolf
+4.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Olberic recibe 65 de daño físico
+Olberic termina con HP:4981
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4981/5781 SP:275/291 BP:5
+Equipo del enemigo
+A-Shaggy Meep - HP:65/1036 Shields:2
+B-Red Fox - HP:523/1451 Shields:3
+C-War Wolf - HP:2772/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Shaggy Meep
+3.War Wolf
+4.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Shaggy Meep
+3.War Wolf
+4.Red Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Shaggy Meep - HP:65/1036 Shields:2
+2: Red Fox - HP:523/1451 Shields:3
+3: War Wolf - HP:2772/3548 Shields:2
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+War Wolf recibe 106 de daño de tipo Sword con debilidad
+War Wolf termina con HP:2666
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4981/5781 SP:275/291 BP:5
+Equipo del enemigo
+A-Shaggy Meep - HP:65/1036 Shields:2
+B-Red Fox - HP:523/1451 Shields:3
+C-War Wolf - HP:2666/3548 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Shaggy Meep
+2.War Wolf
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Shaggy Meep
+3.War Wolf
+4.Red Fox
+----------------------------------------
+Shaggy Meep usa Attack
+Olberic recibe 61 de daño físico
+Olberic termina con HP:4920
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4920/5781 SP:275/291 BP:5
+Equipo del enemigo
+A-Shaggy Meep - HP:65/1036 Shields:2
+B-Red Fox - HP:523/1451 Shields:3
+C-War Wolf - HP:2666/3548 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Shaggy Meep
+3.War Wolf
+4.Red Fox
+----------------------------------------
+War Wolf usa Attack
+Olberic recibe 74 de daño físico
+Olberic termina con HP:4846
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4846/5781 SP:275/291 BP:5
+Equipo del enemigo
+A-Shaggy Meep - HP:65/1036 Shields:2
+B-Red Fox - HP:523/1451 Shields:3
+C-War Wolf - HP:2666/3548 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Shaggy Meep
+3.War Wolf
+4.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Olberic recibe 65 de daño físico
+Olberic termina con HP:4781
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4781/5781 SP:275/291 BP:5
+Equipo del enemigo
+A-Shaggy Meep - HP:65/1036 Shields:2
+B-Red Fox - HP:523/1451 Shields:3
+C-War Wolf - HP:2666/3548 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Shaggy Meep
+3.War Wolf
+4.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Shaggy Meep
+3.War Wolf
+4.Red Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Fireball
+Shaggy Meep recibe 427 de daño de tipo Fire
+Red Fox recibe 432 de daño de tipo Fire
+War Wolf recibe 388 de daño de tipo Fire
+Shaggy Meep termina con HP:0
+Red Fox termina con HP:91
+War Wolf termina con HP:2278
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4781/5781 SP:267/291 BP:5
+Equipo del enemigo
+A-Shaggy Meep - HP:0/1036 Shields:2
+B-Red Fox - HP:91/1451 Shields:3
+C-War Wolf - HP:2278/3548 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+3.Red Fox
+----------------------------------------
+War Wolf usa Attack
+Olberic recibe 74 de daño físico
+Olberic termina con HP:4707
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4707/5781 SP:267/291 BP:5
+Equipo del enemigo
+A-Shaggy Meep - HP:0/1036 Shields:2
+B-Red Fox - HP:91/1451 Shields:3
+C-War Wolf - HP:2278/3548 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+3.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Olberic recibe 65 de daño físico
+Olberic termina con HP:4642
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4642/5781 SP:267/291 BP:5
+Equipo del enemigo
+A-Shaggy Meep - HP:0/1036 Shields:2
+B-Red Fox - HP:91/1451 Shields:3
+C-War Wolf - HP:2278/3548 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.War Wolf
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+3.Red Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Fireball
+Red Fox recibe 432 de daño de tipo Fire
+War Wolf recibe 388 de daño de tipo Fire
+Red Fox termina con HP:0
+War Wolf termina con HP:1890
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4642/5781 SP:259/291 BP:5
+Equipo del enemigo
+A-Shaggy Meep - HP:0/1036 Shields:2
+B-Red Fox - HP:0/1451 Shields:3
+C-War Wolf - HP:1890/3548 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Olberic recibe 74 de daño físico
+Olberic termina con HP:4568
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4568/5781 SP:259/291 BP:5
+Equipo del enemigo
+A-Shaggy Meep - HP:0/1036 Shields:2
+B-Red Fox - HP:0/1451 Shields:3
+C-War Wolf - HP:1890/3548 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.War Wolf
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo

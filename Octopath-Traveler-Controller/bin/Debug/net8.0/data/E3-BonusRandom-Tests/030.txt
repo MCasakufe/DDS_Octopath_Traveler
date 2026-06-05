@@ -1,0 +1,1107 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+INPUT: 29
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:476/476 BP:1
+B-Throné - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Behemoth - HP:12690/12690 Shields:8
+B-Lightning Elemental - HP:2133/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Castti
+3.Behemoth
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Castti
+3.Behemoth
+4.Lightning Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Behemoth - HP:12690/12690 Shields:8
+2: Lightning Elemental - HP:2133/2133 Shields:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné ataca
+Lightning Elemental recibe 235 de daño de tipo Sword
+Lightning Elemental termina con HP:1898
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:476/476 BP:1
+B-Throné - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Behemoth - HP:12690/12690 Shields:8
+B-Lightning Elemental - HP:1898/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Castti
+3.Behemoth
+4.Lightning Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Revive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti usa Revive
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/476 BP:0
+B-Throné - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Behemoth - HP:12690/12690 Shields:8
+B-Lightning Elemental - HP:1898/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Castti
+3.Behemoth
+4.Lightning Elemental
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 568 de daño físico
+Throné recibe 785 de daño físico
+Castti termina con HP:4768
+Throné termina con HP:3662
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4768/5336 SP:426/476 BP:0
+B-Throné - HP:3662/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Behemoth - HP:12690/12690 Shields:8
+B-Lightning Elemental - HP:1898/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Castti
+3.Behemoth
+4.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Throné recibe 120 de daño elemental
+Throné termina con HP:3542
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4768/5336 SP:426/476 BP:0
+B-Throné - HP:3542/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Behemoth - HP:12690/12690 Shields:8
+B-Lightning Elemental - HP:1898/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Castti
+3.Behemoth
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Castti
+3.Behemoth
+4.Lightning Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4768/5336 SP:426/476 BP:0
+B-Throné - HP:3542/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Behemoth - HP:12690/12690 Shields:8
+B-Lightning Elemental - HP:1898/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Castti
+3.Behemoth
+4.Lightning Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:12690/12690 Shields:8
+2: Lightning Elemental - HP:1898/2133 Shields:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Castti ataca
+Behemoth recibe 163 de daño de tipo Axe con debilidad
+Behemoth termina con HP:12527
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4768/5336 SP:426/476 BP:0
+B-Throné - HP:3542/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Behemoth - HP:12527/12690 Shields:7
+B-Lightning Elemental - HP:1898/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Castti
+3.Behemoth
+4.Lightning Elemental
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 568 de daño físico
+Throné se defiende
+Throné recibe 392 de daño físico
+Castti termina con HP:4200
+Throné termina con HP:3150
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4200/5336 SP:426/476 BP:0
+B-Throné - HP:3150/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Behemoth - HP:12527/12690 Shields:7
+B-Lightning Elemental - HP:1898/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Castti
+3.Behemoth
+4.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Throné se defiende
+Throné recibe 60 de daño elemental
+Throné termina con HP:3090
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4200/5336 SP:426/476 BP:1
+B-Throné - HP:3090/4447 SP:332/332 BP:3
+Equipo del enemigo
+A-Behemoth - HP:12527/12690 Shields:7
+B-Lightning Elemental - HP:1898/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Castti
+3.Behemoth
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Castti
+3.Behemoth
+4.Lightning Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Behemoth - HP:12527/12690 Shields:7
+2: Lightning Elemental - HP:1898/2133 Shields:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné ataca
+Behemoth recibe 132 de daño de tipo Sword
+Behemoth termina con HP:12395
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4200/5336 SP:426/476 BP:1
+B-Throné - HP:3090/4447 SP:332/332 BP:3
+Equipo del enemigo
+A-Behemoth - HP:12395/12690 Shields:7
+B-Lightning Elemental - HP:1898/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Castti
+3.Behemoth
+4.Lightning Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:12395/12690 Shields:7
+2: Lightning Elemental - HP:1898/2133 Shields:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Behemoth recibe 163 de daño de tipo Axe con debilidad
+Behemoth termina con HP:12232
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4200/5336 SP:426/476 BP:1
+B-Throné - HP:3090/4447 SP:332/332 BP:3
+Equipo del enemigo
+A-Behemoth - HP:12232/12690 Shields:6
+B-Lightning Elemental - HP:1898/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Castti
+3.Behemoth
+4.Lightning Elemental
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 568 de daño físico
+Throné recibe 785 de daño físico
+Castti termina con HP:3632
+Throné termina con HP:2305
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3632/5336 SP:426/476 BP:1
+B-Throné - HP:2305/4447 SP:332/332 BP:3
+Equipo del enemigo
+A-Behemoth - HP:12232/12690 Shields:6
+B-Lightning Elemental - HP:1898/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Castti
+3.Behemoth
+4.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Throné recibe 120 de daño elemental
+Throné termina con HP:2185
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3632/5336 SP:426/476 BP:2
+B-Throné - HP:2185/4447 SP:332/332 BP:4
+Equipo del enemigo
+A-Behemoth - HP:12232/12690 Shields:6
+B-Lightning Elemental - HP:1898/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Castti
+3.Behemoth
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Castti
+3.Behemoth
+4.Lightning Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3632/5336 SP:426/476 BP:2
+B-Throné - HP:2185/4447 SP:332/332 BP:4
+Equipo del enemigo
+A-Behemoth - HP:12232/12690 Shields:6
+B-Lightning Elemental - HP:1898/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Castti
+3.Behemoth
+4.Lightning Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:12232/12690 Shields:6
+2: Lightning Elemental - HP:1898/2133 Shields:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Lightning Elemental recibe 212 de daño de tipo Axe
+Lightning Elemental termina con HP:1686
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3632/5336 SP:426/476 BP:2
+B-Throné - HP:2185/4447 SP:332/332 BP:4
+Equipo del enemigo
+A-Behemoth - HP:12232/12690 Shields:6
+B-Lightning Elemental - HP:1686/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Castti
+3.Behemoth
+4.Lightning Elemental
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 568 de daño físico
+Throné se defiende
+Throné recibe 392 de daño físico
+Castti termina con HP:3064
+Throné termina con HP:1793
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3064/5336 SP:426/476 BP:2
+B-Throné - HP:1793/4447 SP:332/332 BP:4
+Equipo del enemigo
+A-Behemoth - HP:12232/12690 Shields:6
+B-Lightning Elemental - HP:1686/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Castti
+3.Behemoth
+4.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Throné se defiende
+Throné recibe 60 de daño elemental
+Throné termina con HP:1733
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3064/5336 SP:426/476 BP:3
+B-Throné - HP:1733/4447 SP:332/332 BP:5
+Equipo del enemigo
+A-Behemoth - HP:12232/12690 Shields:6
+B-Lightning Elemental - HP:1686/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Castti
+3.Behemoth
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Castti
+3.Behemoth
+4.Lightning Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Holy Light
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Behemoth - HP:12232/12690 Shields:6
+2: Lightning Elemental - HP:1686/2133 Shields:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Throné usa Holy Light
+Lightning Elemental recibe 1508 de daño de tipo Light
+Lightning Elemental termina con HP:178
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3064/5336 SP:426/476 BP:3
+B-Throné - HP:1733/4447 SP:326/332 BP:3
+Equipo del enemigo
+A-Behemoth - HP:12232/12690 Shields:6
+B-Lightning Elemental - HP:178/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Castti
+3.Behemoth
+4.Lightning Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3064/5336 SP:426/476 BP:3
+B-Throné - HP:1733/4447 SP:326/332 BP:3
+Equipo del enemigo
+A-Behemoth - HP:12232/12690 Shields:6
+B-Lightning Elemental - HP:178/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Throné
+3.Behemoth
+4.Lightning Elemental
+----------------------------------------
+Behemoth usa Stampede
+Castti se defiende
+Castti recibe 284 de daño físico
+Throné recibe 785 de daño físico
+Castti termina con HP:2780
+Throné termina con HP:948
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2780/5336 SP:426/476 BP:3
+B-Throné - HP:948/4447 SP:326/332 BP:3
+Equipo del enemigo
+A-Behemoth - HP:12232/12690 Shields:6
+B-Lightning Elemental - HP:178/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Throné
+3.Behemoth
+4.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Throné recibe 120 de daño elemental
+Throné termina con HP:828
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2780/5336 SP:426/476 BP:4
+B-Throné - HP:828/4447 SP:326/332 BP:3
+Equipo del enemigo
+A-Behemoth - HP:12232/12690 Shields:6
+B-Lightning Elemental - HP:178/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Throné
+3.Behemoth
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Castti
+3.Behemoth
+4.Lightning Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Aelfric's Auspices
+2: Revive
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:2780/5336 SP:426/476 BP:4
+2: Throné - HP:828/4447 SP:326/332 BP:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Castti usa Aelfric's Auspices
+Throné activará sus habilidades 2 veces durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2780/5336 SP:396/476 BP:1
+B-Throné - HP:828/4447 SP:326/332 BP:3
+Equipo del enemigo
+A-Behemoth - HP:12232/12690 Shields:6
+B-Lightning Elemental - HP:178/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Behemoth
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Castti
+3.Behemoth
+4.Lightning Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2780/5336 SP:396/476 BP:1
+B-Throné - HP:828/4447 SP:326/332 BP:3
+Equipo del enemigo
+A-Behemoth - HP:12232/12690 Shields:6
+B-Lightning Elemental - HP:178/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Castti
+3.Behemoth
+4.Lightning Elemental
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 568 de daño físico
+Throné se defiende
+Throné recibe 392 de daño físico
+Castti termina con HP:2212
+Throné termina con HP:436
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2212/5336 SP:396/476 BP:1
+B-Throné - HP:436/4447 SP:326/332 BP:3
+Equipo del enemigo
+A-Behemoth - HP:12232/12690 Shields:6
+B-Lightning Elemental - HP:178/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Castti
+3.Behemoth
+4.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Throné se defiende
+Throné recibe 60 de daño elemental
+Throné termina con HP:376
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2212/5336 SP:396/476 BP:1
+B-Throné - HP:376/4447 SP:326/332 BP:4
+Equipo del enemigo
+A-Behemoth - HP:12232/12690 Shields:6
+B-Lightning Elemental - HP:178/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Castti
+3.Behemoth
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Castti
+3.Behemoth
+4.Lightning Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Behemoth - HP:12232/12690 Shields:6
+2: Lightning Elemental - HP:178/2133 Shields:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné ataca
+Lightning Elemental recibe 235 de daño de tipo Sword
+Lightning Elemental termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2212/5336 SP:396/476 BP:1
+B-Throné - HP:376/4447 SP:326/332 BP:4
+Equipo del enemigo
+A-Behemoth - HP:12232/12690 Shields:6
+B-Lightning Elemental - HP:0/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Castti
+3.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Revive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Revive
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2212/5336 SP:346/476 BP:1
+B-Throné - HP:376/4447 SP:326/332 BP:4
+Equipo del enemigo
+A-Behemoth - HP:12232/12690 Shields:6
+B-Lightning Elemental - HP:0/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Castti
+3.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 568 de daño físico
+Throné recibe 785 de daño físico
+Castti termina con HP:1644
+Throné termina con HP:0
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1644/5336 SP:346/476 BP:2
+B-Throné - HP:0/4447 SP:326/332 BP:4
+Equipo del enemigo
+A-Behemoth - HP:12232/12690 Shields:6
+B-Lightning Elemental - HP:0/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1644/5336 SP:346/476 BP:2
+B-Throné - HP:0/4447 SP:326/332 BP:4
+Equipo del enemigo
+A-Behemoth - HP:12232/12690 Shields:6
+B-Lightning Elemental - HP:0/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti se defiende
+Castti recibe 284 de daño físico
+Castti termina con HP:1360
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1360/5336 SP:346/476 BP:3
+B-Throné - HP:0/4447 SP:326/332 BP:4
+Equipo del enemigo
+A-Behemoth - HP:12232/12690 Shields:6
+B-Lightning Elemental - HP:0/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Aelfric's Auspices
+2: Revive
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti usa Revive
+Throné revive
+Throné recupera 918 de vida
+Throné termina con HP:919
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1360/5336 SP:296/476 BP:1
+B-Throné - HP:919/4447 SP:326/332 BP:4
+Equipo del enemigo
+A-Behemoth - HP:12232/12690 Shields:6
+B-Lightning Elemental - HP:0/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Castti
+3.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 568 de daño físico
+Throné recibe 785 de daño físico
+Castti termina con HP:792
+Throné termina con HP:134
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:792/5336 SP:296/476 BP:1
+B-Throné - HP:134/4447 SP:326/332 BP:5
+Equipo del enemigo
+A-Behemoth - HP:12232/12690 Shields:6
+B-Lightning Elemental - HP:0/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Castti
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Castti
+3.Behemoth
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Holy Light
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Behemoth - HP:12232/12690 Shields:6
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Throné usa Holy Light
+Behemoth recibe 679 de daño de tipo Light
+Behemoth termina con HP:11553
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:792/5336 SP:296/476 BP:1
+B-Throné - HP:134/4447 SP:320/332 BP:4
+Equipo del enemigo
+A-Behemoth - HP:11553/12690 Shields:6
+B-Lightning Elemental - HP:0/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Castti
+3.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Revive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti usa Revive
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:792/5336 SP:246/476 BP:0
+B-Throné - HP:134/4447 SP:320/332 BP:4
+Equipo del enemigo
+A-Behemoth - HP:11553/12690 Shields:6
+B-Lightning Elemental - HP:0/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Castti
+3.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 568 de daño físico
+Throné recibe 785 de daño físico
+Castti termina con HP:224
+Throné termina con HP:0
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:224/5336 SP:246/476 BP:0
+B-Throné - HP:0/4447 SP:320/332 BP:4
+Equipo del enemigo
+A-Behemoth - HP:11553/12690 Shields:6
+B-Lightning Elemental - HP:0/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:224/5336 SP:246/476 BP:0
+B-Throné - HP:0/4447 SP:320/332 BP:4
+Equipo del enemigo
+A-Behemoth - HP:11553/12690 Shields:6
+B-Lightning Elemental - HP:0/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti se defiende
+Castti recibe 284 de daño físico
+Castti termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

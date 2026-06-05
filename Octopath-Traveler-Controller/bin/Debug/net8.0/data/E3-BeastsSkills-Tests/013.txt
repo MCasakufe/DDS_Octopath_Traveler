@@ -1,0 +1,419 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+INPUT: 12
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:582/582 BP:1
+B-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Wanderweed - HP:1533/1533 Shields:3
+B-Curator - HP:1530/1530 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Olberic
+3.Wanderweed
+4.Curator
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Olberic
+3.Wanderweed
+4.Curator
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Fireball
+Wanderweed recibe 419 de daño de tipo Fire
+Curator recibe 451 de daño de tipo Fire
+Wanderweed termina con HP:1114
+Curator termina con HP:1079
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:574/582 BP:1
+B-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Wanderweed - HP:1114/1533 Shields:3
+B-Curator - HP:1079/1530 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Wanderweed
+3.Curator
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Olberic
+3.Wanderweed
+4.Curator
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Wanderweed - HP:1114/1533 Shields:3
+2: Curator - HP:1079/1530 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Curator recibe 377 de daño de tipo Sword
+Curator termina con HP:702
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:574/582 BP:1
+B-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Wanderweed - HP:1114/1533 Shields:3
+B-Curator - HP:702/1530 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Wanderweed
+2.Curator
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Olberic
+3.Wanderweed
+4.Curator
+----------------------------------------
+Wanderweed usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:5781
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:574/582 BP:1
+B-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Wanderweed - HP:1114/1533 Shields:3
+B-Curator - HP:702/1530 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Curator
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Olberic
+3.Wanderweed
+4.Curator
+----------------------------------------
+Curator usa Augmented Magic
+Wanderweed tendrá Increased Elemental Attack durante 2 rondas
+Wanderweed tendrá Increased Elemental Defense durante 2 rondas
+Curator tendrá Increased Elemental Attack durante 2 rondas
+Curator tendrá Increased Elemental Defense durante 2 rondas
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:574/582 BP:2
+B-Olberic - HP:5781/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Wanderweed - HP:1114/1533 Shields:3
+B-Curator - HP:702/1530 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Olberic
+3.Wanderweed
+4.Curator
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Olberic
+3.Wanderweed
+4.Curator
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Fireball
+Wanderweed recibe 279 de daño de tipo Fire
+Curator recibe 300 de daño de tipo Fire
+Wanderweed termina con HP:835
+Curator termina con HP:402
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:566/582 BP:2
+B-Olberic - HP:5781/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Wanderweed - HP:835/1533 Shields:3
+B-Curator - HP:402/1530 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Wanderweed
+3.Curator
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Olberic
+3.Wanderweed
+4.Curator
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Wanderweed - HP:835/1533 Shields:3
+2: Curator - HP:402/1530 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Curator recibe 377 de daño de tipo Sword
+Curator termina con HP:25
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:566/582 BP:2
+B-Olberic - HP:5781/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Wanderweed - HP:835/1533 Shields:3
+B-Curator - HP:25/1530 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Wanderweed
+2.Curator
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Olberic
+3.Wanderweed
+4.Curator
+----------------------------------------
+Wanderweed usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:5781
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:566/582 BP:2
+B-Olberic - HP:5781/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Wanderweed - HP:835/1533 Shields:3
+B-Curator - HP:25/1530 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Curator
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Olberic
+3.Wanderweed
+4.Curator
+----------------------------------------
+Curator usa Augmented Magic
+Wanderweed tendrá Increased Elemental Attack durante 2 rondas
+Wanderweed tendrá Increased Elemental Defense durante 2 rondas
+Curator tendrá Increased Elemental Attack durante 2 rondas
+Curator tendrá Increased Elemental Defense durante 2 rondas
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:566/582 BP:3
+B-Olberic - HP:5781/5781 SP:291/291 BP:3
+Equipo del enemigo
+A-Wanderweed - HP:835/1533 Shields:3
+B-Curator - HP:25/1530 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Olberic
+3.Wanderweed
+4.Curator
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Olberic
+3.Wanderweed
+4.Curator
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Fireball
+Wanderweed recibe 279 de daño de tipo Fire
+Curator recibe 300 de daño de tipo Fire
+Wanderweed termina con HP:556
+Curator termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:558/582 BP:3
+B-Olberic - HP:5781/5781 SP:291/291 BP:3
+Equipo del enemigo
+A-Wanderweed - HP:556/1533 Shields:3
+B-Curator - HP:0/1530 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Wanderweed
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Olberic
+3.Wanderweed
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Wanderweed - HP:556/1533 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Wanderweed recibe 478 de daño de tipo Sword con debilidad
+Wanderweed termina con HP:78
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:558/582 BP:3
+B-Olberic - HP:5781/5781 SP:291/291 BP:3
+Equipo del enemigo
+A-Wanderweed - HP:78/1533 Shields:2
+B-Curator - HP:0/1530 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Wanderweed
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Olberic
+3.Wanderweed
+----------------------------------------
+Wanderweed usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:5781
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:558/582 BP:4
+B-Olberic - HP:5781/5781 SP:291/291 BP:4
+Equipo del enemigo
+A-Wanderweed - HP:78/1533 Shields:2
+B-Curator - HP:0/1530 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Olberic
+3.Wanderweed
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Olberic
+3.Wanderweed
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Fireball
+Wanderweed recibe 279 de daño de tipo Fire
+Wanderweed termina con HP:0
+----------------------------------------
+Gana equipo del jugador

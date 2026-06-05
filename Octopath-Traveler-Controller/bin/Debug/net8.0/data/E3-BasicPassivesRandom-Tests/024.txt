@@ -1,0 +1,5906 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+INPUT: 23
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:2
+B-Partitio - HP:4891/4891 SP:314/314 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Partitio
+3.Mattias?
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Partitio
+3.Mattias?
+4.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Leghold Trap
+2: Lightning Bolt
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mattias? - HP:5780/5780 Shields:4
+2: Lord of the Flies - HP:5590/5590 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Leghold Trap
+Lord of the Flies tendrá menor prioridad de turno durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:311/317 BP:2
+B-Partitio - HP:4891/4891 SP:314/314 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Partitio
+3.Mattias?
+4.Lord of the Flies
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Mattias? - HP:5780/5780 Shields:4
+2: Lord of the Flies - HP:5590/5590 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Lord of the Flies recibe 0 de daño de tipo Bow con debilidad
+Lord of the Flies termina con HP:5590
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:311/317 BP:2
+B-Partitio - HP:4891/4891 SP:314/314 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Partitio
+3.Mattias?
+4.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Partitio recibe 660 de daño elemental
+Hikari termina con HP:5107
+Partitio termina con HP:4231
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5107/5781 SP:311/317 BP:2
+B-Partitio - HP:4231/4891 SP:314/314 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Partitio
+3.Mattias?
+4.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Partitio recibe 257 de daño físico
+Partitio termina con HP:3974
+----------------------------------------
+Partitio obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5107/5781 SP:311/317 BP:2
+B-Partitio - HP:3974/4891 SP:314/314 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Partitio
+3.Mattias?
+4.Lord of the Flies
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5685/5781 SP:311/317 BP:3
+B-Partitio - HP:3974/4891 SP:314/314 BP:3
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Hikari
+3.Mattias?
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Partitio
+3.Mattias?
+4.Lord of the Flies
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Luminescence
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio usa Luminescence
+Mattias? recibe 3 de daño de tipo Light con debilidad
+Lord of the Flies recibe 298 de daño de tipo Light con debilidad
+Mattias? termina con HP:5777
+Lord of the Flies termina con HP:5292
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5685/5781 SP:311/317 BP:3
+B-Partitio - HP:3974/4891 SP:305/314 BP:3
+Equipo del enemigo
+A-Mattias? - HP:5777/5780 Shields:3
+B-Lord of the Flies - HP:5292/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Partitio
+3.Mattias?
+4.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mattias? - HP:5777/5780 Shields:3
+2: Lord of the Flies - HP:5292/5590 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Mattias? recibe 45 de daño de tipo Spear
+Mattias? termina con HP:5732
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5685/5781 SP:311/317 BP:3
+B-Partitio - HP:3974/4891 SP:305/314 BP:3
+Equipo del enemigo
+A-Mattias? - HP:5732/5780 Shields:3
+B-Lord of the Flies - HP:5292/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Partitio
+3.Mattias?
+4.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Partitio recibe 660 de daño elemental
+Hikari termina con HP:5011
+Partitio termina con HP:3314
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5011/5781 SP:311/317 BP:3
+B-Partitio - HP:3314/4891 SP:305/314 BP:3
+Equipo del enemigo
+A-Mattias? - HP:5732/5780 Shields:3
+B-Lord of the Flies - HP:5292/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Partitio
+3.Mattias?
+4.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Partitio recibe 257 de daño físico
+Partitio termina con HP:3057
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5589/5781 SP:311/317 BP:4
+B-Partitio - HP:3057/4891 SP:305/314 BP:4
+Equipo del enemigo
+A-Mattias? - HP:5732/5780 Shields:3
+B-Lord of the Flies - HP:5292/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Partitio
+3.Mattias?
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Partitio
+3.Mattias?
+4.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5589/5781 SP:311/317 BP:4
+B-Partitio - HP:3057/4891 SP:305/314 BP:4
+Equipo del enemigo
+A-Mattias? - HP:5732/5780 Shields:3
+B-Lord of the Flies - HP:5292/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Partitio
+3.Mattias?
+4.Lord of the Flies
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Mattias? - HP:5732/5780 Shields:3
+2: Lord of the Flies - HP:5292/5590 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Mattias? recibe 0 de daño de tipo Bow
+Mattias? termina con HP:5732
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5589/5781 SP:311/317 BP:4
+B-Partitio - HP:3057/4891 SP:305/314 BP:4
+Equipo del enemigo
+A-Mattias? - HP:5732/5780 Shields:3
+B-Lord of the Flies - HP:5292/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Partitio
+3.Mattias?
+4.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari se defiende
+Hikari recibe 337 de daño elemental
+Partitio recibe 660 de daño elemental
+Hikari termina con HP:5252
+Partitio termina con HP:2397
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5252/5781 SP:311/317 BP:4
+B-Partitio - HP:2397/4891 SP:305/314 BP:4
+Equipo del enemigo
+A-Mattias? - HP:5732/5780 Shields:3
+B-Lord of the Flies - HP:5292/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Partitio
+3.Mattias?
+4.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Partitio recibe 257 de daño físico
+Partitio termina con HP:2140
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:311/317 BP:5
+B-Partitio - HP:2140/4891 SP:305/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5732/5780 Shields:3
+B-Lord of the Flies - HP:5292/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Partitio
+3.Mattias?
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Partitio
+3.Mattias?
+4.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mattias? - HP:5732/5780 Shields:3
+2: Lord of the Flies - HP:5292/5590 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Lord of the Flies recibe 99 de daño de tipo Spear con debilidad
+Lord of the Flies termina con HP:5193
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:311/317 BP:5
+B-Partitio - HP:2140/4891 SP:305/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5732/5780 Shields:3
+B-Lord of the Flies - HP:5193/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Partitio
+3.Mattias?
+4.Lord of the Flies
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:311/317 BP:5
+B-Partitio - HP:2140/4891 SP:305/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5732/5780 Shields:3
+B-Lord of the Flies - HP:5193/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Hikari
+3.Mattias?
+4.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Partitio se defiende
+Partitio recibe 330 de daño elemental
+Hikari termina con HP:5107
+Partitio termina con HP:1810
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5107/5781 SP:311/317 BP:5
+B-Partitio - HP:1810/4891 SP:305/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5732/5780 Shields:3
+B-Lord of the Flies - HP:5193/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Hikari
+3.Mattias?
+4.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Partitio se defiende
+Partitio recibe 128 de daño físico
+Partitio termina con HP:1682
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5685/5781 SP:311/317 BP:5
+B-Partitio - HP:1682/4891 SP:305/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5732/5780 Shields:3
+B-Lord of the Flies - HP:5193/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Hikari
+3.Mattias?
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Partitio
+3.Mattias?
+4.Lord of the Flies
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Luminescence
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio usa Luminescence
+Mattias? recibe 3 de daño de tipo Light con debilidad
+Lord of the Flies recibe 298 de daño de tipo Light con debilidad
+Lord of the Flies entra en Breaking Point
+Mattias? termina con HP:5729
+Lord of the Flies termina con HP:4895
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5685/5781 SP:311/317 BP:5
+B-Partitio - HP:1682/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5729/5780 Shields:2
+B-Lord of the Flies - HP:4895/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Partitio
+3.Mattias?
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5685/5781 SP:311/317 BP:5
+B-Partitio - HP:1682/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5729/5780 Shields:2
+B-Lord of the Flies - HP:4895/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Partitio
+3.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Hikari se defiende
+Hikari recibe 337 de daño elemental
+Partitio recibe 660 de daño elemental
+Hikari termina con HP:5348
+Partitio termina con HP:1022
+----------------------------------------
+Partitio obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5348/5781 SP:311/317 BP:5
+B-Partitio - HP:1022/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5729/5780 Shields:2
+B-Lord of the Flies - HP:4895/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Partitio
+3.Mattias?
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:311/317 BP:5
+B-Partitio - HP:1022/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5729/5780 Shields:2
+B-Lord of the Flies - HP:4895/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Partitio
+3.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Hikari
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:311/317 BP:5
+B-Partitio - HP:1022/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5729/5780 Shields:2
+B-Lord of the Flies - HP:4895/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Hikari
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Mattias? - HP:5729/5780 Shields:2
+2: Lord of the Flies - HP:4895/5590 Shields:0
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Lord of the Flies recibe 0 de daño de tipo Bow con debilidad
+Lord of the Flies termina con HP:4895
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:311/317 BP:5
+B-Partitio - HP:1022/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5729/5780 Shields:2
+B-Lord of the Flies - HP:4895/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Hikari
+3.Partitio
+4.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Hikari se defiende
+Hikari recibe 337 de daño elemental
+Partitio recibe 660 de daño elemental
+Hikari termina con HP:5444
+Partitio termina con HP:362
+----------------------------------------
+Partitio obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5444/5781 SP:311/317 BP:5
+B-Partitio - HP:362/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5729/5780 Shields:2
+B-Lord of the Flies - HP:4895/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Hikari
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Mattias? - HP:5729/5780 Shields:2
+2: Lord of the Flies - HP:4895/5590 Shields:0
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Mattias? recibe 0 de daño de tipo Spear
+Mattias? termina con HP:5729
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:311/317 BP:5
+B-Partitio - HP:362/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5729/5780 Shields:2
+B-Lord of the Flies - HP:4895/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Hikari
+3.Partitio
+4.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Partitio
+3.Mattias?
+4.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Partitio recibe 257 de daño físico
+Partitio termina con HP:105
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:311/317 BP:5
+B-Partitio - HP:105/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5729/5780 Shields:2
+B-Lord of the Flies - HP:4895/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Partitio
+3.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Partitio
+3.Mattias?
+4.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:311/317 BP:5
+B-Partitio - HP:105/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5729/5780 Shields:2
+B-Lord of the Flies - HP:4895/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Partitio
+3.Mattias?
+4.Lord of the Flies
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:311/317 BP:5
+B-Partitio - HP:105/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5729/5780 Shields:2
+B-Lord of the Flies - HP:4895/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Partitio
+3.Mattias?
+4.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari se defiende
+Hikari recibe 337 de daño elemental
+Partitio se defiende
+Partitio recibe 330 de daño elemental
+Hikari termina con HP:5444
+Partitio termina con HP:0
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:311/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5729/5780 Shields:2
+B-Lord of the Flies - HP:4895/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Leghold Trap
+2: Lightning Bolt
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Lightning Bolt
+Mattias? recibe 0 de daño de tipo Lightning
+Lord of the Flies recibe 0 de daño de tipo Lightning
+Mattias? termina con HP:5729
+Lord of the Flies termina con HP:4895
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:303/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5729/5780 Shields:2
+B-Lord of the Flies - HP:4895/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Hikari termina con HP:5107
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5107/5781 SP:303/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5729/5780 Shields:2
+B-Lord of the Flies - HP:4895/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari recibe 212 de daño físico
+Hikari termina con HP:4895
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5473/5781 SP:303/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5729/5780 Shields:2
+B-Lord of the Flies - HP:4895/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mattias? - HP:5729/5780 Shields:2
+2: Lord of the Flies - HP:4895/5590 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Lord of the Flies recibe 66 de daño de tipo Sword
+Lord of the Flies termina con HP:4829
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5473/5781 SP:303/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5729/5780 Shields:2
+B-Lord of the Flies - HP:4829/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Hikari termina con HP:4799
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4799/5781 SP:303/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5729/5780 Shields:2
+B-Lord of the Flies - HP:4829/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari recibe 212 de daño físico
+Hikari termina con HP:4587
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5165/5781 SP:303/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5729/5780 Shields:2
+B-Lord of the Flies - HP:4829/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mattias? - HP:5729/5780 Shields:2
+2: Lord of the Flies - HP:4829/5590 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Mattias? recibe 67 de daño de tipo Sword con debilidad
+Mattias? termina con HP:5662
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5165/5781 SP:303/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5662/5780 Shields:1
+B-Lord of the Flies - HP:4829/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Hikari termina con HP:4491
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4491/5781 SP:303/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5662/5780 Shields:1
+B-Lord of the Flies - HP:4829/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari recibe 212 de daño físico
+Hikari termina con HP:4279
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4857/5781 SP:303/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5662/5780 Shields:1
+B-Lord of the Flies - HP:4829/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4857/5781 SP:303/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5662/5780 Shields:1
+B-Lord of the Flies - HP:4829/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari se defiende
+Hikari recibe 337 de daño elemental
+Hikari termina con HP:4520
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4520/5781 SP:303/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5662/5780 Shields:1
+B-Lord of the Flies - HP:4829/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari se defiende
+Hikari recibe 106 de daño físico
+Hikari termina con HP:4414
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4992/5781 SP:303/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5662/5780 Shields:1
+B-Lord of the Flies - HP:4829/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Leghold Trap
+2: Lightning Bolt
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mattias? - HP:5662/5780 Shields:1
+2: Lord of the Flies - HP:4829/5590 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Leghold Trap
+Lord of the Flies tendrá menor prioridad de turno durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4992/5781 SP:297/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5662/5780 Shields:1
+B-Lord of the Flies - HP:4829/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Hikari termina con HP:4318
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4318/5781 SP:297/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5662/5780 Shields:1
+B-Lord of the Flies - HP:4829/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari recibe 212 de daño físico
+Hikari termina con HP:4106
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4684/5781 SP:297/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5662/5780 Shields:1
+B-Lord of the Flies - HP:4829/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4684/5781 SP:297/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5662/5780 Shields:1
+B-Lord of the Flies - HP:4829/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari se defiende
+Hikari recibe 337 de daño elemental
+Hikari termina con HP:4347
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4347/5781 SP:297/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5662/5780 Shields:1
+B-Lord of the Flies - HP:4829/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari se defiende
+Hikari recibe 106 de daño físico
+Hikari termina con HP:4241
+----------------------------------------
+INICIA RONDA 14
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4819/5781 SP:297/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5662/5780 Shields:1
+B-Lord of the Flies - HP:4829/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4819/5781 SP:297/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5662/5780 Shields:1
+B-Lord of the Flies - HP:4829/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari se defiende
+Hikari recibe 337 de daño elemental
+Hikari termina con HP:4482
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4482/5781 SP:297/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5662/5780 Shields:1
+B-Lord of the Flies - HP:4829/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari se defiende
+Hikari recibe 106 de daño físico
+Hikari termina con HP:4376
+----------------------------------------
+INICIA RONDA 15
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4954/5781 SP:297/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5662/5780 Shields:1
+B-Lord of the Flies - HP:4829/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4954/5781 SP:297/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5662/5780 Shields:1
+B-Lord of the Flies - HP:4829/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari se defiende
+Hikari recibe 337 de daño elemental
+Hikari termina con HP:4617
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4617/5781 SP:297/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5662/5780 Shields:1
+B-Lord of the Flies - HP:4829/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari se defiende
+Hikari recibe 106 de daño físico
+Hikari termina con HP:4511
+----------------------------------------
+INICIA RONDA 16
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5089/5781 SP:297/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5662/5780 Shields:1
+B-Lord of the Flies - HP:4829/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5089/5781 SP:297/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5662/5780 Shields:1
+B-Lord of the Flies - HP:4829/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari se defiende
+Hikari recibe 337 de daño elemental
+Hikari termina con HP:4752
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4752/5781 SP:297/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5662/5780 Shields:1
+B-Lord of the Flies - HP:4829/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari se defiende
+Hikari recibe 106 de daño físico
+Hikari termina con HP:4646
+----------------------------------------
+INICIA RONDA 17
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5224/5781 SP:297/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5662/5780 Shields:1
+B-Lord of the Flies - HP:4829/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Leghold Trap
+2: Lightning Bolt
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mattias? - HP:5662/5780 Shields:1
+2: Lord of the Flies - HP:4829/5590 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Leghold Trap
+Mattias? tendrá menor prioridad de turno durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5224/5781 SP:291/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5662/5780 Shields:1
+B-Lord of the Flies - HP:4829/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Lord of the Flies
+3.Mattias?
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari recibe 212 de daño físico
+Hikari termina con HP:5012
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5012/5781 SP:291/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5662/5780 Shields:1
+B-Lord of the Flies - HP:4829/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Lord of the Flies
+3.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Hikari termina con HP:4338
+----------------------------------------
+INICIA RONDA 18
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4916/5781 SP:291/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5662/5780 Shields:1
+B-Lord of the Flies - HP:4829/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Lord of the Flies
+3.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mattias? - HP:5662/5780 Shields:1
+2: Lord of the Flies - HP:4829/5590 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Lord of the Flies recibe 66 de daño de tipo Sword
+Lord of the Flies termina con HP:4763
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4916/5781 SP:291/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5662/5780 Shields:1
+B-Lord of the Flies - HP:4763/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari recibe 212 de daño físico
+Hikari termina con HP:4704
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4704/5781 SP:291/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5662/5780 Shields:1
+B-Lord of the Flies - HP:4763/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Hikari termina con HP:4030
+----------------------------------------
+INICIA RONDA 19
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4608/5781 SP:291/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5662/5780 Shields:1
+B-Lord of the Flies - HP:4763/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Leghold Trap
+2: Lightning Bolt
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Lightning Bolt
+Mattias? recibe 0 de daño de tipo Lightning
+Lord of the Flies recibe 0 de daño de tipo Lightning
+Mattias? termina con HP:5662
+Lord of the Flies termina con HP:4763
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4608/5781 SP:283/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5662/5780 Shields:1
+B-Lord of the Flies - HP:4763/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Hikari termina con HP:3934
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3934/5781 SP:283/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5662/5780 Shields:1
+B-Lord of the Flies - HP:4763/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari recibe 212 de daño físico
+Hikari termina con HP:3722
+----------------------------------------
+INICIA RONDA 20
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4300/5781 SP:283/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5662/5780 Shields:1
+B-Lord of the Flies - HP:4763/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mattias? - HP:5662/5780 Shields:1
+2: Lord of the Flies - HP:4763/5590 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Mattias? recibe 45 de daño de tipo Spear
+Mattias? termina con HP:5617
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4300/5781 SP:283/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5617/5780 Shields:1
+B-Lord of the Flies - HP:4763/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Hikari termina con HP:3626
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3626/5781 SP:283/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5617/5780 Shields:1
+B-Lord of the Flies - HP:4763/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari recibe 212 de daño físico
+Hikari termina con HP:3414
+----------------------------------------
+INICIA RONDA 21
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3992/5781 SP:283/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5617/5780 Shields:1
+B-Lord of the Flies - HP:4763/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3992/5781 SP:283/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5617/5780 Shields:1
+B-Lord of the Flies - HP:4763/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari se defiende
+Hikari recibe 337 de daño elemental
+Hikari termina con HP:3655
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3655/5781 SP:283/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5617/5780 Shields:1
+B-Lord of the Flies - HP:4763/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari se defiende
+Hikari recibe 106 de daño físico
+Hikari termina con HP:3549
+----------------------------------------
+INICIA RONDA 22
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4127/5781 SP:283/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5617/5780 Shields:1
+B-Lord of the Flies - HP:4763/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4127/5781 SP:283/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5617/5780 Shields:1
+B-Lord of the Flies - HP:4763/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari se defiende
+Hikari recibe 337 de daño elemental
+Hikari termina con HP:3790
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3790/5781 SP:283/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5617/5780 Shields:1
+B-Lord of the Flies - HP:4763/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari se defiende
+Hikari recibe 106 de daño físico
+Hikari termina con HP:3684
+----------------------------------------
+INICIA RONDA 23
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4262/5781 SP:283/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5617/5780 Shields:1
+B-Lord of the Flies - HP:4763/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mattias? - HP:5617/5780 Shields:1
+2: Lord of the Flies - HP:4763/5590 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Mattias? recibe 67 de daño de tipo Sword con debilidad
+Mattias? entra en Breaking Point
+Mattias? termina con HP:5550
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4262/5781 SP:283/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5550/5780 Shields:0
+B-Lord of the Flies - HP:4763/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari recibe 212 de daño físico
+Hikari termina con HP:4050
+----------------------------------------
+INICIA RONDA 24
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4628/5781 SP:283/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5550/5780 Shields:0
+B-Lord of the Flies - HP:4763/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mattias?
+2.Hikari
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4628/5781 SP:283/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5550/5780 Shields:0
+B-Lord of the Flies - HP:4763/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mattias?
+2.Hikari
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari se defiende
+Hikari recibe 106 de daño físico
+Hikari termina con HP:4522
+----------------------------------------
+INICIA RONDA 25
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5100/5781 SP:283/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5550/5780 Shields:4
+B-Lord of the Flies - HP:4763/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Hikari
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Hikari termina con HP:4426
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4426/5781 SP:283/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5550/5780 Shields:4
+B-Lord of the Flies - HP:4763/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4426/5781 SP:283/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5550/5780 Shields:4
+B-Lord of the Flies - HP:4763/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari se defiende
+Hikari recibe 106 de daño físico
+Hikari termina con HP:4320
+----------------------------------------
+INICIA RONDA 26
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4898/5781 SP:283/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5550/5780 Shields:4
+B-Lord of the Flies - HP:4763/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Leghold Trap
+2: Lightning Bolt
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mattias? - HP:5550/5780 Shields:4
+2: Lord of the Flies - HP:4763/5590 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Leghold Trap
+Mattias? tendrá menor prioridad de turno durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4898/5781 SP:277/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5550/5780 Shields:4
+B-Lord of the Flies - HP:4763/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Lord of the Flies
+3.Mattias?
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari recibe 212 de daño físico
+Hikari termina con HP:4686
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4686/5781 SP:277/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5550/5780 Shields:4
+B-Lord of the Flies - HP:4763/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Lord of the Flies
+3.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Hikari termina con HP:4012
+----------------------------------------
+INICIA RONDA 27
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4590/5781 SP:277/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5550/5780 Shields:4
+B-Lord of the Flies - HP:4763/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Lord of the Flies
+3.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4590/5781 SP:277/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5550/5780 Shields:4
+B-Lord of the Flies - HP:4763/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari se defiende
+Hikari recibe 106 de daño físico
+Hikari termina con HP:4484
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4484/5781 SP:277/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5550/5780 Shields:4
+B-Lord of the Flies - HP:4763/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari se defiende
+Hikari recibe 337 de daño elemental
+Hikari termina con HP:4147
+----------------------------------------
+INICIA RONDA 28
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4725/5781 SP:277/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5550/5780 Shields:4
+B-Lord of the Flies - HP:4763/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mattias? - HP:5550/5780 Shields:4
+2: Lord of the Flies - HP:4763/5590 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Lord of the Flies recibe 99 de daño de tipo Spear con debilidad
+Lord of the Flies termina con HP:4664
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4725/5781 SP:277/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5550/5780 Shields:4
+B-Lord of the Flies - HP:4664/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Hikari termina con HP:4051
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4051/5781 SP:277/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5550/5780 Shields:4
+B-Lord of the Flies - HP:4664/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari recibe 212 de daño físico
+Hikari termina con HP:3839
+----------------------------------------
+INICIA RONDA 29
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4417/5781 SP:277/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5550/5780 Shields:4
+B-Lord of the Flies - HP:4664/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mattias? - HP:5550/5780 Shields:4
+2: Lord of the Flies - HP:4664/5590 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Mattias? recibe 67 de daño de tipo Sword con debilidad
+Mattias? termina con HP:5483
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4417/5781 SP:277/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5483/5780 Shields:3
+B-Lord of the Flies - HP:4664/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Hikari termina con HP:3743
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3743/5781 SP:277/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5483/5780 Shields:3
+B-Lord of the Flies - HP:4664/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari recibe 212 de daño físico
+Hikari termina con HP:3531
+----------------------------------------
+INICIA RONDA 30
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4109/5781 SP:277/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5483/5780 Shields:3
+B-Lord of the Flies - HP:4664/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Leghold Trap
+2: Lightning Bolt
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Lightning Bolt
+Mattias? recibe 0 de daño de tipo Lightning
+Lord of the Flies recibe 0 de daño de tipo Lightning
+Mattias? termina con HP:5483
+Lord of the Flies termina con HP:4664
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:4109/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5483/5780 Shields:3
+B-Lord of the Flies - HP:4664/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Hikari termina con HP:3435
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3435/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5483/5780 Shields:3
+B-Lord of the Flies - HP:4664/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari recibe 212 de daño físico
+Hikari termina con HP:3223
+----------------------------------------
+INICIA RONDA 31
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3801/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5483/5780 Shields:3
+B-Lord of the Flies - HP:4664/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3801/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5483/5780 Shields:3
+B-Lord of the Flies - HP:4664/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari se defiende
+Hikari recibe 337 de daño elemental
+Hikari termina con HP:3464
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3464/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5483/5780 Shields:3
+B-Lord of the Flies - HP:4664/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari se defiende
+Hikari recibe 106 de daño físico
+Hikari termina con HP:3358
+----------------------------------------
+INICIA RONDA 32
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3936/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5483/5780 Shields:3
+B-Lord of the Flies - HP:4664/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mattias? - HP:5483/5780 Shields:3
+2: Lord of the Flies - HP:4664/5590 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Lord of the Flies recibe 99 de daño de tipo Spear con debilidad
+Lord of the Flies termina con HP:4565
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3936/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5483/5780 Shields:3
+B-Lord of the Flies - HP:4565/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Hikari termina con HP:3262
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3262/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5483/5780 Shields:3
+B-Lord of the Flies - HP:4565/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari recibe 212 de daño físico
+Hikari termina con HP:3050
+----------------------------------------
+INICIA RONDA 33
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3628/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5483/5780 Shields:3
+B-Lord of the Flies - HP:4565/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mattias? - HP:5483/5780 Shields:3
+2: Lord of the Flies - HP:4565/5590 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Mattias? recibe 67 de daño de tipo Sword con debilidad
+Mattias? termina con HP:5416
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3628/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5416/5780 Shields:2
+B-Lord of the Flies - HP:4565/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Hikari termina con HP:2954
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2954/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5416/5780 Shields:2
+B-Lord of the Flies - HP:4565/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari recibe 212 de daño físico
+Hikari termina con HP:2742
+----------------------------------------
+INICIA RONDA 34
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3320/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5416/5780 Shields:2
+B-Lord of the Flies - HP:4565/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mattias? - HP:5416/5780 Shields:2
+2: Lord of the Flies - HP:4565/5590 Shields:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Lord of the Flies recibe 66 de daño de tipo Sword
+Lord of the Flies termina con HP:4499
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3320/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5416/5780 Shields:2
+B-Lord of the Flies - HP:4499/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Hikari termina con HP:2646
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2646/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5416/5780 Shields:2
+B-Lord of the Flies - HP:4499/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari recibe 212 de daño físico
+Hikari termina con HP:2434
+----------------------------------------
+INICIA RONDA 35
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3012/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5416/5780 Shields:2
+B-Lord of the Flies - HP:4499/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3012/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5416/5780 Shields:2
+B-Lord of the Flies - HP:4499/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari se defiende
+Hikari recibe 337 de daño elemental
+Hikari termina con HP:2675
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2675/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5416/5780 Shields:2
+B-Lord of the Flies - HP:4499/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari se defiende
+Hikari recibe 106 de daño físico
+Hikari termina con HP:2569
+----------------------------------------
+INICIA RONDA 36
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3147/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5416/5780 Shields:2
+B-Lord of the Flies - HP:4499/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mattias? - HP:5416/5780 Shields:2
+2: Lord of the Flies - HP:4499/5590 Shields:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Lord of the Flies recibe 99 de daño de tipo Spear con debilidad
+Lord of the Flies entra en Breaking Point
+Lord of the Flies termina con HP:4400
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3147/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5416/5780 Shields:2
+B-Lord of the Flies - HP:4400/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Hikari termina con HP:2473
+----------------------------------------
+INICIA RONDA 37
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3051/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5416/5780 Shields:2
+B-Lord of the Flies - HP:4400/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Hikari
+3.Mattias?
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3051/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5416/5780 Shields:2
+B-Lord of the Flies - HP:4400/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Hikari
+3.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Hikari se defiende
+Hikari recibe 337 de daño elemental
+Hikari termina con HP:2714
+----------------------------------------
+INICIA RONDA 38
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3292/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5416/5780 Shields:2
+B-Lord of the Flies - HP:4400/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Hikari
+3.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari recibe 212 de daño físico
+Hikari termina con HP:3080
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3080/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5416/5780 Shields:2
+B-Lord of the Flies - HP:4400/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3080/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5416/5780 Shields:2
+B-Lord of the Flies - HP:4400/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari se defiende
+Hikari recibe 337 de daño elemental
+Hikari termina con HP:2743
+----------------------------------------
+INICIA RONDA 39
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3321/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5416/5780 Shields:2
+B-Lord of the Flies - HP:4400/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mattias? - HP:5416/5780 Shields:2
+2: Lord of the Flies - HP:4400/5590 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Mattias? recibe 45 de daño de tipo Spear
+Mattias? termina con HP:5371
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3321/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5371/5780 Shields:2
+B-Lord of the Flies - HP:4400/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Hikari termina con HP:2647
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2647/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5371/5780 Shields:2
+B-Lord of the Flies - HP:4400/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari recibe 212 de daño físico
+Hikari termina con HP:2435
+----------------------------------------
+INICIA RONDA 40
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3013/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5371/5780 Shields:2
+B-Lord of the Flies - HP:4400/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mattias? - HP:5371/5780 Shields:2
+2: Lord of the Flies - HP:4400/5590 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Lord of the Flies recibe 99 de daño de tipo Spear con debilidad
+Lord of the Flies termina con HP:4301
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3013/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5371/5780 Shields:2
+B-Lord of the Flies - HP:4301/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Hikari termina con HP:2339
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2339/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5371/5780 Shields:2
+B-Lord of the Flies - HP:4301/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari recibe 212 de daño físico
+Hikari termina con HP:2127
+----------------------------------------
+INICIA RONDA 41
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2705/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5371/5780 Shields:2
+B-Lord of the Flies - HP:4301/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mattias? - HP:5371/5780 Shields:2
+2: Lord of the Flies - HP:4301/5590 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Lord of the Flies recibe 66 de daño de tipo Sword
+Lord of the Flies termina con HP:4235
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2705/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5371/5780 Shields:2
+B-Lord of the Flies - HP:4235/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Hikari termina con HP:2031
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2031/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5371/5780 Shields:2
+B-Lord of the Flies - HP:4235/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari recibe 212 de daño físico
+Hikari termina con HP:1819
+----------------------------------------
+INICIA RONDA 42
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2397/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5371/5780 Shields:2
+B-Lord of the Flies - HP:4235/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2397/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5371/5780 Shields:2
+B-Lord of the Flies - HP:4235/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari se defiende
+Hikari recibe 337 de daño elemental
+Hikari termina con HP:2060
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2060/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5371/5780 Shields:2
+B-Lord of the Flies - HP:4235/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari se defiende
+Hikari recibe 106 de daño físico
+Hikari termina con HP:1954
+----------------------------------------
+INICIA RONDA 43
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2532/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5371/5780 Shields:2
+B-Lord of the Flies - HP:4235/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2532/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5371/5780 Shields:2
+B-Lord of the Flies - HP:4235/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari se defiende
+Hikari recibe 337 de daño elemental
+Hikari termina con HP:2195
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2195/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5371/5780 Shields:2
+B-Lord of the Flies - HP:4235/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari se defiende
+Hikari recibe 106 de daño físico
+Hikari termina con HP:2089
+----------------------------------------
+INICIA RONDA 44
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2667/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5371/5780 Shields:2
+B-Lord of the Flies - HP:4235/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2667/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5371/5780 Shields:2
+B-Lord of the Flies - HP:4235/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari se defiende
+Hikari recibe 337 de daño elemental
+Hikari termina con HP:2330
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2330/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5371/5780 Shields:2
+B-Lord of the Flies - HP:4235/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari se defiende
+Hikari recibe 106 de daño físico
+Hikari termina con HP:2224
+----------------------------------------
+INICIA RONDA 45
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2802/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5371/5780 Shields:2
+B-Lord of the Flies - HP:4235/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2802/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5371/5780 Shields:2
+B-Lord of the Flies - HP:4235/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari se defiende
+Hikari recibe 337 de daño elemental
+Hikari termina con HP:2465
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2465/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5371/5780 Shields:2
+B-Lord of the Flies - HP:4235/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari se defiende
+Hikari recibe 106 de daño físico
+Hikari termina con HP:2359
+----------------------------------------
+INICIA RONDA 46
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2937/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5371/5780 Shields:2
+B-Lord of the Flies - HP:4235/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2937/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5371/5780 Shields:2
+B-Lord of the Flies - HP:4235/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari se defiende
+Hikari recibe 337 de daño elemental
+Hikari termina con HP:2600
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2600/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5371/5780 Shields:2
+B-Lord of the Flies - HP:4235/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari se defiende
+Hikari recibe 106 de daño físico
+Hikari termina con HP:2494
+----------------------------------------
+INICIA RONDA 47
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3072/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5371/5780 Shields:2
+B-Lord of the Flies - HP:4235/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3072/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5371/5780 Shields:2
+B-Lord of the Flies - HP:4235/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari se defiende
+Hikari recibe 337 de daño elemental
+Hikari termina con HP:2735
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2735/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5371/5780 Shields:2
+B-Lord of the Flies - HP:4235/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari se defiende
+Hikari recibe 106 de daño físico
+Hikari termina con HP:2629
+----------------------------------------
+INICIA RONDA 48
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3207/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5371/5780 Shields:2
+B-Lord of the Flies - HP:4235/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mattias? - HP:5371/5780 Shields:2
+2: Lord of the Flies - HP:4235/5590 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Mattias? recibe 67 de daño de tipo Sword con debilidad
+Mattias? termina con HP:5304
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3207/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5304/5780 Shields:1
+B-Lord of the Flies - HP:4235/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Hikari termina con HP:2533
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2533/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5304/5780 Shields:1
+B-Lord of the Flies - HP:4235/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari recibe 212 de daño físico
+Hikari termina con HP:2321
+----------------------------------------
+INICIA RONDA 49
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2899/5781 SP:269/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5304/5780 Shields:1
+B-Lord of the Flies - HP:4235/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Leghold Trap
+2: Lightning Bolt
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mattias? - HP:5304/5780 Shields:1
+2: Lord of the Flies - HP:4235/5590 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Leghold Trap
+Lord of the Flies tendrá menor prioridad de turno durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2899/5781 SP:263/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5304/5780 Shields:1
+B-Lord of the Flies - HP:4235/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Hikari termina con HP:2225
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2225/5781 SP:263/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5304/5780 Shields:1
+B-Lord of the Flies - HP:4235/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari recibe 212 de daño físico
+Hikari termina con HP:2013
+----------------------------------------
+INICIA RONDA 50
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2591/5781 SP:263/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5304/5780 Shields:1
+B-Lord of the Flies - HP:4235/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Leghold Trap
+2: Lightning Bolt
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Lightning Bolt
+Mattias? recibe 0 de daño de tipo Lightning
+Lord of the Flies recibe 0 de daño de tipo Lightning
+Mattias? termina con HP:5304
+Lord of the Flies termina con HP:4235
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2591/5781 SP:255/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5304/5780 Shields:1
+B-Lord of the Flies - HP:4235/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Hikari termina con HP:1917
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1917/5781 SP:255/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5304/5780 Shields:1
+B-Lord of the Flies - HP:4235/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari recibe 212 de daño físico
+Hikari termina con HP:1705
+----------------------------------------
+INICIA RONDA 51
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2283/5781 SP:255/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5304/5780 Shields:1
+B-Lord of the Flies - HP:4235/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mattias? - HP:5304/5780 Shields:1
+2: Lord of the Flies - HP:4235/5590 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Mattias? recibe 67 de daño de tipo Sword con debilidad
+Mattias? entra en Breaking Point
+Mattias? termina con HP:5237
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2283/5781 SP:255/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5237/5780 Shields:0
+B-Lord of the Flies - HP:4235/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari recibe 212 de daño físico
+Hikari termina con HP:2071
+----------------------------------------
+INICIA RONDA 52
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2649/5781 SP:255/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5237/5780 Shields:0
+B-Lord of the Flies - HP:4235/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mattias?
+2.Hikari
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2649/5781 SP:255/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5237/5780 Shields:0
+B-Lord of the Flies - HP:4235/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mattias?
+2.Hikari
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari se defiende
+Hikari recibe 106 de daño físico
+Hikari termina con HP:2543
+----------------------------------------
+INICIA RONDA 53
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:3121/5781 SP:255/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5237/5780 Shields:4
+B-Lord of the Flies - HP:4235/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Hikari
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Hikari termina con HP:2447
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2447/5781 SP:255/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5237/5780 Shields:4
+B-Lord of the Flies - HP:4235/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mattias? - HP:5237/5780 Shields:4
+2: Lord of the Flies - HP:4235/5590 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Mattias? recibe 67 de daño de tipo Sword con debilidad
+Mattias? termina con HP:5170
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2447/5781 SP:255/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5170/5780 Shields:3
+B-Lord of the Flies - HP:4235/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari recibe 212 de daño físico
+Hikari termina con HP:2235
+----------------------------------------
+INICIA RONDA 54
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2813/5781 SP:255/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5170/5780 Shields:3
+B-Lord of the Flies - HP:4235/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mattias? - HP:5170/5780 Shields:3
+2: Lord of the Flies - HP:4235/5590 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Lord of the Flies recibe 66 de daño de tipo Sword
+Lord of the Flies termina con HP:4169
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2813/5781 SP:255/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5170/5780 Shields:3
+B-Lord of the Flies - HP:4169/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Hikari termina con HP:2139
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2139/5781 SP:255/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5170/5780 Shields:3
+B-Lord of the Flies - HP:4169/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari recibe 212 de daño físico
+Hikari termina con HP:1927
+----------------------------------------
+INICIA RONDA 55
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2505/5781 SP:255/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5170/5780 Shields:3
+B-Lord of the Flies - HP:4169/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2505/5781 SP:255/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5170/5780 Shields:3
+B-Lord of the Flies - HP:4169/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari se defiende
+Hikari recibe 337 de daño elemental
+Hikari termina con HP:2168
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2168/5781 SP:255/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5170/5780 Shields:3
+B-Lord of the Flies - HP:4169/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari se defiende
+Hikari recibe 106 de daño físico
+Hikari termina con HP:2062
+----------------------------------------
+INICIA RONDA 56
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2640/5781 SP:255/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5170/5780 Shields:3
+B-Lord of the Flies - HP:4169/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Leghold Trap
+2: Lightning Bolt
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mattias? - HP:5170/5780 Shields:3
+2: Lord of the Flies - HP:4169/5590 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Leghold Trap
+Lord of the Flies tendrá menor prioridad de turno durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2640/5781 SP:249/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5170/5780 Shields:3
+B-Lord of the Flies - HP:4169/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Hikari termina con HP:1966
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1966/5781 SP:249/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5170/5780 Shields:3
+B-Lord of the Flies - HP:4169/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari recibe 212 de daño físico
+Hikari termina con HP:1754
+----------------------------------------
+INICIA RONDA 57
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2332/5781 SP:249/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5170/5780 Shields:3
+B-Lord of the Flies - HP:4169/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2332/5781 SP:249/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5170/5780 Shields:3
+B-Lord of the Flies - HP:4169/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari se defiende
+Hikari recibe 337 de daño elemental
+Hikari termina con HP:1995
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1995/5781 SP:249/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5170/5780 Shields:3
+B-Lord of the Flies - HP:4169/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari se defiende
+Hikari recibe 106 de daño físico
+Hikari termina con HP:1889
+----------------------------------------
+INICIA RONDA 58
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2467/5781 SP:249/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5170/5780 Shields:3
+B-Lord of the Flies - HP:4169/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mattias? - HP:5170/5780 Shields:3
+2: Lord of the Flies - HP:4169/5590 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Mattias? recibe 45 de daño de tipo Spear
+Mattias? termina con HP:5125
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2467/5781 SP:249/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5125/5780 Shields:3
+B-Lord of the Flies - HP:4169/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Hikari termina con HP:1793
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1793/5781 SP:249/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5125/5780 Shields:3
+B-Lord of the Flies - HP:4169/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari recibe 212 de daño físico
+Hikari termina con HP:1581
+----------------------------------------
+INICIA RONDA 59
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2159/5781 SP:249/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5125/5780 Shields:3
+B-Lord of the Flies - HP:4169/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mattias? - HP:5125/5780 Shields:3
+2: Lord of the Flies - HP:4169/5590 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Mattias? recibe 45 de daño de tipo Spear
+Mattias? termina con HP:5080
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:2159/5781 SP:249/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5080/5780 Shields:3
+B-Lord of the Flies - HP:4169/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Hikari termina con HP:1485
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1485/5781 SP:249/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5080/5780 Shields:3
+B-Lord of the Flies - HP:4169/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari recibe 212 de daño físico
+Hikari termina con HP:1273
+----------------------------------------
+INICIA RONDA 60
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1851/5781 SP:249/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5080/5780 Shields:3
+B-Lord of the Flies - HP:4169/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Leghold Trap
+2: Lightning Bolt
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mattias? - HP:5080/5780 Shields:3
+2: Lord of the Flies - HP:4169/5590 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Leghold Trap
+Lord of the Flies tendrá menor prioridad de turno durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1851/5781 SP:243/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5080/5780 Shields:3
+B-Lord of the Flies - HP:4169/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Hikari termina con HP:1177
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1177/5781 SP:243/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5080/5780 Shields:3
+B-Lord of the Flies - HP:4169/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari recibe 212 de daño físico
+Hikari termina con HP:965
+----------------------------------------
+INICIA RONDA 61
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1543/5781 SP:243/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5080/5780 Shields:3
+B-Lord of the Flies - HP:4169/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mattias? - HP:5080/5780 Shields:3
+2: Lord of the Flies - HP:4169/5590 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Lord of the Flies recibe 99 de daño de tipo Spear con debilidad
+Lord of the Flies termina con HP:4070
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1543/5781 SP:243/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5080/5780 Shields:3
+B-Lord of the Flies - HP:4070/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Hikari termina con HP:869
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:869/5781 SP:243/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5080/5780 Shields:3
+B-Lord of the Flies - HP:4070/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari recibe 212 de daño físico
+Hikari termina con HP:657
+----------------------------------------
+INICIA RONDA 62
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1235/5781 SP:243/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5080/5780 Shields:3
+B-Lord of the Flies - HP:4070/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1235/5781 SP:243/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5080/5780 Shields:3
+B-Lord of the Flies - HP:4070/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari se defiende
+Hikari recibe 337 de daño elemental
+Hikari termina con HP:898
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:898/5781 SP:243/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5080/5780 Shields:3
+B-Lord of the Flies - HP:4070/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari se defiende
+Hikari recibe 106 de daño físico
+Hikari termina con HP:792
+----------------------------------------
+INICIA RONDA 63
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1370/5781 SP:243/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5080/5780 Shields:3
+B-Lord of the Flies - HP:4070/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mattias? - HP:5080/5780 Shields:3
+2: Lord of the Flies - HP:4070/5590 Shields:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Lord of the Flies recibe 99 de daño de tipo Spear con debilidad
+Lord of the Flies entra en Breaking Point
+Lord of the Flies termina con HP:3971
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1370/5781 SP:243/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5080/5780 Shields:3
+B-Lord of the Flies - HP:3971/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Hikari termina con HP:696
+----------------------------------------
+INICIA RONDA 64
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1274/5781 SP:243/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5080/5780 Shields:3
+B-Lord of the Flies - HP:3971/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Hikari
+3.Mattias?
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mattias? - HP:5080/5780 Shields:3
+2: Lord of the Flies - HP:3971/5590 Shields:0
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Mattias? recibe 45 de daño de tipo Spear
+Mattias? termina con HP:5035
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1274/5781 SP:243/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5035/5780 Shields:3
+B-Lord of the Flies - HP:3971/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Hikari
+3.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Hikari termina con HP:600
+----------------------------------------
+INICIA RONDA 65
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1178/5781 SP:243/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5035/5780 Shields:3
+B-Lord of the Flies - HP:3971/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Hikari
+3.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari recibe 212 de daño físico
+Hikari termina con HP:966
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:966/5781 SP:243/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5035/5780 Shields:3
+B-Lord of the Flies - HP:3971/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Leghold Trap
+2: Lightning Bolt
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mattias? - HP:5035/5780 Shields:3
+2: Lord of the Flies - HP:3971/5590 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Leghold Trap
+Mattias? tendrá menor prioridad de turno durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:966/5781 SP:237/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5035/5780 Shields:3
+B-Lord of the Flies - HP:3971/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Lord of the Flies
+3.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Hikari termina con HP:292
+----------------------------------------
+INICIA RONDA 66
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:870/5781 SP:237/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5035/5780 Shields:3
+B-Lord of the Flies - HP:3971/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Lord of the Flies
+3.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:870/5781 SP:237/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5035/5780 Shields:3
+B-Lord of the Flies - HP:3971/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari se defiende
+Hikari recibe 106 de daño físico
+Hikari termina con HP:764
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:764/5781 SP:237/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5035/5780 Shields:3
+B-Lord of the Flies - HP:3971/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari se defiende
+Hikari recibe 337 de daño elemental
+Hikari termina con HP:427
+----------------------------------------
+INICIA RONDA 67
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1005/5781 SP:237/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5035/5780 Shields:3
+B-Lord of the Flies - HP:3971/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1005/5781 SP:237/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5035/5780 Shields:3
+B-Lord of the Flies - HP:3971/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari se defiende
+Hikari recibe 337 de daño elemental
+Hikari termina con HP:668
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:668/5781 SP:237/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5035/5780 Shields:3
+B-Lord of the Flies - HP:3971/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari se defiende
+Hikari recibe 106 de daño físico
+Hikari termina con HP:562
+----------------------------------------
+INICIA RONDA 68
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1140/5781 SP:237/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5035/5780 Shields:3
+B-Lord of the Flies - HP:3971/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1140/5781 SP:237/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5035/5780 Shields:3
+B-Lord of the Flies - HP:3971/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari se defiende
+Hikari recibe 337 de daño elemental
+Hikari termina con HP:803
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:803/5781 SP:237/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5035/5780 Shields:3
+B-Lord of the Flies - HP:3971/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari se defiende
+Hikari recibe 106 de daño físico
+Hikari termina con HP:697
+----------------------------------------
+INICIA RONDA 69
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1275/5781 SP:237/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5035/5780 Shields:3
+B-Lord of the Flies - HP:3971/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1275/5781 SP:237/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5035/5780 Shields:3
+B-Lord of the Flies - HP:3971/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari se defiende
+Hikari recibe 337 de daño elemental
+Hikari termina con HP:938
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:938/5781 SP:237/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5035/5780 Shields:3
+B-Lord of the Flies - HP:3971/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari se defiende
+Hikari recibe 106 de daño físico
+Hikari termina con HP:832
+----------------------------------------
+INICIA RONDA 70
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1410/5781 SP:237/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5035/5780 Shields:3
+B-Lord of the Flies - HP:3971/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1410/5781 SP:237/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5035/5780 Shields:3
+B-Lord of the Flies - HP:3971/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari se defiende
+Hikari recibe 337 de daño elemental
+Hikari termina con HP:1073
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1073/5781 SP:237/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5035/5780 Shields:3
+B-Lord of the Flies - HP:3971/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari se defiende
+Hikari recibe 106 de daño físico
+Hikari termina con HP:967
+----------------------------------------
+INICIA RONDA 71
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1545/5781 SP:237/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5035/5780 Shields:3
+B-Lord of the Flies - HP:3971/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mattias? - HP:5035/5780 Shields:3
+2: Lord of the Flies - HP:3971/5590 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Lord of the Flies recibe 66 de daño de tipo Sword
+Lord of the Flies termina con HP:3905
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1545/5781 SP:237/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5035/5780 Shields:3
+B-Lord of the Flies - HP:3905/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Hikari termina con HP:871
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:871/5781 SP:237/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5035/5780 Shields:3
+B-Lord of the Flies - HP:3905/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari recibe 212 de daño físico
+Hikari termina con HP:659
+----------------------------------------
+INICIA RONDA 72
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1237/5781 SP:237/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5035/5780 Shields:3
+B-Lord of the Flies - HP:3905/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Leghold Trap
+2: Lightning Bolt
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Lightning Bolt
+Mattias? recibe 0 de daño de tipo Lightning
+Lord of the Flies recibe 0 de daño de tipo Lightning
+Mattias? termina con HP:5035
+Lord of the Flies termina con HP:3905
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:1237/5781 SP:229/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5035/5780 Shields:3
+B-Lord of the Flies - HP:3905/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Hikari termina con HP:563
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:563/5781 SP:229/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5035/5780 Shields:3
+B-Lord of the Flies - HP:3905/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari recibe 212 de daño físico
+Hikari termina con HP:351
+----------------------------------------
+INICIA RONDA 73
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:929/5781 SP:229/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5035/5780 Shields:3
+B-Lord of the Flies - HP:3905/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mattias? - HP:5035/5780 Shields:3
+2: Lord of the Flies - HP:3905/5590 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Lord of the Flies recibe 66 de daño de tipo Sword
+Lord of the Flies termina con HP:3839
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:929/5781 SP:229/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5035/5780 Shields:3
+B-Lord of the Flies - HP:3839/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Hikari termina con HP:255
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:255/5781 SP:229/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5035/5780 Shields:3
+B-Lord of the Flies - HP:3839/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari recibe 212 de daño físico
+Hikari termina con HP:43
+----------------------------------------
+INICIA RONDA 74
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:621/5781 SP:229/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5035/5780 Shields:3
+B-Lord of the Flies - HP:3839/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:621/5781 SP:229/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5035/5780 Shields:3
+B-Lord of the Flies - HP:3839/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Mattias? usa Black Gale
+Hikari se defiende
+Hikari recibe 337 de daño elemental
+Hikari termina con HP:284
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:284/5781 SP:229/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5035/5780 Shields:3
+B-Lord of the Flies - HP:3839/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari se defiende
+Hikari recibe 106 de daño físico
+Hikari termina con HP:178
+----------------------------------------
+INICIA RONDA 75
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:756/5781 SP:229/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5035/5780 Shields:3
+B-Lord of the Flies - HP:3839/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mattias?
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Leghold Trap
+2: Lightning Bolt
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mattias? - HP:5035/5780 Shields:3
+2: Lord of the Flies - HP:3839/5590 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Leghold Trap
+Mattias? tendrá menor prioridad de turno durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:756/5781 SP:223/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5035/5780 Shields:3
+B-Lord of the Flies - HP:3839/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Lord of the Flies
+3.Mattias?
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Hikari recibe 212 de daño físico
+Hikari termina con HP:544
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:544/5781 SP:223/317 BP:5
+B-Partitio - HP:0/4891 SP:296/314 BP:5
+Equipo del enemigo
+A-Mattias? - HP:5035/5780 Shields:3
+B-Lord of the Flies - HP:3839/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Lord of the Flies
+3.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Hikari recibe 674 de daño elemental
+Hikari termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

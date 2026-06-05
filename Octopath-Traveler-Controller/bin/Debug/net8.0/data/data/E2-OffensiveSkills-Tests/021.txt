@@ -1,0 +1,582 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+INPUT: 20
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Wolf - HP:1577/1577 Shields:2
+B-High Wolf - HP:1458/1458 Shields:2
+C-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Wolf
+3.High Wolf
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Wolf
+3.High Wolf
+4.War Wolf
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Yatagarasu
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Yatagarasu
+Wolf recibe 487 de daño de tipo Dagger
+High Wolf recibe 522 de daño de tipo Dagger
+War Wolf recibe 481 de daño de tipo Dagger
+Wolf termina con HP:1090
+High Wolf termina con HP:936
+War Wolf termina con HP:3067
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:297/332 BP:1
+Equipo del enemigo
+A-Wolf - HP:1090/1577 Shields:2
+B-High Wolf - HP:936/1458 Shields:2
+C-War Wolf - HP:3067/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Wolf
+2.High Wolf
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Wolf
+3.High Wolf
+4.War Wolf
+----------------------------------------
+Wolf usa Attack
+Therion recibe 190 de daño físico
+Therion termina con HP:4257
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4257/4447 SP:297/332 BP:1
+Equipo del enemigo
+A-Wolf - HP:1090/1577 Shields:2
+B-High Wolf - HP:936/1458 Shields:2
+C-War Wolf - HP:3067/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.High Wolf
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Wolf
+3.High Wolf
+4.War Wolf
+----------------------------------------
+High Wolf usa Attack
+Therion recibe 116 de daño físico
+Therion termina con HP:4141
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4141/4447 SP:297/332 BP:1
+Equipo del enemigo
+A-Wolf - HP:1090/1577 Shields:2
+B-High Wolf - HP:936/1458 Shields:2
+C-War Wolf - HP:3067/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Wolf
+3.High Wolf
+4.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Therion recibe 197 de daño físico
+Therion termina con HP:3944
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3944/4447 SP:297/332 BP:2
+Equipo del enemigo
+A-Wolf - HP:1090/1577 Shields:2
+B-High Wolf - HP:936/1458 Shields:2
+C-War Wolf - HP:3067/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Wolf
+3.High Wolf
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Wolf
+3.High Wolf
+4.War Wolf
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Yatagarasu
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Yatagarasu
+Wolf recibe 487 de daño de tipo Dagger
+High Wolf recibe 522 de daño de tipo Dagger
+War Wolf recibe 481 de daño de tipo Dagger
+Wolf termina con HP:603
+High Wolf termina con HP:414
+War Wolf termina con HP:2586
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3944/4447 SP:262/332 BP:2
+Equipo del enemigo
+A-Wolf - HP:603/1577 Shields:2
+B-High Wolf - HP:414/1458 Shields:2
+C-War Wolf - HP:2586/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Wolf
+2.High Wolf
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Wolf
+3.High Wolf
+4.War Wolf
+----------------------------------------
+Wolf usa Attack
+Therion recibe 190 de daño físico
+Therion termina con HP:3754
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3754/4447 SP:262/332 BP:2
+Equipo del enemigo
+A-Wolf - HP:603/1577 Shields:2
+B-High Wolf - HP:414/1458 Shields:2
+C-War Wolf - HP:2586/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.High Wolf
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Wolf
+3.High Wolf
+4.War Wolf
+----------------------------------------
+High Wolf usa Attack
+Therion recibe 116 de daño físico
+Therion termina con HP:3638
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3638/4447 SP:262/332 BP:2
+Equipo del enemigo
+A-Wolf - HP:603/1577 Shields:2
+B-High Wolf - HP:414/1458 Shields:2
+C-War Wolf - HP:2586/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Wolf
+3.High Wolf
+4.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Therion recibe 197 de daño físico
+Therion termina con HP:3441
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3441/4447 SP:262/332 BP:3
+Equipo del enemigo
+A-Wolf - HP:603/1577 Shields:2
+B-High Wolf - HP:414/1458 Shields:2
+C-War Wolf - HP:2586/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Wolf
+3.High Wolf
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Wolf
+3.High Wolf
+4.War Wolf
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Yatagarasu
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Yatagarasu
+Wolf recibe 487 de daño de tipo Dagger
+High Wolf recibe 522 de daño de tipo Dagger
+War Wolf recibe 481 de daño de tipo Dagger
+Wolf termina con HP:116
+High Wolf termina con HP:0
+War Wolf termina con HP:2105
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3441/4447 SP:227/332 BP:3
+Equipo del enemigo
+A-Wolf - HP:116/1577 Shields:2
+B-High Wolf - HP:0/1458 Shields:2
+C-War Wolf - HP:2105/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Wolf
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Wolf
+3.War Wolf
+----------------------------------------
+Wolf usa Attack
+Therion recibe 190 de daño físico
+Therion termina con HP:3251
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3251/4447 SP:227/332 BP:3
+Equipo del enemigo
+A-Wolf - HP:116/1577 Shields:2
+B-High Wolf - HP:0/1458 Shields:2
+C-War Wolf - HP:2105/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Wolf
+3.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Therion recibe 197 de daño físico
+Therion termina con HP:3054
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3054/4447 SP:227/332 BP:4
+Equipo del enemigo
+A-Wolf - HP:116/1577 Shields:2
+B-High Wolf - HP:0/1458 Shields:2
+C-War Wolf - HP:2105/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Wolf
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Wolf
+3.War Wolf
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Yatagarasu
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Yatagarasu
+Wolf recibe 487 de daño de tipo Dagger
+War Wolf recibe 481 de daño de tipo Dagger
+Wolf termina con HP:0
+War Wolf termina con HP:1624
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3054/4447 SP:192/332 BP:4
+Equipo del enemigo
+A-Wolf - HP:0/1577 Shields:2
+B-High Wolf - HP:0/1458 Shields:2
+C-War Wolf - HP:1624/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Therion recibe 197 de daño físico
+Therion termina con HP:2857
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2857/4447 SP:192/332 BP:5
+Equipo del enemigo
+A-Wolf - HP:0/1577 Shields:2
+B-High Wolf - HP:0/1458 Shields:2
+C-War Wolf - HP:1624/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.War Wolf
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Yatagarasu
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Yatagarasu
+War Wolf recibe 481 de daño de tipo Dagger
+War Wolf termina con HP:1143
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2857/4447 SP:157/332 BP:5
+Equipo del enemigo
+A-Wolf - HP:0/1577 Shields:2
+B-High Wolf - HP:0/1458 Shields:2
+C-War Wolf - HP:1143/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Therion recibe 197 de daño físico
+Therion termina con HP:2660
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2660/4447 SP:157/332 BP:5
+Equipo del enemigo
+A-Wolf - HP:0/1577 Shields:2
+B-High Wolf - HP:0/1458 Shields:2
+C-War Wolf - HP:1143/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.War Wolf
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Yatagarasu
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Yatagarasu
+War Wolf recibe 481 de daño de tipo Dagger
+War Wolf termina con HP:662
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2660/4447 SP:122/332 BP:5
+Equipo del enemigo
+A-Wolf - HP:0/1577 Shields:2
+B-High Wolf - HP:0/1458 Shields:2
+C-War Wolf - HP:662/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Therion recibe 197 de daño físico
+Therion termina con HP:2463
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2463/4447 SP:122/332 BP:5
+Equipo del enemigo
+A-Wolf - HP:0/1577 Shields:2
+B-High Wolf - HP:0/1458 Shields:2
+C-War Wolf - HP:662/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.War Wolf
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Yatagarasu
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Yatagarasu
+War Wolf recibe 481 de daño de tipo Dagger
+War Wolf termina con HP:181
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2463/4447 SP:87/332 BP:5
+Equipo del enemigo
+A-Wolf - HP:0/1577 Shields:2
+B-High Wolf - HP:0/1458 Shields:2
+C-War Wolf - HP:181/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Therion recibe 197 de daño físico
+Therion termina con HP:2266
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2266/4447 SP:87/332 BP:5
+Equipo del enemigo
+A-Wolf - HP:0/1577 Shields:2
+B-High Wolf - HP:0/1458 Shields:2
+C-War Wolf - HP:181/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.War Wolf
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Yatagarasu
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Yatagarasu
+War Wolf recibe 481 de daño de tipo Dagger
+War Wolf termina con HP:0
+----------------------------------------
+Gana equipo del jugador

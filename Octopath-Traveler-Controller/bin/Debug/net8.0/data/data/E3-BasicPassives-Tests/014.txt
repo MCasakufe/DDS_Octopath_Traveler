@@ -1,0 +1,1516 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+INPUT: 13
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Partitio - HP:4891/4891 SP:314/314 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Forest Ratkin I - HP:1348/1348 Shields:1
+C-Highland Ratkin I - HP:1000/1000 Shields:1
+D-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Meep
+6.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Meep
+6.Forest Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio recibe 322 de daño físico
+Partitio termina con HP:4569
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Partitio - HP:4569/4891 SP:314/314 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Forest Ratkin I - HP:1348/1348 Shields:1
+C-Highland Ratkin I - HP:1000/1000 Shields:1
+D-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Olberic
+3.Partitio
+4.Meep
+5.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Meep
+6.Forest Ratkin I
+----------------------------------------
+Mad Ratkin usa Stab
+Partitio recibe 276 de daño físico
+Partitio termina con HP:4293
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Partitio - HP:4293/4891 SP:314/314 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Forest Ratkin I - HP:1348/1348 Shields:1
+C-Highland Ratkin I - HP:1000/1000 Shields:1
+D-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Partitio
+3.Meep
+4.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Meep
+6.Forest Ratkin I
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Meep - HP:1016/1016 Shields:2
+2: Forest Ratkin I - HP:1348/1348 Shields:1
+3: Highland Ratkin I - HP:1000/1000 Shields:1
+4: Mad Ratkin - HP:1233/1233 Shields:1
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Meep recibe 132 de daño de tipo Sword
+Meep termina con HP:884
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Partitio - HP:4293/4891 SP:314/314 BP:1
+Equipo del enemigo
+A-Meep - HP:884/1016 Shields:2
+B-Forest Ratkin I - HP:1348/1348 Shields:1
+C-Highland Ratkin I - HP:1000/1000 Shields:1
+D-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Meep
+3.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Meep
+6.Forest Ratkin I
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Meep - HP:884/1016 Shields:2
+2: Forest Ratkin I - HP:1348/1348 Shields:1
+3: Highland Ratkin I - HP:1000/1000 Shields:1
+4: Mad Ratkin - HP:1233/1233 Shields:1
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Meep recibe 106 de daño de tipo Spear
+Meep termina con HP:778
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Partitio - HP:4293/4891 SP:314/314 BP:1
+Equipo del enemigo
+A-Meep - HP:778/1016 Shields:2
+B-Forest Ratkin I - HP:1348/1348 Shields:1
+C-Highland Ratkin I - HP:1000/1000 Shields:1
+D-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Meep
+6.Forest Ratkin I
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:5641
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5641/5781 SP:291/291 BP:1
+B-Partitio - HP:4293/4891 SP:314/314 BP:1
+Equipo del enemigo
+A-Meep - HP:778/1016 Shields:2
+B-Forest Ratkin I - HP:1348/1348 Shields:1
+C-Highland Ratkin I - HP:1000/1000 Shields:1
+D-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Meep
+6.Forest Ratkin I
+----------------------------------------
+Forest Ratkin I usa Stab
+Partitio recibe 49 de daño físico
+Partitio termina con HP:4244
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5641/5781 SP:291/291 BP:2
+B-Partitio - HP:4244/4891 SP:314/314 BP:2
+Equipo del enemigo
+A-Meep - HP:778/1016 Shields:2
+B-Forest Ratkin I - HP:1348/1348 Shields:1
+C-Highland Ratkin I - HP:1000/1000 Shields:1
+D-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Meep
+6.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Meep
+6.Forest Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio recibe 322 de daño físico
+Partitio termina con HP:3922
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5641/5781 SP:291/291 BP:2
+B-Partitio - HP:3922/4891 SP:314/314 BP:2
+Equipo del enemigo
+A-Meep - HP:778/1016 Shields:2
+B-Forest Ratkin I - HP:1348/1348 Shields:1
+C-Highland Ratkin I - HP:1000/1000 Shields:1
+D-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Olberic
+3.Partitio
+4.Meep
+5.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Meep
+6.Forest Ratkin I
+----------------------------------------
+Mad Ratkin usa Stab
+Partitio recibe 276 de daño físico
+Partitio termina con HP:3646
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5641/5781 SP:291/291 BP:2
+B-Partitio - HP:3646/4891 SP:314/314 BP:2
+Equipo del enemigo
+A-Meep - HP:778/1016 Shields:2
+B-Forest Ratkin I - HP:1348/1348 Shields:1
+C-Highland Ratkin I - HP:1000/1000 Shields:1
+D-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Partitio
+3.Meep
+4.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Meep
+6.Forest Ratkin I
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Meep - HP:778/1016 Shields:2
+2: Forest Ratkin I - HP:1348/1348 Shields:1
+3: Highland Ratkin I - HP:1000/1000 Shields:1
+4: Mad Ratkin - HP:1233/1233 Shields:1
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Meep recibe 132 de daño de tipo Sword
+Meep termina con HP:646
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5641/5781 SP:291/291 BP:2
+B-Partitio - HP:3646/4891 SP:314/314 BP:2
+Equipo del enemigo
+A-Meep - HP:646/1016 Shields:2
+B-Forest Ratkin I - HP:1348/1348 Shields:1
+C-Highland Ratkin I - HP:1000/1000 Shields:1
+D-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Meep
+3.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Meep
+6.Forest Ratkin I
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Meep - HP:646/1016 Shields:2
+2: Forest Ratkin I - HP:1348/1348 Shields:1
+3: Highland Ratkin I - HP:1000/1000 Shields:1
+4: Mad Ratkin - HP:1233/1233 Shields:1
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Meep recibe 106 de daño de tipo Spear
+Meep termina con HP:540
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5641/5781 SP:291/291 BP:2
+B-Partitio - HP:3646/4891 SP:314/314 BP:2
+Equipo del enemigo
+A-Meep - HP:540/1016 Shields:2
+B-Forest Ratkin I - HP:1348/1348 Shields:1
+C-Highland Ratkin I - HP:1000/1000 Shields:1
+D-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Meep
+6.Forest Ratkin I
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:5501
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5501/5781 SP:291/291 BP:2
+B-Partitio - HP:3646/4891 SP:314/314 BP:2
+Equipo del enemigo
+A-Meep - HP:540/1016 Shields:2
+B-Forest Ratkin I - HP:1348/1348 Shields:1
+C-Highland Ratkin I - HP:1000/1000 Shields:1
+D-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Meep
+6.Forest Ratkin I
+----------------------------------------
+Forest Ratkin I usa Stab
+Partitio recibe 49 de daño físico
+Partitio termina con HP:3597
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5501/5781 SP:291/291 BP:3
+B-Partitio - HP:3597/4891 SP:314/314 BP:3
+Equipo del enemigo
+A-Meep - HP:540/1016 Shields:2
+B-Forest Ratkin I - HP:1348/1348 Shields:1
+C-Highland Ratkin I - HP:1000/1000 Shields:1
+D-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Meep
+6.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Meep
+6.Forest Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio recibe 322 de daño físico
+Partitio termina con HP:3275
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5501/5781 SP:291/291 BP:3
+B-Partitio - HP:3275/4891 SP:314/314 BP:3
+Equipo del enemigo
+A-Meep - HP:540/1016 Shields:2
+B-Forest Ratkin I - HP:1348/1348 Shields:1
+C-Highland Ratkin I - HP:1000/1000 Shields:1
+D-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Olberic
+3.Partitio
+4.Meep
+5.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Meep
+6.Forest Ratkin I
+----------------------------------------
+Mad Ratkin usa Stab
+Partitio recibe 276 de daño físico
+Partitio termina con HP:2999
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5501/5781 SP:291/291 BP:3
+B-Partitio - HP:2999/4891 SP:314/314 BP:3
+Equipo del enemigo
+A-Meep - HP:540/1016 Shields:2
+B-Forest Ratkin I - HP:1348/1348 Shields:1
+C-Highland Ratkin I - HP:1000/1000 Shields:1
+D-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Partitio
+3.Meep
+4.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Meep
+6.Forest Ratkin I
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Meep - HP:540/1016 Shields:2
+2: Forest Ratkin I - HP:1348/1348 Shields:1
+3: Highland Ratkin I - HP:1000/1000 Shields:1
+4: Mad Ratkin - HP:1233/1233 Shields:1
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Meep recibe 132 de daño de tipo Sword
+Meep termina con HP:408
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5501/5781 SP:291/291 BP:3
+B-Partitio - HP:2999/4891 SP:314/314 BP:3
+Equipo del enemigo
+A-Meep - HP:408/1016 Shields:2
+B-Forest Ratkin I - HP:1348/1348 Shields:1
+C-Highland Ratkin I - HP:1000/1000 Shields:1
+D-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Meep
+3.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Meep
+6.Forest Ratkin I
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Meep - HP:408/1016 Shields:2
+2: Forest Ratkin I - HP:1348/1348 Shields:1
+3: Highland Ratkin I - HP:1000/1000 Shields:1
+4: Mad Ratkin - HP:1233/1233 Shields:1
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Meep recibe 106 de daño de tipo Spear
+Meep termina con HP:302
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5501/5781 SP:291/291 BP:3
+B-Partitio - HP:2999/4891 SP:314/314 BP:3
+Equipo del enemigo
+A-Meep - HP:302/1016 Shields:2
+B-Forest Ratkin I - HP:1348/1348 Shields:1
+C-Highland Ratkin I - HP:1000/1000 Shields:1
+D-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Meep
+6.Forest Ratkin I
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:5361
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5361/5781 SP:291/291 BP:3
+B-Partitio - HP:2999/4891 SP:314/314 BP:3
+Equipo del enemigo
+A-Meep - HP:302/1016 Shields:2
+B-Forest Ratkin I - HP:1348/1348 Shields:1
+C-Highland Ratkin I - HP:1000/1000 Shields:1
+D-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Meep
+6.Forest Ratkin I
+----------------------------------------
+Forest Ratkin I usa Stab
+Partitio recibe 49 de daño físico
+Partitio termina con HP:2950
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5361/5781 SP:291/291 BP:4
+B-Partitio - HP:2950/4891 SP:314/314 BP:4
+Equipo del enemigo
+A-Meep - HP:302/1016 Shields:2
+B-Forest Ratkin I - HP:1348/1348 Shields:1
+C-Highland Ratkin I - HP:1000/1000 Shields:1
+D-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Meep
+6.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Meep
+6.Forest Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio recibe 322 de daño físico
+Partitio termina con HP:2628
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5361/5781 SP:291/291 BP:4
+B-Partitio - HP:2628/4891 SP:314/314 BP:4
+Equipo del enemigo
+A-Meep - HP:302/1016 Shields:2
+B-Forest Ratkin I - HP:1348/1348 Shields:1
+C-Highland Ratkin I - HP:1000/1000 Shields:1
+D-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Olberic
+3.Partitio
+4.Meep
+5.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Meep
+6.Forest Ratkin I
+----------------------------------------
+Mad Ratkin usa Stab
+Partitio recibe 276 de daño físico
+Partitio termina con HP:2352
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5361/5781 SP:291/291 BP:4
+B-Partitio - HP:2352/4891 SP:314/314 BP:4
+Equipo del enemigo
+A-Meep - HP:302/1016 Shields:2
+B-Forest Ratkin I - HP:1348/1348 Shields:1
+C-Highland Ratkin I - HP:1000/1000 Shields:1
+D-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Partitio
+3.Meep
+4.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Meep
+6.Forest Ratkin I
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Meep - HP:302/1016 Shields:2
+2: Forest Ratkin I - HP:1348/1348 Shields:1
+3: Highland Ratkin I - HP:1000/1000 Shields:1
+4: Mad Ratkin - HP:1233/1233 Shields:1
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Meep recibe 132 de daño de tipo Sword
+Meep termina con HP:170
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5361/5781 SP:291/291 BP:4
+B-Partitio - HP:2352/4891 SP:314/314 BP:4
+Equipo del enemigo
+A-Meep - HP:170/1016 Shields:2
+B-Forest Ratkin I - HP:1348/1348 Shields:1
+C-Highland Ratkin I - HP:1000/1000 Shields:1
+D-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Meep
+3.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Meep
+6.Forest Ratkin I
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Meep - HP:170/1016 Shields:2
+2: Forest Ratkin I - HP:1348/1348 Shields:1
+3: Highland Ratkin I - HP:1000/1000 Shields:1
+4: Mad Ratkin - HP:1233/1233 Shields:1
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Meep recibe 106 de daño de tipo Spear
+Meep termina con HP:64
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5361/5781 SP:291/291 BP:4
+B-Partitio - HP:2352/4891 SP:314/314 BP:4
+Equipo del enemigo
+A-Meep - HP:64/1016 Shields:2
+B-Forest Ratkin I - HP:1348/1348 Shields:1
+C-Highland Ratkin I - HP:1000/1000 Shields:1
+D-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Meep
+6.Forest Ratkin I
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:5221
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5221/5781 SP:291/291 BP:4
+B-Partitio - HP:2352/4891 SP:314/314 BP:4
+Equipo del enemigo
+A-Meep - HP:64/1016 Shields:2
+B-Forest Ratkin I - HP:1348/1348 Shields:1
+C-Highland Ratkin I - HP:1000/1000 Shields:1
+D-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Meep
+6.Forest Ratkin I
+----------------------------------------
+Forest Ratkin I usa Stab
+Partitio recibe 49 de daño físico
+Partitio termina con HP:2303
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5221/5781 SP:291/291 BP:5
+B-Partitio - HP:2303/4891 SP:314/314 BP:5
+Equipo del enemigo
+A-Meep - HP:64/1016 Shields:2
+B-Forest Ratkin I - HP:1348/1348 Shields:1
+C-Highland Ratkin I - HP:1000/1000 Shields:1
+D-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Meep
+6.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Meep
+6.Forest Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio recibe 322 de daño físico
+Partitio termina con HP:1981
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5221/5781 SP:291/291 BP:5
+B-Partitio - HP:1981/4891 SP:314/314 BP:5
+Equipo del enemigo
+A-Meep - HP:64/1016 Shields:2
+B-Forest Ratkin I - HP:1348/1348 Shields:1
+C-Highland Ratkin I - HP:1000/1000 Shields:1
+D-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Olberic
+3.Partitio
+4.Meep
+5.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Meep
+6.Forest Ratkin I
+----------------------------------------
+Mad Ratkin usa Stab
+Partitio recibe 276 de daño físico
+Partitio termina con HP:1705
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5221/5781 SP:291/291 BP:5
+B-Partitio - HP:1705/4891 SP:314/314 BP:5
+Equipo del enemigo
+A-Meep - HP:64/1016 Shields:2
+B-Forest Ratkin I - HP:1348/1348 Shields:1
+C-Highland Ratkin I - HP:1000/1000 Shields:1
+D-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Partitio
+3.Meep
+4.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Meep
+6.Forest Ratkin I
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Meep - HP:64/1016 Shields:2
+2: Forest Ratkin I - HP:1348/1348 Shields:1
+3: Highland Ratkin I - HP:1000/1000 Shields:1
+4: Mad Ratkin - HP:1233/1233 Shields:1
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Meep recibe 132 de daño de tipo Sword
+Meep termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5221/5781 SP:291/291 BP:5
+B-Partitio - HP:1705/4891 SP:314/314 BP:5
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:2
+B-Forest Ratkin I - HP:1348/1348 Shields:1
+C-Highland Ratkin I - HP:1000/1000 Shields:1
+D-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Forest Ratkin I
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Forest Ratkin I - HP:1348/1348 Shields:1
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Mad Ratkin - HP:1233/1233 Shields:1
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Forest Ratkin I recibe 328 de daño de tipo Spear
+Forest Ratkin I termina con HP:1020
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5221/5781 SP:291/291 BP:5
+B-Partitio - HP:1705/4891 SP:314/314 BP:5
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:2
+B-Forest Ratkin I - HP:1020/1348 Shields:1
+C-Highland Ratkin I - HP:1000/1000 Shields:1
+D-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Forest Ratkin I
+----------------------------------------
+Forest Ratkin I usa Stab
+Partitio recibe 49 de daño físico
+Partitio termina con HP:1656
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5221/5781 SP:291/291 BP:5
+B-Partitio - HP:1656/4891 SP:314/314 BP:5
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:2
+B-Forest Ratkin I - HP:1020/1348 Shields:1
+C-Highland Ratkin I - HP:1000/1000 Shields:1
+D-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Forest Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio recibe 322 de daño físico
+Partitio termina con HP:1334
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5221/5781 SP:291/291 BP:5
+B-Partitio - HP:1334/4891 SP:314/314 BP:5
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:2
+B-Forest Ratkin I - HP:1020/1348 Shields:1
+C-Highland Ratkin I - HP:1000/1000 Shields:1
+D-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Olberic
+3.Partitio
+4.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Forest Ratkin I
+----------------------------------------
+Mad Ratkin usa Stab
+Partitio recibe 276 de daño físico
+Partitio termina con HP:1058
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5221/5781 SP:291/291 BP:5
+B-Partitio - HP:1058/4891 SP:314/314 BP:5
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:2
+B-Forest Ratkin I - HP:1020/1348 Shields:1
+C-Highland Ratkin I - HP:1000/1000 Shields:1
+D-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Partitio
+3.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Forest Ratkin I
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Forest Ratkin I - HP:1020/1348 Shields:1
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Mad Ratkin - HP:1233/1233 Shields:1
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Forest Ratkin I recibe 354 de daño de tipo Sword
+Forest Ratkin I termina con HP:666
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5221/5781 SP:291/291 BP:5
+B-Partitio - HP:1058/4891 SP:314/314 BP:5
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:2
+B-Forest Ratkin I - HP:666/1348 Shields:1
+C-Highland Ratkin I - HP:1000/1000 Shields:1
+D-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Forest Ratkin I
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Forest Ratkin I - HP:666/1348 Shields:1
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Mad Ratkin - HP:1233/1233 Shields:1
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Forest Ratkin I recibe 328 de daño de tipo Spear
+Forest Ratkin I termina con HP:338
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5221/5781 SP:291/291 BP:5
+B-Partitio - HP:1058/4891 SP:314/314 BP:5
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:2
+B-Forest Ratkin I - HP:338/1348 Shields:1
+C-Highland Ratkin I - HP:1000/1000 Shields:1
+D-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Forest Ratkin I
+----------------------------------------
+Forest Ratkin I usa Stab
+Partitio recibe 49 de daño físico
+Partitio termina con HP:1009
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5221/5781 SP:291/291 BP:5
+B-Partitio - HP:1009/4891 SP:314/314 BP:5
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:2
+B-Forest Ratkin I - HP:338/1348 Shields:1
+C-Highland Ratkin I - HP:1000/1000 Shields:1
+D-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Forest Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio recibe 322 de daño físico
+Partitio termina con HP:687
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5221/5781 SP:291/291 BP:5
+B-Partitio - HP:687/4891 SP:314/314 BP:5
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:2
+B-Forest Ratkin I - HP:338/1348 Shields:1
+C-Highland Ratkin I - HP:1000/1000 Shields:1
+D-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Olberic
+3.Partitio
+4.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Forest Ratkin I
+----------------------------------------
+Mad Ratkin usa Stab
+Partitio recibe 276 de daño físico
+Partitio termina con HP:411
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5221/5781 SP:291/291 BP:5
+B-Partitio - HP:411/4891 SP:314/314 BP:5
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:2
+B-Forest Ratkin I - HP:338/1348 Shields:1
+C-Highland Ratkin I - HP:1000/1000 Shields:1
+D-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Partitio
+3.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+5.Forest Ratkin I
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Forest Ratkin I - HP:338/1348 Shields:1
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Mad Ratkin - HP:1233/1233 Shields:1
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Forest Ratkin I recibe 354 de daño de tipo Sword
+Forest Ratkin I termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5221/5781 SP:291/291 BP:5
+B-Partitio - HP:411/4891 SP:314/314 BP:5
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:2
+B-Forest Ratkin I - HP:0/1348 Shields:1
+C-Highland Ratkin I - HP:1000/1000 Shields:1
+D-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Tiger Rage
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio usa Tiger Rage
+Highland Ratkin I recibe 159 de daño de tipo Axe
+Mad Ratkin recibe 411 de daño de tipo Axe
+Highland Ratkin I termina con HP:841
+Mad Ratkin termina con HP:822
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5221/5781 SP:291/291 BP:5
+B-Partitio - HP:411/4891 SP:294/314 BP:5
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:2
+B-Forest Ratkin I - HP:0/1348 Shields:1
+C-Highland Ratkin I - HP:841/1000 Shields:1
+D-Mad Ratkin - HP:822/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+----------------------------------------
+Highland Ratkin I usa Stab
+Partitio recibe 322 de daño físico
+Partitio termina con HP:89
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5221/5781 SP:291/291 BP:5
+B-Partitio - HP:89/4891 SP:294/314 BP:5
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:2
+B-Forest Ratkin I - HP:0/1348 Shields:1
+C-Highland Ratkin I - HP:841/1000 Shields:1
+D-Mad Ratkin - HP:822/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Olberic
+3.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Partitio
+----------------------------------------
+Mad Ratkin usa Stab
+Partitio recibe 276 de daño físico
+Partitio termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5221/5781 SP:291/291 BP:5
+B-Partitio - HP:0/4891 SP:294/314 BP:5
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:2
+B-Forest Ratkin I - HP:0/1348 Shields:1
+C-Highland Ratkin I - HP:841/1000 Shields:1
+D-Mad Ratkin - HP:822/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Highland Ratkin I - HP:841/1000 Shields:1
+2: Mad Ratkin - HP:822/1233 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Highland Ratkin I recibe 0 de daño de tipo Sword con debilidad
+Highland Ratkin I termina con HP:841
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5221/5781 SP:291/291 BP:5
+B-Partitio - HP:0/4891 SP:294/314 BP:5
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:2
+B-Forest Ratkin I - HP:0/1348 Shields:1
+C-Highland Ratkin I - HP:841/1000 Shields:1
+D-Mad Ratkin - HP:822/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+----------------------------------------
+Highland Ratkin I usa Stab
+Olberic recibe 277 de daño físico
+Olberic termina con HP:4944
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4944/5781 SP:291/291 BP:5
+B-Partitio - HP:0/4891 SP:294/314 BP:5
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:2
+B-Forest Ratkin I - HP:0/1348 Shields:1
+C-Highland Ratkin I - HP:841/1000 Shields:1
+D-Mad Ratkin - HP:822/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+----------------------------------------
+Mad Ratkin usa Stab
+Olberic recibe 231 de daño físico
+Olberic termina con HP:4713
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4713/5781 SP:291/291 BP:5
+B-Partitio - HP:0/4891 SP:294/314 BP:5
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:2
+B-Forest Ratkin I - HP:0/1348 Shields:1
+C-Highland Ratkin I - HP:841/1000 Shields:1
+D-Mad Ratkin - HP:822/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo

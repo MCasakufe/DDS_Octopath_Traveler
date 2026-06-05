@@ -1,0 +1,1634 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+INPUT: 24
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:582/582 BP:1
+B-H'aanit - HP:4447/4447 SP:369/369 BP:1
+C-Osvald - HP:3557/3557 SP:591/591 BP:1
+Equipo del enemigo
+A-Devil Deer - HP:2002/2002 Shields:5
+B-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+4.Cyrus
+5.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+4.Cyrus
+5.Devil Deer
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:582/582 BP:1
+B-H'aanit - HP:4447/4447 SP:369/369 BP:1
+C-Osvald - HP:3557/3557 SP:591/591 BP:1
+Equipo del enemigo
+A-Devil Deer - HP:2002/2002 Shields:5
+B-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Behemoth
+3.Cyrus
+4.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+4.Cyrus
+5.Devil Deer
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Lightning Bolt
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Osvald usa Lightning Bolt
+Devil Deer recibe 1187 de daño de tipo Lightning con debilidad
+Behemoth recibe 843 de daño de tipo Lightning
+Devil Deer termina con HP:815
+Behemoth termina con HP:11847
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:582/582 BP:1
+B-H'aanit - HP:4447/4447 SP:369/369 BP:1
+C-Osvald - HP:3557/3557 SP:583/591 BP:0
+Equipo del enemigo
+A-Devil Deer - HP:815/2002 Shields:4
+B-Behemoth - HP:11847/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Cyrus
+3.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+4.Cyrus
+5.Devil Deer
+----------------------------------------
+Behemoth usa Stampede
+Cyrus recibe 739 de daño físico
+H'aanit se defiende
+H'aanit recibe 394 de daño físico
+Osvald recibe 699 de daño físico
+Cyrus termina con HP:2818
+H'aanit termina con HP:4053
+Osvald termina con HP:2858
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2818/3557 SP:582/582 BP:1
+B-H'aanit - HP:4053/4447 SP:369/369 BP:1
+C-Osvald - HP:2858/3557 SP:583/591 BP:0
+Equipo del enemigo
+A-Devil Deer - HP:815/2002 Shields:4
+B-Behemoth - HP:11847/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+4.Cyrus
+5.Devil Deer
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Tradewinds
+2: Icewind
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Devil Deer - HP:815/2002 Shields:4
+2: Behemoth - HP:11847/12690 Shields:8
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Tradewinds
+Behemoth recibe 306 de daño de tipo Wind
+Behemoth termina con HP:11541
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2818/3557 SP:575/582 BP:1
+B-H'aanit - HP:4053/4447 SP:369/369 BP:1
+C-Osvald - HP:2858/3557 SP:583/591 BP:0
+Equipo del enemigo
+A-Devil Deer - HP:815/2002 Shields:4
+B-Behemoth - HP:11541/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+4.Cyrus
+5.Devil Deer
+----------------------------------------
+Devil Deer usa Boar Rush
+H'aanit se defiende
+H'aanit recibe 309 de daño físico
+H'aanit termina con HP:3744
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2818/3557 SP:575/582 BP:2
+B-H'aanit - HP:3744/4447 SP:369/369 BP:2
+C-Osvald - HP:2858/3557 SP:583/591 BP:0
+Equipo del enemigo
+A-Devil Deer - HP:815/2002 Shields:4
+B-Behemoth - HP:11541/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+4.Cyrus
+5.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+4.Cyrus
+5.Devil Deer
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Ethereal Healing
+2: Level Slash
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit usa Ethereal Healing
+Cyrus tendrá restauración de HP durante 2 rondas
+Osvald tendrá restauración de HP durante 2 rondas
+H'aanit tendrá restauración de HP durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2818/3557 SP:575/582 BP:2
+B-H'aanit - HP:4188/4447 SP:339/369 BP:2
+C-Osvald - HP:2858/3557 SP:583/591 BP:0
+Equipo del enemigo
+A-Devil Deer - HP:815/2002 Shields:4
+B-Behemoth - HP:11541/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Behemoth
+3.Cyrus
+4.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+4.Cyrus
+5.Devil Deer
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Lightning Bolt
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Osvald usa Lightning Bolt
+Devil Deer recibe 268 de daño de tipo Lightning con debilidad
+Behemoth recibe 231 de daño de tipo Lightning
+Devil Deer termina con HP:547
+Behemoth termina con HP:11310
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2818/3557 SP:575/582 BP:2
+B-H'aanit - HP:4188/4447 SP:339/369 BP:2
+C-Osvald - HP:3213/3557 SP:575/591 BP:0
+Equipo del enemigo
+A-Devil Deer - HP:547/2002 Shields:3
+B-Behemoth - HP:11310/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Cyrus
+3.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+4.Cyrus
+5.Devil Deer
+----------------------------------------
+Behemoth usa Stampede
+Cyrus recibe 739 de daño físico
+H'aanit recibe 789 de daño físico
+Osvald recibe 699 de daño físico
+Cyrus termina con HP:2079
+H'aanit termina con HP:3399
+Osvald termina con HP:2514
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2079/3557 SP:575/582 BP:2
+B-H'aanit - HP:3399/4447 SP:339/369 BP:2
+C-Osvald - HP:2514/3557 SP:575/591 BP:0
+Equipo del enemigo
+A-Devil Deer - HP:547/2002 Shields:3
+B-Behemoth - HP:11310/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+4.Cyrus
+5.Devil Deer
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Tradewinds
+2: Icewind
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Cyrus usa Icewind
+Devil Deer recibe 1614 de daño de tipo Ice
+Behemoth recibe 2500 de daño de tipo Ice con debilidad
+Devil Deer termina con HP:0
+Behemoth termina con HP:8810
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2434/3557 SP:567/582 BP:0
+B-H'aanit - HP:3399/4447 SP:339/369 BP:3
+C-Osvald - HP:2514/3557 SP:575/591 BP:1
+Equipo del enemigo
+A-Devil Deer - HP:0/2002 Shields:3
+B-Behemoth - HP:8810/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+4.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+4.Cyrus
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Ethereal Healing
+2: Level Slash
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+H'aanit usa Ethereal Healing
+Cyrus tendrá restauración de HP durante 5 rondas
+Osvald tendrá restauración de HP durante 5 rondas
+H'aanit tendrá restauración de HP durante 5 rondas
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2434/3557 SP:567/582 BP:0
+B-H'aanit - HP:3843/4447 SP:309/369 BP:0
+C-Osvald - HP:2514/3557 SP:575/591 BP:1
+Equipo del enemigo
+A-Devil Deer - HP:0/2002 Shields:3
+B-Behemoth - HP:8810/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Behemoth
+3.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+4.Cyrus
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2434/3557 SP:567/582 BP:0
+B-H'aanit - HP:3843/4447 SP:309/369 BP:0
+C-Osvald - HP:2869/3557 SP:575/591 BP:1
+Equipo del enemigo
+A-Devil Deer - HP:0/2002 Shields:3
+B-Behemoth - HP:8810/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.H'aanit
+3.Behemoth
+4.Cyrus
+----------------------------------------
+Behemoth usa Stampede
+Cyrus recibe 739 de daño físico
+H'aanit recibe 789 de daño físico
+Osvald se defiende
+Osvald recibe 349 de daño físico
+Cyrus termina con HP:1695
+H'aanit termina con HP:3054
+Osvald termina con HP:2520
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1695/3557 SP:567/582 BP:0
+B-H'aanit - HP:3054/4447 SP:309/369 BP:0
+C-Osvald - HP:2520/3557 SP:575/591 BP:1
+Equipo del enemigo
+A-Devil Deer - HP:0/2002 Shields:3
+B-Behemoth - HP:8810/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.H'aanit
+3.Behemoth
+4.Cyrus
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Tradewinds
+2: Icewind
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Cyrus usa Icewind
+Behemoth recibe 459 de daño de tipo Ice con debilidad
+Behemoth termina con HP:8351
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2050/3557 SP:559/582 BP:1
+B-H'aanit - HP:3054/4447 SP:309/369 BP:0
+C-Osvald - HP:2520/3557 SP:575/591 BP:2
+Equipo del enemigo
+A-Devil Deer - HP:0/2002 Shields:3
+B-Behemoth - HP:8351/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.H'aanit
+3.Behemoth
+4.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+4.Cyrus
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2050/3557 SP:559/582 BP:1
+B-H'aanit - HP:3054/4447 SP:309/369 BP:0
+C-Osvald - HP:2875/3557 SP:575/591 BP:2
+Equipo del enemigo
+A-Devil Deer - HP:0/2002 Shields:3
+B-Behemoth - HP:8351/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Behemoth
+3.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.H'aanit
+3.Behemoth
+4.Cyrus
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2050/3557 SP:559/582 BP:1
+B-H'aanit - HP:3498/4447 SP:309/369 BP:0
+C-Osvald - HP:2875/3557 SP:575/591 BP:2
+Equipo del enemigo
+A-Devil Deer - HP:0/2002 Shields:3
+B-Behemoth - HP:8351/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+4.Cyrus
+----------------------------------------
+Behemoth usa Stampede
+Cyrus recibe 739 de daño físico
+H'aanit se defiende
+H'aanit recibe 394 de daño físico
+Osvald se defiende
+Osvald recibe 349 de daño físico
+Cyrus termina con HP:1311
+H'aanit termina con HP:3104
+Osvald termina con HP:2526
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1311/3557 SP:559/582 BP:1
+B-H'aanit - HP:3104/4447 SP:309/369 BP:0
+C-Osvald - HP:2526/3557 SP:575/591 BP:2
+Equipo del enemigo
+A-Devil Deer - HP:0/2002 Shields:3
+B-Behemoth - HP:8351/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+4.Cyrus
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1666/3557 SP:559/582 BP:2
+B-H'aanit - HP:3104/4447 SP:309/369 BP:1
+C-Osvald - HP:2526/3557 SP:575/591 BP:3
+Equipo del enemigo
+A-Devil Deer - HP:0/2002 Shields:3
+B-Behemoth - HP:8351/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Osvald
+3.Cyrus
+4.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+4.Cyrus
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1666/3557 SP:559/582 BP:2
+B-H'aanit - HP:3548/4447 SP:309/369 BP:1
+C-Osvald - HP:2526/3557 SP:575/591 BP:3
+Equipo del enemigo
+A-Devil Deer - HP:0/2002 Shields:3
+B-Behemoth - HP:8351/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Cyrus
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+4.Cyrus
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Lightning Bolt
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Osvald usa Lightning Bolt
+Behemoth recibe 1456 de daño de tipo Lightning
+Behemoth termina con HP:6895
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1666/3557 SP:559/582 BP:2
+B-H'aanit - HP:3548/4447 SP:309/369 BP:1
+C-Osvald - HP:2881/3557 SP:567/591 BP:1
+Equipo del enemigo
+A-Devil Deer - HP:0/2002 Shields:3
+B-Behemoth - HP:6895/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+4.Cyrus
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Behemoth - HP:6895/12690 Shields:6
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Behemoth recibe 0 de daño de tipo Stave
+Behemoth termina con HP:6895
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2021/3557 SP:559/582 BP:2
+B-H'aanit - HP:3548/4447 SP:309/369 BP:1
+C-Osvald - HP:2881/3557 SP:567/591 BP:1
+Equipo del enemigo
+A-Devil Deer - HP:0/2002 Shields:3
+B-Behemoth - HP:6895/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+4.Cyrus
+----------------------------------------
+Behemoth usa Stampede
+Cyrus recibe 739 de daño físico
+H'aanit se defiende
+H'aanit recibe 394 de daño físico
+Osvald recibe 699 de daño físico
+Cyrus termina con HP:1282
+H'aanit termina con HP:3154
+Osvald termina con HP:2182
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1282/3557 SP:559/582 BP:3
+B-H'aanit - HP:3154/4447 SP:309/369 BP:2
+C-Osvald - HP:2182/3557 SP:567/591 BP:1
+Equipo del enemigo
+A-Devil Deer - HP:0/2002 Shields:3
+B-Behemoth - HP:6895/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+4.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+4.Cyrus
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Ethereal Healing
+2: Level Slash
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit usa Level Slash
+Behemoth recibe 132 de daño de tipo Sword
+Behemoth termina con HP:6763
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1282/3557 SP:559/582 BP:3
+B-H'aanit - HP:3598/4447 SP:300/369 BP:2
+C-Osvald - HP:2182/3557 SP:567/591 BP:1
+Equipo del enemigo
+A-Devil Deer - HP:0/2002 Shields:3
+B-Behemoth - HP:6763/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Behemoth
+3.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+4.Cyrus
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Behemoth - HP:6763/12690 Shields:6
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Behemoth recibe 0 de daño de tipo Stave
+Behemoth termina con HP:6763
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1282/3557 SP:559/582 BP:3
+B-H'aanit - HP:3598/4447 SP:300/369 BP:2
+C-Osvald - HP:2537/3557 SP:567/591 BP:1
+Equipo del enemigo
+A-Devil Deer - HP:0/2002 Shields:3
+B-Behemoth - HP:6763/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+4.Cyrus
+----------------------------------------
+Behemoth usa Stampede
+Cyrus recibe 739 de daño físico
+H'aanit recibe 789 de daño físico
+Osvald recibe 699 de daño físico
+Cyrus termina con HP:543
+H'aanit termina con HP:2809
+Osvald termina con HP:1838
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:543/3557 SP:559/582 BP:3
+B-H'aanit - HP:2809/4447 SP:300/369 BP:2
+C-Osvald - HP:1838/3557 SP:567/591 BP:1
+Equipo del enemigo
+A-Devil Deer - HP:0/2002 Shields:3
+B-Behemoth - HP:6763/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+4.Cyrus
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Behemoth - HP:6763/12690 Shields:6
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Behemoth recibe 0 de daño de tipo Stave
+Behemoth termina con HP:6763
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:898/3557 SP:559/582 BP:4
+B-H'aanit - HP:2809/4447 SP:300/369 BP:3
+C-Osvald - HP:1838/3557 SP:567/591 BP:2
+Equipo del enemigo
+A-Devil Deer - HP:0/2002 Shields:3
+B-Behemoth - HP:6763/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+4.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+4.Cyrus
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Behemoth - HP:6763/12690 Shields:6
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Behemoth recibe 81 de daño de tipo Bow con debilidad
+Behemoth termina con HP:6682
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:898/3557 SP:559/582 BP:4
+B-H'aanit - HP:3253/4447 SP:300/369 BP:3
+C-Osvald - HP:1838/3557 SP:567/591 BP:2
+Equipo del enemigo
+A-Devil Deer - HP:0/2002 Shields:3
+B-Behemoth - HP:6682/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Behemoth
+3.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+4.Cyrus
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Behemoth - HP:6682/12690 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Behemoth recibe 0 de daño de tipo Stave
+Behemoth termina con HP:6682
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:898/3557 SP:559/582 BP:4
+B-H'aanit - HP:3253/4447 SP:300/369 BP:3
+C-Osvald - HP:2193/3557 SP:567/591 BP:2
+Equipo del enemigo
+A-Devil Deer - HP:0/2002 Shields:3
+B-Behemoth - HP:6682/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+4.Cyrus
+----------------------------------------
+Behemoth usa Stampede
+Cyrus recibe 739 de daño físico
+H'aanit recibe 789 de daño físico
+Osvald recibe 699 de daño físico
+Cyrus termina con HP:159
+H'aanit termina con HP:2464
+Osvald termina con HP:1494
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:159/3557 SP:559/582 BP:4
+B-H'aanit - HP:2464/4447 SP:300/369 BP:3
+C-Osvald - HP:1494/3557 SP:567/591 BP:2
+Equipo del enemigo
+A-Devil Deer - HP:0/2002 Shields:3
+B-Behemoth - HP:6682/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+4.Cyrus
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Behemoth - HP:6682/12690 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Behemoth recibe 0 de daño de tipo Stave
+Behemoth termina con HP:6682
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:514/3557 SP:559/582 BP:5
+B-H'aanit - HP:2464/4447 SP:300/369 BP:4
+C-Osvald - HP:1494/3557 SP:567/591 BP:3
+Equipo del enemigo
+A-Devil Deer - HP:0/2002 Shields:3
+B-Behemoth - HP:6682/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+4.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+4.Cyrus
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Ethereal Healing
+2: Level Slash
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+H'aanit usa Level Slash
+Behemoth recibe 1179 de daño de tipo Sword
+Behemoth termina con HP:5503
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:514/3557 SP:559/582 BP:5
+B-H'aanit - HP:2908/4447 SP:291/369 BP:2
+C-Osvald - HP:1494/3557 SP:567/591 BP:3
+Equipo del enemigo
+A-Devil Deer - HP:0/2002 Shields:3
+B-Behemoth - HP:5503/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Behemoth
+3.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+4.Cyrus
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Behemoth - HP:5503/12690 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Behemoth recibe 0 de daño de tipo Stave
+Behemoth termina con HP:5503
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:514/3557 SP:559/582 BP:5
+B-H'aanit - HP:2908/4447 SP:291/369 BP:2
+C-Osvald - HP:1849/3557 SP:567/591 BP:3
+Equipo del enemigo
+A-Devil Deer - HP:0/2002 Shields:3
+B-Behemoth - HP:5503/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+4.Cyrus
+----------------------------------------
+Behemoth usa Stampede
+Cyrus recibe 739 de daño físico
+H'aanit recibe 789 de daño físico
+Osvald recibe 699 de daño físico
+Cyrus termina con HP:0
+H'aanit termina con HP:2119
+Osvald termina con HP:1150
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:559/582 BP:5
+B-H'aanit - HP:2119/4447 SP:291/369 BP:2
+C-Osvald - HP:1150/3557 SP:567/591 BP:4
+Equipo del enemigo
+A-Devil Deer - HP:0/2002 Shields:3
+B-Behemoth - HP:5503/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Ethereal Healing
+2: Level Slash
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+H'aanit usa Ethereal Healing
+Osvald tendrá restauración de HP durante 3 rondas
+H'aanit tendrá restauración de HP durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:559/582 BP:5
+B-H'aanit - HP:2563/4447 SP:261/369 BP:1
+C-Osvald - HP:1150/3557 SP:567/591 BP:4
+Equipo del enemigo
+A-Devil Deer - HP:0/2002 Shields:3
+B-Behemoth - HP:5503/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Lightning Bolt
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Osvald usa Lightning Bolt
+Behemoth recibe 2069 de daño de tipo Lightning
+Behemoth termina con HP:3434
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:559/582 BP:5
+B-H'aanit - HP:2563/4447 SP:261/369 BP:1
+C-Osvald - HP:1505/3557 SP:559/591 BP:1
+Equipo del enemigo
+A-Devil Deer - HP:0/2002 Shields:3
+B-Behemoth - HP:3434/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+H'aanit recibe 789 de daño físico
+Osvald recibe 699 de daño físico
+H'aanit termina con HP:1774
+Osvald termina con HP:806
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:559/582 BP:5
+B-H'aanit - HP:1774/4447 SP:261/369 BP:1
+C-Osvald - HP:806/3557 SP:559/591 BP:1
+Equipo del enemigo
+A-Devil Deer - HP:0/2002 Shields:3
+B-Behemoth - HP:3434/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Behemoth - HP:3434/12690 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Behemoth recibe 81 de daño de tipo Axe con debilidad
+Behemoth recibe 81 de daño de tipo Axe con debilidad
+Behemoth termina con HP:3272
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:559/582 BP:5
+B-H'aanit - HP:2218/4447 SP:261/369 BP:1
+C-Osvald - HP:806/3557 SP:559/591 BP:1
+Equipo del enemigo
+A-Devil Deer - HP:0/2002 Shields:3
+B-Behemoth - HP:3272/12690 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:559/582 BP:5
+B-H'aanit - HP:2218/4447 SP:261/369 BP:1
+C-Osvald - HP:1161/3557 SP:559/591 BP:1
+Equipo del enemigo
+A-Devil Deer - HP:0/2002 Shields:3
+B-Behemoth - HP:3272/12690 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.H'aanit
+3.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+H'aanit recibe 789 de daño físico
+Osvald se defiende
+Osvald recibe 349 de daño físico
+H'aanit termina con HP:1429
+Osvald termina con HP:812
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:559/582 BP:5
+B-H'aanit - HP:1429/4447 SP:261/369 BP:2
+C-Osvald - HP:812/3557 SP:559/591 BP:2
+Equipo del enemigo
+A-Devil Deer - HP:0/2002 Shields:3
+B-Behemoth - HP:3272/12690 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.H'aanit
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Behemoth - HP:3272/12690 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Behemoth recibe 0 de daño de tipo Stave
+Behemoth termina con HP:3272
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:559/582 BP:5
+B-H'aanit - HP:1429/4447 SP:261/369 BP:2
+C-Osvald - HP:1167/3557 SP:559/591 BP:2
+Equipo del enemigo
+A-Devil Deer - HP:0/2002 Shields:3
+B-Behemoth - HP:3272/12690 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Behemoth - HP:3272/12690 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Behemoth recibe 81 de daño de tipo Bow con debilidad
+Behemoth termina con HP:3191
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:559/582 BP:5
+B-H'aanit - HP:1873/4447 SP:261/369 BP:2
+C-Osvald - HP:1167/3557 SP:559/591 BP:2
+Equipo del enemigo
+A-Devil Deer - HP:0/2002 Shields:3
+B-Behemoth - HP:3191/12690 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+H'aanit recibe 789 de daño físico
+Osvald recibe 699 de daño físico
+H'aanit termina con HP:1084
+Osvald termina con HP:468
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:559/582 BP:5
+B-H'aanit - HP:1084/4447 SP:261/369 BP:3
+C-Osvald - HP:468/3557 SP:559/591 BP:3
+Equipo del enemigo
+A-Devil Deer - HP:0/2002 Shields:3
+B-Behemoth - HP:3191/12690 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:559/582 BP:5
+B-H'aanit - HP:1084/4447 SP:261/369 BP:3
+C-Osvald - HP:468/3557 SP:559/591 BP:3
+Equipo del enemigo
+A-Devil Deer - HP:0/2002 Shields:3
+B-Behemoth - HP:3191/12690 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Lightning Bolt
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Osvald usa Lightning Bolt
+Behemoth recibe 1456 de daño de tipo Lightning
+Behemoth termina con HP:1735
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:559/582 BP:5
+B-H'aanit - HP:1084/4447 SP:261/369 BP:3
+C-Osvald - HP:468/3557 SP:551/591 BP:1
+Equipo del enemigo
+A-Devil Deer - HP:0/2002 Shields:3
+B-Behemoth - HP:1735/12690 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Osvald
+3.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+H'aanit se defiende
+H'aanit recibe 394 de daño físico
+Osvald recibe 699 de daño físico
+H'aanit termina con HP:690
+Osvald termina con HP:0
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:559/582 BP:5
+B-H'aanit - HP:690/4447 SP:261/369 BP:4
+C-Osvald - HP:0/3557 SP:551/591 BP:1
+Equipo del enemigo
+A-Devil Deer - HP:0/2002 Shields:3
+B-Behemoth - HP:1735/12690 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Behemoth
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:559/582 BP:5
+B-H'aanit - HP:690/4447 SP:261/369 BP:4
+C-Osvald - HP:0/3557 SP:551/591 BP:1
+Equipo del enemigo
+A-Devil Deer - HP:0/2002 Shields:3
+B-Behemoth - HP:1735/12690 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+H'aanit se defiende
+H'aanit recibe 394 de daño físico
+H'aanit termina con HP:296
+----------------------------------------
+INICIA RONDA 14
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:559/582 BP:5
+B-H'aanit - HP:296/4447 SP:261/369 BP:5
+C-Osvald - HP:0/3557 SP:551/591 BP:1
+Equipo del enemigo
+A-Devil Deer - HP:0/2002 Shields:3
+B-Behemoth - HP:1735/12690 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Behemoth
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:559/582 BP:5
+B-H'aanit - HP:296/4447 SP:261/369 BP:5
+C-Osvald - HP:0/3557 SP:551/591 BP:1
+Equipo del enemigo
+A-Devil Deer - HP:0/2002 Shields:3
+B-Behemoth - HP:1735/12690 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+H'aanit se defiende
+H'aanit recibe 394 de daño físico
+H'aanit termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

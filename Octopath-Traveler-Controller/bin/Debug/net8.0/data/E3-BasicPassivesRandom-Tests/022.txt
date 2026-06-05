@@ -1,0 +1,329 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+INPUT: 21
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:383/383 BP:2
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+C-Agnea - HP:4002/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Alfyn
+3.Cyrus
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Alfyn
+3.Cyrus
+4.Light Wisp
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:383/383 BP:2
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+C-Agnea - HP:4002/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Cyrus
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Alfyn
+3.Cyrus
+4.Light Wisp
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Holy Light
+2: Luminescence
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Light Wisp - HP:972/972 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Holy Light
+Light Wisp recibe 269 de daño de tipo Light
+Light Wisp termina con HP:703
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:377/383 BP:2
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+C-Agnea - HP:4002/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:703/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Alfyn
+3.Cyrus
+4.Light Wisp
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:377/383 BP:2
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+C-Agnea - HP:4002/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:703/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Cyrus
+3.Alfyn
+4.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Agnea se defiende
+Agnea recibe 30 de daño elemental
+Agnea termina con HP:3972
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:377/383 BP:3
+B-Cyrus - HP:3557/3557 SP:582/582 BP:2
+C-Agnea - HP:3972/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:703/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Cyrus
+3.Alfyn
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Alfyn
+3.Cyrus
+4.Light Wisp
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Luminescence
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Luminescence
+Light Wisp recibe 192 de daño de tipo Light
+Light Wisp termina con HP:511
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:377/383 BP:3
+B-Cyrus - HP:3557/3557 SP:582/582 BP:2
+C-Agnea - HP:3972/4002 SP:495/504 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:511/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Alfyn
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Alfyn
+3.Cyrus
+4.Light Wisp
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Luminescence
+2: Fireball
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Fireball
+Light Wisp recibe 194 de daño de tipo Fire
+Light Wisp termina con HP:317
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:377/383 BP:3
+B-Cyrus - HP:3557/3557 SP:574/582 BP:2
+C-Agnea - HP:3972/4002 SP:495/504 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:317/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Alfyn
+3.Cyrus
+4.Light Wisp
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Light Wisp - HP:317/972 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Light Wisp recibe 143 de daño de tipo Axe
+Light Wisp termina con HP:174
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:377/383 BP:3
+B-Cyrus - HP:3557/3557 SP:574/582 BP:2
+C-Agnea - HP:3972/4002 SP:495/504 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:174/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Alfyn
+3.Cyrus
+4.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Agnea recibe 61 de daño elemental
+Agnea termina con HP:3911
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:377/383 BP:4
+B-Cyrus - HP:3557/3557 SP:574/582 BP:3
+C-Agnea - HP:3911/4002 SP:504/504 BP:4
+Equipo del enemigo
+A-Light Wisp - HP:174/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Alfyn
+3.Cyrus
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Alfyn
+3.Cyrus
+4.Light Wisp
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Luminescence
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Luminescence
+Light Wisp recibe 192 de daño de tipo Light
+Light Wisp termina con HP:0
+----------------------------------------
+Gana equipo del jugador

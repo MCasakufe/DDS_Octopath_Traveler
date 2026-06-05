@@ -1,0 +1,4500 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+INPUT: 13
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:1
+C-Alfyn - HP:5336/5336 SP:383/383 BP:1
+D-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Wisp - HP:972/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Dreadwolf
+3.Castti
+4.Alfyn
+5.Osvald
+6.Thunder Wisp
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Dreadwolf
+3.Castti
+4.Alfyn
+5.Osvald
+6.Thunder Wisp
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Dreadwolf - HP:7530/7530 Shields:9
+2: Thunder Wisp - HP:947/947 Shields:1
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Light Wisp - HP:972/972 Shields:1
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Therion no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Therion ataca
+Dreadwolf recibe 27 de daño de tipo Dagger
+Dreadwolf recibe 27 de daño de tipo Dagger
+Dreadwolf termina con HP:7476
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:0
+C-Alfyn - HP:5336/5336 SP:383/383 BP:1
+D-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7476/7530 Shields:9
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Wisp - HP:972/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Osvald
+5.Thunder Wisp
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Dreadwolf
+3.Castti
+4.Alfyn
+5.Osvald
+6.Thunder Wisp
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Therion recibe 787 de daño físico
+Therion termina con HP:3660
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:1
+B-Therion - HP:3660/4447 SP:332/332 BP:0
+C-Alfyn - HP:5336/5336 SP:383/383 BP:1
+D-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7476/7530 Shields:9
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Wisp - HP:972/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Alfyn
+3.Osvald
+4.Thunder Wisp
+5.Wind Elemental
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Dreadwolf
+3.Castti
+4.Alfyn
+5.Osvald
+6.Thunder Wisp
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Dreadwolf - HP:7476/7530 Shields:9
+2: Thunder Wisp - HP:947/947 Shields:1
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Light Wisp - HP:972/972 Shields:1
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti ataca
+Light Wisp recibe 143 de daño de tipo Axe
+Light Wisp recibe 143 de daño de tipo Axe
+Light Wisp termina con HP:686
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:0
+B-Therion - HP:3660/4447 SP:332/332 BP:0
+C-Alfyn - HP:5336/5336 SP:383/383 BP:1
+D-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7476/7530 Shields:9
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Wisp - HP:686/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Osvald
+3.Thunder Wisp
+4.Wind Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Dreadwolf
+3.Castti
+4.Alfyn
+5.Osvald
+6.Thunder Wisp
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:0
+B-Therion - HP:3660/4447 SP:332/332 BP:0
+C-Alfyn - HP:5336/5336 SP:383/383 BP:1
+D-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7476/7530 Shields:9
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Wisp - HP:686/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Thunder Wisp
+3.Wind Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Therion
+3.Dreadwolf
+4.Castti
+5.Osvald
+6.Thunder Wisp
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:0
+B-Therion - HP:3660/4447 SP:332/332 BP:0
+C-Alfyn - HP:5336/5336 SP:383/383 BP:1
+D-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7476/7530 Shields:9
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Wisp - HP:686/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+2.Wind Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Osvald
+3.Therion
+4.Dreadwolf
+5.Castti
+6.Thunder Wisp
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Thunder Wisp usa Enshadow
+Therion recibe 301 de daño elemental
+Therion termina con HP:3359
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:0
+B-Therion - HP:3359/4447 SP:332/332 BP:0
+C-Alfyn - HP:5336/5336 SP:383/383 BP:1
+D-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7476/7530 Shields:9
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Wisp - HP:686/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Osvald
+3.Therion
+4.Dreadwolf
+5.Castti
+6.Thunder Wisp
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Wind Elemental usa Windshot
+Therion recibe 199 de daño elemental
+Therion termina con HP:3160
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:0
+B-Therion - HP:3160/4447 SP:332/332 BP:0
+C-Alfyn - HP:5336/5336 SP:383/383 BP:1
+D-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7476/7530 Shields:9
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Wisp - HP:686/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Osvald
+3.Therion
+4.Dreadwolf
+5.Castti
+6.Thunder Wisp
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Therion recibe 165 de daño elemental
+Therion termina con HP:2995
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:0
+B-Therion - HP:2995/4447 SP:332/332 BP:0
+C-Alfyn - HP:5336/5336 SP:383/383 BP:2
+D-Osvald - HP:3557/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:7476/7530 Shields:9
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Wisp - HP:686/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Osvald
+3.Therion
+4.Dreadwolf
+5.Castti
+6.Thunder Wisp
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Dreadwolf
+3.Castti
+4.Alfyn
+5.Osvald
+6.Thunder Wisp
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:0
+B-Therion - HP:2995/4447 SP:332/332 BP:0
+C-Alfyn - HP:5336/5336 SP:383/383 BP:2
+D-Osvald - HP:3557/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:7476/7530 Shields:9
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Wisp - HP:686/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Therion
+3.Dreadwolf
+4.Castti
+5.Thunder Wisp
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Therion
+3.Dreadwolf
+4.Castti
+5.Osvald
+6.Thunder Wisp
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:0
+B-Therion - HP:2995/4447 SP:332/332 BP:0
+C-Alfyn - HP:5336/5336 SP:383/383 BP:2
+D-Osvald - HP:3557/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:7476/7530 Shields:9
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Wisp - HP:686/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Dreadwolf
+3.Castti
+4.Thunder Wisp
+5.Wind Elemental
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Osvald
+3.Therion
+4.Dreadwolf
+5.Castti
+6.Thunder Wisp
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Dreadwolf - HP:7476/7530 Shields:9
+2: Thunder Wisp - HP:947/947 Shields:1
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Light Wisp - HP:686/972 Shields:1
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Therion ataca
+Light Wisp recibe 140 de daño de tipo Dagger
+Light Wisp termina con HP:546
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:0
+B-Therion - HP:2995/4447 SP:332/332 BP:0
+C-Alfyn - HP:5336/5336 SP:383/383 BP:2
+D-Osvald - HP:3557/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:7476/7530 Shields:9
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Wisp - HP:546/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Castti
+3.Thunder Wisp
+4.Wind Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Osvald
+3.Therion
+4.Dreadwolf
+5.Castti
+6.Thunder Wisp
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Therion recibe 787 de daño físico
+Therion termina con HP:2208
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:0
+B-Therion - HP:2208/4447 SP:332/332 BP:0
+C-Alfyn - HP:5336/5336 SP:383/383 BP:2
+D-Osvald - HP:3557/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:7476/7530 Shields:9
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Wisp - HP:546/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Thunder Wisp
+3.Wind Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Osvald
+3.Therion
+4.Dreadwolf
+5.Castti
+6.Thunder Wisp
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Dreadwolf - HP:7476/7530 Shields:9
+2: Thunder Wisp - HP:947/947 Shields:1
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Light Wisp - HP:546/972 Shields:1
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Castti ataca
+Light Wisp recibe 143 de daño de tipo Axe
+Light Wisp termina con HP:403
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:0
+B-Therion - HP:2208/4447 SP:332/332 BP:0
+C-Alfyn - HP:5336/5336 SP:383/383 BP:2
+D-Osvald - HP:3557/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:7476/7530 Shields:9
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Wisp - HP:403/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+2.Wind Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Osvald
+3.Therion
+4.Dreadwolf
+5.Castti
+6.Thunder Wisp
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Thunder Wisp usa Enshadow
+Therion recibe 301 de daño elemental
+Therion termina con HP:1907
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:0
+B-Therion - HP:1907/4447 SP:332/332 BP:0
+C-Alfyn - HP:5336/5336 SP:383/383 BP:2
+D-Osvald - HP:3557/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:7476/7530 Shields:9
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Wisp - HP:403/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Osvald
+3.Therion
+4.Dreadwolf
+5.Castti
+6.Thunder Wisp
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Wind Elemental usa Windshot
+Therion recibe 199 de daño elemental
+Therion termina con HP:1708
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:0
+B-Therion - HP:1708/4447 SP:332/332 BP:0
+C-Alfyn - HP:5336/5336 SP:383/383 BP:2
+D-Osvald - HP:3557/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:7476/7530 Shields:9
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Wisp - HP:403/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Osvald
+3.Therion
+4.Dreadwolf
+5.Castti
+6.Thunder Wisp
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Therion recibe 165 de daño elemental
+Therion termina con HP:1543
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:1
+B-Therion - HP:1543/4447 SP:332/332 BP:1
+C-Alfyn - HP:5336/5336 SP:383/383 BP:3
+D-Osvald - HP:3557/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:7476/7530 Shields:9
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Wisp - HP:403/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Osvald
+3.Therion
+4.Dreadwolf
+5.Castti
+6.Thunder Wisp
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Dreadwolf
+3.Castti
+4.Alfyn
+5.Osvald
+6.Thunder Wisp
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Dreadwolf - HP:7476/7530 Shields:9
+2: Thunder Wisp - HP:947/947 Shields:1
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Light Wisp - HP:403/972 Shields:1
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Alfyn ataca
+Light Wisp recibe 143 de daño de tipo Axe
+Light Wisp recibe 143 de daño de tipo Axe
+Light Wisp recibe 143 de daño de tipo Axe
+Light Wisp recibe 143 de daño de tipo Axe
+Light Wisp termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:1
+B-Therion - HP:1543/4447 SP:332/332 BP:1
+C-Alfyn - HP:5336/5336 SP:383/383 BP:0
+D-Osvald - HP:3557/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:7476/7530 Shields:9
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Therion
+3.Dreadwolf
+4.Castti
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Dreadwolf
+3.Castti
+4.Alfyn
+5.Osvald
+6.Thunder Wisp
+7.Wind Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Dreadwolf - HP:7476/7530 Shields:9
+2: Thunder Wisp - HP:947/947 Shields:1
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Osvald ataca
+Wind Elemental recibe 0 de daño de tipo Stave
+Wind Elemental recibe 0 de daño de tipo Stave
+Wind Elemental recibe 0 de daño de tipo Stave
+Wind Elemental termina con HP:2496
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:1
+B-Therion - HP:1543/4447 SP:332/332 BP:1
+C-Alfyn - HP:5336/5336 SP:383/383 BP:0
+D-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7476/7530 Shields:9
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Dreadwolf
+3.Castti
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Dreadwolf
+3.Castti
+4.Alfyn
+5.Osvald
+6.Thunder Wisp
+7.Wind Elemental
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Dreadwolf - HP:7476/7530 Shields:9
+2: Thunder Wisp - HP:947/947 Shields:1
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Therion no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Therion no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Therion no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Therion no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Therion no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Therion ataca
+Wind Elemental recibe 49 de daño de tipo Dagger
+Wind Elemental recibe 49 de daño de tipo Dagger
+Wind Elemental termina con HP:2398
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:1
+B-Therion - HP:1543/4447 SP:332/332 BP:0
+C-Alfyn - HP:5336/5336 SP:383/383 BP:0
+D-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7476/7530 Shields:9
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2398/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Castti
+3.Thunder Wisp
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Dreadwolf
+3.Castti
+4.Alfyn
+5.Osvald
+6.Thunder Wisp
+7.Wind Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Therion recibe 787 de daño físico
+Therion termina con HP:756
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:1
+B-Therion - HP:756/4447 SP:332/332 BP:0
+C-Alfyn - HP:5336/5336 SP:383/383 BP:0
+D-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7476/7530 Shields:9
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2398/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Thunder Wisp
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Dreadwolf
+3.Castti
+4.Alfyn
+5.Osvald
+6.Thunder Wisp
+7.Wind Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Dreadwolf - HP:7476/7530 Shields:9
+2: Thunder Wisp - HP:947/947 Shields:1
+3: Wind Elemental - HP:2398/2496 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti ataca
+Wind Elemental recibe 52 de daño de tipo Axe
+Wind Elemental recibe 52 de daño de tipo Axe
+Wind Elemental termina con HP:2294
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:0
+B-Therion - HP:756/4447 SP:332/332 BP:0
+C-Alfyn - HP:5336/5336 SP:383/383 BP:0
+D-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7476/7530 Shields:9
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2294/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Dreadwolf
+3.Castti
+4.Alfyn
+5.Osvald
+6.Thunder Wisp
+7.Wind Elemental
+----------------------------------------
+Thunder Wisp usa Enshadow
+Therion recibe 301 de daño elemental
+Therion termina con HP:455
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:0
+B-Therion - HP:455/4447 SP:332/332 BP:0
+C-Alfyn - HP:5336/5336 SP:383/383 BP:0
+D-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7476/7530 Shields:9
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2294/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Dreadwolf
+3.Castti
+4.Alfyn
+5.Osvald
+6.Thunder Wisp
+7.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Therion recibe 199 de daño elemental
+Therion termina con HP:256
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:0
+B-Therion - HP:256/4447 SP:332/332 BP:0
+C-Alfyn - HP:5336/5336 SP:383/383 BP:0
+D-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7476/7530 Shields:9
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2294/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Dreadwolf
+3.Castti
+4.Alfyn
+5.Osvald
+6.Thunder Wisp
+7.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Dreadwolf
+3.Castti
+4.Alfyn
+5.Osvald
+6.Thunder Wisp
+7.Wind Elemental
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:0
+B-Therion - HP:256/4447 SP:332/332 BP:0
+C-Alfyn - HP:5336/5336 SP:383/383 BP:0
+D-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7476/7530 Shields:9
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2294/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Osvald
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Dreadwolf
+3.Castti
+4.Alfyn
+5.Osvald
+6.Thunder Wisp
+7.Wind Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Therion se defiende
+Therion recibe 393 de daño físico
+Therion termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:5336/5336 SP:383/383 BP:0
+D-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7476/7530 Shields:9
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2294/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Alfyn
+3.Osvald
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Osvald
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:5336/5336 SP:383/383 BP:0
+D-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7476/7530 Shields:9
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2294/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Osvald
+3.Thunder Wisp
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Alfyn
+4.Osvald
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Dreadwolf - HP:7476/7530 Shields:9
+2: Thunder Wisp - HP:947/947 Shields:1
+3: Wind Elemental - HP:2294/2496 Shields:4
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Alfyn ataca
+Dreadwolf recibe 45 de daño de tipo Axe con debilidad
+Dreadwolf termina con HP:7431
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:5336/5336 SP:383/383 BP:0
+D-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7431/7530 Shields:8
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2294/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Thunder Wisp
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Alfyn
+4.Osvald
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Dreadwolf - HP:7431/7530 Shields:8
+2: Thunder Wisp - HP:947/947 Shields:1
+3: Wind Elemental - HP:2294/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Osvald no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Osvald no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Osvald ataca
+Thunder Wisp recibe 0 de daño de tipo Stave
+Thunder Wisp recibe 0 de daño de tipo Stave
+Thunder Wisp termina con HP:947
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:5336/5336 SP:383/383 BP:0
+D-Osvald - HP:3557/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7431/7530 Shields:8
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2294/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Alfyn
+4.Osvald
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Thunder Wisp usa Enshadow
+Castti se defiende
+Castti recibe 100 de daño elemental
+Castti termina con HP:5236
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5236/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:5336/5336 SP:383/383 BP:0
+D-Osvald - HP:3557/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7431/7530 Shields:8
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2294/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Alfyn
+4.Osvald
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Alfyn recibe 189 de daño elemental
+Alfyn termina con HP:5147
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5236/5336 SP:426/426 BP:1
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:5147/5336 SP:383/383 BP:1
+D-Osvald - HP:3557/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7431/7530 Shields:8
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2294/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Dreadwolf
+3.Alfyn
+4.Osvald
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Osvald
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Dreadwolf - HP:7431/7530 Shields:8
+2: Thunder Wisp - HP:947/947 Shields:1
+3: Wind Elemental - HP:2294/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti ataca
+Thunder Wisp recibe 0 de daño de tipo Axe
+Thunder Wisp recibe 0 de daño de tipo Axe
+Thunder Wisp termina con HP:947
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5236/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:5147/5336 SP:383/383 BP:1
+D-Osvald - HP:3557/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7431/7530 Shields:8
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2294/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Alfyn
+3.Osvald
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Osvald
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Osvald recibe 721 de daño físico
+Osvald termina con HP:2836
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5236/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:5147/5336 SP:383/383 BP:1
+D-Osvald - HP:2836/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7431/7530 Shields:8
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2294/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Osvald
+3.Thunder Wisp
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Osvald
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Dreadwolf - HP:7431/7530 Shields:8
+2: Thunder Wisp - HP:947/947 Shields:1
+3: Wind Elemental - HP:2294/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Alfyn no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Alfyn ataca
+Thunder Wisp recibe 0 de daño de tipo Axe
+Thunder Wisp recibe 0 de daño de tipo Axe
+Thunder Wisp termina con HP:947
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5236/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:5147/5336 SP:383/383 BP:0
+D-Osvald - HP:2836/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7431/7530 Shields:8
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2294/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Thunder Wisp
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Osvald
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Dreadwolf - HP:7431/7530 Shields:8
+2: Thunder Wisp - HP:947/947 Shields:1
+3: Wind Elemental - HP:2294/2496 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Osvald ataca
+Wind Elemental recibe 0 de daño de tipo Stave
+Wind Elemental termina con HP:2294
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5236/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:5147/5336 SP:383/383 BP:0
+D-Osvald - HP:2836/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7431/7530 Shields:8
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2294/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Osvald
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Thunder Wisp usa Enshadow
+Castti recibe 201 de daño elemental
+Castti termina con HP:5035
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5035/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:5147/5336 SP:383/383 BP:0
+D-Osvald - HP:2836/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7431/7530 Shields:8
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2294/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Osvald
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Alfyn recibe 189 de daño elemental
+Alfyn termina con HP:4958
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5035/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:4958/5336 SP:383/383 BP:0
+D-Osvald - HP:2836/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7431/7530 Shields:8
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2294/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Osvald
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Osvald
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Osvald recibe 721 de daño físico
+Osvald termina con HP:2115
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5035/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:4958/5336 SP:383/383 BP:0
+D-Osvald - HP:2115/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7431/7530 Shields:8
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2294/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Alfyn
+3.Osvald
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Osvald
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Dreadwolf - HP:7431/7530 Shields:8
+2: Thunder Wisp - HP:947/947 Shields:1
+3: Wind Elemental - HP:2294/2496 Shields:4
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Castti ataca
+Dreadwolf recibe 45 de daño de tipo Axe con debilidad
+Dreadwolf termina con HP:7386
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5035/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:4958/5336 SP:383/383 BP:0
+D-Osvald - HP:2115/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7386/7530 Shields:7
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2294/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Osvald
+3.Thunder Wisp
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Osvald
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5035/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:4958/5336 SP:383/383 BP:0
+D-Osvald - HP:2115/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7386/7530 Shields:7
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2294/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Thunder Wisp
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Dreadwolf
+3.Castti
+4.Osvald
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5035/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:4958/5336 SP:383/383 BP:0
+D-Osvald - HP:2115/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7386/7530 Shields:7
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2294/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Osvald
+3.Dreadwolf
+4.Castti
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Thunder Wisp usa Enshadow
+Castti recibe 201 de daño elemental
+Castti termina con HP:4834
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4834/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:4958/5336 SP:383/383 BP:0
+D-Osvald - HP:2115/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7386/7530 Shields:7
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2294/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Osvald
+3.Dreadwolf
+4.Castti
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Alfyn se defiende
+Alfyn recibe 94 de daño elemental
+Alfyn termina con HP:4864
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4834/5336 SP:426/426 BP:1
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:4864/5336 SP:383/383 BP:1
+D-Osvald - HP:2115/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:7386/7530 Shields:7
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2294/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Osvald
+3.Dreadwolf
+4.Castti
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Osvald
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Dreadwolf - HP:7386/7530 Shields:7
+2: Thunder Wisp - HP:947/947 Shields:1
+3: Wind Elemental - HP:2294/2496 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Alfyn no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Alfyn ataca
+Wind Elemental recibe 52 de daño de tipo Axe
+Wind Elemental recibe 52 de daño de tipo Axe
+Wind Elemental termina con HP:2190
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4834/5336 SP:426/426 BP:1
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:4864/5336 SP:383/383 BP:0
+D-Osvald - HP:2115/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:7386/7530 Shields:7
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2190/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Dreadwolf
+3.Castti
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Osvald
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4834/5336 SP:426/426 BP:1
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:4864/5336 SP:383/383 BP:0
+D-Osvald - HP:2115/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:7386/7530 Shields:7
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2190/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Castti
+3.Thunder Wisp
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Dreadwolf
+3.Castti
+4.Alfyn
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Osvald se defiende
+Osvald recibe 360 de daño físico
+Osvald termina con HP:1755
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4834/5336 SP:426/426 BP:1
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:4864/5336 SP:383/383 BP:0
+D-Osvald - HP:1755/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:7386/7530 Shields:7
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2190/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Thunder Wisp
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Dreadwolf
+3.Castti
+4.Alfyn
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Dreadwolf - HP:7386/7530 Shields:7
+2: Thunder Wisp - HP:947/947 Shields:1
+3: Wind Elemental - HP:2190/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti ataca
+Thunder Wisp recibe 0 de daño de tipo Axe
+Thunder Wisp recibe 0 de daño de tipo Axe
+Thunder Wisp termina con HP:947
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4834/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:4864/5336 SP:383/383 BP:0
+D-Osvald - HP:1755/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:7386/7530 Shields:7
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2190/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Dreadwolf
+3.Castti
+4.Alfyn
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Thunder Wisp usa Enshadow
+Castti recibe 201 de daño elemental
+Castti termina con HP:4633
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4633/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:4864/5336 SP:383/383 BP:0
+D-Osvald - HP:1755/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:7386/7530 Shields:7
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2190/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Dreadwolf
+3.Castti
+4.Alfyn
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Alfyn recibe 189 de daño elemental
+Alfyn termina con HP:4675
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4633/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:4675/5336 SP:383/383 BP:0
+D-Osvald - HP:1755/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:7386/7530 Shields:7
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2190/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Dreadwolf
+3.Castti
+4.Alfyn
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Osvald
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Dreadwolf - HP:7386/7530 Shields:7
+2: Thunder Wisp - HP:947/947 Shields:1
+3: Wind Elemental - HP:2190/2496 Shields:4
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Osvald ataca
+Dreadwolf recibe 0 de daño de tipo Stave
+Dreadwolf recibe 0 de daño de tipo Stave
+Dreadwolf recibe 0 de daño de tipo Stave
+Dreadwolf termina con HP:7386
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4633/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:4675/5336 SP:383/383 BP:0
+D-Osvald - HP:1755/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7386/7530 Shields:7
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2190/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Osvald
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Osvald recibe 721 de daño físico
+Osvald termina con HP:1034
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4633/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:4675/5336 SP:383/383 BP:0
+D-Osvald - HP:1034/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7386/7530 Shields:7
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2190/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Alfyn
+3.Thunder Wisp
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Osvald
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4633/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:4675/5336 SP:383/383 BP:0
+D-Osvald - HP:1034/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7386/7530 Shields:7
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2190/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Thunder Wisp
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Alfyn
+4.Osvald
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4633/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:4675/5336 SP:383/383 BP:0
+D-Osvald - HP:1034/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7386/7530 Shields:7
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2190/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Dreadwolf
+4.Osvald
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Thunder Wisp usa Enshadow
+Castti se defiende
+Castti recibe 100 de daño elemental
+Castti termina con HP:4533
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4533/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:4675/5336 SP:383/383 BP:0
+D-Osvald - HP:1034/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7386/7530 Shields:7
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2190/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Dreadwolf
+4.Osvald
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Alfyn se defiende
+Alfyn recibe 94 de daño elemental
+Alfyn termina con HP:4581
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4533/5336 SP:426/426 BP:1
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:4581/5336 SP:383/383 BP:1
+D-Osvald - HP:1034/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7386/7530 Shields:7
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2190/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Alfyn
+3.Dreadwolf
+4.Osvald
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Osvald
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4533/5336 SP:426/426 BP:1
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:4581/5336 SP:383/383 BP:1
+D-Osvald - HP:1034/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7386/7530 Shields:7
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2190/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Dreadwolf
+3.Osvald
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Alfyn
+4.Osvald
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4533/5336 SP:426/426 BP:1
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:4581/5336 SP:383/383 BP:1
+D-Osvald - HP:1034/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7386/7530 Shields:7
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2190/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Osvald
+3.Thunder Wisp
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Dreadwolf
+4.Osvald
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Osvald recibe 721 de daño físico
+Osvald termina con HP:313
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4533/5336 SP:426/426 BP:1
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:4581/5336 SP:383/383 BP:1
+D-Osvald - HP:313/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7386/7530 Shields:7
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2190/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Thunder Wisp
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Dreadwolf
+4.Osvald
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Dreadwolf - HP:7386/7530 Shields:7
+2: Thunder Wisp - HP:947/947 Shields:1
+3: Wind Elemental - HP:2190/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Osvald ataca
+Thunder Wisp recibe 0 de daño de tipo Stave
+Thunder Wisp recibe 0 de daño de tipo Stave
+Thunder Wisp termina con HP:947
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4533/5336 SP:426/426 BP:1
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:4581/5336 SP:383/383 BP:1
+D-Osvald - HP:313/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7386/7530 Shields:7
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2190/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Dreadwolf
+4.Osvald
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Thunder Wisp usa Enshadow
+Castti se defiende
+Castti recibe 100 de daño elemental
+Castti termina con HP:4433
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4433/5336 SP:426/426 BP:1
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:4581/5336 SP:383/383 BP:1
+D-Osvald - HP:313/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7386/7530 Shields:7
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2190/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Dreadwolf
+4.Osvald
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Alfyn se defiende
+Alfyn recibe 94 de daño elemental
+Alfyn termina con HP:4487
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4433/5336 SP:426/426 BP:2
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:4487/5336 SP:383/383 BP:2
+D-Osvald - HP:313/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7386/7530 Shields:7
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2190/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Alfyn
+3.Dreadwolf
+4.Osvald
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Osvald
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Dreadwolf - HP:7386/7530 Shields:7
+2: Thunder Wisp - HP:947/947 Shields:1
+3: Wind Elemental - HP:2190/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti ataca
+Thunder Wisp recibe 0 de daño de tipo Axe
+Thunder Wisp recibe 0 de daño de tipo Axe
+Thunder Wisp termina con HP:947
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4433/5336 SP:426/426 BP:1
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:4487/5336 SP:383/383 BP:2
+D-Osvald - HP:313/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7386/7530 Shields:7
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2190/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Dreadwolf
+3.Osvald
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Osvald
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Dreadwolf - HP:7386/7530 Shields:7
+2: Thunder Wisp - HP:947/947 Shields:1
+3: Wind Elemental - HP:2190/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Alfyn ataca
+Thunder Wisp recibe 0 de daño de tipo Axe
+Thunder Wisp recibe 0 de daño de tipo Axe
+Thunder Wisp recibe 0 de daño de tipo Axe
+Thunder Wisp termina con HP:947
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4433/5336 SP:426/426 BP:1
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:4487/5336 SP:383/383 BP:0
+D-Osvald - HP:313/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7386/7530 Shields:7
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2190/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Osvald
+3.Thunder Wisp
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Osvald
+5.Thunder Wisp
+6.Wind Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Osvald recibe 721 de daño físico
+Osvald termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4433/5336 SP:426/426 BP:1
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:4487/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7386/7530 Shields:7
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2190/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Thunder Wisp usa Enshadow
+Castti recibe 201 de daño elemental
+Castti termina con HP:4232
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4232/5336 SP:426/426 BP:1
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:4487/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7386/7530 Shields:7
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2190/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Alfyn recibe 189 de daño elemental
+Alfyn termina con HP:4298
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4232/5336 SP:426/426 BP:1
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:4298/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7386/7530 Shields:7
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2190/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Alfyn recibe 650 de daño físico
+Alfyn termina con HP:3648
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4232/5336 SP:426/426 BP:1
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:3648/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7386/7530 Shields:7
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2190/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Alfyn
+3.Thunder Wisp
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4232/5336 SP:426/426 BP:1
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:3648/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7386/7530 Shields:7
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2190/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Thunder Wisp
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Alfyn
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4232/5336 SP:426/426 BP:1
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:3648/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7386/7530 Shields:7
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2190/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Dreadwolf
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Thunder Wisp usa Enshadow
+Castti se defiende
+Castti recibe 100 de daño elemental
+Castti termina con HP:4132
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4132/5336 SP:426/426 BP:1
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:3648/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7386/7530 Shields:7
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2190/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Dreadwolf
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Alfyn se defiende
+Alfyn recibe 94 de daño elemental
+Alfyn termina con HP:3554
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4132/5336 SP:426/426 BP:2
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:3554/5336 SP:383/383 BP:1
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7386/7530 Shields:7
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2190/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Alfyn
+3.Dreadwolf
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Dreadwolf - HP:7386/7530 Shields:7
+2: Thunder Wisp - HP:947/947 Shields:1
+3: Wind Elemental - HP:2190/2496 Shields:4
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti ataca
+Dreadwolf recibe 45 de daño de tipo Axe con debilidad
+Dreadwolf recibe 45 de daño de tipo Axe con debilidad
+Dreadwolf termina con HP:7296
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4132/5336 SP:426/426 BP:1
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:3554/5336 SP:383/383 BP:1
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7296/7530 Shields:5
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2190/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Dreadwolf
+3.Thunder Wisp
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Dreadwolf - HP:7296/7530 Shields:5
+2: Thunder Wisp - HP:947/947 Shields:1
+3: Wind Elemental - HP:2190/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Alfyn ataca
+Thunder Wisp recibe 0 de daño de tipo Axe
+Thunder Wisp recibe 0 de daño de tipo Axe
+Thunder Wisp termina con HP:947
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4132/5336 SP:426/426 BP:1
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:3554/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7296/7530 Shields:5
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2190/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Thunder Wisp
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Alfyn recibe 650 de daño físico
+Alfyn termina con HP:2904
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4132/5336 SP:426/426 BP:1
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:2904/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7296/7530 Shields:5
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2190/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Thunder Wisp usa Enshadow
+Castti recibe 201 de daño elemental
+Castti termina con HP:3931
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3931/5336 SP:426/426 BP:1
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:2904/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7296/7530 Shields:5
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2190/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Alfyn recibe 189 de daño elemental
+Alfyn termina con HP:2715
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3931/5336 SP:426/426 BP:1
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:2715/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7296/7530 Shields:5
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2190/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Alfyn recibe 650 de daño físico
+Alfyn termina con HP:2065
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3931/5336 SP:426/426 BP:1
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:2065/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7296/7530 Shields:5
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2190/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Alfyn
+3.Thunder Wisp
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Dreadwolf - HP:7296/7530 Shields:5
+2: Thunder Wisp - HP:947/947 Shields:1
+3: Wind Elemental - HP:2190/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti ataca
+Thunder Wisp recibe 0 de daño de tipo Axe
+Thunder Wisp recibe 0 de daño de tipo Axe
+Thunder Wisp termina con HP:947
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3931/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:2065/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7296/7530 Shields:5
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2190/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Thunder Wisp
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3931/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:2065/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7296/7530 Shields:5
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2190/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Dreadwolf
+3.Castti
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Thunder Wisp usa Enshadow
+Castti recibe 201 de daño elemental
+Castti termina con HP:3730
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3730/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:2065/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7296/7530 Shields:5
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2190/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Dreadwolf
+3.Castti
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Alfyn se defiende
+Alfyn recibe 94 de daño elemental
+Alfyn termina con HP:1971
+----------------------------------------
+INICIA RONDA 14
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3730/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:1971/5336 SP:383/383 BP:1
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7296/7530 Shields:5
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2190/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Dreadwolf
+3.Castti
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Dreadwolf - HP:7296/7530 Shields:5
+2: Thunder Wisp - HP:947/947 Shields:1
+3: Wind Elemental - HP:2190/2496 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Alfyn no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Alfyn ataca
+Wind Elemental recibe 52 de daño de tipo Axe
+Wind Elemental recibe 52 de daño de tipo Axe
+Wind Elemental termina con HP:2086
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3730/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:1971/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7296/7530 Shields:5
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2086/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Castti
+3.Thunder Wisp
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Alfyn recibe 650 de daño físico
+Alfyn termina con HP:1321
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3730/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:1321/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7296/7530 Shields:5
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2086/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Thunder Wisp
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3730/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:1321/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7296/7530 Shields:5
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2086/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Alfyn
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Thunder Wisp usa Enshadow
+Castti se defiende
+Castti recibe 100 de daño elemental
+Castti termina con HP:3630
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3630/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:1321/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7296/7530 Shields:5
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2086/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Alfyn
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Alfyn recibe 189 de daño elemental
+Alfyn termina con HP:1132
+----------------------------------------
+INICIA RONDA 15
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3630/5336 SP:426/426 BP:1
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:1132/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7296/7530 Shields:5
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2086/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Dreadwolf
+3.Alfyn
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Dreadwolf - HP:7296/7530 Shields:5
+2: Thunder Wisp - HP:947/947 Shields:1
+3: Wind Elemental - HP:2086/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti ataca
+Thunder Wisp recibe 0 de daño de tipo Axe
+Thunder Wisp recibe 0 de daño de tipo Axe
+Thunder Wisp termina con HP:947
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3630/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:1132/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7296/7530 Shields:5
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2086/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Alfyn
+3.Thunder Wisp
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Alfyn recibe 650 de daño físico
+Alfyn termina con HP:482
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3630/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:482/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7296/7530 Shields:5
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2086/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Thunder Wisp
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3630/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:482/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7296/7530 Shields:5
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2086/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Dreadwolf
+3.Castti
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Thunder Wisp usa Enshadow
+Castti recibe 201 de daño elemental
+Castti termina con HP:3429
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3429/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:482/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7296/7530 Shields:5
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2086/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Dreadwolf
+3.Castti
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Alfyn se defiende
+Alfyn recibe 94 de daño elemental
+Alfyn termina con HP:388
+----------------------------------------
+INICIA RONDA 16
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3429/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:388/5336 SP:383/383 BP:1
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7296/7530 Shields:5
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2086/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Dreadwolf
+3.Castti
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Dreadwolf - HP:7296/7530 Shields:5
+2: Thunder Wisp - HP:947/947 Shields:1
+3: Wind Elemental - HP:2086/2496 Shields:4
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Alfyn no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Alfyn no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Alfyn ataca
+Dreadwolf recibe 45 de daño de tipo Axe con debilidad
+Dreadwolf recibe 45 de daño de tipo Axe con debilidad
+Dreadwolf termina con HP:7206
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3429/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:388/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7206/7530 Shields:3
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2086/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Castti
+3.Thunder Wisp
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Alfyn
+4.Thunder Wisp
+5.Wind Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Alfyn recibe 650 de daño físico
+Alfyn termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3429/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:0/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7206/7530 Shields:3
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2086/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Thunder Wisp
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Thunder Wisp
+4.Wind Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3429/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:0/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7206/7530 Shields:3
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2086/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Thunder Wisp
+4.Wind Elemental
+----------------------------------------
+Thunder Wisp usa Enshadow
+Castti se defiende
+Castti recibe 100 de daño elemental
+Castti termina con HP:3329
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3329/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:0/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7206/7530 Shields:3
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2086/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Thunder Wisp
+4.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Castti se defiende
+Castti recibe 49 de daño elemental
+Castti termina con HP:3280
+----------------------------------------
+INICIA RONDA 17
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3280/5336 SP:426/426 BP:1
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:0/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7206/7530 Shields:3
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2086/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Dreadwolf
+3.Thunder Wisp
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Thunder Wisp
+4.Wind Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Dreadwolf - HP:7206/7530 Shields:3
+2: Thunder Wisp - HP:947/947 Shields:1
+3: Wind Elemental - HP:2086/2496 Shields:4
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti ataca
+Dreadwolf recibe 45 de daño de tipo Axe con debilidad
+Dreadwolf recibe 45 de daño de tipo Axe con debilidad
+Dreadwolf termina con HP:7116
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3280/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:0/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7116/7530 Shields:1
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2086/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Thunder Wisp
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Thunder Wisp
+4.Wind Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Castti recibe 590 de daño físico
+Castti termina con HP:2690
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2690/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:0/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7116/7530 Shields:1
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2086/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Thunder Wisp
+4.Wind Elemental
+----------------------------------------
+Thunder Wisp usa Enshadow
+Castti recibe 201 de daño elemental
+Castti termina con HP:2489
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2489/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:0/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7116/7530 Shields:1
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2086/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Thunder Wisp
+4.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Castti recibe 99 de daño elemental
+Castti termina con HP:2390
+----------------------------------------
+INICIA RONDA 18
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2390/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:0/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7116/7530 Shields:1
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2086/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Castti
+3.Thunder Wisp
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Thunder Wisp
+4.Wind Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Castti recibe 590 de daño físico
+Castti termina con HP:1800
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1800/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:0/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7116/7530 Shields:1
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2086/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Thunder Wisp
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Thunder Wisp
+4.Wind Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Dreadwolf - HP:7116/7530 Shields:1
+2: Thunder Wisp - HP:947/947 Shields:1
+3: Wind Elemental - HP:2086/2496 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Castti ataca
+Wind Elemental recibe 52 de daño de tipo Axe
+Wind Elemental termina con HP:2034
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1800/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:0/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7116/7530 Shields:1
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2034/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Thunder Wisp
+4.Wind Elemental
+----------------------------------------
+Thunder Wisp usa Enshadow
+Castti recibe 201 de daño elemental
+Castti termina con HP:1599
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1599/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:0/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7116/7530 Shields:1
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2034/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Thunder Wisp
+4.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Castti recibe 99 de daño elemental
+Castti termina con HP:1500
+----------------------------------------
+INICIA RONDA 19
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1500/5336 SP:426/426 BP:1
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:0/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7116/7530 Shields:1
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2034/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Castti
+3.Thunder Wisp
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Thunder Wisp
+4.Wind Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Castti recibe 590 de daño físico
+Castti termina con HP:910
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:910/5336 SP:426/426 BP:1
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:0/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7116/7530 Shields:1
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2034/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Thunder Wisp
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Thunder Wisp
+4.Wind Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:910/5336 SP:426/426 BP:1
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:0/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7116/7530 Shields:1
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2034/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Thunder Wisp
+4.Wind Elemental
+----------------------------------------
+Thunder Wisp usa Enshadow
+Castti se defiende
+Castti recibe 100 de daño elemental
+Castti termina con HP:810
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:810/5336 SP:426/426 BP:1
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:0/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7116/7530 Shields:1
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2034/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Dreadwolf
+3.Thunder Wisp
+4.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Castti se defiende
+Castti recibe 49 de daño elemental
+Castti termina con HP:761
+----------------------------------------
+INICIA RONDA 20
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:761/5336 SP:426/426 BP:2
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:0/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:7116/7530 Shields:1
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2034/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Dreadwolf
+3.Thunder Wisp
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Thunder Wisp
+4.Wind Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Dreadwolf - HP:7116/7530 Shields:1
+2: Thunder Wisp - HP:947/947 Shields:1
+3: Wind Elemental - HP:2034/2496 Shields:4
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti ataca
+Dreadwolf recibe 45 de daño de tipo Axe con debilidad
+Dreadwolf entra en Breaking Point
+Dreadwolf recibe 60 de daño de tipo Axe con debilidad
+Dreadwolf recibe 60 de daño de tipo Axe con debilidad
+Dreadwolf termina con HP:6951
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:761/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:0/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:6951/7530 Shields:0
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2034/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Thunder Wisp
+3.Wind Elemental
+----------------------------------------
+Thunder Wisp usa Enshadow
+Castti recibe 201 de daño elemental
+Castti termina con HP:560
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:560/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:0/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:6951/7530 Shields:0
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2034/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Thunder Wisp
+3.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Castti recibe 99 de daño elemental
+Castti termina con HP:461
+----------------------------------------
+INICIA RONDA 21
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:461/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:0/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:6951/7530 Shields:0
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2034/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Thunder Wisp
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Thunder Wisp
+4.Wind Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Dreadwolf - HP:6951/7530 Shields:0
+2: Thunder Wisp - HP:947/947 Shields:1
+3: Wind Elemental - HP:2034/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Castti ataca
+Thunder Wisp recibe 0 de daño de tipo Axe
+Thunder Wisp termina con HP:947
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:461/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:0/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:6951/7530 Shields:0
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2034/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Thunder Wisp
+4.Wind Elemental
+----------------------------------------
+Thunder Wisp usa Enshadow
+Castti recibe 201 de daño elemental
+Castti termina con HP:260
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:260/5336 SP:426/426 BP:0
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:0/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:6951/7530 Shields:0
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2034/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Thunder Wisp
+4.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Castti recibe 99 de daño elemental
+Castti termina con HP:161
+----------------------------------------
+INICIA RONDA 22
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:161/5336 SP:426/426 BP:1
+B-Therion - HP:0/4447 SP:332/332 BP:0
+C-Alfyn - HP:0/5336 SP:383/383 BP:0
+D-Osvald - HP:0/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:6951/7530 Shields:9
+B-Thunder Wisp - HP:947/947 Shields:1
+C-Wind Elemental - HP:2034/2496 Shields:4
+D-Light Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Castti
+3.Thunder Wisp
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Castti
+3.Thunder Wisp
+4.Wind Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Castti recibe 590 de daño físico
+Castti termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

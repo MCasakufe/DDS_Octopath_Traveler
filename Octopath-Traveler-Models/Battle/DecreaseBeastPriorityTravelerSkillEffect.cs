@@ -15,7 +15,8 @@ internal sealed class DecreaseBeastPriorityTravelerSkillEffect : TravelerSkillEf
         if (target is null)
             return;
 
-        target.ApplyDecreasedPriorityRounds(_durationRounds);
-        effectContext.AddResult(new TravelerSkillPriorityChangeResult(target.Name, _durationRounds));
+        int boostedDurationRounds = CalculateBoostedDuration(effectContext, _durationRounds);
+        target.ApplyDecreasedPriorityRounds(boostedDurationRounds);
+        effectContext.AddResult(new TravelerSkillPriorityChangeResult(target.Name, boostedDurationRounds));
     }
 }

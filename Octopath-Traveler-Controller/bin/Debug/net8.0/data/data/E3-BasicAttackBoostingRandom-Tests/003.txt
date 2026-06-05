@@ -1,0 +1,2754 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+INPUT: 2
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Agnea - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Light Guardian - HP:1129/1129 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Light Guardian - HP:1129/1129 Shields:3
+2: Frost Fox - HP:1302/1302 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Agnea no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Agnea ataca
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Agnea - HP:4002/4002 SP:504/504 BP:0
+Equipo del enemigo
+A-Light Guardian - HP:1129/1129 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Frost Fox
+3.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Agnea - HP:4002/4002 SP:504/504 BP:0
+Equipo del enemigo
+A-Light Guardian - HP:1129/1129 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Agnea
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Frost Fox usa Ice blast
+Primrose se defiende
+Primrose recibe 100 de daño elemental
+Agnea recibe 201 de daño elemental
+Primrose termina con HP:3902
+Agnea termina con HP:3801
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3902/4002 SP:504/504 BP:1
+B-Agnea - HP:3801/4002 SP:504/504 BP:0
+Equipo del enemigo
+A-Light Guardian - HP:1129/1129 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Agnea
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Light Guardian usa Attack
+Primrose se defiende
+Primrose recibe 66 de daño físico
+Primrose termina con HP:3836
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3836/4002 SP:504/504 BP:2
+B-Agnea - HP:3801/4002 SP:504/504 BP:0
+Equipo del enemigo
+A-Light Guardian - HP:1129/1129 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Agnea
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Light Guardian - HP:1129/1129 Shields:3
+2: Frost Fox - HP:1302/1302 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Primrose ataca
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3836/4002 SP:504/504 BP:1
+B-Agnea - HP:3801/4002 SP:504/504 BP:0
+Equipo del enemigo
+A-Light Guardian - HP:1129/1129 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Frost Fox
+3.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3836/4002 SP:504/504 BP:1
+B-Agnea - HP:3801/4002 SP:504/504 BP:0
+Equipo del enemigo
+A-Light Guardian - HP:1129/1129 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Frost Fox usa Ice blast
+Primrose recibe 201 de daño elemental
+Agnea se defiende
+Agnea recibe 100 de daño elemental
+Primrose termina con HP:3635
+Agnea termina con HP:3701
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3635/4002 SP:504/504 BP:1
+B-Agnea - HP:3701/4002 SP:504/504 BP:0
+Equipo del enemigo
+A-Light Guardian - HP:1129/1129 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Light Guardian usa Attack
+Agnea se defiende
+Agnea recibe 66 de daño físico
+Agnea termina con HP:3635
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3635/4002 SP:504/504 BP:1
+B-Agnea - HP:3635/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Light Guardian - HP:1129/1129 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3635/4002 SP:504/504 BP:1
+B-Agnea - HP:3635/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Light Guardian - HP:1129/1129 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Frost Fox
+3.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3635/4002 SP:504/504 BP:1
+B-Agnea - HP:3635/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Light Guardian - HP:1129/1129 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Frost Fox usa Ice blast
+Primrose se defiende
+Primrose recibe 100 de daño elemental
+Agnea se defiende
+Agnea recibe 100 de daño elemental
+Primrose termina con HP:3535
+Agnea termina con HP:3535
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3535/4002 SP:504/504 BP:1
+B-Agnea - HP:3535/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Light Guardian - HP:1129/1129 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Light Guardian usa Attack
+Primrose se defiende
+Primrose recibe 66 de daño físico
+Primrose termina con HP:3469
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3469/4002 SP:504/504 BP:2
+B-Agnea - HP:3535/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Light Guardian - HP:1129/1129 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3469/4002 SP:504/504 BP:2
+B-Agnea - HP:3535/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Light Guardian - HP:1129/1129 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Frost Fox
+3.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Light Guardian - HP:1129/1129 Shields:3
+2: Frost Fox - HP:1302/1302 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Primrose ataca
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3469/4002 SP:504/504 BP:0
+B-Agnea - HP:3535/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Light Guardian - HP:1129/1129 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Frost Fox usa Ice blast
+Primrose recibe 201 de daño elemental
+Agnea se defiende
+Agnea recibe 100 de daño elemental
+Primrose termina con HP:3268
+Agnea termina con HP:3435
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3268/4002 SP:504/504 BP:0
+B-Agnea - HP:3435/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Light Guardian - HP:1129/1129 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Light Guardian usa Attack
+Agnea se defiende
+Agnea recibe 66 de daño físico
+Agnea termina con HP:3369
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3268/4002 SP:504/504 BP:0
+B-Agnea - HP:3369/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Light Guardian - HP:1129/1129 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3268/4002 SP:504/504 BP:0
+B-Agnea - HP:3369/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Light Guardian - HP:1129/1129 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Frost Fox
+3.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3268/4002 SP:504/504 BP:0
+B-Agnea - HP:3369/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Light Guardian - HP:1129/1129 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Frost Fox usa Ice blast
+Primrose se defiende
+Primrose recibe 100 de daño elemental
+Agnea se defiende
+Agnea recibe 100 de daño elemental
+Primrose termina con HP:3168
+Agnea termina con HP:3269
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3168/4002 SP:504/504 BP:0
+B-Agnea - HP:3269/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Light Guardian - HP:1129/1129 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Light Guardian usa Attack
+Agnea se defiende
+Agnea recibe 66 de daño físico
+Agnea termina con HP:3203
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3168/4002 SP:504/504 BP:1
+B-Agnea - HP:3203/4002 SP:504/504 BP:4
+Equipo del enemigo
+A-Light Guardian - HP:1129/1129 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3168/4002 SP:504/504 BP:1
+B-Agnea - HP:3203/4002 SP:504/504 BP:4
+Equipo del enemigo
+A-Light Guardian - HP:1129/1129 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Frost Fox
+3.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Light Guardian - HP:1129/1129 Shields:3
+2: Frost Fox - HP:1302/1302 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Primrose no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Primrose no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Primrose no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Primrose ataca
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3168/4002 SP:504/504 BP:0
+B-Agnea - HP:3203/4002 SP:504/504 BP:4
+Equipo del enemigo
+A-Light Guardian - HP:1129/1129 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Frost Fox usa Ice blast
+Primrose recibe 201 de daño elemental
+Agnea se defiende
+Agnea recibe 100 de daño elemental
+Primrose termina con HP:2967
+Agnea termina con HP:3103
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2967/4002 SP:504/504 BP:0
+B-Agnea - HP:3103/4002 SP:504/504 BP:4
+Equipo del enemigo
+A-Light Guardian - HP:1129/1129 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Light Guardian usa Attack
+Agnea se defiende
+Agnea recibe 66 de daño físico
+Agnea termina con HP:3037
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2967/4002 SP:504/504 BP:0
+B-Agnea - HP:3037/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:1129/1129 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2967/4002 SP:504/504 BP:0
+B-Agnea - HP:3037/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:1129/1129 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Frost Fox
+3.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Light Guardian - HP:1129/1129 Shields:3
+2: Frost Fox - HP:1302/1302 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Primrose ataca
+Light Guardian recibe 97 de daño de tipo Dagger con debilidad
+Light Guardian termina con HP:1032
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2967/4002 SP:504/504 BP:0
+B-Agnea - HP:3037/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:1032/1129 Shields:2
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Frost Fox usa Ice blast
+Primrose recibe 201 de daño elemental
+Agnea se defiende
+Agnea recibe 100 de daño elemental
+Primrose termina con HP:2766
+Agnea termina con HP:2937
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2766/4002 SP:504/504 BP:0
+B-Agnea - HP:2937/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:1032/1129 Shields:2
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Light Guardian usa Attack
+Agnea se defiende
+Agnea recibe 66 de daño físico
+Agnea termina con HP:2871
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2766/4002 SP:504/504 BP:1
+B-Agnea - HP:2871/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Light Guardian - HP:1032/1129 Shields:2
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Light Guardian - HP:1032/1129 Shields:2
+2: Frost Fox - HP:1302/1302 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Agnea ataca
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2766/4002 SP:504/504 BP:1
+B-Agnea - HP:2871/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Light Guardian - HP:1032/1129 Shields:2
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Frost Fox
+3.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Light Guardian - HP:1032/1129 Shields:2
+2: Frost Fox - HP:1302/1302 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Primrose no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Primrose ataca
+Light Guardian recibe 97 de daño de tipo Dagger con debilidad
+Light Guardian recibe 97 de daño de tipo Dagger con debilidad
+Light Guardian entra en Breaking Point
+Light Guardian termina con HP:838
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2766/4002 SP:504/504 BP:0
+B-Agnea - HP:2871/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Light Guardian - HP:838/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Frost Fox usa Ice blast
+Primrose recibe 201 de daño elemental
+Agnea recibe 201 de daño elemental
+Primrose termina con HP:2565
+Agnea termina con HP:2670
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2565/4002 SP:504/504 BP:0
+B-Agnea - HP:2670/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Light Guardian - HP:838/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Light Guardian
+2.Agnea
+3.Primrose
+4.Frost Fox
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Light Guardian - HP:838/1129 Shields:0
+2: Frost Fox - HP:1302/1302 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Agnea ataca
+Light Guardian recibe 117 de daño de tipo Dagger con debilidad
+Light Guardian recibe 117 de daño de tipo Dagger con debilidad
+Light Guardian recibe 117 de daño de tipo Dagger con debilidad
+Light Guardian recibe 117 de daño de tipo Dagger con debilidad
+Light Guardian termina con HP:370
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2565/4002 SP:504/504 BP:0
+B-Agnea - HP:2670/4002 SP:504/504 BP:0
+Equipo del enemigo
+A-Light Guardian - HP:370/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Light Guardian
+2.Agnea
+3.Primrose
+4.Frost Fox
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2565/4002 SP:504/504 BP:0
+B-Agnea - HP:2670/4002 SP:504/504 BP:0
+Equipo del enemigo
+A-Light Guardian - HP:370/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Light Guardian
+2.Primrose
+3.Agnea
+4.Frost Fox
+----------------------------------------
+Frost Fox usa Ice blast
+Primrose se defiende
+Primrose recibe 100 de daño elemental
+Agnea recibe 201 de daño elemental
+Primrose termina con HP:2465
+Agnea termina con HP:2469
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2465/4002 SP:504/504 BP:1
+B-Agnea - HP:2469/4002 SP:504/504 BP:0
+Equipo del enemigo
+A-Light Guardian - HP:370/1129 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Light Guardian
+2.Primrose
+3.Agnea
+4.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Light Guardian usa Attack
+Agnea recibe 132 de daño físico
+Agnea termina con HP:2337
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2465/4002 SP:504/504 BP:1
+B-Agnea - HP:2337/4002 SP:504/504 BP:0
+Equipo del enemigo
+A-Light Guardian - HP:370/1129 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Agnea
+3.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Light Guardian - HP:370/1129 Shields:3
+2: Frost Fox - HP:1302/1302 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Primrose no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Primrose ataca
+Light Guardian recibe 97 de daño de tipo Dagger con debilidad
+Light Guardian recibe 97 de daño de tipo Dagger con debilidad
+Light Guardian termina con HP:176
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2465/4002 SP:504/504 BP:0
+B-Agnea - HP:2337/4002 SP:504/504 BP:0
+Equipo del enemigo
+A-Light Guardian - HP:176/1129 Shields:1
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2465/4002 SP:504/504 BP:0
+B-Agnea - HP:2337/4002 SP:504/504 BP:0
+Equipo del enemigo
+A-Light Guardian - HP:176/1129 Shields:1
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Frost Fox usa Ice blast
+Primrose recibe 201 de daño elemental
+Agnea se defiende
+Agnea recibe 100 de daño elemental
+Primrose termina con HP:2264
+Agnea termina con HP:2237
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2264/4002 SP:504/504 BP:0
+B-Agnea - HP:2237/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Light Guardian - HP:176/1129 Shields:1
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2264/4002 SP:504/504 BP:0
+B-Agnea - HP:2237/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Light Guardian - HP:176/1129 Shields:1
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Frost Fox
+3.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2264/4002 SP:504/504 BP:0
+B-Agnea - HP:2237/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Light Guardian - HP:176/1129 Shields:1
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Frost Fox usa Ice blast
+Primrose se defiende
+Primrose recibe 100 de daño elemental
+Agnea se defiende
+Agnea recibe 100 de daño elemental
+Primrose termina con HP:2164
+Agnea termina con HP:2137
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2164/4002 SP:504/504 BP:0
+B-Agnea - HP:2137/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Light Guardian - HP:176/1129 Shields:1
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Light Guardian usa Attack
+Primrose se defiende
+Primrose recibe 66 de daño físico
+Primrose termina con HP:2098
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2098/4002 SP:504/504 BP:1
+B-Agnea - HP:2137/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Light Guardian - HP:176/1129 Shields:1
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+4.Light Guardian
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Light Guardian - HP:176/1129 Shields:1
+2: Frost Fox - HP:1302/1302 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Agnea ataca
+Light Guardian recibe 87 de daño de tipo Dagger con debilidad
+Light Guardian entra en Breaking Point
+Light Guardian recibe 117 de daño de tipo Dagger con debilidad
+Light Guardian recibe 117 de daño de tipo Dagger con debilidad
+Light Guardian termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2098/4002 SP:504/504 BP:1
+B-Agnea - HP:2137/4002 SP:504/504 BP:0
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Frost Fox - HP:1302/1302 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Primrose ataca
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2098/4002 SP:504/504 BP:0
+B-Agnea - HP:2137/4002 SP:504/504 BP:0
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Frost Fox usa Ice blast
+Primrose recibe 201 de daño elemental
+Agnea recibe 201 de daño elemental
+Primrose termina con HP:1897
+Agnea termina con HP:1936
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1897/4002 SP:504/504 BP:0
+B-Agnea - HP:1936/4002 SP:504/504 BP:0
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Frost Fox - HP:1302/1302 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Agnea ataca
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1897/4002 SP:504/504 BP:0
+B-Agnea - HP:1936/4002 SP:504/504 BP:0
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Frost Fox - HP:1302/1302 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Primrose ataca
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1897/4002 SP:504/504 BP:0
+B-Agnea - HP:1936/4002 SP:504/504 BP:0
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Frost Fox usa Ice blast
+Primrose recibe 201 de daño elemental
+Agnea recibe 201 de daño elemental
+Primrose termina con HP:1696
+Agnea termina con HP:1735
+----------------------------------------
+INICIA RONDA 14
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1696/4002 SP:504/504 BP:1
+B-Agnea - HP:1735/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1696/4002 SP:504/504 BP:1
+B-Agnea - HP:1735/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Frost Fox - HP:1302/1302 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Primrose no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Primrose no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Primrose ataca
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1696/4002 SP:504/504 BP:0
+B-Agnea - HP:1735/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Frost Fox usa Ice blast
+Primrose recibe 201 de daño elemental
+Agnea se defiende
+Agnea recibe 100 de daño elemental
+Primrose termina con HP:1495
+Agnea termina con HP:1635
+----------------------------------------
+INICIA RONDA 15
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1495/4002 SP:504/504 BP:0
+B-Agnea - HP:1635/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1495/4002 SP:504/504 BP:0
+B-Agnea - HP:1635/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1495/4002 SP:504/504 BP:0
+B-Agnea - HP:1635/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Frost Fox usa Ice blast
+Primrose se defiende
+Primrose recibe 100 de daño elemental
+Agnea se defiende
+Agnea recibe 100 de daño elemental
+Primrose termina con HP:1395
+Agnea termina con HP:1535
+----------------------------------------
+INICIA RONDA 16
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1395/4002 SP:504/504 BP:1
+B-Agnea - HP:1535/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Frost Fox - HP:1302/1302 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Agnea ataca
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1395/4002 SP:504/504 BP:1
+B-Agnea - HP:1535/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1395/4002 SP:504/504 BP:1
+B-Agnea - HP:1535/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Agnea
+3.Frost Fox
+----------------------------------------
+Frost Fox usa Ice blast
+Primrose se defiende
+Primrose recibe 100 de daño elemental
+Agnea recibe 201 de daño elemental
+Primrose termina con HP:1295
+Agnea termina con HP:1334
+----------------------------------------
+INICIA RONDA 17
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1295/4002 SP:504/504 BP:2
+B-Agnea - HP:1334/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Agnea
+3.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Frost Fox - HP:1302/1302 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Primrose no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Primrose no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Primrose ataca
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1295/4002 SP:504/504 BP:1
+B-Agnea - HP:1334/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Frost Fox - HP:1302/1302 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Agnea ataca
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1295/4002 SP:504/504 BP:1
+B-Agnea - HP:1334/4002 SP:504/504 BP:0
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Frost Fox usa Ice blast
+Primrose recibe 201 de daño elemental
+Agnea recibe 201 de daño elemental
+Primrose termina con HP:1094
+Agnea termina con HP:1133
+----------------------------------------
+INICIA RONDA 18
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1094/4002 SP:504/504 BP:1
+B-Agnea - HP:1133/4002 SP:504/504 BP:0
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Frost Fox - HP:1302/1302 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Agnea ataca
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1094/4002 SP:504/504 BP:1
+B-Agnea - HP:1133/4002 SP:504/504 BP:0
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Frost Fox - HP:1302/1302 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Primrose no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Primrose no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Primrose no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Primrose no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Primrose ataca
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1094/4002 SP:504/504 BP:0
+B-Agnea - HP:1133/4002 SP:504/504 BP:0
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Frost Fox usa Ice blast
+Primrose recibe 201 de daño elemental
+Agnea recibe 201 de daño elemental
+Primrose termina con HP:893
+Agnea termina con HP:932
+----------------------------------------
+INICIA RONDA 19
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:893/4002 SP:504/504 BP:0
+B-Agnea - HP:932/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:893/4002 SP:504/504 BP:0
+B-Agnea - HP:932/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Frost Fox - HP:1302/1302 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Primrose ataca
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:893/4002 SP:504/504 BP:0
+B-Agnea - HP:932/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Frost Fox usa Ice blast
+Primrose recibe 201 de daño elemental
+Agnea se defiende
+Agnea recibe 100 de daño elemental
+Primrose termina con HP:692
+Agnea termina con HP:832
+----------------------------------------
+INICIA RONDA 20
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:692/4002 SP:504/504 BP:1
+B-Agnea - HP:832/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Frost Fox - HP:1302/1302 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Agnea ataca
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:692/4002 SP:504/504 BP:1
+B-Agnea - HP:832/4002 SP:504/504 BP:0
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:692/4002 SP:504/504 BP:1
+B-Agnea - HP:832/4002 SP:504/504 BP:0
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Agnea
+3.Frost Fox
+----------------------------------------
+Frost Fox usa Ice blast
+Primrose se defiende
+Primrose recibe 100 de daño elemental
+Agnea recibe 201 de daño elemental
+Primrose termina con HP:592
+Agnea termina con HP:631
+----------------------------------------
+INICIA RONDA 21
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:592/4002 SP:504/504 BP:2
+B-Agnea - HP:631/4002 SP:504/504 BP:0
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Agnea
+3.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Frost Fox - HP:1302/1302 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Primrose no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Primrose ataca
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:592/4002 SP:504/504 BP:0
+B-Agnea - HP:631/4002 SP:504/504 BP:0
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Frost Fox - HP:1302/1302 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Agnea ataca
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:592/4002 SP:504/504 BP:0
+B-Agnea - HP:631/4002 SP:504/504 BP:0
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Frost Fox usa Ice blast
+Primrose recibe 201 de daño elemental
+Agnea recibe 201 de daño elemental
+Primrose termina con HP:391
+Agnea termina con HP:430
+----------------------------------------
+INICIA RONDA 22
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:391/4002 SP:504/504 BP:0
+B-Agnea - HP:430/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Frost Fox - HP:1302/1302 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Agnea ataca
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:391/4002 SP:504/504 BP:0
+B-Agnea - HP:430/4002 SP:504/504 BP:0
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:391/4002 SP:504/504 BP:0
+B-Agnea - HP:430/4002 SP:504/504 BP:0
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Agnea
+3.Frost Fox
+----------------------------------------
+Frost Fox usa Ice blast
+Primrose se defiende
+Primrose recibe 100 de daño elemental
+Agnea recibe 201 de daño elemental
+Primrose termina con HP:291
+Agnea termina con HP:229
+----------------------------------------
+INICIA RONDA 23
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:291/4002 SP:504/504 BP:1
+B-Agnea - HP:229/4002 SP:504/504 BP:0
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Agnea
+3.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:291/4002 SP:504/504 BP:1
+B-Agnea - HP:229/4002 SP:504/504 BP:0
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Agnea
+3.Frost Fox
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Frost Fox - HP:1302/1302 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Agnea ataca
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:291/4002 SP:504/504 BP:1
+B-Agnea - HP:229/4002 SP:504/504 BP:0
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Agnea
+3.Frost Fox
+----------------------------------------
+Frost Fox usa Ice blast
+Primrose se defiende
+Primrose recibe 100 de daño elemental
+Agnea recibe 201 de daño elemental
+Primrose termina con HP:191
+Agnea termina con HP:28
+----------------------------------------
+INICIA RONDA 24
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:191/4002 SP:504/504 BP:2
+B-Agnea - HP:28/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Agnea
+3.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Frost Fox - HP:1302/1302 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Primrose ataca
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:191/4002 SP:504/504 BP:0
+B-Agnea - HP:28/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Frost Fox - HP:1302/1302 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Agnea no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Agnea ataca
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:191/4002 SP:504/504 BP:0
+B-Agnea - HP:28/4002 SP:504/504 BP:0
+Equipo del enemigo
+A-Light Guardian - HP:0/1129 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Primrose
+3.Frost Fox
+----------------------------------------
+Frost Fox usa Ice blast
+Primrose recibe 201 de daño elemental
+Agnea recibe 201 de daño elemental
+Primrose termina con HP:0
+Agnea termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

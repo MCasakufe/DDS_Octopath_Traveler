@@ -1,0 +1,4518 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+INPUT: 7
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:1
+B-Throné - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:801/801 Shields:1
+B-Ice Elemental - HP:2160/2160 Shields:4
+C-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+4.Ice Wisp
+5.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+4.Ice Wisp
+5.Forest Ratkin I
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Ice Wisp - HP:801/801 Shields:1
+2: Ice Elemental - HP:2160/2160 Shields:4
+3: Forest Ratkin I - HP:1348/1348 Shields:1
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Throné no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Throné no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Throné ataca
+Ice Elemental recibe 48 de daño de tipo Sword
+Ice Elemental recibe 48 de daño de tipo Sword
+Ice Elemental termina con HP:2064
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:1
+B-Throné - HP:4447/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:801/801 Shields:1
+B-Ice Elemental - HP:2064/2160 Shields:4
+C-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+3.Ice Wisp
+4.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+4.Ice Wisp
+5.Forest Ratkin I
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:1
+B-Throné - HP:4447/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:801/801 Shields:1
+B-Ice Elemental - HP:2064/2160 Shields:4
+C-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Ice Wisp
+3.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Throné
+3.Ice Elemental
+4.Ice Wisp
+5.Forest Ratkin I
+----------------------------------------
+Ice Elemental usa Iceshot
+Throné recibe 247 de daño elemental
+Throné termina con HP:4200
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:1
+B-Throné - HP:4200/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:801/801 Shields:1
+B-Ice Elemental - HP:2064/2160 Shields:4
+C-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Wisp
+2.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Throné
+3.Ice Elemental
+4.Ice Wisp
+5.Forest Ratkin I
+----------------------------------------
+Ice Wisp usa Freeze
+Throné recibe 160 de daño elemental
+Throné termina con HP:4040
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:1
+B-Throné - HP:4040/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:801/801 Shields:1
+B-Ice Elemental - HP:2064/2160 Shields:4
+C-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Throné
+3.Ice Elemental
+4.Ice Wisp
+5.Forest Ratkin I
+----------------------------------------
+Forest Ratkin I usa Stab
+Throné recibe 147 de daño físico
+Throné termina con HP:3893
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:2
+B-Throné - HP:3893/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:801/801 Shields:1
+B-Ice Elemental - HP:2064/2160 Shields:4
+C-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Throné
+3.Ice Elemental
+4.Ice Wisp
+5.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+4.Ice Wisp
+5.Forest Ratkin I
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:2
+B-Throné - HP:3893/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:801/801 Shields:1
+B-Ice Elemental - HP:2064/2160 Shields:4
+C-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Ice Elemental
+3.Ice Wisp
+4.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Throné
+3.Ice Elemental
+4.Ice Wisp
+5.Forest Ratkin I
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:2
+B-Throné - HP:3893/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:801/801 Shields:1
+B-Ice Elemental - HP:2064/2160 Shields:4
+C-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Ice Wisp
+3.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+4.Ice Wisp
+5.Forest Ratkin I
+----------------------------------------
+Ice Elemental usa Iceshot
+Throné se defiende
+Throné recibe 123 de daño elemental
+Throné termina con HP:3770
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:2
+B-Throné - HP:3770/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:801/801 Shields:1
+B-Ice Elemental - HP:2064/2160 Shields:4
+C-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Wisp
+2.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+4.Ice Wisp
+5.Forest Ratkin I
+----------------------------------------
+Ice Wisp usa Freeze
+Throné se defiende
+Throné recibe 80 de daño elemental
+Throné termina con HP:3690
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:2
+B-Throné - HP:3690/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:801/801 Shields:1
+B-Ice Elemental - HP:2064/2160 Shields:4
+C-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+4.Ice Wisp
+5.Forest Ratkin I
+----------------------------------------
+Forest Ratkin I usa Stab
+Throné se defiende
+Throné recibe 73 de daño físico
+Throné termina con HP:3617
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:3
+B-Throné - HP:3617/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:801/801 Shields:1
+B-Ice Elemental - HP:2064/2160 Shields:4
+C-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+4.Ice Wisp
+5.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+4.Ice Wisp
+5.Forest Ratkin I
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:3
+B-Throné - HP:3617/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:801/801 Shields:1
+B-Ice Elemental - HP:2064/2160 Shields:4
+C-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+3.Ice Wisp
+4.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+4.Ice Wisp
+5.Forest Ratkin I
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Ice Wisp - HP:801/801 Shields:1
+2: Ice Elemental - HP:2064/2160 Shields:4
+3: Forest Ratkin I - HP:1348/1348 Shields:1
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Ice Elemental recibe 30 de daño de tipo Bow
+Ice Elemental recibe 30 de daño de tipo Bow
+Ice Elemental termina con HP:2004
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:2
+B-Throné - HP:3617/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:801/801 Shields:1
+B-Ice Elemental - HP:2004/2160 Shields:4
+C-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Ice Wisp
+3.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+4.Ice Wisp
+5.Forest Ratkin I
+----------------------------------------
+Ice Elemental usa Iceshot
+Throné se defiende
+Throné recibe 123 de daño elemental
+Throné termina con HP:3494
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:2
+B-Throné - HP:3494/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:801/801 Shields:1
+B-Ice Elemental - HP:2004/2160 Shields:4
+C-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Wisp
+2.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+4.Ice Wisp
+5.Forest Ratkin I
+----------------------------------------
+Ice Wisp usa Freeze
+Throné se defiende
+Throné recibe 80 de daño elemental
+Throné termina con HP:3414
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:2
+B-Throné - HP:3414/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:801/801 Shields:1
+B-Ice Elemental - HP:2004/2160 Shields:4
+C-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+4.Ice Wisp
+5.Forest Ratkin I
+----------------------------------------
+Forest Ratkin I usa Stab
+Throné se defiende
+Throné recibe 73 de daño físico
+Throné termina con HP:3341
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:2
+B-Throné - HP:3341/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Ice Wisp - HP:801/801 Shields:1
+B-Ice Elemental - HP:2004/2160 Shields:4
+C-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+4.Ice Wisp
+5.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+4.Ice Wisp
+5.Forest Ratkin I
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Ice Wisp - HP:801/801 Shields:1
+2: Ice Elemental - HP:2004/2160 Shields:4
+3: Forest Ratkin I - HP:1348/1348 Shields:1
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Throné no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Throné ataca
+Forest Ratkin I recibe 307 de daño de tipo Sword
+Forest Ratkin I recibe 307 de daño de tipo Sword
+Forest Ratkin I termina con HP:734
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:2
+B-Throné - HP:3341/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:801/801 Shields:1
+B-Ice Elemental - HP:2004/2160 Shields:4
+C-Forest Ratkin I - HP:734/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+3.Ice Wisp
+4.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+4.Ice Wisp
+5.Forest Ratkin I
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:2
+B-Throné - HP:3341/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:801/801 Shields:1
+B-Ice Elemental - HP:2004/2160 Shields:4
+C-Forest Ratkin I - HP:734/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Ice Wisp
+3.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Throné
+3.Ice Elemental
+4.Ice Wisp
+5.Forest Ratkin I
+----------------------------------------
+Ice Elemental usa Iceshot
+Throné recibe 247 de daño elemental
+Throné termina con HP:3094
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:2
+B-Throné - HP:3094/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:801/801 Shields:1
+B-Ice Elemental - HP:2004/2160 Shields:4
+C-Forest Ratkin I - HP:734/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Wisp
+2.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Throné
+3.Ice Elemental
+4.Ice Wisp
+5.Forest Ratkin I
+----------------------------------------
+Ice Wisp usa Freeze
+Throné recibe 160 de daño elemental
+Throné termina con HP:2934
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:2
+B-Throné - HP:2934/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:801/801 Shields:1
+B-Ice Elemental - HP:2004/2160 Shields:4
+C-Forest Ratkin I - HP:734/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Throné
+3.Ice Elemental
+4.Ice Wisp
+5.Forest Ratkin I
+----------------------------------------
+Forest Ratkin I usa Stab
+Throné recibe 147 de daño físico
+Throné termina con HP:2787
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:3
+B-Throné - HP:2787/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:801/801 Shields:1
+B-Ice Elemental - HP:2004/2160 Shields:4
+C-Forest Ratkin I - HP:734/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Throné
+3.Ice Elemental
+4.Ice Wisp
+5.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+4.Ice Wisp
+5.Forest Ratkin I
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:3
+B-Throné - HP:2787/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:801/801 Shields:1
+B-Ice Elemental - HP:2004/2160 Shields:4
+C-Forest Ratkin I - HP:734/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Ice Elemental
+3.Ice Wisp
+4.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Throné
+3.Ice Elemental
+4.Ice Wisp
+5.Forest Ratkin I
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:3
+B-Throné - HP:2787/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:801/801 Shields:1
+B-Ice Elemental - HP:2004/2160 Shields:4
+C-Forest Ratkin I - HP:734/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Ice Wisp
+3.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+4.Ice Wisp
+5.Forest Ratkin I
+----------------------------------------
+Ice Elemental usa Iceshot
+Throné se defiende
+Throné recibe 123 de daño elemental
+Throné termina con HP:2664
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:3
+B-Throné - HP:2664/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:801/801 Shields:1
+B-Ice Elemental - HP:2004/2160 Shields:4
+C-Forest Ratkin I - HP:734/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Wisp
+2.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+4.Ice Wisp
+5.Forest Ratkin I
+----------------------------------------
+Ice Wisp usa Freeze
+Throné se defiende
+Throné recibe 80 de daño elemental
+Throné termina con HP:2584
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:3
+B-Throné - HP:2584/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:801/801 Shields:1
+B-Ice Elemental - HP:2004/2160 Shields:4
+C-Forest Ratkin I - HP:734/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+4.Ice Wisp
+5.Forest Ratkin I
+----------------------------------------
+Forest Ratkin I usa Stab
+Throné se defiende
+Throné recibe 73 de daño físico
+Throné termina con HP:2511
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:4
+B-Throné - HP:2511/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Ice Wisp - HP:801/801 Shields:1
+B-Ice Elemental - HP:2004/2160 Shields:4
+C-Forest Ratkin I - HP:734/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+4.Ice Wisp
+5.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+4.Ice Wisp
+5.Forest Ratkin I
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Ice Wisp - HP:801/801 Shields:1
+2: Ice Elemental - HP:2004/2160 Shields:4
+3: Forest Ratkin I - HP:734/1348 Shields:1
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Throné ataca
+Ice Wisp recibe 215 de daño de tipo Dagger
+Ice Wisp recibe 215 de daño de tipo Dagger
+Ice Wisp termina con HP:371
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:4
+B-Throné - HP:2511/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:371/801 Shields:1
+B-Ice Elemental - HP:2004/2160 Shields:4
+C-Forest Ratkin I - HP:734/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+3.Ice Wisp
+4.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+4.Ice Wisp
+5.Forest Ratkin I
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:4
+B-Throné - HP:2511/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:371/801 Shields:1
+B-Ice Elemental - HP:2004/2160 Shields:4
+C-Forest Ratkin I - HP:734/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Ice Wisp
+3.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Throné
+3.Ice Elemental
+4.Ice Wisp
+5.Forest Ratkin I
+----------------------------------------
+Ice Elemental usa Iceshot
+Throné recibe 247 de daño elemental
+Throné termina con HP:2264
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:4
+B-Throné - HP:2264/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:371/801 Shields:1
+B-Ice Elemental - HP:2004/2160 Shields:4
+C-Forest Ratkin I - HP:734/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Wisp
+2.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Throné
+3.Ice Elemental
+4.Ice Wisp
+5.Forest Ratkin I
+----------------------------------------
+Ice Wisp usa Freeze
+Throné recibe 160 de daño elemental
+Throné termina con HP:2104
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:4
+B-Throné - HP:2104/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:371/801 Shields:1
+B-Ice Elemental - HP:2004/2160 Shields:4
+C-Forest Ratkin I - HP:734/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Throné
+3.Ice Elemental
+4.Ice Wisp
+5.Forest Ratkin I
+----------------------------------------
+Forest Ratkin I usa Stab
+Throné recibe 147 de daño físico
+Throné termina con HP:1957
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:5
+B-Throné - HP:1957/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:371/801 Shields:1
+B-Ice Elemental - HP:2004/2160 Shields:4
+C-Forest Ratkin I - HP:734/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Throné
+3.Ice Elemental
+4.Ice Wisp
+5.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+4.Ice Wisp
+5.Forest Ratkin I
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Ice Wisp - HP:371/801 Shields:1
+2: Ice Elemental - HP:2004/2160 Shields:4
+3: Forest Ratkin I - HP:734/1348 Shields:1
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa ataca
+Forest Ratkin I recibe 289 de daño de tipo Bow
+Forest Ratkin I recibe 289 de daño de tipo Bow
+Forest Ratkin I recibe 289 de daño de tipo Bow
+Forest Ratkin I recibe 289 de daño de tipo Bow
+Forest Ratkin I termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:2
+B-Throné - HP:1957/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:371/801 Shields:1
+B-Ice Elemental - HP:2004/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Ice Elemental
+3.Ice Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+4.Ice Wisp
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:2
+B-Throné - HP:1957/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:371/801 Shields:1
+B-Ice Elemental - HP:2004/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Ice Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+4.Ice Wisp
+----------------------------------------
+Ice Elemental usa Iceshot
+Throné se defiende
+Throné recibe 123 de daño elemental
+Throné termina con HP:1834
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:2
+B-Throné - HP:1834/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:371/801 Shields:1
+B-Ice Elemental - HP:2004/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+4.Ice Wisp
+----------------------------------------
+Ice Wisp usa Freeze
+Throné se defiende
+Throné recibe 80 de daño elemental
+Throné termina con HP:1754
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:2
+B-Throné - HP:1754/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Ice Wisp - HP:371/801 Shields:1
+B-Ice Elemental - HP:2004/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+4.Ice Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+4.Ice Wisp
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Ice Wisp - HP:371/801 Shields:1
+2: Ice Elemental - HP:2004/2160 Shields:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Throné no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Throné ataca
+Ice Wisp recibe 215 de daño de tipo Sword
+Ice Wisp recibe 215 de daño de tipo Sword
+Ice Wisp termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:2
+B-Throné - HP:1754/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:2004/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Ice Elemental - HP:2004/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Ice Elemental recibe 30 de daño de tipo Bow
+Ice Elemental recibe 30 de daño de tipo Bow
+Ice Elemental termina con HP:1944
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:1
+B-Throné - HP:1754/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:1944/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Throné recibe 247 de daño elemental
+Throné termina con HP:1507
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:1
+B-Throné - HP:1507/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:1944/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:1
+B-Throné - HP:1507/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:1944/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Ice Elemental - HP:1944/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Ice Elemental recibe 30 de daño de tipo Spear
+Ice Elemental recibe 30 de daño de tipo Spear
+Ice Elemental termina con HP:1884
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:0
+B-Throné - HP:1507/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:1884/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Throné se defiende
+Throné recibe 123 de daño elemental
+Throné termina con HP:1384
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:0
+B-Throné - HP:1384/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:1884/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Ice Elemental - HP:1884/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Throné ataca
+Ice Elemental recibe 48 de daño de tipo Dagger
+Ice Elemental recibe 48 de daño de tipo Dagger
+Ice Elemental recibe 48 de daño de tipo Dagger
+Ice Elemental termina con HP:1740
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:0
+B-Throné - HP:1384/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:1740/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Ice Elemental - HP:1740/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Ice Elemental recibe 30 de daño de tipo Bow
+Ice Elemental termina con HP:1710
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:0
+B-Throné - HP:1384/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:1710/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Throné recibe 247 de daño elemental
+Throné termina con HP:1137
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:1
+B-Throné - HP:1137/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:1710/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:1
+B-Throné - HP:1137/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:1710/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Ice Elemental - HP:1710/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Ice Elemental recibe 30 de daño de tipo Bow
+Ice Elemental recibe 30 de daño de tipo Bow
+Ice Elemental termina con HP:1650
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:0
+B-Throné - HP:1137/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:1650/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Throné se defiende
+Throné recibe 123 de daño elemental
+Throné termina con HP:1014
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:0
+B-Throné - HP:1014/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:1650/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Ice Elemental - HP:1650/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Throné no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Throné ataca
+Ice Elemental recibe 48 de daño de tipo Dagger
+Ice Elemental recibe 48 de daño de tipo Dagger
+Ice Elemental termina con HP:1554
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:0
+B-Throné - HP:1014/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:1554/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:0
+B-Throné - HP:1014/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:1554/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Throné
+3.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Throné recibe 247 de daño elemental
+Throné termina con HP:767
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:1
+B-Throné - HP:767/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:1554/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Throné
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Ice Elemental - HP:1554/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Ice Elemental recibe 30 de daño de tipo Bow
+Ice Elemental recibe 30 de daño de tipo Bow
+Ice Elemental termina con HP:1494
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:0
+B-Throné - HP:767/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:1494/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:0
+B-Throné - HP:767/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:1494/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Throné se defiende
+Throné recibe 123 de daño elemental
+Throné termina con HP:644
+----------------------------------------
+INICIA RONDA 14
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:0
+B-Throné - HP:644/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:1494/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Ice Elemental - HP:1494/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Throné no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Throné no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Throné no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Throné no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Throné no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Throné ataca
+Ice Elemental recibe 48 de daño de tipo Dagger
+Ice Elemental recibe 48 de daño de tipo Dagger
+Ice Elemental termina con HP:1398
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:0
+B-Throné - HP:644/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:1398/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Ice Elemental - HP:1398/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Ice Elemental recibe 30 de daño de tipo Spear
+Ice Elemental termina con HP:1368
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:0
+B-Throné - HP:644/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:1368/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Throné recibe 247 de daño elemental
+Throné termina con HP:397
+----------------------------------------
+INICIA RONDA 15
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:1
+B-Throné - HP:397/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:1368/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:1
+B-Throné - HP:397/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:1368/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Ice Elemental - HP:1368/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Ice Elemental recibe 30 de daño de tipo Bow
+Ice Elemental recibe 30 de daño de tipo Bow
+Ice Elemental termina con HP:1308
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:0
+B-Throné - HP:397/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:1308/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Throné se defiende
+Throné recibe 123 de daño elemental
+Throné termina con HP:274
+----------------------------------------
+INICIA RONDA 16
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:0
+B-Throné - HP:274/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:1308/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Ice Elemental - HP:1308/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Throné no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Throné no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Throné no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Throné ataca
+Ice Elemental recibe 48 de daño de tipo Sword
+Ice Elemental recibe 48 de daño de tipo Sword
+Ice Elemental termina con HP:1212
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:0
+B-Throné - HP:274/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:1212/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Ice Elemental - HP:1212/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Ice Elemental recibe 30 de daño de tipo Bow
+Ice Elemental termina con HP:1182
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:0
+B-Throné - HP:274/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:1182/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Throné recibe 247 de daño elemental
+Throné termina con HP:27
+----------------------------------------
+INICIA RONDA 17
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:1
+B-Throné - HP:27/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:1182/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:1
+B-Throné - HP:27/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:1182/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Ice Elemental - HP:1182/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Ice Elemental recibe 30 de daño de tipo Spear
+Ice Elemental recibe 30 de daño de tipo Spear
+Ice Elemental termina con HP:1122
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:0
+B-Throné - HP:27/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:1122/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Tressa
+3.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Throné se defiende
+Throné recibe 123 de daño elemental
+Throné termina con HP:0
+----------------------------------------
+INICIA RONDA 18
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:0
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:1122/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Ice Elemental - HP:1122/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Ice Elemental recibe 30 de daño de tipo Spear
+Ice Elemental termina con HP:1092
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:0
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:1092/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Tressa recibe 190 de daño elemental
+Tressa termina con HP:4701
+----------------------------------------
+INICIA RONDA 19
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4701/4891 SP:357/357 BP:1
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:1092/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4701/4891 SP:357/357 BP:1
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:1092/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Tressa se defiende
+Tressa recibe 95 de daño elemental
+Tressa termina con HP:4606
+----------------------------------------
+INICIA RONDA 20
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4606/4891 SP:357/357 BP:2
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:1092/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Ice Elemental - HP:1092/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Ice Elemental recibe 30 de daño de tipo Spear
+Ice Elemental recibe 30 de daño de tipo Spear
+Ice Elemental termina con HP:1032
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4606/4891 SP:357/357 BP:1
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:1032/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Tressa recibe 190 de daño elemental
+Tressa termina con HP:4416
+----------------------------------------
+INICIA RONDA 21
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4416/4891 SP:357/357 BP:1
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:1032/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Ice Elemental - HP:1032/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Ice Elemental recibe 30 de daño de tipo Bow
+Ice Elemental recibe 30 de daño de tipo Bow
+Ice Elemental termina con HP:972
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4416/4891 SP:357/357 BP:0
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:972/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Tressa recibe 190 de daño elemental
+Tressa termina con HP:4226
+----------------------------------------
+INICIA RONDA 22
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4226/4891 SP:357/357 BP:0
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:972/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4226/4891 SP:357/357 BP:0
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:972/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Tressa se defiende
+Tressa recibe 95 de daño elemental
+Tressa termina con HP:4131
+----------------------------------------
+INICIA RONDA 23
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4131/4891 SP:357/357 BP:1
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:972/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4131/4891 SP:357/357 BP:1
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:972/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Tressa se defiende
+Tressa recibe 95 de daño elemental
+Tressa termina con HP:4036
+----------------------------------------
+INICIA RONDA 24
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4036/4891 SP:357/357 BP:2
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:972/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4036/4891 SP:357/357 BP:2
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:972/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Tressa se defiende
+Tressa recibe 95 de daño elemental
+Tressa termina con HP:3941
+----------------------------------------
+INICIA RONDA 25
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3941/4891 SP:357/357 BP:3
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:972/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Ice Elemental - HP:972/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa ataca
+Ice Elemental recibe 30 de daño de tipo Bow
+Ice Elemental recibe 30 de daño de tipo Bow
+Ice Elemental recibe 30 de daño de tipo Bow
+Ice Elemental termina con HP:882
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3941/4891 SP:357/357 BP:1
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:882/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Tressa recibe 190 de daño elemental
+Tressa termina con HP:3751
+----------------------------------------
+INICIA RONDA 26
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3751/4891 SP:357/357 BP:1
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:882/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3751/4891 SP:357/357 BP:1
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:882/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Tressa se defiende
+Tressa recibe 95 de daño elemental
+Tressa termina con HP:3656
+----------------------------------------
+INICIA RONDA 27
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3656/4891 SP:357/357 BP:2
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:882/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3656/4891 SP:357/357 BP:2
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:882/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Tressa se defiende
+Tressa recibe 95 de daño elemental
+Tressa termina con HP:3561
+----------------------------------------
+INICIA RONDA 28
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3561/4891 SP:357/357 BP:3
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:882/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Ice Elemental - HP:882/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Ice Elemental recibe 30 de daño de tipo Bow
+Ice Elemental recibe 30 de daño de tipo Bow
+Ice Elemental termina con HP:822
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3561/4891 SP:357/357 BP:2
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:822/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Tressa recibe 190 de daño elemental
+Tressa termina con HP:3371
+----------------------------------------
+INICIA RONDA 29
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3371/4891 SP:357/357 BP:2
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:822/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3371/4891 SP:357/357 BP:2
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:822/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Tressa se defiende
+Tressa recibe 95 de daño elemental
+Tressa termina con HP:3276
+----------------------------------------
+INICIA RONDA 30
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3276/4891 SP:357/357 BP:3
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:822/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Ice Elemental - HP:822/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa ataca
+Ice Elemental recibe 30 de daño de tipo Spear
+Ice Elemental recibe 30 de daño de tipo Spear
+Ice Elemental recibe 30 de daño de tipo Spear
+Ice Elemental recibe 30 de daño de tipo Spear
+Ice Elemental termina con HP:702
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3276/4891 SP:357/357 BP:0
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:702/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Tressa recibe 190 de daño elemental
+Tressa termina con HP:3086
+----------------------------------------
+INICIA RONDA 31
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3086/4891 SP:357/357 BP:0
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:702/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Ice Elemental - HP:702/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Ice Elemental recibe 30 de daño de tipo Spear
+Ice Elemental termina con HP:672
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3086/4891 SP:357/357 BP:0
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:672/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Tressa recibe 190 de daño elemental
+Tressa termina con HP:2896
+----------------------------------------
+INICIA RONDA 32
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2896/4891 SP:357/357 BP:1
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:672/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2896/4891 SP:357/357 BP:1
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:672/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Tressa se defiende
+Tressa recibe 95 de daño elemental
+Tressa termina con HP:2801
+----------------------------------------
+INICIA RONDA 33
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2801/4891 SP:357/357 BP:2
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:672/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2801/4891 SP:357/357 BP:2
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:672/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Tressa se defiende
+Tressa recibe 95 de daño elemental
+Tressa termina con HP:2706
+----------------------------------------
+INICIA RONDA 34
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2706/4891 SP:357/357 BP:3
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:672/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Ice Elemental - HP:672/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Ice Elemental recibe 30 de daño de tipo Spear
+Ice Elemental recibe 30 de daño de tipo Spear
+Ice Elemental termina con HP:612
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2706/4891 SP:357/357 BP:2
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:612/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Tressa recibe 190 de daño elemental
+Tressa termina con HP:2516
+----------------------------------------
+INICIA RONDA 35
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2516/4891 SP:357/357 BP:2
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:612/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Ice Elemental - HP:612/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Ice Elemental recibe 30 de daño de tipo Bow
+Ice Elemental recibe 30 de daño de tipo Bow
+Ice Elemental termina con HP:552
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2516/4891 SP:357/357 BP:1
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:552/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Tressa recibe 190 de daño elemental
+Tressa termina con HP:2326
+----------------------------------------
+INICIA RONDA 36
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2326/4891 SP:357/357 BP:1
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:552/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Ice Elemental - HP:552/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Ice Elemental recibe 30 de daño de tipo Spear
+Ice Elemental recibe 30 de daño de tipo Spear
+Ice Elemental termina con HP:492
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2326/4891 SP:357/357 BP:0
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:492/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Tressa recibe 190 de daño elemental
+Tressa termina con HP:2136
+----------------------------------------
+INICIA RONDA 37
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2136/4891 SP:357/357 BP:0
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:492/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2136/4891 SP:357/357 BP:0
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:492/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Tressa se defiende
+Tressa recibe 95 de daño elemental
+Tressa termina con HP:2041
+----------------------------------------
+INICIA RONDA 38
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2041/4891 SP:357/357 BP:1
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:492/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Ice Elemental - HP:492/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Ice Elemental recibe 30 de daño de tipo Bow
+Ice Elemental recibe 30 de daño de tipo Bow
+Ice Elemental termina con HP:432
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2041/4891 SP:357/357 BP:0
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:432/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Tressa recibe 190 de daño elemental
+Tressa termina con HP:1851
+----------------------------------------
+INICIA RONDA 39
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:1851/4891 SP:357/357 BP:0
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:432/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:1851/4891 SP:357/357 BP:0
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:432/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Tressa se defiende
+Tressa recibe 95 de daño elemental
+Tressa termina con HP:1756
+----------------------------------------
+INICIA RONDA 40
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:1756/4891 SP:357/357 BP:1
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:432/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:1756/4891 SP:357/357 BP:1
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:432/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Tressa se defiende
+Tressa recibe 95 de daño elemental
+Tressa termina con HP:1661
+----------------------------------------
+INICIA RONDA 41
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:1661/4891 SP:357/357 BP:2
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:432/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:1661/4891 SP:357/357 BP:2
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:432/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Tressa se defiende
+Tressa recibe 95 de daño elemental
+Tressa termina con HP:1566
+----------------------------------------
+INICIA RONDA 42
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:1566/4891 SP:357/357 BP:3
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:432/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Ice Elemental - HP:432/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa ataca
+Ice Elemental recibe 30 de daño de tipo Spear
+Ice Elemental recibe 30 de daño de tipo Spear
+Ice Elemental recibe 30 de daño de tipo Spear
+Ice Elemental recibe 30 de daño de tipo Spear
+Ice Elemental termina con HP:312
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:1566/4891 SP:357/357 BP:0
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:312/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Tressa recibe 190 de daño elemental
+Tressa termina con HP:1376
+----------------------------------------
+INICIA RONDA 43
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:1376/4891 SP:357/357 BP:0
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:312/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Ice Elemental - HP:312/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Ice Elemental recibe 30 de daño de tipo Bow
+Ice Elemental termina con HP:282
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:1376/4891 SP:357/357 BP:0
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:282/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Tressa recibe 190 de daño elemental
+Tressa termina con HP:1186
+----------------------------------------
+INICIA RONDA 44
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:1186/4891 SP:357/357 BP:1
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:282/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:1186/4891 SP:357/357 BP:1
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:282/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Tressa se defiende
+Tressa recibe 95 de daño elemental
+Tressa termina con HP:1091
+----------------------------------------
+INICIA RONDA 45
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:1091/4891 SP:357/357 BP:2
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:282/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Ice Elemental - HP:282/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Ice Elemental recibe 30 de daño de tipo Spear
+Ice Elemental recibe 30 de daño de tipo Spear
+Ice Elemental termina con HP:222
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:1091/4891 SP:357/357 BP:1
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:222/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Tressa recibe 190 de daño elemental
+Tressa termina con HP:901
+----------------------------------------
+INICIA RONDA 46
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:901/4891 SP:357/357 BP:1
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:222/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Ice Elemental - HP:222/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Ice Elemental recibe 30 de daño de tipo Spear
+Ice Elemental recibe 30 de daño de tipo Spear
+Ice Elemental termina con HP:162
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:901/4891 SP:357/357 BP:0
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:162/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Tressa recibe 190 de daño elemental
+Tressa termina con HP:711
+----------------------------------------
+INICIA RONDA 47
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:711/4891 SP:357/357 BP:0
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:162/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:711/4891 SP:357/357 BP:0
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:162/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Tressa se defiende
+Tressa recibe 95 de daño elemental
+Tressa termina con HP:616
+----------------------------------------
+INICIA RONDA 48
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:616/4891 SP:357/357 BP:1
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:162/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:616/4891 SP:357/357 BP:1
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:162/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Tressa se defiende
+Tressa recibe 95 de daño elemental
+Tressa termina con HP:521
+----------------------------------------
+INICIA RONDA 49
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:521/4891 SP:357/357 BP:2
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:162/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Ice Elemental - HP:162/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Ice Elemental recibe 30 de daño de tipo Spear
+Ice Elemental recibe 30 de daño de tipo Spear
+Ice Elemental termina con HP:102
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:521/4891 SP:357/357 BP:1
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:102/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Tressa recibe 190 de daño elemental
+Tressa termina con HP:331
+----------------------------------------
+INICIA RONDA 50
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:331/4891 SP:357/357 BP:1
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:102/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:331/4891 SP:357/357 BP:1
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:102/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Tressa se defiende
+Tressa recibe 95 de daño elemental
+Tressa termina con HP:236
+----------------------------------------
+INICIA RONDA 51
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:236/4891 SP:357/357 BP:2
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:102/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:236/4891 SP:357/357 BP:2
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:102/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Tressa se defiende
+Tressa recibe 95 de daño elemental
+Tressa termina con HP:141
+----------------------------------------
+INICIA RONDA 52
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:141/4891 SP:357/357 BP:3
+B-Throné - HP:0/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Ice Elemental - HP:102/2160 Shields:4
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Ice Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Ice Elemental - HP:102/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa ataca
+Ice Elemental recibe 30 de daño de tipo Spear
+Ice Elemental recibe 30 de daño de tipo Spear
+Ice Elemental recibe 30 de daño de tipo Spear
+Ice Elemental recibe 30 de daño de tipo Spear
+Ice Elemental termina con HP:0
+----------------------------------------
+Gana equipo del jugador

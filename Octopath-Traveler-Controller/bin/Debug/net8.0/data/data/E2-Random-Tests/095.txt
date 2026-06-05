@@ -1,0 +1,3271 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 94
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5836/5836 SP:426/426 BP:1
+B-Therion - HP:4447/4447 SP:382/382 BP:1
+C-Alfyn - HP:5836/5836 SP:383/383 BP:1
+Equipo del enemigo
+A-War Wolf - HP:3548/3548 Shields:2
+B-Light Elemental - HP:1880/1880 Shields:4
+C-Monarch - HP:6740/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Fireball
+War Wolf recibe 263 de daño de tipo Fire
+Light Elemental recibe 369 de daño de tipo Fire
+Monarch recibe 125 de daño de tipo Fire
+War Wolf termina con HP:3285
+Light Elemental termina con HP:1511
+Monarch termina con HP:6615
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5836/5836 SP:426/426 BP:1
+B-Therion - HP:4447/4447 SP:374/382 BP:1
+C-Alfyn - HP:5836/5836 SP:383/383 BP:1
+Equipo del enemigo
+A-War Wolf - HP:3285/3548 Shields:2
+B-Light Elemental - HP:1511/1880 Shields:4
+C-Monarch - HP:6615/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Alfyn
+3.War Wolf
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: War Wolf - HP:3285/3548 Shields:2
+2: Light Elemental - HP:1511/1880 Shields:4
+3: Monarch - HP:6615/6740 Shields:8
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+War Wolf recibe 257 de daño de tipo Axe
+War Wolf termina con HP:3028
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5836/5836 SP:426/426 BP:1
+B-Therion - HP:4447/4447 SP:374/382 BP:1
+C-Alfyn - HP:5836/5836 SP:383/383 BP:1
+Equipo del enemigo
+A-War Wolf - HP:3028/3548 Shields:2
+B-Light Elemental - HP:1511/1880 Shields:4
+C-Monarch - HP:6615/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.War Wolf
+3.Monarch
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5836/5836 SP:426/426 BP:1
+B-Therion - HP:4447/4447 SP:374/382 BP:1
+C-Alfyn - HP:5836/5836 SP:383/383 BP:1
+Equipo del enemigo
+A-War Wolf - HP:3028/3548 Shields:2
+B-Light Elemental - HP:1511/1880 Shields:4
+C-Monarch - HP:6615/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+2.Monarch
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Therion
+3.Castti
+4.War Wolf
+5.Monarch
+6.Light Elemental
+----------------------------------------
+War Wolf usa Attack
+Castti recibe 0 de daño físico
+Castti termina con HP:5836
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5836/5836 SP:426/426 BP:1
+B-Therion - HP:4447/4447 SP:374/382 BP:1
+C-Alfyn - HP:5836/5836 SP:383/383 BP:1
+Equipo del enemigo
+A-War Wolf - HP:3028/3548 Shields:2
+B-Light Elemental - HP:1511/1880 Shields:4
+C-Monarch - HP:6615/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Therion
+3.Castti
+4.War Wolf
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Monarch usa Galestorm
+Castti recibe 318 de daño elemental
+Therion recibe 418 de daño elemental
+Alfyn se defiende
+Alfyn recibe 204 de daño elemental
+Castti termina con HP:5518
+Therion termina con HP:4029
+Alfyn termina con HP:5632
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5518/5836 SP:426/426 BP:1
+B-Therion - HP:4029/4447 SP:374/382 BP:1
+C-Alfyn - HP:5632/5836 SP:383/383 BP:1
+Equipo del enemigo
+A-War Wolf - HP:3028/3548 Shields:2
+B-Light Elemental - HP:1511/1880 Shields:4
+C-Monarch - HP:6615/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Therion
+3.Castti
+4.War Wolf
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Therion recibe 149 de daño elemental
+Therion termina con HP:3880
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5518/5836 SP:426/426 BP:2
+B-Therion - HP:3880/4447 SP:374/382 BP:2
+C-Alfyn - HP:5632/5836 SP:383/383 BP:2
+Equipo del enemigo
+A-War Wolf - HP:3028/3548 Shields:2
+B-Light Elemental - HP:1511/1880 Shields:4
+C-Monarch - HP:6615/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Therion
+3.Castti
+4.War Wolf
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Level Slash
+2: Luminescence
+3: Fireball
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Fireball
+War Wolf recibe 241 de daño de tipo Fire
+Light Elemental recibe 347 de daño de tipo Fire
+Monarch recibe 103 de daño de tipo Fire
+War Wolf termina con HP:2787
+Light Elemental termina con HP:1164
+Monarch termina con HP:6512
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5518/5836 SP:426/426 BP:2
+B-Therion - HP:3880/4447 SP:374/382 BP:2
+C-Alfyn - HP:5632/5836 SP:375/383 BP:2
+Equipo del enemigo
+A-War Wolf - HP:2787/3548 Shields:2
+B-Light Elemental - HP:1164/1880 Shields:4
+C-Monarch - HP:6512/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Castti
+3.War Wolf
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5518/5836 SP:426/426 BP:2
+B-Therion - HP:3880/4447 SP:374/382 BP:2
+C-Alfyn - HP:5632/5836 SP:375/383 BP:2
+Equipo del enemigo
+A-War Wolf - HP:2787/3548 Shields:2
+B-Light Elemental - HP:1164/1880 Shields:4
+C-Monarch - HP:6512/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.War Wolf
+3.Monarch
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: War Wolf - HP:2787/3548 Shields:2
+2: Light Elemental - HP:1164/1880 Shields:4
+3: Monarch - HP:6512/6740 Shields:8
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Light Elemental recibe 121 de daño de tipo Axe
+Light Elemental termina con HP:1043
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5518/5836 SP:426/426 BP:2
+B-Therion - HP:3880/4447 SP:374/382 BP:2
+C-Alfyn - HP:5632/5836 SP:375/383 BP:2
+Equipo del enemigo
+A-War Wolf - HP:2787/3548 Shields:2
+B-Light Elemental - HP:1043/1880 Shields:4
+C-Monarch - HP:6512/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+2.Monarch
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+6.Light Elemental
+----------------------------------------
+War Wolf usa Attack
+Alfyn recibe 60 de daño físico
+Alfyn termina con HP:5572
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5518/5836 SP:426/426 BP:2
+B-Therion - HP:3880/4447 SP:374/382 BP:2
+C-Alfyn - HP:5572/5836 SP:375/383 BP:2
+Equipo del enemigo
+A-War Wolf - HP:2787/3548 Shields:2
+B-Light Elemental - HP:1043/1880 Shields:4
+C-Monarch - HP:6512/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Monarch usa Galestorm
+Castti recibe 318 de daño elemental
+Therion se defiende
+Therion recibe 209 de daño elemental
+Alfyn recibe 408 de daño elemental
+Castti termina con HP:5200
+Therion termina con HP:3671
+Alfyn termina con HP:5164
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5200/5836 SP:426/426 BP:2
+B-Therion - HP:3671/4447 SP:374/382 BP:2
+C-Alfyn - HP:5164/5836 SP:375/383 BP:2
+Equipo del enemigo
+A-War Wolf - HP:2787/3548 Shields:2
+B-Light Elemental - HP:1043/1880 Shields:4
+C-Monarch - HP:6512/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Therion se defiende
+Therion recibe 74 de daño elemental
+Therion termina con HP:3597
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5200/5836 SP:426/426 BP:3
+B-Therion - HP:3597/4447 SP:374/382 BP:3
+C-Alfyn - HP:5164/5836 SP:375/383 BP:3
+Equipo del enemigo
+A-War Wolf - HP:2787/3548 Shields:2
+B-Light Elemental - HP:1043/1880 Shields:4
+C-Monarch - HP:6512/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Fireball
+War Wolf recibe 263 de daño de tipo Fire
+Light Elemental recibe 369 de daño de tipo Fire
+Monarch recibe 125 de daño de tipo Fire
+War Wolf termina con HP:2524
+Light Elemental termina con HP:674
+Monarch termina con HP:6387
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5200/5836 SP:426/426 BP:3
+B-Therion - HP:3597/4447 SP:366/382 BP:3
+C-Alfyn - HP:5164/5836 SP:375/383 BP:3
+Equipo del enemigo
+A-War Wolf - HP:2524/3548 Shields:2
+B-Light Elemental - HP:674/1880 Shields:4
+C-Monarch - HP:6387/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Alfyn
+3.War Wolf
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: War Wolf - HP:2524/3548 Shields:2
+2: Light Elemental - HP:674/1880 Shields:4
+3: Monarch - HP:6387/6740 Shields:8
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Light Elemental recibe 121 de daño de tipo Axe
+Light Elemental termina con HP:553
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5200/5836 SP:426/426 BP:3
+B-Therion - HP:3597/4447 SP:366/382 BP:3
+C-Alfyn - HP:5164/5836 SP:375/383 BP:3
+Equipo del enemigo
+A-War Wolf - HP:2524/3548 Shields:2
+B-Light Elemental - HP:553/1880 Shields:4
+C-Monarch - HP:6387/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.War Wolf
+3.Monarch
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5200/5836 SP:426/426 BP:3
+B-Therion - HP:3597/4447 SP:366/382 BP:3
+C-Alfyn - HP:5164/5836 SP:375/383 BP:3
+Equipo del enemigo
+A-War Wolf - HP:2524/3548 Shields:2
+B-Light Elemental - HP:553/1880 Shields:4
+C-Monarch - HP:6387/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+2.Monarch
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Therion
+3.Castti
+4.War Wolf
+5.Monarch
+6.Light Elemental
+----------------------------------------
+War Wolf usa Attack
+Castti recibe 0 de daño físico
+Castti termina con HP:5200
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5200/5836 SP:426/426 BP:3
+B-Therion - HP:3597/4447 SP:366/382 BP:3
+C-Alfyn - HP:5164/5836 SP:375/383 BP:3
+Equipo del enemigo
+A-War Wolf - HP:2524/3548 Shields:2
+B-Light Elemental - HP:553/1880 Shields:4
+C-Monarch - HP:6387/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Therion
+3.Castti
+4.War Wolf
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Monarch usa Galestorm
+Castti recibe 318 de daño elemental
+Therion recibe 418 de daño elemental
+Alfyn se defiende
+Alfyn recibe 204 de daño elemental
+Castti termina con HP:4882
+Therion termina con HP:3179
+Alfyn termina con HP:4960
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4882/5836 SP:426/426 BP:3
+B-Therion - HP:3179/4447 SP:366/382 BP:3
+C-Alfyn - HP:4960/5836 SP:375/383 BP:3
+Equipo del enemigo
+A-War Wolf - HP:2524/3548 Shields:2
+B-Light Elemental - HP:553/1880 Shields:4
+C-Monarch - HP:6387/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Therion
+3.Castti
+4.War Wolf
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Therion recibe 149 de daño elemental
+Therion termina con HP:3030
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4882/5836 SP:426/426 BP:4
+B-Therion - HP:3030/4447 SP:366/382 BP:4
+C-Alfyn - HP:4960/5836 SP:375/383 BP:4
+Equipo del enemigo
+A-War Wolf - HP:2524/3548 Shields:2
+B-Light Elemental - HP:553/1880 Shields:4
+C-Monarch - HP:6387/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Therion
+3.Castti
+4.War Wolf
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Level Slash
+2: Luminescence
+3: Fireball
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Level Slash
+War Wolf recibe 612 de daño de tipo Sword con debilidad
+Light Elemental recibe 272 de daño de tipo Sword
+Monarch recibe 303 de daño de tipo Sword
+War Wolf termina con HP:1912
+Light Elemental termina con HP:281
+Monarch termina con HP:6084
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4882/5836 SP:426/426 BP:4
+B-Therion - HP:3030/4447 SP:366/382 BP:4
+C-Alfyn - HP:4960/5836 SP:366/383 BP:4
+Equipo del enemigo
+A-War Wolf - HP:1912/3548 Shields:1
+B-Light Elemental - HP:281/1880 Shields:4
+C-Monarch - HP:6084/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Castti
+3.War Wolf
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Fireball
+War Wolf recibe 263 de daño de tipo Fire
+Light Elemental recibe 369 de daño de tipo Fire
+Monarch recibe 125 de daño de tipo Fire
+War Wolf termina con HP:1649
+Light Elemental termina con HP:0
+Monarch termina con HP:5959
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4882/5836 SP:426/426 BP:4
+B-Therion - HP:3030/4447 SP:358/382 BP:4
+C-Alfyn - HP:4960/5836 SP:366/383 BP:4
+Equipo del enemigo
+A-War Wolf - HP:1649/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:5959/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.War Wolf
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4882/5836 SP:426/426 BP:4
+B-Therion - HP:3030/4447 SP:358/382 BP:4
+C-Alfyn - HP:4960/5836 SP:366/383 BP:4
+Equipo del enemigo
+A-War Wolf - HP:1649/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:5959/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Therion
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+War Wolf usa Attack
+Alfyn recibe 60 de daño físico
+Alfyn termina con HP:4900
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4882/5836 SP:426/426 BP:4
+B-Therion - HP:3030/4447 SP:358/382 BP:4
+C-Alfyn - HP:4900/5836 SP:366/383 BP:4
+Equipo del enemigo
+A-War Wolf - HP:1649/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:5959/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Therion
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Castti se defiende
+Castti recibe 159 de daño elemental
+Therion recibe 418 de daño elemental
+Alfyn recibe 408 de daño elemental
+Castti termina con HP:4723
+Therion termina con HP:2612
+Alfyn termina con HP:4492
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4723/5836 SP:426/426 BP:5
+B-Therion - HP:2612/4447 SP:358/382 BP:5
+C-Alfyn - HP:4492/5836 SP:366/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:1649/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:5959/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Therion
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4723/5836 SP:426/426 BP:5
+B-Therion - HP:2612/4447 SP:358/382 BP:5
+C-Alfyn - HP:4492/5836 SP:366/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:1649/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:5959/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Alfyn
+3.War Wolf
+4.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Therion
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4723/5836 SP:426/426 BP:5
+B-Therion - HP:2612/4447 SP:358/382 BP:5
+C-Alfyn - HP:4492/5836 SP:366/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:1649/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:5959/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.War Wolf
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Level Slash
+2: Luminescence
+3: Fireball
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Fireball
+War Wolf recibe 241 de daño de tipo Fire
+Monarch recibe 103 de daño de tipo Fire
+War Wolf termina con HP:1408
+Monarch termina con HP:5856
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4723/5836 SP:426/426 BP:5
+B-Therion - HP:2612/4447 SP:358/382 BP:5
+C-Alfyn - HP:4492/5836 SP:358/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:1408/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:5856/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+War Wolf usa Attack
+Castti se defiende
+Castti recibe 0 de daño físico
+Castti termina con HP:4723
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4723/5836 SP:426/426 BP:5
+B-Therion - HP:2612/4447 SP:358/382 BP:5
+C-Alfyn - HP:4492/5836 SP:358/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:1408/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:5856/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Castti se defiende
+Castti recibe 159 de daño elemental
+Therion se defiende
+Therion recibe 209 de daño elemental
+Alfyn recibe 408 de daño elemental
+Castti termina con HP:4564
+Therion termina con HP:2403
+Alfyn termina con HP:4084
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4564/5836 SP:426/426 BP:5
+B-Therion - HP:2403/4447 SP:358/382 BP:5
+C-Alfyn - HP:4084/5836 SP:358/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:1408/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:5856/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4564/5836 SP:426/426 BP:5
+B-Therion - HP:2403/4447 SP:358/382 BP:5
+C-Alfyn - HP:4084/5836 SP:358/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:1408/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:5856/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Alfyn
+3.War Wolf
+4.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4564/5836 SP:426/426 BP:5
+B-Therion - HP:2403/4447 SP:358/382 BP:5
+C-Alfyn - HP:4084/5836 SP:358/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:1408/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:5856/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.War Wolf
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: War Wolf - HP:1408/3548 Shields:1
+2: Monarch - HP:5856/6740 Shields:8
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Monarch recibe 217 de daño de tipo Axe
+Monarch termina con HP:5639
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4564/5836 SP:426/426 BP:5
+B-Therion - HP:2403/4447 SP:358/382 BP:5
+C-Alfyn - HP:4084/5836 SP:358/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:1408/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:5639/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+War Wolf usa Attack
+Castti se defiende
+Castti recibe 0 de daño físico
+Castti termina con HP:4564
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4564/5836 SP:426/426 BP:5
+B-Therion - HP:2403/4447 SP:358/382 BP:5
+C-Alfyn - HP:4084/5836 SP:358/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:1408/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:5639/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Castti se defiende
+Castti recibe 159 de daño elemental
+Therion se defiende
+Therion recibe 209 de daño elemental
+Alfyn recibe 408 de daño elemental
+Castti termina con HP:4405
+Therion termina con HP:2194
+Alfyn termina con HP:3676
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4405/5836 SP:426/426 BP:5
+B-Therion - HP:2194/4447 SP:358/382 BP:5
+C-Alfyn - HP:3676/5836 SP:358/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:1408/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:5639/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4405/5836 SP:426/426 BP:5
+B-Therion - HP:2194/4447 SP:358/382 BP:5
+C-Alfyn - HP:3676/5836 SP:358/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:1408/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:5639/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Alfyn
+3.War Wolf
+4.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4405/5836 SP:426/426 BP:5
+B-Therion - HP:2194/4447 SP:358/382 BP:5
+C-Alfyn - HP:3676/5836 SP:358/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:1408/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:5639/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.War Wolf
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Level Slash
+2: Luminescence
+3: Fireball
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Luminescence
+War Wolf recibe 241 de daño de tipo Light
+Monarch recibe 103 de daño de tipo Light
+War Wolf termina con HP:1167
+Monarch termina con HP:5536
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4405/5836 SP:426/426 BP:5
+B-Therion - HP:2194/4447 SP:358/382 BP:5
+C-Alfyn - HP:3676/5836 SP:349/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:1167/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:5536/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+War Wolf usa Attack
+Castti se defiende
+Castti recibe 0 de daño físico
+Castti termina con HP:4405
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4405/5836 SP:426/426 BP:5
+B-Therion - HP:2194/4447 SP:358/382 BP:5
+C-Alfyn - HP:3676/5836 SP:349/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:1167/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:5536/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Castti se defiende
+Castti recibe 159 de daño elemental
+Therion se defiende
+Therion recibe 209 de daño elemental
+Alfyn recibe 408 de daño elemental
+Castti termina con HP:4246
+Therion termina con HP:1985
+Alfyn termina con HP:3268
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4246/5836 SP:426/426 BP:5
+B-Therion - HP:1985/4447 SP:358/382 BP:5
+C-Alfyn - HP:3268/5836 SP:349/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:1167/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:5536/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Fireball
+War Wolf recibe 263 de daño de tipo Fire
+Monarch recibe 125 de daño de tipo Fire
+War Wolf termina con HP:904
+Monarch termina con HP:5411
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4246/5836 SP:426/426 BP:5
+B-Therion - HP:1985/4447 SP:350/382 BP:5
+C-Alfyn - HP:3268/5836 SP:349/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:904/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:5411/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Alfyn
+3.War Wolf
+4.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: War Wolf - HP:904/3548 Shields:1
+2: Monarch - HP:5411/6740 Shields:8
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Monarch recibe 152 de daño de tipo Axe
+Monarch termina con HP:5259
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4246/5836 SP:426/426 BP:5
+B-Therion - HP:1985/4447 SP:350/382 BP:5
+C-Alfyn - HP:3268/5836 SP:349/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:904/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:5259/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.War Wolf
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4246/5836 SP:426/426 BP:5
+B-Therion - HP:1985/4447 SP:350/382 BP:5
+C-Alfyn - HP:3268/5836 SP:349/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:904/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:5259/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Therion
+3.Castti
+4.War Wolf
+5.Monarch
+----------------------------------------
+War Wolf usa Attack
+Castti recibe 0 de daño físico
+Castti termina con HP:4246
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4246/5836 SP:426/426 BP:5
+B-Therion - HP:1985/4447 SP:350/382 BP:5
+C-Alfyn - HP:3268/5836 SP:349/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:904/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:5259/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Therion
+3.Castti
+4.War Wolf
+5.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Castti recibe 318 de daño elemental
+Therion recibe 418 de daño elemental
+Alfyn se defiende
+Alfyn recibe 204 de daño elemental
+Castti termina con HP:3928
+Therion termina con HP:1567
+Alfyn termina con HP:3064
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3928/5836 SP:426/426 BP:5
+B-Therion - HP:1567/4447 SP:350/382 BP:5
+C-Alfyn - HP:3064/5836 SP:349/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:904/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:5259/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Therion
+3.Castti
+4.War Wolf
+5.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Level Slash
+2: Luminescence
+3: Fireball
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Luminescence
+War Wolf recibe 241 de daño de tipo Light
+Monarch recibe 103 de daño de tipo Light
+War Wolf termina con HP:663
+Monarch termina con HP:5156
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3928/5836 SP:426/426 BP:5
+B-Therion - HP:1567/4447 SP:350/382 BP:5
+C-Alfyn - HP:3064/5836 SP:340/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:663/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:5156/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Castti
+3.War Wolf
+4.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3928/5836 SP:426/426 BP:5
+B-Therion - HP:1567/4447 SP:350/382 BP:5
+C-Alfyn - HP:3064/5836 SP:340/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:663/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:5156/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.War Wolf
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: War Wolf - HP:663/3548 Shields:1
+2: Monarch - HP:5156/6740 Shields:8
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Monarch recibe 152 de daño de tipo Axe
+Monarch termina con HP:5004
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3928/5836 SP:426/426 BP:5
+B-Therion - HP:1567/4447 SP:350/382 BP:5
+C-Alfyn - HP:3064/5836 SP:340/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:663/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:5004/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+War Wolf usa Attack
+Castti recibe 0 de daño físico
+Castti termina con HP:3928
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3928/5836 SP:426/426 BP:5
+B-Therion - HP:1567/4447 SP:350/382 BP:5
+C-Alfyn - HP:3064/5836 SP:340/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:663/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:5004/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Castti recibe 318 de daño elemental
+Therion se defiende
+Therion recibe 209 de daño elemental
+Alfyn recibe 408 de daño elemental
+Castti termina con HP:3610
+Therion termina con HP:1358
+Alfyn termina con HP:2656
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3610/5836 SP:426/426 BP:5
+B-Therion - HP:1358/4447 SP:350/382 BP:5
+C-Alfyn - HP:2656/5836 SP:340/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:663/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:5004/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Therion
+1: War Wolf - HP:663/3548 Shields:1
+2: Monarch - HP:5004/6740 Shields:8
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Monarch recibe 214 de daño de tipo Sword
+Monarch termina con HP:4790
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3610/5836 SP:426/426 BP:5
+B-Therion - HP:1358/4447 SP:350/382 BP:5
+C-Alfyn - HP:2656/5836 SP:340/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:663/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:4790/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Alfyn
+3.War Wolf
+4.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Amputation
+2: Wildfire
+3: Tiger Rage
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Castti
+1: War Wolf - HP:663/3548 Shields:1
+2: Monarch - HP:4790/6740 Shields:8
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Wildfire
+Monarch recibe 51 de daño de tipo Fire
+Monarch termina con HP:4739
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3610/5836 SP:419/426 BP:5
+B-Therion - HP:1358/4447 SP:350/382 BP:5
+C-Alfyn - HP:2656/5836 SP:340/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:663/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:4739/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.War Wolf
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: War Wolf - HP:663/3548 Shields:1
+2: Monarch - HP:4739/6740 Shields:8
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Monarch recibe 217 de daño de tipo Axe
+Monarch termina con HP:4522
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3610/5836 SP:419/426 BP:5
+B-Therion - HP:1358/4447 SP:350/382 BP:5
+C-Alfyn - HP:2656/5836 SP:340/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:663/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:4522/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+War Wolf usa Attack
+Castti recibe 0 de daño físico
+Castti termina con HP:3610
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3610/5836 SP:419/426 BP:5
+B-Therion - HP:1358/4447 SP:350/382 BP:5
+C-Alfyn - HP:2656/5836 SP:340/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:663/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:4522/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Castti recibe 318 de daño elemental
+Therion recibe 418 de daño elemental
+Alfyn recibe 408 de daño elemental
+Castti termina con HP:3292
+Therion termina con HP:940
+Alfyn termina con HP:2248
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3292/5836 SP:419/426 BP:5
+B-Therion - HP:940/4447 SP:350/382 BP:5
+C-Alfyn - HP:2248/5836 SP:340/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:663/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:4522/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Fireball
+War Wolf recibe 263 de daño de tipo Fire
+Monarch recibe 125 de daño de tipo Fire
+War Wolf termina con HP:400
+Monarch termina con HP:4397
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3292/5836 SP:419/426 BP:5
+B-Therion - HP:940/4447 SP:342/382 BP:5
+C-Alfyn - HP:2248/5836 SP:340/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:400/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:4397/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Alfyn
+3.War Wolf
+4.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Amputation
+2: Wildfire
+3: Tiger Rage
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: War Wolf - HP:400/3548 Shields:1
+2: Monarch - HP:4397/6740 Shields:8
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Amputation
+Monarch recibe 304 de daño de tipo Axe
+Monarch termina con HP:4093
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3292/5836 SP:411/426 BP:5
+B-Therion - HP:940/4447 SP:342/382 BP:5
+C-Alfyn - HP:2248/5836 SP:340/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:400/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:4093/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.War Wolf
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3292/5836 SP:411/426 BP:5
+B-Therion - HP:940/4447 SP:342/382 BP:5
+C-Alfyn - HP:2248/5836 SP:340/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:400/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:4093/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Therion
+3.Castti
+4.War Wolf
+5.Monarch
+----------------------------------------
+War Wolf usa Attack
+Castti recibe 0 de daño físico
+Castti termina con HP:3292
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3292/5836 SP:411/426 BP:5
+B-Therion - HP:940/4447 SP:342/382 BP:5
+C-Alfyn - HP:2248/5836 SP:340/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:400/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:4093/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Therion
+3.Castti
+4.War Wolf
+5.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Castti recibe 318 de daño elemental
+Therion recibe 418 de daño elemental
+Alfyn se defiende
+Alfyn recibe 204 de daño elemental
+Castti termina con HP:2974
+Therion termina con HP:522
+Alfyn termina con HP:2044
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2974/5836 SP:411/426 BP:5
+B-Therion - HP:522/4447 SP:342/382 BP:5
+C-Alfyn - HP:2044/5836 SP:340/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:400/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:4093/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Therion
+3.Castti
+4.War Wolf
+5.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2974/5836 SP:411/426 BP:5
+B-Therion - HP:522/4447 SP:342/382 BP:5
+C-Alfyn - HP:2044/5836 SP:340/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:400/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:4093/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Castti
+3.War Wolf
+4.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Therion
+3.Castti
+4.War Wolf
+5.Monarch
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Fireball
+War Wolf recibe 263 de daño de tipo Fire
+Monarch recibe 125 de daño de tipo Fire
+War Wolf termina con HP:137
+Monarch termina con HP:3968
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2974/5836 SP:411/426 BP:5
+B-Therion - HP:522/4447 SP:334/382 BP:5
+C-Alfyn - HP:2044/5836 SP:340/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:137/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:3968/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.War Wolf
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Therion
+3.Castti
+4.War Wolf
+5.Monarch
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2974/5836 SP:411/426 BP:5
+B-Therion - HP:522/4447 SP:334/382 BP:5
+C-Alfyn - HP:2044/5836 SP:340/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:137/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:3968/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Therion
+4.War Wolf
+5.Monarch
+----------------------------------------
+War Wolf usa Attack
+Castti se defiende
+Castti recibe 0 de daño físico
+Castti termina con HP:2974
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2974/5836 SP:411/426 BP:5
+B-Therion - HP:522/4447 SP:334/382 BP:5
+C-Alfyn - HP:2044/5836 SP:340/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:137/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:3968/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Therion
+4.War Wolf
+5.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Castti se defiende
+Castti recibe 159 de daño elemental
+Therion recibe 418 de daño elemental
+Alfyn se defiende
+Alfyn recibe 204 de daño elemental
+Castti termina con HP:2815
+Therion termina con HP:104
+Alfyn termina con HP:1840
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2815/5836 SP:411/426 BP:5
+B-Therion - HP:104/4447 SP:334/382 BP:5
+C-Alfyn - HP:1840/5836 SP:340/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:137/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:3968/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Alfyn
+3.Therion
+4.War Wolf
+5.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.War Wolf
+5.Monarch
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: War Wolf - HP:137/3548 Shields:1
+2: Monarch - HP:3968/6740 Shields:8
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+War Wolf recibe 257 de daño de tipo Axe
+War Wolf termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2815/5836 SP:411/426 BP:5
+B-Therion - HP:104/4447 SP:334/382 BP:5
+C-Alfyn - HP:1840/5836 SP:340/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:0/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:3968/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Therion
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.Monarch
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Level Slash
+2: Luminescence
+3: Fireball
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Luminescence
+Monarch recibe 103 de daño de tipo Light
+Monarch termina con HP:3865
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2815/5836 SP:411/426 BP:5
+B-Therion - HP:104/4447 SP:334/382 BP:5
+C-Alfyn - HP:1840/5836 SP:331/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:0/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:3865/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.Monarch
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Monarch - HP:3865/6740 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Monarch recibe 214 de daño de tipo Sword
+Monarch termina con HP:3651
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2815/5836 SP:411/426 BP:5
+B-Therion - HP:104/4447 SP:334/382 BP:5
+C-Alfyn - HP:1840/5836 SP:331/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:0/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:3651/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Alfyn
+4.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Castti recibe 318 de daño elemental
+Therion recibe 418 de daño elemental
+Alfyn recibe 408 de daño elemental
+Castti termina con HP:2497
+Therion termina con HP:0
+Alfyn termina con HP:1432
+----------------------------------------
+INICIA RONDA 14
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2497/5836 SP:411/426 BP:5
+B-Therion - HP:0/4447 SP:334/382 BP:5
+C-Alfyn - HP:1432/5836 SP:331/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:0/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:3651/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Alfyn
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Monarch
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2497/5836 SP:411/426 BP:5
+B-Therion - HP:0/4447 SP:334/382 BP:5
+C-Alfyn - HP:1432/5836 SP:331/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:0/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:3651/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Monarch
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2497/5836 SP:411/426 BP:5
+B-Therion - HP:0/4447 SP:334/382 BP:5
+C-Alfyn - HP:1432/5836 SP:331/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:0/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:3651/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Castti se defiende
+Castti recibe 159 de daño elemental
+Alfyn se defiende
+Alfyn recibe 204 de daño elemental
+Castti termina con HP:2338
+Alfyn termina con HP:1228
+----------------------------------------
+INICIA RONDA 15
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2338/5836 SP:411/426 BP:5
+B-Therion - HP:0/4447 SP:334/382 BP:5
+C-Alfyn - HP:1228/5836 SP:331/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:0/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:3651/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Alfyn
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Monarch
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Amputation
+2: Wildfire
+3: Tiger Rage
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Monarch - HP:3651/6740 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Wildfire
+Monarch recibe 51 de daño de tipo Fire
+Monarch termina con HP:3600
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2338/5836 SP:404/426 BP:5
+B-Therion - HP:0/4447 SP:334/382 BP:5
+C-Alfyn - HP:1228/5836 SP:331/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:0/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:3600/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Monarch
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2338/5836 SP:404/426 BP:5
+B-Therion - HP:0/4447 SP:334/382 BP:5
+C-Alfyn - HP:1228/5836 SP:331/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:0/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:3600/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Castti
+3.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Castti recibe 318 de daño elemental
+Alfyn se defiende
+Alfyn recibe 204 de daño elemental
+Castti termina con HP:2020
+Alfyn termina con HP:1024
+----------------------------------------
+INICIA RONDA 16
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2020/5836 SP:404/426 BP:5
+B-Therion - HP:0/4447 SP:334/382 BP:5
+C-Alfyn - HP:1024/5836 SP:331/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:0/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:3600/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Castti
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Monarch
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Level Slash
+2: Luminescence
+3: Fireball
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Fireball
+Monarch recibe 103 de daño de tipo Fire
+Monarch termina con HP:3497
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2020/5836 SP:404/426 BP:5
+B-Therion - HP:0/4447 SP:334/382 BP:5
+C-Alfyn - HP:1024/5836 SP:323/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:0/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:3497/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Monarch
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2020/5836 SP:404/426 BP:5
+B-Therion - HP:0/4447 SP:334/382 BP:5
+C-Alfyn - HP:1024/5836 SP:323/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:0/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:3497/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Castti se defiende
+Castti recibe 159 de daño elemental
+Alfyn recibe 408 de daño elemental
+Castti termina con HP:1861
+Alfyn termina con HP:616
+----------------------------------------
+INICIA RONDA 17
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1861/5836 SP:404/426 BP:5
+B-Therion - HP:0/4447 SP:334/382 BP:5
+C-Alfyn - HP:616/5836 SP:323/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:0/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:3497/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Alfyn
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Monarch
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Amputation
+2: Wildfire
+3: Tiger Rage
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Tiger Rage
+Monarch recibe 380 de daño de tipo Axe
+Monarch termina con HP:3117
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1861/5836 SP:369/426 BP:5
+B-Therion - HP:0/4447 SP:334/382 BP:5
+C-Alfyn - HP:616/5836 SP:323/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:0/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:3117/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Monarch
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1861/5836 SP:369/426 BP:5
+B-Therion - HP:0/4447 SP:334/382 BP:5
+C-Alfyn - HP:616/5836 SP:323/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:0/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:3117/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Castti
+3.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Castti recibe 318 de daño elemental
+Alfyn se defiende
+Alfyn recibe 204 de daño elemental
+Castti termina con HP:1543
+Alfyn termina con HP:412
+----------------------------------------
+INICIA RONDA 18
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1543/5836 SP:369/426 BP:5
+B-Therion - HP:0/4447 SP:334/382 BP:5
+C-Alfyn - HP:412/5836 SP:323/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:0/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:3117/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Castti
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Monarch
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Monarch - HP:3117/6740 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Monarch recibe 217 de daño de tipo Axe
+Monarch termina con HP:2900
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1543/5836 SP:369/426 BP:5
+B-Therion - HP:0/4447 SP:334/382 BP:5
+C-Alfyn - HP:412/5836 SP:323/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:0/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:2900/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Monarch
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Amputation
+2: Wildfire
+3: Tiger Rage
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Tiger Rage
+Monarch recibe 380 de daño de tipo Axe
+Monarch termina con HP:2520
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1543/5836 SP:334/426 BP:5
+B-Therion - HP:0/4447 SP:334/382 BP:5
+C-Alfyn - HP:412/5836 SP:323/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:0/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:2520/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Castti recibe 318 de daño elemental
+Alfyn recibe 408 de daño elemental
+Castti termina con HP:1225
+Alfyn termina con HP:4
+----------------------------------------
+INICIA RONDA 19
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1225/5836 SP:334/426 BP:5
+B-Therion - HP:0/4447 SP:334/382 BP:5
+C-Alfyn - HP:4/5836 SP:323/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:0/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:2520/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Alfyn
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Monarch
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1225/5836 SP:334/426 BP:5
+B-Therion - HP:0/4447 SP:334/382 BP:5
+C-Alfyn - HP:4/5836 SP:323/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:0/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:2520/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Monarch
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Level Slash
+2: Luminescence
+3: Fireball
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Luminescence
+Monarch recibe 103 de daño de tipo Light
+Monarch termina con HP:2417
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1225/5836 SP:334/426 BP:5
+B-Therion - HP:0/4447 SP:334/382 BP:5
+C-Alfyn - HP:4/5836 SP:314/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:0/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:2417/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Castti se defiende
+Castti recibe 159 de daño elemental
+Alfyn recibe 408 de daño elemental
+Castti termina con HP:1066
+Alfyn termina con HP:0
+----------------------------------------
+INICIA RONDA 20
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1066/5836 SP:334/426 BP:5
+B-Therion - HP:0/4447 SP:334/382 BP:5
+C-Alfyn - HP:0/5836 SP:314/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:0/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:2417/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Monarch
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Amputation
+2: Wildfire
+3: Tiger Rage
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Monarch - HP:2417/6740 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Wildfire
+Monarch recibe 51 de daño de tipo Fire
+Monarch termina con HP:2366
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1066/5836 SP:327/426 BP:5
+B-Therion - HP:0/4447 SP:334/382 BP:5
+C-Alfyn - HP:0/5836 SP:314/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:0/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:2366/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Castti recibe 318 de daño elemental
+Castti termina con HP:748
+----------------------------------------
+INICIA RONDA 21
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:748/5836 SP:327/426 BP:5
+B-Therion - HP:0/4447 SP:334/382 BP:5
+C-Alfyn - HP:0/5836 SP:314/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:0/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:2366/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Monarch
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:748/5836 SP:327/426 BP:5
+B-Therion - HP:0/4447 SP:334/382 BP:5
+C-Alfyn - HP:0/5836 SP:314/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:0/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:2366/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Castti se defiende
+Castti recibe 159 de daño elemental
+Castti termina con HP:589
+----------------------------------------
+INICIA RONDA 22
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:589/5836 SP:327/426 BP:5
+B-Therion - HP:0/4447 SP:334/382 BP:5
+C-Alfyn - HP:0/5836 SP:314/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:0/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:2366/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Monarch
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Amputation
+2: Wildfire
+3: Tiger Rage
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Tiger Rage
+Monarch recibe 380 de daño de tipo Axe
+Monarch termina con HP:1986
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:589/5836 SP:292/426 BP:5
+B-Therion - HP:0/4447 SP:334/382 BP:5
+C-Alfyn - HP:0/5836 SP:314/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:0/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:1986/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Castti recibe 318 de daño elemental
+Castti termina con HP:271
+----------------------------------------
+INICIA RONDA 23
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:271/5836 SP:292/426 BP:5
+B-Therion - HP:0/4447 SP:334/382 BP:5
+C-Alfyn - HP:0/5836 SP:314/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:0/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:1986/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Monarch
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:271/5836 SP:292/426 BP:5
+B-Therion - HP:0/4447 SP:334/382 BP:5
+C-Alfyn - HP:0/5836 SP:314/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:0/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:1986/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Castti se defiende
+Castti recibe 159 de daño elemental
+Castti termina con HP:112
+----------------------------------------
+INICIA RONDA 24
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:112/5836 SP:292/426 BP:5
+B-Therion - HP:0/4447 SP:334/382 BP:5
+C-Alfyn - HP:0/5836 SP:314/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:0/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:1986/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Monarch
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Amputation
+2: Wildfire
+3: Tiger Rage
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Monarch - HP:1986/6740 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Wildfire
+Monarch recibe 51 de daño de tipo Fire
+Monarch termina con HP:1935
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:112/5836 SP:285/426 BP:5
+B-Therion - HP:0/4447 SP:334/382 BP:5
+C-Alfyn - HP:0/5836 SP:314/383 BP:5
+Equipo del enemigo
+A-War Wolf - HP:0/3548 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Monarch - HP:1935/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Castti recibe 318 de daño elemental
+Castti termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

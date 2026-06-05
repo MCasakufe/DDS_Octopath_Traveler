@@ -1,14 +1,5 @@
 namespace Octopath_Traveler_Models.Battle;
 
-internal sealed record BeastAttackHitExecutionRequest(
-    BeastCombatUnit Attacker,
-    TravelerCombatUnit Target,
-    BeastAttackDamageKind DamageKind);
-
-internal sealed record BeastAttackHitResult(
-    int Damage,
-    bool WasDefended);
-
 internal sealed class BeastAttackHitExecutor
 {
     private readonly BeastAttackDamageCalculator _damageCalculator;

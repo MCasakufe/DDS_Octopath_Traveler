@@ -1,0 +1,1014 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+INPUT: 0
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4447/4447 SP:369/369 BP:1
+B-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Z'aanta
+3.Meep
+4.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Meep
+4.Shaggy Meep
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Leghold Trap
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Meep - HP:1016/1016 Shields:2
+2: Shaggy Meep - HP:1036/1036 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit usa Leghold Trap
+Meep tendrá menor prioridad de turno durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4447/4447 SP:363/369 BP:1
+B-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Shaggy Meep
+3.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Shaggy Meep
+4.Meep
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Leghold Trap
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Meep - HP:1016/1016 Shields:2
+2: Shaggy Meep - HP:1036/1036 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta usa Leghold Trap
+Meep tendrá menor prioridad de turno durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4447/4447 SP:363/369 BP:1
+B-Z'aanta - HP:3222/3222 SP:365/371 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Shaggy Meep
+2.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Shaggy Meep
+4.Meep
+----------------------------------------
+Shaggy Meep usa Attack
+H'aanit recibe 208 de daño físico
+H'aanit termina con HP:4239
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4239/4447 SP:363/369 BP:1
+B-Z'aanta - HP:3222/3222 SP:365/371 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Shaggy Meep
+4.Meep
+----------------------------------------
+Meep usa Attack
+H'aanit recibe 287 de daño físico
+H'aanit termina con HP:3952
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3952/4447 SP:363/369 BP:2
+B-Z'aanta - HP:3222/3222 SP:365/371 BP:2
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Z'aanta
+3.Shaggy Meep
+4.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Shaggy Meep
+4.Meep
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Meep - HP:1016/1016 Shields:2
+2: Shaggy Meep - HP:1036/1036 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Meep recibe 108 de daño de tipo Bow con debilidad
+Meep termina con HP:908
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3952/4447 SP:363/369 BP:2
+B-Z'aanta - HP:3222/3222 SP:365/371 BP:2
+Equipo del enemigo
+A-Meep - HP:908/1016 Shields:1
+B-Shaggy Meep - HP:1036/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Shaggy Meep
+3.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Shaggy Meep
+4.Meep
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Meep - HP:908/1016 Shields:1
+2: Shaggy Meep - HP:1036/1036 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Meep recibe 126 de daño de tipo Bow con debilidad
+Meep entra en Breaking Point
+Meep termina con HP:782
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3952/4447 SP:363/369 BP:2
+B-Z'aanta - HP:3222/3222 SP:365/371 BP:2
+Equipo del enemigo
+A-Meep - HP:782/1016 Shields:0
+B-Shaggy Meep - HP:1036/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Shaggy Meep
+----------------------------------------
+Shaggy Meep usa Attack
+H'aanit recibe 208 de daño físico
+H'aanit termina con HP:3744
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3744/4447 SP:363/369 BP:3
+B-Z'aanta - HP:3222/3222 SP:365/371 BP:3
+Equipo del enemigo
+A-Meep - HP:782/1016 Shields:0
+B-Shaggy Meep - HP:1036/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Z'aanta
+3.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Meep
+2.H'aanit
+3.Z'aanta
+4.Shaggy Meep
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Leghold Trap
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Meep - HP:782/1016 Shields:0
+2: Shaggy Meep - HP:1036/1036 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit usa Leghold Trap
+Meep tendrá menor prioridad de turno durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3744/4447 SP:357/369 BP:3
+B-Z'aanta - HP:3222/3222 SP:365/371 BP:3
+Equipo del enemigo
+A-Meep - HP:782/1016 Shields:0
+B-Shaggy Meep - HP:1036/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Meep
+2.H'aanit
+3.Z'aanta
+4.Shaggy Meep
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Meep - HP:782/1016 Shields:0
+2: Shaggy Meep - HP:1036/1036 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Meep recibe 168 de daño de tipo Bow con debilidad
+Meep termina con HP:614
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3744/4447 SP:357/369 BP:3
+B-Z'aanta - HP:3222/3222 SP:365/371 BP:3
+Equipo del enemigo
+A-Meep - HP:614/1016 Shields:0
+B-Shaggy Meep - HP:1036/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Meep
+2.H'aanit
+3.Z'aanta
+4.Shaggy Meep
+----------------------------------------
+Shaggy Meep usa Attack
+H'aanit recibe 208 de daño físico
+H'aanit termina con HP:3536
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3536/4447 SP:357/369 BP:4
+B-Z'aanta - HP:3222/3222 SP:365/371 BP:4
+Equipo del enemigo
+A-Meep - HP:614/1016 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.H'aanit
+3.Z'aanta
+4.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Shaggy Meep
+4.Meep
+----------------------------------------
+Meep usa Attack
+H'aanit recibe 287 de daño físico
+H'aanit termina con HP:3249
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3249/4447 SP:357/369 BP:4
+B-Z'aanta - HP:3222/3222 SP:365/371 BP:4
+Equipo del enemigo
+A-Meep - HP:614/1016 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Z'aanta
+3.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Shaggy Meep
+4.Meep
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Meep - HP:614/1016 Shields:2
+2: Shaggy Meep - HP:1036/1036 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Shaggy Meep recibe 274 de daño de tipo Axe
+Shaggy Meep termina con HP:762
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3249/4447 SP:357/369 BP:4
+B-Z'aanta - HP:3222/3222 SP:365/371 BP:4
+Equipo del enemigo
+A-Meep - HP:614/1016 Shields:2
+B-Shaggy Meep - HP:762/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Shaggy Meep
+4.Meep
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Meep - HP:614/1016 Shields:2
+2: Shaggy Meep - HP:762/1036 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Shaggy Meep recibe 286 de daño de tipo Axe
+Shaggy Meep termina con HP:476
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3249/4447 SP:357/369 BP:4
+B-Z'aanta - HP:3222/3222 SP:365/371 BP:4
+Equipo del enemigo
+A-Meep - HP:614/1016 Shields:2
+B-Shaggy Meep - HP:476/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Shaggy Meep
+4.Meep
+----------------------------------------
+Shaggy Meep usa Attack
+H'aanit recibe 208 de daño físico
+H'aanit termina con HP:3041
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3041/4447 SP:357/369 BP:5
+B-Z'aanta - HP:3222/3222 SP:365/371 BP:5
+Equipo del enemigo
+A-Meep - HP:614/1016 Shields:2
+B-Shaggy Meep - HP:476/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Z'aanta
+3.Shaggy Meep
+4.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Shaggy Meep
+4.Meep
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Meep - HP:614/1016 Shields:2
+2: Shaggy Meep - HP:476/1036 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Shaggy Meep recibe 274 de daño de tipo Axe
+Shaggy Meep termina con HP:202
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3041/4447 SP:357/369 BP:5
+B-Z'aanta - HP:3222/3222 SP:365/371 BP:5
+Equipo del enemigo
+A-Meep - HP:614/1016 Shields:2
+B-Shaggy Meep - HP:202/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Shaggy Meep
+3.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Shaggy Meep
+4.Meep
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Meep - HP:614/1016 Shields:2
+2: Shaggy Meep - HP:202/1036 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Shaggy Meep recibe 286 de daño de tipo Axe
+Shaggy Meep termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3041/4447 SP:357/369 BP:5
+B-Z'aanta - HP:3222/3222 SP:365/371 BP:5
+Equipo del enemigo
+A-Meep - HP:614/1016 Shields:2
+B-Shaggy Meep - HP:0/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Meep
+----------------------------------------
+Meep usa Attack
+Z'aanta recibe 280 de daño físico
+Z'aanta termina con HP:2942
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3041/4447 SP:357/369 BP:5
+B-Z'aanta - HP:2942/3222 SP:365/371 BP:5
+Equipo del enemigo
+A-Meep - HP:614/1016 Shields:2
+B-Shaggy Meep - HP:0/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Z'aanta
+3.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Meep
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Meep - HP:614/1016 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Meep recibe 72 de daño de tipo Axe
+Meep termina con HP:542
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3041/4447 SP:357/369 BP:5
+B-Z'aanta - HP:2942/3222 SP:365/371 BP:5
+Equipo del enemigo
+A-Meep - HP:542/1016 Shields:2
+B-Shaggy Meep - HP:0/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Meep
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Meep - HP:542/1016 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Meep recibe 84 de daño de tipo Axe
+Meep termina con HP:458
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3041/4447 SP:357/369 BP:5
+B-Z'aanta - HP:2942/3222 SP:365/371 BP:5
+Equipo del enemigo
+A-Meep - HP:458/1016 Shields:2
+B-Shaggy Meep - HP:0/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Meep
+----------------------------------------
+Meep usa Attack
+H'aanit recibe 287 de daño físico
+H'aanit termina con HP:2754
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:2754/4447 SP:357/369 BP:5
+B-Z'aanta - HP:2942/3222 SP:365/371 BP:5
+Equipo del enemigo
+A-Meep - HP:458/1016 Shields:2
+B-Shaggy Meep - HP:0/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Z'aanta
+3.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Meep
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Meep - HP:458/1016 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Meep recibe 72 de daño de tipo Axe
+Meep termina con HP:386
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:2754/4447 SP:357/369 BP:5
+B-Z'aanta - HP:2942/3222 SP:365/371 BP:5
+Equipo del enemigo
+A-Meep - HP:386/1016 Shields:2
+B-Shaggy Meep - HP:0/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Meep
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Meep - HP:386/1016 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Meep recibe 84 de daño de tipo Axe
+Meep termina con HP:302
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:2754/4447 SP:357/369 BP:5
+B-Z'aanta - HP:2942/3222 SP:365/371 BP:5
+Equipo del enemigo
+A-Meep - HP:302/1016 Shields:2
+B-Shaggy Meep - HP:0/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Meep
+----------------------------------------
+Meep usa Attack
+Z'aanta recibe 280 de daño físico
+Z'aanta termina con HP:2662
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:2754/4447 SP:357/369 BP:5
+B-Z'aanta - HP:2662/3222 SP:365/371 BP:5
+Equipo del enemigo
+A-Meep - HP:302/1016 Shields:2
+B-Shaggy Meep - HP:0/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Z'aanta
+3.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Meep
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Meep - HP:302/1016 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Meep recibe 72 de daño de tipo Axe
+Meep termina con HP:230
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:2754/4447 SP:357/369 BP:5
+B-Z'aanta - HP:2662/3222 SP:365/371 BP:5
+Equipo del enemigo
+A-Meep - HP:230/1016 Shields:2
+B-Shaggy Meep - HP:0/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Meep
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Meep - HP:230/1016 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Meep recibe 84 de daño de tipo Axe
+Meep termina con HP:146
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:2754/4447 SP:357/369 BP:5
+B-Z'aanta - HP:2662/3222 SP:365/371 BP:5
+Equipo del enemigo
+A-Meep - HP:146/1016 Shields:2
+B-Shaggy Meep - HP:0/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Meep
+----------------------------------------
+Meep usa Attack
+H'aanit recibe 287 de daño físico
+H'aanit termina con HP:2467
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:2467/4447 SP:357/369 BP:5
+B-Z'aanta - HP:2662/3222 SP:365/371 BP:5
+Equipo del enemigo
+A-Meep - HP:146/1016 Shields:2
+B-Shaggy Meep - HP:0/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Z'aanta
+3.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Meep
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Meep - HP:146/1016 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Meep recibe 72 de daño de tipo Axe
+Meep termina con HP:74
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:2467/4447 SP:357/369 BP:5
+B-Z'aanta - HP:2662/3222 SP:365/371 BP:5
+Equipo del enemigo
+A-Meep - HP:74/1016 Shields:2
+B-Shaggy Meep - HP:0/1036 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Meep
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Meep - HP:74/1016 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Meep recibe 84 de daño de tipo Axe
+Meep termina con HP:0
+----------------------------------------
+Gana equipo del jugador

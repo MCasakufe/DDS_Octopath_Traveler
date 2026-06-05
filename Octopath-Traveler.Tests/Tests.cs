@@ -73,6 +73,60 @@ public class Tests
     public void TestE3_BasicPassivesRandom(string teamsFolder, string testFile)
         => RunTest(teamsFolder, testFile);
     
+    [Theory]
+    [MemberData(nameof(GetTestsAssociatedWithThisFolder), parameters: "E3-BasicSkillBoosting")]
+    public void TestE3_BasicSkillBoosting(string teamsFolder, string testFile)
+        => RunTest(teamsFolder, testFile);
+    
+    [Theory]
+    [MemberData(nameof(GetTestsAssociatedWithThisFolder), parameters: "E3-MultiHitOffensive")]
+    public void TestE3_MultiHitOffensive(string teamsFolder, string testFile)
+        => RunTest(teamsFolder, testFile);
+    
+    [Theory]
+    [MemberData(nameof(GetTestsAssociatedWithThisFolder), parameters: "E3-DivineSkills")]
+    public void TestE3_DivineSkills(string teamsFolder, string testFile)
+        => RunTest(teamsFolder, testFile);
+    
+    [Theory]
+    [MemberData(nameof(GetTestsAssociatedWithThisFolder), parameters: "E3-StatusEffects")]
+    public void TestE3_StatusEffects(string teamsFolder, string testFile)
+        => RunTest(teamsFolder, testFile);
+    
+    [Theory]
+    [MemberData(nameof(GetTestsAssociatedWithThisFolder), parameters: "E3-BeastsSkills")]
+    public void TestE3_BeastsSkills(string teamsFolder, string testFile)
+        => RunTest(teamsFolder, testFile);
+    
+    [Theory]
+    [MemberData(nameof(GetTestsAssociatedWithThisFolder), parameters: "E3-AdvanceSkillBoosting")]
+    public void TestE3_AdvanceSkillBoosting(string teamsFolder, string testFile)
+        => RunTest(teamsFolder, testFile);
+    
+    [Theory]
+    [MemberData(nameof(GetTestsAssociatedWithThisFolder), parameters: "E3-IntermediatePassives")]
+    public void TestE3_IntermediatePassiveSkills(string teamsFolder, string testFile)
+        => RunTest(teamsFolder, testFile);
+    
+    [Theory]
+    [MemberData(nameof(GetTestsAssociatedWithThisFolder), parameters: "E3-Mix")]
+    public void TestE3_Mix(string teamsFolder, string testFile)
+        => RunTest(teamsFolder, testFile);
+    
+    [Theory]
+    [MemberData(nameof(GetTestsAssociatedWithThisFolder), parameters: "E3-Random")]
+    public void TestE3_Random(string teamsFolder, string testFile)
+        => RunTest(teamsFolder, testFile);
+    
+    [Theory]
+    [MemberData(nameof(GetTestsAssociatedWithThisFolder), parameters: "E3-Bonus")]
+    public void TestE3_Bonus(string teamsFolder, string testFile)
+        => RunTest(teamsFolder, testFile);
+    
+    [Theory]
+    [MemberData(nameof(GetTestsAssociatedWithThisFolder), parameters: "E3-BonusRandom")]
+    public void TestE3_BonusRandom(string teamsFolder, string testFile)
+        => RunTest(teamsFolder, testFile);
     
     public static IEnumerable<object[]> GetTestsAssociatedWithThisFolder(string teamsfolder)
     {

@@ -1,0 +1,1543 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 88
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:554/554 BP:1
+B-Therion - HP:4947/4947 SP:332/332 BP:1
+C-Heatcore - HP:2822/2822 SP:342/342 BP:1
+D-Olberic - HP:5781/5781 SP:341/341 BP:1
+Equipo del enemigo
+A-Lightning Elemental - HP:2133/2133 Shields:4
+B-High Wolf - HP:1458/1458 Shields:2
+C-Fire Wisp - HP:972/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Heatcore
+3.Primrose
+4.High Wolf
+5.Olberic
+6.Lightning Elemental
+7.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Heatcore
+3.Primrose
+4.High Wolf
+5.Olberic
+6.Lightning Elemental
+7.Fire Wisp
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:554/554 BP:1
+B-Therion - HP:4947/4947 SP:332/332 BP:1
+C-Heatcore - HP:2822/2822 SP:342/342 BP:1
+D-Olberic - HP:5781/5781 SP:341/341 BP:1
+Equipo del enemigo
+A-Lightning Elemental - HP:2133/2133 Shields:4
+B-High Wolf - HP:1458/1458 Shields:2
+C-Fire Wisp - HP:972/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Primrose
+3.High Wolf
+4.Olberic
+5.Lightning Elemental
+6.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Heatcore
+3.Primrose
+4.High Wolf
+5.Olberic
+6.Lightning Elemental
+7.Fire Wisp
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Holy Light
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Lightning Elemental - HP:2133/2133 Shields:4
+2: High Wolf - HP:1458/1458 Shields:2
+3: Fire Wisp - HP:972/972 Shields:1
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore usa Holy Light
+Lightning Elemental recibe 155 de daño de tipo Light
+Lightning Elemental termina con HP:1978
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:554/554 BP:1
+B-Therion - HP:4947/4947 SP:332/332 BP:1
+C-Heatcore - HP:2822/2822 SP:336/342 BP:1
+D-Olberic - HP:5781/5781 SP:341/341 BP:1
+Equipo del enemigo
+A-Lightning Elemental - HP:1978/2133 Shields:4
+B-High Wolf - HP:1458/1458 Shields:2
+C-Fire Wisp - HP:972/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.High Wolf
+3.Olberic
+4.Lightning Elemental
+5.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Heatcore
+3.Primrose
+4.High Wolf
+5.Olberic
+6.Lightning Elemental
+7.Fire Wisp
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:554/554 BP:1
+B-Therion - HP:4947/4947 SP:332/332 BP:1
+C-Heatcore - HP:2822/2822 SP:336/342 BP:1
+D-Olberic - HP:5781/5781 SP:341/341 BP:1
+Equipo del enemigo
+A-Lightning Elemental - HP:1978/2133 Shields:4
+B-High Wolf - HP:1458/1458 Shields:2
+C-Fire Wisp - HP:972/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.High Wolf
+2.Olberic
+3.Lightning Elemental
+4.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Heatcore
+4.High Wolf
+5.Olberic
+6.Lightning Elemental
+7.Fire Wisp
+----------------------------------------
+High Wolf usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:5781
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:554/554 BP:1
+B-Therion - HP:4947/4947 SP:332/332 BP:1
+C-Heatcore - HP:2822/2822 SP:336/342 BP:1
+D-Olberic - HP:5781/5781 SP:341/341 BP:1
+Equipo del enemigo
+A-Lightning Elemental - HP:1978/2133 Shields:4
+B-High Wolf - HP:1458/1458 Shields:2
+C-Fire Wisp - HP:972/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Lightning Elemental
+3.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Heatcore
+4.High Wolf
+5.Olberic
+6.Lightning Elemental
+7.Fire Wisp
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Lightning Elemental - HP:1978/2133 Shields:4
+2: High Wolf - HP:1458/1458 Shields:2
+3: Fire Wisp - HP:972/972 Shields:1
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Lightning Elemental recibe 217 de daño de tipo Sword
+Lightning Elemental termina con HP:1761
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:554/554 BP:1
+B-Therion - HP:4947/4947 SP:332/332 BP:1
+C-Heatcore - HP:2822/2822 SP:336/342 BP:1
+D-Olberic - HP:5781/5781 SP:341/341 BP:1
+Equipo del enemigo
+A-Lightning Elemental - HP:1761/2133 Shields:4
+B-High Wolf - HP:1458/1458 Shields:2
+C-Fire Wisp - HP:972/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+2.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Heatcore
+4.High Wolf
+5.Olberic
+6.Lightning Elemental
+7.Fire Wisp
+----------------------------------------
+Lightning Elemental usa Thundershot
+Therion se defiende
+Therion recibe 90 de daño elemental
+Therion termina con HP:4857
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:554/554 BP:1
+B-Therion - HP:4857/4947 SP:332/332 BP:1
+C-Heatcore - HP:2822/2822 SP:336/342 BP:1
+D-Olberic - HP:5781/5781 SP:341/341 BP:1
+Equipo del enemigo
+A-Lightning Elemental - HP:1761/2133 Shields:4
+B-High Wolf - HP:1458/1458 Shields:2
+C-Fire Wisp - HP:972/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Heatcore
+4.High Wolf
+5.Olberic
+6.Lightning Elemental
+7.Fire Wisp
+----------------------------------------
+Fire Wisp usa Meteor Storm
+Therion se defiende
+Therion recibe 82 de daño elemental
+Therion termina con HP:4775
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:554/554 BP:2
+B-Therion - HP:4775/4947 SP:332/332 BP:2
+C-Heatcore - HP:2822/2822 SP:336/342 BP:2
+D-Olberic - HP:5781/5781 SP:341/341 BP:2
+Equipo del enemigo
+A-Lightning Elemental - HP:1761/2133 Shields:4
+B-High Wolf - HP:1458/1458 Shields:2
+C-Fire Wisp - HP:972/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.Heatcore
+4.High Wolf
+5.Olberic
+6.Lightning Elemental
+7.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Heatcore
+3.Primrose
+4.High Wolf
+5.Olberic
+6.Lightning Elemental
+7.Fire Wisp
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Lightning Elemental - HP:1761/2133 Shields:4
+2: High Wolf - HP:1458/1458 Shields:2
+3: Fire Wisp - HP:972/972 Shields:1
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+High Wolf recibe 295 de daño de tipo Sword
+High Wolf termina con HP:1163
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:554/554 BP:2
+B-Therion - HP:4775/4947 SP:332/332 BP:2
+C-Heatcore - HP:2822/2822 SP:336/342 BP:2
+D-Olberic - HP:5781/5781 SP:341/341 BP:2
+Equipo del enemigo
+A-Lightning Elemental - HP:1761/2133 Shields:4
+B-High Wolf - HP:1163/1458 Shields:2
+C-Fire Wisp - HP:972/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Heatcore
+3.High Wolf
+4.Olberic
+5.Lightning Elemental
+6.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Heatcore
+3.Primrose
+4.High Wolf
+5.Olberic
+6.Lightning Elemental
+7.Fire Wisp
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Icewind
+2: Tiger Rage
+3: Night Ode
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Tiger Rage
+Lightning Elemental recibe 204 de daño de tipo Axe
+High Wolf recibe 532 de daño de tipo Axe con debilidad
+Fire Wisp recibe 238 de daño de tipo Axe
+Lightning Elemental termina con HP:1557
+High Wolf termina con HP:631
+Fire Wisp termina con HP:734
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:519/554 BP:2
+B-Therion - HP:4775/4947 SP:332/332 BP:2
+C-Heatcore - HP:2822/2822 SP:336/342 BP:2
+D-Olberic - HP:5781/5781 SP:341/341 BP:2
+Equipo del enemigo
+A-Lightning Elemental - HP:1557/2133 Shields:4
+B-High Wolf - HP:631/1458 Shields:1
+C-Fire Wisp - HP:734/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.High Wolf
+3.Olberic
+4.Lightning Elemental
+5.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Heatcore
+3.Primrose
+4.High Wolf
+5.Olberic
+6.Lightning Elemental
+7.Fire Wisp
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Lightning Elemental - HP:1557/2133 Shields:4
+2: High Wolf - HP:631/1458 Shields:1
+3: Fire Wisp - HP:734/972 Shields:1
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore ataca
+High Wolf recibe 384 de daño de tipo Axe con debilidad
+High Wolf entra en Breaking Point
+High Wolf termina con HP:247
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:519/554 BP:2
+B-Therion - HP:4775/4947 SP:332/332 BP:2
+C-Heatcore - HP:2822/2822 SP:336/342 BP:2
+D-Olberic - HP:5781/5781 SP:341/341 BP:2
+Equipo del enemigo
+A-Lightning Elemental - HP:1557/2133 Shields:4
+B-High Wolf - HP:247/1458 Shields:0
+C-Fire Wisp - HP:734/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Lightning Elemental
+3.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Heatcore
+3.Primrose
+4.Olberic
+5.Lightning Elemental
+6.Fire Wisp
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:519/554 BP:2
+B-Therion - HP:4775/4947 SP:332/332 BP:2
+C-Heatcore - HP:2822/2822 SP:336/342 BP:2
+D-Olberic - HP:5781/5781 SP:341/341 BP:2
+Equipo del enemigo
+A-Lightning Elemental - HP:1557/2133 Shields:4
+B-High Wolf - HP:247/1458 Shields:0
+C-Fire Wisp - HP:734/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+2.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Therion
+3.Heatcore
+4.Primrose
+5.Lightning Elemental
+6.Fire Wisp
+----------------------------------------
+Lightning Elemental usa Thundershot
+Therion recibe 180 de daño elemental
+Therion termina con HP:4595
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:519/554 BP:2
+B-Therion - HP:4595/4947 SP:332/332 BP:2
+C-Heatcore - HP:2822/2822 SP:336/342 BP:2
+D-Olberic - HP:5781/5781 SP:341/341 BP:2
+Equipo del enemigo
+A-Lightning Elemental - HP:1557/2133 Shields:4
+B-High Wolf - HP:247/1458 Shields:0
+C-Fire Wisp - HP:734/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Therion
+3.Heatcore
+4.Primrose
+5.Lightning Elemental
+6.Fire Wisp
+----------------------------------------
+Fire Wisp usa Meteor Storm
+Therion recibe 165 de daño elemental
+Therion termina con HP:4430
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:519/554 BP:3
+B-Therion - HP:4430/4947 SP:332/332 BP:3
+C-Heatcore - HP:2822/2822 SP:336/342 BP:3
+D-Olberic - HP:5781/5781 SP:341/341 BP:3
+Equipo del enemigo
+A-Lightning Elemental - HP:1557/2133 Shields:4
+B-High Wolf - HP:247/1458 Shields:0
+C-Fire Wisp - HP:734/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Therion
+3.Heatcore
+4.Primrose
+5.Lightning Elemental
+6.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.High Wolf
+2.Therion
+3.Heatcore
+4.Primrose
+5.Olberic
+6.Lightning Elemental
+7.Fire Wisp
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Heal More
+2: Shooting Stars
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Heal More
+Primrose recupera 542 de vida
+Therion recupera 542 de vida
+Heatcore recupera 542 de vida
+Olberic recupera 542 de vida
+Primrose termina con HP:4502
+Therion termina con HP:4947
+Heatcore termina con HP:2822
+Olberic termina con HP:5781
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:519/554 BP:3
+B-Therion - HP:4947/4947 SP:332/332 BP:3
+C-Heatcore - HP:2822/2822 SP:336/342 BP:3
+D-Olberic - HP:5781/5781 SP:316/341 BP:3
+Equipo del enemigo
+A-Lightning Elemental - HP:1557/2133 Shields:4
+B-High Wolf - HP:247/1458 Shields:0
+C-Fire Wisp - HP:734/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Heatcore
+3.Primrose
+4.Lightning Elemental
+5.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.High Wolf
+2.Therion
+3.Heatcore
+4.Primrose
+5.Olberic
+6.Lightning Elemental
+7.Fire Wisp
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Lightning Elemental - HP:1557/2133 Shields:4
+2: High Wolf - HP:247/1458 Shields:0
+3: Fire Wisp - HP:734/972 Shields:1
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Fire Wisp recibe 178 de daño de tipo Sword
+Fire Wisp termina con HP:556
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:519/554 BP:3
+B-Therion - HP:4947/4947 SP:332/332 BP:3
+C-Heatcore - HP:2822/2822 SP:336/342 BP:3
+D-Olberic - HP:5781/5781 SP:316/341 BP:3
+Equipo del enemigo
+A-Lightning Elemental - HP:1557/2133 Shields:4
+B-High Wolf - HP:247/1458 Shields:0
+C-Fire Wisp - HP:556/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Primrose
+3.Lightning Elemental
+4.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.High Wolf
+2.Therion
+3.Heatcore
+4.Primrose
+5.Olberic
+6.Lightning Elemental
+7.Fire Wisp
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Holy Light
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Lightning Elemental - HP:1557/2133 Shields:4
+2: High Wolf - HP:247/1458 Shields:0
+3: Fire Wisp - HP:556/972 Shields:1
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore usa Holy Light
+Fire Wisp recibe 350 de daño de tipo Light
+Fire Wisp termina con HP:206
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:519/554 BP:3
+B-Therion - HP:4947/4947 SP:332/332 BP:3
+C-Heatcore - HP:2822/2822 SP:330/342 BP:3
+D-Olberic - HP:5781/5781 SP:316/341 BP:3
+Equipo del enemigo
+A-Lightning Elemental - HP:1557/2133 Shields:4
+B-High Wolf - HP:247/1458 Shields:0
+C-Fire Wisp - HP:206/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Lightning Elemental
+3.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.High Wolf
+2.Therion
+3.Heatcore
+4.Primrose
+5.Olberic
+6.Lightning Elemental
+7.Fire Wisp
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:519/554 BP:3
+B-Therion - HP:4947/4947 SP:332/332 BP:3
+C-Heatcore - HP:2822/2822 SP:330/342 BP:3
+D-Olberic - HP:5781/5781 SP:316/341 BP:3
+Equipo del enemigo
+A-Lightning Elemental - HP:1557/2133 Shields:4
+B-High Wolf - HP:247/1458 Shields:0
+C-Fire Wisp - HP:206/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+2.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.High Wolf
+2.Primrose
+3.Therion
+4.Heatcore
+5.Olberic
+6.Lightning Elemental
+7.Fire Wisp
+----------------------------------------
+Lightning Elemental usa Thundershot
+Therion recibe 180 de daño elemental
+Therion termina con HP:4767
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:519/554 BP:3
+B-Therion - HP:4767/4947 SP:332/332 BP:3
+C-Heatcore - HP:2822/2822 SP:330/342 BP:3
+D-Olberic - HP:5781/5781 SP:316/341 BP:3
+Equipo del enemigo
+A-Lightning Elemental - HP:1557/2133 Shields:4
+B-High Wolf - HP:247/1458 Shields:0
+C-Fire Wisp - HP:206/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.High Wolf
+2.Primrose
+3.Therion
+4.Heatcore
+5.Olberic
+6.Lightning Elemental
+7.Fire Wisp
+----------------------------------------
+Fire Wisp usa Meteor Storm
+Therion recibe 165 de daño elemental
+Therion termina con HP:4602
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:519/554 BP:4
+B-Therion - HP:4602/4947 SP:332/332 BP:4
+C-Heatcore - HP:2822/2822 SP:330/342 BP:4
+D-Olberic - HP:5781/5781 SP:316/341 BP:4
+Equipo del enemigo
+A-Lightning Elemental - HP:1557/2133 Shields:4
+B-High Wolf - HP:247/1458 Shields:2
+C-Fire Wisp - HP:206/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.High Wolf
+2.Primrose
+3.Therion
+4.Heatcore
+5.Olberic
+6.Lightning Elemental
+7.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Heatcore
+3.Primrose
+4.High Wolf
+5.Olberic
+6.Lightning Elemental
+7.Fire Wisp
+----------------------------------------
+High Wolf usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:5781
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:519/554 BP:4
+B-Therion - HP:4602/4947 SP:332/332 BP:4
+C-Heatcore - HP:2822/2822 SP:330/342 BP:4
+D-Olberic - HP:5781/5781 SP:316/341 BP:4
+Equipo del enemigo
+A-Lightning Elemental - HP:1557/2133 Shields:4
+B-High Wolf - HP:247/1458 Shields:2
+C-Fire Wisp - HP:206/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Therion
+3.Heatcore
+4.Olberic
+5.Lightning Elemental
+6.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Heatcore
+3.Primrose
+4.High Wolf
+5.Olberic
+6.Lightning Elemental
+7.Fire Wisp
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:519/554 BP:4
+B-Therion - HP:4602/4947 SP:332/332 BP:4
+C-Heatcore - HP:2822/2822 SP:330/342 BP:4
+D-Olberic - HP:5781/5781 SP:316/341 BP:4
+Equipo del enemigo
+A-Lightning Elemental - HP:1557/2133 Shields:4
+B-High Wolf - HP:247/1458 Shields:2
+C-Fire Wisp - HP:206/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Heatcore
+3.Olberic
+4.Lightning Elemental
+5.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Therion
+3.Heatcore
+4.High Wolf
+5.Olberic
+6.Lightning Elemental
+7.Fire Wisp
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Tradewinds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Lightning Elemental - HP:1557/2133 Shields:4
+2: High Wolf - HP:247/1458 Shields:2
+3: Fire Wisp - HP:206/972 Shields:1
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Tradewinds
+Fire Wisp recibe 297 de daño de tipo Wind
+Fire Wisp termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:519/554 BP:4
+B-Therion - HP:4602/4947 SP:325/332 BP:4
+C-Heatcore - HP:2822/2822 SP:330/342 BP:4
+D-Olberic - HP:5781/5781 SP:316/341 BP:4
+Equipo del enemigo
+A-Lightning Elemental - HP:1557/2133 Shields:4
+B-High Wolf - HP:247/1458 Shields:2
+C-Fire Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Olberic
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Therion
+3.Heatcore
+4.High Wolf
+5.Olberic
+6.Lightning Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Holy Light
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Lightning Elemental - HP:1557/2133 Shields:4
+2: High Wolf - HP:247/1458 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore usa Holy Light
+High Wolf recibe 278 de daño de tipo Light
+High Wolf termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:519/554 BP:4
+B-Therion - HP:4602/4947 SP:325/332 BP:4
+C-Heatcore - HP:2822/2822 SP:324/342 BP:4
+D-Olberic - HP:5781/5781 SP:316/341 BP:4
+Equipo del enemigo
+A-Lightning Elemental - HP:1557/2133 Shields:4
+B-High Wolf - HP:0/1458 Shields:2
+C-Fire Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Therion
+3.Heatcore
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Lightning Elemental - HP:1557/2133 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Lightning Elemental recibe 217 de daño de tipo Spear
+Lightning Elemental termina con HP:1340
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:519/554 BP:4
+B-Therion - HP:4602/4947 SP:325/332 BP:4
+C-Heatcore - HP:2822/2822 SP:324/342 BP:4
+D-Olberic - HP:5781/5781 SP:316/341 BP:4
+Equipo del enemigo
+A-Lightning Elemental - HP:1340/2133 Shields:4
+B-High Wolf - HP:0/1458 Shields:2
+C-Fire Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Therion
+3.Heatcore
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Therion recibe 180 de daño elemental
+Therion termina con HP:4422
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:519/554 BP:5
+B-Therion - HP:4422/4947 SP:325/332 BP:5
+C-Heatcore - HP:2822/2822 SP:324/342 BP:5
+D-Olberic - HP:5781/5781 SP:316/341 BP:5
+Equipo del enemigo
+A-Lightning Elemental - HP:1340/2133 Shields:4
+B-High Wolf - HP:0/1458 Shields:2
+C-Fire Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Therion
+3.Heatcore
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Heatcore
+3.Primrose
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Icewind
+2: Tiger Rage
+3: Night Ode
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Icewind
+Lightning Elemental recibe 314 de daño de tipo Ice
+Lightning Elemental termina con HP:1026
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:511/554 BP:5
+B-Therion - HP:4422/4947 SP:325/332 BP:5
+C-Heatcore - HP:2822/2822 SP:324/342 BP:5
+D-Olberic - HP:5781/5781 SP:316/341 BP:5
+Equipo del enemigo
+A-Lightning Elemental - HP:1026/2133 Shields:4
+B-High Wolf - HP:0/1458 Shields:2
+C-Fire Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Heatcore
+3.Olberic
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Heatcore
+3.Primrose
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:511/554 BP:5
+B-Therion - HP:4422/4947 SP:325/332 BP:5
+C-Heatcore - HP:2822/2822 SP:324/342 BP:5
+D-Olberic - HP:5781/5781 SP:316/341 BP:5
+Equipo del enemigo
+A-Lightning Elemental - HP:1026/2133 Shields:4
+B-High Wolf - HP:0/1458 Shields:2
+C-Fire Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Olberic
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Heatcore
+3.Primrose
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Holy Light
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Lightning Elemental - HP:1026/2133 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore usa Holy Light
+Lightning Elemental recibe 155 de daño de tipo Light
+Lightning Elemental termina con HP:871
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:511/554 BP:5
+B-Therion - HP:4422/4947 SP:325/332 BP:5
+C-Heatcore - HP:2822/2822 SP:318/342 BP:5
+D-Olberic - HP:5781/5781 SP:316/341 BP:5
+Equipo del enemigo
+A-Lightning Elemental - HP:871/2133 Shields:4
+B-High Wolf - HP:0/1458 Shields:2
+C-Fire Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Heatcore
+3.Primrose
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Heal More
+2: Shooting Stars
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Heal More
+Primrose recupera 542 de vida
+Therion recupera 542 de vida
+Heatcore recupera 542 de vida
+Olberic recupera 542 de vida
+Primrose termina con HP:4502
+Therion termina con HP:4947
+Heatcore termina con HP:2822
+Olberic termina con HP:5781
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:511/554 BP:5
+B-Therion - HP:4947/4947 SP:325/332 BP:5
+C-Heatcore - HP:2822/2822 SP:318/342 BP:5
+D-Olberic - HP:5781/5781 SP:291/341 BP:5
+Equipo del enemigo
+A-Lightning Elemental - HP:871/2133 Shields:4
+B-High Wolf - HP:0/1458 Shields:2
+C-Fire Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Heatcore
+3.Primrose
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Therion se defiende
+Therion recibe 90 de daño elemental
+Therion termina con HP:4857
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:511/554 BP:5
+B-Therion - HP:4857/4947 SP:325/332 BP:5
+C-Heatcore - HP:2822/2822 SP:318/342 BP:5
+D-Olberic - HP:5781/5781 SP:291/341 BP:5
+Equipo del enemigo
+A-Lightning Elemental - HP:871/2133 Shields:4
+B-High Wolf - HP:0/1458 Shields:2
+C-Fire Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Heatcore
+3.Primrose
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Heatcore
+3.Primrose
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Tradewinds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Lightning Elemental - HP:871/2133 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Tradewinds
+Lightning Elemental recibe 153 de daño de tipo Wind con debilidad
+Lightning Elemental termina con HP:718
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:511/554 BP:5
+B-Therion - HP:4857/4947 SP:318/332 BP:5
+C-Heatcore - HP:2822/2822 SP:318/342 BP:5
+D-Olberic - HP:5781/5781 SP:291/341 BP:5
+Equipo del enemigo
+A-Lightning Elemental - HP:718/2133 Shields:3
+B-High Wolf - HP:0/1458 Shields:2
+C-Fire Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Primrose
+3.Olberic
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Heatcore
+3.Primrose
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Lightning Elemental - HP:718/2133 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore ataca
+Lightning Elemental recibe 105 de daño de tipo Bow
+Lightning Elemental termina con HP:613
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:511/554 BP:5
+B-Therion - HP:4857/4947 SP:318/332 BP:5
+C-Heatcore - HP:2822/2822 SP:318/342 BP:5
+D-Olberic - HP:5781/5781 SP:291/341 BP:5
+Equipo del enemigo
+A-Lightning Elemental - HP:613/2133 Shields:3
+B-High Wolf - HP:0/1458 Shields:2
+C-Fire Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Olberic
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Heatcore
+3.Primrose
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Icewind
+2: Tiger Rage
+3: Night Ode
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Icewind
+Lightning Elemental recibe 314 de daño de tipo Ice
+Lightning Elemental termina con HP:299
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:503/554 BP:5
+B-Therion - HP:4857/4947 SP:318/332 BP:5
+C-Heatcore - HP:2822/2822 SP:318/342 BP:5
+D-Olberic - HP:5781/5781 SP:291/341 BP:5
+Equipo del enemigo
+A-Lightning Elemental - HP:299/2133 Shields:3
+B-High Wolf - HP:0/1458 Shields:2
+C-Fire Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Heatcore
+3.Primrose
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Lightning Elemental - HP:299/2133 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Lightning Elemental recibe 217 de daño de tipo Sword
+Lightning Elemental termina con HP:82
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:503/554 BP:5
+B-Therion - HP:4857/4947 SP:318/332 BP:5
+C-Heatcore - HP:2822/2822 SP:318/342 BP:5
+D-Olberic - HP:5781/5781 SP:291/341 BP:5
+Equipo del enemigo
+A-Lightning Elemental - HP:82/2133 Shields:3
+B-High Wolf - HP:0/1458 Shields:2
+C-Fire Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Heatcore
+3.Primrose
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Therion recibe 180 de daño elemental
+Therion termina con HP:4677
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:503/554 BP:5
+B-Therion - HP:4677/4947 SP:318/332 BP:5
+C-Heatcore - HP:2822/2822 SP:318/342 BP:5
+D-Olberic - HP:5781/5781 SP:291/341 BP:5
+Equipo del enemigo
+A-Lightning Elemental - HP:82/2133 Shields:3
+B-High Wolf - HP:0/1458 Shields:2
+C-Fire Wisp - HP:0/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Heatcore
+3.Primrose
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Heatcore
+3.Primrose
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Tradewinds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Lightning Elemental - HP:82/2133 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Tradewinds
+Lightning Elemental recibe 153 de daño de tipo Wind con debilidad
+Lightning Elemental termina con HP:0
+----------------------------------------
+Gana equipo del jugador

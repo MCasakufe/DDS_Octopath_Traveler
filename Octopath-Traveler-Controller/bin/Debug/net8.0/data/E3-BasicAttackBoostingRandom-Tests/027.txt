@@ -1,0 +1,1080 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+INPUT: 26
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Dark Elemental - HP:1822/1822 Shields:4
+E-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Dark Elemental
+5.Wind Elemental
+6.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Dark Elemental
+5.Wind Elemental
+6.Forest Ratkin I
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Mad Ratkin - HP:1233/1233 Shields:1
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Dark Elemental - HP:1822/1822 Shields:4
+5: Forest Ratkin I - HP:1348/1348 Shields:1
+6: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Ophilia no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Ophilia ataca
+Dark Elemental recibe 0 de daño de tipo Stave
+Dark Elemental recibe 0 de daño de tipo Stave
+Dark Elemental termina con HP:1822
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Dark Elemental - HP:1822/1822 Shields:4
+E-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Dark Elemental
+4.Wind Elemental
+5.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Dark Elemental
+5.Wind Elemental
+6.Forest Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Ophilia recibe 363 de daño físico
+Ophilia termina con HP:3639
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3639/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Dark Elemental - HP:1822/1822 Shields:4
+E-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Dark Elemental
+3.Wind Elemental
+4.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Dark Elemental
+5.Wind Elemental
+6.Forest Ratkin I
+----------------------------------------
+Mad Ratkin usa Stab
+Ophilia recibe 317 de daño físico
+Ophilia termina con HP:3322
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3322/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Dark Elemental - HP:1822/1822 Shields:4
+E-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Wind Elemental
+3.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Dark Elemental
+5.Wind Elemental
+6.Forest Ratkin I
+----------------------------------------
+Dark Elemental usa Shadowshot
+Ophilia recibe 91 de daño elemental
+Ophilia termina con HP:3231
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3231/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Dark Elemental - HP:1822/1822 Shields:4
+E-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Dark Elemental
+5.Wind Elemental
+6.Forest Ratkin I
+----------------------------------------
+Wind Elemental usa Windshot
+Ophilia recibe 28 de daño elemental
+Ophilia termina con HP:3203
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3203/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Dark Elemental - HP:1822/1822 Shields:4
+E-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Dark Elemental
+5.Wind Elemental
+6.Forest Ratkin I
+----------------------------------------
+Forest Ratkin I usa Stab
+Ophilia recibe 90 de daño físico
+Ophilia termina con HP:3113
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3113/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Dark Elemental - HP:1822/1822 Shields:4
+E-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Dark Elemental
+5.Wind Elemental
+6.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Dark Elemental
+5.Wind Elemental
+6.Forest Ratkin I
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3113/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Dark Elemental - HP:1822/1822 Shields:4
+E-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Dark Elemental
+4.Wind Elemental
+5.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Dark Elemental
+5.Wind Elemental
+6.Forest Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Ophilia se defiende
+Ophilia recibe 181 de daño físico
+Ophilia termina con HP:2932
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2932/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Dark Elemental - HP:1822/1822 Shields:4
+E-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Dark Elemental
+3.Wind Elemental
+4.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Dark Elemental
+5.Wind Elemental
+6.Forest Ratkin I
+----------------------------------------
+Mad Ratkin usa Stab
+Ophilia se defiende
+Ophilia recibe 158 de daño físico
+Ophilia termina con HP:2774
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2774/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Dark Elemental - HP:1822/1822 Shields:4
+E-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Wind Elemental
+3.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Dark Elemental
+5.Wind Elemental
+6.Forest Ratkin I
+----------------------------------------
+Dark Elemental usa Shadowshot
+Ophilia se defiende
+Ophilia recibe 45 de daño elemental
+Ophilia termina con HP:2729
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2729/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Dark Elemental - HP:1822/1822 Shields:4
+E-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Dark Elemental
+5.Wind Elemental
+6.Forest Ratkin I
+----------------------------------------
+Wind Elemental usa Windshot
+Ophilia se defiende
+Ophilia recibe 14 de daño elemental
+Ophilia termina con HP:2715
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2715/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Dark Elemental - HP:1822/1822 Shields:4
+E-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Dark Elemental
+5.Wind Elemental
+6.Forest Ratkin I
+----------------------------------------
+Forest Ratkin I usa Stab
+Ophilia se defiende
+Ophilia recibe 45 de daño físico
+Ophilia termina con HP:2670
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2670/4002 SP:470/470 BP:1
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Dark Elemental - HP:1822/1822 Shields:4
+E-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Dark Elemental
+5.Wind Elemental
+6.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Dark Elemental
+5.Wind Elemental
+6.Forest Ratkin I
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Mad Ratkin - HP:1233/1233 Shields:1
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Dark Elemental - HP:1822/1822 Shields:4
+5: Forest Ratkin I - HP:1348/1348 Shields:1
+6: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Ophilia no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Ophilia ataca
+Wind Elemental recibe 0 de daño de tipo Stave
+Wind Elemental recibe 0 de daño de tipo Stave
+Wind Elemental termina con HP:2496
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2670/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Dark Elemental - HP:1822/1822 Shields:4
+E-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Dark Elemental
+4.Wind Elemental
+5.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Dark Elemental
+5.Wind Elemental
+6.Forest Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Ophilia recibe 363 de daño físico
+Ophilia termina con HP:2307
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2307/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Dark Elemental - HP:1822/1822 Shields:4
+E-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Dark Elemental
+3.Wind Elemental
+4.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Dark Elemental
+5.Wind Elemental
+6.Forest Ratkin I
+----------------------------------------
+Mad Ratkin usa Stab
+Ophilia recibe 317 de daño físico
+Ophilia termina con HP:1990
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1990/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Dark Elemental - HP:1822/1822 Shields:4
+E-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Wind Elemental
+3.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Dark Elemental
+5.Wind Elemental
+6.Forest Ratkin I
+----------------------------------------
+Dark Elemental usa Shadowshot
+Ophilia recibe 91 de daño elemental
+Ophilia termina con HP:1899
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1899/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Dark Elemental - HP:1822/1822 Shields:4
+E-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Dark Elemental
+5.Wind Elemental
+6.Forest Ratkin I
+----------------------------------------
+Wind Elemental usa Windshot
+Ophilia recibe 28 de daño elemental
+Ophilia termina con HP:1871
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1871/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Dark Elemental - HP:1822/1822 Shields:4
+E-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Dark Elemental
+5.Wind Elemental
+6.Forest Ratkin I
+----------------------------------------
+Forest Ratkin I usa Stab
+Ophilia recibe 90 de daño físico
+Ophilia termina con HP:1781
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1781/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Dark Elemental - HP:1822/1822 Shields:4
+E-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Dark Elemental
+5.Wind Elemental
+6.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Dark Elemental
+5.Wind Elemental
+6.Forest Ratkin I
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Mad Ratkin - HP:1233/1233 Shields:1
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Dark Elemental - HP:1822/1822 Shields:4
+5: Forest Ratkin I - HP:1348/1348 Shields:1
+6: Cancelar
+INPUT: 2
+----------------------------------------
+Ophilia ataca
+Highland Ratkin I recibe 0 de daño de tipo Stave
+Highland Ratkin I termina con HP:1000
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1781/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Dark Elemental - HP:1822/1822 Shields:4
+E-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Dark Elemental
+4.Wind Elemental
+5.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Dark Elemental
+5.Wind Elemental
+6.Forest Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Ophilia recibe 363 de daño físico
+Ophilia termina con HP:1418
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1418/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Dark Elemental - HP:1822/1822 Shields:4
+E-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Dark Elemental
+3.Wind Elemental
+4.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Dark Elemental
+5.Wind Elemental
+6.Forest Ratkin I
+----------------------------------------
+Mad Ratkin usa Stab
+Ophilia recibe 317 de daño físico
+Ophilia termina con HP:1101
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1101/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Dark Elemental - HP:1822/1822 Shields:4
+E-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Wind Elemental
+3.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Dark Elemental
+5.Wind Elemental
+6.Forest Ratkin I
+----------------------------------------
+Dark Elemental usa Shadowshot
+Ophilia recibe 91 de daño elemental
+Ophilia termina con HP:1010
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1010/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Dark Elemental - HP:1822/1822 Shields:4
+E-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Dark Elemental
+5.Wind Elemental
+6.Forest Ratkin I
+----------------------------------------
+Wind Elemental usa Windshot
+Ophilia recibe 28 de daño elemental
+Ophilia termina con HP:982
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:982/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Dark Elemental - HP:1822/1822 Shields:4
+E-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Dark Elemental
+5.Wind Elemental
+6.Forest Ratkin I
+----------------------------------------
+Forest Ratkin I usa Stab
+Ophilia recibe 90 de daño físico
+Ophilia termina con HP:892
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:892/4002 SP:470/470 BP:1
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Dark Elemental - HP:1822/1822 Shields:4
+E-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Dark Elemental
+5.Wind Elemental
+6.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Dark Elemental
+5.Wind Elemental
+6.Forest Ratkin I
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Mad Ratkin - HP:1233/1233 Shields:1
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Dark Elemental - HP:1822/1822 Shields:4
+5: Forest Ratkin I - HP:1348/1348 Shields:1
+6: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Ophilia no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Ophilia no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Ophilia no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Ophilia no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Ophilia no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Ophilia ataca
+Mad Ratkin recibe 0 de daño de tipo Stave
+Mad Ratkin recibe 0 de daño de tipo Stave
+Mad Ratkin termina con HP:1233
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:892/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Dark Elemental - HP:1822/1822 Shields:4
+E-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Dark Elemental
+4.Wind Elemental
+5.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Dark Elemental
+5.Wind Elemental
+6.Forest Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Ophilia recibe 363 de daño físico
+Ophilia termina con HP:529
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:529/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Dark Elemental - HP:1822/1822 Shields:4
+E-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Dark Elemental
+3.Wind Elemental
+4.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Dark Elemental
+5.Wind Elemental
+6.Forest Ratkin I
+----------------------------------------
+Mad Ratkin usa Stab
+Ophilia recibe 317 de daño físico
+Ophilia termina con HP:212
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:212/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Dark Elemental - HP:1822/1822 Shields:4
+E-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Wind Elemental
+3.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Dark Elemental
+5.Wind Elemental
+6.Forest Ratkin I
+----------------------------------------
+Dark Elemental usa Shadowshot
+Ophilia recibe 91 de daño elemental
+Ophilia termina con HP:121
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:121/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Dark Elemental - HP:1822/1822 Shields:4
+E-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Dark Elemental
+5.Wind Elemental
+6.Forest Ratkin I
+----------------------------------------
+Wind Elemental usa Windshot
+Ophilia recibe 28 de daño elemental
+Ophilia termina con HP:93
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:93/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Dark Elemental - HP:1822/1822 Shields:4
+E-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Dark Elemental
+5.Wind Elemental
+6.Forest Ratkin I
+----------------------------------------
+Forest Ratkin I usa Stab
+Ophilia recibe 90 de daño físico
+Ophilia termina con HP:3
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Dark Elemental - HP:1822/1822 Shields:4
+E-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Dark Elemental
+5.Wind Elemental
+6.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Dark Elemental
+5.Wind Elemental
+6.Forest Ratkin I
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Mad Ratkin - HP:1233/1233 Shields:1
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Dark Elemental - HP:1822/1822 Shields:4
+5: Forest Ratkin I - HP:1348/1348 Shields:1
+6: Cancelar
+INPUT: 5
+----------------------------------------
+Ophilia ataca
+Forest Ratkin I recibe 116 de daño de tipo Stave
+Forest Ratkin I termina con HP:1232
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3/4002 SP:470/470 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Dark Elemental - HP:1822/1822 Shields:4
+E-Forest Ratkin I - HP:1232/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Dark Elemental
+4.Wind Elemental
+5.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Dark Elemental
+5.Wind Elemental
+6.Forest Ratkin I
+----------------------------------------
+Highland Ratkin I usa Stab
+Ophilia recibe 363 de daño físico
+Ophilia termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

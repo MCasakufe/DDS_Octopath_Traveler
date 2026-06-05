@@ -1,0 +1,795 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+INPUT: 11
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4002/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Lord of the Flies - HP:5590/5590 Shields:3
+B-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Lord of the Flies
+3.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Lord of the Flies
+3.Forest Ratkin I
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Holy Light
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Lord of the Flies - HP:5590/5590 Shields:3
+2: Forest Ratkin I - HP:1348/1348 Shields:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Holy Light
+Forest Ratkin I recibe 701 de daño de tipo Light con debilidad
+Forest Ratkin I entra en Breaking Point
+Forest Ratkin I termina con HP:647
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4002/4002 SP:498/504 BP:2
+Equipo del enemigo
+A-Lord of the Flies - HP:5590/5590 Shields:3
+B-Forest Ratkin I - HP:647/1348 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Agnea recibe 360 de daño físico
+Agnea termina con HP:3642
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3642/4002 SP:498/504 BP:3
+Equipo del enemigo
+A-Lord of the Flies - HP:5590/5590 Shields:3
+B-Forest Ratkin I - HP:647/1348 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Forest Ratkin I
+2.Agnea
+3.Lord of the Flies
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3642/4002 SP:498/504 BP:3
+Equipo del enemigo
+A-Lord of the Flies - HP:5590/5590 Shields:3
+B-Forest Ratkin I - HP:647/1348 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Forest Ratkin I
+2.Agnea
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Agnea se defiende
+Agnea recibe 180 de daño físico
+Agnea termina con HP:3462
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3462/4002 SP:498/504 BP:4
+Equipo del enemigo
+A-Lord of the Flies - HP:5590/5590 Shields:3
+B-Forest Ratkin I - HP:647/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Forest Ratkin I
+2.Agnea
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Lord of the Flies
+3.Forest Ratkin I
+----------------------------------------
+Forest Ratkin I usa Stab
+Agnea recibe 152 de daño físico
+Agnea termina con HP:3310
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3310/4002 SP:498/504 BP:4
+Equipo del enemigo
+A-Lord of the Flies - HP:5590/5590 Shields:3
+B-Forest Ratkin I - HP:647/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Lord of the Flies
+3.Forest Ratkin I
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3310/4002 SP:498/504 BP:4
+Equipo del enemigo
+A-Lord of the Flies - HP:5590/5590 Shields:3
+B-Forest Ratkin I - HP:647/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Lord of the Flies
+3.Forest Ratkin I
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Agnea se defiende
+Agnea recibe 180 de daño físico
+Agnea termina con HP:3130
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3130/4002 SP:498/504 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5590/5590 Shields:3
+B-Forest Ratkin I - HP:647/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Lord of the Flies
+3.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Lord of the Flies
+3.Forest Ratkin I
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Lord of the Flies - HP:5590/5590 Shields:3
+2: Forest Ratkin I - HP:647/1348 Shields:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Forest Ratkin I recibe 143 de daño de tipo Dagger con debilidad
+Forest Ratkin I entra en Breaking Point
+Forest Ratkin I termina con HP:504
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3130/4002 SP:498/504 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5590/5590 Shields:3
+B-Forest Ratkin I - HP:504/1348 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Agnea recibe 360 de daño físico
+Agnea termina con HP:2770
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2770/4002 SP:498/504 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5590/5590 Shields:3
+B-Forest Ratkin I - HP:504/1348 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Forest Ratkin I
+2.Agnea
+3.Lord of the Flies
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Holy Light
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Lord of the Flies - HP:5590/5590 Shields:3
+2: Forest Ratkin I - HP:504/1348 Shields:0
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Holy Light
+Lord of the Flies recibe 381 de daño de tipo Light con debilidad
+Lord of the Flies termina con HP:5209
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2770/4002 SP:492/504 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5209/5590 Shields:2
+B-Forest Ratkin I - HP:504/1348 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Forest Ratkin I
+2.Agnea
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Agnea recibe 360 de daño físico
+Agnea termina con HP:2410
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2410/4002 SP:492/504 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5209/5590 Shields:2
+B-Forest Ratkin I - HP:504/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Forest Ratkin I
+2.Agnea
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Lord of the Flies
+3.Forest Ratkin I
+----------------------------------------
+Forest Ratkin I usa Stab
+Agnea recibe 152 de daño físico
+Agnea termina con HP:2258
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2258/4002 SP:492/504 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5209/5590 Shields:2
+B-Forest Ratkin I - HP:504/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Lord of the Flies
+3.Forest Ratkin I
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Lord of the Flies - HP:5209/5590 Shields:2
+2: Forest Ratkin I - HP:504/1348 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies termina con HP:5209
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2258/4002 SP:492/504 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5209/5590 Shields:2
+B-Forest Ratkin I - HP:504/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Lord of the Flies
+3.Forest Ratkin I
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Agnea recibe 360 de daño físico
+Agnea termina con HP:1898
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1898/4002 SP:492/504 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5209/5590 Shields:2
+B-Forest Ratkin I - HP:504/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Lord of the Flies
+3.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Lord of the Flies
+3.Forest Ratkin I
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Holy Light
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Lord of the Flies - HP:5209/5590 Shields:2
+2: Forest Ratkin I - HP:504/1348 Shields:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Holy Light
+Forest Ratkin I recibe 701 de daño de tipo Light con debilidad
+Forest Ratkin I entra en Breaking Point
+Forest Ratkin I termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1898/4002 SP:486/504 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5209/5590 Shields:2
+B-Forest Ratkin I - HP:0/1348 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Agnea recibe 360 de daño físico
+Agnea termina con HP:1538
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1538/4002 SP:486/504 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5209/5590 Shields:2
+B-Forest Ratkin I - HP:0/1348 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Lord of the Flies
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Lord of the Flies - HP:5209/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies termina con HP:5209
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1538/4002 SP:486/504 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5209/5590 Shields:2
+B-Forest Ratkin I - HP:0/1348 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Agnea recibe 360 de daño físico
+Agnea termina con HP:1178
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1178/4002 SP:486/504 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5209/5590 Shields:2
+B-Forest Ratkin I - HP:0/1348 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Lord of the Flies
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1178/4002 SP:486/504 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5209/5590 Shields:2
+B-Forest Ratkin I - HP:0/1348 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Agnea se defiende
+Agnea recibe 180 de daño físico
+Agnea termina con HP:998
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:998/4002 SP:486/504 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5209/5590 Shields:2
+B-Forest Ratkin I - HP:0/1348 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Lord of the Flies
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Holy Light
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Lord of the Flies - HP:5209/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Holy Light
+Lord of the Flies recibe 381 de daño de tipo Light con debilidad
+Lord of the Flies termina con HP:4828
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:998/4002 SP:480/504 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4828/5590 Shields:1
+B-Forest Ratkin I - HP:0/1348 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Agnea recibe 360 de daño físico
+Agnea termina con HP:638
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:638/4002 SP:480/504 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4828/5590 Shields:1
+B-Forest Ratkin I - HP:0/1348 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Lord of the Flies
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Holy Light
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Lord of the Flies - HP:4828/5590 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Holy Light
+Lord of the Flies recibe 381 de daño de tipo Light con debilidad
+Lord of the Flies entra en Breaking Point
+Lord of the Flies termina con HP:4447
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:638/4002 SP:474/504 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4447/5590 Shields:0
+B-Forest Ratkin I - HP:0/1348 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Agnea
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:638/4002 SP:474/504 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4447/5590 Shields:3
+B-Forest Ratkin I - HP:0/1348 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Agnea
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Agnea recibe 360 de daño físico
+Agnea termina con HP:278
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:278/4002 SP:474/504 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4447/5590 Shields:3
+B-Forest Ratkin I - HP:0/1348 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Lord of the Flies
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Holy Light
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Lord of the Flies - HP:4447/5590 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Holy Light
+Lord of the Flies recibe 381 de daño de tipo Light con debilidad
+Lord of the Flies termina con HP:4066
+----------------------------------------
+INICIA RONDA 14
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:278/4002 SP:468/504 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4066/5590 Shields:2
+B-Forest Ratkin I - HP:0/1348 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Lord of the Flies
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Lord of the Flies - HP:4066/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies termina con HP:4066
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:278/4002 SP:468/504 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4066/5590 Shields:2
+B-Forest Ratkin I - HP:0/1348 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Agnea recibe 360 de daño físico
+Agnea termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

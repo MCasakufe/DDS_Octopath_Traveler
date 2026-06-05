@@ -1,0 +1,2168 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+INPUT: 27
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+B-Tressa - HP:4891/4891 SP:407/407 BP:1
+C-Therion - HP:4447/4447 SP:332/332 BP:1
+D-Partitio - HP:4891/4891 SP:314/314 BP:1
+Equipo del enemigo
+A-Heavenwing - HP:6900/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Z'aanta
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Heavenwing - HP:6900/6900 Shields:7
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Heavenwing recibe 61 de daño de tipo Sword
+Heavenwing termina con HP:6839
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+B-Tressa - HP:4891/4891 SP:407/407 BP:1
+C-Therion - HP:4447/4447 SP:332/332 BP:1
+D-Partitio - HP:4891/4891 SP:314/314 BP:1
+Equipo del enemigo
+A-Heavenwing - HP:6839/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Partitio
+3.Heavenwing
+4.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+B-Tressa - HP:4891/4891 SP:407/407 BP:1
+C-Therion - HP:4447/4447 SP:332/332 BP:1
+D-Partitio - HP:4891/4891 SP:314/314 BP:1
+Equipo del enemigo
+A-Heavenwing - HP:6839/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Heavenwing
+3.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Therion
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Heavenwing - HP:6839/6900 Shields:7
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Heavenwing recibe 162 de daño de tipo Spear con debilidad
+Heavenwing termina con HP:6677
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+B-Tressa - HP:4891/4891 SP:407/407 BP:1
+C-Therion - HP:4447/4447 SP:332/332 BP:1
+D-Partitio - HP:4891/4891 SP:314/314 BP:1
+Equipo del enemigo
+A-Heavenwing - HP:6677/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Therion
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Heavenwing usa Incinerate
+Z'aanta se defiende
+Z'aanta recibe 147 de daño elemental
+Tressa recibe 390 de daño elemental
+Therion recibe 447 de daño elemental
+Partitio recibe 390 de daño elemental
+Z'aanta termina con HP:3075
+Tressa termina con HP:4501
+Therion termina con HP:4000
+Partitio termina con HP:4501
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3075/3222 SP:371/371 BP:1
+B-Tressa - HP:4501/4891 SP:407/407 BP:1
+C-Therion - HP:4000/4447 SP:332/332 BP:1
+D-Partitio - HP:4501/4891 SP:314/314 BP:1
+Equipo del enemigo
+A-Heavenwing - HP:6677/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Therion
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Lightning Bolt
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Lightning Bolt
+Heavenwing recibe 90 de daño de tipo Lightning
+Heavenwing termina con HP:6587
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3075/3222 SP:371/371 BP:2
+B-Tressa - HP:4501/4891 SP:399/407 BP:2
+C-Therion - HP:4000/4447 SP:332/332 BP:2
+D-Partitio - HP:4501/4891 SP:314/314 BP:2
+Equipo del enemigo
+A-Heavenwing - HP:6587/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Therion
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3075/3222 SP:371/371 BP:2
+B-Tressa - HP:4501/4891 SP:399/407 BP:2
+C-Therion - HP:4000/4447 SP:332/332 BP:2
+D-Partitio - HP:4501/4891 SP:314/314 BP:2
+Equipo del enemigo
+A-Heavenwing - HP:6587/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Partitio
+3.Heavenwing
+4.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Therion
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Therion no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Therion usa Heal More
+Z'aanta recupera 729 de vida
+Tressa recupera 729 de vida
+Partitio recupera 729 de vida
+Therion recupera 729 de vida
+Z'aanta termina con HP:3804
+Tressa termina con HP:4891
+Partitio termina con HP:4891
+Therion termina con HP:4447
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3804/3222 SP:371/371 BP:2
+B-Tressa - HP:4891/4891 SP:399/407 BP:2
+C-Therion - HP:4447/4447 SP:307/332 BP:0
+D-Partitio - HP:4891/4891 SP:314/314 BP:2
+Equipo del enemigo
+A-Heavenwing - HP:6587/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Heavenwing
+3.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Therion
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Heavenwing - HP:6587/6900 Shields:6
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Heavenwing recibe 162 de daño de tipo Bow con debilidad
+Heavenwing termina con HP:6425
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3804/3222 SP:371/371 BP:2
+B-Tressa - HP:4891/4891 SP:399/407 BP:2
+C-Therion - HP:4447/4447 SP:307/332 BP:0
+D-Partitio - HP:4891/4891 SP:314/314 BP:2
+Equipo del enemigo
+A-Heavenwing - HP:6425/6900 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Therion
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Heavenwing usa Incinerate
+Z'aanta se defiende
+Z'aanta recibe 147 de daño elemental
+Tressa recibe 390 de daño elemental
+Therion recibe 447 de daño elemental
+Partitio recibe 390 de daño elemental
+Z'aanta termina con HP:3657
+Tressa termina con HP:4501
+Therion termina con HP:4000
+Partitio termina con HP:4501
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3657/3222 SP:371/371 BP:2
+B-Tressa - HP:4501/4891 SP:399/407 BP:2
+C-Therion - HP:4000/4447 SP:307/332 BP:0
+D-Partitio - HP:4501/4891 SP:314/314 BP:2
+Equipo del enemigo
+A-Heavenwing - HP:6425/6900 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Therion
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3657/3222 SP:371/371 BP:3
+B-Tressa - HP:4501/4891 SP:399/407 BP:3
+C-Therion - HP:4000/4447 SP:307/332 BP:0
+D-Partitio - HP:4501/4891 SP:314/314 BP:3
+Equipo del enemigo
+A-Heavenwing - HP:6425/6900 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Tressa
+3.Therion
+4.Partitio
+5.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Heavenwing - HP:6425/6900 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Heavenwing recibe 86 de daño de tipo Axe
+Heavenwing termina con HP:6339
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3657/3222 SP:371/371 BP:3
+B-Tressa - HP:4501/4891 SP:399/407 BP:3
+C-Therion - HP:4000/4447 SP:307/332 BP:0
+D-Partitio - HP:4501/4891 SP:314/314 BP:3
+Equipo del enemigo
+A-Heavenwing - HP:6339/6900 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Therion
+3.Partitio
+4.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Heavenwing - HP:6339/6900 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Heavenwing recibe 155 de daño de tipo Spear con debilidad
+Heavenwing termina con HP:6184
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3657/3222 SP:371/371 BP:3
+B-Tressa - HP:4501/4891 SP:399/407 BP:3
+C-Therion - HP:4000/4447 SP:307/332 BP:0
+D-Partitio - HP:4501/4891 SP:314/314 BP:3
+Equipo del enemigo
+A-Heavenwing - HP:6184/6900 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Partitio
+3.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3657/3222 SP:371/371 BP:3
+B-Tressa - HP:4501/4891 SP:399/407 BP:3
+C-Therion - HP:4000/4447 SP:307/332 BP:0
+D-Partitio - HP:4501/4891 SP:314/314 BP:3
+Equipo del enemigo
+A-Heavenwing - HP:6184/6900 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Aelfric's Auspices
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Z'aanta - HP:3657/3222 SP:371/371 BP:3
+2: Tressa - HP:4501/4891 SP:399/407 BP:3
+3: Therion - HP:4000/4447 SP:307/332 BP:0
+4: Partitio - HP:4501/4891 SP:314/314 BP:3
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Partitio usa Aelfric's Auspices
+Partitio activará sus habilidades 2 veces durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3657/3222 SP:371/371 BP:3
+B-Tressa - HP:4501/4891 SP:399/407 BP:3
+C-Therion - HP:4000/4447 SP:307/332 BP:0
+D-Partitio - HP:4501/4891 SP:284/314 BP:0
+Equipo del enemigo
+A-Heavenwing - HP:6184/6900 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Heavenwing usa Incinerate
+Z'aanta recibe 294 de daño elemental
+Tressa recibe 390 de daño elemental
+Therion se defiende
+Therion recibe 223 de daño elemental
+Partitio recibe 390 de daño elemental
+Z'aanta termina con HP:3363
+Tressa termina con HP:4111
+Therion termina con HP:3777
+Partitio termina con HP:4111
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3363/3222 SP:371/371 BP:4
+B-Tressa - HP:4111/4891 SP:399/407 BP:4
+C-Therion - HP:3777/4447 SP:307/332 BP:1
+D-Partitio - HP:4111/4891 SP:284/314 BP:0
+Equipo del enemigo
+A-Heavenwing - HP:6184/6900 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Z'aanta
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Heavenwing - HP:6184/6900 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Heavenwing recibe 61 de daño de tipo Dagger
+Heavenwing termina con HP:6123
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3363/3222 SP:371/371 BP:4
+B-Tressa - HP:4111/4891 SP:399/407 BP:4
+C-Therion - HP:3777/4447 SP:307/332 BP:1
+D-Partitio - HP:4111/4891 SP:284/314 BP:0
+Equipo del enemigo
+A-Heavenwing - HP:6123/6900 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Partitio
+3.Heavenwing
+4.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3363/3222 SP:371/371 BP:4
+B-Tressa - HP:4111/4891 SP:399/407 BP:4
+C-Therion - HP:3777/4447 SP:307/332 BP:1
+D-Partitio - HP:4111/4891 SP:284/314 BP:0
+Equipo del enemigo
+A-Heavenwing - HP:6123/6900 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Heavenwing
+3.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Therion
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3363/3222 SP:371/371 BP:4
+B-Tressa - HP:4111/4891 SP:399/407 BP:4
+C-Therion - HP:3777/4447 SP:307/332 BP:1
+D-Partitio - HP:4111/4891 SP:284/314 BP:0
+Equipo del enemigo
+A-Heavenwing - HP:6123/6900 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Partitio
+3.Therion
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Heavenwing usa Incinerate
+Z'aanta se defiende
+Z'aanta recibe 147 de daño elemental
+Tressa recibe 390 de daño elemental
+Therion recibe 447 de daño elemental
+Partitio se defiende
+Partitio recibe 195 de daño elemental
+Z'aanta termina con HP:3216
+Tressa termina con HP:3721
+Therion termina con HP:3330
+Partitio termina con HP:3916
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3216/3222 SP:371/371 BP:4
+B-Tressa - HP:3721/4891 SP:399/407 BP:4
+C-Therion - HP:3330/4447 SP:307/332 BP:1
+D-Partitio - HP:3916/4891 SP:284/314 BP:0
+Equipo del enemigo
+A-Heavenwing - HP:6123/6900 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Partitio
+3.Therion
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Lightning Bolt
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Heavenwing - HP:6123/6900 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa usa Tradewinds
+Heavenwing recibe 1170 de daño de tipo Wind
+Heavenwing termina con HP:4953
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3216/3222 SP:371/371 BP:5
+B-Tressa - HP:3721/4891 SP:392/407 BP:2
+C-Therion - HP:3330/4447 SP:307/332 BP:2
+D-Partitio - HP:3916/4891 SP:284/314 BP:1
+Equipo del enemigo
+A-Heavenwing - HP:4953/6900 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Partitio
+3.Therion
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3216/3222 SP:371/371 BP:5
+B-Tressa - HP:3721/4891 SP:392/407 BP:2
+C-Therion - HP:3330/4447 SP:307/332 BP:2
+D-Partitio - HP:3916/4891 SP:284/314 BP:1
+Equipo del enemigo
+A-Heavenwing - HP:4953/6900 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Therion
+3.Heavenwing
+4.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Therion
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3216/3222 SP:371/371 BP:5
+B-Tressa - HP:3721/4891 SP:392/407 BP:2
+C-Therion - HP:3330/4447 SP:307/332 BP:2
+D-Partitio - HP:3916/4891 SP:284/314 BP:1
+Equipo del enemigo
+A-Heavenwing - HP:4953/6900 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Heavenwing
+3.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Partitio
+3.Therion
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Heavenwing - HP:4953/6900 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Heavenwing recibe 61 de daño de tipo Dagger
+Heavenwing recibe 61 de daño de tipo Dagger
+Heavenwing termina con HP:4831
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3216/3222 SP:371/371 BP:5
+B-Tressa - HP:3721/4891 SP:392/407 BP:2
+C-Therion - HP:3330/4447 SP:307/332 BP:2
+D-Partitio - HP:3916/4891 SP:284/314 BP:1
+Equipo del enemigo
+A-Heavenwing - HP:4831/6900 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Partitio
+3.Therion
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Heavenwing usa Incinerate
+Z'aanta se defiende
+Z'aanta recibe 147 de daño elemental
+Tressa recibe 390 de daño elemental
+Therion recibe 447 de daño elemental
+Partitio se defiende
+Partitio recibe 195 de daño elemental
+Z'aanta termina con HP:3069
+Tressa termina con HP:3331
+Therion termina con HP:2883
+Partitio termina con HP:3721
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3069/3222 SP:371/371 BP:5
+B-Tressa - HP:3331/4891 SP:392/407 BP:2
+C-Therion - HP:2883/4447 SP:307/332 BP:2
+D-Partitio - HP:3721/4891 SP:284/314 BP:1
+Equipo del enemigo
+A-Heavenwing - HP:4831/6900 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Partitio
+3.Therion
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Lightning Bolt
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Heavenwing - HP:4831/6900 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Tradewinds
+Heavenwing recibe 90 de daño de tipo Wind
+Heavenwing termina con HP:4741
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3069/3222 SP:371/371 BP:5
+B-Tressa - HP:3331/4891 SP:385/407 BP:3
+C-Therion - HP:2883/4447 SP:307/332 BP:3
+D-Partitio - HP:3721/4891 SP:284/314 BP:2
+Equipo del enemigo
+A-Heavenwing - HP:4741/6900 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Partitio
+3.Therion
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3069/3222 SP:371/371 BP:5
+B-Tressa - HP:3331/4891 SP:385/407 BP:3
+C-Therion - HP:2883/4447 SP:307/332 BP:3
+D-Partitio - HP:3721/4891 SP:284/314 BP:2
+Equipo del enemigo
+A-Heavenwing - HP:4741/6900 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Therion
+3.Heavenwing
+4.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Therion
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Heavenwing - HP:4741/6900 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Heavenwing recibe 162 de daño de tipo Spear con debilidad
+Heavenwing termina con HP:4579
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3069/3222 SP:371/371 BP:5
+B-Tressa - HP:3331/4891 SP:385/407 BP:3
+C-Therion - HP:2883/4447 SP:307/332 BP:3
+D-Partitio - HP:3721/4891 SP:284/314 BP:2
+Equipo del enemigo
+A-Heavenwing - HP:4579/6900 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Heavenwing
+3.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Therion
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Heavenwing - HP:4579/6900 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Heavenwing recibe 61 de daño de tipo Sword
+Heavenwing termina con HP:4518
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3069/3222 SP:371/371 BP:5
+B-Tressa - HP:3331/4891 SP:385/407 BP:3
+C-Therion - HP:2883/4447 SP:307/332 BP:3
+D-Partitio - HP:3721/4891 SP:284/314 BP:2
+Equipo del enemigo
+A-Heavenwing - HP:4518/6900 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Therion
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Heavenwing usa Incinerate
+Z'aanta se defiende
+Z'aanta recibe 147 de daño elemental
+Tressa recibe 390 de daño elemental
+Therion recibe 447 de daño elemental
+Partitio recibe 390 de daño elemental
+Z'aanta termina con HP:2922
+Tressa termina con HP:2941
+Therion termina con HP:2436
+Partitio termina con HP:3331
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2922/3222 SP:371/371 BP:5
+B-Tressa - HP:2941/4891 SP:385/407 BP:3
+C-Therion - HP:2436/4447 SP:307/332 BP:3
+D-Partitio - HP:3331/4891 SP:284/314 BP:2
+Equipo del enemigo
+A-Heavenwing - HP:4518/6900 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Therion
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Lightning Bolt
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Heavenwing - HP:4518/6900 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa usa Tradewinds
+Heavenwing recibe 1710 de daño de tipo Wind
+Heavenwing termina con HP:2808
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2922/3222 SP:371/371 BP:5
+B-Tressa - HP:2941/4891 SP:378/407 BP:0
+C-Therion - HP:2436/4447 SP:307/332 BP:4
+D-Partitio - HP:3331/4891 SP:284/314 BP:3
+Equipo del enemigo
+A-Heavenwing - HP:2808/6900 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Therion
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Heavenwing - HP:2808/6900 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Heavenwing recibe 86 de daño de tipo Axe
+Heavenwing termina con HP:2722
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2922/3222 SP:371/371 BP:5
+B-Tressa - HP:2941/4891 SP:378/407 BP:0
+C-Therion - HP:2436/4447 SP:307/332 BP:4
+D-Partitio - HP:3331/4891 SP:284/314 BP:3
+Equipo del enemigo
+A-Heavenwing - HP:2722/6900 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Partitio
+3.Heavenwing
+4.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Heal More
+2: Aelfric's Auspices
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Z'aanta - HP:2922/3222 SP:371/371 BP:5
+2: Tressa - HP:2941/4891 SP:378/407 BP:0
+3: Therion - HP:2436/4447 SP:307/332 BP:4
+4: Partitio - HP:3331/4891 SP:284/314 BP:3
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Therion usa Aelfric's Auspices
+Partitio activará sus habilidades 2 veces durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2922/3222 SP:371/371 BP:5
+B-Tressa - HP:2941/4891 SP:378/407 BP:0
+C-Therion - HP:2436/4447 SP:277/332 BP:1
+D-Partitio - HP:3331/4891 SP:284/314 BP:3
+Equipo del enemigo
+A-Heavenwing - HP:2722/6900 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Heavenwing
+3.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Aelfric's Auspices
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Z'aanta - HP:2922/3222 SP:371/371 BP:5
+2: Tressa - HP:2941/4891 SP:378/407 BP:0
+3: Therion - HP:2436/4447 SP:277/332 BP:1
+4: Partitio - HP:3331/4891 SP:284/314 BP:3
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Partitio usa Aelfric's Auspices
+Partitio activará sus habilidades 2 veces durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2922/3222 SP:371/371 BP:5
+B-Tressa - HP:2941/4891 SP:378/407 BP:0
+C-Therion - HP:2436/4447 SP:277/332 BP:1
+D-Partitio - HP:3331/4891 SP:254/314 BP:0
+Equipo del enemigo
+A-Heavenwing - HP:2722/6900 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Heavenwing usa Incinerate
+Z'aanta recibe 294 de daño elemental
+Tressa recibe 390 de daño elemental
+Therion recibe 447 de daño elemental
+Partitio recibe 390 de daño elemental
+Z'aanta termina con HP:2628
+Tressa termina con HP:2551
+Therion termina con HP:1989
+Partitio termina con HP:2941
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2628/3222 SP:371/371 BP:5
+B-Tressa - HP:2551/4891 SP:378/407 BP:0
+C-Therion - HP:1989/4447 SP:277/332 BP:1
+D-Partitio - HP:2941/4891 SP:254/314 BP:0
+Equipo del enemigo
+A-Heavenwing - HP:2722/6900 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Lightning Bolt
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Tressa usa Lightning Bolt
+Heavenwing recibe 90 de daño de tipo Lightning
+Heavenwing termina con HP:2632
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2628/3222 SP:371/371 BP:5
+B-Tressa - HP:2551/4891 SP:370/407 BP:1
+C-Therion - HP:1989/4447 SP:277/332 BP:1
+D-Partitio - HP:2941/4891 SP:254/314 BP:0
+Equipo del enemigo
+A-Heavenwing - HP:2632/6900 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Z'aanta
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Therion usa Heal More
+Z'aanta recupera 592 de vida
+Tressa recupera 592 de vida
+Partitio recupera 592 de vida
+Therion recupera 592 de vida
+Z'aanta termina con HP:3220
+Tressa termina con HP:3143
+Partitio termina con HP:3533
+Therion termina con HP:2581
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3220/3222 SP:371/371 BP:5
+B-Tressa - HP:3143/4891 SP:370/407 BP:1
+C-Therion - HP:2581/4447 SP:252/332 BP:0
+D-Partitio - HP:3533/4891 SP:254/314 BP:0
+Equipo del enemigo
+A-Heavenwing - HP:2632/6900 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Partitio
+3.Heavenwing
+4.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Heavenwing - HP:2632/6900 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Heavenwing recibe 129 de daño de tipo Bow con debilidad
+Heavenwing termina con HP:2503
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3220/3222 SP:371/371 BP:5
+B-Tressa - HP:3143/4891 SP:370/407 BP:1
+C-Therion - HP:2581/4447 SP:252/332 BP:0
+D-Partitio - HP:3533/4891 SP:254/314 BP:0
+Equipo del enemigo
+A-Heavenwing - HP:2503/6900 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Heavenwing
+3.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Heavenwing - HP:2503/6900 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Partitio ataca
+Heavenwing recibe 162 de daño de tipo Bow con debilidad
+Heavenwing termina con HP:2341
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3220/3222 SP:371/371 BP:5
+B-Tressa - HP:3143/4891 SP:370/407 BP:1
+C-Therion - HP:2581/4447 SP:252/332 BP:0
+D-Partitio - HP:3533/4891 SP:254/314 BP:0
+Equipo del enemigo
+A-Heavenwing - HP:2341/6900 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Heavenwing usa Incinerate
+Z'aanta recibe 294 de daño elemental
+Tressa recibe 390 de daño elemental
+Therion recibe 447 de daño elemental
+Partitio recibe 390 de daño elemental
+Z'aanta termina con HP:2926
+Tressa termina con HP:2753
+Therion termina con HP:2134
+Partitio termina con HP:3143
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2926/3222 SP:371/371 BP:5
+B-Tressa - HP:2753/4891 SP:370/407 BP:1
+C-Therion - HP:2134/4447 SP:252/332 BP:0
+D-Partitio - HP:3143/4891 SP:254/314 BP:0
+Equipo del enemigo
+A-Heavenwing - HP:2341/6900 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Lightning Bolt
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Heavenwing - HP:2341/6900 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Tradewinds
+Heavenwing recibe 90 de daño de tipo Wind
+Heavenwing termina con HP:2251
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2926/3222 SP:371/371 BP:5
+B-Tressa - HP:2753/4891 SP:363/407 BP:2
+C-Therion - HP:2134/4447 SP:252/332 BP:0
+D-Partitio - HP:3143/4891 SP:254/314 BP:1
+Equipo del enemigo
+A-Heavenwing - HP:2251/6900 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Z'aanta
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Therion usa Heal More
+Z'aanta recupera 456 de vida
+Tressa recupera 456 de vida
+Partitio recupera 456 de vida
+Therion recupera 456 de vida
+Z'aanta termina con HP:3382
+Tressa termina con HP:3209
+Partitio termina con HP:3599
+Therion termina con HP:2590
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3382/3222 SP:371/371 BP:5
+B-Tressa - HP:3209/4891 SP:363/407 BP:2
+C-Therion - HP:2590/4447 SP:227/332 BP:0
+D-Partitio - HP:3599/4891 SP:254/314 BP:1
+Equipo del enemigo
+A-Heavenwing - HP:2251/6900 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Partitio
+3.Heavenwing
+4.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Z'aanta usa Heal More
+Tressa recupera 745 de vida
+Therion recupera 745 de vida
+Partitio recupera 745 de vida
+Z'aanta recupera 745 de vida
+Tressa termina con HP:3954
+Therion termina con HP:3335
+Partitio termina con HP:4344
+Z'aanta termina con HP:4127
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:4127/3222 SP:346/371 BP:3
+B-Tressa - HP:3954/4891 SP:363/407 BP:2
+C-Therion - HP:3335/4447 SP:227/332 BP:0
+D-Partitio - HP:4344/4891 SP:254/314 BP:1
+Equipo del enemigo
+A-Heavenwing - HP:2251/6900 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Heavenwing
+3.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Heavenwing - HP:2251/6900 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Heavenwing recibe 162 de daño de tipo Spear con debilidad
+Heavenwing entra en Breaking Point
+Heavenwing termina con HP:2089
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:4127/3222 SP:346/371 BP:3
+B-Tressa - HP:3954/4891 SP:363/407 BP:2
+C-Therion - HP:3335/4447 SP:227/332 BP:0
+D-Partitio - HP:4344/4891 SP:254/314 BP:1
+Equipo del enemigo
+A-Heavenwing - HP:2089/6900 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Partitio
+4.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Lightning Bolt
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Heavenwing - HP:2089/6900 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa usa Tradewinds
+Heavenwing recibe 1755 de daño de tipo Wind
+Heavenwing termina con HP:334
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:4127/3222 SP:346/371 BP:3
+B-Tressa - HP:3954/4891 SP:356/407 BP:0
+C-Therion - HP:3335/4447 SP:227/332 BP:1
+D-Partitio - HP:4344/4891 SP:254/314 BP:2
+Equipo del enemigo
+A-Heavenwing - HP:334/6900 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Z'aanta
+3.Partitio
+4.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heavenwing
+2.Therion
+3.Z'aanta
+4.Partitio
+5.Tressa
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:4127/3222 SP:346/371 BP:3
+B-Tressa - HP:3954/4891 SP:356/407 BP:0
+C-Therion - HP:3335/4447 SP:227/332 BP:1
+D-Partitio - HP:4344/4891 SP:254/314 BP:2
+Equipo del enemigo
+A-Heavenwing - HP:334/6900 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Partitio
+3.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heavenwing
+2.Therion
+3.Z'aanta
+4.Partitio
+5.Tressa
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Z'aanta usa Heal More
+Tressa recupera 605 de vida
+Therion recupera 605 de vida
+Partitio recupera 605 de vida
+Z'aanta recupera 605 de vida
+Tressa termina con HP:4559
+Therion termina con HP:3940
+Partitio termina con HP:4891
+Z'aanta termina con HP:4732
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:4732/3222 SP:321/371 BP:2
+B-Tressa - HP:4559/4891 SP:356/407 BP:0
+C-Therion - HP:3940/4447 SP:227/332 BP:1
+D-Partitio - HP:4891/4891 SP:254/314 BP:2
+Equipo del enemigo
+A-Heavenwing - HP:334/6900 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heavenwing
+2.Therion
+3.Z'aanta
+4.Partitio
+5.Tressa
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:4732/3222 SP:321/371 BP:2
+B-Tressa - HP:4559/4891 SP:356/407 BP:0
+C-Therion - HP:3940/4447 SP:227/332 BP:1
+D-Partitio - HP:4891/4891 SP:254/314 BP:2
+Equipo del enemigo
+A-Heavenwing - HP:334/6900 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heavenwing
+2.Therion
+3.Partitio
+4.Z'aanta
+5.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Lightning Bolt
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Heavenwing - HP:334/6900 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Tressa usa Tradewinds
+Heavenwing recibe 135 de daño de tipo Wind
+Heavenwing termina con HP:199
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:4732/3222 SP:321/371 BP:2
+B-Tressa - HP:4559/4891 SP:349/407 BP:1
+C-Therion - HP:3940/4447 SP:227/332 BP:2
+D-Partitio - HP:4891/4891 SP:254/314 BP:3
+Equipo del enemigo
+A-Heavenwing - HP:199/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Therion
+3.Partitio
+4.Z'aanta
+5.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Heavenwing usa Incinerate
+Z'aanta recibe 294 de daño elemental
+Tressa recibe 390 de daño elemental
+Therion recibe 447 de daño elemental
+Partitio recibe 390 de daño elemental
+Z'aanta termina con HP:4438
+Tressa termina con HP:4169
+Therion termina con HP:3493
+Partitio termina con HP:4501
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:4438/3222 SP:321/371 BP:2
+B-Tressa - HP:4169/4891 SP:349/407 BP:1
+C-Therion - HP:3493/4447 SP:227/332 BP:2
+D-Partitio - HP:4501/4891 SP:254/314 BP:3
+Equipo del enemigo
+A-Heavenwing - HP:199/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Partitio
+3.Z'aanta
+4.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:4438/3222 SP:321/371 BP:2
+B-Tressa - HP:4169/4891 SP:349/407 BP:1
+C-Therion - HP:3493/4447 SP:227/332 BP:2
+D-Partitio - HP:4501/4891 SP:254/314 BP:3
+Equipo del enemigo
+A-Heavenwing - HP:199/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Z'aanta
+3.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Heavenwing - HP:199/6900 Shields:7
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Heavenwing recibe 162 de daño de tipo Spear con debilidad
+Heavenwing termina con HP:37
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:4438/3222 SP:321/371 BP:2
+B-Tressa - HP:4169/4891 SP:349/407 BP:1
+C-Therion - HP:3493/4447 SP:227/332 BP:2
+D-Partitio - HP:4501/4891 SP:254/314 BP:3
+Equipo del enemigo
+A-Heavenwing - HP:37/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta usa Heal More
+Tressa recupera 466 de vida
+Therion recupera 466 de vida
+Partitio recupera 466 de vida
+Z'aanta recupera 466 de vida
+Tressa termina con HP:4635
+Therion termina con HP:3959
+Partitio termina con HP:4891
+Z'aanta termina con HP:4904
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:4904/3222 SP:296/371 BP:2
+B-Tressa - HP:4635/4891 SP:349/407 BP:1
+C-Therion - HP:3959/4447 SP:227/332 BP:2
+D-Partitio - HP:4891/4891 SP:254/314 BP:3
+Equipo del enemigo
+A-Heavenwing - HP:37/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Partitio
+4.Heavenwing
+5.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Lightning Bolt
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Heavenwing - HP:37/6900 Shields:6
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa usa Tradewinds
+Heavenwing recibe 630 de daño de tipo Wind
+Heavenwing termina con HP:0
+----------------------------------------
+Gana equipo del jugador

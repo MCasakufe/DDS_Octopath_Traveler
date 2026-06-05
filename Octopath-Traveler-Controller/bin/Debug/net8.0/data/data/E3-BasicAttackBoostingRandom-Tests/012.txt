@@ -1,0 +1,1738 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+INPUT: 11
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:1
+B-Alfyn - HP:5336/5336 SP:383/383 BP:1
+C-Hikari - HP:5781/5781 SP:317/317 BP:1
+D-H'aanit - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Lightning Elemental - HP:2133/2133 Shields:4
+C-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Hikari
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Elemental
+7.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Elemental
+7.Light Elemental
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Light Elemental - HP:1880/1880 Shields:4
+2: Lightning Elemental - HP:2133/2133 Shields:4
+3: Devourer of Dreams - HP:7500/7500 Shields:10
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+H'aanit ataca
+Lightning Elemental recibe 157 de daño de tipo Bow
+Lightning Elemental recibe 157 de daño de tipo Bow
+Lightning Elemental termina con HP:1819
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:1
+B-Alfyn - HP:5336/5336 SP:383/383 BP:1
+C-Hikari - HP:5781/5781 SP:317/317 BP:1
+D-H'aanit - HP:4447/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Lightning Elemental - HP:1819/2133 Shields:4
+C-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Alfyn
+3.Tressa
+4.Devourer of Dreams
+5.Lightning Elemental
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Light Elemental - HP:1880/1880 Shields:4
+2: Lightning Elemental - HP:1819/2133 Shields:4
+3: Devourer of Dreams - HP:7500/7500 Shields:10
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Hikari no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Hikari ataca
+Lightning Elemental recibe 204 de daño de tipo Spear
+Lightning Elemental recibe 204 de daño de tipo Spear
+Lightning Elemental termina con HP:1411
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:1
+B-Alfyn - HP:5336/5336 SP:383/383 BP:1
+C-Hikari - HP:5781/5781 SP:317/317 BP:0
+D-H'aanit - HP:4447/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Lightning Elemental - HP:1411/2133 Shields:4
+C-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Tressa
+3.Devourer of Dreams
+4.Lightning Elemental
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Light Elemental - HP:1880/1880 Shields:4
+2: Lightning Elemental - HP:1411/2133 Shields:4
+3: Devourer of Dreams - HP:7500/7500 Shields:10
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Alfyn no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Alfyn no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Alfyn ataca
+Devourer of Dreams recibe 94 de daño de tipo Axe
+Devourer of Dreams recibe 94 de daño de tipo Axe
+Devourer of Dreams termina con HP:7312
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:1
+B-Alfyn - HP:5336/5336 SP:383/383 BP:0
+C-Hikari - HP:5781/5781 SP:317/317 BP:0
+D-H'aanit - HP:4447/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Lightning Elemental - HP:1411/2133 Shields:4
+C-Devourer of Dreams - HP:7312/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Devourer of Dreams
+3.Lightning Elemental
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:1
+B-Alfyn - HP:5336/5336 SP:383/383 BP:0
+C-Hikari - HP:5781/5781 SP:317/317 BP:0
+D-H'aanit - HP:4447/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Lightning Elemental - HP:1411/2133 Shields:4
+C-Devourer of Dreams - HP:7312/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Lightning Elemental
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.H'aanit
+3.Hikari
+4.Alfyn
+5.Devourer of Dreams
+6.Lightning Elemental
+7.Light Elemental
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Tressa recibe 2446 de daño
+Alfyn recibe 2668 de daño
+Hikari recibe 2891 de daño
+H'aanit recibe 2224 de daño
+Tressa termina con HP:2445
+Alfyn termina con HP:2668
+Hikari termina con HP:2890
+H'aanit termina con HP:2223
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2445/4891 SP:357/357 BP:1
+B-Alfyn - HP:2668/5336 SP:383/383 BP:0
+C-Hikari - HP:2890/5781 SP:317/317 BP:0
+D-H'aanit - HP:2223/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Lightning Elemental - HP:1411/2133 Shields:4
+C-Devourer of Dreams - HP:7312/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.H'aanit
+3.Hikari
+4.Alfyn
+5.Devourer of Dreams
+6.Lightning Elemental
+7.Light Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Alfyn recibe 170 de daño elemental
+Alfyn termina con HP:2498
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2445/4891 SP:357/357 BP:1
+B-Alfyn - HP:2498/5336 SP:383/383 BP:0
+C-Hikari - HP:2890/5781 SP:317/317 BP:0
+D-H'aanit - HP:2223/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Lightning Elemental - HP:1411/2133 Shields:4
+C-Devourer of Dreams - HP:7312/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.H'aanit
+3.Hikari
+4.Alfyn
+5.Devourer of Dreams
+6.Lightning Elemental
+7.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn recibe 139 de daño elemental
+Alfyn termina con HP:2359
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2445/4891 SP:357/357 BP:2
+B-Alfyn - HP:2359/5336 SP:383/383 BP:0
+C-Hikari - HP:2890/5781 SP:317/317 BP:0
+D-H'aanit - HP:2223/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Lightning Elemental - HP:1411/2133 Shields:4
+C-Devourer of Dreams - HP:7312/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.H'aanit
+3.Hikari
+4.Alfyn
+5.Devourer of Dreams
+6.Lightning Elemental
+7.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2445/4891 SP:357/357 BP:2
+B-Alfyn - HP:2359/5336 SP:383/383 BP:0
+C-Hikari - HP:2890/5781 SP:317/317 BP:0
+D-H'aanit - HP:2223/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Lightning Elemental - HP:1411/2133 Shields:4
+C-Devourer of Dreams - HP:7312/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Hikari
+3.Alfyn
+4.Devourer of Dreams
+5.Lightning Elemental
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.H'aanit
+3.Hikari
+4.Alfyn
+5.Devourer of Dreams
+6.Lightning Elemental
+7.Light Elemental
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2445/4891 SP:357/357 BP:2
+B-Alfyn - HP:2359/5336 SP:383/383 BP:0
+C-Hikari - HP:2890/5781 SP:317/317 BP:0
+D-H'aanit - HP:2223/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Lightning Elemental - HP:1411/2133 Shields:4
+C-Devourer of Dreams - HP:7312/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Alfyn
+3.Devourer of Dreams
+4.Lightning Elemental
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Tressa
+3.Hikari
+4.Alfyn
+5.Devourer of Dreams
+6.Lightning Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2445/4891 SP:357/357 BP:2
+B-Alfyn - HP:2359/5336 SP:383/383 BP:0
+C-Hikari - HP:2890/5781 SP:317/317 BP:0
+D-H'aanit - HP:2223/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Lightning Elemental - HP:1411/2133 Shields:4
+C-Devourer of Dreams - HP:7312/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Devourer of Dreams
+3.Lightning Elemental
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Alfyn
+5.Devourer of Dreams
+6.Lightning Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:2445/4891 SP:357/357 BP:2
+B-Alfyn - HP:2359/5336 SP:383/383 BP:0
+C-Hikari - HP:2890/5781 SP:317/317 BP:0
+D-H'aanit - HP:2223/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Lightning Elemental - HP:1411/2133 Shields:4
+C-Devourer of Dreams - HP:7312/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Lightning Elemental
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Elemental
+7.Light Elemental
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Tressa recibe 1223 de daño
+Alfyn recibe 1180 de daño
+Hikari recibe 1445 de daño
+H'aanit recibe 1112 de daño
+Tressa termina con HP:1222
+Alfyn termina con HP:1179
+Hikari termina con HP:1445
+H'aanit termina con HP:1111
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:1222/4891 SP:357/357 BP:2
+B-Alfyn - HP:1179/5336 SP:383/383 BP:0
+C-Hikari - HP:1445/5781 SP:317/317 BP:0
+D-H'aanit - HP:1111/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Lightning Elemental - HP:1411/2133 Shields:4
+C-Devourer of Dreams - HP:7312/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Elemental
+7.Light Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Alfyn se defiende
+Alfyn recibe 85 de daño elemental
+Alfyn termina con HP:1094
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:1222/4891 SP:357/357 BP:2
+B-Alfyn - HP:1094/5336 SP:383/383 BP:0
+C-Hikari - HP:1445/5781 SP:317/317 BP:0
+D-H'aanit - HP:1111/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Lightning Elemental - HP:1411/2133 Shields:4
+C-Devourer of Dreams - HP:7312/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Elemental
+7.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn se defiende
+Alfyn recibe 69 de daño elemental
+Alfyn termina con HP:1025
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:1222/4891 SP:357/357 BP:3
+B-Alfyn - HP:1025/5336 SP:383/383 BP:1
+C-Hikari - HP:1445/5781 SP:317/317 BP:1
+D-H'aanit - HP:1111/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Lightning Elemental - HP:1411/2133 Shields:4
+C-Devourer of Dreams - HP:7312/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Hikari
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Elemental
+7.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Elemental
+7.Light Elemental
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Light Elemental - HP:1880/1880 Shields:4
+2: Lightning Elemental - HP:1411/2133 Shields:4
+3: Devourer of Dreams - HP:7312/7500 Shields:10
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+H'aanit no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+H'aanit no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+H'aanit ataca
+Devourer of Dreams recibe 104 de daño de tipo Axe
+Devourer of Dreams recibe 104 de daño de tipo Axe
+Devourer of Dreams termina con HP:7104
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:1222/4891 SP:357/357 BP:3
+B-Alfyn - HP:1025/5336 SP:383/383 BP:1
+C-Hikari - HP:1445/5781 SP:317/317 BP:1
+D-H'aanit - HP:1111/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Lightning Elemental - HP:1411/2133 Shields:4
+C-Devourer of Dreams - HP:7104/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Alfyn
+3.Tressa
+4.Devourer of Dreams
+5.Lightning Elemental
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:1222/4891 SP:357/357 BP:3
+B-Alfyn - HP:1025/5336 SP:383/383 BP:1
+C-Hikari - HP:1445/5781 SP:317/317 BP:1
+D-H'aanit - HP:1111/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Lightning Elemental - HP:1411/2133 Shields:4
+C-Devourer of Dreams - HP:7104/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Tressa
+3.Devourer of Dreams
+4.Lightning Elemental
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.H'aanit
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Light Elemental - HP:1880/1880 Shields:4
+2: Lightning Elemental - HP:1411/2133 Shields:4
+3: Devourer of Dreams - HP:7104/7500 Shields:10
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Alfyn no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Alfyn no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Alfyn no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Alfyn no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Alfyn no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Alfyn no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Alfyn no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Alfyn ataca
+Lightning Elemental recibe 147 de daño de tipo Axe
+Lightning Elemental recibe 147 de daño de tipo Axe
+Lightning Elemental termina con HP:1117
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:1222/4891 SP:357/357 BP:3
+B-Alfyn - HP:1025/5336 SP:383/383 BP:0
+C-Hikari - HP:1445/5781 SP:317/317 BP:1
+D-H'aanit - HP:1111/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Lightning Elemental - HP:1117/2133 Shields:4
+C-Devourer of Dreams - HP:7104/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Devourer of Dreams
+3.Lightning Elemental
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.H'aanit
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:1222/4891 SP:357/357 BP:3
+B-Alfyn - HP:1025/5336 SP:383/383 BP:0
+C-Hikari - HP:1445/5781 SP:317/317 BP:1
+D-H'aanit - HP:1111/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Lightning Elemental - HP:1117/2133 Shields:4
+C-Devourer of Dreams - HP:7104/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Lightning Elemental
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Tressa
+3.H'aanit
+4.Alfyn
+5.Devourer of Dreams
+6.Lightning Elemental
+7.Light Elemental
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Tressa recibe 611 de daño
+Alfyn recibe 513 de daño
+Hikari recibe 723 de daño
+H'aanit recibe 556 de daño
+Tressa termina con HP:611
+Alfyn termina con HP:512
+Hikari termina con HP:722
+H'aanit termina con HP:555
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:611/4891 SP:357/357 BP:3
+B-Alfyn - HP:512/5336 SP:383/383 BP:0
+C-Hikari - HP:722/5781 SP:317/317 BP:1
+D-H'aanit - HP:555/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Lightning Elemental - HP:1117/2133 Shields:4
+C-Devourer of Dreams - HP:7104/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Tressa
+3.H'aanit
+4.Alfyn
+5.Devourer of Dreams
+6.Lightning Elemental
+7.Light Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Alfyn recibe 170 de daño elemental
+Alfyn termina con HP:342
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:611/4891 SP:357/357 BP:3
+B-Alfyn - HP:342/5336 SP:383/383 BP:0
+C-Hikari - HP:722/5781 SP:317/317 BP:1
+D-H'aanit - HP:555/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Lightning Elemental - HP:1117/2133 Shields:4
+C-Devourer of Dreams - HP:7104/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Tressa
+3.H'aanit
+4.Alfyn
+5.Devourer of Dreams
+6.Lightning Elemental
+7.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn recibe 139 de daño elemental
+Alfyn termina con HP:203
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:611/4891 SP:357/357 BP:4
+B-Alfyn - HP:203/5336 SP:383/383 BP:0
+C-Hikari - HP:722/5781 SP:317/317 BP:2
+D-H'aanit - HP:555/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Lightning Elemental - HP:1117/2133 Shields:4
+C-Devourer of Dreams - HP:7104/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Tressa
+3.H'aanit
+4.Alfyn
+5.Devourer of Dreams
+6.Lightning Elemental
+7.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:611/4891 SP:357/357 BP:4
+B-Alfyn - HP:203/5336 SP:383/383 BP:0
+C-Hikari - HP:722/5781 SP:317/317 BP:2
+D-H'aanit - HP:555/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Lightning Elemental - HP:1117/2133 Shields:4
+C-Devourer of Dreams - HP:7104/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.H'aanit
+3.Alfyn
+4.Devourer of Dreams
+5.Lightning Elemental
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.H'aanit
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Light Elemental - HP:1880/1880 Shields:4
+2: Lightning Elemental - HP:1117/2133 Shields:4
+3: Devourer of Dreams - HP:7104/7500 Shields:10
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa ataca
+Lightning Elemental recibe 152 de daño de tipo Bow
+Lightning Elemental recibe 152 de daño de tipo Bow
+Lightning Elemental recibe 152 de daño de tipo Bow
+Lightning Elemental termina con HP:661
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:611/4891 SP:357/357 BP:2
+B-Alfyn - HP:203/5336 SP:383/383 BP:0
+C-Hikari - HP:722/5781 SP:317/317 BP:2
+D-H'aanit - HP:555/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Lightning Elemental - HP:661/2133 Shields:4
+C-Devourer of Dreams - HP:7104/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Alfyn
+3.Devourer of Dreams
+4.Lightning Elemental
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.H'aanit
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Elemental
+7.Light Elemental
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Light Elemental - HP:1880/1880 Shields:4
+2: Lightning Elemental - HP:661/2133 Shields:4
+3: Devourer of Dreams - HP:7104/7500 Shields:10
+4: Cancelar
+INPUT: 1
+----------------------------------------
+H'aanit ataca
+Light Elemental recibe 131 de daño de tipo Bow
+Light Elemental termina con HP:1749
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:611/4891 SP:357/357 BP:2
+B-Alfyn - HP:203/5336 SP:383/383 BP:0
+C-Hikari - HP:722/5781 SP:317/317 BP:2
+D-H'aanit - HP:555/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1749/1880 Shields:4
+B-Lightning Elemental - HP:661/2133 Shields:4
+C-Devourer of Dreams - HP:7104/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Devourer of Dreams
+3.Lightning Elemental
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.H'aanit
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Light Elemental - HP:1749/1880 Shields:4
+2: Lightning Elemental - HP:661/2133 Shields:4
+3: Devourer of Dreams - HP:7104/7500 Shields:10
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Alfyn ataca
+Light Elemental recibe 121 de daño de tipo Axe
+Light Elemental termina con HP:1628
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:611/4891 SP:357/357 BP:2
+B-Alfyn - HP:203/5336 SP:383/383 BP:0
+C-Hikari - HP:722/5781 SP:317/317 BP:2
+D-H'aanit - HP:555/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1628/1880 Shields:4
+B-Lightning Elemental - HP:661/2133 Shields:4
+C-Devourer of Dreams - HP:7104/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Lightning Elemental
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.H'aanit
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Elemental
+7.Light Elemental
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Tressa recibe 306 de daño
+Alfyn recibe 102 de daño
+Hikari recibe 361 de daño
+H'aanit recibe 278 de daño
+Tressa termina con HP:305
+Alfyn termina con HP:101
+Hikari termina con HP:361
+H'aanit termina con HP:277
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:305/4891 SP:357/357 BP:2
+B-Alfyn - HP:101/5336 SP:383/383 BP:0
+C-Hikari - HP:361/5781 SP:317/317 BP:2
+D-H'aanit - HP:277/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1628/1880 Shields:4
+B-Lightning Elemental - HP:661/2133 Shields:4
+C-Devourer of Dreams - HP:7104/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.H'aanit
+3.Alfyn
+4.Tressa
+5.Devourer of Dreams
+6.Lightning Elemental
+7.Light Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Alfyn recibe 170 de daño elemental
+Alfyn termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:305/4891 SP:357/357 BP:2
+B-Alfyn - HP:0/5336 SP:383/383 BP:0
+C-Hikari - HP:361/5781 SP:317/317 BP:2
+D-H'aanit - HP:277/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1628/1880 Shields:4
+B-Lightning Elemental - HP:661/2133 Shields:4
+C-Devourer of Dreams - HP:7104/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.H'aanit
+3.Tressa
+4.Devourer of Dreams
+5.Lightning Elemental
+6.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+H'aanit recibe 122 de daño elemental
+H'aanit termina con HP:155
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:305/4891 SP:357/357 BP:2
+B-Alfyn - HP:0/5336 SP:383/383 BP:0
+C-Hikari - HP:361/5781 SP:317/317 BP:3
+D-H'aanit - HP:155/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1628/1880 Shields:4
+B-Lightning Elemental - HP:661/2133 Shields:4
+C-Devourer of Dreams - HP:7104/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.H'aanit
+3.Tressa
+4.Devourer of Dreams
+5.Lightning Elemental
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Hikari
+3.Tressa
+4.Devourer of Dreams
+5.Lightning Elemental
+6.Light Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:305/4891 SP:357/357 BP:2
+B-Alfyn - HP:0/5336 SP:383/383 BP:0
+C-Hikari - HP:361/5781 SP:317/317 BP:3
+D-H'aanit - HP:155/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1628/1880 Shields:4
+B-Lightning Elemental - HP:661/2133 Shields:4
+C-Devourer of Dreams - HP:7104/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Tressa
+3.Devourer of Dreams
+4.Lightning Elemental
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.H'aanit
+3.Tressa
+4.Devourer of Dreams
+5.Lightning Elemental
+6.Light Elemental
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Light Elemental - HP:1628/1880 Shields:4
+2: Lightning Elemental - HP:661/2133 Shields:4
+3: Devourer of Dreams - HP:7104/7500 Shields:10
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+H'aanit no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+H'aanit ataca
+Light Elemental recibe 131 de daño de tipo Axe
+Light Elemental recibe 131 de daño de tipo Axe
+Light Elemental termina con HP:1366
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:305/4891 SP:357/357 BP:2
+B-Alfyn - HP:0/5336 SP:383/383 BP:0
+C-Hikari - HP:361/5781 SP:317/317 BP:3
+D-H'aanit - HP:155/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1366/1880 Shields:4
+B-Lightning Elemental - HP:661/2133 Shields:4
+C-Devourer of Dreams - HP:7104/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Devourer of Dreams
+3.Lightning Elemental
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.H'aanit
+3.Tressa
+4.Devourer of Dreams
+5.Lightning Elemental
+6.Light Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Light Elemental - HP:1366/1880 Shields:4
+2: Lightning Elemental - HP:661/2133 Shields:4
+3: Devourer of Dreams - HP:7104/7500 Shields:10
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Light Elemental recibe 126 de daño de tipo Spear
+Light Elemental recibe 126 de daño de tipo Spear
+Light Elemental termina con HP:1114
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:305/4891 SP:357/357 BP:1
+B-Alfyn - HP:0/5336 SP:383/383 BP:0
+C-Hikari - HP:361/5781 SP:317/317 BP:3
+D-H'aanit - HP:155/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1114/1880 Shields:4
+B-Lightning Elemental - HP:661/2133 Shields:4
+C-Devourer of Dreams - HP:7104/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Lightning Elemental
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.H'aanit
+3.Tressa
+4.Devourer of Dreams
+5.Lightning Elemental
+6.Light Elemental
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Tressa recibe 153 de daño
+Hikari recibe 181 de daño
+H'aanit recibe 78 de daño
+Tressa termina con HP:152
+Hikari termina con HP:180
+H'aanit termina con HP:77
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:152/4891 SP:357/357 BP:1
+B-Alfyn - HP:0/5336 SP:383/383 BP:0
+C-Hikari - HP:180/5781 SP:317/317 BP:3
+D-H'aanit - HP:77/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1114/1880 Shields:4
+B-Lightning Elemental - HP:661/2133 Shields:4
+C-Devourer of Dreams - HP:7104/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.H'aanit
+3.Tressa
+4.Devourer of Dreams
+5.Lightning Elemental
+6.Light Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+H'aanit recibe 153 de daño elemental
+H'aanit termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:152/4891 SP:357/357 BP:1
+B-Alfyn - HP:0/5336 SP:383/383 BP:0
+C-Hikari - HP:180/5781 SP:317/317 BP:3
+D-H'aanit - HP:0/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1114/1880 Shields:4
+B-Lightning Elemental - HP:661/2133 Shields:4
+C-Devourer of Dreams - HP:7104/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Tressa
+3.Devourer of Dreams
+4.Lightning Elemental
+5.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Hikari se defiende
+Hikari recibe 53 de daño elemental
+Hikari termina con HP:127
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:152/4891 SP:357/357 BP:1
+B-Alfyn - HP:0/5336 SP:383/383 BP:0
+C-Hikari - HP:127/5781 SP:317/317 BP:4
+D-H'aanit - HP:0/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1114/1880 Shields:4
+B-Lightning Elemental - HP:661/2133 Shields:4
+C-Devourer of Dreams - HP:7104/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Tressa
+3.Devourer of Dreams
+4.Lightning Elemental
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Tressa
+3.Devourer of Dreams
+4.Lightning Elemental
+5.Light Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Light Elemental - HP:1114/1880 Shields:4
+2: Lightning Elemental - HP:661/2133 Shields:4
+3: Devourer of Dreams - HP:7104/7500 Shields:10
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Hikari ataca
+Light Elemental recibe 178 de daño de tipo Sword
+Light Elemental recibe 178 de daño de tipo Sword
+Light Elemental termina con HP:758
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:152/4891 SP:357/357 BP:1
+B-Alfyn - HP:0/5336 SP:383/383 BP:0
+C-Hikari - HP:127/5781 SP:317/317 BP:3
+D-H'aanit - HP:0/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:758/1880 Shields:4
+B-Lightning Elemental - HP:661/2133 Shields:4
+C-Devourer of Dreams - HP:7104/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Devourer of Dreams
+3.Lightning Elemental
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Tressa
+3.Devourer of Dreams
+4.Lightning Elemental
+5.Light Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:152/4891 SP:357/357 BP:1
+B-Alfyn - HP:0/5336 SP:383/383 BP:0
+C-Hikari - HP:127/5781 SP:317/317 BP:3
+D-H'aanit - HP:0/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:758/1880 Shields:4
+B-Lightning Elemental - HP:661/2133 Shields:4
+C-Devourer of Dreams - HP:7104/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Lightning Elemental
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Hikari
+3.Devourer of Dreams
+4.Lightning Elemental
+5.Light Elemental
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Tressa recibe 76 de daño
+Hikari recibe 64 de daño
+Tressa termina con HP:76
+Hikari termina con HP:63
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:76/4891 SP:357/357 BP:1
+B-Alfyn - HP:0/5336 SP:383/383 BP:0
+C-Hikari - HP:63/5781 SP:317/317 BP:3
+D-H'aanit - HP:0/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:758/1880 Shields:4
+B-Lightning Elemental - HP:661/2133 Shields:4
+C-Devourer of Dreams - HP:7104/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Hikari
+3.Devourer of Dreams
+4.Lightning Elemental
+5.Light Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Hikari recibe 137 de daño elemental
+Hikari termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:76/4891 SP:357/357 BP:1
+B-Alfyn - HP:0/5336 SP:383/383 BP:0
+C-Hikari - HP:0/5781 SP:317/317 BP:3
+D-H'aanit - HP:0/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:758/1880 Shields:4
+B-Lightning Elemental - HP:661/2133 Shields:4
+C-Devourer of Dreams - HP:7104/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Devourer of Dreams
+3.Lightning Elemental
+4.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Tressa se defiende
+Tressa recibe 46 de daño elemental
+Tressa termina con HP:30
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:30/4891 SP:357/357 BP:2
+B-Alfyn - HP:0/5336 SP:383/383 BP:0
+C-Hikari - HP:0/5781 SP:317/317 BP:3
+D-H'aanit - HP:0/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:758/1880 Shields:4
+B-Lightning Elemental - HP:661/2133 Shields:4
+C-Devourer of Dreams - HP:7104/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Devourer of Dreams
+3.Lightning Elemental
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Devourer of Dreams
+3.Lightning Elemental
+4.Light Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Light Elemental - HP:758/1880 Shields:4
+2: Lightning Elemental - HP:661/2133 Shields:4
+3: Devourer of Dreams - HP:7104/7500 Shields:10
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Devourer of Dreams recibe 99 de daño de tipo Spear
+Devourer of Dreams recibe 99 de daño de tipo Spear
+Devourer of Dreams termina con HP:6906
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:30/4891 SP:357/357 BP:1
+B-Alfyn - HP:0/5336 SP:383/383 BP:0
+C-Hikari - HP:0/5781 SP:317/317 BP:3
+D-H'aanit - HP:0/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:758/1880 Shields:4
+B-Lightning Elemental - HP:661/2133 Shields:4
+C-Devourer of Dreams - HP:6906/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Lightning Elemental
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Devourer of Dreams
+3.Lightning Elemental
+4.Light Elemental
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Tressa recibe 15 de daño
+Tressa termina con HP:15
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:15/4891 SP:357/357 BP:1
+B-Alfyn - HP:0/5336 SP:383/383 BP:0
+C-Hikari - HP:0/5781 SP:317/317 BP:3
+D-H'aanit - HP:0/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:758/1880 Shields:4
+B-Lightning Elemental - HP:661/2133 Shields:4
+C-Devourer of Dreams - HP:6906/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Devourer of Dreams
+3.Lightning Elemental
+4.Light Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Tressa recibe 123 de daño elemental
+Tressa termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

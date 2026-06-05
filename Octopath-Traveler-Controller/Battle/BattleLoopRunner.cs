@@ -5,6 +5,10 @@ namespace Octopath_Traveler.Battle;
 
 public sealed class BattleLoopRunner
 {
+    private const int NoEligibleTravelers = 0;
+    private const int NoPendingPatienceTurns = 0;
+    private const int NoCurrentRoundParticipants = 0;
+    private const int FirstCurrentRoundParticipantIndex = 0;
     private const int RoundIncrement = 1;
 
     private readonly RoundTurnQueueBuilder _roundTurnQueueBuilder;
@@ -45,7 +49,7 @@ public sealed class BattleLoopRunner
     private RoundExecutionResult RunRound(BattleState battleState)
     {
         RoundExecutionState roundState = new();
-        PrintRoundStart(battleState, roundState);
+        WriteRoundStart(battleState, roundState);
 
         while (true)
         {
@@ -83,11 +87,11 @@ public sealed class BattleLoopRunner
     {
         IReadOnlyList<TravelerCombatUnit> eligibleTravelers =
             SelectPatienceExtraTurnEligibleTravelers(battleState, roundState);
-        if (eligibleTravelers.Count == 0)
+        if (eligibleTravelers.Count == NoEligibleTravelers)
             return RoundStepOutcome.StartNextRound;
 
         GrantPatienceExtraTurns(eligibleTravelers, roundState);
-        PrintBattleSnapshotIfRoundContinues(battleState, roundState);
+        WriteBattleSnapshotIfRoundContinues(battleState, roundState);
         return RoundStepOutcome.ContinueRound;
     }
 
@@ -96,37 +100,34 @@ public sealed class BattleLoopRunner
         BattleState battleState,
         RoundExecutionState roundState)
     {
-        MarkParticipantAsActed(participant, roundState);
+        roundState.MarkParticipantAsActed(participant);
         BattleWinner? winner = SelectBattleWinnerOrNull(battleState);
         if (winner is not null)
             return EndBattleWithWinner(winner.Value);
 
-        PrintBattleSnapshotIfRoundContinues(battleState, roundState);
+        WriteBattleSnapshotIfRoundContinues(battleState, roundState);
         return RoundStepOutcome.ContinueRound;
     }
 
     private RoundStepOutcome EndBattleWithWinner(BattleWinner winner)
     {
-        _battleConsoleView.PrintWinner(winner);
+        _battleConsoleView.WriteWinner(winner);
         return RoundStepOutcome.EndBattle;
     }
 
-    private static void MarkParticipantAsActed(TurnParticipant participant, RoundExecutionState roundState)
-        => roundState.ActedParticipants.Add(new TurnParticipantKey(participant.Side, participant.BoardSlotIndex));
-
-    private void PrintRoundStart(BattleState battleState, RoundExecutionState roundState)
+    private void WriteRoundStart(BattleState battleState, RoundExecutionState roundState)
     {
         RoundTurnQueues initialQueues = BuildRoundTurnQueues(battleState, roundState);
-        _battleConsoleView.PrintRoundState(battleState, initialQueues);
+        _battleConsoleView.WriteRoundState(battleState, initialQueues);
     }
 
     private TurnParticipant? GetNextRoundParticipant(
         BattleState battleState,
         RoundExecutionState roundState)
     {
-        while (roundState.PendingPatienceTravelerTurns.Count > 0)
+        while (roundState.HasPendingPatienceTurns())
         {
-            int boardSlotIndex = roundState.PendingPatienceTravelerTurns.Dequeue();
+            int boardSlotIndex = roundState.DequeuePendingPatienceTurn();
             TravelerCombatUnit traveler = battleState.TravelerTeam[boardSlotIndex];
             if (!traveler.IsAlive)
                 continue;
@@ -135,7 +136,10 @@ public sealed class BattleLoopRunner
         }
 
         RoundTurnQueues queues = _roundTurnQueueBuilder.BuildRoundTurnQueues(battleState, roundState.ActedParticipants);
-        return queues.CurrentRound.Count == 0 ? null : queues.CurrentRound[0];
+        IReadOnlyList<TurnParticipant> currentRoundQueue = queues.CurrentRound;
+        return currentRoundQueue.Count == NoCurrentRoundParticipants
+            ? null
+            : currentRoundQueue[FirstCurrentRoundParticipantIndex];
     }
 
     private TurnExecutionOutcome RunTurn(TurnParticipant participant, BattleState battleState)
@@ -183,38 +187,39 @@ public sealed class BattleLoopRunner
         return winner == BattleWinner.None ? null : winner;
     }
 
-    private void PrintBattleSnapshotIfRoundContinues(BattleState battleState, RoundExecutionState roundState)
+    private void WriteBattleSnapshotIfRoundContinues(BattleState battleState, RoundExecutionState roundState)
     {
         RoundTurnQueues updatedQueues = BuildRoundTurnQueues(battleState, roundState);
-        if (updatedQueues.CurrentRound.Count > 0)
-            _battleConsoleView.PrintBattleSnapshot(battleState, updatedQueues);
+        IReadOnlyList<TurnParticipant> currentRoundQueue = updatedQueues.CurrentRound;
+        if (currentRoundQueue.Count > NoCurrentRoundParticipants)
+            _battleConsoleView.WriteBattleSnapshot(battleState, updatedQueues);
     }
 
     private RoundTurnQueues BuildRoundTurnQueues(BattleState battleState, RoundExecutionState roundState)
     {
         RoundTurnQueues baseQueues =
             _roundTurnQueueBuilder.BuildRoundTurnQueues(battleState, roundState.ActedParticipants);
-        if (roundState.PendingPatienceTravelerTurns.Count == 0)
+        if (roundState.HasNoPendingPatienceTurns())
             return baseQueues;
 
-        List<TurnParticipant> pendingTravelerParticipants = roundState.PendingPatienceTravelerTurns
-            .Select(boardSlotIndex => battleState.TravelerTeam[boardSlotIndex])
+        List<TurnParticipant> pendingTravelerParticipants = roundState
+            .SelectPendingPatienceTravelers(battleState)
             .Where(traveler => traveler.IsAlive)
             .Select(BuildTravelerTurnParticipant)
             .ToList();
 
+        IReadOnlyList<TurnParticipant> baseCurrentRound = baseQueues.CurrentRound;
+        IReadOnlyList<TurnParticipant> baseNextRound = baseQueues.NextRound;
         List<TurnParticipant> currentQueue = pendingTravelerParticipants
-            .Concat(baseQueues.CurrentRound)
+            .Concat(baseCurrentRound)
             .ToList();
-        return new RoundTurnQueues(currentQueue, baseQueues.NextRound);
+        return new RoundTurnQueues(currentQueue, baseNextRound);
     }
 
     private IReadOnlyList<TravelerCombatUnit> SelectPatienceExtraTurnEligibleTravelers(
         BattleState battleState,
         RoundExecutionState roundState)
-        => battleState
-            .PassiveSkillNotifier
-            .SelectExtraTurnEligibleTravelers(roundState.TravelersWithGrantedPatienceTurn);
+        => roundState.SelectExtraTurnEligibleTravelers(battleState);
 
     private void GrantPatienceExtraTurns(
         IReadOnlyList<TravelerCombatUnit> eligibleTravelers,
@@ -222,16 +227,15 @@ public sealed class BattleLoopRunner
     {
         foreach (TravelerCombatUnit traveler in eligibleTravelers)
         {
-            roundState.TravelersWithGrantedPatienceTurn.Add(traveler.BoardSlotIndex);
-            roundState.PendingPatienceTravelerTurns.Enqueue(traveler.BoardSlotIndex);
-            _battleConsoleView.PrintPatienceExtraTurn(traveler.Name);
+            roundState.GrantPatienceTurn(traveler);
+            _battleConsoleView.WritePatienceExtraTurn(traveler.Name);
         }
     }
 
     private static TurnParticipant BuildTravelerTurnParticipant(TravelerCombatUnit traveler)
         => new(
             traveler.Name,
-            traveler.Speed,
+            traveler.GetEffectiveSpeed(),
             BattleSide.Traveler,
             traveler.BoardSlotIndex,
             HasRecoveryPriority: false,
@@ -256,7 +260,10 @@ public sealed class BattleLoopRunner
     }
 
     private static void ApplyTravelerRoundEndPassiveRecovery(BattleState battleState)
-        => battleState.PassiveSkillNotifier.NotifyRoundEnded();
+    {
+        PassiveSkillNotifier passiveSkillNotifier = battleState.PassiveSkillNotifier;
+        passiveSkillNotifier.NotifyRoundEnded();
+    }
 
     private static void PrepareTravelerRoundStates(BattleState battleState)
     {

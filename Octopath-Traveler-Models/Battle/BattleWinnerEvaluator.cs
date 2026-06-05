@@ -1,12 +1,5 @@
 namespace Octopath_Traveler_Models.Battle;
 
-public enum BattleWinner
-{
-    None,
-    TravelerTeam,
-    EnemyTeam
-}
-
 public sealed class BattleWinnerEvaluator
 {
     public BattleWinner EvaluateWinner(BattleState battleState)

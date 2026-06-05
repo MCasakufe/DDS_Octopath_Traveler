@@ -1,0 +1,347 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+INPUT: 16
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-Primrose - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ophilia
+3.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Meep
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Meep - HP:1016/1016 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Meep recibe 0 de daño de tipo Dagger
+Meep termina con HP:1016
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-Primrose - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Meep
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Heal More
+Primrose recupera 798 de vida
+Ophilia recupera 798 de vida
+Primrose termina con HP:4800
+Ophilia termina con HP:4002
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:445/470 BP:1
+B-Primrose - HP:4800/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Meep
+----------------------------------------
+Meep usa Attack
+Primrose recibe 288 de daño físico
+Primrose termina con HP:4512
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:445/470 BP:2
+B-Primrose - HP:4512/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ophilia
+3.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Meep
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Meep - HP:1016/1016 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Meep recibe 0 de daño de tipo Dagger
+Meep termina con HP:1016
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:445/470 BP:2
+B-Primrose - HP:4512/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Meep
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Heal More
+Primrose recupera 798 de vida
+Ophilia recupera 798 de vida
+Primrose termina con HP:5310
+Ophilia termina con HP:4002
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:420/470 BP:2
+B-Primrose - HP:5310/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Meep
+----------------------------------------
+Meep usa Attack
+Primrose recibe 288 de daño físico
+Primrose termina con HP:5022
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:420/470 BP:3
+B-Primrose - HP:5022/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ophilia
+3.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Meep
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Meep - HP:1016/1016 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Meep recibe 0 de daño de tipo Dagger
+Meep termina con HP:1016
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:420/470 BP:3
+B-Primrose - HP:5022/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Meep
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Heal More
+Primrose recupera 798 de vida
+Ophilia recupera 798 de vida
+Primrose termina con HP:5820
+Ophilia termina con HP:4002
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:395/470 BP:3
+B-Primrose - HP:5820/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Meep
+----------------------------------------
+Meep usa Attack
+Primrose recibe 288 de daño físico
+Primrose termina con HP:5532
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:395/470 BP:4
+B-Primrose - HP:5532/4002 SP:504/504 BP:4
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ophilia
+3.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.Meep
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo

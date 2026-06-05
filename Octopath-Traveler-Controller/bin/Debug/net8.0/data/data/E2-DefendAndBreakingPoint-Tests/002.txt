@@ -1,0 +1,459 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+INPUT: 1
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4447/4447 SP:369/369 BP:1
+B-Tressa - HP:4891/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Tressa
+3.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Tressa
+3.Meep
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Meep - HP:1016/1016 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Meep recibe 72 de daño de tipo Axe
+Meep termina con HP:944
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4447/4447 SP:369/369 BP:1
+B-Tressa - HP:4891/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Meep - HP:944/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Tressa
+3.Meep
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Meep - HP:944/1016 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Meep recibe 100 de daño de tipo Bow con debilidad
+Meep termina con HP:844
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4447/4447 SP:369/369 BP:1
+B-Tressa - HP:4891/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Meep - HP:844/1016 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Tressa
+3.Meep
+----------------------------------------
+Meep usa Attack
+Tressa recibe 185 de daño físico
+Tressa termina con HP:4706
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4447/4447 SP:369/369 BP:2
+B-Tressa - HP:4706/4891 SP:357/357 BP:2
+Equipo del enemigo
+A-Meep - HP:844/1016 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Tressa
+3.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Tressa
+3.Meep
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Meep - HP:844/1016 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Meep recibe 108 de daño de tipo Bow con debilidad
+Meep entra en Breaking Point
+Meep termina con HP:736
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4447/4447 SP:369/369 BP:2
+B-Tressa - HP:4706/4891 SP:357/357 BP:2
+Equipo del enemigo
+A-Meep - HP:736/1016 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Meep - HP:736/1016 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Meep recibe 100 de daño de tipo Spear
+Meep termina con HP:636
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4447/4447 SP:369/369 BP:3
+B-Tressa - HP:4706/4891 SP:357/357 BP:3
+Equipo del enemigo
+A-Meep - HP:636/1016 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Meep
+2.H'aanit
+3.Tressa
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Meep - HP:636/1016 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Meep recibe 144 de daño de tipo Bow con debilidad
+Meep termina con HP:492
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4447/4447 SP:369/369 BP:3
+B-Tressa - HP:4706/4891 SP:357/357 BP:3
+Equipo del enemigo
+A-Meep - HP:492/1016 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Meep
+2.H'aanit
+3.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Meep - HP:492/1016 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Meep recibe 134 de daño de tipo Bow con debilidad
+Meep termina con HP:358
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4447/4447 SP:369/369 BP:4
+B-Tressa - HP:4706/4891 SP:357/357 BP:4
+Equipo del enemigo
+A-Meep - HP:358/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.H'aanit
+3.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Tressa
+3.Meep
+----------------------------------------
+Meep usa Attack
+Tressa recibe 185 de daño físico
+Tressa termina con HP:4521
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4447/4447 SP:369/369 BP:4
+B-Tressa - HP:4521/4891 SP:357/357 BP:4
+Equipo del enemigo
+A-Meep - HP:358/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Tressa
+3.Meep
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Meep - HP:358/1016 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Meep recibe 108 de daño de tipo Bow con debilidad
+Meep termina con HP:250
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4447/4447 SP:369/369 BP:4
+B-Tressa - HP:4521/4891 SP:357/357 BP:4
+Equipo del enemigo
+A-Meep - HP:250/1016 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Tressa
+3.Meep
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Meep - HP:250/1016 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Meep recibe 100 de daño de tipo Bow con debilidad
+Meep entra en Breaking Point
+Meep termina con HP:150
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4447/4447 SP:369/369 BP:5
+B-Tressa - HP:4521/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:150/1016 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Meep
+2.H'aanit
+3.Tressa
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Meep - HP:150/1016 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Meep recibe 144 de daño de tipo Bow con debilidad
+Meep termina con HP:6
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4447/4447 SP:369/369 BP:5
+B-Tressa - HP:4521/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:6/1016 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Meep
+2.H'aanit
+3.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Meep - HP:6/1016 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Meep recibe 134 de daño de tipo Bow con debilidad
+Meep termina con HP:0
+----------------------------------------
+Gana equipo del jugador

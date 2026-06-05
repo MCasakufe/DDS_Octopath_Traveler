@@ -1,0 +1,4439 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+INPUT: 25
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Castti - HP:5336/5336 SP:476/476 BP:1
+C-Olberic - HP:5781/5781 SP:291/291 BP:1
+D-Throné - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Heavenwing - HP:6900/6900 Shields:7
+C-Lightning Elemental - HP:2133/2133 Shields:4
+D-Behemoth - HP:12690/12690 Shields:8
+E-Wind Elemental - HP:2496/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Primrose
+3.Castti
+4.Heavenwing
+5.Behemoth
+6.Olberic
+7.Dark Elemental
+8.Lightning Elemental
+9.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Castti
+4.Heavenwing
+5.Behemoth
+6.Olberic
+7.Dark Elemental
+8.Lightning Elemental
+9.Wind Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Fireball
+2: Cross Strike
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné usa Fireball
+Dark Elemental recibe 500 de daño de tipo Fire con debilidad
+Heavenwing recibe 2 de daño de tipo Fire
+Lightning Elemental recibe 230 de daño de tipo Fire con debilidad
+Behemoth recibe 2 de daño de tipo Fire
+Wind Elemental recibe 411 de daño de tipo Fire
+Dark Elemental termina con HP:1322
+Heavenwing termina con HP:6898
+Lightning Elemental termina con HP:1903
+Behemoth termina con HP:12688
+Wind Elemental termina con HP:2085
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Castti - HP:5336/5336 SP:476/476 BP:1
+C-Olberic - HP:5781/5781 SP:291/291 BP:1
+D-Throné - HP:4447/4447 SP:324/332 BP:1
+Equipo del enemigo
+A-Dark Elemental - HP:1322/1822 Shields:3
+B-Heavenwing - HP:6898/6900 Shields:7
+C-Lightning Elemental - HP:1903/2133 Shields:3
+D-Behemoth - HP:12688/12690 Shields:8
+E-Wind Elemental - HP:2085/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Castti
+3.Heavenwing
+4.Behemoth
+5.Olberic
+6.Dark Elemental
+7.Lightning Elemental
+8.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Castti
+4.Heavenwing
+5.Behemoth
+6.Olberic
+7.Dark Elemental
+8.Lightning Elemental
+9.Wind Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Icewind
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Icewind
+Dark Elemental recibe 651 de daño de tipo Ice
+Heavenwing recibe 319 de daño de tipo Ice
+Lightning Elemental recibe 471 de daño de tipo Ice
+Behemoth recibe 479 de daño de tipo Ice con debilidad
+Wind Elemental recibe 1093 de daño de tipo Ice con debilidad
+Dark Elemental termina con HP:671
+Heavenwing termina con HP:6579
+Lightning Elemental termina con HP:1432
+Behemoth termina con HP:12209
+Wind Elemental termina con HP:992
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:496/504 BP:1
+B-Castti - HP:5336/5336 SP:476/476 BP:1
+C-Olberic - HP:5781/5781 SP:291/291 BP:1
+D-Throné - HP:4447/4447 SP:324/332 BP:1
+Equipo del enemigo
+A-Dark Elemental - HP:671/1822 Shields:3
+B-Heavenwing - HP:6579/6900 Shields:7
+C-Lightning Elemental - HP:1432/2133 Shields:3
+D-Behemoth - HP:12209/12690 Shields:7
+E-Wind Elemental - HP:992/2496 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+4.Olberic
+5.Dark Elemental
+6.Lightning Elemental
+7.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Castti
+4.Heavenwing
+5.Behemoth
+6.Olberic
+7.Dark Elemental
+8.Lightning Elemental
+9.Wind Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:496/504 BP:1
+B-Castti - HP:5336/5336 SP:476/476 BP:1
+C-Olberic - HP:5781/5781 SP:291/291 BP:1
+D-Throné - HP:4447/4447 SP:324/332 BP:1
+Equipo del enemigo
+A-Dark Elemental - HP:671/1822 Shields:3
+B-Heavenwing - HP:6579/6900 Shields:7
+C-Lightning Elemental - HP:1432/2133 Shields:3
+D-Behemoth - HP:12209/12690 Shields:7
+E-Wind Elemental - HP:992/2496 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Behemoth
+3.Olberic
+4.Dark Elemental
+5.Lightning Elemental
+6.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Throné
+3.Primrose
+4.Heavenwing
+5.Behemoth
+6.Olberic
+7.Dark Elemental
+8.Lightning Elemental
+9.Wind Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Primrose recibe 343 de daño elemental
+Castti se defiende
+Castti recibe 173 de daño elemental
+Olberic recibe 404 de daño elemental
+Throné recibe 447 de daño elemental
+Primrose termina con HP:3659
+Castti termina con HP:5163
+Olberic termina con HP:5377
+Throné termina con HP:4000
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3659/4002 SP:496/504 BP:1
+B-Castti - HP:5163/5336 SP:476/476 BP:1
+C-Olberic - HP:5377/5781 SP:291/291 BP:1
+D-Throné - HP:4000/4447 SP:324/332 BP:1
+Equipo del enemigo
+A-Dark Elemental - HP:671/1822 Shields:3
+B-Heavenwing - HP:6579/6900 Shields:7
+C-Lightning Elemental - HP:1432/2133 Shields:3
+D-Behemoth - HP:12209/12690 Shields:7
+E-Wind Elemental - HP:992/2496 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+3.Dark Elemental
+4.Lightning Elemental
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Throné
+3.Primrose
+4.Heavenwing
+5.Behemoth
+6.Olberic
+7.Dark Elemental
+8.Lightning Elemental
+9.Wind Elemental
+----------------------------------------
+Behemoth usa Stampede
+Primrose recibe 526 de daño físico
+Castti se defiende
+Castti recibe 189 de daño físico
+Olberic recibe 428 de daño físico
+Throné recibe 785 de daño físico
+Primrose termina con HP:3133
+Castti termina con HP:4974
+Olberic termina con HP:4949
+Throné termina con HP:3215
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3133/4002 SP:496/504 BP:1
+B-Castti - HP:4974/5336 SP:476/476 BP:1
+C-Olberic - HP:4949/5781 SP:291/291 BP:1
+D-Throné - HP:3215/4447 SP:324/332 BP:1
+Equipo del enemigo
+A-Dark Elemental - HP:671/1822 Shields:3
+B-Heavenwing - HP:6579/6900 Shields:7
+C-Lightning Elemental - HP:1432/2133 Shields:3
+D-Behemoth - HP:12209/12690 Shields:7
+E-Wind Elemental - HP:992/2496 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Dark Elemental
+3.Lightning Elemental
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Throné
+3.Primrose
+4.Heavenwing
+5.Behemoth
+6.Olberic
+7.Dark Elemental
+8.Lightning Elemental
+9.Wind Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Dark Elemental - HP:671/1822 Shields:3
+2: Heavenwing - HP:6579/6900 Shields:7
+3: Lightning Elemental - HP:1432/2133 Shields:3
+4: Behemoth - HP:12209/12690 Shields:7
+5: Wind Elemental - HP:992/2496 Shields:3
+6: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Heavenwing recibe 452 de daño de tipo Spear con debilidad
+Heavenwing termina con HP:6127
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3133/4002 SP:496/504 BP:1
+B-Castti - HP:4974/5336 SP:476/476 BP:1
+C-Olberic - HP:4949/5781 SP:291/291 BP:1
+D-Throné - HP:3215/4447 SP:324/332 BP:1
+Equipo del enemigo
+A-Dark Elemental - HP:671/1822 Shields:3
+B-Heavenwing - HP:6127/6900 Shields:6
+C-Lightning Elemental - HP:1432/2133 Shields:3
+D-Behemoth - HP:12209/12690 Shields:7
+E-Wind Elemental - HP:992/2496 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Lightning Elemental
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Throné
+3.Primrose
+4.Heavenwing
+5.Behemoth
+6.Olberic
+7.Dark Elemental
+8.Lightning Elemental
+9.Wind Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Throné recibe 262 de daño elemental
+Throné termina con HP:2953
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3133/4002 SP:496/504 BP:1
+B-Castti - HP:4974/5336 SP:476/476 BP:1
+C-Olberic - HP:4949/5781 SP:291/291 BP:1
+D-Throné - HP:2953/4447 SP:324/332 BP:1
+Equipo del enemigo
+A-Dark Elemental - HP:671/1822 Shields:3
+B-Heavenwing - HP:6127/6900 Shields:6
+C-Lightning Elemental - HP:1432/2133 Shields:3
+D-Behemoth - HP:12209/12690 Shields:7
+E-Wind Elemental - HP:992/2496 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Throné
+3.Primrose
+4.Heavenwing
+5.Behemoth
+6.Olberic
+7.Dark Elemental
+8.Lightning Elemental
+9.Wind Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Throné recibe 180 de daño elemental
+Throné termina con HP:2773
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3133/4002 SP:496/504 BP:1
+B-Castti - HP:4974/5336 SP:476/476 BP:1
+C-Olberic - HP:4949/5781 SP:291/291 BP:1
+D-Throné - HP:2773/4447 SP:324/332 BP:1
+Equipo del enemigo
+A-Dark Elemental - HP:671/1822 Shields:3
+B-Heavenwing - HP:6127/6900 Shields:6
+C-Lightning Elemental - HP:1432/2133 Shields:3
+D-Behemoth - HP:12209/12690 Shields:7
+E-Wind Elemental - HP:992/2496 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Throné
+3.Primrose
+4.Heavenwing
+5.Behemoth
+6.Olberic
+7.Dark Elemental
+8.Lightning Elemental
+9.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Throné recibe 199 de daño elemental
+Throné termina con HP:2574
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3133/4002 SP:496/504 BP:2
+B-Castti - HP:4974/5336 SP:476/476 BP:2
+C-Olberic - HP:4949/5781 SP:291/291 BP:2
+D-Throné - HP:2574/4447 SP:324/332 BP:2
+Equipo del enemigo
+A-Dark Elemental - HP:671/1822 Shields:3
+B-Heavenwing - HP:6127/6900 Shields:6
+C-Lightning Elemental - HP:1432/2133 Shields:3
+D-Behemoth - HP:12209/12690 Shields:7
+E-Wind Elemental - HP:992/2496 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Throné
+3.Primrose
+4.Heavenwing
+5.Behemoth
+6.Olberic
+7.Dark Elemental
+8.Lightning Elemental
+9.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Castti
+4.Heavenwing
+5.Behemoth
+6.Olberic
+7.Dark Elemental
+8.Lightning Elemental
+9.Wind Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Dark Elemental - HP:671/1822 Shields:3
+2: Heavenwing - HP:6127/6900 Shields:6
+3: Lightning Elemental - HP:1432/2133 Shields:3
+4: Behemoth - HP:12209/12690 Shields:7
+5: Wind Elemental - HP:992/2496 Shields:3
+6: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Behemoth recibe 148 de daño de tipo Axe con debilidad
+Behemoth termina con HP:12061
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3133/4002 SP:496/504 BP:2
+B-Castti - HP:4974/5336 SP:476/476 BP:2
+C-Olberic - HP:4949/5781 SP:291/291 BP:2
+D-Throné - HP:2574/4447 SP:324/332 BP:2
+Equipo del enemigo
+A-Dark Elemental - HP:671/1822 Shields:3
+B-Heavenwing - HP:6127/6900 Shields:6
+C-Lightning Elemental - HP:1432/2133 Shields:3
+D-Behemoth - HP:12061/12690 Shields:6
+E-Wind Elemental - HP:992/2496 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Primrose
+3.Heavenwing
+4.Behemoth
+5.Olberic
+6.Dark Elemental
+7.Lightning Elemental
+8.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Castti
+4.Heavenwing
+5.Behemoth
+6.Olberic
+7.Dark Elemental
+8.Lightning Elemental
+9.Wind Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3133/4002 SP:496/504 BP:2
+B-Castti - HP:4974/5336 SP:476/476 BP:2
+C-Olberic - HP:4949/5781 SP:291/291 BP:2
+D-Throné - HP:2574/4447 SP:324/332 BP:2
+Equipo del enemigo
+A-Dark Elemental - HP:671/1822 Shields:3
+B-Heavenwing - HP:6127/6900 Shields:6
+C-Lightning Elemental - HP:1432/2133 Shields:3
+D-Behemoth - HP:12061/12690 Shields:6
+E-Wind Elemental - HP:992/2496 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Heavenwing
+3.Behemoth
+4.Olberic
+5.Dark Elemental
+6.Lightning Elemental
+7.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Castti
+4.Heavenwing
+5.Behemoth
+6.Olberic
+7.Dark Elemental
+8.Lightning Elemental
+9.Wind Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Icewind
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Icewind
+Dark Elemental recibe 651 de daño de tipo Ice
+Heavenwing recibe 319 de daño de tipo Ice
+Lightning Elemental recibe 471 de daño de tipo Ice
+Behemoth recibe 479 de daño de tipo Ice con debilidad
+Wind Elemental recibe 1093 de daño de tipo Ice con debilidad
+Dark Elemental termina con HP:20
+Heavenwing termina con HP:5808
+Lightning Elemental termina con HP:961
+Behemoth termina con HP:11582
+Wind Elemental termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3133/4002 SP:488/504 BP:2
+B-Castti - HP:4974/5336 SP:476/476 BP:2
+C-Olberic - HP:4949/5781 SP:291/291 BP:2
+D-Throné - HP:2574/4447 SP:324/332 BP:2
+Equipo del enemigo
+A-Dark Elemental - HP:20/1822 Shields:3
+B-Heavenwing - HP:5808/6900 Shields:6
+C-Lightning Elemental - HP:961/2133 Shields:3
+D-Behemoth - HP:11582/12690 Shields:5
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Behemoth
+3.Olberic
+4.Dark Elemental
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Castti
+4.Heavenwing
+5.Behemoth
+6.Olberic
+7.Dark Elemental
+8.Lightning Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Primrose recibe 343 de daño elemental
+Castti recibe 347 de daño elemental
+Olberic recibe 404 de daño elemental
+Throné se defiende
+Throné recibe 223 de daño elemental
+Primrose termina con HP:2790
+Castti termina con HP:4627
+Olberic termina con HP:4545
+Throné termina con HP:2351
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2790/4002 SP:488/504 BP:2
+B-Castti - HP:4627/5336 SP:476/476 BP:2
+C-Olberic - HP:4545/5781 SP:291/291 BP:2
+D-Throné - HP:2351/4447 SP:324/332 BP:2
+Equipo del enemigo
+A-Dark Elemental - HP:20/1822 Shields:3
+B-Heavenwing - HP:5808/6900 Shields:6
+C-Lightning Elemental - HP:961/2133 Shields:3
+D-Behemoth - HP:11582/12690 Shields:5
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+3.Dark Elemental
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Castti
+4.Heavenwing
+5.Behemoth
+6.Olberic
+7.Dark Elemental
+8.Lightning Elemental
+----------------------------------------
+Behemoth usa Stampede
+Primrose recibe 526 de daño físico
+Castti recibe 378 de daño físico
+Olberic recibe 428 de daño físico
+Throné se defiende
+Throné recibe 392 de daño físico
+Primrose termina con HP:2264
+Castti termina con HP:4249
+Olberic termina con HP:4117
+Throné termina con HP:1959
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2264/4002 SP:488/504 BP:2
+B-Castti - HP:4249/5336 SP:476/476 BP:2
+C-Olberic - HP:4117/5781 SP:291/291 BP:2
+D-Throné - HP:1959/4447 SP:324/332 BP:2
+Equipo del enemigo
+A-Dark Elemental - HP:20/1822 Shields:3
+B-Heavenwing - HP:5808/6900 Shields:6
+C-Lightning Elemental - HP:961/2133 Shields:3
+D-Behemoth - HP:11582/12690 Shields:5
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Dark Elemental
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Castti
+4.Heavenwing
+5.Behemoth
+6.Olberic
+7.Dark Elemental
+8.Lightning Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Dark Elemental - HP:20/1822 Shields:3
+2: Heavenwing - HP:5808/6900 Shields:6
+3: Lightning Elemental - HP:961/2133 Shields:3
+4: Behemoth - HP:11582/12690 Shields:5
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Heavenwing recibe 452 de daño de tipo Spear con debilidad
+Heavenwing termina con HP:5356
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2264/4002 SP:488/504 BP:2
+B-Castti - HP:4249/5336 SP:476/476 BP:2
+C-Olberic - HP:4117/5781 SP:291/291 BP:2
+D-Throné - HP:1959/4447 SP:324/332 BP:2
+Equipo del enemigo
+A-Dark Elemental - HP:20/1822 Shields:3
+B-Heavenwing - HP:5356/6900 Shields:5
+C-Lightning Elemental - HP:961/2133 Shields:3
+D-Behemoth - HP:11582/12690 Shields:5
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Castti
+4.Heavenwing
+5.Behemoth
+6.Olberic
+7.Dark Elemental
+8.Lightning Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Throné se defiende
+Throné recibe 131 de daño elemental
+Throné termina con HP:1828
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2264/4002 SP:488/504 BP:2
+B-Castti - HP:4249/5336 SP:476/476 BP:2
+C-Olberic - HP:4117/5781 SP:291/291 BP:2
+D-Throné - HP:1828/4447 SP:324/332 BP:2
+Equipo del enemigo
+A-Dark Elemental - HP:20/1822 Shields:3
+B-Heavenwing - HP:5356/6900 Shields:5
+C-Lightning Elemental - HP:961/2133 Shields:3
+D-Behemoth - HP:11582/12690 Shields:5
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Castti
+4.Heavenwing
+5.Behemoth
+6.Olberic
+7.Dark Elemental
+8.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Throné se defiende
+Throné recibe 90 de daño elemental
+Throné termina con HP:1738
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2264/4002 SP:488/504 BP:3
+B-Castti - HP:4249/5336 SP:476/476 BP:3
+C-Olberic - HP:4117/5781 SP:291/291 BP:3
+D-Throné - HP:1738/4447 SP:324/332 BP:3
+Equipo del enemigo
+A-Dark Elemental - HP:20/1822 Shields:3
+B-Heavenwing - HP:5356/6900 Shields:5
+C-Lightning Elemental - HP:961/2133 Shields:3
+D-Behemoth - HP:11582/12690 Shields:5
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Primrose
+3.Castti
+4.Heavenwing
+5.Behemoth
+6.Olberic
+7.Dark Elemental
+8.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Castti
+4.Heavenwing
+5.Behemoth
+6.Olberic
+7.Dark Elemental
+8.Lightning Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Dark Elemental - HP:20/1822 Shields:3
+2: Heavenwing - HP:5356/6900 Shields:5
+3: Lightning Elemental - HP:961/2133 Shields:3
+4: Behemoth - HP:11582/12690 Shields:5
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné ataca
+Dark Elemental recibe 0 de daño de tipo Sword
+Dark Elemental termina con HP:20
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2264/4002 SP:488/504 BP:3
+B-Castti - HP:4249/5336 SP:476/476 BP:3
+C-Olberic - HP:4117/5781 SP:291/291 BP:3
+D-Throné - HP:1738/4447 SP:324/332 BP:3
+Equipo del enemigo
+A-Dark Elemental - HP:20/1822 Shields:3
+B-Heavenwing - HP:5356/6900 Shields:5
+C-Lightning Elemental - HP:961/2133 Shields:3
+D-Behemoth - HP:11582/12690 Shields:5
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Castti
+3.Heavenwing
+4.Behemoth
+5.Olberic
+6.Dark Elemental
+7.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Castti
+4.Heavenwing
+5.Behemoth
+6.Olberic
+7.Dark Elemental
+8.Lightning Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Dark Elemental - HP:20/1822 Shields:3
+2: Heavenwing - HP:5356/6900 Shields:5
+3: Lightning Elemental - HP:961/2133 Shields:3
+4: Behemoth - HP:11582/12690 Shields:5
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Dark Elemental recibe 0 de daño de tipo Dagger
+Dark Elemental termina con HP:20
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2264/4002 SP:488/504 BP:3
+B-Castti - HP:4249/5336 SP:476/476 BP:3
+C-Olberic - HP:4117/5781 SP:291/291 BP:3
+D-Throné - HP:1738/4447 SP:324/332 BP:3
+Equipo del enemigo
+A-Dark Elemental - HP:20/1822 Shields:3
+B-Heavenwing - HP:5356/6900 Shields:5
+C-Lightning Elemental - HP:961/2133 Shields:3
+D-Behemoth - HP:11582/12690 Shields:5
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+4.Olberic
+5.Dark Elemental
+6.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Castti
+4.Heavenwing
+5.Behemoth
+6.Olberic
+7.Dark Elemental
+8.Lightning Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Dark Elemental - HP:20/1822 Shields:3
+2: Heavenwing - HP:5356/6900 Shields:5
+3: Lightning Elemental - HP:961/2133 Shields:3
+4: Behemoth - HP:11582/12690 Shields:5
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Behemoth recibe 99 de daño de tipo Axe con debilidad
+Behemoth termina con HP:11483
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2264/4002 SP:488/504 BP:3
+B-Castti - HP:4249/5336 SP:476/476 BP:3
+C-Olberic - HP:4117/5781 SP:291/291 BP:3
+D-Throné - HP:1738/4447 SP:324/332 BP:3
+Equipo del enemigo
+A-Dark Elemental - HP:20/1822 Shields:3
+B-Heavenwing - HP:5356/6900 Shields:5
+C-Lightning Elemental - HP:961/2133 Shields:3
+D-Behemoth - HP:11483/12690 Shields:4
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Behemoth
+3.Olberic
+4.Dark Elemental
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Castti
+4.Heavenwing
+5.Behemoth
+6.Olberic
+7.Dark Elemental
+8.Lightning Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Primrose recibe 343 de daño elemental
+Castti recibe 347 de daño elemental
+Olberic recibe 404 de daño elemental
+Throné recibe 447 de daño elemental
+Primrose termina con HP:1921
+Castti termina con HP:3902
+Olberic termina con HP:3713
+Throné termina con HP:1291
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1921/4002 SP:488/504 BP:3
+B-Castti - HP:3902/5336 SP:476/476 BP:3
+C-Olberic - HP:3713/5781 SP:291/291 BP:3
+D-Throné - HP:1291/4447 SP:324/332 BP:3
+Equipo del enemigo
+A-Dark Elemental - HP:20/1822 Shields:3
+B-Heavenwing - HP:5356/6900 Shields:5
+C-Lightning Elemental - HP:961/2133 Shields:3
+D-Behemoth - HP:11483/12690 Shields:4
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+3.Dark Elemental
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Castti
+4.Heavenwing
+5.Behemoth
+6.Olberic
+7.Dark Elemental
+8.Lightning Elemental
+----------------------------------------
+Behemoth usa Stampede
+Primrose recibe 526 de daño físico
+Castti recibe 378 de daño físico
+Olberic recibe 428 de daño físico
+Throné recibe 785 de daño físico
+Primrose termina con HP:1395
+Castti termina con HP:3524
+Olberic termina con HP:3285
+Throné termina con HP:506
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1395/4002 SP:488/504 BP:3
+B-Castti - HP:3524/5336 SP:476/476 BP:3
+C-Olberic - HP:3285/5781 SP:291/291 BP:3
+D-Throné - HP:506/4447 SP:324/332 BP:3
+Equipo del enemigo
+A-Dark Elemental - HP:20/1822 Shields:3
+B-Heavenwing - HP:5356/6900 Shields:5
+C-Lightning Elemental - HP:961/2133 Shields:3
+D-Behemoth - HP:11483/12690 Shields:4
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Dark Elemental
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Castti
+4.Heavenwing
+5.Behemoth
+6.Olberic
+7.Dark Elemental
+8.Lightning Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Cross Strike
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Dark Elemental - HP:20/1822 Shields:3
+2: Heavenwing - HP:5356/6900 Shields:5
+3: Lightning Elemental - HP:961/2133 Shields:3
+4: Behemoth - HP:11483/12690 Shields:4
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Olberic usa Cross Strike
+Heavenwing recibe 2675 de daño de tipo Sword
+Heavenwing termina con HP:2681
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1395/4002 SP:488/504 BP:3
+B-Castti - HP:3524/5336 SP:476/476 BP:3
+C-Olberic - HP:3285/5781 SP:279/291 BP:1
+D-Throné - HP:506/4447 SP:324/332 BP:3
+Equipo del enemigo
+A-Dark Elemental - HP:20/1822 Shields:3
+B-Heavenwing - HP:2681/6900 Shields:5
+C-Lightning Elemental - HP:961/2133 Shields:3
+D-Behemoth - HP:11483/12690 Shields:4
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Castti
+4.Heavenwing
+5.Behemoth
+6.Olberic
+7.Dark Elemental
+8.Lightning Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Throné recibe 262 de daño elemental
+Throné termina con HP:244
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1395/4002 SP:488/504 BP:3
+B-Castti - HP:3524/5336 SP:476/476 BP:3
+C-Olberic - HP:3285/5781 SP:279/291 BP:1
+D-Throné - HP:244/4447 SP:324/332 BP:3
+Equipo del enemigo
+A-Dark Elemental - HP:20/1822 Shields:3
+B-Heavenwing - HP:2681/6900 Shields:5
+C-Lightning Elemental - HP:961/2133 Shields:3
+D-Behemoth - HP:11483/12690 Shields:4
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Castti
+4.Heavenwing
+5.Behemoth
+6.Olberic
+7.Dark Elemental
+8.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Throné recibe 180 de daño elemental
+Throné termina con HP:64
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1395/4002 SP:488/504 BP:4
+B-Castti - HP:3524/5336 SP:476/476 BP:4
+C-Olberic - HP:3285/5781 SP:279/291 BP:1
+D-Throné - HP:64/4447 SP:324/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:20/1822 Shields:3
+B-Heavenwing - HP:2681/6900 Shields:5
+C-Lightning Elemental - HP:961/2133 Shields:3
+D-Behemoth - HP:11483/12690 Shields:4
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Primrose
+3.Castti
+4.Heavenwing
+5.Behemoth
+6.Olberic
+7.Dark Elemental
+8.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Castti
+4.Heavenwing
+5.Behemoth
+6.Olberic
+7.Dark Elemental
+8.Lightning Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Fireball
+2: Cross Strike
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Dark Elemental - HP:20/1822 Shields:3
+2: Heavenwing - HP:2681/6900 Shields:5
+3: Lightning Elemental - HP:961/2133 Shields:3
+4: Behemoth - HP:11483/12690 Shields:4
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné usa Cross Strike
+Behemoth recibe 226 de daño de tipo Sword
+Behemoth termina con HP:11257
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1395/4002 SP:488/504 BP:4
+B-Castti - HP:3524/5336 SP:476/476 BP:4
+C-Olberic - HP:3285/5781 SP:279/291 BP:1
+D-Throné - HP:64/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:20/1822 Shields:3
+B-Heavenwing - HP:2681/6900 Shields:5
+C-Lightning Elemental - HP:961/2133 Shields:3
+D-Behemoth - HP:11257/12690 Shields:4
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Castti
+3.Heavenwing
+4.Behemoth
+5.Olberic
+6.Dark Elemental
+7.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Castti
+4.Heavenwing
+5.Behemoth
+6.Olberic
+7.Dark Elemental
+8.Lightning Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Aelfric's Auspices
+2: Icewind
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Primrose usa Icewind
+Dark Elemental recibe 1030 de daño de tipo Ice
+Heavenwing recibe 809 de daño de tipo Ice
+Lightning Elemental recibe 910 de daño de tipo Ice
+Behemoth recibe 1214 de daño de tipo Ice con debilidad
+Dark Elemental termina con HP:0
+Heavenwing termina con HP:1872
+Lightning Elemental termina con HP:51
+Behemoth termina con HP:10043
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1395/4002 SP:480/504 BP:3
+B-Castti - HP:3524/5336 SP:476/476 BP:4
+C-Olberic - HP:3285/5781 SP:279/291 BP:1
+D-Throné - HP:64/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:1872/6900 Shields:5
+C-Lightning Elemental - HP:51/2133 Shields:3
+D-Behemoth - HP:10043/12690 Shields:3
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Primrose
+3.Castti
+4.Heavenwing
+5.Behemoth
+6.Olberic
+7.Lightning Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1395/4002 SP:480/504 BP:3
+B-Castti - HP:3524/5336 SP:476/476 BP:4
+C-Olberic - HP:3285/5781 SP:279/291 BP:1
+D-Throné - HP:64/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:1872/6900 Shields:5
+C-Lightning Elemental - HP:51/2133 Shields:3
+D-Behemoth - HP:10043/12690 Shields:3
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Behemoth
+3.Olberic
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Throné
+3.Primrose
+4.Heavenwing
+5.Behemoth
+6.Olberic
+7.Lightning Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Primrose recibe 343 de daño elemental
+Castti se defiende
+Castti recibe 173 de daño elemental
+Olberic recibe 404 de daño elemental
+Throné recibe 447 de daño elemental
+Primrose termina con HP:1052
+Castti termina con HP:3351
+Olberic termina con HP:2881
+Throné termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1052/4002 SP:480/504 BP:3
+B-Castti - HP:3351/5336 SP:476/476 BP:4
+C-Olberic - HP:2881/5781 SP:279/291 BP:1
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:1872/6900 Shields:5
+C-Lightning Elemental - HP:51/2133 Shields:3
+D-Behemoth - HP:10043/12690 Shields:3
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Primrose
+3.Heavenwing
+4.Behemoth
+5.Olberic
+6.Lightning Elemental
+----------------------------------------
+Behemoth usa Stampede
+Primrose recibe 526 de daño físico
+Castti se defiende
+Castti recibe 189 de daño físico
+Olberic recibe 428 de daño físico
+Primrose termina con HP:526
+Castti termina con HP:3162
+Olberic termina con HP:2453
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:526/4002 SP:480/504 BP:3
+B-Castti - HP:3162/5336 SP:476/476 BP:4
+C-Olberic - HP:2453/5781 SP:279/291 BP:1
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:1872/6900 Shields:5
+C-Lightning Elemental - HP:51/2133 Shields:3
+D-Behemoth - HP:10043/12690 Shields:3
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Primrose
+3.Heavenwing
+4.Behemoth
+5.Olberic
+6.Lightning Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Heavenwing - HP:1872/6900 Shields:5
+2: Lightning Elemental - HP:51/2133 Shields:3
+3: Behemoth - HP:10043/12690 Shields:3
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Lightning Elemental recibe 325 de daño de tipo Sword
+Lightning Elemental termina con HP:0
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:526/4002 SP:480/504 BP:3
+B-Castti - HP:3162/5336 SP:476/476 BP:5
+C-Olberic - HP:2453/5781 SP:279/291 BP:2
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:1872/6900 Shields:5
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:10043/12690 Shields:3
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Primrose
+3.Heavenwing
+4.Behemoth
+5.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Heavenwing
+4.Behemoth
+5.Olberic
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Ethereal Healing
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti usa Ethereal Healing
+Primrose tendrá restauración de HP durante 5 rondas
+Olberic tendrá restauración de HP durante 5 rondas
+Castti tendrá restauración de HP durante 5 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:526/4002 SP:480/504 BP:3
+B-Castti - HP:3695/5336 SP:446/476 BP:2
+C-Olberic - HP:2453/5781 SP:279/291 BP:2
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:1872/6900 Shields:5
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:10043/12690 Shields:3
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Heavenwing
+3.Behemoth
+4.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Heavenwing
+4.Behemoth
+5.Olberic
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Aelfric's Auspices
+2: Icewind
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Primrose - HP:526/4002 SP:480/504 BP:3
+2: Castti - HP:3695/5336 SP:446/476 BP:2
+3: Olberic - HP:2453/5781 SP:279/291 BP:2
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Primrose usa Aelfric's Auspices
+Castti activará sus habilidades 2 veces durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:926/4002 SP:450/504 BP:0
+B-Castti - HP:3695/5336 SP:446/476 BP:2
+C-Olberic - HP:2453/5781 SP:279/291 BP:2
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:1872/6900 Shields:5
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:10043/12690 Shields:3
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Behemoth
+3.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Heavenwing
+4.Behemoth
+5.Olberic
+----------------------------------------
+Heavenwing usa Incinerate
+Primrose recibe 343 de daño elemental
+Castti recibe 347 de daño elemental
+Olberic recibe 404 de daño elemental
+Primrose termina con HP:583
+Castti termina con HP:3348
+Olberic termina con HP:2049
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:583/4002 SP:450/504 BP:0
+B-Castti - HP:3348/5336 SP:446/476 BP:2
+C-Olberic - HP:2049/5781 SP:279/291 BP:2
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:1872/6900 Shields:5
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:10043/12690 Shields:3
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Heavenwing
+4.Behemoth
+5.Olberic
+----------------------------------------
+Behemoth usa Stampede
+Primrose recibe 526 de daño físico
+Castti recibe 378 de daño físico
+Olberic recibe 428 de daño físico
+Primrose termina con HP:57
+Castti termina con HP:2970
+Olberic termina con HP:1621
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:57/4002 SP:450/504 BP:0
+B-Castti - HP:2970/5336 SP:446/476 BP:2
+C-Olberic - HP:1621/5781 SP:279/291 BP:2
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:1872/6900 Shields:5
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:10043/12690 Shields:3
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Heavenwing
+4.Behemoth
+5.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:57/4002 SP:450/504 BP:0
+B-Castti - HP:2970/5336 SP:446/476 BP:2
+C-Olberic - HP:2199/5781 SP:279/291 BP:3
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:1872/6900 Shields:5
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:10043/12690 Shields:3
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Primrose
+3.Castti
+4.Heavenwing
+5.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Heavenwing
+4.Behemoth
+5.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Cross Strike
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Heavenwing - HP:1872/6900 Shields:5
+2: Behemoth - HP:10043/12690 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Cross Strike
+Heavenwing recibe 461 de daño de tipo Sword
+Heavenwing termina con HP:1411
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:57/4002 SP:450/504 BP:0
+B-Castti - HP:2970/5336 SP:446/476 BP:2
+C-Olberic - HP:2777/5781 SP:267/291 BP:3
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:1411/6900 Shields:5
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:10043/12690 Shields:3
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Castti
+3.Heavenwing
+4.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Heavenwing
+4.Behemoth
+5.Olberic
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Icewind
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Primrose usa Icewind
+Heavenwing recibe 213 de daño de tipo Ice
+Behemoth recibe 319 de daño de tipo Ice con debilidad
+Heavenwing termina con HP:1198
+Behemoth termina con HP:9724
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:457/4002 SP:442/504 BP:0
+B-Castti - HP:2970/5336 SP:446/476 BP:2
+C-Olberic - HP:2777/5781 SP:267/291 BP:3
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:1198/6900 Shields:5
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:9724/12690 Shields:2
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Heavenwing
+4.Behemoth
+5.Olberic
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Ethereal Healing
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti usa Ethereal Healing
+Primrose tendrá restauración de HP durante 4 rondas
+Primrose tendrá restauración de HP durante 4 rondas
+Olberic tendrá restauración de HP durante 4 rondas
+Olberic tendrá restauración de HP durante 4 rondas
+Castti tendrá restauración de HP durante 4 rondas
+Castti tendrá restauración de HP durante 4 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:457/4002 SP:442/504 BP:0
+B-Castti - HP:3503/5336 SP:416/476 BP:0
+C-Olberic - HP:2777/5781 SP:267/291 BP:3
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:1198/6900 Shields:5
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:9724/12690 Shields:2
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Heavenwing
+4.Behemoth
+5.Olberic
+----------------------------------------
+Heavenwing usa Incinerate
+Primrose recibe 343 de daño elemental
+Castti recibe 347 de daño elemental
+Olberic recibe 404 de daño elemental
+Primrose termina con HP:114
+Castti termina con HP:3156
+Olberic termina con HP:2373
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:114/4002 SP:442/504 BP:0
+B-Castti - HP:3156/5336 SP:416/476 BP:0
+C-Olberic - HP:2373/5781 SP:267/291 BP:3
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:1198/6900 Shields:5
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:9724/12690 Shields:2
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Heavenwing
+4.Behemoth
+5.Olberic
+----------------------------------------
+Behemoth usa Stampede
+Primrose recibe 526 de daño físico
+Castti recibe 378 de daño físico
+Olberic recibe 428 de daño físico
+Primrose termina con HP:0
+Castti termina con HP:2778
+Olberic termina con HP:1945
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:2778/5336 SP:416/476 BP:0
+C-Olberic - HP:1945/5781 SP:267/291 BP:4
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:1198/6900 Shields:5
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:9724/12690 Shields:2
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+4.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+4.Olberic
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Ethereal Healing
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Castti usa Ethereal Healing
+Olberic tendrá restauración de HP durante 2 rondas
+Olberic tendrá restauración de HP durante 2 rondas
+Castti tendrá restauración de HP durante 2 rondas
+Castti tendrá restauración de HP durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:3311/5336 SP:386/476 BP:0
+C-Olberic - HP:1945/5781 SP:267/291 BP:4
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:1198/6900 Shields:5
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:9724/12690 Shields:2
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Behemoth
+3.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+4.Olberic
+----------------------------------------
+Heavenwing usa Incinerate
+Castti recibe 347 de daño elemental
+Olberic recibe 404 de daño elemental
+Castti termina con HP:2964
+Olberic termina con HP:1541
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:2964/5336 SP:386/476 BP:0
+C-Olberic - HP:1541/5781 SP:267/291 BP:4
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:1198/6900 Shields:5
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:9724/12690 Shields:2
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+4.Olberic
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 378 de daño físico
+Olberic recibe 428 de daño físico
+Castti termina con HP:2586
+Olberic termina con HP:1113
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:2586/5336 SP:386/476 BP:0
+C-Olberic - HP:1113/5781 SP:267/291 BP:4
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:1198/6900 Shields:5
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:9724/12690 Shields:2
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+4.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Cross Strike
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Heavenwing - HP:1198/6900 Shields:5
+2: Behemoth - HP:9724/12690 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Olberic usa Cross Strike
+Behemoth recibe 2645 de daño de tipo Sword
+Behemoth termina con HP:7079
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:2586/5336 SP:386/476 BP:1
+C-Olberic - HP:1691/5781 SP:255/291 BP:2
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:1198/6900 Shields:5
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:7079/12690 Shields:2
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+4.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+4.Olberic
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Ethereal Healing
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Ethereal Healing
+Olberic tendrá restauración de HP durante 2 rondas
+Castti tendrá restauración de HP durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:3119/5336 SP:356/476 BP:1
+C-Olberic - HP:1691/5781 SP:255/291 BP:2
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:1198/6900 Shields:5
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:7079/12690 Shields:2
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Behemoth
+3.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+4.Olberic
+----------------------------------------
+Heavenwing usa Incinerate
+Castti recibe 347 de daño elemental
+Olberic recibe 404 de daño elemental
+Castti termina con HP:2772
+Olberic termina con HP:1287
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:2772/5336 SP:356/476 BP:1
+C-Olberic - HP:1287/5781 SP:255/291 BP:2
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:1198/6900 Shields:5
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:7079/12690 Shields:2
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+4.Olberic
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 378 de daño físico
+Olberic recibe 428 de daño físico
+Castti termina con HP:2394
+Olberic termina con HP:859
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:2394/5336 SP:356/476 BP:1
+C-Olberic - HP:859/5781 SP:255/291 BP:2
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:1198/6900 Shields:5
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:7079/12690 Shields:2
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+4.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Cross Strike
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Heavenwing - HP:1198/6900 Shields:5
+2: Behemoth - HP:7079/12690 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Cross Strike
+Behemoth recibe 431 de daño de tipo Sword
+Behemoth termina con HP:6648
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:2394/5336 SP:356/476 BP:2
+C-Olberic - HP:1437/5781 SP:243/291 BP:3
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:1198/6900 Shields:5
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:6648/12690 Shields:2
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+4.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+4.Olberic
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Heavenwing - HP:1198/6900 Shields:5
+2: Behemoth - HP:6648/12690 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Behemoth recibe 99 de daño de tipo Axe con debilidad
+Behemoth termina con HP:6549
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:2927/5336 SP:356/476 BP:2
+C-Olberic - HP:1437/5781 SP:243/291 BP:3
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:1198/6900 Shields:5
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:6549/12690 Shields:1
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Behemoth
+3.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+4.Olberic
+----------------------------------------
+Heavenwing usa Incinerate
+Castti recibe 347 de daño elemental
+Olberic recibe 404 de daño elemental
+Castti termina con HP:2580
+Olberic termina con HP:1033
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:2580/5336 SP:356/476 BP:2
+C-Olberic - HP:1033/5781 SP:243/291 BP:3
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:1198/6900 Shields:5
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:6549/12690 Shields:1
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+4.Olberic
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 378 de daño físico
+Olberic recibe 428 de daño físico
+Castti termina con HP:2202
+Olberic termina con HP:605
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:2202/5336 SP:356/476 BP:2
+C-Olberic - HP:605/5781 SP:243/291 BP:3
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:1198/6900 Shields:5
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:6549/12690 Shields:1
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+4.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:2202/5336 SP:356/476 BP:3
+C-Olberic - HP:1183/5781 SP:243/291 BP:4
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:1198/6900 Shields:5
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:6549/12690 Shields:1
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Castti
+3.Heavenwing
+4.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+4.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Heavenwing - HP:1198/6900 Shields:5
+2: Behemoth - HP:6549/12690 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Heavenwing recibe 301 de daño de tipo Spear con debilidad
+Heavenwing termina con HP:897
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:2202/5336 SP:356/476 BP:3
+C-Olberic - HP:1761/5781 SP:243/291 BP:4
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:897/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:6549/12690 Shields:1
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+4.Olberic
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Ethereal Healing
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti usa Ethereal Healing
+Olberic tendrá restauración de HP durante 3 rondas
+Castti tendrá restauración de HP durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:2735/5336 SP:326/476 BP:2
+C-Olberic - HP:1761/5781 SP:243/291 BP:4
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:897/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:6549/12690 Shields:1
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+4.Olberic
+----------------------------------------
+Heavenwing usa Incinerate
+Castti recibe 347 de daño elemental
+Olberic recibe 404 de daño elemental
+Castti termina con HP:2388
+Olberic termina con HP:1357
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:2388/5336 SP:326/476 BP:2
+C-Olberic - HP:1357/5781 SP:243/291 BP:4
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:897/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:6549/12690 Shields:1
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+4.Olberic
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 378 de daño físico
+Olberic recibe 428 de daño físico
+Castti termina con HP:2010
+Olberic termina con HP:929
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:2010/5336 SP:326/476 BP:2
+C-Olberic - HP:929/5781 SP:243/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:897/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:6549/12690 Shields:1
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+4.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+4.Olberic
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Ethereal Healing
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Ethereal Healing
+Olberic tendrá restauración de HP durante 2 rondas
+Castti tendrá restauración de HP durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:2543/5336 SP:296/476 BP:2
+C-Olberic - HP:929/5781 SP:243/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:897/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:6549/12690 Shields:1
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Behemoth
+3.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+4.Olberic
+----------------------------------------
+Heavenwing usa Incinerate
+Castti recibe 347 de daño elemental
+Olberic recibe 404 de daño elemental
+Castti termina con HP:2196
+Olberic termina con HP:525
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:2196/5336 SP:296/476 BP:2
+C-Olberic - HP:525/5781 SP:243/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:897/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:6549/12690 Shields:1
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+4.Olberic
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 378 de daño físico
+Olberic recibe 428 de daño físico
+Castti termina con HP:1818
+Olberic termina con HP:97
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:1818/5336 SP:296/476 BP:2
+C-Olberic - HP:97/5781 SP:243/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:897/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:6549/12690 Shields:1
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+4.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Cross Strike
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Heavenwing - HP:897/6900 Shields:4
+2: Behemoth - HP:6549/12690 Shields:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Cross Strike
+Behemoth recibe 431 de daño de tipo Sword
+Behemoth termina con HP:6118
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:1818/5336 SP:296/476 BP:3
+C-Olberic - HP:675/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:897/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:6118/12690 Shields:1
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+4.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+4.Olberic
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:2351/5336 SP:296/476 BP:3
+C-Olberic - HP:675/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:897/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:6118/12690 Shields:1
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Behemoth
+3.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+4.Olberic
+----------------------------------------
+Heavenwing usa Incinerate
+Castti se defiende
+Castti recibe 173 de daño elemental
+Olberic recibe 404 de daño elemental
+Castti termina con HP:2178
+Olberic termina con HP:271
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:2178/5336 SP:296/476 BP:3
+C-Olberic - HP:271/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:897/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:6118/12690 Shields:1
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+4.Olberic
+----------------------------------------
+Behemoth usa Stampede
+Castti se defiende
+Castti recibe 189 de daño físico
+Olberic recibe 428 de daño físico
+Castti termina con HP:1989
+Olberic termina con HP:0
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:1989/5336 SP:296/476 BP:4
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:897/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:6118/12690 Shields:1
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Heavenwing - HP:897/6900 Shields:4
+2: Behemoth - HP:6118/12690 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Heavenwing recibe 96 de daño de tipo Axe
+Heavenwing termina con HP:801
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:2522/5336 SP:296/476 BP:4
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:801/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:6118/12690 Shields:1
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Heavenwing usa Incinerate
+Castti recibe 347 de daño elemental
+Castti termina con HP:2175
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:2175/5336 SP:296/476 BP:4
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:801/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:6118/12690 Shields:1
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 378 de daño físico
+Castti termina con HP:1797
+----------------------------------------
+INICIA RONDA 14
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:1797/5336 SP:296/476 BP:5
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:801/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:6118/12690 Shields:1
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Ethereal Healing
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti usa Ethereal Healing
+Castti tendrá restauración de HP durante 5 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:2330/5336 SP:266/476 BP:2
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:801/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:6118/12690 Shields:1
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Heavenwing usa Incinerate
+Castti recibe 347 de daño elemental
+Castti termina con HP:1983
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:1983/5336 SP:266/476 BP:2
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:801/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:6118/12690 Shields:1
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 378 de daño físico
+Castti termina con HP:1605
+----------------------------------------
+INICIA RONDA 15
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:1605/5336 SP:266/476 BP:2
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:801/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:6118/12690 Shields:1
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Heavenwing - HP:801/6900 Shields:4
+2: Behemoth - HP:6118/12690 Shields:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Behemoth recibe 99 de daño de tipo Axe con debilidad
+Behemoth entra en Breaking Point
+Behemoth termina con HP:6019
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:2138/5336 SP:266/476 BP:2
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:801/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:6019/12690 Shields:0
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+----------------------------------------
+Heavenwing usa Incinerate
+Castti recibe 347 de daño elemental
+Castti termina con HP:1791
+----------------------------------------
+INICIA RONDA 16
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:1791/5336 SP:266/476 BP:3
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:801/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:6019/12690 Shields:0
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Castti
+3.Heavenwing
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Heavenwing - HP:801/6900 Shields:4
+2: Behemoth - HP:6019/12690 Shields:0
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti ataca
+Behemoth recibe 132 de daño de tipo Axe con debilidad
+Behemoth recibe 132 de daño de tipo Axe con debilidad
+Behemoth recibe 132 de daño de tipo Axe con debilidad
+Behemoth recibe 132 de daño de tipo Axe con debilidad
+Behemoth termina con HP:5491
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:2324/5336 SP:266/476 BP:0
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:801/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:5491/12690 Shields:0
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Castti
+3.Heavenwing
+----------------------------------------
+Heavenwing usa Incinerate
+Castti recibe 347 de daño elemental
+Castti termina con HP:1977
+----------------------------------------
+INICIA RONDA 17
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:1977/5336 SP:266/476 BP:0
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:801/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:5491/12690 Shields:8
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Castti
+3.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 378 de daño físico
+Castti termina con HP:1599
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:1599/5336 SP:266/476 BP:0
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:801/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:5491/12690 Shields:8
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Heavenwing - HP:801/6900 Shields:4
+2: Behemoth - HP:5491/12690 Shields:8
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Castti ataca
+Heavenwing recibe 96 de daño de tipo Axe
+Heavenwing termina con HP:705
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:2132/5336 SP:266/476 BP:0
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:705/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:5491/12690 Shields:8
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Heavenwing usa Incinerate
+Castti recibe 347 de daño elemental
+Castti termina con HP:1785
+----------------------------------------
+INICIA RONDA 18
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:1785/5336 SP:266/476 BP:1
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:705/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:5491/12690 Shields:8
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Heavenwing - HP:705/6900 Shields:4
+2: Behemoth - HP:5491/12690 Shields:8
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Heavenwing recibe 96 de daño de tipo Axe
+Heavenwing termina con HP:609
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:2318/5336 SP:266/476 BP:1
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:609/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:5491/12690 Shields:8
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Heavenwing usa Incinerate
+Castti recibe 347 de daño elemental
+Castti termina con HP:1971
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:1971/5336 SP:266/476 BP:1
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:609/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:5491/12690 Shields:8
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 378 de daño físico
+Castti termina con HP:1593
+----------------------------------------
+INICIA RONDA 19
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:1593/5336 SP:266/476 BP:2
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:609/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:5491/12690 Shields:8
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Heavenwing - HP:609/6900 Shields:4
+2: Behemoth - HP:5491/12690 Shields:8
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Heavenwing recibe 96 de daño de tipo Axe
+Heavenwing termina con HP:513
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:2126/5336 SP:266/476 BP:2
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:513/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:5491/12690 Shields:8
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Heavenwing usa Incinerate
+Castti recibe 347 de daño elemental
+Castti termina con HP:1779
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:1779/5336 SP:266/476 BP:2
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:513/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:5491/12690 Shields:8
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 378 de daño físico
+Castti termina con HP:1401
+----------------------------------------
+INICIA RONDA 20
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:1401/5336 SP:266/476 BP:3
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:513/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:5491/12690 Shields:8
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Heavenwing - HP:513/6900 Shields:4
+2: Behemoth - HP:5491/12690 Shields:8
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti ataca
+Heavenwing recibe 96 de daño de tipo Axe
+Heavenwing recibe 96 de daño de tipo Axe
+Heavenwing recibe 96 de daño de tipo Axe
+Heavenwing termina con HP:225
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:1934/5336 SP:266/476 BP:1
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:225/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:5491/12690 Shields:8
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Heavenwing usa Incinerate
+Castti recibe 347 de daño elemental
+Castti termina con HP:1587
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:1587/5336 SP:266/476 BP:1
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:225/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:5491/12690 Shields:8
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 378 de daño físico
+Castti termina con HP:1209
+----------------------------------------
+INICIA RONDA 21
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:1209/5336 SP:266/476 BP:1
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:225/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:5491/12690 Shields:8
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Heavenwing - HP:225/6900 Shields:4
+2: Behemoth - HP:5491/12690 Shields:8
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Heavenwing recibe 96 de daño de tipo Axe
+Heavenwing termina con HP:129
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:1742/5336 SP:266/476 BP:1
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:129/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:5491/12690 Shields:8
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Heavenwing usa Incinerate
+Castti recibe 347 de daño elemental
+Castti termina con HP:1395
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:1395/5336 SP:266/476 BP:1
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:129/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:5491/12690 Shields:8
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 378 de daño físico
+Castti termina con HP:1017
+----------------------------------------
+INICIA RONDA 22
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:1017/5336 SP:266/476 BP:2
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:129/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:5491/12690 Shields:8
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Ethereal Healing
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Ethereal Healing
+Castti tendrá restauración de HP durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:1550/5336 SP:236/476 BP:2
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:129/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:5491/12690 Shields:8
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Heavenwing usa Incinerate
+Castti recibe 347 de daño elemental
+Castti termina con HP:1203
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:1203/5336 SP:236/476 BP:2
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:129/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:5491/12690 Shields:8
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 378 de daño físico
+Castti termina con HP:825
+----------------------------------------
+INICIA RONDA 23
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:825/5336 SP:236/476 BP:3
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:129/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:5491/12690 Shields:8
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Heavenwing - HP:129/6900 Shields:4
+2: Behemoth - HP:5491/12690 Shields:8
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti ataca
+Heavenwing recibe 96 de daño de tipo Axe
+Heavenwing recibe 96 de daño de tipo Axe
+Heavenwing recibe 96 de daño de tipo Axe
+Heavenwing termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:1358/5336 SP:236/476 BP:1
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:0/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:5491/12690 Shields:8
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 378 de daño físico
+Castti termina con HP:980
+----------------------------------------
+INICIA RONDA 24
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:980/5336 SP:236/476 BP:1
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:0/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:5491/12690 Shields:8
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:5491/12690 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Behemoth recibe 99 de daño de tipo Axe con debilidad
+Behemoth termina con HP:5392
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:1513/5336 SP:236/476 BP:1
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:0/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:5392/12690 Shields:7
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 378 de daño físico
+Castti termina con HP:1135
+----------------------------------------
+INICIA RONDA 25
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:1135/5336 SP:236/476 BP:2
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:0/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:5392/12690 Shields:7
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:5392/12690 Shields:7
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Behemoth recibe 99 de daño de tipo Axe con debilidad
+Behemoth termina con HP:5293
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:1668/5336 SP:236/476 BP:2
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:0/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:5293/12690 Shields:6
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 378 de daño físico
+Castti termina con HP:1290
+----------------------------------------
+INICIA RONDA 26
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:1290/5336 SP:236/476 BP:3
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:0/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:5293/12690 Shields:6
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:5293/12690 Shields:6
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti ataca
+Behemoth recibe 99 de daño de tipo Axe con debilidad
+Behemoth recibe 99 de daño de tipo Axe con debilidad
+Behemoth recibe 99 de daño de tipo Axe con debilidad
+Behemoth recibe 99 de daño de tipo Axe con debilidad
+Behemoth termina con HP:4897
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:1823/5336 SP:236/476 BP:0
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:0/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:4897/12690 Shields:2
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 378 de daño físico
+Castti termina con HP:1445
+----------------------------------------
+INICIA RONDA 27
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:1445/5336 SP:236/476 BP:0
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:0/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:4897/12690 Shields:2
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:4897/12690 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Castti ataca
+Behemoth recibe 99 de daño de tipo Axe con debilidad
+Behemoth termina con HP:4798
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:1978/5336 SP:236/476 BP:0
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:0/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:4798/12690 Shields:1
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 378 de daño físico
+Castti termina con HP:1600
+----------------------------------------
+INICIA RONDA 28
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:1600/5336 SP:236/476 BP:1
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:0/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:4798/12690 Shields:1
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:4798/12690 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Behemoth recibe 99 de daño de tipo Axe con debilidad
+Behemoth entra en Breaking Point
+Behemoth termina con HP:4699
+----------------------------------------
+INICIA RONDA 29
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:2133/5336 SP:236/476 BP:2
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:0/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:4699/12690 Shields:0
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Castti
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:4699/12690 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Behemoth recibe 132 de daño de tipo Axe con debilidad
+Behemoth termina con HP:4567
+----------------------------------------
+INICIA RONDA 30
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:2666/5336 SP:236/476 BP:3
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:0/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:4567/12690 Shields:8
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Castti
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 378 de daño físico
+Castti termina con HP:2288
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:2288/5336 SP:236/476 BP:3
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:0/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:4567/12690 Shields:8
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:4567/12690 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti ataca
+Behemoth recibe 99 de daño de tipo Axe con debilidad
+Behemoth recibe 99 de daño de tipo Axe con debilidad
+Behemoth recibe 99 de daño de tipo Axe con debilidad
+Behemoth recibe 99 de daño de tipo Axe con debilidad
+Behemoth termina con HP:4171
+----------------------------------------
+INICIA RONDA 31
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:2821/5336 SP:236/476 BP:0
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:0/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:4171/12690 Shields:4
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:4171/12690 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Castti ataca
+Behemoth recibe 99 de daño de tipo Axe con debilidad
+Behemoth termina con HP:4072
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:3354/5336 SP:236/476 BP:0
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:0/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:4072/12690 Shields:3
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 378 de daño físico
+Castti termina con HP:2976
+----------------------------------------
+INICIA RONDA 32
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:2976/5336 SP:236/476 BP:1
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:0/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:4072/12690 Shields:3
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:4072/12690 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Behemoth recibe 99 de daño de tipo Axe con debilidad
+Behemoth termina con HP:3973
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:3509/5336 SP:236/476 BP:1
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:0/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:3973/12690 Shields:2
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 378 de daño físico
+Castti termina con HP:3131
+----------------------------------------
+INICIA RONDA 33
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:3131/5336 SP:236/476 BP:2
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:0/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:3973/12690 Shields:2
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:3973/12690 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Behemoth recibe 99 de daño de tipo Axe con debilidad
+Behemoth termina con HP:3874
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:3664/5336 SP:236/476 BP:2
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:0/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:3874/12690 Shields:1
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 378 de daño físico
+Castti termina con HP:3286
+----------------------------------------
+INICIA RONDA 34
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:3286/5336 SP:236/476 BP:3
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:0/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:3874/12690 Shields:1
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:3874/12690 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Behemoth recibe 99 de daño de tipo Axe con debilidad
+Behemoth entra en Breaking Point
+Behemoth termina con HP:3775
+----------------------------------------
+INICIA RONDA 35
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:3819/5336 SP:236/476 BP:4
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:0/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:3775/12690 Shields:0
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Castti
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:3775/12690 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti ataca
+Behemoth recibe 132 de daño de tipo Axe con debilidad
+Behemoth recibe 132 de daño de tipo Axe con debilidad
+Behemoth recibe 132 de daño de tipo Axe con debilidad
+Behemoth recibe 132 de daño de tipo Axe con debilidad
+Behemoth termina con HP:3247
+----------------------------------------
+INICIA RONDA 36
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:4352/5336 SP:236/476 BP:1
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:0/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:3247/12690 Shields:8
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Castti
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 378 de daño físico
+Castti termina con HP:3974
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4002 SP:442/504 BP:0
+B-Castti - HP:3974/5336 SP:236/476 BP:1
+C-Olberic - HP:0/5781 SP:231/291 BP:5
+D-Throné - HP:0/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:3
+B-Heavenwing - HP:0/6900 Shields:4
+C-Lightning Elemental - HP:0/2133 Shields:3
+D-Behemoth - HP:3247/12690 Shields:8
+E-Wind Elemental - HP:0/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo

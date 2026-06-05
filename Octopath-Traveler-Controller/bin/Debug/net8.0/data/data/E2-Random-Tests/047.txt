@@ -1,0 +1,1586 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 46
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:3322/3322 SP:392/392 BP:1
+B-Ophilia - HP:4002/4002 SP:470/470 BP:1
+C-Agnea - HP:4002/4002 SP:554/554 BP:1
+D-Castti - HP:5336/5336 SP:426/426 BP:1
+Equipo del enemigo
+A-Behemoth - HP:12690/12690 Shields:8
+B-Heavenwing - HP:6900/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Heatcore
+3.Ophilia
+4.Castti
+5.Heavenwing
+6.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heatcore
+3.Ophilia
+4.Castti
+5.Heavenwing
+6.Behemoth
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:3322/3322 SP:392/392 BP:1
+B-Ophilia - HP:4002/4002 SP:470/470 BP:1
+C-Agnea - HP:4002/4002 SP:554/554 BP:1
+D-Castti - HP:5336/5336 SP:426/426 BP:1
+Equipo del enemigo
+A-Behemoth - HP:12690/12690 Shields:8
+B-Heavenwing - HP:6900/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Ophilia
+3.Castti
+4.Heavenwing
+5.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heatcore
+3.Ophilia
+4.Castti
+5.Heavenwing
+6.Behemoth
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Behemoth - HP:12690/12690 Shields:8
+2: Heavenwing - HP:6900/6900 Shields:7
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore ataca
+Behemoth recibe 3 de daño de tipo Axe con debilidad
+Behemoth termina con HP:12687
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:3322/3322 SP:392/392 BP:1
+B-Ophilia - HP:4002/4002 SP:470/470 BP:1
+C-Agnea - HP:4002/4002 SP:554/554 BP:1
+D-Castti - HP:5336/5336 SP:426/426 BP:1
+Equipo del enemigo
+A-Behemoth - HP:12687/12690 Shields:7
+B-Heavenwing - HP:6900/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Castti
+3.Heavenwing
+4.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heatcore
+3.Ophilia
+4.Castti
+5.Heavenwing
+6.Behemoth
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Cross Strike
+2: Spearhead
+3: Vivify
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:3322/3322 SP:392/392 BP:1
+B-Ophilia - HP:4002/4002 SP:470/470 BP:1
+C-Agnea - HP:4002/4002 SP:554/554 BP:1
+D-Castti - HP:5336/5336 SP:426/426 BP:1
+Equipo del enemigo
+A-Behemoth - HP:12687/12690 Shields:7
+B-Heavenwing - HP:6900/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ophilia
+3.Heatcore
+4.Castti
+5.Heavenwing
+6.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:3322/3322 SP:392/392 BP:1
+B-Ophilia - HP:4002/4002 SP:470/470 BP:1
+C-Agnea - HP:4002/4002 SP:554/554 BP:1
+D-Castti - HP:5336/5336 SP:426/426 BP:1
+Equipo del enemigo
+A-Behemoth - HP:12687/12690 Shields:7
+B-Heavenwing - HP:6900/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ophilia
+3.Castti
+4.Heatcore
+5.Heavenwing
+6.Behemoth
+----------------------------------------
+Heavenwing usa Incinerate
+Heatcore recibe 422 de daño elemental
+Ophilia se defiende
+Ophilia recibe 138 de daño elemental
+Agnea se defiende
+Agnea recibe 171 de daño elemental
+Castti se defiende
+Castti recibe 173 de daño elemental
+Heatcore termina con HP:2900
+Ophilia termina con HP:3864
+Agnea termina con HP:3831
+Castti termina con HP:5163
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2900/3322 SP:392/392 BP:1
+B-Ophilia - HP:3864/4002 SP:470/470 BP:1
+C-Agnea - HP:3831/4002 SP:554/554 BP:1
+D-Castti - HP:5163/5336 SP:426/426 BP:1
+Equipo del enemigo
+A-Behemoth - HP:12687/12690 Shields:7
+B-Heavenwing - HP:6900/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ophilia
+3.Castti
+4.Heatcore
+5.Heavenwing
+6.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Heatcore recibe 740 de daño físico
+Ophilia se defiende
+Ophilia recibe 364 de daño físico
+Agnea se defiende
+Agnea recibe 395 de daño físico
+Castti se defiende
+Castti recibe 284 de daño físico
+Heatcore termina con HP:2160
+Ophilia termina con HP:3500
+Agnea termina con HP:3436
+Castti termina con HP:4879
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2160/3322 SP:392/392 BP:2
+B-Ophilia - HP:3500/4002 SP:470/470 BP:2
+C-Agnea - HP:3436/4002 SP:554/554 BP:2
+D-Castti - HP:4879/5336 SP:426/426 BP:2
+Equipo del enemigo
+A-Behemoth - HP:12687/12690 Shields:7
+B-Heavenwing - HP:6900/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Ophilia
+3.Castti
+4.Heatcore
+5.Heavenwing
+6.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heatcore
+3.Ophilia
+4.Castti
+5.Heavenwing
+6.Behemoth
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2160/3322 SP:392/392 BP:2
+B-Ophilia - HP:3500/4002 SP:470/470 BP:2
+C-Agnea - HP:3436/4002 SP:554/554 BP:2
+D-Castti - HP:4879/5336 SP:426/426 BP:2
+Equipo del enemigo
+A-Behemoth - HP:12687/12690 Shields:7
+B-Heavenwing - HP:6900/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Castti
+3.Heatcore
+4.Heavenwing
+5.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heatcore
+3.Ophilia
+4.Castti
+5.Heavenwing
+6.Behemoth
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2160/3322 SP:392/392 BP:2
+B-Ophilia - HP:3500/4002 SP:470/470 BP:2
+C-Agnea - HP:3436/4002 SP:554/554 BP:2
+D-Castti - HP:4879/5336 SP:426/426 BP:2
+Equipo del enemigo
+A-Behemoth - HP:12687/12690 Shields:7
+B-Heavenwing - HP:6900/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heatcore
+3.Heavenwing
+4.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ophilia
+3.Heatcore
+4.Castti
+5.Heavenwing
+6.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Revive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Revive
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2160/3322 SP:392/392 BP:2
+B-Ophilia - HP:3500/4002 SP:470/470 BP:2
+C-Agnea - HP:3436/4002 SP:554/554 BP:2
+D-Castti - HP:4879/5336 SP:376/426 BP:2
+Equipo del enemigo
+A-Behemoth - HP:12687/12690 Shields:7
+B-Heavenwing - HP:6900/6900 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ophilia
+3.Heatcore
+4.Castti
+5.Heavenwing
+6.Behemoth
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Behemoth - HP:12687/12690 Shields:7
+2: Heavenwing - HP:6900/6900 Shields:7
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore ataca
+Heavenwing recibe 33 de daño de tipo Bow con debilidad
+Heavenwing termina con HP:6867
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2160/3322 SP:392/392 BP:2
+B-Ophilia - HP:3500/4002 SP:470/470 BP:2
+C-Agnea - HP:3436/4002 SP:554/554 BP:2
+D-Castti - HP:4879/5336 SP:376/426 BP:2
+Equipo del enemigo
+A-Behemoth - HP:12687/12690 Shields:7
+B-Heavenwing - HP:6867/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ophilia
+3.Heatcore
+4.Castti
+5.Heavenwing
+6.Behemoth
+----------------------------------------
+Heavenwing usa Incinerate
+Heatcore recibe 422 de daño elemental
+Ophilia se defiende
+Ophilia recibe 138 de daño elemental
+Agnea se defiende
+Agnea recibe 171 de daño elemental
+Castti recibe 347 de daño elemental
+Heatcore termina con HP:1738
+Ophilia termina con HP:3362
+Agnea termina con HP:3265
+Castti termina con HP:4532
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1738/3322 SP:392/392 BP:2
+B-Ophilia - HP:3362/4002 SP:470/470 BP:2
+C-Agnea - HP:3265/4002 SP:554/554 BP:2
+D-Castti - HP:4532/5336 SP:376/426 BP:2
+Equipo del enemigo
+A-Behemoth - HP:12687/12690 Shields:7
+B-Heavenwing - HP:6867/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ophilia
+3.Heatcore
+4.Castti
+5.Heavenwing
+6.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Heatcore recibe 740 de daño físico
+Ophilia se defiende
+Ophilia recibe 364 de daño físico
+Agnea se defiende
+Agnea recibe 395 de daño físico
+Castti recibe 568 de daño físico
+Heatcore termina con HP:998
+Ophilia termina con HP:2998
+Agnea termina con HP:2870
+Castti termina con HP:3964
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:998/3322 SP:392/392 BP:3
+B-Ophilia - HP:2998/4002 SP:470/470 BP:3
+C-Agnea - HP:2870/4002 SP:554/554 BP:3
+D-Castti - HP:3964/5336 SP:376/426 BP:3
+Equipo del enemigo
+A-Behemoth - HP:12687/12690 Shields:7
+B-Heavenwing - HP:6867/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Ophilia
+3.Heatcore
+4.Castti
+5.Heavenwing
+6.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heatcore
+3.Ophilia
+4.Castti
+5.Heavenwing
+6.Behemoth
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:998/3322 SP:392/392 BP:3
+B-Ophilia - HP:2998/4002 SP:470/470 BP:3
+C-Agnea - HP:2870/4002 SP:554/554 BP:3
+D-Castti - HP:3964/5336 SP:376/426 BP:3
+Equipo del enemigo
+A-Behemoth - HP:12687/12690 Shields:7
+B-Heavenwing - HP:6867/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Heatcore
+3.Castti
+4.Heavenwing
+5.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heatcore
+3.Ophilia
+4.Castti
+5.Heavenwing
+6.Behemoth
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Behemoth - HP:12687/12690 Shields:7
+2: Heavenwing - HP:6867/6900 Shields:6
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Heavenwing recibe 0 de daño de tipo Stave
+Heavenwing termina con HP:6867
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:998/3322 SP:392/392 BP:3
+B-Ophilia - HP:2998/4002 SP:470/470 BP:3
+C-Agnea - HP:2870/4002 SP:554/554 BP:3
+D-Castti - HP:3964/5336 SP:376/426 BP:3
+Equipo del enemigo
+A-Behemoth - HP:12687/12690 Shields:7
+B-Heavenwing - HP:6867/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Castti
+3.Heavenwing
+4.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heatcore
+3.Ophilia
+4.Castti
+5.Heavenwing
+6.Behemoth
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Nightmare Chimera
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Dagger
+4: Axe
+5: Bow
+6: Stave
+7: Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Behemoth - HP:12687/12690 Shields:7
+2: Heavenwing - HP:6867/6900 Shields:6
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore usa Nightmare Chimera
+Behemoth recibe 316 de daño de tipo Bow con debilidad
+Behemoth termina con HP:12371
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:998/3322 SP:357/392 BP:3
+B-Ophilia - HP:2998/4002 SP:470/470 BP:3
+C-Agnea - HP:2870/4002 SP:554/554 BP:3
+D-Castti - HP:3964/5336 SP:376/426 BP:3
+Equipo del enemigo
+A-Behemoth - HP:12371/12690 Shields:6
+B-Heavenwing - HP:6867/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heatcore
+3.Ophilia
+4.Castti
+5.Heavenwing
+6.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:12371/12690 Shields:6
+2: Heavenwing - HP:6867/6900 Shields:6
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Heavenwing recibe 129 de daño de tipo Axe
+Heavenwing termina con HP:6738
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:998/3322 SP:357/392 BP:3
+B-Ophilia - HP:2998/4002 SP:470/470 BP:3
+C-Agnea - HP:2870/4002 SP:554/554 BP:3
+D-Castti - HP:3964/5336 SP:376/426 BP:3
+Equipo del enemigo
+A-Behemoth - HP:12371/12690 Shields:6
+B-Heavenwing - HP:6738/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heatcore
+3.Ophilia
+4.Castti
+5.Heavenwing
+6.Behemoth
+----------------------------------------
+Heavenwing usa Incinerate
+Heatcore recibe 422 de daño elemental
+Ophilia recibe 276 de daño elemental
+Agnea se defiende
+Agnea recibe 171 de daño elemental
+Castti recibe 347 de daño elemental
+Heatcore termina con HP:576
+Ophilia termina con HP:2722
+Agnea termina con HP:2699
+Castti termina con HP:3617
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:576/3322 SP:357/392 BP:3
+B-Ophilia - HP:2722/4002 SP:470/470 BP:3
+C-Agnea - HP:2699/4002 SP:554/554 BP:3
+D-Castti - HP:3617/5336 SP:376/426 BP:3
+Equipo del enemigo
+A-Behemoth - HP:12371/12690 Shields:6
+B-Heavenwing - HP:6738/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heatcore
+3.Ophilia
+4.Castti
+5.Heavenwing
+6.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Heatcore recibe 740 de daño físico
+Ophilia recibe 728 de daño físico
+Agnea se defiende
+Agnea recibe 395 de daño físico
+Castti recibe 568 de daño físico
+Heatcore termina con HP:0
+Ophilia termina con HP:1994
+Agnea termina con HP:2304
+Castti termina con HP:3049
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:357/392 BP:3
+B-Ophilia - HP:1994/4002 SP:470/470 BP:4
+C-Agnea - HP:2304/4002 SP:554/554 BP:4
+D-Castti - HP:3049/5336 SP:376/426 BP:4
+Equipo del enemigo
+A-Behemoth - HP:12371/12690 Shields:6
+B-Heavenwing - HP:6738/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Ophilia
+3.Castti
+4.Heavenwing
+5.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ophilia
+3.Castti
+4.Heavenwing
+5.Behemoth
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Behemoth - HP:12371/12690 Shields:6
+2: Heavenwing - HP:6738/6900 Shields:6
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Heavenwing recibe 0 de daño de tipo Dagger
+Heavenwing termina con HP:6738
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:357/392 BP:3
+B-Ophilia - HP:1994/4002 SP:470/470 BP:4
+C-Agnea - HP:2304/4002 SP:554/554 BP:4
+D-Castti - HP:3049/5336 SP:376/426 BP:4
+Equipo del enemigo
+A-Behemoth - HP:12371/12690 Shields:6
+B-Heavenwing - HP:6738/6900 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Castti
+3.Heavenwing
+4.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ophilia
+3.Castti
+4.Heavenwing
+5.Behemoth
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Cross Strike
+2: Spearhead
+3: Vivify
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Behemoth - HP:12371/12690 Shields:6
+2: Heavenwing - HP:6738/6900 Shields:6
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Spearhead
+Heavenwing recibe 32 de daño de tipo Spear con debilidad
+Heavenwing termina con HP:6706
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:357/392 BP:3
+B-Ophilia - HP:1994/4002 SP:464/470 BP:4
+C-Agnea - HP:2304/4002 SP:554/554 BP:4
+D-Castti - HP:3049/5336 SP:376/426 BP:4
+Equipo del enemigo
+A-Behemoth - HP:12371/12690 Shields:6
+B-Heavenwing - HP:6706/6900 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Revive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Revive
+Heatcore revive
+Heatcore termina con HP:1
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1/3322 SP:357/392 BP:3
+B-Ophilia - HP:1994/4002 SP:464/470 BP:4
+C-Agnea - HP:2304/4002 SP:554/554 BP:4
+D-Castti - HP:3049/5336 SP:326/426 BP:4
+Equipo del enemigo
+A-Behemoth - HP:12371/12690 Shields:6
+B-Heavenwing - HP:6706/6900 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Agnea
+3.Heatcore
+4.Castti
+5.Heavenwing
+6.Behemoth
+----------------------------------------
+Heavenwing usa Incinerate
+Heatcore recibe 422 de daño elemental
+Ophilia recibe 276 de daño elemental
+Agnea recibe 343 de daño elemental
+Castti recibe 347 de daño elemental
+Heatcore termina con HP:0
+Ophilia termina con HP:1718
+Agnea termina con HP:1961
+Castti termina con HP:2702
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:357/392 BP:3
+B-Ophilia - HP:1718/4002 SP:464/470 BP:4
+C-Agnea - HP:1961/4002 SP:554/554 BP:4
+D-Castti - HP:2702/5336 SP:326/426 BP:4
+Equipo del enemigo
+A-Behemoth - HP:12371/12690 Shields:6
+B-Heavenwing - HP:6706/6900 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Ophilia recibe 728 de daño físico
+Agnea recibe 790 de daño físico
+Castti recibe 568 de daño físico
+Ophilia termina con HP:990
+Agnea termina con HP:1171
+Castti termina con HP:2134
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:357/392 BP:3
+B-Ophilia - HP:990/4002 SP:464/470 BP:5
+C-Agnea - HP:1171/4002 SP:554/554 BP:5
+D-Castti - HP:2134/5336 SP:326/426 BP:5
+Equipo del enemigo
+A-Behemoth - HP:12371/12690 Shields:6
+B-Heavenwing - HP:6706/6900 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ophilia
+3.Castti
+4.Heavenwing
+5.Behemoth
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Behemoth - HP:12371/12690 Shields:6
+2: Heavenwing - HP:6706/6900 Shields:5
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Behemoth recibe 0 de daño de tipo Stave
+Behemoth termina con HP:12371
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:357/392 BP:3
+B-Ophilia - HP:990/4002 SP:464/470 BP:5
+C-Agnea - HP:1171/4002 SP:554/554 BP:5
+D-Castti - HP:2134/5336 SP:326/426 BP:5
+Equipo del enemigo
+A-Behemoth - HP:12371/12690 Shields:6
+B-Heavenwing - HP:6706/6900 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ophilia
+3.Castti
+4.Heavenwing
+5.Behemoth
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:357/392 BP:3
+B-Ophilia - HP:990/4002 SP:464/470 BP:5
+C-Agnea - HP:1171/4002 SP:554/554 BP:5
+D-Castti - HP:2134/5336 SP:326/426 BP:5
+Equipo del enemigo
+A-Behemoth - HP:12371/12690 Shields:6
+B-Heavenwing - HP:6706/6900 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ophilia
+3.Castti
+4.Heavenwing
+5.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:12371/12690 Shields:6
+2: Heavenwing - HP:6706/6900 Shields:5
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Behemoth recibe 163 de daño de tipo Axe con debilidad
+Behemoth termina con HP:12208
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:357/392 BP:3
+B-Ophilia - HP:990/4002 SP:464/470 BP:5
+C-Agnea - HP:1171/4002 SP:554/554 BP:5
+D-Castti - HP:2134/5336 SP:326/426 BP:5
+Equipo del enemigo
+A-Behemoth - HP:12208/12690 Shields:5
+B-Heavenwing - HP:6706/6900 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ophilia
+3.Castti
+4.Heavenwing
+5.Behemoth
+----------------------------------------
+Heavenwing usa Incinerate
+Ophilia recibe 276 de daño elemental
+Agnea se defiende
+Agnea recibe 171 de daño elemental
+Castti recibe 347 de daño elemental
+Ophilia termina con HP:714
+Agnea termina con HP:1000
+Castti termina con HP:1787
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:357/392 BP:3
+B-Ophilia - HP:714/4002 SP:464/470 BP:5
+C-Agnea - HP:1000/4002 SP:554/554 BP:5
+D-Castti - HP:1787/5336 SP:326/426 BP:5
+Equipo del enemigo
+A-Behemoth - HP:12208/12690 Shields:5
+B-Heavenwing - HP:6706/6900 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ophilia
+3.Castti
+4.Heavenwing
+5.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Ophilia recibe 728 de daño físico
+Agnea se defiende
+Agnea recibe 395 de daño físico
+Castti recibe 568 de daño físico
+Ophilia termina con HP:0
+Agnea termina con HP:605
+Castti termina con HP:1219
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:357/392 BP:3
+B-Ophilia - HP:0/4002 SP:464/470 BP:5
+C-Agnea - HP:605/4002 SP:554/554 BP:5
+D-Castti - HP:1219/5336 SP:326/426 BP:5
+Equipo del enemigo
+A-Behemoth - HP:12208/12690 Shields:5
+B-Heavenwing - HP:6706/6900 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Behemoth
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Icewind
+2: Heal More
+3: Moonlight Waltz
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Heal More
+Castti recupera 664 de vida
+Agnea recupera 664 de vida
+Castti termina con HP:1883
+Agnea termina con HP:1269
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:357/392 BP:3
+B-Ophilia - HP:0/4002 SP:464/470 BP:5
+C-Agnea - HP:1269/4002 SP:529/554 BP:5
+D-Castti - HP:1883/5336 SP:326/426 BP:5
+Equipo del enemigo
+A-Behemoth - HP:12208/12690 Shields:5
+B-Heavenwing - HP:6706/6900 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Revive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Revive
+Heatcore revive
+Ophilia revive
+Heatcore termina con HP:1
+Ophilia termina con HP:1
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1/3322 SP:357/392 BP:3
+B-Ophilia - HP:1/4002 SP:464/470 BP:5
+C-Agnea - HP:1269/4002 SP:529/554 BP:5
+D-Castti - HP:1883/5336 SP:276/426 BP:5
+Equipo del enemigo
+A-Behemoth - HP:12208/12690 Shields:5
+B-Heavenwing - HP:6706/6900 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heatcore
+3.Ophilia
+4.Castti
+5.Heavenwing
+6.Behemoth
+----------------------------------------
+Heavenwing usa Incinerate
+Heatcore recibe 422 de daño elemental
+Ophilia recibe 276 de daño elemental
+Agnea recibe 343 de daño elemental
+Castti recibe 347 de daño elemental
+Heatcore termina con HP:0
+Ophilia termina con HP:0
+Agnea termina con HP:926
+Castti termina con HP:1536
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:357/392 BP:3
+B-Ophilia - HP:0/4002 SP:464/470 BP:5
+C-Agnea - HP:926/4002 SP:529/554 BP:5
+D-Castti - HP:1536/5336 SP:276/426 BP:5
+Equipo del enemigo
+A-Behemoth - HP:12208/12690 Shields:5
+B-Heavenwing - HP:6706/6900 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Agnea recibe 790 de daño físico
+Castti recibe 568 de daño físico
+Agnea termina con HP:136
+Castti termina con HP:968
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:357/392 BP:3
+B-Ophilia - HP:0/4002 SP:464/470 BP:5
+C-Agnea - HP:136/4002 SP:529/554 BP:5
+D-Castti - HP:968/5336 SP:276/426 BP:5
+Equipo del enemigo
+A-Behemoth - HP:12208/12690 Shields:5
+B-Heavenwing - HP:6706/6900 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Behemoth
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Behemoth - HP:12208/12690 Shields:5
+2: Heavenwing - HP:6706/6900 Shields:5
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Behemoth recibe 0 de daño de tipo Dagger
+Behemoth termina con HP:12208
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:357/392 BP:3
+B-Ophilia - HP:0/4002 SP:464/470 BP:5
+C-Agnea - HP:136/4002 SP:529/554 BP:5
+D-Castti - HP:968/5336 SP:276/426 BP:5
+Equipo del enemigo
+A-Behemoth - HP:12208/12690 Shields:5
+B-Heavenwing - HP:6706/6900 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:357/392 BP:3
+B-Ophilia - HP:0/4002 SP:464/470 BP:5
+C-Agnea - HP:136/4002 SP:529/554 BP:5
+D-Castti - HP:968/5336 SP:276/426 BP:5
+Equipo del enemigo
+A-Behemoth - HP:12208/12690 Shields:5
+B-Heavenwing - HP:6706/6900 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Agnea
+3.Heavenwing
+4.Behemoth
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea recibe 343 de daño elemental
+Castti se defiende
+Castti recibe 173 de daño elemental
+Agnea termina con HP:0
+Castti termina con HP:795
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:357/392 BP:3
+B-Ophilia - HP:0/4002 SP:464/470 BP:5
+C-Agnea - HP:0/4002 SP:529/554 BP:5
+D-Castti - HP:795/5336 SP:276/426 BP:5
+Equipo del enemigo
+A-Behemoth - HP:12208/12690 Shields:5
+B-Heavenwing - HP:6706/6900 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti se defiende
+Castti recibe 284 de daño físico
+Castti termina con HP:511
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:357/392 BP:3
+B-Ophilia - HP:0/4002 SP:464/470 BP:5
+C-Agnea - HP:0/4002 SP:529/554 BP:5
+D-Castti - HP:511/5336 SP:276/426 BP:5
+Equipo del enemigo
+A-Behemoth - HP:12208/12690 Shields:5
+B-Heavenwing - HP:6706/6900 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:357/392 BP:3
+B-Ophilia - HP:0/4002 SP:464/470 BP:5
+C-Agnea - HP:0/4002 SP:529/554 BP:5
+D-Castti - HP:511/5336 SP:276/426 BP:5
+Equipo del enemigo
+A-Behemoth - HP:12208/12690 Shields:5
+B-Heavenwing - HP:6706/6900 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Heavenwing usa Incinerate
+Castti se defiende
+Castti recibe 173 de daño elemental
+Castti termina con HP:338
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:357/392 BP:3
+B-Ophilia - HP:0/4002 SP:464/470 BP:5
+C-Agnea - HP:0/4002 SP:529/554 BP:5
+D-Castti - HP:338/5336 SP:276/426 BP:5
+Equipo del enemigo
+A-Behemoth - HP:12208/12690 Shields:5
+B-Heavenwing - HP:6706/6900 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti se defiende
+Castti recibe 284 de daño físico
+Castti termina con HP:54
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:357/392 BP:3
+B-Ophilia - HP:0/4002 SP:464/470 BP:5
+C-Agnea - HP:0/4002 SP:529/554 BP:5
+D-Castti - HP:54/5336 SP:276/426 BP:5
+Equipo del enemigo
+A-Behemoth - HP:12208/12690 Shields:5
+B-Heavenwing - HP:6706/6900 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:12208/12690 Shields:5
+2: Heavenwing - HP:6706/6900 Shields:5
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Behemoth recibe 163 de daño de tipo Axe con debilidad
+Behemoth termina con HP:12045
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/3322 SP:357/392 BP:3
+B-Ophilia - HP:0/4002 SP:464/470 BP:5
+C-Agnea - HP:0/4002 SP:529/554 BP:5
+D-Castti - HP:54/5336 SP:276/426 BP:5
+Equipo del enemigo
+A-Behemoth - HP:12045/12690 Shields:4
+B-Heavenwing - HP:6706/6900 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heavenwing
+3.Behemoth
+----------------------------------------
+Heavenwing usa Incinerate
+Castti recibe 347 de daño elemental
+Castti termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

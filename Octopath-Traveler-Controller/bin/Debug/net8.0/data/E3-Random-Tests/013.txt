@@ -1,0 +1,622 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+INPUT: 12
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:1
+B-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+Equipo del enemigo
+A-Wanderweed - HP:1533/1533 Shields:3
+B-Monarch - HP:6740/6740 Shields:8
+C-Army Ant - HP:502/502 Shields:1
+D-Winter Wanderweed - HP:2314/2314 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Z'aanta
+3.Winter Wanderweed
+4.Wanderweed
+5.Army Ant
+6.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Z'aanta
+3.Winter Wanderweed
+4.Wanderweed
+5.Army Ant
+6.Monarch
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Wanderweed - HP:1533/1533 Shields:3
+2: Monarch - HP:6740/6740 Shields:8
+3: Army Ant - HP:502/502 Shields:1
+4: Winter Wanderweed - HP:2314/2314 Shields:3
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore ataca
+Winter Wanderweed recibe 97 de daño de tipo Bow
+Winter Wanderweed termina con HP:2217
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:1
+B-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+Equipo del enemigo
+A-Wanderweed - HP:1533/1533 Shields:3
+B-Monarch - HP:6740/6740 Shields:8
+C-Army Ant - HP:502/502 Shields:1
+D-Winter Wanderweed - HP:2217/2314 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Winter Wanderweed
+3.Wanderweed
+4.Army Ant
+5.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Z'aanta
+3.Winter Wanderweed
+4.Wanderweed
+5.Army Ant
+6.Monarch
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:1
+B-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+Equipo del enemigo
+A-Wanderweed - HP:1533/1533 Shields:3
+B-Monarch - HP:6740/6740 Shields:8
+C-Army Ant - HP:502/502 Shields:1
+D-Winter Wanderweed - HP:2217/2314 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Winter Wanderweed
+2.Wanderweed
+3.Army Ant
+4.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Heatcore
+3.Winter Wanderweed
+4.Wanderweed
+5.Army Ant
+6.Monarch
+----------------------------------------
+Winter Wanderweed usa Attack
+Z'aanta se defiende
+Z'aanta recibe 122 de daño físico
+Z'aanta termina con HP:3100
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:1
+B-Z'aanta - HP:3100/3222 SP:371/371 BP:1
+Equipo del enemigo
+A-Wanderweed - HP:1533/1533 Shields:3
+B-Monarch - HP:6740/6740 Shields:8
+C-Army Ant - HP:502/502 Shields:1
+D-Winter Wanderweed - HP:2217/2314 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Wanderweed
+2.Army Ant
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Heatcore
+3.Winter Wanderweed
+4.Wanderweed
+5.Army Ant
+6.Monarch
+----------------------------------------
+Wanderweed usa Attack
+Z'aanta se defiende
+Z'aanta recibe 48 de daño físico
+Z'aanta termina con HP:3052
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:1
+B-Z'aanta - HP:3052/3222 SP:371/371 BP:1
+Equipo del enemigo
+A-Wanderweed - HP:1533/1533 Shields:3
+B-Monarch - HP:6740/6740 Shields:8
+C-Army Ant - HP:502/502 Shields:1
+D-Winter Wanderweed - HP:2217/2314 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Army Ant
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Heatcore
+3.Winter Wanderweed
+4.Wanderweed
+5.Army Ant
+6.Monarch
+----------------------------------------
+Army Ant usa Acid Spray
+Z'aanta tendrá Decreased Physical Defense durante 2 rondas
+Z'aanta tendrá Decreased Elemental Defense durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:1
+B-Z'aanta - HP:3052/3222 SP:371/371 BP:1
+Equipo del enemigo
+A-Wanderweed - HP:1533/1533 Shields:3
+B-Monarch - HP:6740/6740 Shields:8
+C-Army Ant - HP:502/502 Shields:1
+D-Winter Wanderweed - HP:2217/2314 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Heatcore
+3.Winter Wanderweed
+4.Wanderweed
+5.Army Ant
+6.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Heatcore recibe 393 de daño elemental
+Z'aanta se defiende
+Z'aanta recibe 309 de daño elemental
+Heatcore termina con HP:2429
+Z'aanta termina con HP:2743
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2429/2822 SP:342/342 BP:2
+B-Z'aanta - HP:2743/3222 SP:371/371 BP:2
+Equipo del enemigo
+A-Wanderweed - HP:1533/1533 Shields:3
+B-Monarch - HP:6740/6740 Shields:8
+C-Army Ant - HP:502/502 Shields:1
+D-Winter Wanderweed - HP:2217/2314 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Heatcore
+3.Winter Wanderweed
+4.Wanderweed
+5.Army Ant
+6.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Z'aanta
+3.Winter Wanderweed
+4.Wanderweed
+5.Army Ant
+6.Monarch
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2429/2822 SP:342/342 BP:2
+B-Z'aanta - HP:2743/3222 SP:371/371 BP:2
+Equipo del enemigo
+A-Wanderweed - HP:1533/1533 Shields:3
+B-Monarch - HP:6740/6740 Shields:8
+C-Army Ant - HP:502/502 Shields:1
+D-Winter Wanderweed - HP:2217/2314 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Winter Wanderweed
+3.Wanderweed
+4.Army Ant
+5.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Heatcore
+3.Winter Wanderweed
+4.Wanderweed
+5.Army Ant
+6.Monarch
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Last Stand
+2: Guardian Liondog
+3: Lux Congerere
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Heatcore usa Lux Congerere
+Wanderweed recibe 607 de daño de tipo Light
+Wanderweed recibe 607 de daño de tipo Light
+Wanderweed recibe 607 de daño de tipo Light
+Monarch recibe 468 de daño de tipo Light
+Monarch recibe 468 de daño de tipo Light
+Monarch recibe 468 de daño de tipo Light
+Army Ant recibe 777 de daño de tipo Light
+Army Ant recibe 777 de daño de tipo Light
+Army Ant recibe 777 de daño de tipo Light
+Winter Wanderweed recibe 562 de daño de tipo Light
+Winter Wanderweed recibe 562 de daño de tipo Light
+Winter Wanderweed recibe 562 de daño de tipo Light
+Wanderweed termina con HP:0
+Monarch termina con HP:5336
+Army Ant termina con HP:0
+Winter Wanderweed termina con HP:531
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2429/2822 SP:306/342 BP:1
+B-Z'aanta - HP:2743/3222 SP:371/371 BP:2
+Equipo del enemigo
+A-Wanderweed - HP:0/1533 Shields:3
+B-Monarch - HP:5336/6740 Shields:8
+C-Army Ant - HP:0/502 Shields:1
+D-Winter Wanderweed - HP:531/2314 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Winter Wanderweed
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Heatcore
+3.Winter Wanderweed
+4.Monarch
+----------------------------------------
+Winter Wanderweed usa Attack
+Z'aanta se defiende
+Z'aanta recibe 184 de daño físico
+Z'aanta termina con HP:2559
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2429/2822 SP:306/342 BP:1
+B-Z'aanta - HP:2559/3222 SP:371/371 BP:2
+Equipo del enemigo
+A-Wanderweed - HP:0/1533 Shields:3
+B-Monarch - HP:5336/6740 Shields:8
+C-Army Ant - HP:0/502 Shields:1
+D-Winter Wanderweed - HP:531/2314 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Heatcore
+3.Winter Wanderweed
+4.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Heatcore recibe 393 de daño elemental
+Z'aanta se defiende
+Z'aanta recibe 309 de daño elemental
+Heatcore termina con HP:2036
+Z'aanta termina con HP:2250
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2036/2822 SP:306/342 BP:1
+B-Z'aanta - HP:2250/3222 SP:371/371 BP:3
+Equipo del enemigo
+A-Wanderweed - HP:0/1533 Shields:3
+B-Monarch - HP:5336/6740 Shields:8
+C-Army Ant - HP:0/502 Shields:1
+D-Winter Wanderweed - HP:531/2314 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Heatcore
+3.Winter Wanderweed
+4.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Z'aanta
+3.Winter Wanderweed
+4.Monarch
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Winnehild's Battle Cry
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Z'aanta usa Winnehild's Battle Cry
+Monarch recibe 253 de daño de tipo Sword
+Monarch recibe 380 de daño de tipo Spear con debilidad
+Monarch recibe 253 de daño de tipo Dagger
+Monarch recibe 253 de daño de tipo Axe
+Monarch recibe 380 de daño de tipo Bow con debilidad
+Monarch recibe 253 de daño de tipo Stave
+Winter Wanderweed recibe 360 de daño de tipo Sword con debilidad
+Winter Wanderweed recibe 240 de daño de tipo Spear
+Winter Wanderweed recibe 240 de daño de tipo Dagger
+Winter Wanderweed recibe 240 de daño de tipo Axe
+Winter Wanderweed recibe 240 de daño de tipo Bow
+Winter Wanderweed recibe 240 de daño de tipo Stave
+Monarch termina con HP:3564
+Winter Wanderweed termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2036/2822 SP:306/342 BP:1
+B-Z'aanta - HP:2250/3222 SP:321/371 BP:0
+Equipo del enemigo
+A-Wanderweed - HP:0/1533 Shields:3
+B-Monarch - HP:3564/6740 Shields:6
+C-Army Ant - HP:0/502 Shields:1
+D-Winter Wanderweed - HP:0/2314 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Z'aanta
+3.Monarch
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Monarch - HP:3564/6740 Shields:6
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore ataca
+Monarch recibe 165 de daño de tipo Bow con debilidad
+Monarch termina con HP:3399
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2036/2822 SP:306/342 BP:1
+B-Z'aanta - HP:2250/3222 SP:321/371 BP:0
+Equipo del enemigo
+A-Wanderweed - HP:0/1533 Shields:3
+B-Monarch - HP:3399/6740 Shields:5
+C-Army Ant - HP:0/502 Shields:1
+D-Winter Wanderweed - HP:0/2314 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Z'aanta
+3.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Heatcore recibe 393 de daño elemental
+Z'aanta recibe 413 de daño elemental
+Heatcore termina con HP:1643
+Z'aanta termina con HP:1837
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1643/2822 SP:306/342 BP:2
+B-Z'aanta - HP:1837/3222 SP:321/371 BP:0
+Equipo del enemigo
+A-Wanderweed - HP:0/1533 Shields:3
+B-Monarch - HP:3399/6740 Shields:5
+C-Army Ant - HP:0/502 Shields:1
+D-Winter Wanderweed - HP:0/2314 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Z'aanta
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Z'aanta
+3.Monarch
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Last Stand
+2: Guardian Liondog
+3: Lux Congerere
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Heatcore usa Guardian Liondog
+Monarch recibe 1467 de daño de tipo Sword
+Monarch recibe 1467 de daño de tipo Sword
+Monarch recibe 1467 de daño de tipo Sword
+Monarch recibe 1467 de daño de tipo Sword
+Monarch recibe 1467 de daño de tipo Sword
+Monarch termina con HP:0
+----------------------------------------
+Gana equipo del jugador

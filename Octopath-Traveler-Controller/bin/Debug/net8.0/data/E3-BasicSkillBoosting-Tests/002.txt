@@ -1,0 +1,639 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+INPUT: 1
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Wolf - HP:1577/1577 Shields:2
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+C-Meep - HP:1016/1016 Shields:2
+D-Withered Wanderweed - HP:2314/2314 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wolf
+2.Cyrus
+3.Meep
+4.Withered Wanderweed
+5.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wolf
+2.Cyrus
+3.Meep
+4.Withered Wanderweed
+5.Devourer of Dreams
+----------------------------------------
+Wolf usa Attack
+Cyrus recibe 164 de daño físico
+Cyrus termina con HP:3393
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3393/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Wolf - HP:1577/1577 Shields:2
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+C-Meep - HP:1016/1016 Shields:2
+D-Withered Wanderweed - HP:2314/2314 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Meep
+3.Withered Wanderweed
+4.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wolf
+2.Cyrus
+3.Meep
+4.Withered Wanderweed
+5.Devourer of Dreams
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Cyrus usa Fireball
+Wolf recibe 1531 de daño de tipo Fire con debilidad
+Devourer of Dreams recibe 1013 de daño de tipo Fire
+Meep recibe 1039 de daño de tipo Fire
+Withered Wanderweed recibe 1480 de daño de tipo Fire con debilidad
+Withered Wanderweed entra en Breaking Point
+Wolf termina con HP:46
+Devourer of Dreams termina con HP:6487
+Meep termina con HP:0
+Withered Wanderweed termina con HP:834
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3393/3557 SP:574/582 BP:0
+Equipo del enemigo
+A-Wolf - HP:46/1577 Shields:1
+B-Devourer of Dreams - HP:6487/7500 Shields:10
+C-Meep - HP:0/1016 Shields:2
+D-Withered Wanderweed - HP:834/2314 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wolf
+2.Cyrus
+3.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Cyrus recibe 1697 de daño
+Cyrus termina con HP:1696
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1696/3557 SP:574/582 BP:0
+Equipo del enemigo
+A-Wolf - HP:46/1577 Shields:1
+B-Devourer of Dreams - HP:6487/7500 Shields:10
+C-Meep - HP:0/1016 Shields:2
+D-Withered Wanderweed - HP:834/2314 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Wolf
+2.Cyrus
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Withered Wanderweed
+2.Wolf
+3.Cyrus
+4.Devourer of Dreams
+----------------------------------------
+Wolf usa Attack
+Cyrus recibe 164 de daño físico
+Cyrus termina con HP:1532
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1532/3557 SP:574/582 BP:0
+Equipo del enemigo
+A-Wolf - HP:46/1577 Shields:1
+B-Devourer of Dreams - HP:6487/7500 Shields:10
+C-Meep - HP:0/1016 Shields:2
+D-Withered Wanderweed - HP:834/2314 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Withered Wanderweed
+2.Wolf
+3.Cyrus
+4.Devourer of Dreams
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Cyrus usa Fireball
+Wolf recibe 612 de daño de tipo Fire con debilidad
+Wolf entra en Breaking Point
+Devourer of Dreams recibe 401 de daño de tipo Fire
+Withered Wanderweed recibe 748 de daño de tipo Fire con debilidad
+Wolf termina con HP:0
+Devourer of Dreams termina con HP:6086
+Withered Wanderweed termina con HP:86
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1532/3557 SP:566/582 BP:0
+Equipo del enemigo
+A-Wolf - HP:0/1577 Shields:0
+B-Devourer of Dreams - HP:6086/7500 Shields:10
+C-Meep - HP:0/1016 Shields:2
+D-Withered Wanderweed - HP:86/2314 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Withered Wanderweed
+2.Cyrus
+3.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Cyrus recibe 766 de daño
+Cyrus termina con HP:766
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:766/3557 SP:566/582 BP:1
+Equipo del enemigo
+A-Wolf - HP:0/1577 Shields:0
+B-Devourer of Dreams - HP:6086/7500 Shields:10
+C-Meep - HP:0/1016 Shields:2
+D-Withered Wanderweed - HP:86/2314 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Withered Wanderweed
+2.Cyrus
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Withered Wanderweed
+3.Devourer of Dreams
+----------------------------------------
+Withered Wanderweed usa Attack
+Cyrus recibe 114 de daño físico
+Cyrus termina con HP:652
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:652/3557 SP:566/582 BP:1
+Equipo del enemigo
+A-Wolf - HP:0/1577 Shields:0
+B-Devourer of Dreams - HP:6086/7500 Shields:10
+C-Meep - HP:0/1016 Shields:2
+D-Withered Wanderweed - HP:86/2314 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Withered Wanderweed
+3.Devourer of Dreams
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Fireball
+Devourer of Dreams recibe 401 de daño de tipo Fire
+Withered Wanderweed recibe 561 de daño de tipo Fire con debilidad
+Withered Wanderweed entra en Breaking Point
+Devourer of Dreams termina con HP:5685
+Withered Wanderweed termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:652/3557 SP:558/582 BP:1
+Equipo del enemigo
+A-Wolf - HP:0/1577 Shields:0
+B-Devourer of Dreams - HP:5685/7500 Shields:10
+C-Meep - HP:0/1016 Shields:2
+D-Withered Wanderweed - HP:0/2314 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Cyrus recibe 326 de daño
+Cyrus termina con HP:326
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:326/3557 SP:558/582 BP:2
+Equipo del enemigo
+A-Wolf - HP:0/1577 Shields:0
+B-Devourer of Dreams - HP:5685/7500 Shields:10
+C-Meep - HP:0/1016 Shields:2
+D-Withered Wanderweed - HP:0/2314 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Devourer of Dreams
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Fireball
+Devourer of Dreams recibe 401 de daño de tipo Fire
+Devourer of Dreams termina con HP:5284
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:326/3557 SP:550/582 BP:2
+Equipo del enemigo
+A-Wolf - HP:0/1577 Shields:0
+B-Devourer of Dreams - HP:5284/7500 Shields:10
+C-Meep - HP:0/1016 Shields:2
+D-Withered Wanderweed - HP:0/2314 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Cyrus recibe 163 de daño
+Cyrus termina con HP:163
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:163/3557 SP:550/582 BP:3
+Equipo del enemigo
+A-Wolf - HP:0/1577 Shields:0
+B-Devourer of Dreams - HP:5284/7500 Shields:10
+C-Meep - HP:0/1016 Shields:2
+D-Withered Wanderweed - HP:0/2314 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Devourer of Dreams
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Cyrus usa Fireball
+Devourer of Dreams recibe 2239 de daño de tipo Fire
+Devourer of Dreams termina con HP:3045
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:163/3557 SP:542/582 BP:0
+Equipo del enemigo
+A-Wolf - HP:0/1577 Shields:0
+B-Devourer of Dreams - HP:3045/7500 Shields:10
+C-Meep - HP:0/1016 Shields:2
+D-Withered Wanderweed - HP:0/2314 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Cyrus recibe 82 de daño
+Cyrus termina con HP:81
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:81/3557 SP:542/582 BP:0
+Equipo del enemigo
+A-Wolf - HP:0/1577 Shields:0
+B-Devourer of Dreams - HP:3045/7500 Shields:10
+C-Meep - HP:0/1016 Shields:2
+D-Withered Wanderweed - HP:0/2314 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Devourer of Dreams
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Cyrus usa Fireball
+Devourer of Dreams recibe 401 de daño de tipo Fire
+Devourer of Dreams termina con HP:2644
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:81/3557 SP:534/582 BP:0
+Equipo del enemigo
+A-Wolf - HP:0/1577 Shields:0
+B-Devourer of Dreams - HP:2644/7500 Shields:10
+C-Meep - HP:0/1016 Shields:2
+D-Withered Wanderweed - HP:0/2314 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Cyrus recibe 41 de daño
+Cyrus termina con HP:40
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:40/3557 SP:534/582 BP:1
+Equipo del enemigo
+A-Wolf - HP:0/1577 Shields:0
+B-Devourer of Dreams - HP:2644/7500 Shields:10
+C-Meep - HP:0/1016 Shields:2
+D-Withered Wanderweed - HP:0/2314 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Devourer of Dreams
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Fireball
+Devourer of Dreams recibe 401 de daño de tipo Fire
+Devourer of Dreams termina con HP:2243
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:40/3557 SP:526/582 BP:1
+Equipo del enemigo
+A-Wolf - HP:0/1577 Shields:0
+B-Devourer of Dreams - HP:2243/7500 Shields:10
+C-Meep - HP:0/1016 Shields:2
+D-Withered Wanderweed - HP:0/2314 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Cyrus recibe 20 de daño
+Cyrus termina con HP:20
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:20/3557 SP:526/582 BP:2
+Equipo del enemigo
+A-Wolf - HP:0/1577 Shields:0
+B-Devourer of Dreams - HP:2243/7500 Shields:10
+C-Meep - HP:0/1016 Shields:2
+D-Withered Wanderweed - HP:0/2314 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Devourer of Dreams
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Fireball
+Devourer of Dreams recibe 401 de daño de tipo Fire
+Devourer of Dreams termina con HP:1842
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:20/3557 SP:518/582 BP:2
+Equipo del enemigo
+A-Wolf - HP:0/1577 Shields:0
+B-Devourer of Dreams - HP:1842/7500 Shields:10
+C-Meep - HP:0/1016 Shields:2
+D-Withered Wanderweed - HP:0/2314 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Cyrus recibe 10 de daño
+Cyrus termina con HP:10
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:10/3557 SP:518/582 BP:3
+Equipo del enemigo
+A-Wolf - HP:0/1577 Shields:0
+B-Devourer of Dreams - HP:1842/7500 Shields:10
+C-Meep - HP:0/1016 Shields:2
+D-Withered Wanderweed - HP:0/2314 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Devourer of Dreams
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Cyrus usa Fireball
+Devourer of Dreams recibe 2239 de daño de tipo Fire
+Devourer of Dreams termina con HP:0
+----------------------------------------
+Gana equipo del jugador

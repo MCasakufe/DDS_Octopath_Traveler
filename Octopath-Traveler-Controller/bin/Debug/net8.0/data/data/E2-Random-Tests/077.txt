@@ -1,0 +1,2564 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 76
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Ochette - HP:4447/4447 SP:369/369 BP:1
+C-Alfyn - HP:5336/5336 SP:383/383 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Shadow Wisp - HP:729/729 Shields:1
+C-Shaggy Meep - HP:1036/1036 Shields:3
+D-Dark Guardian - HP:1470/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Shaggy Meep
+5.Shadow Wisp
+6.Ice Elemental
+7.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Shaggy Meep
+5.Shadow Wisp
+6.Ice Elemental
+7.Dark Guardian
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Last Stand
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Last Stand
+Ice Elemental recibe 0 de daño de tipo Axe
+Shadow Wisp recibe 76 de daño de tipo Axe
+Shaggy Meep recibe 176 de daño de tipo Axe
+Dark Guardian recibe 127 de daño de tipo Axe
+Ice Elemental termina con HP:2160
+Shadow Wisp termina con HP:653
+Shaggy Meep termina con HP:860
+Dark Guardian termina con HP:1343
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:488/504 BP:1
+B-Ochette - HP:4447/4447 SP:369/369 BP:1
+C-Alfyn - HP:5336/5336 SP:383/383 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Shadow Wisp - HP:653/729 Shields:1
+C-Shaggy Meep - HP:860/1036 Shields:3
+D-Dark Guardian - HP:1343/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Alfyn
+3.Shaggy Meep
+4.Shadow Wisp
+5.Ice Elemental
+6.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Shaggy Meep
+5.Shadow Wisp
+6.Ice Elemental
+7.Dark Guardian
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Holy Light
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Ice Elemental - HP:2160/2160 Shields:4
+2: Shadow Wisp - HP:653/729 Shields:1
+3: Shaggy Meep - HP:860/1036 Shields:3
+4: Dark Guardian - HP:1343/1470 Shields:3
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette usa Holy Light
+Ice Elemental recibe 349 de daño de tipo Light
+Ice Elemental termina con HP:1811
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:488/504 BP:1
+B-Ochette - HP:4447/4447 SP:363/369 BP:1
+C-Alfyn - HP:5336/5336 SP:383/383 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:1811/2160 Shields:4
+B-Shadow Wisp - HP:653/729 Shields:1
+C-Shaggy Meep - HP:860/1036 Shields:3
+D-Dark Guardian - HP:1343/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Shaggy Meep
+3.Shadow Wisp
+4.Ice Elemental
+5.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Shaggy Meep
+5.Shadow Wisp
+6.Ice Elemental
+7.Dark Guardian
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:488/504 BP:1
+B-Ochette - HP:4447/4447 SP:363/369 BP:1
+C-Alfyn - HP:5336/5336 SP:383/383 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:1811/2160 Shields:4
+B-Shadow Wisp - HP:653/729 Shields:1
+C-Shaggy Meep - HP:860/1036 Shields:3
+D-Dark Guardian - HP:1343/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Shaggy Meep
+2.Shadow Wisp
+3.Ice Elemental
+4.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Primrose
+3.Ochette
+4.Shaggy Meep
+5.Shadow Wisp
+6.Ice Elemental
+7.Dark Guardian
+----------------------------------------
+Shaggy Meep usa Attack
+Alfyn se defiende
+Alfyn recibe 23 de daño físico
+Alfyn termina con HP:5313
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:488/504 BP:1
+B-Ochette - HP:4447/4447 SP:363/369 BP:1
+C-Alfyn - HP:5313/5336 SP:383/383 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:1811/2160 Shields:4
+B-Shadow Wisp - HP:653/729 Shields:1
+C-Shaggy Meep - HP:860/1036 Shields:3
+D-Dark Guardian - HP:1343/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Shadow Wisp
+2.Ice Elemental
+3.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Primrose
+3.Ochette
+4.Shaggy Meep
+5.Shadow Wisp
+6.Ice Elemental
+7.Dark Guardian
+----------------------------------------
+Shadow Wisp usa Enshadow
+Primrose recibe 61 de daño elemental
+Primrose termina con HP:3941
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3941/4002 SP:488/504 BP:1
+B-Ochette - HP:4447/4447 SP:363/369 BP:1
+C-Alfyn - HP:5313/5336 SP:383/383 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:1811/2160 Shields:4
+B-Shadow Wisp - HP:653/729 Shields:1
+C-Shaggy Meep - HP:860/1036 Shields:3
+D-Dark Guardian - HP:1343/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Primrose
+3.Ochette
+4.Shaggy Meep
+5.Shadow Wisp
+6.Ice Elemental
+7.Dark Guardian
+----------------------------------------
+Ice Elemental usa Iceshot
+Ochette recibe 240 de daño elemental
+Ochette termina con HP:4207
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3941/4002 SP:488/504 BP:1
+B-Ochette - HP:4207/4447 SP:363/369 BP:1
+C-Alfyn - HP:5313/5336 SP:383/383 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:1811/2160 Shields:4
+B-Shadow Wisp - HP:653/729 Shields:1
+C-Shaggy Meep - HP:860/1036 Shields:3
+D-Dark Guardian - HP:1343/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Primrose
+3.Ochette
+4.Shaggy Meep
+5.Shadow Wisp
+6.Ice Elemental
+7.Dark Guardian
+----------------------------------------
+Dark Guardian usa Attack
+Alfyn se defiende
+Alfyn recibe 39 de daño físico
+Alfyn termina con HP:5274
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3941/4002 SP:488/504 BP:2
+B-Ochette - HP:4207/4447 SP:363/369 BP:2
+C-Alfyn - HP:5274/5336 SP:383/383 BP:2
+Equipo del enemigo
+A-Ice Elemental - HP:1811/2160 Shields:4
+B-Shadow Wisp - HP:653/729 Shields:1
+C-Shaggy Meep - HP:860/1036 Shields:3
+D-Dark Guardian - HP:1343/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Primrose
+3.Ochette
+4.Shaggy Meep
+5.Shadow Wisp
+6.Ice Elemental
+7.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Shaggy Meep
+5.Shadow Wisp
+6.Ice Elemental
+7.Dark Guardian
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Wildfire
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Ice Elemental - HP:1811/2160 Shields:4
+2: Shadow Wisp - HP:653/729 Shields:1
+3: Shaggy Meep - HP:860/1036 Shields:3
+4: Dark Guardian - HP:1343/1470 Shields:3
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Wildfire
+Ice Elemental recibe 482 de daño de tipo Fire con debilidad
+Ice Elemental termina con HP:1329
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3941/4002 SP:488/504 BP:2
+B-Ochette - HP:4207/4447 SP:363/369 BP:2
+C-Alfyn - HP:5274/5336 SP:376/383 BP:2
+Equipo del enemigo
+A-Ice Elemental - HP:1329/2160 Shields:3
+B-Shadow Wisp - HP:653/729 Shields:1
+C-Shaggy Meep - HP:860/1036 Shields:3
+D-Dark Guardian - HP:1343/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ochette
+3.Shaggy Meep
+4.Shadow Wisp
+5.Ice Elemental
+6.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Shaggy Meep
+5.Shadow Wisp
+6.Ice Elemental
+7.Dark Guardian
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Ice Elemental - HP:1329/2160 Shields:3
+2: Shadow Wisp - HP:653/729 Shields:1
+3: Shaggy Meep - HP:860/1036 Shields:3
+4: Dark Guardian - HP:1343/1470 Shields:3
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Shadow Wisp recibe 47 de daño de tipo Dagger
+Shadow Wisp termina con HP:606
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3941/4002 SP:488/504 BP:2
+B-Ochette - HP:4207/4447 SP:363/369 BP:2
+C-Alfyn - HP:5274/5336 SP:376/383 BP:2
+Equipo del enemigo
+A-Ice Elemental - HP:1329/2160 Shields:3
+B-Shadow Wisp - HP:606/729 Shields:1
+C-Shaggy Meep - HP:860/1036 Shields:3
+D-Dark Guardian - HP:1343/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Shaggy Meep
+3.Shadow Wisp
+4.Ice Elemental
+5.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Shaggy Meep
+5.Shadow Wisp
+6.Ice Elemental
+7.Dark Guardian
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3941/4002 SP:488/504 BP:2
+B-Ochette - HP:4207/4447 SP:363/369 BP:2
+C-Alfyn - HP:5274/5336 SP:376/383 BP:2
+Equipo del enemigo
+A-Ice Elemental - HP:1329/2160 Shields:3
+B-Shadow Wisp - HP:606/729 Shields:1
+C-Shaggy Meep - HP:860/1036 Shields:3
+D-Dark Guardian - HP:1343/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Shaggy Meep
+2.Shadow Wisp
+3.Ice Elemental
+4.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Primrose
+3.Alfyn
+4.Shaggy Meep
+5.Shadow Wisp
+6.Ice Elemental
+7.Dark Guardian
+----------------------------------------
+Shaggy Meep usa Attack
+Alfyn recibe 47 de daño físico
+Alfyn termina con HP:5227
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3941/4002 SP:488/504 BP:2
+B-Ochette - HP:4207/4447 SP:363/369 BP:2
+C-Alfyn - HP:5227/5336 SP:376/383 BP:2
+Equipo del enemigo
+A-Ice Elemental - HP:1329/2160 Shields:3
+B-Shadow Wisp - HP:606/729 Shields:1
+C-Shaggy Meep - HP:860/1036 Shields:3
+D-Dark Guardian - HP:1343/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Shadow Wisp
+2.Ice Elemental
+3.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Primrose
+3.Alfyn
+4.Shaggy Meep
+5.Shadow Wisp
+6.Ice Elemental
+7.Dark Guardian
+----------------------------------------
+Shadow Wisp usa Enshadow
+Primrose recibe 61 de daño elemental
+Primrose termina con HP:3880
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:488/504 BP:2
+B-Ochette - HP:4207/4447 SP:363/369 BP:2
+C-Alfyn - HP:5227/5336 SP:376/383 BP:2
+Equipo del enemigo
+A-Ice Elemental - HP:1329/2160 Shields:3
+B-Shadow Wisp - HP:606/729 Shields:1
+C-Shaggy Meep - HP:860/1036 Shields:3
+D-Dark Guardian - HP:1343/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Primrose
+3.Alfyn
+4.Shaggy Meep
+5.Shadow Wisp
+6.Ice Elemental
+7.Dark Guardian
+----------------------------------------
+Ice Elemental usa Iceshot
+Ochette se defiende
+Ochette recibe 120 de daño elemental
+Ochette termina con HP:4087
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:488/504 BP:2
+B-Ochette - HP:4087/4447 SP:363/369 BP:2
+C-Alfyn - HP:5227/5336 SP:376/383 BP:2
+Equipo del enemigo
+A-Ice Elemental - HP:1329/2160 Shields:3
+B-Shadow Wisp - HP:606/729 Shields:1
+C-Shaggy Meep - HP:860/1036 Shields:3
+D-Dark Guardian - HP:1343/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Primrose
+3.Alfyn
+4.Shaggy Meep
+5.Shadow Wisp
+6.Ice Elemental
+7.Dark Guardian
+----------------------------------------
+Dark Guardian usa Attack
+Alfyn recibe 79 de daño físico
+Alfyn termina con HP:5148
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:488/504 BP:3
+B-Ochette - HP:4087/4447 SP:363/369 BP:3
+C-Alfyn - HP:5148/5336 SP:376/383 BP:3
+Equipo del enemigo
+A-Ice Elemental - HP:1329/2160 Shields:3
+B-Shadow Wisp - HP:606/729 Shields:1
+C-Shaggy Meep - HP:860/1036 Shields:3
+D-Dark Guardian - HP:1343/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Primrose
+3.Alfyn
+4.Shaggy Meep
+5.Shadow Wisp
+6.Ice Elemental
+7.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Shaggy Meep
+5.Shadow Wisp
+6.Ice Elemental
+7.Dark Guardian
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Ice Elemental - HP:1329/2160 Shields:3
+2: Shadow Wisp - HP:606/729 Shields:1
+3: Shaggy Meep - HP:860/1036 Shields:3
+4: Dark Guardian - HP:1343/1470 Shields:3
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette ataca
+Shadow Wisp recibe 223 de daño de tipo Bow
+Shadow Wisp termina con HP:383
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:488/504 BP:3
+B-Ochette - HP:4087/4447 SP:363/369 BP:3
+C-Alfyn - HP:5148/5336 SP:376/383 BP:3
+Equipo del enemigo
+A-Ice Elemental - HP:1329/2160 Shields:3
+B-Shadow Wisp - HP:383/729 Shields:1
+C-Shaggy Meep - HP:860/1036 Shields:3
+D-Dark Guardian - HP:1343/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Alfyn
+3.Shaggy Meep
+4.Shadow Wisp
+5.Ice Elemental
+6.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Shaggy Meep
+5.Shadow Wisp
+6.Ice Elemental
+7.Dark Guardian
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:488/504 BP:3
+B-Ochette - HP:4087/4447 SP:363/369 BP:3
+C-Alfyn - HP:5148/5336 SP:376/383 BP:3
+Equipo del enemigo
+A-Ice Elemental - HP:1329/2160 Shields:3
+B-Shadow Wisp - HP:383/729 Shields:1
+C-Shaggy Meep - HP:860/1036 Shields:3
+D-Dark Guardian - HP:1343/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Shaggy Meep
+3.Shadow Wisp
+4.Ice Elemental
+5.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Shaggy Meep
+5.Shadow Wisp
+6.Ice Elemental
+7.Dark Guardian
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Wildfire
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Ice Elemental - HP:1329/2160 Shields:3
+2: Shadow Wisp - HP:383/729 Shields:1
+3: Shaggy Meep - HP:860/1036 Shields:3
+4: Dark Guardian - HP:1343/1470 Shields:3
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Wildfire
+Shadow Wisp recibe 504 de daño de tipo Fire con debilidad
+Shadow Wisp entra en Breaking Point
+Shadow Wisp termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:488/504 BP:3
+B-Ochette - HP:4087/4447 SP:363/369 BP:3
+C-Alfyn - HP:5148/5336 SP:369/383 BP:3
+Equipo del enemigo
+A-Ice Elemental - HP:1329/2160 Shields:3
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:860/1036 Shields:3
+D-Dark Guardian - HP:1343/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Shaggy Meep
+2.Ice Elemental
+3.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Shaggy Meep
+5.Ice Elemental
+6.Dark Guardian
+----------------------------------------
+Shaggy Meep usa Attack
+Alfyn recibe 47 de daño físico
+Alfyn termina con HP:5101
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:488/504 BP:3
+B-Ochette - HP:4087/4447 SP:363/369 BP:3
+C-Alfyn - HP:5101/5336 SP:369/383 BP:3
+Equipo del enemigo
+A-Ice Elemental - HP:1329/2160 Shields:3
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:860/1036 Shields:3
+D-Dark Guardian - HP:1343/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Shaggy Meep
+5.Ice Elemental
+6.Dark Guardian
+----------------------------------------
+Ice Elemental usa Iceshot
+Ochette recibe 240 de daño elemental
+Ochette termina con HP:3847
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:488/504 BP:3
+B-Ochette - HP:3847/4447 SP:363/369 BP:3
+C-Alfyn - HP:5101/5336 SP:369/383 BP:3
+Equipo del enemigo
+A-Ice Elemental - HP:1329/2160 Shields:3
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:860/1036 Shields:3
+D-Dark Guardian - HP:1343/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Shaggy Meep
+5.Ice Elemental
+6.Dark Guardian
+----------------------------------------
+Dark Guardian usa Attack
+Alfyn recibe 79 de daño físico
+Alfyn termina con HP:5022
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:488/504 BP:4
+B-Ochette - HP:3847/4447 SP:363/369 BP:4
+C-Alfyn - HP:5022/5336 SP:369/383 BP:4
+Equipo del enemigo
+A-Ice Elemental - HP:1329/2160 Shields:3
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:860/1036 Shields:3
+D-Dark Guardian - HP:1343/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Shaggy Meep
+5.Ice Elemental
+6.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Shaggy Meep
+5.Ice Elemental
+6.Dark Guardian
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:488/504 BP:4
+B-Ochette - HP:3847/4447 SP:363/369 BP:4
+C-Alfyn - HP:5022/5336 SP:369/383 BP:4
+Equipo del enemigo
+A-Ice Elemental - HP:1329/2160 Shields:3
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:860/1036 Shields:3
+D-Dark Guardian - HP:1343/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Alfyn
+3.Shaggy Meep
+4.Ice Elemental
+5.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Shaggy Meep
+5.Ice Elemental
+6.Dark Guardian
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Ice Elemental - HP:1329/2160 Shields:3
+2: Shaggy Meep - HP:860/1036 Shields:3
+3: Dark Guardian - HP:1343/1470 Shields:3
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette ataca
+Ice Elemental recibe 84 de daño de tipo Bow
+Ice Elemental termina con HP:1245
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:488/504 BP:4
+B-Ochette - HP:3847/4447 SP:363/369 BP:4
+C-Alfyn - HP:5022/5336 SP:369/383 BP:4
+Equipo del enemigo
+A-Ice Elemental - HP:1245/2160 Shields:3
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:860/1036 Shields:3
+D-Dark Guardian - HP:1343/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Shaggy Meep
+3.Ice Elemental
+4.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Shaggy Meep
+5.Ice Elemental
+6.Dark Guardian
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:488/504 BP:4
+B-Ochette - HP:3847/4447 SP:363/369 BP:4
+C-Alfyn - HP:5022/5336 SP:369/383 BP:4
+Equipo del enemigo
+A-Ice Elemental - HP:1245/2160 Shields:3
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:860/1036 Shields:3
+D-Dark Guardian - HP:1343/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Shaggy Meep
+2.Ice Elemental
+3.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Alfyn
+3.Ochette
+4.Shaggy Meep
+5.Ice Elemental
+6.Dark Guardian
+----------------------------------------
+Shaggy Meep usa Attack
+Alfyn se defiende
+Alfyn recibe 23 de daño físico
+Alfyn termina con HP:4999
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:488/504 BP:4
+B-Ochette - HP:3847/4447 SP:363/369 BP:4
+C-Alfyn - HP:4999/5336 SP:369/383 BP:4
+Equipo del enemigo
+A-Ice Elemental - HP:1245/2160 Shields:3
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:860/1036 Shields:3
+D-Dark Guardian - HP:1343/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Alfyn
+3.Ochette
+4.Shaggy Meep
+5.Ice Elemental
+6.Dark Guardian
+----------------------------------------
+Ice Elemental usa Iceshot
+Ochette recibe 240 de daño elemental
+Ochette termina con HP:3607
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:488/504 BP:4
+B-Ochette - HP:3607/4447 SP:363/369 BP:4
+C-Alfyn - HP:4999/5336 SP:369/383 BP:4
+Equipo del enemigo
+A-Ice Elemental - HP:1245/2160 Shields:3
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:860/1036 Shields:3
+D-Dark Guardian - HP:1343/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Alfyn
+3.Ochette
+4.Shaggy Meep
+5.Ice Elemental
+6.Dark Guardian
+----------------------------------------
+Dark Guardian usa Attack
+Alfyn se defiende
+Alfyn recibe 39 de daño físico
+Alfyn termina con HP:4960
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:488/504 BP:5
+B-Ochette - HP:3607/4447 SP:363/369 BP:5
+C-Alfyn - HP:4960/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:1245/2160 Shields:3
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:860/1036 Shields:3
+D-Dark Guardian - HP:1343/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Alfyn
+3.Ochette
+4.Shaggy Meep
+5.Ice Elemental
+6.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Shaggy Meep
+5.Ice Elemental
+6.Dark Guardian
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:488/504 BP:5
+B-Ochette - HP:3607/4447 SP:363/369 BP:5
+C-Alfyn - HP:4960/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:1245/2160 Shields:3
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:860/1036 Shields:3
+D-Dark Guardian - HP:1343/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Ochette
+3.Shaggy Meep
+4.Ice Elemental
+5.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Shaggy Meep
+5.Ice Elemental
+6.Dark Guardian
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:488/504 BP:5
+B-Ochette - HP:3607/4447 SP:363/369 BP:5
+C-Alfyn - HP:4960/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:1245/2160 Shields:3
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:860/1036 Shields:3
+D-Dark Guardian - HP:1343/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Shaggy Meep
+3.Ice Elemental
+4.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Alfyn
+3.Ochette
+4.Shaggy Meep
+5.Ice Elemental
+6.Dark Guardian
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:488/504 BP:5
+B-Ochette - HP:3607/4447 SP:363/369 BP:5
+C-Alfyn - HP:4960/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:1245/2160 Shields:3
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:860/1036 Shields:3
+D-Dark Guardian - HP:1343/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Shaggy Meep
+2.Ice Elemental
+3.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Shaggy Meep
+5.Ice Elemental
+6.Dark Guardian
+----------------------------------------
+Shaggy Meep usa Attack
+Alfyn se defiende
+Alfyn recibe 23 de daño físico
+Alfyn termina con HP:4937
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:488/504 BP:5
+B-Ochette - HP:3607/4447 SP:363/369 BP:5
+C-Alfyn - HP:4937/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:1245/2160 Shields:3
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:860/1036 Shields:3
+D-Dark Guardian - HP:1343/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Shaggy Meep
+5.Ice Elemental
+6.Dark Guardian
+----------------------------------------
+Ice Elemental usa Iceshot
+Ochette se defiende
+Ochette recibe 120 de daño elemental
+Ochette termina con HP:3487
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:488/504 BP:5
+B-Ochette - HP:3487/4447 SP:363/369 BP:5
+C-Alfyn - HP:4937/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:1245/2160 Shields:3
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:860/1036 Shields:3
+D-Dark Guardian - HP:1343/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Shaggy Meep
+5.Ice Elemental
+6.Dark Guardian
+----------------------------------------
+Dark Guardian usa Attack
+Alfyn se defiende
+Alfyn recibe 39 de daño físico
+Alfyn termina con HP:4898
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:488/504 BP:5
+B-Ochette - HP:3487/4447 SP:363/369 BP:5
+C-Alfyn - HP:4898/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:1245/2160 Shields:3
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:860/1036 Shields:3
+D-Dark Guardian - HP:1343/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Shaggy Meep
+5.Ice Elemental
+6.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Shaggy Meep
+5.Ice Elemental
+6.Dark Guardian
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:488/504 BP:5
+B-Ochette - HP:3487/4447 SP:363/369 BP:5
+C-Alfyn - HP:4898/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:1245/2160 Shields:3
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:860/1036 Shields:3
+D-Dark Guardian - HP:1343/1470 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Alfyn
+3.Shaggy Meep
+4.Ice Elemental
+5.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Shaggy Meep
+5.Ice Elemental
+6.Dark Guardian
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Ice Elemental - HP:1245/2160 Shields:3
+2: Shaggy Meep - HP:860/1036 Shields:3
+3: Dark Guardian - HP:1343/1470 Shields:3
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette ataca
+Dark Guardian recibe 412 de daño de tipo Bow con debilidad
+Dark Guardian termina con HP:931
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:488/504 BP:5
+B-Ochette - HP:3487/4447 SP:363/369 BP:5
+C-Alfyn - HP:4898/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:1245/2160 Shields:3
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:860/1036 Shields:3
+D-Dark Guardian - HP:931/1470 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Shaggy Meep
+3.Ice Elemental
+4.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Shaggy Meep
+5.Ice Elemental
+6.Dark Guardian
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Wildfire
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Ice Elemental - HP:1245/2160 Shields:3
+2: Shaggy Meep - HP:860/1036 Shields:3
+3: Dark Guardian - HP:931/1470 Shields:2
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Wildfire
+Shaggy Meep recibe 313 de daño de tipo Fire
+Shaggy Meep termina con HP:547
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:488/504 BP:5
+B-Ochette - HP:3487/4447 SP:363/369 BP:5
+C-Alfyn - HP:4898/5336 SP:362/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:1245/2160 Shields:3
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:547/1036 Shields:3
+D-Dark Guardian - HP:931/1470 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Shaggy Meep
+2.Ice Elemental
+3.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Shaggy Meep
+5.Ice Elemental
+6.Dark Guardian
+----------------------------------------
+Shaggy Meep usa Attack
+Alfyn recibe 47 de daño físico
+Alfyn termina con HP:4851
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:488/504 BP:5
+B-Ochette - HP:3487/4447 SP:363/369 BP:5
+C-Alfyn - HP:4851/5336 SP:362/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:1245/2160 Shields:3
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:547/1036 Shields:3
+D-Dark Guardian - HP:931/1470 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Shaggy Meep
+5.Ice Elemental
+6.Dark Guardian
+----------------------------------------
+Ice Elemental usa Iceshot
+Ochette recibe 240 de daño elemental
+Ochette termina con HP:3247
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:488/504 BP:5
+B-Ochette - HP:3247/4447 SP:363/369 BP:5
+C-Alfyn - HP:4851/5336 SP:362/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:1245/2160 Shields:3
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:547/1036 Shields:3
+D-Dark Guardian - HP:931/1470 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Shaggy Meep
+5.Ice Elemental
+6.Dark Guardian
+----------------------------------------
+Dark Guardian usa Attack
+Alfyn recibe 79 de daño físico
+Alfyn termina con HP:4772
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:488/504 BP:5
+B-Ochette - HP:3247/4447 SP:363/369 BP:5
+C-Alfyn - HP:4772/5336 SP:362/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:1245/2160 Shields:3
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:547/1036 Shields:3
+D-Dark Guardian - HP:931/1470 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Shaggy Meep
+5.Ice Elemental
+6.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Shaggy Meep
+5.Ice Elemental
+6.Dark Guardian
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Last Stand
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Last Stand
+Ice Elemental recibe 0 de daño de tipo Axe
+Shaggy Meep recibe 191 de daño de tipo Axe
+Dark Guardian recibe 138 de daño de tipo Axe
+Ice Elemental termina con HP:1245
+Shaggy Meep termina con HP:356
+Dark Guardian termina con HP:793
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:472/504 BP:5
+B-Ochette - HP:3247/4447 SP:363/369 BP:5
+C-Alfyn - HP:4772/5336 SP:362/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:1245/2160 Shields:3
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:356/1036 Shields:3
+D-Dark Guardian - HP:793/1470 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Alfyn
+3.Shaggy Meep
+4.Ice Elemental
+5.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Shaggy Meep
+5.Ice Elemental
+6.Dark Guardian
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:472/504 BP:5
+B-Ochette - HP:3247/4447 SP:363/369 BP:5
+C-Alfyn - HP:4772/5336 SP:362/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:1245/2160 Shields:3
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:356/1036 Shields:3
+D-Dark Guardian - HP:793/1470 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Shaggy Meep
+3.Ice Elemental
+4.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Primrose
+3.Alfyn
+4.Shaggy Meep
+5.Ice Elemental
+6.Dark Guardian
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Wildfire
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Ice Elemental - HP:1245/2160 Shields:3
+2: Shaggy Meep - HP:356/1036 Shields:3
+3: Dark Guardian - HP:793/1470 Shields:2
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Wildfire
+Ice Elemental recibe 482 de daño de tipo Fire con debilidad
+Ice Elemental termina con HP:763
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:472/504 BP:5
+B-Ochette - HP:3247/4447 SP:363/369 BP:5
+C-Alfyn - HP:4772/5336 SP:355/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:763/2160 Shields:2
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:356/1036 Shields:3
+D-Dark Guardian - HP:793/1470 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Shaggy Meep
+2.Ice Elemental
+3.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Primrose
+3.Alfyn
+4.Shaggy Meep
+5.Ice Elemental
+6.Dark Guardian
+----------------------------------------
+Shaggy Meep usa Attack
+Alfyn recibe 47 de daño físico
+Alfyn termina con HP:4725
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:472/504 BP:5
+B-Ochette - HP:3247/4447 SP:363/369 BP:5
+C-Alfyn - HP:4725/5336 SP:355/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:763/2160 Shields:2
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:356/1036 Shields:3
+D-Dark Guardian - HP:793/1470 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Primrose
+3.Alfyn
+4.Shaggy Meep
+5.Ice Elemental
+6.Dark Guardian
+----------------------------------------
+Ice Elemental usa Iceshot
+Ochette se defiende
+Ochette recibe 120 de daño elemental
+Ochette termina con HP:3127
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:472/504 BP:5
+B-Ochette - HP:3127/4447 SP:363/369 BP:5
+C-Alfyn - HP:4725/5336 SP:355/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:763/2160 Shields:2
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:356/1036 Shields:3
+D-Dark Guardian - HP:793/1470 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Primrose
+3.Alfyn
+4.Shaggy Meep
+5.Ice Elemental
+6.Dark Guardian
+----------------------------------------
+Dark Guardian usa Attack
+Alfyn recibe 79 de daño físico
+Alfyn termina con HP:4646
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:472/504 BP:5
+B-Ochette - HP:3127/4447 SP:363/369 BP:5
+C-Alfyn - HP:4646/5336 SP:355/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:763/2160 Shields:2
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:356/1036 Shields:3
+D-Dark Guardian - HP:793/1470 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Primrose
+3.Alfyn
+4.Shaggy Meep
+5.Ice Elemental
+6.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Shaggy Meep
+5.Ice Elemental
+6.Dark Guardian
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Holy Light
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Ice Elemental - HP:763/2160 Shields:2
+2: Shaggy Meep - HP:356/1036 Shields:3
+3: Dark Guardian - HP:793/1470 Shields:2
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette usa Holy Light
+Dark Guardian recibe 551 de daño de tipo Light con debilidad
+Dark Guardian termina con HP:242
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:472/504 BP:5
+B-Ochette - HP:3127/4447 SP:357/369 BP:5
+C-Alfyn - HP:4646/5336 SP:355/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:763/2160 Shields:2
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:356/1036 Shields:3
+D-Dark Guardian - HP:242/1470 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Alfyn
+3.Shaggy Meep
+4.Ice Elemental
+5.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Shaggy Meep
+5.Ice Elemental
+6.Dark Guardian
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Last Stand
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Last Stand
+Ice Elemental recibe 0 de daño de tipo Axe
+Shaggy Meep recibe 191 de daño de tipo Axe
+Dark Guardian recibe 138 de daño de tipo Axe
+Ice Elemental termina con HP:763
+Shaggy Meep termina con HP:165
+Dark Guardian termina con HP:104
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:456/504 BP:5
+B-Ochette - HP:3127/4447 SP:357/369 BP:5
+C-Alfyn - HP:4646/5336 SP:355/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:763/2160 Shields:2
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:165/1036 Shields:3
+D-Dark Guardian - HP:104/1470 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Shaggy Meep
+3.Ice Elemental
+4.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Shaggy Meep
+5.Ice Elemental
+6.Dark Guardian
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Wildfire
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Ice Elemental - HP:763/2160 Shields:2
+2: Shaggy Meep - HP:165/1036 Shields:3
+3: Dark Guardian - HP:104/1470 Shields:1
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Wildfire
+Shaggy Meep recibe 313 de daño de tipo Fire
+Shaggy Meep termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:456/504 BP:5
+B-Ochette - HP:3127/4447 SP:357/369 BP:5
+C-Alfyn - HP:4646/5336 SP:348/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:763/2160 Shields:2
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:0/1036 Shields:3
+D-Dark Guardian - HP:104/1470 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Ice Elemental
+5.Dark Guardian
+----------------------------------------
+Ice Elemental usa Iceshot
+Ochette recibe 240 de daño elemental
+Ochette termina con HP:2887
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:456/504 BP:5
+B-Ochette - HP:2887/4447 SP:357/369 BP:5
+C-Alfyn - HP:4646/5336 SP:348/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:763/2160 Shields:2
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:0/1036 Shields:3
+D-Dark Guardian - HP:104/1470 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Ice Elemental
+5.Dark Guardian
+----------------------------------------
+Dark Guardian usa Attack
+Alfyn recibe 79 de daño físico
+Alfyn termina con HP:4567
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:456/504 BP:5
+B-Ochette - HP:2887/4447 SP:357/369 BP:5
+C-Alfyn - HP:4567/5336 SP:348/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:763/2160 Shields:2
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:0/1036 Shields:3
+D-Dark Guardian - HP:104/1470 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Ice Elemental
+5.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Ice Elemental
+5.Dark Guardian
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Ice Elemental - HP:763/2160 Shields:2
+2: Dark Guardian - HP:104/1470 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Ice Elemental recibe 0 de daño de tipo Dagger
+Ice Elemental termina con HP:763
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:456/504 BP:5
+B-Ochette - HP:2887/4447 SP:357/369 BP:5
+C-Alfyn - HP:4567/5336 SP:348/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:763/2160 Shields:2
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:0/1036 Shields:3
+D-Dark Guardian - HP:104/1470 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Alfyn
+3.Ice Elemental
+4.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Ice Elemental
+5.Dark Guardian
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:456/504 BP:5
+B-Ochette - HP:2887/4447 SP:357/369 BP:5
+C-Alfyn - HP:4567/5336 SP:348/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:763/2160 Shields:2
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:0/1036 Shields:3
+D-Dark Guardian - HP:104/1470 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Ice Elemental
+3.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Primrose
+3.Alfyn
+4.Ice Elemental
+5.Dark Guardian
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Ice Elemental - HP:763/2160 Shields:2
+2: Dark Guardian - HP:104/1470 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Ice Elemental recibe 25 de daño de tipo Axe
+Ice Elemental termina con HP:738
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:456/504 BP:5
+B-Ochette - HP:2887/4447 SP:357/369 BP:5
+C-Alfyn - HP:4567/5336 SP:348/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:738/2160 Shields:2
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:0/1036 Shields:3
+D-Dark Guardian - HP:104/1470 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Primrose
+3.Alfyn
+4.Ice Elemental
+5.Dark Guardian
+----------------------------------------
+Ice Elemental usa Iceshot
+Ochette se defiende
+Ochette recibe 120 de daño elemental
+Ochette termina con HP:2767
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:456/504 BP:5
+B-Ochette - HP:2767/4447 SP:357/369 BP:5
+C-Alfyn - HP:4567/5336 SP:348/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:738/2160 Shields:2
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:0/1036 Shields:3
+D-Dark Guardian - HP:104/1470 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Primrose
+3.Alfyn
+4.Ice Elemental
+5.Dark Guardian
+----------------------------------------
+Dark Guardian usa Attack
+Alfyn recibe 79 de daño físico
+Alfyn termina con HP:4488
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:456/504 BP:5
+B-Ochette - HP:2767/4447 SP:357/369 BP:5
+C-Alfyn - HP:4488/5336 SP:348/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:738/2160 Shields:2
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:0/1036 Shields:3
+D-Dark Guardian - HP:104/1470 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Primrose
+3.Alfyn
+4.Ice Elemental
+5.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Ice Elemental
+5.Dark Guardian
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:456/504 BP:5
+B-Ochette - HP:2767/4447 SP:357/369 BP:5
+C-Alfyn - HP:4488/5336 SP:348/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:738/2160 Shields:2
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:0/1036 Shields:3
+D-Dark Guardian - HP:104/1470 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Alfyn
+3.Ice Elemental
+4.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Primrose
+3.Alfyn
+4.Ice Elemental
+5.Dark Guardian
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:456/504 BP:5
+B-Ochette - HP:2767/4447 SP:357/369 BP:5
+C-Alfyn - HP:4488/5336 SP:348/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:738/2160 Shields:2
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:0/1036 Shields:3
+D-Dark Guardian - HP:104/1470 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Ice Elemental
+3.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Ice Elemental
+5.Dark Guardian
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:456/504 BP:5
+B-Ochette - HP:2767/4447 SP:357/369 BP:5
+C-Alfyn - HP:4488/5336 SP:348/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:738/2160 Shields:2
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:0/1036 Shields:3
+D-Dark Guardian - HP:104/1470 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Ice Elemental
+5.Dark Guardian
+----------------------------------------
+Ice Elemental usa Iceshot
+Ochette se defiende
+Ochette recibe 120 de daño elemental
+Ochette termina con HP:2647
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:456/504 BP:5
+B-Ochette - HP:2647/4447 SP:357/369 BP:5
+C-Alfyn - HP:4488/5336 SP:348/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:738/2160 Shields:2
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:0/1036 Shields:3
+D-Dark Guardian - HP:104/1470 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Ice Elemental
+5.Dark Guardian
+----------------------------------------
+Dark Guardian usa Attack
+Alfyn se defiende
+Alfyn recibe 39 de daño físico
+Alfyn termina con HP:4449
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:456/504 BP:5
+B-Ochette - HP:2647/4447 SP:357/369 BP:5
+C-Alfyn - HP:4449/5336 SP:348/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:738/2160 Shields:2
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:0/1036 Shields:3
+D-Dark Guardian - HP:104/1470 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Ice Elemental
+5.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Ice Elemental
+5.Dark Guardian
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Ice Elemental - HP:738/2160 Shields:2
+2: Dark Guardian - HP:104/1470 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Ice Elemental recibe 0 de daño de tipo Dagger
+Ice Elemental termina con HP:738
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:456/504 BP:5
+B-Ochette - HP:2647/4447 SP:357/369 BP:5
+C-Alfyn - HP:4449/5336 SP:348/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:738/2160 Shields:2
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:0/1036 Shields:3
+D-Dark Guardian - HP:104/1470 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Alfyn
+3.Ice Elemental
+4.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Ice Elemental
+5.Dark Guardian
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:456/504 BP:5
+B-Ochette - HP:2647/4447 SP:357/369 BP:5
+C-Alfyn - HP:4449/5336 SP:348/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:738/2160 Shields:2
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:0/1036 Shields:3
+D-Dark Guardian - HP:104/1470 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Ice Elemental
+3.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Primrose
+3.Alfyn
+4.Ice Elemental
+5.Dark Guardian
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Wildfire
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Ice Elemental - HP:738/2160 Shields:2
+2: Dark Guardian - HP:104/1470 Shields:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Wildfire
+Dark Guardian recibe 339 de daño de tipo Fire
+Dark Guardian termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:456/504 BP:5
+B-Ochette - HP:2647/4447 SP:357/369 BP:5
+C-Alfyn - HP:4449/5336 SP:341/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:738/2160 Shields:2
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:0/1036 Shields:3
+D-Dark Guardian - HP:0/1470 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Primrose
+3.Alfyn
+4.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Ochette se defiende
+Ochette recibe 120 de daño elemental
+Ochette termina con HP:2527
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:456/504 BP:5
+B-Ochette - HP:2527/4447 SP:357/369 BP:5
+C-Alfyn - HP:4449/5336 SP:341/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:738/2160 Shields:2
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:0/1036 Shields:3
+D-Dark Guardian - HP:0/1470 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Primrose
+3.Alfyn
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Ice Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Ice Elemental - HP:738/2160 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette ataca
+Ice Elemental recibe 84 de daño de tipo Bow
+Ice Elemental termina con HP:654
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:456/504 BP:5
+B-Ochette - HP:2527/4447 SP:357/369 BP:5
+C-Alfyn - HP:4449/5336 SP:341/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:654/2160 Shields:2
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:0/1036 Shields:3
+D-Dark Guardian - HP:0/1470 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Alfyn
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Ice Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Ice Elemental - HP:654/2160 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Ice Elemental recibe 0 de daño de tipo Dagger
+Ice Elemental termina con HP:654
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:456/504 BP:5
+B-Ochette - HP:2527/4447 SP:357/369 BP:5
+C-Alfyn - HP:4449/5336 SP:341/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:654/2160 Shields:2
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:0/1036 Shields:3
+D-Dark Guardian - HP:0/1470 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Ice Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Wildfire
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Ice Elemental - HP:654/2160 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Wildfire
+Ice Elemental recibe 482 de daño de tipo Fire con debilidad
+Ice Elemental termina con HP:172
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:456/504 BP:5
+B-Ochette - HP:2527/4447 SP:357/369 BP:5
+C-Alfyn - HP:4449/5336 SP:334/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:172/2160 Shields:1
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:0/1036 Shields:3
+D-Dark Guardian - HP:0/1470 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Ochette recibe 240 de daño elemental
+Ochette termina con HP:2287
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:456/504 BP:5
+B-Ochette - HP:2287/4447 SP:357/369 BP:5
+C-Alfyn - HP:4449/5336 SP:334/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:172/2160 Shields:1
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:0/1036 Shields:3
+D-Dark Guardian - HP:0/1470 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Ice Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Last Stand
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Last Stand
+Ice Elemental recibe 0 de daño de tipo Axe
+Ice Elemental termina con HP:172
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3880/4002 SP:440/504 BP:5
+B-Ochette - HP:2287/4447 SP:357/369 BP:5
+C-Alfyn - HP:4449/5336 SP:334/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:172/2160 Shields:1
+B-Shadow Wisp - HP:0/729 Shields:0
+C-Shaggy Meep - HP:0/1036 Shields:3
+D-Dark Guardian - HP:0/1470 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Alfyn
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ochette
+3.Alfyn
+4.Ice Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Holy Light
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Ice Elemental - HP:172/2160 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette usa Holy Light
+Ice Elemental recibe 349 de daño de tipo Light
+Ice Elemental termina con HP:0
+----------------------------------------
+Gana equipo del jugador

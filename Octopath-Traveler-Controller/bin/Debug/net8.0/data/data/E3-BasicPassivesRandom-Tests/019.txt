@@ -1,0 +1,847 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+INPUT: 18
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:2
+B-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+C-Olberic - HP:5781/5781 SP:291/291 BP:1
+D-Therion - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Lightning Elemental - HP:2133/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Heatcore
+3.Z'aanta
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Heatcore
+3.Z'aanta
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Spearhead
+2: Icewind
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Lightning Elemental - HP:2133/2133 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Spearhead
+Lightning Elemental recibe 220 de daño de tipo Spear
+Lightning Elemental termina con HP:1913
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:2
+B-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+C-Olberic - HP:5781/5781 SP:291/291 BP:1
+D-Therion - HP:4447/4447 SP:326/332 BP:1
+Equipo del enemigo
+A-Lightning Elemental - HP:1913/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Z'aanta
+3.Olberic
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Heatcore
+3.Z'aanta
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Lightning Bolt
+2: Fireball
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore usa Lightning Bolt
+Lightning Elemental recibe 80 de daño de tipo Lightning
+Lightning Elemental termina con HP:1833
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:334/342 BP:2
+B-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+C-Olberic - HP:5781/5781 SP:291/291 BP:1
+D-Therion - HP:4447/4447 SP:326/332 BP:1
+Equipo del enemigo
+A-Lightning Elemental - HP:1833/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Olberic
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Heatcore
+3.Z'aanta
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Icewind
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta usa Icewind
+Lightning Elemental recibe 246 de daño de tipo Ice
+Lightning Elemental termina con HP:1587
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:334/342 BP:2
+B-Z'aanta - HP:3222/3222 SP:363/371 BP:1
+C-Olberic - HP:5781/5781 SP:291/291 BP:1
+D-Therion - HP:4447/4447 SP:326/332 BP:1
+Equipo del enemigo
+A-Lightning Elemental - HP:1587/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Heatcore
+3.Z'aanta
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Holy Light
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Lightning Elemental - HP:1587/2133 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Holy Light
+Lightning Elemental recibe 302 de daño de tipo Light
+Lightning Elemental termina con HP:1285
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:334/342 BP:2
+B-Z'aanta - HP:3222/3222 SP:363/371 BP:1
+C-Olberic - HP:5781/5781 SP:285/291 BP:1
+D-Therion - HP:4447/4447 SP:326/332 BP:1
+Equipo del enemigo
+A-Lightning Elemental - HP:1285/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Heatcore
+3.Z'aanta
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Therion recibe 180 de daño elemental
+Therion termina con HP:4267
+----------------------------------------
+Heatcore obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:334/342 BP:2
+B-Z'aanta - HP:3222/3222 SP:363/371 BP:1
+C-Olberic - HP:5781/5781 SP:285/291 BP:1
+D-Therion - HP:4267/4447 SP:326/332 BP:1
+Equipo del enemigo
+A-Lightning Elemental - HP:1285/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Heatcore
+3.Z'aanta
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Lightning Elemental - HP:1285/2133 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore ataca
+Lightning Elemental recibe 105 de daño de tipo Bow
+Lightning Elemental termina con HP:1180
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:334/342 BP:3
+B-Z'aanta - HP:3222/3222 SP:363/371 BP:2
+C-Olberic - HP:5781/5781 SP:285/291 BP:2
+D-Therion - HP:4447/4447 SP:326/332 BP:2
+Equipo del enemigo
+A-Lightning Elemental - HP:1180/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Heatcore
+3.Z'aanta
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Heatcore
+3.Z'aanta
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Spearhead
+2: Icewind
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Icewind
+Lightning Elemental recibe 102 de daño de tipo Ice
+Lightning Elemental termina con HP:1078
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:334/342 BP:3
+B-Z'aanta - HP:3222/3222 SP:363/371 BP:2
+C-Olberic - HP:5781/5781 SP:285/291 BP:2
+D-Therion - HP:4447/4447 SP:318/332 BP:2
+Equipo del enemigo
+A-Lightning Elemental - HP:1078/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Z'aanta
+3.Olberic
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Heatcore
+3.Z'aanta
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:334/342 BP:3
+B-Z'aanta - HP:3222/3222 SP:363/371 BP:2
+C-Olberic - HP:5781/5781 SP:285/291 BP:2
+D-Therion - HP:4447/4447 SP:318/332 BP:2
+Equipo del enemigo
+A-Lightning Elemental - HP:1078/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Olberic
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Therion
+3.Z'aanta
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Lightning Elemental - HP:1078/2133 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Lightning Elemental recibe 30 de daño de tipo Axe
+Lightning Elemental termina con HP:1048
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:334/342 BP:3
+B-Z'aanta - HP:3222/3222 SP:363/371 BP:2
+C-Olberic - HP:5781/5781 SP:285/291 BP:2
+D-Therion - HP:4447/4447 SP:318/332 BP:2
+Equipo del enemigo
+A-Lightning Elemental - HP:1048/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Therion
+3.Z'aanta
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:334/342 BP:3
+B-Z'aanta - HP:3222/3222 SP:363/371 BP:2
+C-Olberic - HP:5781/5781 SP:285/291 BP:2
+D-Therion - HP:4447/4447 SP:318/332 BP:2
+Equipo del enemigo
+A-Lightning Elemental - HP:1048/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Olberic
+3.Therion
+4.Z'aanta
+5.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Therion recibe 180 de daño elemental
+Therion termina con HP:4267
+----------------------------------------
+Heatcore obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:334/342 BP:3
+B-Z'aanta - HP:3222/3222 SP:363/371 BP:2
+C-Olberic - HP:5781/5781 SP:285/291 BP:2
+D-Therion - HP:4267/4447 SP:318/332 BP:2
+Equipo del enemigo
+A-Lightning Elemental - HP:1048/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Olberic
+3.Therion
+4.Z'aanta
+5.Lightning Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:334/342 BP:4
+B-Z'aanta - HP:3222/3222 SP:363/371 BP:3
+C-Olberic - HP:5781/5781 SP:285/291 BP:3
+D-Therion - HP:4447/4447 SP:318/332 BP:3
+Equipo del enemigo
+A-Lightning Elemental - HP:1048/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Olberic
+3.Therion
+4.Z'aanta
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Heatcore
+3.Z'aanta
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Lightning Elemental - HP:1048/2133 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore ataca
+Lightning Elemental recibe 105 de daño de tipo Bow
+Lightning Elemental termina con HP:943
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:334/342 BP:4
+B-Z'aanta - HP:3222/3222 SP:363/371 BP:3
+C-Olberic - HP:5781/5781 SP:285/291 BP:3
+D-Therion - HP:4447/4447 SP:318/332 BP:3
+Equipo del enemigo
+A-Lightning Elemental - HP:943/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Therion
+3.Z'aanta
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Heatcore
+3.Z'aanta
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Lightning Elemental - HP:943/2133 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Lightning Elemental recibe 0 de daño de tipo Sword
+Lightning Elemental termina con HP:943
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:334/342 BP:4
+B-Z'aanta - HP:3222/3222 SP:363/371 BP:3
+C-Olberic - HP:5781/5781 SP:285/291 BP:3
+D-Therion - HP:4447/4447 SP:318/332 BP:3
+Equipo del enemigo
+A-Lightning Elemental - HP:943/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Z'aanta
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Heatcore
+3.Z'aanta
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Spearhead
+2: Icewind
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Lightning Elemental - HP:943/2133 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Spearhead
+Lightning Elemental recibe 220 de daño de tipo Spear
+Lightning Elemental termina con HP:723
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:334/342 BP:4
+B-Z'aanta - HP:3222/3222 SP:363/371 BP:3
+C-Olberic - HP:5781/5781 SP:285/291 BP:3
+D-Therion - HP:4447/4447 SP:312/332 BP:3
+Equipo del enemigo
+A-Lightning Elemental - HP:723/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Heatcore
+3.Z'aanta
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:334/342 BP:4
+B-Z'aanta - HP:3222/3222 SP:363/371 BP:3
+C-Olberic - HP:5781/5781 SP:285/291 BP:3
+D-Therion - HP:4447/4447 SP:312/332 BP:3
+Equipo del enemigo
+A-Lightning Elemental - HP:723/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Therion
+3.Heatcore
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Therion recibe 180 de daño elemental
+Therion termina con HP:4267
+----------------------------------------
+Heatcore obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:334/342 BP:4
+B-Z'aanta - HP:3222/3222 SP:363/371 BP:3
+C-Olberic - HP:5781/5781 SP:285/291 BP:3
+D-Therion - HP:4267/4447 SP:312/332 BP:3
+Equipo del enemigo
+A-Lightning Elemental - HP:723/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Therion
+3.Heatcore
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Lightning Bolt
+2: Fireball
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore usa Lightning Bolt
+Lightning Elemental recibe 80 de daño de tipo Lightning
+Lightning Elemental termina con HP:643
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:326/342 BP:5
+B-Z'aanta - HP:3222/3222 SP:363/371 BP:4
+C-Olberic - HP:5781/5781 SP:285/291 BP:4
+D-Therion - HP:4447/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Lightning Elemental - HP:643/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Therion
+3.Heatcore
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Heatcore
+3.Z'aanta
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Icewind
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta usa Icewind
+Lightning Elemental recibe 246 de daño de tipo Ice
+Lightning Elemental termina con HP:397
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:326/342 BP:5
+B-Z'aanta - HP:3222/3222 SP:355/371 BP:4
+C-Olberic - HP:5781/5781 SP:285/291 BP:4
+D-Therion - HP:4447/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Lightning Elemental - HP:397/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Heatcore
+3.Olberic
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Heatcore
+3.Z'aanta
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Spearhead
+2: Icewind
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Icewind
+Lightning Elemental recibe 102 de daño de tipo Ice
+Lightning Elemental termina con HP:295
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:326/342 BP:5
+B-Z'aanta - HP:3222/3222 SP:355/371 BP:4
+C-Olberic - HP:5781/5781 SP:285/291 BP:4
+D-Therion - HP:4447/4447 SP:304/332 BP:4
+Equipo del enemigo
+A-Lightning Elemental - HP:295/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Olberic
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Heatcore
+3.Z'aanta
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:326/342 BP:5
+B-Z'aanta - HP:3222/3222 SP:355/371 BP:4
+C-Olberic - HP:5781/5781 SP:285/291 BP:4
+D-Therion - HP:4447/4447 SP:304/332 BP:4
+Equipo del enemigo
+A-Lightning Elemental - HP:295/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Therion
+3.Z'aanta
+4.Olberic
+5.Lightning Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Holy Light
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Lightning Elemental - HP:295/2133 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Holy Light
+Lightning Elemental recibe 302 de daño de tipo Light
+Lightning Elemental termina con HP:0
+----------------------------------------
+Gana equipo del jugador

@@ -1,0 +1,3348 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+INPUT: 29
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+C-Throné - HP:4447/4447 SP:332/332 BP:1
+D-Primrose - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Fire Elemental - HP:1354/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Heatcore
+3.Primrose
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Heatcore
+3.Primrose
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Fire Elemental - HP:1354/1354 Shields:4
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Dreadwolf - HP:7530/7530 Shields:9
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Throné ataca
+Highland Ratkin I recibe 0 de daño de tipo Dagger con debilidad
+Highland Ratkin I recibe 0 de daño de tipo Dagger con debilidad
+Highland Ratkin I termina con HP:1000
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+C-Throné - HP:4447/4447 SP:332/332 BP:0
+D-Primrose - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Fire Elemental - HP:1354/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Primrose
+3.Dreadwolf
+4.Cyrus
+5.Highland Ratkin I
+6.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Heatcore
+3.Primrose
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+C-Throné - HP:4447/4447 SP:332/332 BP:0
+D-Primrose - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Fire Elemental - HP:1354/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Dreadwolf
+3.Cyrus
+4.Highland Ratkin I
+5.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Throné
+3.Primrose
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+C-Throné - HP:4447/4447 SP:332/332 BP:0
+D-Primrose - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Fire Elemental - HP:1354/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Cyrus
+3.Highland Ratkin I
+4.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Throné
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Primrose se defiende
+Primrose recibe 406 de daño físico
+Primrose termina con HP:3596
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+C-Throné - HP:4447/4447 SP:332/332 BP:0
+D-Primrose - HP:3596/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Fire Elemental - HP:1354/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Highland Ratkin I
+3.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Throné
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+C-Throné - HP:4447/4447 SP:332/332 BP:0
+D-Primrose - HP:3596/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Fire Elemental - HP:1354/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Cyrus
+4.Throné
+5.Dreadwolf
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Highland Ratkin I usa Stab
+Primrose se defiende
+Primrose recibe 212 de daño físico
+Primrose termina con HP:3384
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+C-Throné - HP:4447/4447 SP:332/332 BP:0
+D-Primrose - HP:3384/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Fire Elemental - HP:1354/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Cyrus
+4.Throné
+5.Dreadwolf
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Fire Elemental usa Firesand
+Throné recibe 276 de daño elemental
+Throné termina con HP:4171
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:2
+B-Cyrus - HP:3557/3557 SP:582/582 BP:2
+C-Throné - HP:4171/4447 SP:332/332 BP:0
+D-Primrose - HP:3384/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Fire Elemental - HP:1354/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Primrose
+3.Cyrus
+4.Throné
+5.Dreadwolf
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Heatcore
+3.Primrose
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:2
+B-Cyrus - HP:3557/3557 SP:582/582 BP:2
+C-Throné - HP:4171/4447 SP:332/332 BP:0
+D-Primrose - HP:3384/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Fire Elemental - HP:1354/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Cyrus
+3.Throné
+4.Dreadwolf
+5.Highland Ratkin I
+6.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Throné
+3.Primrose
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:2
+B-Cyrus - HP:3557/3557 SP:582/582 BP:2
+C-Throné - HP:4171/4447 SP:332/332 BP:0
+D-Primrose - HP:3384/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Fire Elemental - HP:1354/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Throné
+3.Dreadwolf
+4.Highland Ratkin I
+5.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Throné
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:2
+B-Cyrus - HP:3557/3557 SP:582/582 BP:2
+C-Throné - HP:4171/4447 SP:332/332 BP:0
+D-Primrose - HP:3384/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Fire Elemental - HP:1354/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Dreadwolf
+3.Highland Ratkin I
+4.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Cyrus
+4.Throné
+5.Dreadwolf
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Fire Elemental - HP:1354/1354 Shields:4
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Dreadwolf - HP:7530/7530 Shields:9
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Throné ataca
+Fire Elemental recibe 153 de daño de tipo Sword
+Fire Elemental termina con HP:1201
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:2
+B-Cyrus - HP:3557/3557 SP:582/582 BP:2
+C-Throné - HP:4171/4447 SP:332/332 BP:0
+D-Primrose - HP:3384/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Fire Elemental - HP:1201/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Highland Ratkin I
+3.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Cyrus
+4.Throné
+5.Dreadwolf
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Primrose se defiende
+Primrose recibe 406 de daño físico
+Primrose termina con HP:2978
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:2
+B-Cyrus - HP:3557/3557 SP:582/582 BP:2
+C-Throné - HP:4171/4447 SP:332/332 BP:0
+D-Primrose - HP:2978/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Fire Elemental - HP:1201/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Cyrus
+4.Throné
+5.Dreadwolf
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Highland Ratkin I usa Stab
+Primrose se defiende
+Primrose recibe 212 de daño físico
+Primrose termina con HP:2766
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:2
+B-Cyrus - HP:3557/3557 SP:582/582 BP:2
+C-Throné - HP:4171/4447 SP:332/332 BP:0
+D-Primrose - HP:2766/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Fire Elemental - HP:1201/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Cyrus
+4.Throné
+5.Dreadwolf
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Fire Elemental usa Firesand
+Throné recibe 276 de daño elemental
+Throné termina con HP:3895
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:3
+B-Cyrus - HP:3557/3557 SP:582/582 BP:3
+C-Throné - HP:3895/4447 SP:332/332 BP:1
+D-Primrose - HP:2766/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:1201/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Primrose
+3.Cyrus
+4.Throné
+5.Dreadwolf
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Heatcore
+3.Primrose
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:3
+B-Cyrus - HP:3557/3557 SP:582/582 BP:3
+C-Throné - HP:3895/4447 SP:332/332 BP:1
+D-Primrose - HP:2766/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:1201/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Cyrus
+3.Throné
+4.Dreadwolf
+5.Highland Ratkin I
+6.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Throné
+3.Primrose
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:3
+B-Cyrus - HP:3557/3557 SP:582/582 BP:3
+C-Throné - HP:3895/4447 SP:332/332 BP:1
+D-Primrose - HP:2766/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:1201/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Throné
+3.Dreadwolf
+4.Highland Ratkin I
+5.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Throné
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Fire Elemental - HP:1201/1354 Shields:4
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Dreadwolf - HP:7530/7530 Shields:9
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Cyrus ataca
+Dreadwolf recibe 0 de daño de tipo Stave
+Dreadwolf recibe 0 de daño de tipo Stave
+Dreadwolf recibe 0 de daño de tipo Stave
+Dreadwolf recibe 0 de daño de tipo Stave
+Dreadwolf termina con HP:7530
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:3
+B-Cyrus - HP:3557/3557 SP:582/582 BP:0
+C-Throné - HP:3895/4447 SP:332/332 BP:1
+D-Primrose - HP:2766/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:1201/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Dreadwolf
+3.Highland Ratkin I
+4.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Throné
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Fire Elemental - HP:1201/1354 Shields:4
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Dreadwolf - HP:7530/7530 Shields:9
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Throné ataca
+Fire Elemental recibe 153 de daño de tipo Dagger
+Fire Elemental recibe 153 de daño de tipo Dagger
+Fire Elemental termina con HP:895
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:3
+B-Cyrus - HP:3557/3557 SP:582/582 BP:0
+C-Throné - HP:3895/4447 SP:332/332 BP:0
+D-Primrose - HP:2766/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:895/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Highland Ratkin I
+3.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Throné
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Primrose se defiende
+Primrose recibe 406 de daño físico
+Primrose termina con HP:2360
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:3
+B-Cyrus - HP:3557/3557 SP:582/582 BP:0
+C-Throné - HP:3895/4447 SP:332/332 BP:0
+D-Primrose - HP:2360/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:895/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Throné
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Highland Ratkin I usa Stab
+Primrose se defiende
+Primrose recibe 212 de daño físico
+Primrose termina con HP:2148
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:3
+B-Cyrus - HP:3557/3557 SP:582/582 BP:0
+C-Throné - HP:3895/4447 SP:332/332 BP:0
+D-Primrose - HP:2148/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:895/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Throné
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Fire Elemental usa Firesand
+Throné recibe 276 de daño elemental
+Throné termina con HP:3619
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:4
+B-Cyrus - HP:3557/3557 SP:582/582 BP:0
+C-Throné - HP:3619/4447 SP:332/332 BP:0
+D-Primrose - HP:2148/4002 SP:504/504 BP:4
+Equipo del enemigo
+A-Fire Elemental - HP:895/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Primrose
+3.Throné
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Heatcore
+3.Primrose
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Fire Elemental - HP:895/1354 Shields:4
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Dreadwolf - HP:7530/7530 Shields:9
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Heatcore ataca
+Highland Ratkin I recibe 0 de daño de tipo Axe
+Highland Ratkin I recibe 0 de daño de tipo Axe
+Highland Ratkin I termina con HP:1000
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:3
+B-Cyrus - HP:3557/3557 SP:582/582 BP:0
+C-Throné - HP:3619/4447 SP:332/332 BP:0
+D-Primrose - HP:2148/4002 SP:504/504 BP:4
+Equipo del enemigo
+A-Fire Elemental - HP:895/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Throné
+3.Dreadwolf
+4.Cyrus
+5.Highland Ratkin I
+6.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Heatcore
+3.Primrose
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:3
+B-Cyrus - HP:3557/3557 SP:582/582 BP:0
+C-Throné - HP:3619/4447 SP:332/332 BP:0
+D-Primrose - HP:2148/4002 SP:504/504 BP:4
+Equipo del enemigo
+A-Fire Elemental - HP:895/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Dreadwolf
+3.Cyrus
+4.Highland Ratkin I
+5.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Throné
+3.Heatcore
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Fire Elemental - HP:895/1354 Shields:4
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Dreadwolf - HP:7530/7530 Shields:9
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Throné ataca
+Fire Elemental recibe 153 de daño de tipo Sword
+Fire Elemental termina con HP:742
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:3
+B-Cyrus - HP:3557/3557 SP:582/582 BP:0
+C-Throné - HP:3619/4447 SP:332/332 BP:0
+D-Primrose - HP:2148/4002 SP:504/504 BP:4
+Equipo del enemigo
+A-Fire Elemental - HP:742/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Cyrus
+3.Highland Ratkin I
+4.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Throné
+3.Heatcore
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Primrose se defiende
+Primrose recibe 406 de daño físico
+Primrose termina con HP:1742
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:3
+B-Cyrus - HP:3557/3557 SP:582/582 BP:0
+C-Throné - HP:3619/4447 SP:332/332 BP:0
+D-Primrose - HP:1742/4002 SP:504/504 BP:4
+Equipo del enemigo
+A-Fire Elemental - HP:742/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Highland Ratkin I
+3.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Throné
+3.Heatcore
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Fire Elemental - HP:742/1354 Shields:4
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Dreadwolf - HP:7530/7530 Shields:9
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Cyrus ataca
+Fire Elemental recibe 0 de daño de tipo Stave
+Fire Elemental termina con HP:742
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:3
+B-Cyrus - HP:3557/3557 SP:582/582 BP:0
+C-Throné - HP:3619/4447 SP:332/332 BP:0
+D-Primrose - HP:1742/4002 SP:504/504 BP:4
+Equipo del enemigo
+A-Fire Elemental - HP:742/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Throné
+3.Heatcore
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Highland Ratkin I usa Stab
+Primrose se defiende
+Primrose recibe 212 de daño físico
+Primrose termina con HP:1530
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:3
+B-Cyrus - HP:3557/3557 SP:582/582 BP:0
+C-Throné - HP:3619/4447 SP:332/332 BP:0
+D-Primrose - HP:1530/4002 SP:504/504 BP:4
+Equipo del enemigo
+A-Fire Elemental - HP:742/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Throné
+3.Heatcore
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Fire Elemental usa Firesand
+Throné recibe 276 de daño elemental
+Throné termina con HP:3343
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:3
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+C-Throné - HP:3343/4447 SP:332/332 BP:1
+D-Primrose - HP:1530/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Fire Elemental - HP:742/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Throné
+3.Heatcore
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Heatcore
+3.Primrose
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:3
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+C-Throné - HP:3343/4447 SP:332/332 BP:1
+D-Primrose - HP:1530/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Fire Elemental - HP:742/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Heatcore
+3.Dreadwolf
+4.Cyrus
+5.Highland Ratkin I
+6.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Throné
+3.Heatcore
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Fire Elemental - HP:742/1354 Shields:4
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Dreadwolf - HP:7530/7530 Shields:9
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Throné no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Throné ataca
+Highland Ratkin I recibe 0 de daño de tipo Sword con debilidad
+Highland Ratkin I recibe 0 de daño de tipo Sword con debilidad
+Highland Ratkin I termina con HP:1000
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:3
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+C-Throné - HP:3343/4447 SP:332/332 BP:0
+D-Primrose - HP:1530/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Fire Elemental - HP:742/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Dreadwolf
+3.Cyrus
+4.Highland Ratkin I
+5.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Throné
+3.Heatcore
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Fire Elemental - HP:742/1354 Shields:4
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Dreadwolf - HP:7530/7530 Shields:9
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Heatcore ataca
+Dreadwolf recibe 0 de daño de tipo Axe con debilidad
+Dreadwolf recibe 0 de daño de tipo Axe con debilidad
+Dreadwolf recibe 0 de daño de tipo Axe con debilidad
+Dreadwolf recibe 0 de daño de tipo Axe con debilidad
+Dreadwolf termina con HP:7530
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:0
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+C-Throné - HP:3343/4447 SP:332/332 BP:0
+D-Primrose - HP:1530/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Fire Elemental - HP:742/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Cyrus
+3.Highland Ratkin I
+4.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Throné
+3.Heatcore
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Primrose se defiende
+Primrose recibe 406 de daño físico
+Primrose termina con HP:1124
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:0
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+C-Throné - HP:3343/4447 SP:332/332 BP:0
+D-Primrose - HP:1124/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Fire Elemental - HP:742/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Highland Ratkin I
+3.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Throné
+3.Heatcore
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Fire Elemental - HP:742/1354 Shields:4
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Dreadwolf - HP:7530/7530 Shields:9
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Cyrus no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Cyrus ataca
+Dreadwolf recibe 0 de daño de tipo Stave
+Dreadwolf recibe 0 de daño de tipo Stave
+Dreadwolf termina con HP:7530
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:0
+B-Cyrus - HP:3557/3557 SP:582/582 BP:0
+C-Throné - HP:3343/4447 SP:332/332 BP:0
+D-Primrose - HP:1124/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Fire Elemental - HP:742/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Throné
+3.Heatcore
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Highland Ratkin I usa Stab
+Primrose se defiende
+Primrose recibe 212 de daño físico
+Primrose termina con HP:912
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:0
+B-Cyrus - HP:3557/3557 SP:582/582 BP:0
+C-Throné - HP:3343/4447 SP:332/332 BP:0
+D-Primrose - HP:912/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Fire Elemental - HP:742/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Throné
+3.Heatcore
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Fire Elemental usa Firesand
+Throné recibe 276 de daño elemental
+Throné termina con HP:3067
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:0
+B-Cyrus - HP:3557/3557 SP:582/582 BP:0
+C-Throné - HP:3067/4447 SP:332/332 BP:0
+D-Primrose - HP:912/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Fire Elemental - HP:742/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Throné
+3.Heatcore
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Heatcore
+3.Primrose
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:0
+B-Cyrus - HP:3557/3557 SP:582/582 BP:0
+C-Throné - HP:3067/4447 SP:332/332 BP:0
+D-Primrose - HP:912/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Fire Elemental - HP:742/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Heatcore
+3.Dreadwolf
+4.Cyrus
+5.Highland Ratkin I
+6.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Throné
+3.Heatcore
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Fire Elemental - HP:742/1354 Shields:4
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Dreadwolf - HP:7530/7530 Shields:9
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Throné ataca
+Dreadwolf recibe 53 de daño de tipo Sword
+Dreadwolf termina con HP:7477
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:0
+B-Cyrus - HP:3557/3557 SP:582/582 BP:0
+C-Throné - HP:3067/4447 SP:332/332 BP:0
+D-Primrose - HP:912/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Fire Elemental - HP:742/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Dreadwolf
+3.Cyrus
+4.Highland Ratkin I
+5.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Throné
+3.Heatcore
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Fire Elemental - HP:742/1354 Shields:4
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Dreadwolf - HP:7477/7530 Shields:9
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Heatcore ataca
+Dreadwolf recibe 0 de daño de tipo Bow
+Dreadwolf termina con HP:7477
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:0
+B-Cyrus - HP:3557/3557 SP:582/582 BP:0
+C-Throné - HP:3067/4447 SP:332/332 BP:0
+D-Primrose - HP:912/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Fire Elemental - HP:742/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Cyrus
+3.Highland Ratkin I
+4.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Throné
+3.Heatcore
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Primrose se defiende
+Primrose recibe 406 de daño físico
+Primrose termina con HP:506
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:0
+B-Cyrus - HP:3557/3557 SP:582/582 BP:0
+C-Throné - HP:3067/4447 SP:332/332 BP:0
+D-Primrose - HP:506/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Fire Elemental - HP:742/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Highland Ratkin I
+3.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Throné
+3.Heatcore
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Fire Elemental - HP:742/1354 Shields:4
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Dreadwolf - HP:7477/7530 Shields:9
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Cyrus ataca
+Highland Ratkin I recibe 0 de daño de tipo Stave
+Highland Ratkin I termina con HP:1000
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:0
+B-Cyrus - HP:3557/3557 SP:582/582 BP:0
+C-Throné - HP:3067/4447 SP:332/332 BP:0
+D-Primrose - HP:506/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Fire Elemental - HP:742/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Throné
+3.Heatcore
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Highland Ratkin I usa Stab
+Primrose se defiende
+Primrose recibe 212 de daño físico
+Primrose termina con HP:294
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:0
+B-Cyrus - HP:3557/3557 SP:582/582 BP:0
+C-Throné - HP:3067/4447 SP:332/332 BP:0
+D-Primrose - HP:294/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Fire Elemental - HP:742/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Throné
+3.Heatcore
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Fire Elemental usa Firesand
+Throné recibe 276 de daño elemental
+Throné termina con HP:2791
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+C-Throné - HP:2791/4447 SP:332/332 BP:1
+D-Primrose - HP:294/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Fire Elemental - HP:742/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Throné
+3.Heatcore
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Heatcore
+3.Primrose
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Fire Elemental - HP:742/1354 Shields:4
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Dreadwolf - HP:7477/7530 Shields:9
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Primrose ataca
+Highland Ratkin I recibe 0 de daño de tipo Dagger con debilidad
+Highland Ratkin I recibe 0 de daño de tipo Dagger con debilidad
+Highland Ratkin I recibe 0 de daño de tipo Dagger con debilidad
+Highland Ratkin I termina con HP:1000
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+C-Throné - HP:2791/4447 SP:332/332 BP:1
+D-Primrose - HP:294/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:742/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Heatcore
+3.Dreadwolf
+4.Cyrus
+5.Highland Ratkin I
+6.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Heatcore
+3.Primrose
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Fire Elemental - HP:742/1354 Shields:4
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Dreadwolf - HP:7477/7530 Shields:9
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Throné ataca
+Fire Elemental recibe 153 de daño de tipo Dagger
+Fire Elemental recibe 153 de daño de tipo Dagger
+Fire Elemental termina con HP:436
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+C-Throné - HP:2791/4447 SP:332/332 BP:0
+D-Primrose - HP:294/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:436/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Dreadwolf
+3.Cyrus
+4.Highland Ratkin I
+5.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Heatcore
+3.Primrose
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Fire Elemental - HP:436/1354 Shields:4
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Dreadwolf - HP:7477/7530 Shields:9
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Heatcore no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Heatcore ataca
+Highland Ratkin I recibe 0 de daño de tipo Axe
+Highland Ratkin I recibe 0 de daño de tipo Axe
+Highland Ratkin I termina con HP:1000
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:0
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+C-Throné - HP:2791/4447 SP:332/332 BP:0
+D-Primrose - HP:294/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:436/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Cyrus
+3.Highland Ratkin I
+4.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Heatcore
+3.Primrose
+4.Dreadwolf
+5.Cyrus
+6.Highland Ratkin I
+7.Fire Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Primrose recibe 812 de daño físico
+Primrose termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:0
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+C-Throné - HP:2791/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:436/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Highland Ratkin I
+3.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Heatcore
+3.Dreadwolf
+4.Cyrus
+5.Highland Ratkin I
+6.Fire Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:0
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+C-Throné - HP:2791/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:436/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Throné
+3.Heatcore
+4.Dreadwolf
+5.Highland Ratkin I
+6.Fire Elemental
+----------------------------------------
+Highland Ratkin I usa Stab
+Throné recibe 420 de daño físico
+Throné termina con HP:2371
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:0
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+C-Throné - HP:2371/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:436/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Throné
+3.Heatcore
+4.Dreadwolf
+5.Highland Ratkin I
+6.Fire Elemental
+----------------------------------------
+Fire Elemental usa Firesand
+Throné recibe 276 de daño elemental
+Throné termina con HP:2095
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:0
+B-Cyrus - HP:3557/3557 SP:582/582 BP:2
+C-Throné - HP:2095/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:436/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Throné
+3.Heatcore
+4.Dreadwolf
+5.Highland Ratkin I
+6.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Heatcore
+3.Dreadwolf
+4.Cyrus
+5.Highland Ratkin I
+6.Fire Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:0
+B-Cyrus - HP:3557/3557 SP:582/582 BP:2
+C-Throné - HP:2095/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:436/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Heatcore
+3.Dreadwolf
+4.Highland Ratkin I
+5.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Throné
+3.Heatcore
+4.Dreadwolf
+5.Highland Ratkin I
+6.Fire Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Fire Elemental - HP:436/1354 Shields:4
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Dreadwolf - HP:7477/7530 Shields:9
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Throné ataca
+Fire Elemental recibe 153 de daño de tipo Dagger
+Fire Elemental termina con HP:283
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:0
+B-Cyrus - HP:3557/3557 SP:582/582 BP:2
+C-Throné - HP:2095/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:283/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Dreadwolf
+3.Highland Ratkin I
+4.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Throné
+3.Heatcore
+4.Dreadwolf
+5.Highland Ratkin I
+6.Fire Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:0
+B-Cyrus - HP:3557/3557 SP:582/582 BP:2
+C-Throné - HP:2095/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:283/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Highland Ratkin I
+3.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Cyrus
+3.Throné
+4.Dreadwolf
+5.Highland Ratkin I
+6.Fire Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Throné recibe 807 de daño físico
+Throné termina con HP:1288
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:0
+B-Cyrus - HP:3557/3557 SP:582/582 BP:2
+C-Throné - HP:1288/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:283/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Cyrus
+3.Throné
+4.Dreadwolf
+5.Highland Ratkin I
+6.Fire Elemental
+----------------------------------------
+Highland Ratkin I usa Stab
+Throné recibe 420 de daño físico
+Throné termina con HP:868
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:0
+B-Cyrus - HP:3557/3557 SP:582/582 BP:2
+C-Throné - HP:868/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:283/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Cyrus
+3.Throné
+4.Dreadwolf
+5.Highland Ratkin I
+6.Fire Elemental
+----------------------------------------
+Fire Elemental usa Firesand
+Throné recibe 276 de daño elemental
+Throné termina con HP:592
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:3
+C-Throné - HP:592/4447 SP:332/332 BP:1
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:283/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Cyrus
+3.Throné
+4.Dreadwolf
+5.Highland Ratkin I
+6.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Heatcore
+3.Dreadwolf
+4.Cyrus
+5.Highland Ratkin I
+6.Fire Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:3
+C-Throné - HP:592/4447 SP:332/332 BP:1
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:283/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Throné
+3.Dreadwolf
+4.Highland Ratkin I
+5.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Throné
+3.Dreadwolf
+4.Cyrus
+5.Highland Ratkin I
+6.Fire Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:3
+C-Throné - HP:592/4447 SP:332/332 BP:1
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:283/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Dreadwolf
+3.Highland Ratkin I
+4.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Cyrus
+3.Throné
+4.Dreadwolf
+5.Highland Ratkin I
+6.Fire Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Fire Elemental - HP:283/1354 Shields:4
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Dreadwolf - HP:7477/7530 Shields:9
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Throné no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Throné no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Throné ataca
+Highland Ratkin I recibe 0 de daño de tipo Dagger con debilidad
+Highland Ratkin I recibe 0 de daño de tipo Dagger con debilidad
+Highland Ratkin I termina con HP:1000
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:3
+C-Throné - HP:592/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:283/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Highland Ratkin I
+3.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Cyrus
+3.Throné
+4.Dreadwolf
+5.Highland Ratkin I
+6.Fire Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Throné recibe 807 de daño físico
+Throné termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:3
+C-Throné - HP:0/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:283/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Cyrus
+3.Dreadwolf
+4.Highland Ratkin I
+5.Fire Elemental
+----------------------------------------
+Highland Ratkin I usa Stab
+Heatcore se defiende
+Heatcore recibe 187 de daño físico
+Heatcore termina con HP:2635
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2635/2822 SP:342/342 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:3
+C-Throné - HP:0/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:283/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Cyrus
+3.Dreadwolf
+4.Highland Ratkin I
+5.Fire Elemental
+----------------------------------------
+Fire Elemental usa Firesand
+Heatcore se defiende
+Heatcore recibe 125 de daño elemental
+Heatcore termina con HP:2510
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2510/2822 SP:342/342 BP:2
+B-Cyrus - HP:3557/3557 SP:582/582 BP:4
+C-Throné - HP:0/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:283/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Cyrus
+3.Dreadwolf
+4.Highland Ratkin I
+5.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Cyrus
+4.Highland Ratkin I
+5.Fire Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2510/2822 SP:342/342 BP:2
+B-Cyrus - HP:3557/3557 SP:582/582 BP:4
+C-Throné - HP:0/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:283/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Dreadwolf
+3.Highland Ratkin I
+4.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Cyrus
+4.Highland Ratkin I
+5.Fire Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2510/2822 SP:342/342 BP:2
+B-Cyrus - HP:3557/3557 SP:582/582 BP:4
+C-Throné - HP:0/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:283/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Highland Ratkin I
+3.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Cyrus
+3.Dreadwolf
+4.Highland Ratkin I
+5.Fire Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Heatcore se defiende
+Heatcore recibe 381 de daño físico
+Heatcore termina con HP:2129
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2129/2822 SP:342/342 BP:2
+B-Cyrus - HP:3557/3557 SP:582/582 BP:4
+C-Throné - HP:0/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:283/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Cyrus
+3.Dreadwolf
+4.Highland Ratkin I
+5.Fire Elemental
+----------------------------------------
+Highland Ratkin I usa Stab
+Heatcore se defiende
+Heatcore recibe 187 de daño físico
+Heatcore termina con HP:1942
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1942/2822 SP:342/342 BP:2
+B-Cyrus - HP:3557/3557 SP:582/582 BP:4
+C-Throné - HP:0/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:283/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Cyrus
+3.Dreadwolf
+4.Highland Ratkin I
+5.Fire Elemental
+----------------------------------------
+Fire Elemental usa Firesand
+Heatcore se defiende
+Heatcore recibe 125 de daño elemental
+Heatcore termina con HP:1817
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1817/2822 SP:342/342 BP:3
+B-Cyrus - HP:3557/3557 SP:582/582 BP:5
+C-Throné - HP:0/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:283/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Cyrus
+3.Dreadwolf
+4.Highland Ratkin I
+5.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Cyrus
+4.Highland Ratkin I
+5.Fire Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Fire Elemental - HP:283/1354 Shields:4
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Dreadwolf - HP:7477/7530 Shields:9
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Heatcore ataca
+Highland Ratkin I recibe 0 de daño de tipo Axe
+Highland Ratkin I recibe 0 de daño de tipo Axe
+Highland Ratkin I recibe 0 de daño de tipo Axe
+Highland Ratkin I recibe 0 de daño de tipo Axe
+Highland Ratkin I termina con HP:1000
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1817/2822 SP:342/342 BP:0
+B-Cyrus - HP:3557/3557 SP:582/582 BP:5
+C-Throné - HP:0/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:283/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Dreadwolf
+3.Highland Ratkin I
+4.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Cyrus
+4.Highland Ratkin I
+5.Fire Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1817/2822 SP:342/342 BP:0
+B-Cyrus - HP:3557/3557 SP:582/582 BP:5
+C-Throné - HP:0/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:283/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Highland Ratkin I
+3.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heatcore
+3.Dreadwolf
+4.Highland Ratkin I
+5.Fire Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Heatcore recibe 762 de daño físico
+Heatcore termina con HP:1055
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1055/2822 SP:342/342 BP:0
+B-Cyrus - HP:3557/3557 SP:582/582 BP:5
+C-Throné - HP:0/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:283/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heatcore
+3.Dreadwolf
+4.Highland Ratkin I
+5.Fire Elemental
+----------------------------------------
+Highland Ratkin I usa Stab
+Heatcore recibe 375 de daño físico
+Heatcore termina con HP:680
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:680/2822 SP:342/342 BP:0
+B-Cyrus - HP:3557/3557 SP:582/582 BP:5
+C-Throné - HP:0/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:283/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Heatcore
+3.Dreadwolf
+4.Highland Ratkin I
+5.Fire Elemental
+----------------------------------------
+Fire Elemental usa Firesand
+Heatcore recibe 251 de daño elemental
+Heatcore termina con HP:429
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:429/2822 SP:342/342 BP:0
+B-Cyrus - HP:3557/3557 SP:582/582 BP:5
+C-Throné - HP:0/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:283/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Heatcore
+3.Dreadwolf
+4.Highland Ratkin I
+5.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Cyrus
+4.Highland Ratkin I
+5.Fire Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Fire Elemental - HP:283/1354 Shields:4
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Dreadwolf - HP:7477/7530 Shields:9
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Cyrus ataca
+Dreadwolf recibe 0 de daño de tipo Stave
+Dreadwolf recibe 0 de daño de tipo Stave
+Dreadwolf termina con HP:7477
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:429/2822 SP:342/342 BP:0
+B-Cyrus - HP:3557/3557 SP:582/582 BP:4
+C-Throné - HP:0/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:283/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Dreadwolf
+3.Highland Ratkin I
+4.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Cyrus
+4.Highland Ratkin I
+5.Fire Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Fire Elemental - HP:283/1354 Shields:4
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Dreadwolf - HP:7477/7530 Shields:9
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Heatcore ataca
+Fire Elemental recibe 88 de daño de tipo Axe
+Fire Elemental termina con HP:195
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:429/2822 SP:342/342 BP:0
+B-Cyrus - HP:3557/3557 SP:582/582 BP:4
+C-Throné - HP:0/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:195/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Highland Ratkin I
+3.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Dreadwolf
+3.Cyrus
+4.Highland Ratkin I
+5.Fire Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Heatcore recibe 762 de daño físico
+Heatcore termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:342/342 BP:0
+B-Cyrus - HP:3557/3557 SP:582/582 BP:4
+C-Throné - HP:0/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:195/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Cyrus
+3.Highland Ratkin I
+4.Fire Elemental
+----------------------------------------
+Highland Ratkin I usa Stab
+Cyrus recibe 374 de daño físico
+Cyrus termina con HP:3183
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:342/342 BP:0
+B-Cyrus - HP:3183/3557 SP:582/582 BP:4
+C-Throné - HP:0/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:195/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Cyrus
+3.Highland Ratkin I
+4.Fire Elemental
+----------------------------------------
+Fire Elemental usa Firesand
+Cyrus recibe 174 de daño elemental
+Cyrus termina con HP:3009
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:342/342 BP:0
+B-Cyrus - HP:3009/3557 SP:582/582 BP:4
+C-Throné - HP:0/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:195/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Cyrus
+3.Highland Ratkin I
+4.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Cyrus
+3.Highland Ratkin I
+4.Fire Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Cyrus recibe 761 de daño físico
+Cyrus termina con HP:2248
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:342/342 BP:0
+B-Cyrus - HP:2248/3557 SP:582/582 BP:4
+C-Throné - HP:0/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:195/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Highland Ratkin I
+3.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Cyrus
+3.Highland Ratkin I
+4.Fire Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:342/342 BP:0
+B-Cyrus - HP:2248/3557 SP:582/582 BP:4
+C-Throné - HP:0/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:195/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Dreadwolf
+3.Highland Ratkin I
+4.Fire Elemental
+----------------------------------------
+Highland Ratkin I usa Stab
+Cyrus se defiende
+Cyrus recibe 187 de daño físico
+Cyrus termina con HP:2061
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:342/342 BP:0
+B-Cyrus - HP:2061/3557 SP:582/582 BP:4
+C-Throné - HP:0/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:195/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Dreadwolf
+3.Highland Ratkin I
+4.Fire Elemental
+----------------------------------------
+Fire Elemental usa Firesand
+Cyrus se defiende
+Cyrus recibe 87 de daño elemental
+Cyrus termina con HP:1974
+----------------------------------------
+INICIA RONDA 14
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:342/342 BP:0
+B-Cyrus - HP:1974/3557 SP:582/582 BP:5
+C-Throné - HP:0/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:195/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Dreadwolf
+3.Highland Ratkin I
+4.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Cyrus
+3.Highland Ratkin I
+4.Fire Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:342/342 BP:0
+B-Cyrus - HP:1974/3557 SP:582/582 BP:5
+C-Throné - HP:0/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:195/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Highland Ratkin I
+3.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Dreadwolf
+3.Highland Ratkin I
+4.Fire Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Cyrus se defiende
+Cyrus recibe 380 de daño físico
+Cyrus termina con HP:1594
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:342/342 BP:0
+B-Cyrus - HP:1594/3557 SP:582/582 BP:5
+C-Throné - HP:0/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:195/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Dreadwolf
+3.Highland Ratkin I
+4.Fire Elemental
+----------------------------------------
+Highland Ratkin I usa Stab
+Cyrus se defiende
+Cyrus recibe 187 de daño físico
+Cyrus termina con HP:1407
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:342/342 BP:0
+B-Cyrus - HP:1407/3557 SP:582/582 BP:5
+C-Throné - HP:0/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:195/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Dreadwolf
+3.Highland Ratkin I
+4.Fire Elemental
+----------------------------------------
+Fire Elemental usa Firesand
+Cyrus se defiende
+Cyrus recibe 87 de daño elemental
+Cyrus termina con HP:1320
+----------------------------------------
+INICIA RONDA 15
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:342/342 BP:0
+B-Cyrus - HP:1320/3557 SP:582/582 BP:5
+C-Throné - HP:0/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:195/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Dreadwolf
+3.Highland Ratkin I
+4.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Cyrus
+3.Highland Ratkin I
+4.Fire Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Fire Elemental - HP:195/1354 Shields:4
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Dreadwolf - HP:7477/7530 Shields:9
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Cyrus ataca
+Dreadwolf recibe 0 de daño de tipo Stave
+Dreadwolf recibe 0 de daño de tipo Stave
+Dreadwolf recibe 0 de daño de tipo Stave
+Dreadwolf recibe 0 de daño de tipo Stave
+Dreadwolf termina con HP:7477
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:342/342 BP:0
+B-Cyrus - HP:1320/3557 SP:582/582 BP:2
+C-Throné - HP:0/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:195/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Highland Ratkin I
+3.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Cyrus
+3.Highland Ratkin I
+4.Fire Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Cyrus recibe 761 de daño físico
+Cyrus termina con HP:559
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:342/342 BP:0
+B-Cyrus - HP:559/3557 SP:582/582 BP:2
+C-Throné - HP:0/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:195/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Cyrus
+3.Highland Ratkin I
+4.Fire Elemental
+----------------------------------------
+Highland Ratkin I usa Stab
+Cyrus recibe 374 de daño físico
+Cyrus termina con HP:185
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:342/342 BP:0
+B-Cyrus - HP:185/3557 SP:582/582 BP:2
+C-Throné - HP:0/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:195/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Cyrus
+3.Highland Ratkin I
+4.Fire Elemental
+----------------------------------------
+Fire Elemental usa Firesand
+Cyrus recibe 174 de daño elemental
+Cyrus termina con HP:11
+----------------------------------------
+INICIA RONDA 16
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:0/2822 SP:342/342 BP:0
+B-Cyrus - HP:11/3557 SP:582/582 BP:2
+C-Throné - HP:0/4447 SP:332/332 BP:0
+D-Primrose - HP:0/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Fire Elemental - HP:195/1354 Shields:4
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Dreadwolf - HP:7477/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Cyrus
+3.Highland Ratkin I
+4.Fire Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Cyrus
+3.Highland Ratkin I
+4.Fire Elemental
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Cyrus recibe 761 de daño físico
+Cyrus termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

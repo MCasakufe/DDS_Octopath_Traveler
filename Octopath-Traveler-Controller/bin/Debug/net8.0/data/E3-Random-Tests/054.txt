@@ -1,0 +1,655 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+INPUT: 53
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4502/4502 SP:470/470 BP:1
+Equipo del enemigo
+A-Devourer of Men - HP:7500/7500 Shields:8
+B-Forest Fox - HP:1380/1380 Shields:2
+C-Mattias? - HP:5780/5780 Shields:4
+D-Remnant - HP:2779/2779 Shields:3
+E-Blood Revenant - HP:16352/16352 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Mattias?
+3.Devourer of Men
+4.Blood Revenant
+5.Remnant
+6.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Mattias?
+3.Devourer of Men
+4.Blood Revenant
+5.Remnant
+6.Forest Fox
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Rain of Arrows
+2: Ignis Ardere
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Ophilia no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Ophilia usa Ignis Ardere
+Devourer of Men recibe 1312 de daño de tipo Fire con debilidad
+Devourer of Men recibe 1312 de daño de tipo Fire con debilidad
+Devourer of Men recibe 1312 de daño de tipo Fire con debilidad
+Forest Fox recibe 1315 de daño de tipo Fire con debilidad
+Forest Fox recibe 1315 de daño de tipo Fire con debilidad
+Forest Fox entra en Breaking Point
+Forest Fox recibe 1754 de daño de tipo Fire con debilidad
+Mattias? recibe 536 de daño de tipo Fire
+Mattias? recibe 536 de daño de tipo Fire
+Mattias? recibe 536 de daño de tipo Fire
+Remnant recibe 926 de daño de tipo Fire
+Remnant recibe 926 de daño de tipo Fire
+Remnant recibe 926 de daño de tipo Fire
+Blood Revenant recibe 664 de daño de tipo Fire
+Blood Revenant recibe 664 de daño de tipo Fire
+Blood Revenant recibe 664 de daño de tipo Fire
+Devourer of Men termina con HP:3564
+Forest Fox termina con HP:0
+Mattias? termina con HP:4172
+Remnant termina con HP:1
+Blood Revenant termina con HP:14360
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4502/4502 SP:434/470 BP:0
+Equipo del enemigo
+A-Devourer of Men - HP:3564/7500 Shields:5
+B-Forest Fox - HP:0/1380 Shields:0
+C-Mattias? - HP:4172/5780 Shields:4
+D-Remnant - HP:1/2779 Shields:3
+E-Blood Revenant - HP:14360/16352 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Devourer of Men
+3.Blood Revenant
+4.Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Mattias?
+3.Devourer of Men
+4.Blood Revenant
+5.Remnant
+----------------------------------------
+Mattias? usa Black Gale
+Ophilia recibe 546 de daño elemental
+Ophilia termina con HP:3956
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3956/4502 SP:434/470 BP:0
+Equipo del enemigo
+A-Devourer of Men - HP:3564/7500 Shields:5
+B-Forest Fox - HP:0/1380 Shields:0
+C-Mattias? - HP:4172/5780 Shields:4
+D-Remnant - HP:1/2779 Shields:3
+E-Blood Revenant - HP:14360/16352 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Men
+2.Blood Revenant
+3.Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Mattias?
+3.Devourer of Men
+4.Blood Revenant
+5.Remnant
+----------------------------------------
+Devourer of Men usa Shadow Magic
+Ophilia recibe 261 de daño elemental
+Ophilia recibe 261 de daño elemental
+Ophilia termina con HP:3434
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3434/4502 SP:434/470 BP:0
+Equipo del enemigo
+A-Devourer of Men - HP:3564/7500 Shields:5
+B-Forest Fox - HP:0/1380 Shields:0
+C-Mattias? - HP:4172/5780 Shields:4
+D-Remnant - HP:1/2779 Shields:3
+E-Blood Revenant - HP:14360/16352 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+2.Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Mattias?
+3.Devourer of Men
+4.Blood Revenant
+5.Remnant
+----------------------------------------
+Blood Revenant usa Volcano
+Ophilia recibe 465 de daño elemental
+Ophilia tendrá Decreased Elemental Defense durante 2 rondas
+Ophilia termina con HP:2969
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2969/4502 SP:434/470 BP:0
+Equipo del enemigo
+A-Devourer of Men - HP:3564/7500 Shields:5
+B-Forest Fox - HP:0/1380 Shields:0
+C-Mattias? - HP:4172/5780 Shields:4
+D-Remnant - HP:1/2779 Shields:3
+E-Blood Revenant - HP:14360/16352 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Mattias?
+3.Devourer of Men
+4.Blood Revenant
+5.Remnant
+----------------------------------------
+Remnant usa Double Bite
+Ophilia recibe 0 de daño físico
+Ophilia recibe 0 de daño físico
+Ophilia termina con HP:2969
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2969/4502 SP:434/470 BP:0
+Equipo del enemigo
+A-Devourer of Men - HP:3564/7500 Shields:5
+B-Forest Fox - HP:0/1380 Shields:0
+C-Mattias? - HP:4172/5780 Shields:4
+D-Remnant - HP:1/2779 Shields:3
+E-Blood Revenant - HP:14360/16352 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Mattias?
+3.Devourer of Men
+4.Blood Revenant
+5.Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Mattias?
+3.Devourer of Men
+4.Blood Revenant
+5.Remnant
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Devourer of Men - HP:3564/7500 Shields:5
+2: Mattias? - HP:4172/5780 Shields:4
+3: Remnant - HP:1/2779 Shields:3
+4: Blood Revenant - HP:14360/16352 Shields:7
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Ophilia ataca
+Devourer of Men recibe 0 de daño de tipo Stave con debilidad
+Devourer of Men termina con HP:3564
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2969/4502 SP:434/470 BP:0
+Equipo del enemigo
+A-Devourer of Men - HP:3564/7500 Shields:5
+B-Forest Fox - HP:0/1380 Shields:0
+C-Mattias? - HP:4172/5780 Shields:4
+D-Remnant - HP:1/2779 Shields:3
+E-Blood Revenant - HP:14360/16352 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Devourer of Men
+3.Blood Revenant
+4.Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Mattias?
+3.Devourer of Men
+4.Blood Revenant
+5.Remnant
+----------------------------------------
+Mattias? usa Black Gale
+Ophilia recibe 819 de daño elemental
+Ophilia termina con HP:2150
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2150/4502 SP:434/470 BP:0
+Equipo del enemigo
+A-Devourer of Men - HP:3564/7500 Shields:5
+B-Forest Fox - HP:0/1380 Shields:0
+C-Mattias? - HP:4172/5780 Shields:4
+D-Remnant - HP:1/2779 Shields:3
+E-Blood Revenant - HP:14360/16352 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Men
+2.Blood Revenant
+3.Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Mattias?
+3.Devourer of Men
+4.Blood Revenant
+5.Remnant
+----------------------------------------
+Devourer of Men usa Shadow Magic
+Ophilia recibe 391 de daño elemental
+Ophilia recibe 391 de daño elemental
+Ophilia termina con HP:1368
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1368/4502 SP:434/470 BP:0
+Equipo del enemigo
+A-Devourer of Men - HP:3564/7500 Shields:5
+B-Forest Fox - HP:0/1380 Shields:0
+C-Mattias? - HP:4172/5780 Shields:4
+D-Remnant - HP:1/2779 Shields:3
+E-Blood Revenant - HP:14360/16352 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+2.Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Mattias?
+3.Devourer of Men
+4.Blood Revenant
+5.Remnant
+----------------------------------------
+Blood Revenant usa Volcano
+Ophilia recibe 697 de daño elemental
+Ophilia tendrá Decreased Elemental Defense durante 2 rondas
+Ophilia termina con HP:671
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:671/4502 SP:434/470 BP:0
+Equipo del enemigo
+A-Devourer of Men - HP:3564/7500 Shields:5
+B-Forest Fox - HP:0/1380 Shields:0
+C-Mattias? - HP:4172/5780 Shields:4
+D-Remnant - HP:1/2779 Shields:3
+E-Blood Revenant - HP:14360/16352 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Mattias?
+3.Devourer of Men
+4.Blood Revenant
+5.Remnant
+----------------------------------------
+Remnant usa Double Bite
+Ophilia recibe 0 de daño físico
+Ophilia recibe 0 de daño físico
+Ophilia termina con HP:671
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:671/4502 SP:434/470 BP:1
+Equipo del enemigo
+A-Devourer of Men - HP:3564/7500 Shields:5
+B-Forest Fox - HP:0/1380 Shields:0
+C-Mattias? - HP:4172/5780 Shields:4
+D-Remnant - HP:1/2779 Shields:3
+E-Blood Revenant - HP:14360/16352 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Mattias?
+3.Devourer of Men
+4.Blood Revenant
+5.Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Mattias?
+3.Devourer of Men
+4.Blood Revenant
+5.Remnant
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Devourer of Men - HP:3564/7500 Shields:5
+2: Mattias? - HP:4172/5780 Shields:4
+3: Remnant - HP:1/2779 Shields:3
+4: Blood Revenant - HP:14360/16352 Shields:7
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Ophilia no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Ophilia no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Ophilia ataca
+Remnant recibe 121 de daño de tipo Stave
+Remnant recibe 121 de daño de tipo Stave
+Remnant termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:671/4502 SP:434/470 BP:0
+Equipo del enemigo
+A-Devourer of Men - HP:3564/7500 Shields:5
+B-Forest Fox - HP:0/1380 Shields:0
+C-Mattias? - HP:4172/5780 Shields:4
+D-Remnant - HP:0/2779 Shields:3
+E-Blood Revenant - HP:14360/16352 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Devourer of Men
+3.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Mattias?
+3.Devourer of Men
+4.Blood Revenant
+----------------------------------------
+Mattias? usa Black Gale
+Ophilia recibe 670 de daño elemental
+Ophilia termina con HP:1
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1/4502 SP:434/470 BP:0
+Equipo del enemigo
+A-Devourer of Men - HP:3564/7500 Shields:5
+B-Forest Fox - HP:0/1380 Shields:0
+C-Mattias? - HP:4172/5780 Shields:4
+D-Remnant - HP:0/2779 Shields:3
+E-Blood Revenant - HP:14360/16352 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Men
+2.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Mattias?
+3.Devourer of Men
+4.Blood Revenant
+----------------------------------------
+Devourer of Men usa Shadow Magic
+Ophilia recibe 391 de daño elemental
+Ophilia revive
+Ophilia recibe 391 de daño elemental
+Ophilia termina con HP:734
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:734/4502 SP:434/470 BP:0
+Equipo del enemigo
+A-Devourer of Men - HP:3564/7500 Shields:5
+B-Forest Fox - HP:0/1380 Shields:0
+C-Mattias? - HP:4172/5780 Shields:4
+D-Remnant - HP:0/2779 Shields:3
+E-Blood Revenant - HP:14360/16352 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Mattias?
+3.Devourer of Men
+4.Blood Revenant
+----------------------------------------
+Blood Revenant usa Volcano
+Ophilia recibe 697 de daño elemental
+Ophilia tendrá Decreased Elemental Defense durante 2 rondas
+Ophilia termina con HP:37
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:37/4502 SP:434/470 BP:0
+Equipo del enemigo
+A-Devourer of Men - HP:3564/7500 Shields:5
+B-Forest Fox - HP:0/1380 Shields:0
+C-Mattias? - HP:4172/5780 Shields:4
+D-Remnant - HP:0/2779 Shields:3
+E-Blood Revenant - HP:14360/16352 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Mattias?
+3.Devourer of Men
+4.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Mattias?
+3.Devourer of Men
+4.Blood Revenant
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Rain of Arrows
+2: Ignis Ardere
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Ophilia usa Ignis Ardere
+Devourer of Men recibe 492 de daño de tipo Fire con debilidad
+Devourer of Men recibe 492 de daño de tipo Fire con debilidad
+Devourer of Men recibe 492 de daño de tipo Fire con debilidad
+Mattias? recibe 0 de daño de tipo Fire
+Mattias? recibe 0 de daño de tipo Fire
+Mattias? recibe 0 de daño de tipo Fire
+Blood Revenant recibe 117 de daño de tipo Fire
+Blood Revenant recibe 117 de daño de tipo Fire
+Blood Revenant recibe 117 de daño de tipo Fire
+Devourer of Men termina con HP:2088
+Mattias? termina con HP:4172
+Blood Revenant termina con HP:14009
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:37/4502 SP:398/470 BP:0
+Equipo del enemigo
+A-Devourer of Men - HP:2088/7500 Shields:2
+B-Forest Fox - HP:0/1380 Shields:0
+C-Mattias? - HP:4172/5780 Shields:4
+D-Remnant - HP:0/2779 Shields:3
+E-Blood Revenant - HP:14009/16352 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Devourer of Men
+3.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Mattias?
+3.Devourer of Men
+4.Blood Revenant
+----------------------------------------
+Mattias? usa Black Gale
+Ophilia recibe 819 de daño elemental
+Ophilia termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

@@ -11,12 +11,15 @@ internal sealed class TravelerSkillEffectContext
         TravelerSkillTargetSelection targetSelection)
     {
         Traveler = executionContext.Traveler;
+        BattleState = executionContext.BattleState;
         Skill = executionContext.SelectedSkill;
         TurnOutcome = executionContext.TurnOutcome;
         TargetSelection = targetSelection;
     }
 
     public TravelerCombatUnit Traveler { get; }
+
+    public BattleState BattleState { get; }
 
     public SkillDefinition Skill { get; }
 

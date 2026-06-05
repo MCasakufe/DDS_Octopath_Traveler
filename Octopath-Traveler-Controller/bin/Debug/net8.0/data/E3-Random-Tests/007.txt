@@ -1,0 +1,1549 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+INPUT: 6
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:383/383 BP:1
+B-Agnea - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Lightning Remnant - HP:2779/2779 Shields:3
+B-Direwolf - HP:3867/3867 Shields:4
+C-Behemoth - HP:12690/12690 Shields:8
+D-Meep - HP:1016/1016 Shields:2
+E-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Direwolf
+3.Alfyn
+4.Behemoth
+5.Meep
+6.War Wolf
+7.Lightning Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Direwolf
+3.Alfyn
+4.Behemoth
+5.Meep
+6.War Wolf
+7.Lightning Remnant
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Lightning Remnant - HP:2779/2779 Shields:3
+2: Direwolf - HP:3867/3867 Shields:4
+3: Behemoth - HP:12690/12690 Shields:8
+4: Meep - HP:1016/1016 Shields:2
+5: War Wolf - HP:3548/3548 Shields:2
+6: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Direwolf recibe 0 de daño de tipo Dagger con debilidad
+Direwolf termina con HP:3867
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5336/5336 SP:383/383 BP:1
+B-Agnea - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Lightning Remnant - HP:2779/2779 Shields:3
+B-Direwolf - HP:3867/3867 Shields:4
+C-Behemoth - HP:12690/12690 Shields:8
+D-Meep - HP:1016/1016 Shields:2
+E-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Direwolf
+2.Alfyn
+3.Behemoth
+4.Meep
+5.War Wolf
+6.Lightning Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Direwolf
+3.Alfyn
+4.Behemoth
+5.Meep
+6.War Wolf
+7.Lightning Remnant
+----------------------------------------
+Direwolf usa Triple Slash
+Alfyn recibe 131 de daño físico
+Alfyn recibe 131 de daño físico
+Alfyn recibe 131 de daño físico
+Alfyn termina con HP:4943
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4943/5336 SP:383/383 BP:1
+B-Agnea - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Lightning Remnant - HP:2779/2779 Shields:3
+B-Direwolf - HP:3867/3867 Shields:4
+C-Behemoth - HP:12690/12690 Shields:8
+D-Meep - HP:1016/1016 Shields:2
+E-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Behemoth
+3.Meep
+4.War Wolf
+5.Lightning Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Direwolf
+3.Alfyn
+4.Behemoth
+5.Meep
+6.War Wolf
+7.Lightning Remnant
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4943/5336 SP:383/383 BP:1
+B-Agnea - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Lightning Remnant - HP:2779/2779 Shields:3
+B-Direwolf - HP:3867/3867 Shields:4
+C-Behemoth - HP:12690/12690 Shields:8
+D-Meep - HP:1016/1016 Shields:2
+E-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Meep
+3.War Wolf
+4.Lightning Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Agnea
+3.Direwolf
+4.Behemoth
+5.Meep
+6.War Wolf
+7.Lightning Remnant
+----------------------------------------
+Behemoth usa Stampede
+Alfyn se defiende
+Alfyn recibe 314 de daño físico
+Agnea recibe 790 de daño físico
+Alfyn termina con HP:4629
+Agnea termina con HP:3212
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4629/5336 SP:383/383 BP:1
+B-Agnea - HP:3212/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Lightning Remnant - HP:2779/2779 Shields:3
+B-Direwolf - HP:3867/3867 Shields:4
+C-Behemoth - HP:12690/12690 Shields:8
+D-Meep - HP:1016/1016 Shields:2
+E-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.War Wolf
+3.Lightning Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Agnea
+3.Direwolf
+4.Behemoth
+5.Meep
+6.War Wolf
+7.Lightning Remnant
+----------------------------------------
+Meep usa Attack
+Alfyn se defiende
+Alfyn recibe 63 de daño físico
+Alfyn termina con HP:4566
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4566/5336 SP:383/383 BP:1
+B-Agnea - HP:3212/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Lightning Remnant - HP:2779/2779 Shields:3
+B-Direwolf - HP:3867/3867 Shields:4
+C-Behemoth - HP:12690/12690 Shields:8
+D-Meep - HP:1016/1016 Shields:2
+E-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+2.Lightning Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Agnea
+3.Direwolf
+4.Behemoth
+5.Meep
+6.War Wolf
+7.Lightning Remnant
+----------------------------------------
+War Wolf usa Attack
+Alfyn se defiende
+Alfyn recibe 30 de daño físico
+Alfyn termina con HP:4536
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4536/5336 SP:383/383 BP:1
+B-Agnea - HP:3212/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Lightning Remnant - HP:2779/2779 Shields:3
+B-Direwolf - HP:3867/3867 Shields:4
+C-Behemoth - HP:12690/12690 Shields:8
+D-Meep - HP:1016/1016 Shields:2
+E-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lightning Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Agnea
+3.Direwolf
+4.Behemoth
+5.Meep
+6.War Wolf
+7.Lightning Remnant
+----------------------------------------
+Lightning Remnant usa Double Bite
+Agnea recibe 45 de daño físico
+Agnea recibe 45 de daño físico
+Agnea termina con HP:3122
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4536/5336 SP:383/383 BP:2
+B-Agnea - HP:3122/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Lightning Remnant - HP:2779/2779 Shields:3
+B-Direwolf - HP:3867/3867 Shields:4
+C-Behemoth - HP:12690/12690 Shields:8
+D-Meep - HP:1016/1016 Shields:2
+E-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Agnea
+3.Direwolf
+4.Behemoth
+5.Meep
+6.War Wolf
+7.Lightning Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Direwolf
+3.Alfyn
+4.Behemoth
+5.Meep
+6.War Wolf
+7.Lightning Remnant
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Qilin's Horn
+2: First Aid
+3: Ignis Ardere
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Alfyn - HP:4536/5336 SP:383/383 BP:2
+2: Agnea - HP:3122/4002 SP:504/504 BP:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa First Aid
+Agnea recupera 357 de vida
+Agnea termina con HP:3479
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4536/5336 SP:379/383 BP:2
+B-Agnea - HP:3479/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Lightning Remnant - HP:2779/2779 Shields:3
+B-Direwolf - HP:3867/3867 Shields:4
+C-Behemoth - HP:12690/12690 Shields:8
+D-Meep - HP:1016/1016 Shields:2
+E-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Direwolf
+3.Behemoth
+4.Meep
+5.War Wolf
+6.Lightning Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Direwolf
+3.Alfyn
+4.Behemoth
+5.Meep
+6.War Wolf
+7.Lightning Remnant
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4536/5336 SP:379/383 BP:2
+B-Agnea - HP:3479/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Lightning Remnant - HP:2779/2779 Shields:3
+B-Direwolf - HP:3867/3867 Shields:4
+C-Behemoth - HP:12690/12690 Shields:8
+D-Meep - HP:1016/1016 Shields:2
+E-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Direwolf
+2.Behemoth
+3.Meep
+4.War Wolf
+5.Lightning Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Direwolf
+3.Alfyn
+4.Behemoth
+5.Meep
+6.War Wolf
+7.Lightning Remnant
+----------------------------------------
+Direwolf usa Triple Slash
+Alfyn recibe 131 de daño físico
+Alfyn recibe 131 de daño físico
+Alfyn recibe 131 de daño físico
+Alfyn termina con HP:4143
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:4143/5336 SP:379/383 BP:2
+B-Agnea - HP:3479/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Lightning Remnant - HP:2779/2779 Shields:3
+B-Direwolf - HP:3867/3867 Shields:4
+C-Behemoth - HP:12690/12690 Shields:8
+D-Meep - HP:1016/1016 Shields:2
+E-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Meep
+3.War Wolf
+4.Lightning Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Direwolf
+3.Alfyn
+4.Behemoth
+5.Meep
+6.War Wolf
+7.Lightning Remnant
+----------------------------------------
+Behemoth usa Stampede
+Alfyn recibe 628 de daño físico
+Agnea se defiende
+Agnea recibe 395 de daño físico
+Alfyn termina con HP:3515
+Agnea termina con HP:3084
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3515/5336 SP:379/383 BP:2
+B-Agnea - HP:3084/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Lightning Remnant - HP:2779/2779 Shields:3
+B-Direwolf - HP:3867/3867 Shields:4
+C-Behemoth - HP:12690/12690 Shields:8
+D-Meep - HP:1016/1016 Shields:2
+E-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.War Wolf
+3.Lightning Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Direwolf
+3.Alfyn
+4.Behemoth
+5.Meep
+6.War Wolf
+7.Lightning Remnant
+----------------------------------------
+Meep usa Attack
+Alfyn recibe 126 de daño físico
+Alfyn termina con HP:3389
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3389/5336 SP:379/383 BP:2
+B-Agnea - HP:3084/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Lightning Remnant - HP:2779/2779 Shields:3
+B-Direwolf - HP:3867/3867 Shields:4
+C-Behemoth - HP:12690/12690 Shields:8
+D-Meep - HP:1016/1016 Shields:2
+E-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+2.Lightning Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Direwolf
+3.Alfyn
+4.Behemoth
+5.Meep
+6.War Wolf
+7.Lightning Remnant
+----------------------------------------
+War Wolf usa Attack
+Alfyn recibe 60 de daño físico
+Alfyn termina con HP:3329
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3329/5336 SP:379/383 BP:2
+B-Agnea - HP:3084/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Lightning Remnant - HP:2779/2779 Shields:3
+B-Direwolf - HP:3867/3867 Shields:4
+C-Behemoth - HP:12690/12690 Shields:8
+D-Meep - HP:1016/1016 Shields:2
+E-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lightning Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Direwolf
+3.Alfyn
+4.Behemoth
+5.Meep
+6.War Wolf
+7.Lightning Remnant
+----------------------------------------
+Lightning Remnant usa Double Bite
+Agnea se defiende
+Agnea recibe 22 de daño físico
+Agnea recibe 22 de daño físico
+Agnea termina con HP:3040
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3329/5336 SP:379/383 BP:3
+B-Agnea - HP:3040/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Lightning Remnant - HP:2779/2779 Shields:3
+B-Direwolf - HP:3867/3867 Shields:4
+C-Behemoth - HP:12690/12690 Shields:8
+D-Meep - HP:1016/1016 Shields:2
+E-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Direwolf
+3.Alfyn
+4.Behemoth
+5.Meep
+6.War Wolf
+7.Lightning Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Direwolf
+3.Alfyn
+4.Behemoth
+5.Meep
+6.War Wolf
+7.Lightning Remnant
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:3329/5336 SP:379/383 BP:3
+B-Agnea - HP:3040/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Lightning Remnant - HP:2779/2779 Shields:3
+B-Direwolf - HP:3867/3867 Shields:4
+C-Behemoth - HP:12690/12690 Shields:8
+D-Meep - HP:1016/1016 Shields:2
+E-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Direwolf
+2.Alfyn
+3.Behemoth
+4.Meep
+5.War Wolf
+6.Lightning Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Direwolf
+3.Alfyn
+4.Behemoth
+5.Meep
+6.War Wolf
+7.Lightning Remnant
+----------------------------------------
+Direwolf usa Triple Slash
+Alfyn recibe 131 de daño físico
+Alfyn recibe 131 de daño físico
+Alfyn recibe 131 de daño físico
+Alfyn termina con HP:2936
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2936/5336 SP:379/383 BP:3
+B-Agnea - HP:3040/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Lightning Remnant - HP:2779/2779 Shields:3
+B-Direwolf - HP:3867/3867 Shields:4
+C-Behemoth - HP:12690/12690 Shields:8
+D-Meep - HP:1016/1016 Shields:2
+E-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Behemoth
+3.Meep
+4.War Wolf
+5.Lightning Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Direwolf
+3.Alfyn
+4.Behemoth
+5.Meep
+6.War Wolf
+7.Lightning Remnant
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Qilin's Horn
+2: First Aid
+3: Ignis Ardere
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Alfyn usa Ignis Ardere
+Lightning Remnant recibe 1760 de daño de tipo Fire
+Lightning Remnant recibe 1760 de daño de tipo Fire
+Lightning Remnant recibe 1760 de daño de tipo Fire
+Direwolf recibe 1494 de daño de tipo Fire
+Direwolf recibe 1494 de daño de tipo Fire
+Direwolf recibe 1494 de daño de tipo Fire
+Behemoth recibe 1539 de daño de tipo Fire
+Behemoth recibe 1539 de daño de tipo Fire
+Behemoth recibe 1539 de daño de tipo Fire
+Meep recibe 1735 de daño de tipo Fire
+Meep recibe 1735 de daño de tipo Fire
+Meep recibe 1735 de daño de tipo Fire
+War Wolf recibe 1726 de daño de tipo Fire
+War Wolf recibe 1726 de daño de tipo Fire
+War Wolf recibe 1726 de daño de tipo Fire
+Lightning Remnant termina con HP:0
+Direwolf termina con HP:0
+Behemoth termina con HP:8073
+Meep termina con HP:0
+War Wolf termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2936/5336 SP:343/383 BP:0
+B-Agnea - HP:3040/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Lightning Remnant - HP:0/2779 Shields:3
+B-Direwolf - HP:0/3867 Shields:4
+C-Behemoth - HP:8073/12690 Shields:8
+D-Meep - HP:0/1016 Shields:2
+E-War Wolf - HP:0/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Alfyn
+3.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Alfyn recibe 628 de daño físico
+Agnea se defiende
+Agnea recibe 395 de daño físico
+Alfyn termina con HP:2308
+Agnea termina con HP:2645
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2308/5336 SP:343/383 BP:0
+B-Agnea - HP:2645/4002 SP:504/504 BP:4
+Equipo del enemigo
+A-Lightning Remnant - HP:0/2779 Shields:3
+B-Direwolf - HP:0/3867 Shields:4
+C-Behemoth - HP:8073/12690 Shields:8
+D-Meep - HP:0/1016 Shields:2
+E-War Wolf - HP:0/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Alfyn
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Alfyn
+3.Behemoth
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Steorra's Prophecy
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Agnea usa Steorra's Prophecy
+Behemoth recibe 1353 de daño de tipo Dark
+Behemoth termina con HP:6720
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2308/5336 SP:343/383 BP:0
+B-Agnea - HP:2645/4002 SP:454/504 BP:1
+Equipo del enemigo
+A-Lightning Remnant - HP:0/2779 Shields:3
+B-Direwolf - HP:0/3867 Shields:4
+C-Behemoth - HP:6720/12690 Shields:8
+D-Meep - HP:0/1016 Shields:2
+E-War Wolf - HP:0/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Alfyn
+3.Behemoth
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Qilin's Horn
+2: First Aid
+3: Ignis Ardere
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Alfyn - HP:2308/5336 SP:343/383 BP:0
+2: Agnea - HP:2645/4002 SP:454/504 BP:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Alfyn usa First Aid
+Alfyn recupera 357 de vida
+Alfyn termina con HP:2665
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2665/5336 SP:339/383 BP:0
+B-Agnea - HP:2645/4002 SP:454/504 BP:1
+Equipo del enemigo
+A-Lightning Remnant - HP:0/2779 Shields:3
+B-Direwolf - HP:0/3867 Shields:4
+C-Behemoth - HP:6720/12690 Shields:8
+D-Meep - HP:0/1016 Shields:2
+E-War Wolf - HP:0/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Alfyn
+3.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Alfyn recibe 628 de daño físico
+Agnea recibe 790 de daño físico
+Alfyn termina con HP:2037
+Agnea termina con HP:1855
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2037/5336 SP:339/383 BP:1
+B-Agnea - HP:1855/4002 SP:454/504 BP:1
+Equipo del enemigo
+A-Lightning Remnant - HP:0/2779 Shields:3
+B-Direwolf - HP:0/3867 Shields:4
+C-Behemoth - HP:6720/12690 Shields:8
+D-Meep - HP:0/1016 Shields:2
+E-War Wolf - HP:0/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Alfyn
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Alfyn
+3.Behemoth
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Behemoth - HP:6720/12690 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Behemoth recibe 0 de daño de tipo Dagger
+Behemoth termina con HP:6720
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2037/5336 SP:339/383 BP:1
+B-Agnea - HP:1855/4002 SP:454/504 BP:1
+Equipo del enemigo
+A-Lightning Remnant - HP:0/2779 Shields:3
+B-Direwolf - HP:0/3867 Shields:4
+C-Behemoth - HP:6720/12690 Shields:8
+D-Meep - HP:0/1016 Shields:2
+E-War Wolf - HP:0/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Alfyn
+3.Behemoth
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Behemoth - HP:6720/12690 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Behemoth recibe 66 de daño de tipo Axe con debilidad
+Behemoth termina con HP:6654
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:2037/5336 SP:339/383 BP:1
+B-Agnea - HP:1855/4002 SP:454/504 BP:1
+Equipo del enemigo
+A-Lightning Remnant - HP:0/2779 Shields:3
+B-Direwolf - HP:0/3867 Shields:4
+C-Behemoth - HP:6654/12690 Shields:7
+D-Meep - HP:0/1016 Shields:2
+E-War Wolf - HP:0/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Alfyn
+3.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Alfyn recibe 628 de daño físico
+Agnea recibe 790 de daño físico
+Alfyn termina con HP:1409
+Agnea termina con HP:1065
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:1409/5336 SP:339/383 BP:2
+B-Agnea - HP:1065/4002 SP:454/504 BP:2
+Equipo del enemigo
+A-Lightning Remnant - HP:0/2779 Shields:3
+B-Direwolf - HP:0/3867 Shields:4
+C-Behemoth - HP:6654/12690 Shields:7
+D-Meep - HP:0/1016 Shields:2
+E-War Wolf - HP:0/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Alfyn
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Alfyn
+3.Behemoth
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:1409/5336 SP:339/383 BP:2
+B-Agnea - HP:1065/4002 SP:454/504 BP:2
+Equipo del enemigo
+A-Lightning Remnant - HP:0/2779 Shields:3
+B-Direwolf - HP:0/3867 Shields:4
+C-Behemoth - HP:6654/12690 Shields:7
+D-Meep - HP:0/1016 Shields:2
+E-War Wolf - HP:0/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Alfyn
+3.Behemoth
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Behemoth - HP:6654/12690 Shields:7
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Behemoth recibe 66 de daño de tipo Axe con debilidad
+Behemoth termina con HP:6588
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:1409/5336 SP:339/383 BP:2
+B-Agnea - HP:1065/4002 SP:454/504 BP:2
+Equipo del enemigo
+A-Lightning Remnant - HP:0/2779 Shields:3
+B-Direwolf - HP:0/3867 Shields:4
+C-Behemoth - HP:6588/12690 Shields:6
+D-Meep - HP:0/1016 Shields:2
+E-War Wolf - HP:0/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Alfyn
+3.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Alfyn recibe 628 de daño físico
+Agnea se defiende
+Agnea recibe 395 de daño físico
+Alfyn termina con HP:781
+Agnea termina con HP:670
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:781/5336 SP:339/383 BP:3
+B-Agnea - HP:670/4002 SP:454/504 BP:3
+Equipo del enemigo
+A-Lightning Remnant - HP:0/2779 Shields:3
+B-Direwolf - HP:0/3867 Shields:4
+C-Behemoth - HP:6588/12690 Shields:6
+D-Meep - HP:0/1016 Shields:2
+E-War Wolf - HP:0/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Alfyn
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Alfyn
+3.Behemoth
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:781/5336 SP:339/383 BP:3
+B-Agnea - HP:670/4002 SP:454/504 BP:3
+Equipo del enemigo
+A-Lightning Remnant - HP:0/2779 Shields:3
+B-Direwolf - HP:0/3867 Shields:4
+C-Behemoth - HP:6588/12690 Shields:6
+D-Meep - HP:0/1016 Shields:2
+E-War Wolf - HP:0/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Alfyn
+3.Behemoth
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Behemoth - HP:6588/12690 Shields:6
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Behemoth recibe 66 de daño de tipo Axe con debilidad
+Behemoth termina con HP:6522
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:781/5336 SP:339/383 BP:3
+B-Agnea - HP:670/4002 SP:454/504 BP:3
+Equipo del enemigo
+A-Lightning Remnant - HP:0/2779 Shields:3
+B-Direwolf - HP:0/3867 Shields:4
+C-Behemoth - HP:6522/12690 Shields:5
+D-Meep - HP:0/1016 Shields:2
+E-War Wolf - HP:0/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Alfyn
+3.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Alfyn recibe 628 de daño físico
+Agnea se defiende
+Agnea recibe 395 de daño físico
+Alfyn termina con HP:153
+Agnea termina con HP:275
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:153/5336 SP:339/383 BP:4
+B-Agnea - HP:275/4002 SP:454/504 BP:4
+Equipo del enemigo
+A-Lightning Remnant - HP:0/2779 Shields:3
+B-Direwolf - HP:0/3867 Shields:4
+C-Behemoth - HP:6522/12690 Shields:5
+D-Meep - HP:0/1016 Shields:2
+E-War Wolf - HP:0/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Alfyn
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Alfyn
+3.Behemoth
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Behemoth - HP:6522/12690 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Behemoth recibe 0 de daño de tipo Dagger
+Behemoth termina con HP:6522
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:153/5336 SP:339/383 BP:4
+B-Agnea - HP:275/4002 SP:454/504 BP:4
+Equipo del enemigo
+A-Lightning Remnant - HP:0/2779 Shields:3
+B-Direwolf - HP:0/3867 Shields:4
+C-Behemoth - HP:6522/12690 Shields:5
+D-Meep - HP:0/1016 Shields:2
+E-War Wolf - HP:0/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Alfyn
+3.Behemoth
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Qilin's Horn
+2: First Aid
+3: Ignis Ardere
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Alfyn - HP:153/5336 SP:339/383 BP:4
+2: Agnea - HP:275/4002 SP:454/504 BP:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa First Aid
+Agnea recupera 357 de vida
+Agnea termina con HP:632
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:153/5336 SP:335/383 BP:4
+B-Agnea - HP:632/4002 SP:454/504 BP:4
+Equipo del enemigo
+A-Lightning Remnant - HP:0/2779 Shields:3
+B-Direwolf - HP:0/3867 Shields:4
+C-Behemoth - HP:6522/12690 Shields:5
+D-Meep - HP:0/1016 Shields:2
+E-War Wolf - HP:0/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Alfyn
+3.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Alfyn recibe 628 de daño físico
+Alfyn revive
+Agnea recibe 790 de daño físico
+Alfyn termina con HP:1334
+Agnea termina con HP:0
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:1334/5336 SP:335/383 BP:5
+B-Agnea - HP:0/4002 SP:454/504 BP:4
+Equipo del enemigo
+A-Lightning Remnant - HP:0/2779 Shields:3
+B-Direwolf - HP:0/3867 Shields:4
+C-Behemoth - HP:6522/12690 Shields:5
+D-Meep - HP:0/1016 Shields:2
+E-War Wolf - HP:0/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Behemoth
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Behemoth - HP:6522/12690 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Behemoth recibe 66 de daño de tipo Axe con debilidad
+Behemoth termina con HP:6456
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:1334/5336 SP:335/383 BP:5
+B-Agnea - HP:0/4002 SP:454/504 BP:4
+Equipo del enemigo
+A-Lightning Remnant - HP:0/2779 Shields:3
+B-Direwolf - HP:0/3867 Shields:4
+C-Behemoth - HP:6456/12690 Shields:4
+D-Meep - HP:0/1016 Shields:2
+E-War Wolf - HP:0/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Alfyn recibe 628 de daño físico
+Alfyn termina con HP:706
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:706/5336 SP:335/383 BP:5
+B-Agnea - HP:0/4002 SP:454/504 BP:4
+Equipo del enemigo
+A-Lightning Remnant - HP:0/2779 Shields:3
+B-Direwolf - HP:0/3867 Shields:4
+C-Behemoth - HP:6456/12690 Shields:4
+D-Meep - HP:0/1016 Shields:2
+E-War Wolf - HP:0/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Behemoth
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:706/5336 SP:335/383 BP:5
+B-Agnea - HP:0/4002 SP:454/504 BP:4
+Equipo del enemigo
+A-Lightning Remnant - HP:0/2779 Shields:3
+B-Direwolf - HP:0/3867 Shields:4
+C-Behemoth - HP:6456/12690 Shields:4
+D-Meep - HP:0/1016 Shields:2
+E-War Wolf - HP:0/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Alfyn se defiende
+Alfyn recibe 314 de daño físico
+Alfyn termina con HP:392
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:392/5336 SP:335/383 BP:5
+B-Agnea - HP:0/4002 SP:454/504 BP:4
+Equipo del enemigo
+A-Lightning Remnant - HP:0/2779 Shields:3
+B-Direwolf - HP:0/3867 Shields:4
+C-Behemoth - HP:6456/12690 Shields:4
+D-Meep - HP:0/1016 Shields:2
+E-War Wolf - HP:0/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Behemoth
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Qilin's Horn
+2: First Aid
+3: Ignis Ardere
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Behemoth - HP:6456/12690 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Alfyn usa Qilin's Horn
+Behemoth recibe 4113 de daño de tipo Spear con debilidad
+Behemoth termina con HP:2343
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:392/5336 SP:300/383 BP:2
+B-Agnea - HP:0/4002 SP:454/504 BP:4
+Equipo del enemigo
+A-Lightning Remnant - HP:0/2779 Shields:3
+B-Direwolf - HP:0/3867 Shields:4
+C-Behemoth - HP:2343/12690 Shields:3
+D-Meep - HP:0/1016 Shields:2
+E-War Wolf - HP:0/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Alfyn recibe 628 de daño físico
+Alfyn termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

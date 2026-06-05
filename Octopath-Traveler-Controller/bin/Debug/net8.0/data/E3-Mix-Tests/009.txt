@@ -1,0 +1,1520 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+INPUT: 8
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:332/332 BP:1
+B-Tressa - HP:4891/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Armor Corrosive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Meep - HP:1016/1016 Shields:2
+2: War Wolf - HP:3548/3548 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Therion usa Armor Corrosive
+War Wolf tendrá Decreased Physical Defense durante 4 rondas
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:328/332 BP:0
+B-Tressa - HP:4891/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Meep
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Meep - HP:1016/1016 Shields:2
+2: War Wolf - HP:3548/3548 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+War Wolf recibe 393 de daño de tipo Spear
+War Wolf termina con HP:3155
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:328/332 BP:0
+B-Tressa - HP:4891/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-War Wolf - HP:3155/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+Meep usa Attack
+Tressa recibe 185 de daño físico
+Tressa termina con HP:4706
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:328/332 BP:0
+B-Tressa - HP:4706/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-War Wolf - HP:3155/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Tressa recibe 119 de daño físico
+Tressa termina con HP:4587
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:328/332 BP:0
+B-Tressa - HP:4587/4891 SP:357/357 BP:2
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-War Wolf - HP:3155/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Meep - HP:1016/1016 Shields:2
+2: War Wolf - HP:3155/3548 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Therion ataca
+Meep recibe 59 de daño de tipo Dagger
+Meep termina con HP:957
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:328/332 BP:0
+B-Tressa - HP:4587/4891 SP:357/357 BP:2
+Equipo del enemigo
+A-Meep - HP:957/1016 Shields:2
+B-War Wolf - HP:3155/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Meep
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Meep - HP:957/1016 Shields:2
+2: War Wolf - HP:3155/3548 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+War Wolf recibe 393 de daño de tipo Spear
+War Wolf termina con HP:2762
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:328/332 BP:0
+B-Tressa - HP:4587/4891 SP:357/357 BP:2
+Equipo del enemigo
+A-Meep - HP:957/1016 Shields:2
+B-War Wolf - HP:2762/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+Meep usa Attack
+Tressa recibe 185 de daño físico
+Tressa termina con HP:4402
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:328/332 BP:0
+B-Tressa - HP:4402/4891 SP:357/357 BP:2
+Equipo del enemigo
+A-Meep - HP:957/1016 Shields:2
+B-War Wolf - HP:2762/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Therion recibe 197 de daño físico
+Therion termina con HP:4250
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4250/4447 SP:328/332 BP:1
+B-Tressa - HP:4402/4891 SP:357/357 BP:3
+Equipo del enemigo
+A-Meep - HP:957/1016 Shields:2
+B-War Wolf - HP:2762/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Meep - HP:957/1016 Shields:2
+2: War Wolf - HP:2762/3548 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Meep recibe 59 de daño de tipo Dagger
+Meep termina con HP:898
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4250/4447 SP:328/332 BP:1
+B-Tressa - HP:4402/4891 SP:357/357 BP:3
+Equipo del enemigo
+A-Meep - HP:898/1016 Shields:2
+B-War Wolf - HP:2762/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Meep
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Meep - HP:898/1016 Shields:2
+2: War Wolf - HP:2762/3548 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+War Wolf recibe 393 de daño de tipo Spear
+War Wolf termina con HP:2369
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4250/4447 SP:328/332 BP:1
+B-Tressa - HP:4402/4891 SP:357/357 BP:3
+Equipo del enemigo
+A-Meep - HP:898/1016 Shields:2
+B-War Wolf - HP:2369/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+Meep usa Attack
+Tressa recibe 185 de daño físico
+Tressa termina con HP:4217
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4250/4447 SP:328/332 BP:1
+B-Tressa - HP:4217/4891 SP:357/357 BP:3
+Equipo del enemigo
+A-Meep - HP:898/1016 Shields:2
+B-War Wolf - HP:2369/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Therion recibe 197 de daño físico
+Therion termina con HP:4053
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4053/4447 SP:328/332 BP:2
+B-Tressa - HP:4217/4891 SP:357/357 BP:4
+Equipo del enemigo
+A-Meep - HP:898/1016 Shields:2
+B-War Wolf - HP:2369/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Meep - HP:898/1016 Shields:2
+2: War Wolf - HP:2369/3548 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Meep recibe 59 de daño de tipo Dagger
+Meep termina con HP:839
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4053/4447 SP:328/332 BP:2
+B-Tressa - HP:4217/4891 SP:357/357 BP:4
+Equipo del enemigo
+A-Meep - HP:839/1016 Shields:2
+B-War Wolf - HP:2369/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Meep
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Meep - HP:839/1016 Shields:2
+2: War Wolf - HP:2369/3548 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+War Wolf recibe 393 de daño de tipo Spear
+War Wolf termina con HP:1976
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4053/4447 SP:328/332 BP:2
+B-Tressa - HP:4217/4891 SP:357/357 BP:4
+Equipo del enemigo
+A-Meep - HP:839/1016 Shields:2
+B-War Wolf - HP:1976/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+Meep usa Attack
+Tressa recibe 185 de daño físico
+Tressa termina con HP:4032
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4053/4447 SP:328/332 BP:2
+B-Tressa - HP:4032/4891 SP:357/357 BP:4
+Equipo del enemigo
+A-Meep - HP:839/1016 Shields:2
+B-War Wolf - HP:1976/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Therion recibe 197 de daño físico
+Therion termina con HP:3856
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3856/4447 SP:328/332 BP:3
+B-Tressa - HP:4032/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:839/1016 Shields:2
+B-War Wolf - HP:1976/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 3
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Armor Corrosive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Meep - HP:839/1016 Shields:2
+2: War Wolf - HP:1976/3548 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Therion usa Armor Corrosive
+Meep tendrá Decreased Physical Defense durante 6 rondas
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3856/4447 SP:324/332 BP:1
+B-Tressa - HP:4032/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:839/1016 Shields:2
+B-War Wolf - HP:1976/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Meep
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Meep - HP:839/1016 Shields:2
+2: War Wolf - HP:1976/3548 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+War Wolf recibe 262 de daño de tipo Spear
+War Wolf termina con HP:1714
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3856/4447 SP:324/332 BP:1
+B-Tressa - HP:4032/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:839/1016 Shields:2
+B-War Wolf - HP:1714/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+Meep usa Attack
+Tressa recibe 185 de daño físico
+Tressa termina con HP:3847
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3856/4447 SP:324/332 BP:1
+B-Tressa - HP:3847/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:839/1016 Shields:2
+B-War Wolf - HP:1714/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Therion recibe 197 de daño físico
+Therion termina con HP:3659
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3659/4447 SP:324/332 BP:1
+B-Tressa - HP:3847/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:839/1016 Shields:2
+B-War Wolf - HP:1714/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Meep - HP:839/1016 Shields:2
+2: War Wolf - HP:1714/3548 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+War Wolf recibe 254 de daño de tipo Dagger
+War Wolf termina con HP:1460
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3659/4447 SP:324/332 BP:1
+B-Tressa - HP:3847/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:839/1016 Shields:2
+B-War Wolf - HP:1460/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Meep
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Meep - HP:839/1016 Shields:2
+2: War Wolf - HP:1460/3548 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+War Wolf recibe 262 de daño de tipo Spear
+War Wolf termina con HP:1198
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3659/4447 SP:324/332 BP:1
+B-Tressa - HP:3847/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:839/1016 Shields:2
+B-War Wolf - HP:1198/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+Meep usa Attack
+Tressa recibe 185 de daño físico
+Tressa termina con HP:3662
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3659/4447 SP:324/332 BP:1
+B-Tressa - HP:3662/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:839/1016 Shields:2
+B-War Wolf - HP:1198/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Tressa recibe 119 de daño físico
+Tressa termina con HP:3543
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3659/4447 SP:324/332 BP:2
+B-Tressa - HP:3543/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:839/1016 Shields:2
+B-War Wolf - HP:1198/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Meep - HP:839/1016 Shields:2
+2: War Wolf - HP:1198/3548 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+War Wolf recibe 254 de daño de tipo Dagger
+War Wolf termina con HP:944
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3659/4447 SP:324/332 BP:2
+B-Tressa - HP:3543/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:839/1016 Shields:2
+B-War Wolf - HP:944/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Meep
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Meep - HP:839/1016 Shields:2
+2: War Wolf - HP:944/3548 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+War Wolf recibe 262 de daño de tipo Spear
+War Wolf termina con HP:682
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3659/4447 SP:324/332 BP:2
+B-Tressa - HP:3543/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:839/1016 Shields:2
+B-War Wolf - HP:682/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+Meep usa Attack
+Therion recibe 263 de daño físico
+Therion termina con HP:3396
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3396/4447 SP:324/332 BP:2
+B-Tressa - HP:3543/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:839/1016 Shields:2
+B-War Wolf - HP:682/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Tressa recibe 119 de daño físico
+Tressa termina con HP:3424
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3396/4447 SP:324/332 BP:3
+B-Tressa - HP:3424/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:839/1016 Shields:2
+B-War Wolf - HP:682/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Meep - HP:839/1016 Shields:2
+2: War Wolf - HP:682/3548 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+War Wolf recibe 254 de daño de tipo Dagger
+War Wolf termina con HP:428
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3396/4447 SP:324/332 BP:3
+B-Tressa - HP:3424/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:839/1016 Shields:2
+B-War Wolf - HP:428/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Meep
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Meep - HP:839/1016 Shields:2
+2: War Wolf - HP:428/3548 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+War Wolf recibe 262 de daño de tipo Spear
+War Wolf termina con HP:166
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3396/4447 SP:324/332 BP:3
+B-Tressa - HP:3424/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:839/1016 Shields:2
+B-War Wolf - HP:166/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+Meep usa Attack
+Tressa recibe 185 de daño físico
+Tressa termina con HP:3239
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3396/4447 SP:324/332 BP:3
+B-Tressa - HP:3239/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:839/1016 Shields:2
+B-War Wolf - HP:166/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Therion recibe 197 de daño físico
+Therion termina con HP:3199
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3199/4447 SP:324/332 BP:4
+B-Tressa - HP:3239/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:839/1016 Shields:2
+B-War Wolf - HP:166/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Meep - HP:839/1016 Shields:2
+2: War Wolf - HP:166/3548 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Meep recibe 89 de daño de tipo Dagger
+Meep termina con HP:750
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3199/4447 SP:324/332 BP:4
+B-Tressa - HP:3239/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:750/1016 Shields:2
+B-War Wolf - HP:166/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Meep
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Meep - HP:750/1016 Shields:2
+2: War Wolf - HP:166/3548 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Meep recibe 100 de daño de tipo Spear
+Meep termina con HP:650
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3199/4447 SP:324/332 BP:4
+B-Tressa - HP:3239/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:650/1016 Shields:2
+B-War Wolf - HP:166/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+Meep usa Attack
+Tressa recibe 185 de daño físico
+Tressa termina con HP:3054
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3199/4447 SP:324/332 BP:4
+B-Tressa - HP:3054/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:650/1016 Shields:2
+B-War Wolf - HP:166/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Therion recibe 197 de daño físico
+Therion termina con HP:3002
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3002/4447 SP:324/332 BP:5
+B-Tressa - HP:3054/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:650/1016 Shields:2
+B-War Wolf - HP:166/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Meep - HP:650/1016 Shields:2
+2: War Wolf - HP:166/3548 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Meep recibe 89 de daño de tipo Dagger
+Meep termina con HP:561
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3002/4447 SP:324/332 BP:5
+B-Tressa - HP:3054/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:561/1016 Shields:2
+B-War Wolf - HP:166/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Meep
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+4.War Wolf
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Meep - HP:561/1016 Shields:2
+2: War Wolf - HP:166/3548 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+War Wolf recibe 262 de daño de tipo Spear
+War Wolf termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3002/4447 SP:324/332 BP:5
+B-Tressa - HP:3054/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:561/1016 Shields:2
+B-War Wolf - HP:0/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+----------------------------------------
+Meep usa Attack
+Tressa recibe 185 de daño físico
+Tressa termina con HP:2869
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3002/4447 SP:324/332 BP:5
+B-Tressa - HP:2869/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:561/1016 Shields:2
+B-War Wolf - HP:0/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Tressa
+3.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Meep - HP:561/1016 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Meep recibe 59 de daño de tipo Dagger
+Meep termina con HP:502
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3002/4447 SP:324/332 BP:5
+B-Tressa - HP:2869/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:502/1016 Shields:2
+B-War Wolf - HP:0/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Meep - HP:502/1016 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Meep recibe 67 de daño de tipo Spear
+Meep termina con HP:435
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3002/4447 SP:324/332 BP:5
+B-Tressa - HP:2869/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:435/1016 Shields:2
+B-War Wolf - HP:0/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+----------------------------------------
+Meep usa Attack
+Therion recibe 263 de daño físico
+Therion termina con HP:2739
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2739/4447 SP:324/332 BP:5
+B-Tressa - HP:2869/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:435/1016 Shields:2
+B-War Wolf - HP:0/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Tressa
+3.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Meep - HP:435/1016 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Therion ataca
+Meep recibe 59 de daño de tipo Dagger
+Meep recibe 59 de daño de tipo Dagger
+Meep recibe 59 de daño de tipo Dagger
+Meep recibe 59 de daño de tipo Dagger
+Meep termina con HP:199
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2739/4447 SP:324/332 BP:2
+B-Tressa - HP:2869/4891 SP:357/357 BP:5
+Equipo del enemigo
+A-Meep - HP:199/1016 Shields:2
+B-War Wolf - HP:0/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Meep
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Meep - HP:199/1016 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa ataca
+Meep recibe 100 de daño de tipo Bow con debilidad
+Meep recibe 100 de daño de tipo Bow con debilidad
+Meep entra en Breaking Point
+Meep recibe 134 de daño de tipo Bow con debilidad
+Meep recibe 134 de daño de tipo Bow con debilidad
+Meep termina con HP:0
+----------------------------------------
+Gana equipo del jugador

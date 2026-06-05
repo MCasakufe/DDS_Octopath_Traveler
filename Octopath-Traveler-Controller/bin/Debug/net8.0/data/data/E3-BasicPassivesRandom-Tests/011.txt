@@ -1,0 +1,1004 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+INPUT: 10
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:4002/4002 SP:432/432 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Hoary Bear - HP:2688/2688 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Frost Fox
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Frost Fox - HP:1302/1302 Shields:2
+2: Devil Deer - HP:2002/2002 Shields:5
+3: Hoary Bear - HP:2688/2688 Shields:3
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Devil Deer recibe 0 de daño de tipo Stave con debilidad
+Devil Deer termina con HP:2002
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:4002/4002 SP:432/432 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Hoary Bear - HP:2688/2688 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Devil Deer
+3.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Frost Fox usa Ice blast
+Temenos recibe 134 de daño elemental
+Temenos termina con HP:3868
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:3868/4002 SP:432/432 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Hoary Bear - HP:2688/2688 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Devil Deer usa Boar Rush
+Temenos recibe 548 de daño físico
+Temenos termina con HP:3320
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:3320/4002 SP:432/432 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Hoary Bear - HP:2688/2688 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Hoary Bear usa Rampage
+Temenos recibe 239 de daño físico
+Temenos termina con HP:3081
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:3481/4002 SP:432/432 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Hoary Bear - HP:2688/2688 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Frost Fox
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Lightning Bolt
+2: Spearhead
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Frost Fox - HP:1302/1302 Shields:2
+2: Devil Deer - HP:2002/2002 Shields:5
+3: Hoary Bear - HP:2688/2688 Shields:3
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos usa Spearhead
+Hoary Bear recibe 196 de daño de tipo Spear con debilidad
+Hoary Bear termina con HP:2492
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:3481/4002 SP:426/432 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Hoary Bear - HP:2492/2688 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Devil Deer
+3.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Frost Fox usa Ice blast
+Temenos recibe 134 de daño elemental
+Temenos termina con HP:3347
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:3347/4002 SP:426/432 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Hoary Bear - HP:2492/2688 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Devil Deer usa Boar Rush
+Temenos recibe 548 de daño físico
+Temenos termina con HP:2799
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:2799/4002 SP:426/432 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Hoary Bear - HP:2492/2688 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Hoary Bear usa Rampage
+Temenos recibe 239 de daño físico
+Temenos termina con HP:2560
+----------------------------------------
+Temenos obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:2560/4002 SP:426/432 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Hoary Bear - HP:2492/2688 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Lightning Bolt
+2: Spearhead
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos usa Lightning Bolt
+Frost Fox recibe 375 de daño de tipo Lightning con debilidad
+Devil Deer recibe 97 de daño de tipo Lightning con debilidad
+Hoary Bear recibe 264 de daño de tipo Lightning
+Frost Fox termina con HP:927
+Devil Deer termina con HP:1905
+Hoary Bear termina con HP:2228
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:2960/4002 SP:432/432 BP:3
+Equipo del enemigo
+A-Frost Fox - HP:927/1302 Shields:1
+B-Devil Deer - HP:1905/2002 Shields:4
+C-Hoary Bear - HP:2228/2688 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Frost Fox
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Frost Fox - HP:927/1302 Shields:1
+2: Devil Deer - HP:1905/2002 Shields:4
+3: Hoary Bear - HP:2228/2688 Shields:2
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Devil Deer recibe 0 de daño de tipo Stave con debilidad
+Devil Deer termina con HP:1905
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:2960/4002 SP:432/432 BP:3
+Equipo del enemigo
+A-Frost Fox - HP:927/1302 Shields:1
+B-Devil Deer - HP:1905/2002 Shields:4
+C-Hoary Bear - HP:2228/2688 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Devil Deer
+3.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Frost Fox usa Ice blast
+Temenos recibe 134 de daño elemental
+Temenos termina con HP:2826
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:2826/4002 SP:432/432 BP:3
+Equipo del enemigo
+A-Frost Fox - HP:927/1302 Shields:1
+B-Devil Deer - HP:1905/2002 Shields:4
+C-Hoary Bear - HP:2228/2688 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Devil Deer usa Boar Rush
+Temenos recibe 548 de daño físico
+Temenos termina con HP:2278
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:2278/4002 SP:432/432 BP:3
+Equipo del enemigo
+A-Frost Fox - HP:927/1302 Shields:1
+B-Devil Deer - HP:1905/2002 Shields:4
+C-Hoary Bear - HP:2228/2688 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Hoary Bear usa Rampage
+Temenos recibe 239 de daño físico
+Temenos termina con HP:2039
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:2439/4002 SP:432/432 BP:4
+Equipo del enemigo
+A-Frost Fox - HP:927/1302 Shields:1
+B-Devil Deer - HP:1905/2002 Shields:4
+C-Hoary Bear - HP:2228/2688 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Frost Fox
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Frost Fox - HP:927/1302 Shields:1
+2: Devil Deer - HP:1905/2002 Shields:4
+3: Hoary Bear - HP:2228/2688 Shields:2
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Hoary Bear recibe 74 de daño de tipo Stave
+Hoary Bear termina con HP:2154
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:2439/4002 SP:432/432 BP:4
+Equipo del enemigo
+A-Frost Fox - HP:927/1302 Shields:1
+B-Devil Deer - HP:1905/2002 Shields:4
+C-Hoary Bear - HP:2154/2688 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Devil Deer
+3.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Frost Fox usa Ice blast
+Temenos recibe 134 de daño elemental
+Temenos termina con HP:2305
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:2305/4002 SP:432/432 BP:4
+Equipo del enemigo
+A-Frost Fox - HP:927/1302 Shields:1
+B-Devil Deer - HP:1905/2002 Shields:4
+C-Hoary Bear - HP:2154/2688 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Devil Deer usa Boar Rush
+Temenos recibe 548 de daño físico
+Temenos termina con HP:1757
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:1757/4002 SP:432/432 BP:4
+Equipo del enemigo
+A-Frost Fox - HP:927/1302 Shields:1
+B-Devil Deer - HP:1905/2002 Shields:4
+C-Hoary Bear - HP:2154/2688 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Hoary Bear usa Rampage
+Temenos recibe 239 de daño físico
+Temenos termina con HP:1518
+----------------------------------------
+Temenos obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:1518/4002 SP:432/432 BP:4
+Equipo del enemigo
+A-Frost Fox - HP:927/1302 Shields:1
+B-Devil Deer - HP:1905/2002 Shields:4
+C-Hoary Bear - HP:2154/2688 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Frost Fox - HP:927/1302 Shields:1
+2: Devil Deer - HP:1905/2002 Shields:4
+3: Hoary Bear - HP:2154/2688 Shields:2
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Hoary Bear recibe 74 de daño de tipo Stave
+Hoary Bear termina con HP:2080
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:1918/4002 SP:432/432 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:927/1302 Shields:1
+B-Devil Deer - HP:1905/2002 Shields:4
+C-Hoary Bear - HP:2080/2688 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Frost Fox
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Frost Fox - HP:927/1302 Shields:1
+2: Devil Deer - HP:1905/2002 Shields:4
+3: Hoary Bear - HP:2080/2688 Shields:2
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Hoary Bear recibe 74 de daño de tipo Stave
+Hoary Bear termina con HP:2006
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:1918/4002 SP:432/432 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:927/1302 Shields:1
+B-Devil Deer - HP:1905/2002 Shields:4
+C-Hoary Bear - HP:2006/2688 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Devil Deer
+3.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Frost Fox usa Ice blast
+Temenos recibe 134 de daño elemental
+Temenos termina con HP:1784
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:1784/4002 SP:432/432 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:927/1302 Shields:1
+B-Devil Deer - HP:1905/2002 Shields:4
+C-Hoary Bear - HP:2006/2688 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Devil Deer usa Boar Rush
+Temenos recibe 548 de daño físico
+Temenos termina con HP:1236
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:1236/4002 SP:432/432 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:927/1302 Shields:1
+B-Devil Deer - HP:1905/2002 Shields:4
+C-Hoary Bear - HP:2006/2688 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Hoary Bear usa Rampage
+Temenos recibe 239 de daño físico
+Temenos termina con HP:997
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:1397/4002 SP:432/432 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:927/1302 Shields:1
+B-Devil Deer - HP:1905/2002 Shields:4
+C-Hoary Bear - HP:2006/2688 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Frost Fox
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Frost Fox - HP:927/1302 Shields:1
+2: Devil Deer - HP:1905/2002 Shields:4
+3: Hoary Bear - HP:2006/2688 Shields:2
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Hoary Bear recibe 74 de daño de tipo Stave
+Hoary Bear termina con HP:1932
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:1397/4002 SP:432/432 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:927/1302 Shields:1
+B-Devil Deer - HP:1905/2002 Shields:4
+C-Hoary Bear - HP:1932/2688 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Devil Deer
+3.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Frost Fox usa Ice blast
+Temenos recibe 134 de daño elemental
+Temenos termina con HP:1263
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:1263/4002 SP:432/432 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:927/1302 Shields:1
+B-Devil Deer - HP:1905/2002 Shields:4
+C-Hoary Bear - HP:1932/2688 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Devil Deer usa Boar Rush
+Temenos recibe 548 de daño físico
+Temenos termina con HP:715
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:715/4002 SP:432/432 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:927/1302 Shields:1
+B-Devil Deer - HP:1905/2002 Shields:4
+C-Hoary Bear - HP:1932/2688 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Hoary Bear usa Rampage
+Temenos recibe 239 de daño físico
+Temenos termina con HP:476
+----------------------------------------
+Temenos obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:476/4002 SP:432/432 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:927/1302 Shields:1
+B-Devil Deer - HP:1905/2002 Shields:4
+C-Hoary Bear - HP:1932/2688 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Lightning Bolt
+2: Spearhead
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos usa Lightning Bolt
+Frost Fox recibe 375 de daño de tipo Lightning con debilidad
+Frost Fox entra en Breaking Point
+Devil Deer recibe 97 de daño de tipo Lightning con debilidad
+Hoary Bear recibe 264 de daño de tipo Lightning
+Frost Fox termina con HP:552
+Devil Deer termina con HP:1808
+Hoary Bear termina con HP:1668
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:876/4002 SP:432/432 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:552/1302 Shields:0
+B-Devil Deer - HP:1808/2002 Shields:3
+C-Hoary Bear - HP:1668/2688 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Devil Deer
+3.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Frost Fox
+2.Temenos
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Frost Fox - HP:552/1302 Shields:0
+2: Devil Deer - HP:1808/2002 Shields:3
+3: Hoary Bear - HP:1668/2688 Shields:2
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Hoary Bear recibe 74 de daño de tipo Stave
+Hoary Bear termina con HP:1594
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:876/4002 SP:432/432 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:552/1302 Shields:0
+B-Devil Deer - HP:1808/2002 Shields:3
+C-Hoary Bear - HP:1594/2688 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Frost Fox
+2.Temenos
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Devil Deer usa Boar Rush
+Temenos recibe 548 de daño físico
+Temenos termina con HP:328
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:328/4002 SP:432/432 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:552/1302 Shields:0
+B-Devil Deer - HP:1808/2002 Shields:3
+C-Hoary Bear - HP:1594/2688 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Frost Fox
+2.Temenos
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Hoary Bear usa Rampage
+Temenos recibe 239 de daño físico
+Temenos termina con HP:89
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:489/4002 SP:432/432 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:552/1302 Shields:2
+B-Devil Deer - HP:1808/2002 Shields:3
+C-Hoary Bear - HP:1594/2688 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Temenos
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Frost Fox usa Ice blast
+Temenos recibe 134 de daño elemental
+Temenos termina con HP:355
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:355/4002 SP:432/432 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:552/1302 Shields:2
+B-Devil Deer - HP:1808/2002 Shields:3
+C-Hoary Bear - HP:1594/2688 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Devil Deer
+3.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:355/4002 SP:432/432 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:552/1302 Shields:2
+B-Devil Deer - HP:1808/2002 Shields:3
+C-Hoary Bear - HP:1594/2688 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Devil Deer usa Boar Rush
+Temenos se defiende
+Temenos recibe 274 de daño físico
+Temenos termina con HP:81
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:81/4002 SP:432/432 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:552/1302 Shields:2
+B-Devil Deer - HP:1808/2002 Shields:3
+C-Hoary Bear - HP:1594/2688 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Devil Deer
+4.Hoary Bear
+----------------------------------------
+Hoary Bear usa Rampage
+Temenos se defiende
+Temenos recibe 119 de daño físico
+Temenos termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

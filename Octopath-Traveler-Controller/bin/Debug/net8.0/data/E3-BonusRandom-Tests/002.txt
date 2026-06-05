@@ -1,0 +1,2364 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+INPUT: 1
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+B-Partitio - HP:5391/5391 SP:314/314 BP:1
+C-H'aanit - HP:4447/4447 SP:369/369 BP:1
+D-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Withered Wanderweed - HP:2314/2314 Shields:1
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Devourer of Men - HP:7500/7500 Shields:8
+D-Flying Fish - HP:649/649 Shields:4
+E-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Z'aanta
+3.Flying Fish
+4.Partitio
+5.Osvald
+6.Withered Wanderweed
+7.Devourer of Men
+8.Dark Elemental
+9.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Flying Fish
+4.Partitio
+5.Osvald
+6.Withered Wanderweed
+7.Devourer of Men
+8.Dark Elemental
+9.Ice Guardian
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Withered Wanderweed - HP:2314/2314 Shields:1
+2: Ice Guardian - HP:1471/1471 Shields:3
+3: Devourer of Men - HP:7500/7500 Shields:8
+4: Flying Fish - HP:649/649 Shields:4
+5: Dark Elemental - HP:1822/1822 Shields:4
+6: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Flying Fish recibe 57 de daño de tipo Axe
+Flying Fish termina con HP:592
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+B-Partitio - HP:5391/5391 SP:314/314 BP:1
+C-H'aanit - HP:4447/4447 SP:369/369 BP:1
+D-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Withered Wanderweed - HP:2314/2314 Shields:1
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Devourer of Men - HP:7500/7500 Shields:8
+D-Flying Fish - HP:592/649 Shields:4
+E-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Flying Fish
+3.Partitio
+4.Osvald
+5.Withered Wanderweed
+6.Devourer of Men
+7.Dark Elemental
+8.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Flying Fish
+4.Partitio
+5.Osvald
+6.Withered Wanderweed
+7.Devourer of Men
+8.Dark Elemental
+9.Ice Guardian
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Withered Wanderweed - HP:2314/2314 Shields:1
+2: Ice Guardian - HP:1471/1471 Shields:3
+3: Devourer of Men - HP:7500/7500 Shields:8
+4: Flying Fish - HP:592/649 Shields:4
+5: Dark Elemental - HP:1822/1822 Shields:4
+6: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Withered Wanderweed recibe 351 de daño de tipo Axe con debilidad
+Withered Wanderweed entra en Breaking Point
+Z'aanta recupera 3 SP
+Withered Wanderweed termina con HP:1963
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+B-Partitio - HP:5391/5391 SP:314/314 BP:1
+C-H'aanit - HP:4447/4447 SP:369/369 BP:1
+D-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Withered Wanderweed - HP:1963/2314 Shields:0
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Devourer of Men - HP:7500/7500 Shields:8
+D-Flying Fish - HP:592/649 Shields:4
+E-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Flying Fish
+2.Partitio
+3.Osvald
+4.Devourer of Men
+5.Dark Elemental
+6.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Flying Fish
+4.Partitio
+5.Osvald
+6.Devourer of Men
+7.Dark Elemental
+8.Ice Guardian
+----------------------------------------
+Flying Fish usa Attack
+Partitio recibe 241 de daño físico
+Partitio termina con HP:5150
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+B-Partitio - HP:5150/5391 SP:314/314 BP:1
+C-H'aanit - HP:4447/4447 SP:369/369 BP:1
+D-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Withered Wanderweed - HP:1963/2314 Shields:0
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Devourer of Men - HP:7500/7500 Shields:8
+D-Flying Fish - HP:592/649 Shields:4
+E-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Osvald
+3.Devourer of Men
+4.Dark Elemental
+5.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Flying Fish
+4.Partitio
+5.Osvald
+6.Devourer of Men
+7.Dark Elemental
+8.Ice Guardian
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+B-Partitio - HP:5150/5391 SP:314/314 BP:1
+C-H'aanit - HP:4447/4447 SP:369/369 BP:1
+D-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Withered Wanderweed - HP:1963/2314 Shields:0
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Devourer of Men - HP:7500/7500 Shields:8
+D-Flying Fish - HP:592/649 Shields:4
+E-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Devourer of Men
+3.Dark Elemental
+4.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.H'aanit
+3.Z'aanta
+4.Flying Fish
+5.Osvald
+6.Devourer of Men
+7.Dark Elemental
+8.Ice Guardian
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+B-Partitio - HP:5150/5391 SP:314/314 BP:1
+C-H'aanit - HP:4447/4447 SP:369/369 BP:1
+D-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Withered Wanderweed - HP:1963/2314 Shields:0
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Devourer of Men - HP:7500/7500 Shields:8
+D-Flying Fish - HP:592/649 Shields:4
+E-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Men
+2.Dark Elemental
+3.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Osvald
+3.H'aanit
+4.Z'aanta
+5.Flying Fish
+6.Devourer of Men
+7.Dark Elemental
+8.Ice Guardian
+----------------------------------------
+Devourer of Men usa Shadow Magic
+Z'aanta recibe 0 de daño elemental
+Z'aanta recibe 0 de daño elemental
+Partitio se defiende
+Partitio recibe 187 de daño elemental
+Partitio recibe 187 de daño elemental
+H'aanit recibe 405 de daño elemental
+H'aanit recibe 405 de daño elemental
+Osvald se defiende
+Osvald recibe 165 de daño elemental
+Osvald recibe 165 de daño elemental
+Z'aanta termina con HP:3222
+Partitio termina con HP:4776
+H'aanit termina con HP:3637
+Osvald termina con HP:3227
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+B-Partitio - HP:4776/5391 SP:314/314 BP:1
+C-H'aanit - HP:3637/4447 SP:369/369 BP:1
+D-Osvald - HP:3227/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Withered Wanderweed - HP:1963/2314 Shields:0
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Devourer of Men - HP:7500/7500 Shields:8
+D-Flying Fish - HP:592/649 Shields:4
+E-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Osvald
+3.H'aanit
+4.Z'aanta
+5.Flying Fish
+6.Devourer of Men
+7.Dark Elemental
+8.Ice Guardian
+----------------------------------------
+Dark Elemental usa Shadowshot
+Z'aanta recibe 0 de daño elemental
+Z'aanta termina con HP:3222
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+B-Partitio - HP:4776/5391 SP:314/314 BP:1
+C-H'aanit - HP:3637/4447 SP:369/369 BP:1
+D-Osvald - HP:3227/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Withered Wanderweed - HP:1963/2314 Shields:0
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Devourer of Men - HP:7500/7500 Shields:8
+D-Flying Fish - HP:592/649 Shields:4
+E-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Osvald
+3.H'aanit
+4.Z'aanta
+5.Flying Fish
+6.Devourer of Men
+7.Dark Elemental
+8.Ice Guardian
+----------------------------------------
+Ice Guardian usa Attack
+Partitio se defiende
+Partitio recibe 63 de daño físico
+Partitio termina con HP:4713
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:2
+B-Partitio - HP:4713/5391 SP:314/314 BP:2
+C-H'aanit - HP:3637/4447 SP:369/369 BP:2
+D-Osvald - HP:3227/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Withered Wanderweed - HP:1963/2314 Shields:0
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Devourer of Men - HP:7500/7500 Shields:8
+D-Flying Fish - HP:592/649 Shields:4
+E-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Osvald
+3.H'aanit
+4.Z'aanta
+5.Flying Fish
+6.Devourer of Men
+7.Dark Elemental
+8.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Withered Wanderweed
+2.H'aanit
+3.Z'aanta
+4.Flying Fish
+5.Partitio
+6.Osvald
+7.Devourer of Men
+8.Dark Elemental
+9.Ice Guardian
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Withered Wanderweed - HP:1963/2314 Shields:0
+2: Ice Guardian - HP:1471/1471 Shields:3
+3: Devourer of Men - HP:7500/7500 Shields:8
+4: Flying Fish - HP:592/649 Shields:4
+5: Dark Elemental - HP:1822/1822 Shields:4
+6: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Flying Fish recibe 27 de daño de tipo Bow con debilidad
+Flying Fish termina con HP:565
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:2
+B-Partitio - HP:4713/5391 SP:314/314 BP:2
+C-H'aanit - HP:3637/4447 SP:369/369 BP:2
+D-Osvald - HP:3227/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Withered Wanderweed - HP:1963/2314 Shields:0
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Devourer of Men - HP:7500/7500 Shields:8
+D-Flying Fish - HP:565/649 Shields:3
+E-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.H'aanit
+3.Z'aanta
+4.Flying Fish
+5.Devourer of Men
+6.Dark Elemental
+7.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Withered Wanderweed
+2.H'aanit
+3.Z'aanta
+4.Flying Fish
+5.Partitio
+6.Osvald
+7.Devourer of Men
+8.Dark Elemental
+9.Ice Guardian
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Withered Wanderweed - HP:1963/2314 Shields:0
+2: Ice Guardian - HP:1471/1471 Shields:3
+3: Devourer of Men - HP:7500/7500 Shields:8
+4: Flying Fish - HP:565/649 Shields:3
+5: Dark Elemental - HP:1822/1822 Shields:4
+6: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Withered Wanderweed recibe 134 de daño de tipo Stave
+Osvald recupera 1 SP
+Withered Wanderweed termina con HP:1829
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:2
+B-Partitio - HP:4713/5391 SP:314/314 BP:2
+C-H'aanit - HP:3637/4447 SP:369/369 BP:2
+D-Osvald - HP:3227/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Withered Wanderweed - HP:1829/2314 Shields:0
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Devourer of Men - HP:7500/7500 Shields:8
+D-Flying Fish - HP:565/649 Shields:3
+E-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Z'aanta
+3.Flying Fish
+4.Devourer of Men
+5.Dark Elemental
+6.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Withered Wanderweed
+2.H'aanit
+3.Z'aanta
+4.Flying Fish
+5.Partitio
+6.Osvald
+7.Devourer of Men
+8.Dark Elemental
+9.Ice Guardian
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Withered Wanderweed - HP:1829/2314 Shields:0
+2: Ice Guardian - HP:1471/1471 Shields:3
+3: Devourer of Men - HP:7500/7500 Shields:8
+4: Flying Fish - HP:565/649 Shields:3
+5: Dark Elemental - HP:1822/1822 Shields:4
+6: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Devourer of Men recibe 56 de daño de tipo Axe con debilidad
+Devourer of Men termina con HP:7444
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:2
+B-Partitio - HP:4713/5391 SP:314/314 BP:2
+C-H'aanit - HP:3637/4447 SP:369/369 BP:2
+D-Osvald - HP:3227/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Withered Wanderweed - HP:1829/2314 Shields:0
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Devourer of Men - HP:7444/7500 Shields:7
+D-Flying Fish - HP:565/649 Shields:3
+E-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Flying Fish
+3.Devourer of Men
+4.Dark Elemental
+5.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Withered Wanderweed
+2.H'aanit
+3.Z'aanta
+4.Flying Fish
+5.Partitio
+6.Osvald
+7.Devourer of Men
+8.Dark Elemental
+9.Ice Guardian
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Withered Wanderweed - HP:1829/2314 Shields:0
+2: Ice Guardian - HP:1471/1471 Shields:3
+3: Devourer of Men - HP:7444/7500 Shields:7
+4: Flying Fish - HP:565/649 Shields:3
+5: Dark Elemental - HP:1822/1822 Shields:4
+6: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Flying Fish recibe 193 de daño de tipo Bow con debilidad
+Z'aanta recupera 1 SP
+Flying Fish termina con HP:372
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:2
+B-Partitio - HP:4713/5391 SP:314/314 BP:2
+C-H'aanit - HP:3637/4447 SP:369/369 BP:2
+D-Osvald - HP:3227/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Withered Wanderweed - HP:1829/2314 Shields:0
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Devourer of Men - HP:7444/7500 Shields:7
+D-Flying Fish - HP:372/649 Shields:2
+E-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Flying Fish
+2.Devourer of Men
+3.Dark Elemental
+4.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Withered Wanderweed
+2.H'aanit
+3.Z'aanta
+4.Flying Fish
+5.Partitio
+6.Osvald
+7.Devourer of Men
+8.Dark Elemental
+9.Ice Guardian
+----------------------------------------
+Flying Fish usa Attack
+Partitio recibe 241 de daño físico
+Partitio termina con HP:4472
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:2
+B-Partitio - HP:4472/5391 SP:314/314 BP:2
+C-H'aanit - HP:3637/4447 SP:369/369 BP:2
+D-Osvald - HP:3227/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Withered Wanderweed - HP:1829/2314 Shields:0
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Devourer of Men - HP:7444/7500 Shields:7
+D-Flying Fish - HP:372/649 Shields:2
+E-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Men
+2.Dark Elemental
+3.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Withered Wanderweed
+2.H'aanit
+3.Z'aanta
+4.Flying Fish
+5.Partitio
+6.Osvald
+7.Devourer of Men
+8.Dark Elemental
+9.Ice Guardian
+----------------------------------------
+Devourer of Men usa Shadow Magic
+Z'aanta recibe 0 de daño elemental
+Z'aanta recibe 0 de daño elemental
+Partitio recibe 375 de daño elemental
+Partitio recibe 375 de daño elemental
+H'aanit recibe 405 de daño elemental
+H'aanit recibe 405 de daño elemental
+Osvald recibe 330 de daño elemental
+Osvald recibe 330 de daño elemental
+Z'aanta termina con HP:3222
+Partitio termina con HP:3722
+H'aanit termina con HP:2827
+Osvald termina con HP:2567
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:2
+B-Partitio - HP:3722/5391 SP:314/314 BP:2
+C-H'aanit - HP:2827/4447 SP:369/369 BP:2
+D-Osvald - HP:2567/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Withered Wanderweed - HP:1829/2314 Shields:0
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Devourer of Men - HP:7444/7500 Shields:7
+D-Flying Fish - HP:372/649 Shields:2
+E-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Withered Wanderweed
+2.H'aanit
+3.Z'aanta
+4.Flying Fish
+5.Partitio
+6.Osvald
+7.Devourer of Men
+8.Dark Elemental
+9.Ice Guardian
+----------------------------------------
+Dark Elemental usa Shadowshot
+Z'aanta recibe 0 de daño elemental
+Z'aanta termina con HP:3222
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:2
+B-Partitio - HP:3722/5391 SP:314/314 BP:2
+C-H'aanit - HP:2827/4447 SP:369/369 BP:2
+D-Osvald - HP:2567/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Withered Wanderweed - HP:1829/2314 Shields:0
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Devourer of Men - HP:7444/7500 Shields:7
+D-Flying Fish - HP:372/649 Shields:2
+E-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Withered Wanderweed
+2.H'aanit
+3.Z'aanta
+4.Flying Fish
+5.Partitio
+6.Osvald
+7.Devourer of Men
+8.Dark Elemental
+9.Ice Guardian
+----------------------------------------
+Ice Guardian usa Attack
+Partitio recibe 127 de daño físico
+Partitio termina con HP:3595
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:3
+B-Partitio - HP:3595/5391 SP:314/314 BP:3
+C-H'aanit - HP:2827/4447 SP:369/369 BP:3
+D-Osvald - HP:2567/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Withered Wanderweed - HP:1829/2314 Shields:1
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Devourer of Men - HP:7444/7500 Shields:7
+D-Flying Fish - HP:372/649 Shields:2
+E-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Withered Wanderweed
+2.H'aanit
+3.Z'aanta
+4.Flying Fish
+5.Partitio
+6.Osvald
+7.Devourer of Men
+8.Dark Elemental
+9.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Flying Fish
+4.Partitio
+5.Osvald
+6.Withered Wanderweed
+7.Devourer of Men
+8.Dark Elemental
+9.Ice Guardian
+----------------------------------------
+Withered Wanderweed usa Attack
+Partitio recibe 62 de daño físico
+Partitio termina con HP:3533
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:3
+B-Partitio - HP:3533/5391 SP:314/314 BP:3
+C-H'aanit - HP:2827/4447 SP:369/369 BP:3
+D-Osvald - HP:2567/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Withered Wanderweed - HP:1829/2314 Shields:1
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Devourer of Men - HP:7444/7500 Shields:7
+D-Flying Fish - HP:372/649 Shields:2
+E-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Z'aanta
+3.Flying Fish
+4.Partitio
+5.Osvald
+6.Devourer of Men
+7.Dark Elemental
+8.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Flying Fish
+4.Partitio
+5.Osvald
+6.Withered Wanderweed
+7.Devourer of Men
+8.Dark Elemental
+9.Ice Guardian
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Withered Wanderweed - HP:1829/2314 Shields:1
+2: Ice Guardian - HP:1471/1471 Shields:3
+3: Devourer of Men - HP:7444/7500 Shields:7
+4: Flying Fish - HP:372/649 Shields:2
+5: Dark Elemental - HP:1822/1822 Shields:4
+6: Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Dark Elemental recibe 0 de daño de tipo Axe
+Dark Elemental termina con HP:1822
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:3
+B-Partitio - HP:3533/5391 SP:314/314 BP:3
+C-H'aanit - HP:2827/4447 SP:369/369 BP:3
+D-Osvald - HP:2567/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Withered Wanderweed - HP:1829/2314 Shields:1
+B-Ice Guardian - HP:1471/1471 Shields:3
+C-Devourer of Men - HP:7444/7500 Shields:7
+D-Flying Fish - HP:372/649 Shields:2
+E-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Flying Fish
+3.Partitio
+4.Osvald
+5.Devourer of Men
+6.Dark Elemental
+7.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Flying Fish
+4.Partitio
+5.Osvald
+6.Withered Wanderweed
+7.Devourer of Men
+8.Dark Elemental
+9.Ice Guardian
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Peacock Strut
+2: Aelfric's Auspices
+3: Icewind
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta usa Icewind
+Withered Wanderweed recibe 203 de daño de tipo Ice
+Ice Guardian recibe 156 de daño de tipo Ice
+Devourer of Men recibe 230 de daño de tipo Ice
+Flying Fish recibe 141 de daño de tipo Ice
+Dark Elemental recibe 281 de daño de tipo Ice
+Withered Wanderweed termina con HP:1626
+Ice Guardian termina con HP:1315
+Devourer of Men termina con HP:7214
+Flying Fish termina con HP:231
+Dark Elemental termina con HP:1541
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:363/371 BP:3
+B-Partitio - HP:3533/5391 SP:314/314 BP:3
+C-H'aanit - HP:2827/4447 SP:369/369 BP:3
+D-Osvald - HP:2567/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Withered Wanderweed - HP:1626/2314 Shields:1
+B-Ice Guardian - HP:1315/1471 Shields:3
+C-Devourer of Men - HP:7214/7500 Shields:7
+D-Flying Fish - HP:231/649 Shields:2
+E-Dark Elemental - HP:1541/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Flying Fish
+2.Partitio
+3.Osvald
+4.Devourer of Men
+5.Dark Elemental
+6.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Flying Fish
+4.Partitio
+5.Osvald
+6.Withered Wanderweed
+7.Devourer of Men
+8.Dark Elemental
+9.Ice Guardian
+----------------------------------------
+Flying Fish usa Attack
+Partitio recibe 241 de daño físico
+Partitio termina con HP:3292
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:363/371 BP:3
+B-Partitio - HP:3292/5391 SP:314/314 BP:3
+C-H'aanit - HP:2827/4447 SP:369/369 BP:3
+D-Osvald - HP:2567/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Withered Wanderweed - HP:1626/2314 Shields:1
+B-Ice Guardian - HP:1315/1471 Shields:3
+C-Devourer of Men - HP:7214/7500 Shields:7
+D-Flying Fish - HP:231/649 Shields:2
+E-Dark Elemental - HP:1541/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Osvald
+3.Devourer of Men
+4.Dark Elemental
+5.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Flying Fish
+4.Partitio
+5.Osvald
+6.Withered Wanderweed
+7.Devourer of Men
+8.Dark Elemental
+9.Ice Guardian
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:363/371 BP:3
+B-Partitio - HP:3292/5391 SP:314/314 BP:3
+C-H'aanit - HP:2827/4447 SP:369/369 BP:3
+D-Osvald - HP:2567/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Withered Wanderweed - HP:1626/2314 Shields:1
+B-Ice Guardian - HP:1315/1471 Shields:3
+C-Devourer of Men - HP:7214/7500 Shields:7
+D-Flying Fish - HP:231/649 Shields:2
+E-Dark Elemental - HP:1541/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Devourer of Men
+3.Dark Elemental
+4.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.H'aanit
+3.Z'aanta
+4.Flying Fish
+5.Osvald
+6.Withered Wanderweed
+7.Devourer of Men
+8.Dark Elemental
+9.Ice Guardian
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Withered Wanderweed - HP:1626/2314 Shields:1
+2: Ice Guardian - HP:1315/1471 Shields:3
+3: Devourer of Men - HP:7214/7500 Shields:7
+4: Flying Fish - HP:231/649 Shields:2
+5: Dark Elemental - HP:1541/1822 Shields:4
+6: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Ice Guardian recibe 68 de daño de tipo Stave
+Ice Guardian termina con HP:1247
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:363/371 BP:3
+B-Partitio - HP:3292/5391 SP:314/314 BP:3
+C-H'aanit - HP:2827/4447 SP:369/369 BP:3
+D-Osvald - HP:2567/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Withered Wanderweed - HP:1626/2314 Shields:1
+B-Ice Guardian - HP:1247/1471 Shields:3
+C-Devourer of Men - HP:7214/7500 Shields:7
+D-Flying Fish - HP:231/649 Shields:2
+E-Dark Elemental - HP:1541/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Men
+2.Dark Elemental
+3.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.H'aanit
+3.Z'aanta
+4.Flying Fish
+5.Osvald
+6.Withered Wanderweed
+7.Devourer of Men
+8.Dark Elemental
+9.Ice Guardian
+----------------------------------------
+Devourer of Men usa Shadow Magic
+Z'aanta recibe 0 de daño elemental
+Z'aanta recibe 0 de daño elemental
+Partitio se defiende
+Partitio recibe 187 de daño elemental
+Partitio recibe 187 de daño elemental
+H'aanit recibe 405 de daño elemental
+H'aanit recibe 405 de daño elemental
+Osvald recibe 330 de daño elemental
+Osvald recibe 330 de daño elemental
+Z'aanta termina con HP:3222
+Partitio termina con HP:2918
+H'aanit termina con HP:2017
+Osvald termina con HP:1907
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:363/371 BP:3
+B-Partitio - HP:2918/5391 SP:314/314 BP:3
+C-H'aanit - HP:2017/4447 SP:369/369 BP:3
+D-Osvald - HP:1907/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Withered Wanderweed - HP:1626/2314 Shields:1
+B-Ice Guardian - HP:1247/1471 Shields:3
+C-Devourer of Men - HP:7214/7500 Shields:7
+D-Flying Fish - HP:231/649 Shields:2
+E-Dark Elemental - HP:1541/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.H'aanit
+3.Z'aanta
+4.Flying Fish
+5.Osvald
+6.Withered Wanderweed
+7.Devourer of Men
+8.Dark Elemental
+9.Ice Guardian
+----------------------------------------
+Dark Elemental usa Shadowshot
+Z'aanta recibe 257 de daño elemental
+Z'aanta termina con HP:2965
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2965/3222 SP:363/371 BP:3
+B-Partitio - HP:2918/5391 SP:314/314 BP:3
+C-H'aanit - HP:2017/4447 SP:369/369 BP:3
+D-Osvald - HP:1907/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Withered Wanderweed - HP:1626/2314 Shields:1
+B-Ice Guardian - HP:1247/1471 Shields:3
+C-Devourer of Men - HP:7214/7500 Shields:7
+D-Flying Fish - HP:231/649 Shields:2
+E-Dark Elemental - HP:1541/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.H'aanit
+3.Z'aanta
+4.Flying Fish
+5.Osvald
+6.Withered Wanderweed
+7.Devourer of Men
+8.Dark Elemental
+9.Ice Guardian
+----------------------------------------
+Ice Guardian usa Attack
+Z'aanta recibe 222 de daño físico
+Z'aanta termina con HP:2743
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2743/3222 SP:363/371 BP:4
+B-Partitio - HP:2918/5391 SP:314/314 BP:4
+C-H'aanit - HP:2017/4447 SP:369/369 BP:4
+D-Osvald - HP:1907/3557 SP:541/541 BP:4
+Equipo del enemigo
+A-Withered Wanderweed - HP:1626/2314 Shields:1
+B-Ice Guardian - HP:1247/1471 Shields:3
+C-Devourer of Men - HP:7214/7500 Shields:7
+D-Flying Fish - HP:231/649 Shields:2
+E-Dark Elemental - HP:1541/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.H'aanit
+3.Z'aanta
+4.Flying Fish
+5.Osvald
+6.Withered Wanderweed
+7.Devourer of Men
+8.Dark Elemental
+9.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Flying Fish
+4.Partitio
+5.Osvald
+6.Withered Wanderweed
+7.Devourer of Men
+8.Dark Elemental
+9.Ice Guardian
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Draefendi's Rage
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Partitio usa Draefendi's Rage
+Withered Wanderweed recibe 1902 de daño de tipo Bow
+Ice Guardian recibe 2821 de daño de tipo Bow con debilidad
+Devourer of Men recibe 2676 de daño de tipo Bow con debilidad
+Flying Fish recibe 2695 de daño de tipo Bow con debilidad
+Dark Elemental recibe 1538 de daño de tipo Bow
+Withered Wanderweed termina con HP:0
+Ice Guardian termina con HP:0
+Devourer of Men termina con HP:4538
+Flying Fish termina con HP:0
+Dark Elemental termina con HP:3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2743/3222 SP:363/371 BP:4
+B-Partitio - HP:2918/5391 SP:284/314 BP:1
+C-H'aanit - HP:2017/4447 SP:369/369 BP:4
+D-Osvald - HP:1907/3557 SP:541/541 BP:4
+Equipo del enemigo
+A-Withered Wanderweed - HP:0/2314 Shields:1
+B-Ice Guardian - HP:0/1471 Shields:2
+C-Devourer of Men - HP:4538/7500 Shields:6
+D-Flying Fish - HP:0/649 Shields:1
+E-Dark Elemental - HP:3/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Z'aanta
+3.Osvald
+4.Devourer of Men
+5.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Partitio
+4.Osvald
+5.Devourer of Men
+6.Dark Elemental
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Aelfric's Auspices
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Z'aanta - HP:2743/3222 SP:363/371 BP:4
+2: Partitio - HP:2918/5391 SP:284/314 BP:1
+3: H'aanit - HP:2017/4447 SP:369/369 BP:4
+4: Osvald - HP:1907/3557 SP:541/541 BP:4
+5: Cancelar
+INPUT: 4
+----------------------------------------
+H'aanit usa Aelfric's Auspices
+Osvald activará sus habilidades 2 veces durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2743/3222 SP:363/371 BP:4
+B-Partitio - HP:2918/5391 SP:284/314 BP:1
+C-H'aanit - HP:2017/4447 SP:339/369 BP:1
+D-Osvald - HP:1907/3557 SP:541/541 BP:4
+Equipo del enemigo
+A-Withered Wanderweed - HP:0/2314 Shields:1
+B-Ice Guardian - HP:0/1471 Shields:2
+C-Devourer of Men - HP:4538/7500 Shields:6
+D-Flying Fish - HP:0/649 Shields:1
+E-Dark Elemental - HP:3/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Osvald
+3.Devourer of Men
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Partitio
+4.Osvald
+5.Devourer of Men
+6.Dark Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2743/3222 SP:363/371 BP:4
+B-Partitio - HP:2918/5391 SP:284/314 BP:1
+C-H'aanit - HP:2017/4447 SP:339/369 BP:1
+D-Osvald - HP:1907/3557 SP:541/541 BP:4
+Equipo del enemigo
+A-Withered Wanderweed - HP:0/2314 Shields:1
+B-Ice Guardian - HP:0/1471 Shields:2
+C-Devourer of Men - HP:4538/7500 Shields:6
+D-Flying Fish - HP:0/649 Shields:1
+E-Dark Elemental - HP:3/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Devourer of Men
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.H'aanit
+3.Partitio
+4.Osvald
+5.Devourer of Men
+6.Dark Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Shackle Foe
+2: Starsong
+3: Wildfire
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Devourer of Men - HP:4538/7500 Shields:6
+2: Dark Elemental - HP:3/1822 Shields:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Osvald usa Shackle Foe
+Devourer of Men tendrá Decreased Physical Attack durante 4 rondas
+Devourer of Men tendrá Decreased Physical Attack durante 4 rondas
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2743/3222 SP:363/371 BP:4
+B-Partitio - HP:2918/5391 SP:284/314 BP:1
+C-H'aanit - HP:2017/4447 SP:339/369 BP:1
+D-Osvald - HP:1907/3557 SP:537/541 BP:3
+Equipo del enemigo
+A-Withered Wanderweed - HP:0/2314 Shields:1
+B-Ice Guardian - HP:0/1471 Shields:2
+C-Devourer of Men - HP:4538/7500 Shields:6
+D-Flying Fish - HP:0/649 Shields:1
+E-Dark Elemental - HP:3/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Men
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.H'aanit
+3.Partitio
+4.Osvald
+5.Devourer of Men
+6.Dark Elemental
+----------------------------------------
+Devourer of Men usa Shadow Magic
+Z'aanta se defiende
+Z'aanta recibe 213 de daño elemental
+Z'aanta recibe 0 de daño elemental
+Partitio recibe 375 de daño elemental
+Partitio recibe 375 de daño elemental
+H'aanit recibe 405 de daño elemental
+H'aanit recibe 405 de daño elemental
+Osvald recibe 330 de daño elemental
+Osvald recibe 330 de daño elemental
+Z'aanta termina con HP:2530
+Partitio termina con HP:2168
+H'aanit termina con HP:1207
+Osvald termina con HP:1247
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2530/3222 SP:363/371 BP:4
+B-Partitio - HP:2168/5391 SP:284/314 BP:1
+C-H'aanit - HP:1207/4447 SP:339/369 BP:1
+D-Osvald - HP:1247/3557 SP:537/541 BP:3
+Equipo del enemigo
+A-Withered Wanderweed - HP:0/2314 Shields:1
+B-Ice Guardian - HP:0/1471 Shields:2
+C-Devourer of Men - HP:4538/7500 Shields:6
+D-Flying Fish - HP:0/649 Shields:1
+E-Dark Elemental - HP:3/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.H'aanit
+3.Partitio
+4.Osvald
+5.Devourer of Men
+6.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Z'aanta se defiende
+Z'aanta recibe 128 de daño elemental
+Z'aanta termina con HP:2402
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2402/3222 SP:363/371 BP:5
+B-Partitio - HP:2168/5391 SP:284/314 BP:1
+C-H'aanit - HP:1207/4447 SP:339/369 BP:1
+D-Osvald - HP:1247/3557 SP:537/541 BP:3
+Equipo del enemigo
+A-Withered Wanderweed - HP:0/2314 Shields:1
+B-Ice Guardian - HP:0/1471 Shields:2
+C-Devourer of Men - HP:4538/7500 Shields:6
+D-Flying Fish - HP:0/649 Shields:1
+E-Dark Elemental - HP:3/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.H'aanit
+3.Partitio
+4.Osvald
+5.Devourer of Men
+6.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Partitio
+4.Osvald
+5.Devourer of Men
+6.Dark Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Devourer of Men - HP:4538/7500 Shields:6
+2: Dark Elemental - HP:3/1822 Shields:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Dark Elemental recibe 0 de daño de tipo Bow
+Dark Elemental termina con HP:3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2402/3222 SP:363/371 BP:5
+B-Partitio - HP:2168/5391 SP:284/314 BP:1
+C-H'aanit - HP:1207/4447 SP:339/369 BP:1
+D-Osvald - HP:1247/3557 SP:537/541 BP:3
+Equipo del enemigo
+A-Withered Wanderweed - HP:0/2314 Shields:1
+B-Ice Guardian - HP:0/1471 Shields:2
+C-Devourer of Men - HP:4538/7500 Shields:6
+D-Flying Fish - HP:0/649 Shields:1
+E-Dark Elemental - HP:3/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Partitio
+3.Osvald
+4.Devourer of Men
+5.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Partitio
+4.Osvald
+5.Devourer of Men
+6.Dark Elemental
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Devourer of Men - HP:4538/7500 Shields:6
+2: Dark Elemental - HP:3/1822 Shields:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Devourer of Men recibe 56 de daño de tipo Axe con debilidad
+Devourer of Men termina con HP:4482
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2402/3222 SP:363/371 BP:5
+B-Partitio - HP:2168/5391 SP:284/314 BP:1
+C-H'aanit - HP:1207/4447 SP:339/369 BP:1
+D-Osvald - HP:1247/3557 SP:537/541 BP:3
+Equipo del enemigo
+A-Withered Wanderweed - HP:0/2314 Shields:1
+B-Ice Guardian - HP:0/1471 Shields:2
+C-Devourer of Men - HP:4482/7500 Shields:5
+D-Flying Fish - HP:0/649 Shields:1
+E-Dark Elemental - HP:3/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Osvald
+3.Devourer of Men
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Partitio
+4.Osvald
+5.Devourer of Men
+6.Dark Elemental
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2402/3222 SP:363/371 BP:5
+B-Partitio - HP:2168/5391 SP:284/314 BP:1
+C-H'aanit - HP:1207/4447 SP:339/369 BP:1
+D-Osvald - HP:1247/3557 SP:537/541 BP:3
+Equipo del enemigo
+A-Withered Wanderweed - HP:0/2314 Shields:1
+B-Ice Guardian - HP:0/1471 Shields:2
+C-Devourer of Men - HP:4482/7500 Shields:5
+D-Flying Fish - HP:0/649 Shields:1
+E-Dark Elemental - HP:3/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Devourer of Men
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.H'aanit
+3.Z'aanta
+4.Osvald
+5.Devourer of Men
+6.Dark Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Devourer of Men - HP:4482/7500 Shields:5
+2: Dark Elemental - HP:3/1822 Shields:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Devourer of Men recibe 0 de daño de tipo Stave con debilidad
+Devourer of Men termina con HP:4482
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2402/3222 SP:363/371 BP:5
+B-Partitio - HP:2168/5391 SP:284/314 BP:1
+C-H'aanit - HP:1207/4447 SP:339/369 BP:1
+D-Osvald - HP:1247/3557 SP:537/541 BP:3
+Equipo del enemigo
+A-Withered Wanderweed - HP:0/2314 Shields:1
+B-Ice Guardian - HP:0/1471 Shields:2
+C-Devourer of Men - HP:4482/7500 Shields:5
+D-Flying Fish - HP:0/649 Shields:1
+E-Dark Elemental - HP:3/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Men
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.H'aanit
+3.Z'aanta
+4.Osvald
+5.Devourer of Men
+6.Dark Elemental
+----------------------------------------
+Devourer of Men usa Shadow Magic
+Z'aanta recibe 0 de daño elemental
+Z'aanta recibe 0 de daño elemental
+Partitio se defiende
+Partitio recibe 187 de daño elemental
+Partitio recibe 187 de daño elemental
+H'aanit recibe 405 de daño elemental
+H'aanit recibe 405 de daño elemental
+Osvald recibe 330 de daño elemental
+Osvald recibe 330 de daño elemental
+Z'aanta termina con HP:2402
+Partitio termina con HP:1794
+H'aanit termina con HP:397
+Osvald termina con HP:587
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2402/3222 SP:363/371 BP:5
+B-Partitio - HP:1794/5391 SP:284/314 BP:1
+C-H'aanit - HP:397/4447 SP:339/369 BP:1
+D-Osvald - HP:587/3557 SP:537/541 BP:3
+Equipo del enemigo
+A-Withered Wanderweed - HP:0/2314 Shields:1
+B-Ice Guardian - HP:0/1471 Shields:2
+C-Devourer of Men - HP:4482/7500 Shields:5
+D-Flying Fish - HP:0/649 Shields:1
+E-Dark Elemental - HP:3/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.H'aanit
+3.Z'aanta
+4.Osvald
+5.Devourer of Men
+6.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Z'aanta recibe 257 de daño elemental
+Z'aanta termina con HP:2145
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2145/3222 SP:363/371 BP:5
+B-Partitio - HP:1794/5391 SP:284/314 BP:2
+C-H'aanit - HP:397/4447 SP:339/369 BP:2
+D-Osvald - HP:587/3557 SP:537/541 BP:4
+Equipo del enemigo
+A-Withered Wanderweed - HP:0/2314 Shields:1
+B-Ice Guardian - HP:0/1471 Shields:2
+C-Devourer of Men - HP:4482/7500 Shields:5
+D-Flying Fish - HP:0/649 Shields:1
+E-Dark Elemental - HP:3/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.H'aanit
+3.Z'aanta
+4.Osvald
+5.Devourer of Men
+6.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Partitio
+4.Osvald
+5.Devourer of Men
+6.Dark Elemental
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Devourer of Men - HP:4482/7500 Shields:5
+2: Dark Elemental - HP:3/1822 Shields:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Devourer of Men recibe 8 de daño de tipo Spear con debilidad
+Devourer of Men termina con HP:4474
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2145/3222 SP:363/371 BP:5
+B-Partitio - HP:1794/5391 SP:284/314 BP:2
+C-H'aanit - HP:397/4447 SP:339/369 BP:2
+D-Osvald - HP:587/3557 SP:537/541 BP:4
+Equipo del enemigo
+A-Withered Wanderweed - HP:0/2314 Shields:1
+B-Ice Guardian - HP:0/1471 Shields:2
+C-Devourer of Men - HP:4474/7500 Shields:4
+D-Flying Fish - HP:0/649 Shields:1
+E-Dark Elemental - HP:3/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Z'aanta
+3.Osvald
+4.Devourer of Men
+5.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Partitio
+4.Osvald
+5.Devourer of Men
+6.Dark Elemental
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Devourer of Men - HP:4474/7500 Shields:4
+2: Dark Elemental - HP:3/1822 Shields:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Devourer of Men recibe 56 de daño de tipo Axe con debilidad
+Devourer of Men termina con HP:4418
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2145/3222 SP:363/371 BP:5
+B-Partitio - HP:1794/5391 SP:284/314 BP:2
+C-H'aanit - HP:397/4447 SP:339/369 BP:2
+D-Osvald - HP:587/3557 SP:537/541 BP:4
+Equipo del enemigo
+A-Withered Wanderweed - HP:0/2314 Shields:1
+B-Ice Guardian - HP:0/1471 Shields:2
+C-Devourer of Men - HP:4418/7500 Shields:3
+D-Flying Fish - HP:0/649 Shields:1
+E-Dark Elemental - HP:3/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Osvald
+3.Devourer of Men
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Partitio
+4.Osvald
+5.Devourer of Men
+6.Dark Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Devourer of Men - HP:4418/7500 Shields:3
+2: Dark Elemental - HP:3/1822 Shields:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Devourer of Men recibe 174 de daño de tipo Bow con debilidad
+Z'aanta recupera 1 SP
+Devourer of Men termina con HP:4244
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2145/3222 SP:364/371 BP:5
+B-Partitio - HP:1794/5391 SP:284/314 BP:2
+C-H'aanit - HP:397/4447 SP:339/369 BP:2
+D-Osvald - HP:587/3557 SP:537/541 BP:4
+Equipo del enemigo
+A-Withered Wanderweed - HP:0/2314 Shields:1
+B-Ice Guardian - HP:0/1471 Shields:2
+C-Devourer of Men - HP:4244/7500 Shields:2
+D-Flying Fish - HP:0/649 Shields:1
+E-Dark Elemental - HP:3/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Devourer of Men
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Partitio
+4.Osvald
+5.Devourer of Men
+6.Dark Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Shackle Foe
+2: Starsong
+3: Wildfire
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Devourer of Men - HP:4244/7500 Shields:2
+2: Dark Elemental - HP:3/1822 Shields:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Osvald usa Shackle Foe
+Devourer of Men tendrá Decreased Physical Attack durante 8 rondas
+Devourer of Men tendrá Decreased Physical Attack durante 8 rondas
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2145/3222 SP:364/371 BP:5
+B-Partitio - HP:1794/5391 SP:284/314 BP:2
+C-H'aanit - HP:397/4447 SP:339/369 BP:2
+D-Osvald - HP:587/3557 SP:533/541 BP:1
+Equipo del enemigo
+A-Withered Wanderweed - HP:0/2314 Shields:1
+B-Ice Guardian - HP:0/1471 Shields:2
+C-Devourer of Men - HP:4244/7500 Shields:2
+D-Flying Fish - HP:0/649 Shields:1
+E-Dark Elemental - HP:3/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Men
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Partitio
+4.Osvald
+5.Devourer of Men
+6.Dark Elemental
+----------------------------------------
+Devourer of Men usa Shadow Magic
+Z'aanta recibe 427 de daño elemental
+Z'aanta recibe 0 de daño elemental
+Partitio recibe 375 de daño elemental
+Partitio recibe 375 de daño elemental
+H'aanit recibe 405 de daño elemental
+H'aanit revive
+H'aanit recibe 405 de daño elemental
+Osvald recibe 330 de daño elemental
+Osvald recibe 330 de daño elemental
+Z'aanta termina con HP:1718
+Partitio termina con HP:1044
+H'aanit termina con HP:706
+Osvald termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1718/3222 SP:364/371 BP:5
+B-Partitio - HP:1044/5391 SP:284/314 BP:2
+C-H'aanit - HP:706/4447 SP:339/369 BP:2
+D-Osvald - HP:0/3557 SP:533/541 BP:1
+Equipo del enemigo
+A-Withered Wanderweed - HP:0/2314 Shields:1
+B-Ice Guardian - HP:0/1471 Shields:2
+C-Devourer of Men - HP:4244/7500 Shields:2
+D-Flying Fish - HP:0/649 Shields:1
+E-Dark Elemental - HP:3/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Partitio
+4.Devourer of Men
+5.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Z'aanta recibe 257 de daño elemental
+Z'aanta termina con HP:1461
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1461/3222 SP:364/371 BP:5
+B-Partitio - HP:1044/5391 SP:284/314 BP:3
+C-H'aanit - HP:706/4447 SP:339/369 BP:3
+D-Osvald - HP:0/3557 SP:533/541 BP:1
+Equipo del enemigo
+A-Withered Wanderweed - HP:0/2314 Shields:1
+B-Ice Guardian - HP:0/1471 Shields:2
+C-Devourer of Men - HP:4244/7500 Shields:2
+D-Flying Fish - HP:0/649 Shields:1
+E-Dark Elemental - HP:3/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Z'aanta
+3.Partitio
+4.Devourer of Men
+5.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Partitio
+4.Devourer of Men
+5.Dark Elemental
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Devourer of Men - HP:4244/7500 Shields:2
+2: Dark Elemental - HP:3/1822 Shields:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Dark Elemental recibe 0 de daño de tipo Axe
+Dark Elemental termina con HP:3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1461/3222 SP:364/371 BP:5
+B-Partitio - HP:1044/5391 SP:284/314 BP:3
+C-H'aanit - HP:706/4447 SP:339/369 BP:3
+D-Osvald - HP:0/3557 SP:533/541 BP:1
+Equipo del enemigo
+A-Withered Wanderweed - HP:0/2314 Shields:1
+B-Ice Guardian - HP:0/1471 Shields:2
+C-Devourer of Men - HP:4244/7500 Shields:2
+D-Flying Fish - HP:0/649 Shields:1
+E-Dark Elemental - HP:3/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Partitio
+3.Devourer of Men
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Partitio
+4.Devourer of Men
+5.Dark Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Peacock Strut
+2: Aelfric's Auspices
+3: Icewind
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Z'aanta usa Icewind
+Devourer of Men recibe 689 de daño de tipo Ice
+Dark Elemental recibe 740 de daño de tipo Ice
+Devourer of Men termina con HP:3555
+Dark Elemental termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1461/3222 SP:356/371 BP:4
+B-Partitio - HP:1044/5391 SP:284/314 BP:3
+C-H'aanit - HP:706/4447 SP:339/369 BP:3
+D-Osvald - HP:0/3557 SP:533/541 BP:1
+Equipo del enemigo
+A-Withered Wanderweed - HP:0/2314 Shields:1
+B-Ice Guardian - HP:0/1471 Shields:2
+C-Devourer of Men - HP:3555/7500 Shields:2
+D-Flying Fish - HP:0/649 Shields:1
+E-Dark Elemental - HP:0/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Devourer of Men
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Partitio
+4.Devourer of Men
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Draefendi's Rage
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Partitio usa Draefendi's Rage
+Devourer of Men recibe 2676 de daño de tipo Bow con debilidad
+Devourer of Men termina con HP:879
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1461/3222 SP:356/371 BP:4
+B-Partitio - HP:1044/5391 SP:254/314 BP:0
+C-H'aanit - HP:706/4447 SP:339/369 BP:3
+D-Osvald - HP:0/3557 SP:533/541 BP:1
+Equipo del enemigo
+A-Withered Wanderweed - HP:0/2314 Shields:1
+B-Ice Guardian - HP:0/1471 Shields:2
+C-Devourer of Men - HP:879/7500 Shields:1
+D-Flying Fish - HP:0/649 Shields:1
+E-Dark Elemental - HP:0/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Men
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Z'aanta
+3.Partitio
+4.Devourer of Men
+----------------------------------------
+Devourer of Men usa Shadow Magic
+Z'aanta recibe 427 de daño elemental
+Z'aanta recibe 427 de daño elemental
+Partitio recibe 375 de daño elemental
+Partitio recibe 375 de daño elemental
+H'aanit recibe 405 de daño elemental
+H'aanit recibe 405 de daño elemental
+Z'aanta termina con HP:607
+Partitio termina con HP:294
+H'aanit termina con HP:0
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:607/3222 SP:356/371 BP:4
+B-Partitio - HP:294/5391 SP:254/314 BP:0
+C-H'aanit - HP:0/4447 SP:339/369 BP:3
+D-Osvald - HP:0/3557 SP:533/541 BP:1
+Equipo del enemigo
+A-Withered Wanderweed - HP:0/2314 Shields:1
+B-Ice Guardian - HP:0/1471 Shields:2
+C-Devourer of Men - HP:879/7500 Shields:1
+D-Flying Fish - HP:0/649 Shields:1
+E-Dark Elemental - HP:0/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Partitio
+3.Devourer of Men
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Partitio
+3.Devourer of Men
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Devourer of Men - HP:879/7500 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Devourer of Men recibe 174 de daño de tipo Axe con debilidad
+Devourer of Men entra en Breaking Point
+Z'aanta recupera 1 SP
+Devourer of Men termina con HP:705
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:607/3222 SP:357/371 BP:4
+B-Partitio - HP:294/5391 SP:254/314 BP:0
+C-H'aanit - HP:0/4447 SP:339/369 BP:3
+D-Osvald - HP:0/3557 SP:533/541 BP:1
+Equipo del enemigo
+A-Withered Wanderweed - HP:0/2314 Shields:1
+B-Ice Guardian - HP:0/1471 Shields:2
+C-Devourer of Men - HP:705/7500 Shields:0
+D-Flying Fish - HP:0/649 Shields:1
+E-Dark Elemental - HP:0/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Partitio
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Devourer of Men - HP:705/7500 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Partitio ataca
+Devourer of Men recibe 11 de daño de tipo Spear con debilidad
+Devourer of Men termina con HP:694
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:607/3222 SP:357/371 BP:5
+B-Partitio - HP:294/5391 SP:254/314 BP:1
+C-H'aanit - HP:0/4447 SP:339/369 BP:3
+D-Osvald - HP:0/3557 SP:533/541 BP:1
+Equipo del enemigo
+A-Withered Wanderweed - HP:0/2314 Shields:1
+B-Ice Guardian - HP:0/1471 Shields:2
+C-Devourer of Men - HP:694/7500 Shields:0
+D-Flying Fish - HP:0/649 Shields:1
+E-Dark Elemental - HP:0/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Devourer of Men
+2.Z'aanta
+3.Partitio
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Peacock Strut
+2: Aelfric's Auspices
+3: Icewind
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Z'aanta usa Icewind
+Devourer of Men recibe 2410 de daño de tipo Ice
+Devourer of Men termina con HP:0
+----------------------------------------
+Gana equipo del jugador

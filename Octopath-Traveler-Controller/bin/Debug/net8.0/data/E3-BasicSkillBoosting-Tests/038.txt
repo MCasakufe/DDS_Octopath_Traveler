@@ -1,0 +1,603 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+INPUT: 37
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Lord of the Flies - HP:5590/5590 Shields:3
+B-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+3.Lord of the Flies
+----------------------------------------
+Behemoth usa Stampede
+Olberic recibe 642 de daño físico
+Olberic termina con HP:5139
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5139/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Lord of the Flies - HP:5590/5590 Shields:3
+B-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+3.Lord of the Flies
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Qilin's Horn
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Lord of the Flies - HP:5590/5590 Shields:3
+2: Behemoth - HP:12690/12690 Shields:8
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Qilin's Horn
+Lord of the Flies recibe 639 de daño de tipo Spear con debilidad
+Lord of the Flies termina con HP:4951
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5139/5781 SP:256/291 BP:1
+Equipo del enemigo
+A-Lord of the Flies - HP:4951/5590 Shields:2
+B-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Olberic recibe 212 de daño físico
+Olberic termina con HP:4927
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4927/5781 SP:256/291 BP:2
+Equipo del enemigo
+A-Lord of the Flies - HP:4951/5590 Shields:2
+B-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+3.Lord of the Flies
+----------------------------------------
+Behemoth usa Stampede
+Olberic recibe 642 de daño físico
+Olberic termina con HP:4285
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4285/5781 SP:256/291 BP:2
+Equipo del enemigo
+A-Lord of the Flies - HP:4951/5590 Shields:2
+B-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+3.Lord of the Flies
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Qilin's Horn
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Lord of the Flies - HP:4951/5590 Shields:2
+2: Behemoth - HP:12690/12690 Shields:8
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Olberic usa Qilin's Horn
+Lord of the Flies recibe 3373 de daño de tipo Spear con debilidad
+Lord of the Flies termina con HP:1578
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4285/5781 SP:221/291 BP:0
+Equipo del enemigo
+A-Lord of the Flies - HP:1578/5590 Shields:1
+B-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Olberic recibe 212 de daño físico
+Olberic termina con HP:4073
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4073/5781 SP:221/291 BP:0
+Equipo del enemigo
+A-Lord of the Flies - HP:1578/5590 Shields:1
+B-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+3.Lord of the Flies
+----------------------------------------
+Behemoth usa Stampede
+Olberic recibe 642 de daño físico
+Olberic termina con HP:3431
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3431/5781 SP:221/291 BP:0
+Equipo del enemigo
+A-Lord of the Flies - HP:1578/5590 Shields:1
+B-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+3.Lord of the Flies
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Qilin's Horn
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Lord of the Flies - HP:1578/5590 Shields:1
+2: Behemoth - HP:12690/12690 Shields:8
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Olberic usa Qilin's Horn
+Lord of the Flies recibe 639 de daño de tipo Spear con debilidad
+Lord of the Flies entra en Breaking Point
+Lord of the Flies termina con HP:939
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3431/5781 SP:186/291 BP:1
+Equipo del enemigo
+A-Lord of the Flies - HP:939/5590 Shields:0
+B-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Behemoth
+3.Olberic
+----------------------------------------
+Behemoth usa Stampede
+Olberic recibe 642 de daño físico
+Olberic termina con HP:2789
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:2789/5781 SP:186/291 BP:1
+Equipo del enemigo
+A-Lord of the Flies - HP:939/5590 Shields:0
+B-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Behemoth
+3.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Qilin's Horn
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Lord of the Flies - HP:939/5590 Shields:0
+2: Behemoth - HP:12690/12690 Shields:8
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Qilin's Horn
+Behemoth recibe 692 de daño de tipo Spear con debilidad
+Behemoth termina con HP:11998
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:2789/5781 SP:151/291 BP:2
+Equipo del enemigo
+A-Lord of the Flies - HP:939/5590 Shields:3
+B-Behemoth - HP:11998/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Behemoth
+3.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Olberic recibe 212 de daño físico
+Olberic termina con HP:2577
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:2577/5781 SP:151/291 BP:2
+Equipo del enemigo
+A-Lord of the Flies - HP:939/5590 Shields:3
+B-Behemoth - HP:11998/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+3.Lord of the Flies
+----------------------------------------
+Behemoth usa Stampede
+Olberic recibe 642 de daño físico
+Olberic termina con HP:1935
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:1935/5781 SP:151/291 BP:2
+Equipo del enemigo
+A-Lord of the Flies - HP:939/5590 Shields:3
+B-Behemoth - HP:11998/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+3.Lord of the Flies
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Qilin's Horn
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Lord of the Flies - HP:939/5590 Shields:3
+2: Behemoth - HP:11998/12690 Shields:7
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Qilin's Horn
+Behemoth recibe 692 de daño de tipo Spear con debilidad
+Behemoth termina con HP:11306
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:1935/5781 SP:116/291 BP:3
+Equipo del enemigo
+A-Lord of the Flies - HP:939/5590 Shields:3
+B-Behemoth - HP:11306/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+3.Lord of the Flies
+----------------------------------------
+Behemoth usa Stampede
+Olberic recibe 642 de daño físico
+Olberic termina con HP:1293
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:1293/5781 SP:116/291 BP:3
+Equipo del enemigo
+A-Lord of the Flies - HP:939/5590 Shields:3
+B-Behemoth - HP:11306/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+3.Lord of the Flies
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Qilin's Horn
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Lord of the Flies - HP:939/5590 Shields:3
+2: Behemoth - HP:11306/12690 Shields:6
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Olberic usa Qilin's Horn
+Behemoth recibe 4793 de daño de tipo Spear con debilidad
+Behemoth termina con HP:6513
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:1293/5781 SP:81/291 BP:0
+Equipo del enemigo
+A-Lord of the Flies - HP:939/5590 Shields:3
+B-Behemoth - HP:6513/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Olberic recibe 212 de daño físico
+Olberic termina con HP:1081
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:1081/5781 SP:81/291 BP:0
+Equipo del enemigo
+A-Lord of the Flies - HP:939/5590 Shields:3
+B-Behemoth - HP:6513/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+3.Lord of the Flies
+----------------------------------------
+Behemoth usa Stampede
+Olberic recibe 642 de daño físico
+Olberic termina con HP:439
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:439/5781 SP:81/291 BP:0
+Equipo del enemigo
+A-Lord of the Flies - HP:939/5590 Shields:3
+B-Behemoth - HP:6513/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+3.Lord of the Flies
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Qilin's Horn
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Lord of the Flies - HP:939/5590 Shields:3
+2: Behemoth - HP:6513/12690 Shields:5
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Olberic usa Qilin's Horn
+Lord of the Flies recibe 639 de daño de tipo Spear con debilidad
+Lord of the Flies termina con HP:300
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:439/5781 SP:46/291 BP:0
+Equipo del enemigo
+A-Lord of the Flies - HP:300/5590 Shields:2
+B-Behemoth - HP:6513/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Olberic recibe 212 de daño físico
+Olberic termina con HP:227
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:227/5781 SP:46/291 BP:1
+Equipo del enemigo
+A-Lord of the Flies - HP:300/5590 Shields:2
+B-Behemoth - HP:6513/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+3.Lord of the Flies
+----------------------------------------
+Behemoth usa Stampede
+Olberic recibe 642 de daño físico
+Olberic termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

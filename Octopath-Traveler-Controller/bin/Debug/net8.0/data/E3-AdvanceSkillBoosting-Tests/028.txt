@@ -1,0 +1,1909 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+INPUT: 27
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:582/582 BP:1
+B-Ophilia - HP:4002/4002 SP:470/470 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Cyrus
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Frost Fox - HP:1302/1302 Shields:2
+2: War Wolf - HP:3548/3548 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Frost Fox recibe 0 de daño de tipo Stave
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:582/582 BP:1
+B-Ophilia - HP:4002/4002 SP:470/470 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Frost Fox
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Starsong
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Cyrus - HP:3557/3557 SP:582/582 BP:1
+2: Ophilia - HP:4002/4002 SP:470/470 BP:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Cyrus usa Starsong
+Cyrus tendrá Increased Physical Defense durante 4 rondas
+Cyrus tendrá Increased Elemental Defense durante 4 rondas
+Cyrus tendrá Increased Speed durante 4 rondas
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:557/582 BP:0
+B-Ophilia - HP:4002/4002 SP:470/470 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Frost Fox usa Ice blast
+Cyrus recibe 135 de daño elemental
+Ophilia recibe 134 de daño elemental
+Cyrus termina con HP:3422
+Ophilia termina con HP:3868
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3422/3557 SP:557/582 BP:0
+B-Ophilia - HP:3868/4002 SP:470/470 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Ophilia recibe 160 de daño físico
+Ophilia termina con HP:3708
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3422/3557 SP:557/582 BP:0
+B-Ophilia - HP:3708/4002 SP:470/470 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Frost Fox - HP:1302/1302 Shields:2
+2: War Wolf - HP:3548/3548 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Cyrus ataca
+Frost Fox recibe 0 de daño de tipo Stave
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3422/3557 SP:557/582 BP:0
+B-Ophilia - HP:3708/4002 SP:470/470 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Frost Fox
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Frost Fox - HP:1302/1302 Shields:2
+2: War Wolf - HP:3548/3548 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Frost Fox recibe 0 de daño de tipo Stave
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3422/3557 SP:557/582 BP:0
+B-Ophilia - HP:3708/4002 SP:470/470 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Frost Fox usa Ice blast
+Cyrus recibe 135 de daño elemental
+Ophilia recibe 134 de daño elemental
+Cyrus termina con HP:3287
+Ophilia termina con HP:3574
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3287/3557 SP:557/582 BP:0
+B-Ophilia - HP:3574/4002 SP:470/470 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Ophilia recibe 160 de daño físico
+Ophilia termina con HP:3414
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3287/3557 SP:557/582 BP:1
+B-Ophilia - HP:3414/4002 SP:470/470 BP:3
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Frost Fox - HP:1302/1302 Shields:2
+2: War Wolf - HP:3548/3548 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Frost Fox recibe 0 de daño de tipo Stave
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3287/3557 SP:557/582 BP:1
+B-Ophilia - HP:3414/4002 SP:470/470 BP:3
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Frost Fox
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Frost Fox - HP:1302/1302 Shields:2
+2: War Wolf - HP:3548/3548 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Frost Fox recibe 0 de daño de tipo Stave
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3287/3557 SP:557/582 BP:1
+B-Ophilia - HP:3414/4002 SP:470/470 BP:3
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Frost Fox usa Ice blast
+Cyrus recibe 135 de daño elemental
+Ophilia recibe 134 de daño elemental
+Cyrus termina con HP:3152
+Ophilia termina con HP:3280
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3152/3557 SP:557/582 BP:1
+B-Ophilia - HP:3280/4002 SP:470/470 BP:3
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Ophilia recibe 160 de daño físico
+Ophilia termina con HP:3120
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3152/3557 SP:557/582 BP:2
+B-Ophilia - HP:3120/4002 SP:470/470 BP:4
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Frost Fox - HP:1302/1302 Shields:2
+2: War Wolf - HP:3548/3548 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Frost Fox recibe 0 de daño de tipo Stave
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3152/3557 SP:557/582 BP:2
+B-Ophilia - HP:3120/4002 SP:470/470 BP:4
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Frost Fox
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Frost Fox - HP:1302/1302 Shields:2
+2: War Wolf - HP:3548/3548 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Frost Fox recibe 0 de daño de tipo Stave
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3152/3557 SP:557/582 BP:2
+B-Ophilia - HP:3120/4002 SP:470/470 BP:4
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Frost Fox usa Ice blast
+Cyrus recibe 135 de daño elemental
+Ophilia recibe 134 de daño elemental
+Cyrus termina con HP:3017
+Ophilia termina con HP:2986
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3017/3557 SP:557/582 BP:2
+B-Ophilia - HP:2986/4002 SP:470/470 BP:4
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Cyrus recibe 114 de daño físico
+Cyrus termina con HP:2903
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2903/3557 SP:557/582 BP:3
+B-Ophilia - HP:2986/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Cyrus
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Frost Fox - HP:1302/1302 Shields:2
+2: War Wolf - HP:3548/3548 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Frost Fox recibe 0 de daño de tipo Stave
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2903/3557 SP:557/582 BP:3
+B-Ophilia - HP:2986/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Frost Fox
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Frost Fox - HP:1302/1302 Shields:2
+2: War Wolf - HP:3548/3548 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Frost Fox recibe 0 de daño de tipo Stave
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2903/3557 SP:557/582 BP:3
+B-Ophilia - HP:2986/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Frost Fox usa Ice blast
+Cyrus recibe 203 de daño elemental
+Ophilia recibe 134 de daño elemental
+Cyrus termina con HP:2700
+Ophilia termina con HP:2852
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2700/3557 SP:557/582 BP:3
+B-Ophilia - HP:2852/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Ophilia recibe 160 de daño físico
+Ophilia termina con HP:2692
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2700/3557 SP:557/582 BP:4
+B-Ophilia - HP:2692/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Cyrus
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Frost Fox - HP:1302/1302 Shields:2
+2: War Wolf - HP:3548/3548 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Frost Fox recibe 0 de daño de tipo Stave
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2700/3557 SP:557/582 BP:4
+B-Ophilia - HP:2692/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Frost Fox
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Starsong
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Cyrus - HP:2700/3557 SP:557/582 BP:4
+2: Ophilia - HP:2692/4002 SP:470/470 BP:5
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Cyrus usa Starsong
+Cyrus tendrá Increased Physical Defense durante 8 rondas
+Cyrus tendrá Increased Elemental Defense durante 8 rondas
+Cyrus tendrá Increased Speed durante 8 rondas
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2700/3557 SP:532/582 BP:1
+B-Ophilia - HP:2692/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Frost Fox usa Ice blast
+Cyrus recibe 135 de daño elemental
+Ophilia recibe 134 de daño elemental
+Cyrus termina con HP:2565
+Ophilia termina con HP:2558
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2565/3557 SP:532/582 BP:1
+B-Ophilia - HP:2558/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Cyrus recibe 114 de daño físico
+Cyrus termina con HP:2451
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2451/3557 SP:532/582 BP:1
+B-Ophilia - HP:2558/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Frost Fox - HP:1302/1302 Shields:2
+2: War Wolf - HP:3548/3548 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Frost Fox recibe 0 de daño de tipo Stave
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2451/3557 SP:532/582 BP:1
+B-Ophilia - HP:2558/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Frost Fox
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Frost Fox - HP:1302/1302 Shields:2
+2: War Wolf - HP:3548/3548 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Frost Fox recibe 0 de daño de tipo Stave
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2451/3557 SP:532/582 BP:1
+B-Ophilia - HP:2558/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Frost Fox usa Ice blast
+Cyrus recibe 135 de daño elemental
+Ophilia recibe 134 de daño elemental
+Cyrus termina con HP:2316
+Ophilia termina con HP:2424
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2316/3557 SP:532/582 BP:1
+B-Ophilia - HP:2424/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Ophilia recibe 160 de daño físico
+Ophilia termina con HP:2264
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2316/3557 SP:532/582 BP:2
+B-Ophilia - HP:2264/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Frost Fox - HP:1302/1302 Shields:2
+2: War Wolf - HP:3548/3548 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Frost Fox recibe 0 de daño de tipo Stave
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2316/3557 SP:532/582 BP:2
+B-Ophilia - HP:2264/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Frost Fox
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Frost Fox - HP:1302/1302 Shields:2
+2: War Wolf - HP:3548/3548 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Frost Fox recibe 0 de daño de tipo Stave
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2316/3557 SP:532/582 BP:2
+B-Ophilia - HP:2264/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Frost Fox usa Ice blast
+Cyrus recibe 135 de daño elemental
+Ophilia recibe 134 de daño elemental
+Cyrus termina con HP:2181
+Ophilia termina con HP:2130
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2181/3557 SP:532/582 BP:2
+B-Ophilia - HP:2130/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Cyrus recibe 114 de daño físico
+Cyrus termina con HP:2067
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2067/3557 SP:532/582 BP:3
+B-Ophilia - HP:2130/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Frost Fox - HP:1302/1302 Shields:2
+2: War Wolf - HP:3548/3548 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Frost Fox recibe 0 de daño de tipo Stave
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2067/3557 SP:532/582 BP:3
+B-Ophilia - HP:2130/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Frost Fox
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Frost Fox - HP:1302/1302 Shields:2
+2: War Wolf - HP:3548/3548 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Frost Fox recibe 0 de daño de tipo Stave
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2067/3557 SP:532/582 BP:3
+B-Ophilia - HP:2130/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Frost Fox usa Ice blast
+Cyrus recibe 135 de daño elemental
+Ophilia recibe 134 de daño elemental
+Cyrus termina con HP:1932
+Ophilia termina con HP:1996
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1932/3557 SP:532/582 BP:3
+B-Ophilia - HP:1996/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Ophilia recibe 160 de daño físico
+Ophilia termina con HP:1836
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1932/3557 SP:532/582 BP:4
+B-Ophilia - HP:1836/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Frost Fox - HP:1302/1302 Shields:2
+2: War Wolf - HP:3548/3548 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Frost Fox recibe 0 de daño de tipo Stave
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1932/3557 SP:532/582 BP:4
+B-Ophilia - HP:1836/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Frost Fox
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Frost Fox - HP:1302/1302 Shields:2
+2: War Wolf - HP:3548/3548 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Frost Fox recibe 0 de daño de tipo Stave
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1932/3557 SP:532/582 BP:4
+B-Ophilia - HP:1836/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Frost Fox usa Ice blast
+Cyrus recibe 135 de daño elemental
+Ophilia recibe 134 de daño elemental
+Cyrus termina con HP:1797
+Ophilia termina con HP:1702
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1797/3557 SP:532/582 BP:4
+B-Ophilia - HP:1702/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Cyrus recibe 114 de daño físico
+Cyrus termina con HP:1683
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1683/3557 SP:532/582 BP:5
+B-Ophilia - HP:1702/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Frost Fox - HP:1302/1302 Shields:2
+2: War Wolf - HP:3548/3548 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Frost Fox recibe 0 de daño de tipo Stave
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1683/3557 SP:532/582 BP:5
+B-Ophilia - HP:1702/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Frost Fox
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Frost Fox - HP:1302/1302 Shields:2
+2: War Wolf - HP:3548/3548 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Frost Fox recibe 0 de daño de tipo Stave
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1683/3557 SP:532/582 BP:5
+B-Ophilia - HP:1702/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Frost Fox usa Ice blast
+Cyrus recibe 135 de daño elemental
+Ophilia recibe 134 de daño elemental
+Cyrus termina con HP:1548
+Ophilia termina con HP:1568
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1548/3557 SP:532/582 BP:5
+B-Ophilia - HP:1568/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Ophilia recibe 160 de daño físico
+Ophilia termina con HP:1408
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1548/3557 SP:532/582 BP:5
+B-Ophilia - HP:1408/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Frost Fox - HP:1302/1302 Shields:2
+2: War Wolf - HP:3548/3548 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Frost Fox recibe 0 de daño de tipo Stave
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1548/3557 SP:532/582 BP:5
+B-Ophilia - HP:1408/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Frost Fox
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Frost Fox - HP:1302/1302 Shields:2
+2: War Wolf - HP:3548/3548 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Frost Fox recibe 0 de daño de tipo Stave
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1548/3557 SP:532/582 BP:5
+B-Ophilia - HP:1408/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Frost Fox usa Ice blast
+Cyrus recibe 135 de daño elemental
+Ophilia recibe 134 de daño elemental
+Cyrus termina con HP:1413
+Ophilia termina con HP:1274
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1413/3557 SP:532/582 BP:5
+B-Ophilia - HP:1274/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Cyrus recibe 114 de daño físico
+Cyrus termina con HP:1299
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1299/3557 SP:532/582 BP:5
+B-Ophilia - HP:1274/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Ophilia
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Frost Fox - HP:1302/1302 Shields:2
+2: War Wolf - HP:3548/3548 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Frost Fox recibe 0 de daño de tipo Stave
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1299/3557 SP:532/582 BP:5
+B-Ophilia - HP:1274/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Frost Fox
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Frost Fox - HP:1302/1302 Shields:2
+2: War Wolf - HP:3548/3548 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Frost Fox recibe 0 de daño de tipo Stave
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1299/3557 SP:532/582 BP:5
+B-Ophilia - HP:1274/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Frost Fox usa Ice blast
+Cyrus recibe 135 de daño elemental
+Ophilia recibe 134 de daño elemental
+Cyrus termina con HP:1164
+Ophilia termina con HP:1140
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1164/3557 SP:532/582 BP:5
+B-Ophilia - HP:1140/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Cyrus recibe 114 de daño físico
+Cyrus termina con HP:1050
+----------------------------------------
+INICIA RONDA 14
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1050/3557 SP:532/582 BP:5
+B-Ophilia - HP:1140/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Cyrus
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Frost Fox - HP:1302/1302 Shields:2
+2: War Wolf - HP:3548/3548 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Frost Fox recibe 0 de daño de tipo Stave
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1050/3557 SP:532/582 BP:5
+B-Ophilia - HP:1140/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Frost Fox
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Frost Fox - HP:1302/1302 Shields:2
+2: War Wolf - HP:3548/3548 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Frost Fox recibe 0 de daño de tipo Stave
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1050/3557 SP:532/582 BP:5
+B-Ophilia - HP:1140/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Frost Fox usa Ice blast
+Cyrus recibe 203 de daño elemental
+Ophilia recibe 134 de daño elemental
+Cyrus termina con HP:847
+Ophilia termina con HP:1006
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:847/3557 SP:532/582 BP:5
+B-Ophilia - HP:1006/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Ophilia recibe 160 de daño físico
+Ophilia termina con HP:846
+----------------------------------------
+INICIA RONDA 15
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:847/3557 SP:532/582 BP:5
+B-Ophilia - HP:846/4002 SP:470/470 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Cyrus
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Frost Fox
+4.War Wolf
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo

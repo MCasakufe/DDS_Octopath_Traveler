@@ -1,0 +1,1849 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+INPUT: 12
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Agnea - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Forest Ratkin I - HP:1348/1348 Shields:1
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1233/1233 Shields:1
+D-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+6.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+6.Forest Ratkin I
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Forest Ratkin I - HP:1348/1348 Shields:1
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Mad Ratkin - HP:1233/1233 Shields:1
+4: Meep - HP:1016/1016 Shields:2
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Forest Ratkin I recibe 143 de daño de tipo Dagger con debilidad
+Forest Ratkin I entra en Breaking Point
+Forest Ratkin I termina con HP:1205
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Agnea - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Forest Ratkin I - HP:1205/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1233/1233 Shields:1
+D-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+----------------------------------------
+Highland Ratkin I usa Stab
+Agnea recibe 425 de daño físico
+Agnea termina con HP:3577
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Agnea - HP:3577/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Forest Ratkin I - HP:1205/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1233/1233 Shields:1
+D-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Olberic
+3.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+----------------------------------------
+Mad Ratkin usa Stab
+Agnea recibe 379 de daño físico
+Agnea termina con HP:3198
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Agnea - HP:3198/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Forest Ratkin I - HP:1205/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1233/1233 Shields:1
+D-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Forest Ratkin I - HP:1205/1348 Shields:0
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Mad Ratkin - HP:1233/1233 Shields:1
+4: Meep - HP:1016/1016 Shields:2
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Meep recibe 132 de daño de tipo Sword
+Meep termina con HP:884
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Agnea - HP:3198/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Forest Ratkin I - HP:1205/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1233/1233 Shields:1
+D-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:5641
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5641/5781 SP:291/291 BP:2
+B-Agnea - HP:3598/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Forest Ratkin I - HP:1205/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1233/1233 Shields:1
+D-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Forest Ratkin I
+2.Agnea
+3.Highland Ratkin I
+4.Mad Ratkin
+5.Olberic
+6.Meep
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Forest Ratkin I - HP:1205/1348 Shields:0
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Mad Ratkin - HP:1233/1233 Shields:1
+4: Meep - HP:884/1016 Shields:2
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Forest Ratkin I recibe 191 de daño de tipo Dagger con debilidad
+Forest Ratkin I termina con HP:1014
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5641/5781 SP:291/291 BP:2
+B-Agnea - HP:3598/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Forest Ratkin I - HP:1014/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1233/1233 Shields:1
+D-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Forest Ratkin I
+2.Agnea
+3.Highland Ratkin I
+4.Mad Ratkin
+5.Olberic
+6.Meep
+----------------------------------------
+Highland Ratkin I usa Stab
+Agnea recibe 425 de daño físico
+Agnea termina con HP:3173
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5641/5781 SP:291/291 BP:2
+B-Agnea - HP:3173/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Forest Ratkin I - HP:1014/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1233/1233 Shields:1
+D-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Olberic
+3.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Forest Ratkin I
+2.Agnea
+3.Highland Ratkin I
+4.Mad Ratkin
+5.Olberic
+6.Meep
+----------------------------------------
+Mad Ratkin usa Stab
+Agnea recibe 379 de daño físico
+Agnea termina con HP:2794
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5641/5781 SP:291/291 BP:2
+B-Agnea - HP:2794/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Forest Ratkin I - HP:1014/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1233/1233 Shields:1
+D-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Forest Ratkin I
+2.Agnea
+3.Highland Ratkin I
+4.Mad Ratkin
+5.Olberic
+6.Meep
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Forest Ratkin I - HP:1014/1348 Shields:0
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Mad Ratkin - HP:1233/1233 Shields:1
+4: Meep - HP:884/1016 Shields:2
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Forest Ratkin I recibe 531 de daño de tipo Sword
+Forest Ratkin I termina con HP:483
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5641/5781 SP:291/291 BP:2
+B-Agnea - HP:2794/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Forest Ratkin I - HP:483/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1233/1233 Shields:1
+D-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Forest Ratkin I
+2.Agnea
+3.Highland Ratkin I
+4.Mad Ratkin
+5.Olberic
+6.Meep
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:5501
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5501/5781 SP:291/291 BP:3
+B-Agnea - HP:3194/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Forest Ratkin I - HP:483/1348 Shields:1
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1233/1233 Shields:1
+D-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Forest Ratkin I
+2.Agnea
+3.Highland Ratkin I
+4.Mad Ratkin
+5.Olberic
+6.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+6.Forest Ratkin I
+----------------------------------------
+Forest Ratkin I usa Stab
+Agnea recibe 152 de daño físico
+Agnea termina con HP:3042
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5501/5781 SP:291/291 BP:3
+B-Agnea - HP:3042/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Forest Ratkin I - HP:483/1348 Shields:1
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1233/1233 Shields:1
+D-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+6.Forest Ratkin I
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Forest Ratkin I - HP:483/1348 Shields:1
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Mad Ratkin - HP:1233/1233 Shields:1
+4: Meep - HP:884/1016 Shields:2
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Forest Ratkin I recibe 143 de daño de tipo Dagger con debilidad
+Forest Ratkin I entra en Breaking Point
+Forest Ratkin I termina con HP:340
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5501/5781 SP:291/291 BP:3
+B-Agnea - HP:3042/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Forest Ratkin I - HP:340/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1233/1233 Shields:1
+D-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+----------------------------------------
+Highland Ratkin I usa Stab
+Agnea recibe 425 de daño físico
+Agnea termina con HP:2617
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5501/5781 SP:291/291 BP:3
+B-Agnea - HP:2617/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Forest Ratkin I - HP:340/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1233/1233 Shields:1
+D-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Olberic
+3.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+----------------------------------------
+Mad Ratkin usa Stab
+Agnea recibe 379 de daño físico
+Agnea termina con HP:2238
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5501/5781 SP:291/291 BP:3
+B-Agnea - HP:2238/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Forest Ratkin I - HP:340/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1233/1233 Shields:1
+D-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Forest Ratkin I - HP:340/1348 Shields:0
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Mad Ratkin - HP:1233/1233 Shields:1
+4: Meep - HP:884/1016 Shields:2
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Mad Ratkin recibe 189 de daño de tipo Sword
+Mad Ratkin termina con HP:1044
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5501/5781 SP:291/291 BP:3
+B-Agnea - HP:2238/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Forest Ratkin I - HP:340/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1044/1233 Shields:1
+D-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:5361
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5361/5781 SP:291/291 BP:4
+B-Agnea - HP:2638/4002 SP:504/504 BP:4
+Equipo del enemigo
+A-Forest Ratkin I - HP:340/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1044/1233 Shields:1
+D-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Forest Ratkin I
+2.Agnea
+3.Highland Ratkin I
+4.Mad Ratkin
+5.Olberic
+6.Meep
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Forest Ratkin I - HP:340/1348 Shields:0
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Mad Ratkin - HP:1044/1233 Shields:1
+4: Meep - HP:884/1016 Shields:2
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Forest Ratkin I recibe 191 de daño de tipo Dagger con debilidad
+Forest Ratkin I termina con HP:149
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5361/5781 SP:291/291 BP:4
+B-Agnea - HP:2638/4002 SP:504/504 BP:4
+Equipo del enemigo
+A-Forest Ratkin I - HP:149/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1044/1233 Shields:1
+D-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Forest Ratkin I
+2.Agnea
+3.Highland Ratkin I
+4.Mad Ratkin
+5.Olberic
+6.Meep
+----------------------------------------
+Highland Ratkin I usa Stab
+Agnea recibe 425 de daño físico
+Agnea termina con HP:2213
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5361/5781 SP:291/291 BP:4
+B-Agnea - HP:2213/4002 SP:504/504 BP:4
+Equipo del enemigo
+A-Forest Ratkin I - HP:149/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1044/1233 Shields:1
+D-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Olberic
+3.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Forest Ratkin I
+2.Agnea
+3.Highland Ratkin I
+4.Mad Ratkin
+5.Olberic
+6.Meep
+----------------------------------------
+Mad Ratkin usa Stab
+Agnea recibe 379 de daño físico
+Agnea termina con HP:1834
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5361/5781 SP:291/291 BP:4
+B-Agnea - HP:1834/4002 SP:504/504 BP:4
+Equipo del enemigo
+A-Forest Ratkin I - HP:149/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1044/1233 Shields:1
+D-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Forest Ratkin I
+2.Agnea
+3.Highland Ratkin I
+4.Mad Ratkin
+5.Olberic
+6.Meep
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Forest Ratkin I - HP:149/1348 Shields:0
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Mad Ratkin - HP:1044/1233 Shields:1
+4: Meep - HP:884/1016 Shields:2
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Meep recibe 132 de daño de tipo Sword
+Meep termina con HP:752
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5361/5781 SP:291/291 BP:4
+B-Agnea - HP:1834/4002 SP:504/504 BP:4
+Equipo del enemigo
+A-Forest Ratkin I - HP:149/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1044/1233 Shields:1
+D-Meep - HP:752/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Forest Ratkin I
+2.Agnea
+3.Highland Ratkin I
+4.Mad Ratkin
+5.Olberic
+6.Meep
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:5221
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5221/5781 SP:291/291 BP:5
+B-Agnea - HP:2234/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:149/1348 Shields:1
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1044/1233 Shields:1
+D-Meep - HP:752/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Forest Ratkin I
+2.Agnea
+3.Highland Ratkin I
+4.Mad Ratkin
+5.Olberic
+6.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+6.Forest Ratkin I
+----------------------------------------
+Forest Ratkin I usa Stab
+Agnea recibe 152 de daño físico
+Agnea termina con HP:2082
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5221/5781 SP:291/291 BP:5
+B-Agnea - HP:2082/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:149/1348 Shields:1
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1044/1233 Shields:1
+D-Meep - HP:752/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+6.Forest Ratkin I
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Forest Ratkin I - HP:149/1348 Shields:1
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Mad Ratkin - HP:1044/1233 Shields:1
+4: Meep - HP:752/1016 Shields:2
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Forest Ratkin I recibe 143 de daño de tipo Dagger con debilidad
+Forest Ratkin I entra en Breaking Point
+Forest Ratkin I termina con HP:6
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5221/5781 SP:291/291 BP:5
+B-Agnea - HP:2082/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:6/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1044/1233 Shields:1
+D-Meep - HP:752/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+----------------------------------------
+Highland Ratkin I usa Stab
+Agnea recibe 425 de daño físico
+Agnea termina con HP:1657
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5221/5781 SP:291/291 BP:5
+B-Agnea - HP:1657/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:6/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1044/1233 Shields:1
+D-Meep - HP:752/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Olberic
+3.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+----------------------------------------
+Mad Ratkin usa Stab
+Agnea recibe 379 de daño físico
+Agnea termina con HP:1278
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5221/5781 SP:291/291 BP:5
+B-Agnea - HP:1278/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:6/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1044/1233 Shields:1
+D-Meep - HP:752/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Forest Ratkin I - HP:6/1348 Shields:0
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Mad Ratkin - HP:1044/1233 Shields:1
+4: Meep - HP:752/1016 Shields:2
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Meep recibe 132 de daño de tipo Sword
+Meep termina con HP:620
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5221/5781 SP:291/291 BP:5
+B-Agnea - HP:1278/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:6/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1044/1233 Shields:1
+D-Meep - HP:620/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:5081
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5081/5781 SP:291/291 BP:5
+B-Agnea - HP:1678/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:6/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1044/1233 Shields:1
+D-Meep - HP:620/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Forest Ratkin I
+2.Agnea
+3.Highland Ratkin I
+4.Mad Ratkin
+5.Olberic
+6.Meep
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Forest Ratkin I - HP:6/1348 Shields:0
+2: Highland Ratkin I - HP:1000/1000 Shields:1
+3: Mad Ratkin - HP:1044/1233 Shields:1
+4: Meep - HP:620/1016 Shields:2
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Forest Ratkin I recibe 191 de daño de tipo Dagger con debilidad
+Forest Ratkin I termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5081/5781 SP:291/291 BP:5
+B-Agnea - HP:1678/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1044/1233 Shields:1
+D-Meep - HP:620/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+----------------------------------------
+Highland Ratkin I usa Stab
+Agnea recibe 425 de daño físico
+Agnea termina con HP:1253
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5081/5781 SP:291/291 BP:5
+B-Agnea - HP:1253/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1044/1233 Shields:1
+D-Meep - HP:620/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Olberic
+3.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+----------------------------------------
+Mad Ratkin usa Stab
+Agnea recibe 379 de daño físico
+Agnea termina con HP:874
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5081/5781 SP:291/291 BP:5
+B-Agnea - HP:874/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1044/1233 Shields:1
+D-Meep - HP:620/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Highland Ratkin I - HP:1000/1000 Shields:1
+2: Mad Ratkin - HP:1044/1233 Shields:1
+3: Meep - HP:620/1016 Shields:2
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Meep recibe 132 de daño de tipo Sword
+Meep termina con HP:488
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5081/5781 SP:291/291 BP:5
+B-Agnea - HP:874/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1044/1233 Shields:1
+D-Meep - HP:488/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:4941
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4941/5781 SP:291/291 BP:5
+B-Agnea - HP:1274/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1044/1233 Shields:1
+D-Meep - HP:488/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Highland Ratkin I - HP:1000/1000 Shields:1
+2: Mad Ratkin - HP:1044/1233 Shields:1
+3: Meep - HP:488/1016 Shields:2
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Highland Ratkin I recibe 0 de daño de tipo Dagger con debilidad
+Highland Ratkin I termina con HP:1000
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4941/5781 SP:291/291 BP:5
+B-Agnea - HP:1274/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1044/1233 Shields:1
+D-Meep - HP:488/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+----------------------------------------
+Highland Ratkin I usa Stab
+Agnea recibe 425 de daño físico
+Agnea termina con HP:849
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4941/5781 SP:291/291 BP:5
+B-Agnea - HP:849/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1044/1233 Shields:1
+D-Meep - HP:488/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Olberic
+3.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+----------------------------------------
+Mad Ratkin usa Stab
+Agnea recibe 379 de daño físico
+Agnea termina con HP:470
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4941/5781 SP:291/291 BP:5
+B-Agnea - HP:470/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1044/1233 Shields:1
+D-Meep - HP:488/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Highland Ratkin I - HP:1000/1000 Shields:1
+2: Mad Ratkin - HP:1044/1233 Shields:1
+3: Meep - HP:488/1016 Shields:2
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Highland Ratkin I recibe 0 de daño de tipo Sword con debilidad
+Highland Ratkin I termina con HP:1000
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4941/5781 SP:291/291 BP:5
+B-Agnea - HP:470/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1044/1233 Shields:1
+D-Meep - HP:488/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:4801
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4801/5781 SP:291/291 BP:5
+B-Agnea - HP:870/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1044/1233 Shields:1
+D-Meep - HP:488/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Highland Ratkin I - HP:1000/1000 Shields:1
+2: Mad Ratkin - HP:1044/1233 Shields:1
+3: Meep - HP:488/1016 Shields:2
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Highland Ratkin I recibe 0 de daño de tipo Dagger con debilidad
+Highland Ratkin I termina con HP:1000
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4801/5781 SP:291/291 BP:5
+B-Agnea - HP:870/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1044/1233 Shields:1
+D-Meep - HP:488/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+----------------------------------------
+Highland Ratkin I usa Stab
+Agnea recibe 425 de daño físico
+Agnea termina con HP:445
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4801/5781 SP:291/291 BP:5
+B-Agnea - HP:445/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1044/1233 Shields:1
+D-Meep - HP:488/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Olberic
+3.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+----------------------------------------
+Mad Ratkin usa Stab
+Agnea recibe 379 de daño físico
+Agnea termina con HP:66
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4801/5781 SP:291/291 BP:5
+B-Agnea - HP:66/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1044/1233 Shields:1
+D-Meep - HP:488/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Highland Ratkin I - HP:1000/1000 Shields:1
+2: Mad Ratkin - HP:1044/1233 Shields:1
+3: Meep - HP:488/1016 Shields:2
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Highland Ratkin I recibe 0 de daño de tipo Sword con debilidad
+Highland Ratkin I termina con HP:1000
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4801/5781 SP:291/291 BP:5
+B-Agnea - HP:66/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1044/1233 Shields:1
+D-Meep - HP:488/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:4661
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4661/5781 SP:291/291 BP:5
+B-Agnea - HP:466/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1044/1233 Shields:1
+D-Meep - HP:488/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Highland Ratkin I - HP:1000/1000 Shields:1
+2: Mad Ratkin - HP:1044/1233 Shields:1
+3: Meep - HP:488/1016 Shields:2
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Highland Ratkin I recibe 0 de daño de tipo Dagger con debilidad
+Highland Ratkin I termina con HP:1000
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4661/5781 SP:291/291 BP:5
+B-Agnea - HP:466/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1044/1233 Shields:1
+D-Meep - HP:488/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+----------------------------------------
+Highland Ratkin I usa Stab
+Agnea recibe 425 de daño físico
+Agnea termina con HP:41
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4661/5781 SP:291/291 BP:5
+B-Agnea - HP:41/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1044/1233 Shields:1
+D-Meep - HP:488/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Olberic
+3.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Highland Ratkin I
+3.Mad Ratkin
+4.Olberic
+5.Meep
+----------------------------------------
+Mad Ratkin usa Stab
+Agnea recibe 379 de daño físico
+Agnea termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4661/5781 SP:291/291 BP:5
+B-Agnea - HP:0/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1044/1233 Shields:1
+D-Meep - HP:488/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Meep
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Highland Ratkin I - HP:1000/1000 Shields:1
+2: Mad Ratkin - HP:1044/1233 Shields:1
+3: Meep - HP:488/1016 Shields:2
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Highland Ratkin I recibe 0 de daño de tipo Sword con debilidad
+Highland Ratkin I termina con HP:1000
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4661/5781 SP:291/291 BP:5
+B-Agnea - HP:0/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1044/1233 Shields:1
+D-Meep - HP:488/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Meep
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:4521
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4521/5781 SP:291/291 BP:5
+B-Agnea - HP:0/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1044/1233 Shields:1
+D-Meep - HP:488/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Meep
+----------------------------------------
+Highland Ratkin I usa Stab
+Olberic recibe 277 de daño físico
+Olberic termina con HP:4244
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4244/5781 SP:291/291 BP:5
+B-Agnea - HP:0/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1044/1233 Shields:1
+D-Meep - HP:488/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Olberic
+3.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Meep
+----------------------------------------
+Mad Ratkin usa Stab
+Olberic recibe 231 de daño físico
+Olberic termina con HP:4013
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4013/5781 SP:291/291 BP:5
+B-Agnea - HP:0/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1044/1233 Shields:1
+D-Meep - HP:488/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Meep
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Highland Ratkin I - HP:1000/1000 Shields:1
+2: Mad Ratkin - HP:1044/1233 Shields:1
+3: Meep - HP:488/1016 Shields:2
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Highland Ratkin I recibe 0 de daño de tipo Sword con debilidad
+Highland Ratkin I termina con HP:1000
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4013/5781 SP:291/291 BP:5
+B-Agnea - HP:0/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1044/1233 Shields:1
+D-Meep - HP:488/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Meep
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:3873
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3873/5781 SP:291/291 BP:5
+B-Agnea - HP:0/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1044/1233 Shields:1
+D-Meep - HP:488/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Meep
+----------------------------------------
+Highland Ratkin I usa Stab
+Olberic recibe 277 de daño físico
+Olberic termina con HP:3596
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3596/5781 SP:291/291 BP:5
+B-Agnea - HP:0/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1044/1233 Shields:1
+D-Meep - HP:488/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Olberic
+3.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Meep
+----------------------------------------
+Mad Ratkin usa Stab
+Olberic recibe 231 de daño físico
+Olberic termina con HP:3365
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3365/5781 SP:291/291 BP:5
+B-Agnea - HP:0/4002 SP:504/504 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:0
+B-Highland Ratkin I - HP:1000/1000 Shields:1
+C-Mad Ratkin - HP:1044/1233 Shields:1
+D-Meep - HP:488/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Highland Ratkin I
+2.Mad Ratkin
+3.Olberic
+4.Meep
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo

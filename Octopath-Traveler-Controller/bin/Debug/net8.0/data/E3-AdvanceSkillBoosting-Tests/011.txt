@@ -1,0 +1,385 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+INPUT: 10
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Shaggy Meep - HP:1036/1036 Shields:3
+B-Meep - HP:1016/1016 Shields:2
+C-Chubby Cait - HP:800/800 Shields:4
+D-Wanderweed - HP:1533/1533 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Chubby Cait
+2.Olberic
+3.Meep
+4.Wanderweed
+5.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Chubby Cait
+2.Olberic
+3.Meep
+4.Wanderweed
+5.Shaggy Meep
+----------------------------------------
+Chubby Cait usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:5781
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Shaggy Meep - HP:1036/1036 Shields:3
+B-Meep - HP:1016/1016 Shields:2
+C-Chubby Cait - HP:800/800 Shields:4
+D-Wanderweed - HP:1533/1533 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Wanderweed
+4.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Chubby Cait
+2.Olberic
+3.Meep
+4.Wanderweed
+5.Shaggy Meep
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Ignis Ardere
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Ignis Ardere
+Shaggy Meep recibe 155 de daño de tipo Fire
+Shaggy Meep recibe 155 de daño de tipo Fire
+Shaggy Meep recibe 155 de daño de tipo Fire
+Meep recibe 125 de daño de tipo Fire
+Meep recibe 125 de daño de tipo Fire
+Meep recibe 125 de daño de tipo Fire
+Chubby Cait recibe 0 de daño de tipo Fire
+Chubby Cait recibe 0 de daño de tipo Fire
+Chubby Cait recibe 0 de daño de tipo Fire
+Wanderweed recibe 117 de daño de tipo Fire
+Wanderweed recibe 117 de daño de tipo Fire
+Wanderweed recibe 117 de daño de tipo Fire
+Shaggy Meep termina con HP:571
+Meep termina con HP:641
+Chubby Cait termina con HP:800
+Wanderweed termina con HP:1182
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:255/291 BP:1
+Equipo del enemigo
+A-Shaggy Meep - HP:571/1036 Shields:3
+B-Meep - HP:641/1016 Shields:2
+C-Chubby Cait - HP:800/800 Shields:4
+D-Wanderweed - HP:1182/1533 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Wanderweed
+3.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Chubby Cait
+2.Olberic
+3.Meep
+4.Wanderweed
+5.Shaggy Meep
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:5641
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5641/5781 SP:255/291 BP:1
+Equipo del enemigo
+A-Shaggy Meep - HP:571/1036 Shields:3
+B-Meep - HP:641/1016 Shields:2
+C-Chubby Cait - HP:800/800 Shields:4
+D-Wanderweed - HP:1182/1533 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Wanderweed
+2.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Chubby Cait
+2.Olberic
+3.Meep
+4.Wanderweed
+5.Shaggy Meep
+----------------------------------------
+Wanderweed usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:5641
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5641/5781 SP:255/291 BP:1
+Equipo del enemigo
+A-Shaggy Meep - HP:571/1036 Shields:3
+B-Meep - HP:641/1016 Shields:2
+C-Chubby Cait - HP:800/800 Shields:4
+D-Wanderweed - HP:1182/1533 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Chubby Cait
+2.Olberic
+3.Meep
+4.Wanderweed
+5.Shaggy Meep
+----------------------------------------
+Shaggy Meep usa Attack
+Olberic recibe 61 de daño físico
+Olberic termina con HP:5580
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5580/5781 SP:255/291 BP:2
+Equipo del enemigo
+A-Shaggy Meep - HP:571/1036 Shields:3
+B-Meep - HP:641/1016 Shields:2
+C-Chubby Cait - HP:800/800 Shields:4
+D-Wanderweed - HP:1182/1533 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Chubby Cait
+2.Olberic
+3.Meep
+4.Wanderweed
+5.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Chubby Cait
+2.Olberic
+3.Meep
+4.Wanderweed
+5.Shaggy Meep
+----------------------------------------
+Chubby Cait usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:5580
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5580/5781 SP:255/291 BP:2
+Equipo del enemigo
+A-Shaggy Meep - HP:571/1036 Shields:3
+B-Meep - HP:641/1016 Shields:2
+C-Chubby Cait - HP:800/800 Shields:4
+D-Wanderweed - HP:1182/1533 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Wanderweed
+4.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Chubby Cait
+2.Olberic
+3.Meep
+4.Wanderweed
+5.Shaggy Meep
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Ignis Ardere
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Olberic usa Ignis Ardere
+Shaggy Meep recibe 496 de daño de tipo Fire
+Shaggy Meep recibe 496 de daño de tipo Fire
+Shaggy Meep recibe 496 de daño de tipo Fire
+Meep recibe 466 de daño de tipo Fire
+Meep recibe 466 de daño de tipo Fire
+Meep recibe 466 de daño de tipo Fire
+Chubby Cait recibe 170 de daño de tipo Fire
+Chubby Cait recibe 170 de daño de tipo Fire
+Chubby Cait recibe 170 de daño de tipo Fire
+Wanderweed recibe 458 de daño de tipo Fire
+Wanderweed recibe 458 de daño de tipo Fire
+Wanderweed recibe 458 de daño de tipo Fire
+Shaggy Meep termina con HP:0
+Meep termina con HP:0
+Chubby Cait termina con HP:290
+Wanderweed termina con HP:0
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5580/5781 SP:219/291 BP:1
+Equipo del enemigo
+A-Shaggy Meep - HP:0/1036 Shields:3
+B-Meep - HP:0/1016 Shields:2
+C-Chubby Cait - HP:290/800 Shields:4
+D-Wanderweed - HP:0/1533 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Chubby Cait
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Chubby Cait
+2.Olberic
+----------------------------------------
+Chubby Cait usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:5580
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5580/5781 SP:219/291 BP:1
+Equipo del enemigo
+A-Shaggy Meep - HP:0/1036 Shields:3
+B-Meep - HP:0/1016 Shields:2
+C-Chubby Cait - HP:290/800 Shields:4
+D-Wanderweed - HP:0/1533 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Chubby Cait
+2.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Chubby Cait - HP:290/800 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Chubby Cait recibe 246 de daño de tipo Sword con debilidad
+Chubby Cait termina con HP:44
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5580/5781 SP:219/291 BP:2
+Equipo del enemigo
+A-Shaggy Meep - HP:0/1036 Shields:3
+B-Meep - HP:0/1016 Shields:2
+C-Chubby Cait - HP:44/800 Shields:3
+D-Wanderweed - HP:0/1533 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Chubby Cait
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Chubby Cait
+2.Olberic
+----------------------------------------
+Chubby Cait usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:5580
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5580/5781 SP:219/291 BP:2
+Equipo del enemigo
+A-Shaggy Meep - HP:0/1036 Shields:3
+B-Meep - HP:0/1016 Shields:2
+C-Chubby Cait - HP:44/800 Shields:3
+D-Wanderweed - HP:0/1533 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Chubby Cait
+2.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Ignis Ardere
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Olberic usa Ignis Ardere
+Chubby Cait recibe 511 de daño de tipo Fire
+Chubby Cait recibe 511 de daño de tipo Fire
+Chubby Cait recibe 511 de daño de tipo Fire
+Chubby Cait termina con HP:0
+----------------------------------------
+Gana equipo del jugador

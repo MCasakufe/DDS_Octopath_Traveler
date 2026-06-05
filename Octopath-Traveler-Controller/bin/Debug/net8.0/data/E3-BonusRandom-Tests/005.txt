@@ -1,0 +1,2528 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+INPUT: 4
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+C-Therion - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Horse Fly - HP:2857/2857 Shields:2
+B-Frost Bear - HP:1197/1197 Shields:3
+C-Mattias? - HP:5780/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Ethereal Healing
+2: First Aid
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Therion no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Therion no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Therion no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Therion usa Ethereal Healing
+Z'aanta tendrá restauración de HP durante 3 rondas
+Cyrus tendrá restauración de HP durante 3 rondas
+Therion tendrá restauración de HP durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+C-Therion - HP:4447/4447 SP:302/332 BP:0
+Equipo del enemigo
+A-Horse Fly - HP:2857/2857 Shields:2
+B-Frost Bear - HP:1197/1197 Shields:3
+C-Mattias? - HP:5780/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Cyrus
+3.Mattias?
+4.Horse Fly
+5.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Spearhead
+2: Mercy Strike
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Horse Fly - HP:2857/2857 Shields:2
+2: Frost Bear - HP:1197/1197 Shields:3
+3: Mattias? - HP:5780/5780 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Z'aanta no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta usa Spearhead
+Mattias? recibe 134 de daño de tipo Spear
+Mattias? termina con HP:5646
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:365/371 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+C-Therion - HP:4447/4447 SP:302/332 BP:0
+Equipo del enemigo
+A-Horse Fly - HP:2857/2857 Shields:2
+B-Frost Bear - HP:1197/1197 Shields:3
+C-Mattias? - HP:5646/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Mattias?
+3.Horse Fly
+4.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Therion
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Horse Fly - HP:2857/2857 Shields:2
+2: Frost Bear - HP:1197/1197 Shields:3
+3: Mattias? - HP:5646/5780 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Mattias? recibe 0 de daño de tipo Stave
+Mattias? termina con HP:5646
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:365/371 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+C-Therion - HP:4447/4447 SP:302/332 BP:0
+Equipo del enemigo
+A-Horse Fly - HP:2857/2857 Shields:2
+B-Frost Bear - HP:1197/1197 Shields:3
+C-Mattias? - HP:5646/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Horse Fly
+3.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Therion
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Mattias? usa Black Gale
+Z'aanta recibe 712 de daño elemental
+Cyrus recibe 615 de daño elemental
+Therion recibe 717 de daño elemental
+Z'aanta termina con HP:2510
+Cyrus termina con HP:2942
+Therion termina con HP:3730
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2510/3222 SP:365/371 BP:1
+B-Cyrus - HP:2942/3557 SP:582/582 BP:1
+C-Therion - HP:3730/4447 SP:302/332 BP:0
+Equipo del enemigo
+A-Horse Fly - HP:2857/2857 Shields:2
+B-Frost Bear - HP:1197/1197 Shields:3
+C-Mattias? - HP:5646/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Horse Fly
+2.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Therion
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Horse Fly usa Attack
+Therion recibe 190 de daño físico
+Therion termina con HP:3540
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2510/3222 SP:365/371 BP:1
+B-Cyrus - HP:2942/3557 SP:582/582 BP:1
+C-Therion - HP:3540/4447 SP:302/332 BP:0
+Equipo del enemigo
+A-Horse Fly - HP:2857/2857 Shields:2
+B-Frost Bear - HP:1197/1197 Shields:3
+C-Mattias? - HP:5646/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Therion
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Frost Bear usa Attack
+Therion recibe 27 de daño físico
+Therion termina con HP:3513
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2832/3222 SP:365/371 BP:2
+B-Cyrus - HP:2942/3557 SP:582/582 BP:2
+C-Therion - HP:3513/4447 SP:318/332 BP:0
+Equipo del enemigo
+A-Horse Fly - HP:2857/2857 Shields:2
+B-Frost Bear - HP:1197/1197 Shields:3
+C-Mattias? - HP:5646/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Therion
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Spearhead
+2: Mercy Strike
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Horse Fly - HP:2857/2857 Shields:2
+2: Frost Bear - HP:1197/1197 Shields:3
+3: Mattias? - HP:5646/5780 Shields:4
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Z'aanta no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta usa Spearhead
+Horse Fly recibe 430 de daño de tipo Spear con debilidad
+Horse Fly termina con HP:2427
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3154/3222 SP:359/371 BP:2
+B-Cyrus - HP:2942/3557 SP:582/582 BP:2
+C-Therion - HP:3513/4447 SP:318/332 BP:0
+Equipo del enemigo
+A-Horse Fly - HP:2427/2857 Shields:1
+B-Frost Bear - HP:1197/1197 Shields:3
+C-Mattias? - HP:5646/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Cyrus
+3.Mattias?
+4.Horse Fly
+5.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Therion
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Ethereal Healing
+2: First Aid
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Z'aanta - HP:3154/3222 SP:359/371 BP:2
+2: Cyrus - HP:2942/3557 SP:582/582 BP:2
+3: Therion - HP:3513/4447 SP:318/332 BP:0
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Therion usa First Aid
+Cyrus recupera 342 de vida
+Cyrus termina con HP:3284
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3154/3222 SP:359/371 BP:2
+B-Cyrus - HP:3284/3557 SP:582/582 BP:2
+C-Therion - HP:3957/4447 SP:314/332 BP:0
+Equipo del enemigo
+A-Horse Fly - HP:2427/2857 Shields:1
+B-Frost Bear - HP:1197/1197 Shields:3
+C-Mattias? - HP:5646/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Mattias?
+3.Horse Fly
+4.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Therion
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Horse Fly - HP:2427/2857 Shields:1
+2: Frost Bear - HP:1197/1197 Shields:3
+3: Mattias? - HP:5646/5780 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Frost Bear recibe 215 de daño de tipo Stave
+Frost Bear termina con HP:982
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3154/3222 SP:359/371 BP:2
+B-Cyrus - HP:3557/3557 SP:582/582 BP:2
+C-Therion - HP:3957/4447 SP:314/332 BP:0
+Equipo del enemigo
+A-Horse Fly - HP:2427/2857 Shields:1
+B-Frost Bear - HP:982/1197 Shields:3
+C-Mattias? - HP:5646/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Horse Fly
+3.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Therion
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Mattias? usa Black Gale
+Z'aanta recibe 712 de daño elemental
+Cyrus recibe 615 de daño elemental
+Therion recibe 717 de daño elemental
+Z'aanta termina con HP:2442
+Cyrus termina con HP:2942
+Therion termina con HP:3240
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2442/3222 SP:359/371 BP:2
+B-Cyrus - HP:2942/3557 SP:582/582 BP:2
+C-Therion - HP:3240/4447 SP:314/332 BP:0
+Equipo del enemigo
+A-Horse Fly - HP:2427/2857 Shields:1
+B-Frost Bear - HP:982/1197 Shields:3
+C-Mattias? - HP:5646/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Horse Fly
+2.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Therion
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Horse Fly usa Attack
+Therion recibe 190 de daño físico
+Therion termina con HP:3050
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2442/3222 SP:359/371 BP:2
+B-Cyrus - HP:2942/3557 SP:582/582 BP:2
+C-Therion - HP:3050/4447 SP:314/332 BP:0
+Equipo del enemigo
+A-Horse Fly - HP:2427/2857 Shields:1
+B-Frost Bear - HP:982/1197 Shields:3
+C-Mattias? - HP:5646/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Therion
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Frost Bear usa Attack
+Therion recibe 27 de daño físico
+Therion termina con HP:3023
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2764/3222 SP:359/371 BP:3
+B-Cyrus - HP:2942/3557 SP:582/582 BP:3
+C-Therion - HP:3023/4447 SP:330/332 BP:1
+Equipo del enemigo
+A-Horse Fly - HP:2427/2857 Shields:1
+B-Frost Bear - HP:982/1197 Shields:3
+C-Mattias? - HP:5646/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Therion
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3086/3222 SP:359/371 BP:3
+B-Cyrus - HP:2942/3557 SP:582/582 BP:3
+C-Therion - HP:3023/4447 SP:330/332 BP:1
+Equipo del enemigo
+A-Horse Fly - HP:2427/2857 Shields:1
+B-Frost Bear - HP:982/1197 Shields:3
+C-Mattias? - HP:5646/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Cyrus
+3.Mattias?
+4.Horse Fly
+5.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Therion
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Horse Fly - HP:2427/2857 Shields:1
+2: Frost Bear - HP:982/1197 Shields:3
+3: Mattias? - HP:5646/5780 Shields:4
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Horse Fly recibe 131 de daño de tipo Dagger
+Horse Fly termina con HP:2296
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3086/3222 SP:359/371 BP:3
+B-Cyrus - HP:2942/3557 SP:582/582 BP:3
+C-Therion - HP:3467/4447 SP:330/332 BP:1
+Equipo del enemigo
+A-Horse Fly - HP:2296/2857 Shields:1
+B-Frost Bear - HP:982/1197 Shields:3
+C-Mattias? - HP:5646/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Mattias?
+3.Horse Fly
+4.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Therion
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3086/3222 SP:359/371 BP:3
+B-Cyrus - HP:3297/3557 SP:582/582 BP:3
+C-Therion - HP:3467/4447 SP:330/332 BP:1
+Equipo del enemigo
+A-Horse Fly - HP:2296/2857 Shields:1
+B-Frost Bear - HP:982/1197 Shields:3
+C-Mattias? - HP:5646/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Horse Fly
+3.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Cyrus
+3.Therion
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Mattias? usa Black Gale
+Z'aanta se defiende
+Z'aanta recibe 356 de daño elemental
+Cyrus se defiende
+Cyrus recibe 307 de daño elemental
+Therion recibe 717 de daño elemental
+Z'aanta termina con HP:2730
+Cyrus termina con HP:2990
+Therion termina con HP:2750
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2730/3222 SP:359/371 BP:3
+B-Cyrus - HP:2990/3557 SP:582/582 BP:3
+C-Therion - HP:2750/4447 SP:330/332 BP:1
+Equipo del enemigo
+A-Horse Fly - HP:2296/2857 Shields:1
+B-Frost Bear - HP:982/1197 Shields:3
+C-Mattias? - HP:5646/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Horse Fly
+2.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Cyrus
+3.Therion
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Horse Fly usa Attack
+Cyrus se defiende
+Cyrus recibe 86 de daño físico
+Cyrus termina con HP:2904
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2730/3222 SP:359/371 BP:3
+B-Cyrus - HP:2904/3557 SP:582/582 BP:3
+C-Therion - HP:2750/4447 SP:330/332 BP:1
+Equipo del enemigo
+A-Horse Fly - HP:2296/2857 Shields:1
+B-Frost Bear - HP:982/1197 Shields:3
+C-Mattias? - HP:5646/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Cyrus
+3.Therion
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Frost Bear usa Attack
+Cyrus se defiende
+Cyrus recibe 5 de daño físico
+Cyrus termina con HP:2899
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3052/3222 SP:359/371 BP:4
+B-Cyrus - HP:2899/3557 SP:582/582 BP:4
+C-Therion - HP:2750/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Horse Fly - HP:2296/2857 Shields:1
+B-Frost Bear - HP:982/1197 Shields:3
+C-Mattias? - HP:5646/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Cyrus
+3.Therion
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Horse Fly - HP:2296/2857 Shields:1
+2: Frost Bear - HP:982/1197 Shields:3
+3: Mattias? - HP:5646/5780 Shields:4
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Horse Fly recibe 168 de daño de tipo Axe
+Horse Fly termina con HP:2128
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3052/3222 SP:359/371 BP:4
+B-Cyrus - HP:2899/3557 SP:582/582 BP:4
+C-Therion - HP:2750/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Horse Fly - HP:2128/2857 Shields:1
+B-Frost Bear - HP:982/1197 Shields:3
+C-Mattias? - HP:5646/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Therion
+3.Mattias?
+4.Horse Fly
+5.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Sealticge's Seduction
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Z'aanta - HP:3052/3222 SP:359/371 BP:4
+2: Cyrus - HP:2899/3557 SP:582/582 BP:4
+3: Therion - HP:2750/4447 SP:332/332 BP:2
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Cyrus usa Sealticge's Seduction
+Therion modificará sus targets durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3052/3222 SP:359/371 BP:4
+B-Cyrus - HP:2899/3557 SP:552/582 BP:1
+C-Therion - HP:2750/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Horse Fly - HP:2128/2857 Shields:1
+B-Frost Bear - HP:982/1197 Shields:3
+C-Mattias? - HP:5646/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Mattias?
+3.Horse Fly
+4.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Ethereal Healing
+2: First Aid
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Therion usa First Aid
+Z'aanta recupera 478 de vida
+Cyrus recupera 478 de vida
+Therion recupera 478 de vida
+Z'aanta termina con HP:3222
+Cyrus termina con HP:3377
+Therion termina con HP:3228
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:359/371 BP:4
+B-Cyrus - HP:3377/3557 SP:552/582 BP:1
+C-Therion - HP:3228/4447 SP:328/332 BP:1
+Equipo del enemigo
+A-Horse Fly - HP:2128/2857 Shields:1
+B-Frost Bear - HP:982/1197 Shields:3
+C-Mattias? - HP:5646/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Horse Fly
+3.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Mattias? usa Black Gale
+Z'aanta recibe 712 de daño elemental
+Cyrus recibe 615 de daño elemental
+Therion recibe 717 de daño elemental
+Z'aanta termina con HP:2510
+Cyrus termina con HP:2762
+Therion termina con HP:2511
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2510/3222 SP:359/371 BP:4
+B-Cyrus - HP:2762/3557 SP:552/582 BP:1
+C-Therion - HP:2511/4447 SP:328/332 BP:1
+Equipo del enemigo
+A-Horse Fly - HP:2128/2857 Shields:1
+B-Frost Bear - HP:982/1197 Shields:3
+C-Mattias? - HP:5646/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Horse Fly
+2.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Horse Fly usa Attack
+Cyrus recibe 173 de daño físico
+Cyrus termina con HP:2589
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2510/3222 SP:359/371 BP:4
+B-Cyrus - HP:2589/3557 SP:552/582 BP:1
+C-Therion - HP:2511/4447 SP:328/332 BP:1
+Equipo del enemigo
+A-Horse Fly - HP:2128/2857 Shields:1
+B-Frost Bear - HP:982/1197 Shields:3
+C-Mattias? - HP:5646/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Frost Bear usa Attack
+Cyrus recibe 10 de daño físico
+Cyrus termina con HP:2579
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2832/3222 SP:359/371 BP:5
+B-Cyrus - HP:2579/3557 SP:552/582 BP:1
+C-Therion - HP:2511/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Horse Fly - HP:2128/2857 Shields:1
+B-Frost Bear - HP:982/1197 Shields:3
+C-Mattias? - HP:5646/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Ethereal Healing
+2: First Aid
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Therion usa First Aid
+Z'aanta recupera 478 de vida
+Cyrus recupera 478 de vida
+Therion recupera 478 de vida
+Z'aanta termina con HP:3222
+Cyrus termina con HP:3057
+Therion termina con HP:2989
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:359/371 BP:5
+B-Cyrus - HP:3057/3557 SP:552/582 BP:1
+C-Therion - HP:2989/4447 SP:328/332 BP:0
+Equipo del enemigo
+A-Horse Fly - HP:2128/2857 Shields:1
+B-Frost Bear - HP:982/1197 Shields:3
+C-Mattias? - HP:5646/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Cyrus
+3.Mattias?
+4.Horse Fly
+5.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Horse Fly - HP:2128/2857 Shields:1
+2: Frost Bear - HP:982/1197 Shields:3
+3: Mattias? - HP:5646/5780 Shields:4
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Horse Fly recibe 252 de daño de tipo Bow con debilidad
+Horse Fly entra en Breaking Point
+Horse Fly termina con HP:1876
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:359/371 BP:5
+B-Cyrus - HP:3057/3557 SP:552/582 BP:1
+C-Therion - HP:2989/4447 SP:328/332 BP:0
+Equipo del enemigo
+A-Horse Fly - HP:1876/2857 Shields:0
+B-Frost Bear - HP:982/1197 Shields:3
+C-Mattias? - HP:5646/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Mattias?
+3.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+5.Frost Bear
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:359/371 BP:5
+B-Cyrus - HP:3057/3557 SP:552/582 BP:1
+C-Therion - HP:2989/4447 SP:328/332 BP:0
+Equipo del enemigo
+A-Horse Fly - HP:1876/2857 Shields:0
+B-Frost Bear - HP:982/1197 Shields:3
+C-Mattias? - HP:5646/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Therion
+3.Z'aanta
+4.Mattias?
+5.Frost Bear
+----------------------------------------
+Mattias? usa Black Gale
+Z'aanta recibe 712 de daño elemental
+Cyrus se defiende
+Cyrus recibe 307 de daño elemental
+Therion recibe 717 de daño elemental
+Z'aanta termina con HP:2510
+Cyrus termina con HP:2750
+Therion termina con HP:2272
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2510/3222 SP:359/371 BP:5
+B-Cyrus - HP:2750/3557 SP:552/582 BP:1
+C-Therion - HP:2272/4447 SP:328/332 BP:0
+Equipo del enemigo
+A-Horse Fly - HP:1876/2857 Shields:0
+B-Frost Bear - HP:982/1197 Shields:3
+C-Mattias? - HP:5646/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Therion
+3.Z'aanta
+4.Mattias?
+5.Frost Bear
+----------------------------------------
+Frost Bear usa Attack
+Cyrus se defiende
+Cyrus recibe 5 de daño físico
+Cyrus termina con HP:2745
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2832/3222 SP:359/371 BP:5
+B-Cyrus - HP:2745/3557 SP:552/582 BP:2
+C-Therion - HP:2272/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Horse Fly - HP:1876/2857 Shields:0
+B-Frost Bear - HP:982/1197 Shields:3
+C-Mattias? - HP:5646/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Therion
+3.Z'aanta
+4.Mattias?
+5.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Horse Fly
+2.Therion
+3.Z'aanta
+4.Cyrus
+5.Mattias?
+6.Frost Bear
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Horse Fly - HP:1876/2857 Shields:0
+2: Frost Bear - HP:982/1197 Shields:3
+3: Mattias? - HP:5646/5780 Shields:4
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Horse Fly recibe 0 de daño de tipo Stave
+Horse Fly termina con HP:1876
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2832/3222 SP:359/371 BP:5
+B-Cyrus - HP:2745/3557 SP:552/582 BP:2
+C-Therion - HP:2272/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Horse Fly - HP:1876/2857 Shields:0
+B-Frost Bear - HP:982/1197 Shields:3
+C-Mattias? - HP:5646/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Z'aanta
+3.Mattias?
+4.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Horse Fly
+2.Therion
+3.Z'aanta
+4.Cyrus
+5.Mattias?
+6.Frost Bear
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Ethereal Healing
+2: First Aid
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Therion usa First Aid
+Z'aanta recupera 342 de vida
+Cyrus recupera 342 de vida
+Therion recupera 342 de vida
+Z'aanta termina con HP:3174
+Cyrus termina con HP:3087
+Therion termina con HP:2614
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3174/3222 SP:359/371 BP:5
+B-Cyrus - HP:3087/3557 SP:552/582 BP:2
+C-Therion - HP:2614/4447 SP:328/332 BP:0
+Equipo del enemigo
+A-Horse Fly - HP:1876/2857 Shields:0
+B-Frost Bear - HP:982/1197 Shields:3
+C-Mattias? - HP:5646/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Mattias?
+3.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Horse Fly
+2.Therion
+3.Z'aanta
+4.Cyrus
+5.Mattias?
+6.Frost Bear
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3174/3222 SP:359/371 BP:5
+B-Cyrus - HP:3087/3557 SP:552/582 BP:2
+C-Therion - HP:2614/4447 SP:328/332 BP:0
+Equipo del enemigo
+A-Horse Fly - HP:1876/2857 Shields:0
+B-Frost Bear - HP:982/1197 Shields:3
+C-Mattias? - HP:5646/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Horse Fly
+2.Z'aanta
+3.Therion
+4.Cyrus
+5.Mattias?
+6.Frost Bear
+----------------------------------------
+Mattias? usa Black Gale
+Z'aanta se defiende
+Z'aanta recibe 356 de daño elemental
+Cyrus recibe 615 de daño elemental
+Therion recibe 717 de daño elemental
+Z'aanta termina con HP:2818
+Cyrus termina con HP:2472
+Therion termina con HP:1897
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2818/3222 SP:359/371 BP:5
+B-Cyrus - HP:2472/3557 SP:552/582 BP:2
+C-Therion - HP:1897/4447 SP:328/332 BP:0
+Equipo del enemigo
+A-Horse Fly - HP:1876/2857 Shields:0
+B-Frost Bear - HP:982/1197 Shields:3
+C-Mattias? - HP:5646/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Horse Fly
+2.Z'aanta
+3.Therion
+4.Cyrus
+5.Mattias?
+6.Frost Bear
+----------------------------------------
+Frost Bear usa Attack
+Z'aanta se defiende
+Z'aanta recibe 19 de daño físico
+Z'aanta termina con HP:2799
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3121/3222 SP:359/371 BP:5
+B-Cyrus - HP:2472/3557 SP:552/582 BP:3
+C-Therion - HP:1897/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Horse Fly - HP:1876/2857 Shields:2
+B-Frost Bear - HP:982/1197 Shields:3
+C-Mattias? - HP:5646/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Horse Fly
+2.Z'aanta
+3.Therion
+4.Cyrus
+5.Mattias?
+6.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Horse Fly usa Attack
+Z'aanta recibe 201 de daño físico
+Z'aanta termina con HP:2920
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2920/3222 SP:359/371 BP:5
+B-Cyrus - HP:2472/3557 SP:552/582 BP:3
+C-Therion - HP:1897/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Horse Fly - HP:1876/2857 Shields:2
+B-Frost Bear - HP:982/1197 Shields:3
+C-Mattias? - HP:5646/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Therion
+3.Cyrus
+4.Mattias?
+5.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Spearhead
+2: Mercy Strike
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Horse Fly - HP:1876/2857 Shields:2
+2: Frost Bear - HP:982/1197 Shields:3
+3: Mattias? - HP:5646/5780 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Z'aanta usa Mercy Strike
+Mattias? recibe 2814 de daño de tipo Bow
+Mattias? termina con HP:2832
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2920/3222 SP:355/371 BP:2
+B-Cyrus - HP:2472/3557 SP:552/582 BP:3
+C-Therion - HP:1897/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Horse Fly - HP:1876/2857 Shields:2
+B-Frost Bear - HP:982/1197 Shields:3
+C-Mattias? - HP:2832/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Cyrus
+3.Mattias?
+4.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Horse Fly - HP:1876/2857 Shields:2
+2: Frost Bear - HP:982/1197 Shields:3
+3: Mattias? - HP:2832/5780 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Mattias? recibe 0 de daño de tipo Sword con debilidad
+Mattias? termina con HP:2832
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2920/3222 SP:355/371 BP:2
+B-Cyrus - HP:2472/3557 SP:552/582 BP:3
+C-Therion - HP:1897/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Horse Fly - HP:1876/2857 Shields:2
+B-Frost Bear - HP:982/1197 Shields:3
+C-Mattias? - HP:2832/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Mattias?
+3.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Sealticge's Seduction
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Z'aanta - HP:2920/3222 SP:355/371 BP:2
+2: Cyrus - HP:2472/3557 SP:552/582 BP:3
+3: Therion - HP:1897/4447 SP:332/332 BP:1
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Cyrus usa Sealticge's Seduction
+Z'aanta modificará sus targets durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2920/3222 SP:355/371 BP:2
+B-Cyrus - HP:2472/3557 SP:522/582 BP:0
+C-Therion - HP:1897/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Horse Fly - HP:1876/2857 Shields:2
+B-Frost Bear - HP:982/1197 Shields:3
+C-Mattias? - HP:2832/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Mattias? usa Black Gale
+Z'aanta recibe 712 de daño elemental
+Cyrus recibe 615 de daño elemental
+Therion recibe 717 de daño elemental
+Z'aanta termina con HP:2208
+Cyrus termina con HP:1857
+Therion termina con HP:1180
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2208/3222 SP:355/371 BP:2
+B-Cyrus - HP:1857/3557 SP:522/582 BP:0
+C-Therion - HP:1180/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Horse Fly - HP:1876/2857 Shields:2
+B-Frost Bear - HP:982/1197 Shields:3
+C-Mattias? - HP:2832/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Frost Bear usa Attack
+Z'aanta recibe 38 de daño físico
+Z'aanta termina con HP:2170
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2492/3222 SP:355/371 BP:2
+B-Cyrus - HP:1857/3557 SP:522/582 BP:0
+C-Therion - HP:1180/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Horse Fly - HP:1876/2857 Shields:2
+B-Frost Bear - HP:982/1197 Shields:3
+C-Mattias? - HP:2832/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Ethereal Healing
+2: First Aid
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Therion usa Ethereal Healing
+Z'aanta tendrá restauración de HP durante 3 rondas
+Cyrus tendrá restauración de HP durante 3 rondas
+Therion tendrá restauración de HP durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2492/3222 SP:355/371 BP:2
+B-Cyrus - HP:1857/3557 SP:522/582 BP:0
+C-Therion - HP:1624/4447 SP:302/332 BP:1
+Equipo del enemigo
+A-Horse Fly - HP:1876/2857 Shields:2
+B-Frost Bear - HP:982/1197 Shields:3
+C-Mattias? - HP:2832/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Cyrus
+3.Mattias?
+4.Horse Fly
+5.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2814/3222 SP:355/371 BP:2
+B-Cyrus - HP:1857/3557 SP:522/582 BP:0
+C-Therion - HP:1624/4447 SP:302/332 BP:1
+Equipo del enemigo
+A-Horse Fly - HP:1876/2857 Shields:2
+B-Frost Bear - HP:982/1197 Shields:3
+C-Mattias? - HP:2832/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Mattias?
+3.Horse Fly
+4.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Therion
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Horse Fly - HP:1876/2857 Shields:2
+2: Frost Bear - HP:982/1197 Shields:3
+3: Mattias? - HP:2832/5780 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Cyrus ataca
+Mattias? recibe 0 de daño de tipo Stave
+Mattias? termina con HP:2832
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2814/3222 SP:355/371 BP:2
+B-Cyrus - HP:2212/3557 SP:522/582 BP:0
+C-Therion - HP:1624/4447 SP:302/332 BP:1
+Equipo del enemigo
+A-Horse Fly - HP:1876/2857 Shields:2
+B-Frost Bear - HP:982/1197 Shields:3
+C-Mattias? - HP:2832/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Horse Fly
+3.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Therion
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Mattias? usa Black Gale
+Z'aanta se defiende
+Z'aanta recibe 356 de daño elemental
+Cyrus recibe 615 de daño elemental
+Therion recibe 717 de daño elemental
+Z'aanta termina con HP:2458
+Cyrus termina con HP:1597
+Therion termina con HP:907
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2458/3222 SP:355/371 BP:2
+B-Cyrus - HP:1597/3557 SP:522/582 BP:0
+C-Therion - HP:907/4447 SP:302/332 BP:1
+Equipo del enemigo
+A-Horse Fly - HP:1876/2857 Shields:2
+B-Frost Bear - HP:982/1197 Shields:3
+C-Mattias? - HP:2832/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Horse Fly
+2.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Therion
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Horse Fly usa Attack
+Z'aanta se defiende
+Z'aanta recibe 100 de daño físico
+Z'aanta termina con HP:2358
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2358/3222 SP:355/371 BP:2
+B-Cyrus - HP:1597/3557 SP:522/582 BP:0
+C-Therion - HP:907/4447 SP:302/332 BP:1
+Equipo del enemigo
+A-Horse Fly - HP:1876/2857 Shields:2
+B-Frost Bear - HP:982/1197 Shields:3
+C-Mattias? - HP:2832/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Therion
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Frost Bear usa Attack
+Z'aanta se defiende
+Z'aanta recibe 19 de daño físico
+Z'aanta termina con HP:2339
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2661/3222 SP:355/371 BP:3
+B-Cyrus - HP:1597/3557 SP:522/582 BP:1
+C-Therion - HP:907/4447 SP:318/332 BP:1
+Equipo del enemigo
+A-Horse Fly - HP:1876/2857 Shields:2
+B-Frost Bear - HP:982/1197 Shields:3
+C-Mattias? - HP:2832/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Therion
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Spearhead
+2: Mercy Strike
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta usa Mercy Strike
+Horse Fly recibe 430 de daño de tipo Bow con debilidad
+Frost Bear recibe 648 de daño de tipo Bow
+Mattias? recibe 134 de daño de tipo Bow
+Horse Fly termina con HP:1446
+Frost Bear termina con HP:334
+Mattias? termina con HP:2698
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2983/3222 SP:351/371 BP:3
+B-Cyrus - HP:1597/3557 SP:522/582 BP:1
+C-Therion - HP:907/4447 SP:318/332 BP:1
+Equipo del enemigo
+A-Horse Fly - HP:1446/2857 Shields:1
+B-Frost Bear - HP:334/1197 Shields:3
+C-Mattias? - HP:2698/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Cyrus
+3.Mattias?
+4.Horse Fly
+5.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Ethereal Healing
+2: First Aid
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Therion no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Therion usa Ethereal Healing
+Z'aanta tendrá restauración de HP durante 3 rondas
+Cyrus tendrá restauración de HP durante 3 rondas
+Therion tendrá restauración de HP durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2983/3222 SP:351/371 BP:3
+B-Cyrus - HP:1597/3557 SP:522/582 BP:1
+C-Therion - HP:1351/4447 SP:288/332 BP:0
+Equipo del enemigo
+A-Horse Fly - HP:1446/2857 Shields:1
+B-Frost Bear - HP:334/1197 Shields:3
+C-Mattias? - HP:2698/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Mattias?
+3.Horse Fly
+4.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Horse Fly - HP:1446/2857 Shields:1
+2: Frost Bear - HP:334/1197 Shields:3
+3: Mattias? - HP:2698/5780 Shields:4
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Horse Fly recibe 0 de daño de tipo Stave
+Horse Fly termina con HP:1446
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2983/3222 SP:351/371 BP:3
+B-Cyrus - HP:1952/3557 SP:522/582 BP:1
+C-Therion - HP:1351/4447 SP:288/332 BP:0
+Equipo del enemigo
+A-Horse Fly - HP:1446/2857 Shields:1
+B-Frost Bear - HP:334/1197 Shields:3
+C-Mattias? - HP:2698/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Horse Fly
+3.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Mattias? usa Black Gale
+Z'aanta recibe 712 de daño elemental
+Cyrus recibe 615 de daño elemental
+Therion recibe 717 de daño elemental
+Z'aanta termina con HP:2271
+Cyrus termina con HP:1337
+Therion termina con HP:634
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2271/3222 SP:351/371 BP:3
+B-Cyrus - HP:1337/3557 SP:522/582 BP:1
+C-Therion - HP:634/4447 SP:288/332 BP:0
+Equipo del enemigo
+A-Horse Fly - HP:1446/2857 Shields:1
+B-Frost Bear - HP:334/1197 Shields:3
+C-Mattias? - HP:2698/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Horse Fly
+2.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Horse Fly usa Attack
+Z'aanta recibe 201 de daño físico
+Z'aanta termina con HP:2070
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2070/3222 SP:351/371 BP:3
+B-Cyrus - HP:1337/3557 SP:522/582 BP:1
+C-Therion - HP:634/4447 SP:288/332 BP:0
+Equipo del enemigo
+A-Horse Fly - HP:1446/2857 Shields:1
+B-Frost Bear - HP:334/1197 Shields:3
+C-Mattias? - HP:2698/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Frost Bear usa Attack
+Z'aanta recibe 38 de daño físico
+Z'aanta termina con HP:2032
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2354/3222 SP:351/371 BP:4
+B-Cyrus - HP:1337/3557 SP:522/582 BP:2
+C-Therion - HP:634/4447 SP:304/332 BP:0
+Equipo del enemigo
+A-Horse Fly - HP:1446/2857 Shields:1
+B-Frost Bear - HP:334/1197 Shields:3
+C-Mattias? - HP:2698/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2354/3222 SP:351/371 BP:4
+B-Cyrus - HP:1337/3557 SP:522/582 BP:2
+C-Therion - HP:1078/4447 SP:304/332 BP:0
+Equipo del enemigo
+A-Horse Fly - HP:1446/2857 Shields:1
+B-Frost Bear - HP:334/1197 Shields:3
+C-Mattias? - HP:2698/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Cyrus
+3.Mattias?
+4.Horse Fly
+5.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Spearhead
+2: Mercy Strike
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Horse Fly - HP:1446/2857 Shields:1
+2: Frost Bear - HP:334/1197 Shields:3
+3: Mattias? - HP:2698/5780 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta usa Mercy Strike
+Mattias? recibe 134 de daño de tipo Bow
+Mattias? termina con HP:2564
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2676/3222 SP:347/371 BP:4
+B-Cyrus - HP:1337/3557 SP:522/582 BP:2
+C-Therion - HP:1078/4447 SP:304/332 BP:0
+Equipo del enemigo
+A-Horse Fly - HP:1446/2857 Shields:1
+B-Frost Bear - HP:334/1197 Shields:3
+C-Mattias? - HP:2564/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Mattias?
+3.Horse Fly
+4.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2676/3222 SP:347/371 BP:4
+B-Cyrus - HP:1692/3557 SP:522/582 BP:2
+C-Therion - HP:1078/4447 SP:304/332 BP:0
+Equipo del enemigo
+A-Horse Fly - HP:1446/2857 Shields:1
+B-Frost Bear - HP:334/1197 Shields:3
+C-Mattias? - HP:2564/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Horse Fly
+3.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Cyrus
+3.Z'aanta
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Mattias? usa Black Gale
+Z'aanta recibe 712 de daño elemental
+Cyrus se defiende
+Cyrus recibe 307 de daño elemental
+Therion se defiende
+Therion recibe 358 de daño elemental
+Z'aanta termina con HP:1964
+Cyrus termina con HP:1385
+Therion termina con HP:720
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1964/3222 SP:347/371 BP:4
+B-Cyrus - HP:1385/3557 SP:522/582 BP:2
+C-Therion - HP:720/4447 SP:304/332 BP:0
+Equipo del enemigo
+A-Horse Fly - HP:1446/2857 Shields:1
+B-Frost Bear - HP:334/1197 Shields:3
+C-Mattias? - HP:2564/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Horse Fly
+2.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Cyrus
+3.Z'aanta
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Horse Fly usa Attack
+Z'aanta recibe 201 de daño físico
+Z'aanta termina con HP:1763
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1763/3222 SP:347/371 BP:4
+B-Cyrus - HP:1385/3557 SP:522/582 BP:2
+C-Therion - HP:720/4447 SP:304/332 BP:0
+Equipo del enemigo
+A-Horse Fly - HP:1446/2857 Shields:1
+B-Frost Bear - HP:334/1197 Shields:3
+C-Mattias? - HP:2564/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Cyrus
+3.Z'aanta
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Frost Bear usa Attack
+Z'aanta recibe 38 de daño físico
+Z'aanta termina con HP:1725
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2047/3222 SP:347/371 BP:5
+B-Cyrus - HP:1385/3557 SP:522/582 BP:3
+C-Therion - HP:720/4447 SP:320/332 BP:1
+Equipo del enemigo
+A-Horse Fly - HP:1446/2857 Shields:1
+B-Frost Bear - HP:334/1197 Shields:3
+C-Mattias? - HP:2564/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Cyrus
+3.Z'aanta
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+6.Frost Bear
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Horse Fly - HP:1446/2857 Shields:1
+2: Frost Bear - HP:334/1197 Shields:3
+3: Mattias? - HP:2564/5780 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Frost Bear recibe 492 de daño de tipo Sword
+Frost Bear termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2047/3222 SP:347/371 BP:5
+B-Cyrus - HP:1385/3557 SP:522/582 BP:3
+C-Therion - HP:1164/4447 SP:320/332 BP:1
+Equipo del enemigo
+A-Horse Fly - HP:1446/2857 Shields:1
+B-Frost Bear - HP:0/1197 Shields:3
+C-Mattias? - HP:2564/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Z'aanta
+3.Mattias?
+4.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Sealticge's Seduction
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Z'aanta - HP:2047/3222 SP:347/371 BP:5
+2: Cyrus - HP:1385/3557 SP:522/582 BP:3
+3: Therion - HP:1164/4447 SP:320/332 BP:1
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Cyrus usa Sealticge's Seduction
+Cyrus modificará sus targets durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2047/3222 SP:347/371 BP:5
+B-Cyrus - HP:1740/3557 SP:492/582 BP:0
+C-Therion - HP:1164/4447 SP:320/332 BP:1
+Equipo del enemigo
+A-Horse Fly - HP:1446/2857 Shields:1
+B-Frost Bear - HP:0/1197 Shields:3
+C-Mattias? - HP:2564/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Mattias?
+3.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+5.Horse Fly
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Spearhead
+2: Mercy Strike
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Horse Fly - HP:1446/2857 Shields:1
+2: Mattias? - HP:2564/5780 Shields:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Z'aanta usa Spearhead
+Horse Fly recibe 4450 de daño de tipo Spear con debilidad
+Horse Fly entra en Breaking Point
+Horse Fly termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2369/3222 SP:341/371 BP:2
+B-Cyrus - HP:1740/3557 SP:492/582 BP:0
+C-Therion - HP:1164/4447 SP:320/332 BP:1
+Equipo del enemigo
+A-Horse Fly - HP:0/2857 Shields:0
+B-Frost Bear - HP:0/1197 Shields:3
+C-Mattias? - HP:2564/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Therion
+3.Cyrus
+4.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Z'aanta recibe 712 de daño elemental
+Cyrus recibe 615 de daño elemental
+Therion recibe 717 de daño elemental
+Z'aanta termina con HP:1657
+Cyrus termina con HP:1125
+Therion termina con HP:447
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1979/3222 SP:341/371 BP:2
+B-Cyrus - HP:1125/3557 SP:492/582 BP:0
+C-Therion - HP:447/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Horse Fly - HP:0/2857 Shields:0
+B-Frost Bear - HP:0/1197 Shields:3
+C-Mattias? - HP:2564/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Therion
+3.Cyrus
+4.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2301/3222 SP:341/371 BP:2
+B-Cyrus - HP:1125/3557 SP:492/582 BP:0
+C-Therion - HP:447/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Horse Fly - HP:0/2857 Shields:0
+B-Frost Bear - HP:0/1197 Shields:3
+C-Mattias? - HP:2564/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Cyrus
+3.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Therion
+3.Cyrus
+4.Mattias?
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2301/3222 SP:341/371 BP:2
+B-Cyrus - HP:1125/3557 SP:492/582 BP:0
+C-Therion - HP:891/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Horse Fly - HP:0/2857 Shields:0
+B-Frost Bear - HP:0/1197 Shields:3
+C-Mattias? - HP:2564/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2301/3222 SP:341/371 BP:2
+B-Cyrus - HP:1480/3557 SP:492/582 BP:0
+C-Therion - HP:891/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Horse Fly - HP:0/2857 Shields:0
+B-Frost Bear - HP:0/1197 Shields:3
+C-Mattias? - HP:2564/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Z'aanta se defiende
+Z'aanta recibe 356 de daño elemental
+Cyrus se defiende
+Cyrus recibe 307 de daño elemental
+Therion se defiende
+Therion recibe 358 de daño elemental
+Z'aanta termina con HP:1945
+Cyrus termina con HP:1173
+Therion termina con HP:533
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2267/3222 SP:341/371 BP:3
+B-Cyrus - HP:1173/3557 SP:492/582 BP:1
+C-Therion - HP:533/4447 SP:332/332 BP:3
+Equipo del enemigo
+A-Horse Fly - HP:0/2857 Shields:0
+B-Frost Bear - HP:0/1197 Shields:3
+C-Mattias? - HP:2564/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Cyrus
+4.Mattias?
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Ethereal Healing
+2: Brand's Thunder
+3: Draefendi's Rage
+4: First Aid
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Mattias? - HP:2564/5780 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Therion usa Brand's Thunder
+Mattias? recibe 4815 de daño de tipo Sword con debilidad
+Mattias? termina con HP:0
+----------------------------------------
+Gana equipo del jugador

@@ -13,7 +13,7 @@ public sealed class BattleActionView
         _view = view;
     }
 
-    public void PrintTravelerBasicAttack(TravelerBasicAttack attack)
+    public void WriteTravelerBasicAttack(TravelerBasicAttack attack)
     {
         _view.WriteLine(SeparatorLine);
         _view.WriteLine($"{attack.AttackerName} ataca");
@@ -28,15 +28,15 @@ public sealed class BattleActionView
         _view.WriteLine($"{attack.TargetName} termina con HP:{attack.TargetCurrentHp}");
     }
 
-    public void PrintTravelerSkill(TravelerSkillAction action)
+    public void WriteTravelerSkill(TravelerSkillAction action)
     {
         _view.WriteLine(SeparatorLine);
         _view.WriteLine($"{action.TravelerName} usa {action.SkillName}");
         foreach (TravelerSkillResult result in action.Results)
-            PrintTravelerSkillResult(result);
+            WriteTravelerSkillResult(result);
     }
 
-    private void PrintTravelerSkillResult(TravelerSkillResult result)
+    private void WriteTravelerSkillResult(TravelerSkillResult result)
     {
         string resultLine = BuildTravelerSkillResultLine(result);
         _view.WriteLine(resultLine);
@@ -52,9 +52,16 @@ public sealed class BattleActionView
                 $"{hpSummaryResult.TargetName} termina con HP:{hpSummaryResult.CurrentHp}",
             TravelerSkillHealingResult healingResult =>
                 $"{healingResult.TargetName} recupera {healingResult.HealedValue} de vida",
+            TravelerSkillSpRecoveryResult spRecoveryResult =>
+                $"{spRecoveryResult.TargetName} recupera {spRecoveryResult.RecoveredSp} SP",
             TravelerSkillReviveResult reviveResult => $"{reviveResult.TargetName} revive",
             TravelerSkillPriorityChangeResult priorityChangeResult =>
                 $"{priorityChangeResult.TargetName} tendr\u00e1 menor prioridad de turno durante {priorityChangeResult.DurationRounds} rondas",
+            TravelerSkillStatusEffectResult statusEffectResult =>
+                BuildStatusEffectLine(
+                    statusEffectResult.TargetName,
+                    statusEffectResult.StatusEffectKind,
+                    statusEffectResult.DurationRounds),
             _ => throw new InvalidOperationException("Unsupported traveler skill result.")
         };
 
@@ -64,15 +71,15 @@ public sealed class BattleActionView
         return $"{damageResult.TargetName} recibe {damageResult.Damage} de da\u00f1o de tipo {damageResult.DamageType}{weaknessSuffix}";
     }
 
-    public void PrintBeastAttack(BeastAttack attack)
+    public void WriteBeastAttack(BeastAttack attack)
     {
         _view.WriteLine(SeparatorLine);
         _view.WriteLine($"{attack.AttackerName} usa {attack.SkillName}");
         foreach (BeastAttackResult result in attack.Results)
-            PrintBeastAttackResult(result);
+            WriteBeastAttackResult(result);
     }
 
-    private void PrintBeastAttackResult(BeastAttackResult result)
+    private void WriteBeastAttackResult(BeastAttackResult result)
     {
         string resultLine = BuildBeastAttackResultLine(result);
         _view.WriteLine(resultLine);
@@ -85,6 +92,11 @@ public sealed class BattleActionView
             BeastAttackDamageResult damageResult => BuildBeastDamageLine(damageResult),
             BeastAttackHpSummaryResult hpSummaryResult =>
                 $"{hpSummaryResult.TargetName} termina con HP:{hpSummaryResult.CurrentHp}",
+            BeastAttackStatusEffectResult statusEffectResult =>
+                BuildStatusEffectLine(
+                    statusEffectResult.TargetName,
+                    statusEffectResult.StatusEffectKind,
+                    statusEffectResult.DurationRounds),
             _ => throw new InvalidOperationException("Unsupported beast attack result.")
         };
 
@@ -98,7 +110,27 @@ public sealed class BattleActionView
             _ => $"{damageResult.TargetName} recibe {damageResult.Damage} de da\u00f1o"
         };
 
-    public void PrintPatienceExtraTurn(string travelerName)
+    private static string BuildStatusEffectLine(
+        string targetName,
+        UnitStatusEffectKind statusEffectKind,
+        int durationRounds)
+        => $"{targetName} tendr\u00e1 {FormatStatusEffect(statusEffectKind)} durante {durationRounds} rondas";
+
+    private static string FormatStatusEffect(UnitStatusEffectKind statusEffectKind)
+        => statusEffectKind switch
+        {
+            UnitStatusEffectKind.IncreasedPhysicalAttack => "Increased Physical Attack",
+            UnitStatusEffectKind.IncreasedPhysicalDefense => "Increased Physical Defense",
+            UnitStatusEffectKind.IncreasedElementalAttack => "Increased Elemental Attack",
+            UnitStatusEffectKind.IncreasedElementalDefense => "Increased Elemental Defense",
+            UnitStatusEffectKind.IncreasedSpeed => "Increased Speed",
+            UnitStatusEffectKind.DecreasedPhysicalAttack => "Decreased Physical Attack",
+            UnitStatusEffectKind.DecreasedPhysicalDefense => "Decreased Physical Defense",
+            UnitStatusEffectKind.DecreasedElementalDefense => "Decreased Elemental Defense",
+            _ => throw new InvalidOperationException("Unsupported status effect.")
+        };
+
+    public void WritePatienceExtraTurn(string travelerName)
     {
         _view.WriteLine(SeparatorLine);
         _view.WriteLine($"{travelerName} obtiene un turno adicional");

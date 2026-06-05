@@ -1,0 +1,886 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+INPUT: 2
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-H'aanit - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+4.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+4.Devourer of Dreams
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Meep - HP:1016/1016 Shields:2
+2: Devourer of Dreams - HP:7500/7500 Shields:10
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Meep recibe 72 de daño de tipo Axe
+Meep termina con HP:944
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-H'aanit - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Meep - HP:944/1016 Shields:2
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Meep
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+4.Devourer of Dreams
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Meep - HP:944/1016 Shields:2
+2: Devourer of Dreams - HP:7500/7500 Shields:10
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Meep recibe 0 de daño de tipo Stave con debilidad
+Meep termina con HP:944
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-H'aanit - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Meep - HP:944/1016 Shields:2
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+4.Devourer of Dreams
+----------------------------------------
+Meep usa Attack
+H'aanit recibe 287 de daño físico
+H'aanit termina con HP:4160
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-H'aanit - HP:4160/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Meep - HP:944/1016 Shields:2
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+4.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Ophilia recibe 2001 de daño
+H'aanit recibe 2080 de daño
+Ophilia termina con HP:2001
+H'aanit termina con HP:2080
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2001/4002 SP:470/470 BP:2
+B-H'aanit - HP:2080/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Meep - HP:944/1016 Shields:2
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+4.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+4.Devourer of Dreams
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Meep - HP:944/1016 Shields:2
+2: Devourer of Dreams - HP:7500/7500 Shields:10
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Meep recibe 72 de daño de tipo Axe
+Meep termina con HP:872
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2001/4002 SP:470/470 BP:2
+B-H'aanit - HP:2080/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Meep - HP:872/1016 Shields:2
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Meep
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+4.Devourer of Dreams
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Ethereal Healing
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Ophilia usa Ethereal Healing
+H'aanit tendrá restauración de HP durante 4 rondas
+Ophilia tendrá restauración de HP durante 4 rondas
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2401/4002 SP:440/470 BP:0
+B-H'aanit - HP:2080/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Meep - HP:872/1016 Shields:2
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+4.Devourer of Dreams
+----------------------------------------
+Meep usa Attack
+Ophilia recibe 226 de daño físico
+Ophilia termina con HP:2175
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2175/4002 SP:440/470 BP:0
+B-H'aanit - HP:2080/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Meep - HP:872/1016 Shields:2
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+4.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Ophilia recibe 1088 de daño
+H'aanit recibe 1040 de daño
+Ophilia termina con HP:1087
+H'aanit termina con HP:1040
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1087/4002 SP:440/470 BP:0
+B-H'aanit - HP:1040/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Meep - HP:872/1016 Shields:2
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+4.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+4.Devourer of Dreams
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Meep - HP:872/1016 Shields:2
+2: Devourer of Dreams - HP:7500/7500 Shields:10
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Meep recibe 72 de daño de tipo Axe
+Meep termina con HP:800
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1087/4002 SP:440/470 BP:0
+B-H'aanit - HP:1484/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Meep - HP:800/1016 Shields:2
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Meep
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+4.Devourer of Dreams
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Meep - HP:800/1016 Shields:2
+2: Devourer of Dreams - HP:7500/7500 Shields:10
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Ophilia ataca
+Meep recibe 0 de daño de tipo Stave con debilidad
+Meep termina con HP:800
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1487/4002 SP:440/470 BP:0
+B-H'aanit - HP:1484/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Meep - HP:800/1016 Shields:2
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+4.Devourer of Dreams
+----------------------------------------
+Meep usa Attack
+Ophilia recibe 226 de daño físico
+Ophilia termina con HP:1261
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1261/4002 SP:440/470 BP:0
+B-H'aanit - HP:1484/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Meep - HP:800/1016 Shields:2
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+4.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Ophilia recibe 631 de daño
+H'aanit recibe 742 de daño
+Ophilia termina con HP:630
+H'aanit termina con HP:742
+----------------------------------------
+Ophilia obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:630/4002 SP:440/470 BP:0
+B-H'aanit - HP:742/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Meep - HP:800/1016 Shields:2
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+4.Devourer of Dreams
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Meep - HP:800/1016 Shields:2
+2: Devourer of Dreams - HP:7500/7500 Shields:10
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Ophilia ataca
+Meep recibe 0 de daño de tipo Stave con debilidad
+Meep termina con HP:800
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1030/4002 SP:440/470 BP:1
+B-H'aanit - HP:742/4447 SP:369/369 BP:4
+Equipo del enemigo
+A-Meep - HP:800/1016 Shields:2
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+4.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+4.Devourer of Dreams
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Meep - HP:800/1016 Shields:2
+2: Devourer of Dreams - HP:7500/7500 Shields:10
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Meep recibe 72 de daño de tipo Axe
+Meep termina con HP:728
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1030/4002 SP:440/470 BP:1
+B-H'aanit - HP:1186/4447 SP:369/369 BP:4
+Equipo del enemigo
+A-Meep - HP:728/1016 Shields:2
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Meep
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+4.Devourer of Dreams
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Meep - HP:728/1016 Shields:2
+2: Devourer of Dreams - HP:7500/7500 Shields:10
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Meep recibe 0 de daño de tipo Stave con debilidad
+Meep termina con HP:728
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1430/4002 SP:440/470 BP:1
+B-H'aanit - HP:1186/4447 SP:369/369 BP:4
+Equipo del enemigo
+A-Meep - HP:728/1016 Shields:2
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+4.Devourer of Dreams
+----------------------------------------
+Meep usa Attack
+Ophilia recibe 226 de daño físico
+Ophilia termina con HP:1204
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1204/4002 SP:440/470 BP:1
+B-H'aanit - HP:1186/4447 SP:369/369 BP:4
+Equipo del enemigo
+A-Meep - HP:728/1016 Shields:2
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+4.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Ophilia recibe 602 de daño
+H'aanit recibe 593 de daño
+Ophilia termina con HP:602
+H'aanit termina con HP:593
+----------------------------------------
+Ophilia obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:602/4002 SP:440/470 BP:1
+B-H'aanit - HP:593/4447 SP:369/369 BP:4
+Equipo del enemigo
+A-Meep - HP:728/1016 Shields:2
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+4.Devourer of Dreams
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Meep - HP:728/1016 Shields:2
+2: Devourer of Dreams - HP:7500/7500 Shields:10
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Meep recibe 0 de daño de tipo Stave con debilidad
+Meep termina con HP:728
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1002/4002 SP:440/470 BP:2
+B-H'aanit - HP:593/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Meep - HP:728/1016 Shields:2
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+4.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Meep
+4.Devourer of Dreams
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Meep - HP:728/1016 Shields:2
+2: Devourer of Dreams - HP:7500/7500 Shields:10
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+H'aanit ataca
+Meep recibe 108 de daño de tipo Bow con debilidad
+Meep recibe 108 de daño de tipo Bow con debilidad
+Meep entra en Breaking Point
+Meep recibe 144 de daño de tipo Bow con debilidad
+Meep recibe 144 de daño de tipo Bow con debilidad
+Meep termina con HP:224
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1002/4002 SP:440/470 BP:2
+B-H'aanit - HP:1037/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Meep - HP:224/1016 Shields:0
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Devourer of Dreams
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Meep - HP:224/1016 Shields:0
+2: Devourer of Dreams - HP:7500/7500 Shields:10
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Meep recibe 0 de daño de tipo Stave con debilidad
+Meep termina con HP:224
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1402/4002 SP:440/470 BP:2
+B-H'aanit - HP:1037/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Meep - HP:224/1016 Shields:0
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Ophilia recibe 701 de daño
+H'aanit recibe 519 de daño
+Ophilia termina con HP:701
+H'aanit termina con HP:518
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:701/4002 SP:440/470 BP:3
+B-H'aanit - HP:518/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Meep - HP:224/1016 Shields:0
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Ophilia
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Meep
+2.H'aanit
+3.Ophilia
+4.Devourer of Dreams
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Meep - HP:224/1016 Shields:0
+2: Devourer of Dreams - HP:7500/7500 Shields:10
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+H'aanit ataca
+Meep recibe 144 de daño de tipo Bow con debilidad
+Meep recibe 144 de daño de tipo Bow con debilidad
+Meep recibe 144 de daño de tipo Bow con debilidad
+Meep termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:701/4002 SP:440/470 BP:3
+B-H'aanit - HP:518/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:0
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Devourer of Dreams
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Devourer of Dreams - HP:7500/7500 Shields:10
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Devourer of Dreams recibe 0 de daño de tipo Stave
+Devourer of Dreams termina con HP:7500
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:701/4002 SP:440/470 BP:3
+B-H'aanit - HP:518/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:0
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Ophilia recibe 351 de daño
+H'aanit recibe 259 de daño
+Ophilia termina con HP:350
+H'aanit termina con HP:259
+----------------------------------------
+Ophilia obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:350/4002 SP:440/470 BP:3
+B-H'aanit - HP:259/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:0
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Devourer of Dreams
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo

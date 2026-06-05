@@ -1,0 +1,515 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+INPUT: 6
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Red Fox - HP:1451/1451 Shields:3
+C-Frost Bear - HP:1197/1197 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Meep
+3.Red Fox
+4.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Meep
+3.Red Fox
+4.Frost Bear
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Meep - HP:1016/1016 Shields:2
+2: Red Fox - HP:1451/1451 Shields:3
+3: Frost Bear - HP:1197/1197 Shields:3
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Red Fox recibe 371 de daño de tipo Dagger con debilidad
+Red Fox termina con HP:1080
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Red Fox - HP:1080/1451 Shields:2
+C-Frost Bear - HP:1197/1197 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Red Fox
+3.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Meep
+3.Red Fox
+4.Frost Bear
+----------------------------------------
+Meep usa Attack
+Therion recibe 263 de daño físico
+Therion termina con HP:4184
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4184/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Red Fox - HP:1080/1451 Shields:2
+C-Frost Bear - HP:1197/1197 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+2.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Meep
+3.Red Fox
+4.Frost Bear
+----------------------------------------
+Red Fox usa Attack
+Therion recibe 188 de daño físico
+Therion termina con HP:3996
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3996/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Red Fox - HP:1080/1451 Shields:2
+C-Frost Bear - HP:1197/1197 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Meep
+3.Red Fox
+4.Frost Bear
+----------------------------------------
+Frost Bear usa Attack
+Therion recibe 41 de daño físico
+Therion termina con HP:3955
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3955/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Red Fox - HP:1080/1451 Shields:2
+C-Frost Bear - HP:1197/1197 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Meep
+3.Red Fox
+4.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Meep
+3.Red Fox
+4.Frost Bear
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Meep - HP:1016/1016 Shields:2
+2: Red Fox - HP:1080/1451 Shields:2
+3: Frost Bear - HP:1197/1197 Shields:3
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Red Fox recibe 371 de daño de tipo Dagger con debilidad
+Red Fox termina con HP:709
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3955/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Red Fox - HP:709/1451 Shields:1
+C-Frost Bear - HP:1197/1197 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Red Fox
+3.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Meep
+3.Red Fox
+4.Frost Bear
+----------------------------------------
+Meep usa Attack
+Therion recibe 263 de daño físico
+Therion termina con HP:3692
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3692/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Red Fox - HP:709/1451 Shields:1
+C-Frost Bear - HP:1197/1197 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+2.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Meep
+3.Red Fox
+4.Frost Bear
+----------------------------------------
+Red Fox usa Attack
+Therion recibe 188 de daño físico
+Therion termina con HP:3504
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3504/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Red Fox - HP:709/1451 Shields:1
+C-Frost Bear - HP:1197/1197 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Meep
+3.Red Fox
+4.Frost Bear
+----------------------------------------
+Frost Bear usa Attack
+Therion recibe 41 de daño físico
+Therion termina con HP:3463
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3463/4447 SP:332/332 BP:3
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Red Fox - HP:709/1451 Shields:1
+C-Frost Bear - HP:1197/1197 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Meep
+3.Red Fox
+4.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Meep
+3.Red Fox
+4.Frost Bear
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Steal SP
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Meep - HP:1016/1016 Shields:2
+2: Red Fox - HP:709/1451 Shields:1
+3: Frost Bear - HP:1197/1197 Shields:3
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Therion usa Steal SP
+Red Fox recibe 2446 de daño de tipo Dagger con debilidad
+Red Fox entra en Breaking Point
+Red Fox recibe 3261 de daño de tipo Dagger con debilidad
+Therion recupera 285 SP
+Red Fox termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3463/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Red Fox - HP:0/1451 Shields:0
+C-Frost Bear - HP:1197/1197 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Meep
+3.Frost Bear
+----------------------------------------
+Meep usa Attack
+Therion recibe 263 de daño físico
+Therion termina con HP:3200
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3200/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Red Fox - HP:0/1451 Shields:0
+C-Frost Bear - HP:1197/1197 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Meep
+3.Frost Bear
+----------------------------------------
+Frost Bear usa Attack
+Therion recibe 41 de daño físico
+Therion termina con HP:3159
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3159/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Red Fox - HP:0/1451 Shields:0
+C-Frost Bear - HP:1197/1197 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Meep
+3.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Meep
+3.Frost Bear
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Steal SP
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Meep - HP:1016/1016 Shields:2
+2: Frost Bear - HP:1197/1197 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Therion usa Steal SP
+Frost Bear recibe 441 de daño de tipo Dagger
+Frost Bear recibe 441 de daño de tipo Dagger
+Therion recupera 44 SP
+Frost Bear termina con HP:315
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3159/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Red Fox - HP:0/1451 Shields:0
+C-Frost Bear - HP:315/1197 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Meep
+3.Frost Bear
+----------------------------------------
+Meep usa Attack
+Therion recibe 263 de daño físico
+Therion termina con HP:2896
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2896/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Red Fox - HP:0/1451 Shields:0
+C-Frost Bear - HP:315/1197 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Meep
+3.Frost Bear
+----------------------------------------
+Frost Bear usa Attack
+Therion recibe 41 de daño físico
+Therion termina con HP:2855
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2855/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Red Fox - HP:0/1451 Shields:0
+C-Frost Bear - HP:315/1197 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Meep
+3.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Meep
+3.Frost Bear
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Steal SP
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Meep - HP:1016/1016 Shields:2
+2: Frost Bear - HP:315/1197 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Therion usa Steal SP
+Meep recibe 596 de daño de tipo Dagger
+Meep recibe 596 de daño de tipo Dagger
+Therion recupera 59 SP
+Meep termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2855/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:2
+B-Red Fox - HP:0/1451 Shields:0
+C-Frost Bear - HP:315/1197 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Frost Bear
+----------------------------------------
+Frost Bear usa Attack
+Therion recibe 41 de daño físico
+Therion termina con HP:2814
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2814/4447 SP:332/332 BP:0
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:2
+B-Red Fox - HP:0/1451 Shields:0
+C-Frost Bear - HP:315/1197 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Frost Bear
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo

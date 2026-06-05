@@ -1,0 +1,941 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+INPUT: 65
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:2
+B-Heatcore - HP:2822/2822 SP:342/342 BP:1
+C-Olberic - HP:5781/5781 SP:291/291 BP:1
+D-Castti - HP:5336/5336 SP:476/476 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Blood Remnant - HP:2779/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Primrose
+3.Castti
+4.Olberic
+5.Blood Remnant
+6.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Castti
+4.Olberic
+5.Blood Remnant
+6.Armor Eater
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Armor Eater - HP:1594/1594 Shields:4
+2: Blood Remnant - HP:2779/2779 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Heatcore no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Heatcore no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Heatcore ataca
+Blood Remnant recibe 247 de daño de tipo Bow
+Blood Remnant recibe 247 de daño de tipo Bow
+Blood Remnant termina con HP:2285
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:2
+B-Heatcore - HP:2822/2822 SP:342/342 BP:0
+C-Olberic - HP:5781/5781 SP:291/291 BP:1
+D-Castti - HP:5336/5336 SP:476/476 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Blood Remnant - HP:2285/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Castti
+3.Olberic
+4.Blood Remnant
+5.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Castti
+4.Olberic
+5.Blood Remnant
+6.Armor Eater
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Sheltering Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Primrose - HP:4002/4002 SP:504/504 BP:2
+2: Heatcore - HP:2822/2822 SP:342/342 BP:0
+3: Olberic - HP:5781/5781 SP:291/291 BP:1
+4: Castti - HP:5336/5336 SP:476/476 BP:1
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Primrose usa Sheltering Veil
+Olberic tendrá Increased Elemental Defense durante 4 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:498/504 BP:1
+B-Heatcore - HP:2822/2822 SP:342/342 BP:0
+C-Olberic - HP:5781/5781 SP:291/291 BP:1
+D-Castti - HP:5336/5336 SP:476/476 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Blood Remnant - HP:2285/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Olberic
+3.Blood Remnant
+4.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Castti
+4.Olberic
+5.Blood Remnant
+6.Armor Eater
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Starsong
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Primrose - HP:4002/4002 SP:498/504 BP:1
+2: Heatcore - HP:2822/2822 SP:342/342 BP:0
+3: Olberic - HP:5781/5781 SP:291/291 BP:1
+4: Castti - HP:5336/5336 SP:476/476 BP:1
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Starsong
+Primrose tendrá Increased Physical Defense durante 2 rondas
+Primrose tendrá Increased Elemental Defense durante 2 rondas
+Primrose tendrá Increased Speed durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:498/504 BP:1
+B-Heatcore - HP:2822/2822 SP:342/342 BP:0
+C-Olberic - HP:5781/5781 SP:291/291 BP:1
+D-Castti - HP:5336/5336 SP:451/476 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Blood Remnant - HP:2285/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Blood Remnant
+3.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Heatcore
+3.Castti
+4.Olberic
+5.Blood Remnant
+6.Armor Eater
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:498/504 BP:1
+B-Heatcore - HP:2822/2822 SP:342/342 BP:0
+C-Olberic - HP:5781/5781 SP:291/291 BP:1
+D-Castti - HP:5336/5336 SP:451/476 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Blood Remnant - HP:2285/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Blood Remnant
+2.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Primrose
+3.Heatcore
+4.Castti
+5.Blood Remnant
+6.Armor Eater
+----------------------------------------
+Blood Remnant usa Double Bite
+Primrose recibe 30 de daño físico
+Primrose recibe 30 de daño físico
+Primrose termina con HP:3942
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3942/4002 SP:498/504 BP:1
+B-Heatcore - HP:2822/2822 SP:342/342 BP:0
+C-Olberic - HP:5781/5781 SP:291/291 BP:1
+D-Castti - HP:5336/5336 SP:451/476 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Blood Remnant - HP:2285/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Primrose
+3.Heatcore
+4.Castti
+5.Blood Remnant
+6.Armor Eater
+----------------------------------------
+Armor Eater usa Consume Armor
+Castti tendrá Decreased Physical Defense durante 2 rondas
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3942/4002 SP:498/504 BP:1
+B-Heatcore - HP:2822/2822 SP:342/342 BP:0
+C-Olberic - HP:5781/5781 SP:291/291 BP:2
+D-Castti - HP:5336/5336 SP:451/476 BP:2
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Blood Remnant - HP:2285/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Primrose
+3.Heatcore
+4.Castti
+5.Blood Remnant
+6.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Castti
+4.Olberic
+5.Blood Remnant
+6.Armor Eater
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3942/4002 SP:498/504 BP:1
+B-Heatcore - HP:2822/2822 SP:342/342 BP:0
+C-Olberic - HP:5781/5781 SP:291/291 BP:2
+D-Castti - HP:5336/5336 SP:451/476 BP:2
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Blood Remnant - HP:2285/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Heatcore
+3.Castti
+4.Blood Remnant
+5.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Heatcore
+3.Primrose
+4.Castti
+5.Blood Remnant
+6.Armor Eater
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Armor Eater - HP:1594/1594 Shields:4
+2: Blood Remnant - HP:2285/2779 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Primrose no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Primrose no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Primrose no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Primrose no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Blood Remnant recibe 107 de daño de tipo Dagger
+Blood Remnant termina con HP:2178
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3942/4002 SP:498/504 BP:1
+B-Heatcore - HP:2822/2822 SP:342/342 BP:0
+C-Olberic - HP:5781/5781 SP:291/291 BP:2
+D-Castti - HP:5336/5336 SP:451/476 BP:2
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Blood Remnant - HP:2178/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Castti
+3.Blood Remnant
+4.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Heatcore
+3.Primrose
+4.Castti
+5.Blood Remnant
+6.Armor Eater
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Shackle Foe
+2: Panther Dance
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Primrose - HP:3942/4002 SP:498/504 BP:1
+2: Heatcore - HP:2822/2822 SP:342/342 BP:0
+3: Olberic - HP:5781/5781 SP:291/291 BP:2
+4: Castti - HP:5336/5336 SP:451/476 BP:2
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Heatcore usa Panther Dance
+Castti tendrá Increased Speed durante 4 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3942/4002 SP:498/504 BP:1
+B-Heatcore - HP:2822/2822 SP:338/342 BP:0
+C-Olberic - HP:5781/5781 SP:291/291 BP:2
+D-Castti - HP:5336/5336 SP:451/476 BP:2
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Blood Remnant - HP:2178/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Blood Remnant
+3.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Heatcore
+3.Castti
+4.Primrose
+5.Blood Remnant
+6.Armor Eater
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Armor Eater - HP:1594/1594 Shields:4
+2: Blood Remnant - HP:2178/2779 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti ataca
+Armor Eater recibe 349 de daño de tipo Axe con debilidad
+Armor Eater recibe 349 de daño de tipo Axe con debilidad
+Armor Eater termina con HP:896
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3942/4002 SP:498/504 BP:1
+B-Heatcore - HP:2822/2822 SP:338/342 BP:0
+C-Olberic - HP:5781/5781 SP:291/291 BP:2
+D-Castti - HP:5336/5336 SP:451/476 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:896/1594 Shields:2
+B-Blood Remnant - HP:2178/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Blood Remnant
+2.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Heatcore
+3.Castti
+4.Primrose
+5.Blood Remnant
+6.Armor Eater
+----------------------------------------
+Blood Remnant usa Double Bite
+Primrose recibe 30 de daño físico
+Primrose recibe 30 de daño físico
+Primrose termina con HP:3882
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3882/4002 SP:498/504 BP:1
+B-Heatcore - HP:2822/2822 SP:338/342 BP:0
+C-Olberic - HP:5781/5781 SP:291/291 BP:2
+D-Castti - HP:5336/5336 SP:451/476 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:896/1594 Shields:2
+B-Blood Remnant - HP:2178/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Heatcore
+3.Castti
+4.Primrose
+5.Blood Remnant
+6.Armor Eater
+----------------------------------------
+Armor Eater usa Consume Armor
+Castti tendrá Decreased Physical Defense durante 2 rondas
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3882/4002 SP:498/504 BP:2
+B-Heatcore - HP:2822/2822 SP:338/342 BP:1
+C-Olberic - HP:5781/5781 SP:291/291 BP:3
+D-Castti - HP:5336/5336 SP:451/476 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:896/1594 Shields:2
+B-Blood Remnant - HP:2178/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Heatcore
+3.Castti
+4.Primrose
+5.Blood Remnant
+6.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Castti
+3.Primrose
+4.Olberic
+5.Blood Remnant
+6.Armor Eater
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3882/4002 SP:498/504 BP:2
+B-Heatcore - HP:2822/2822 SP:338/342 BP:1
+C-Olberic - HP:5781/5781 SP:291/291 BP:3
+D-Castti - HP:5336/5336 SP:451/476 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:896/1594 Shields:2
+B-Blood Remnant - HP:2178/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Castti
+3.Primrose
+4.Blood Remnant
+5.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Heatcore
+3.Castti
+4.Primrose
+5.Blood Remnant
+6.Armor Eater
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Shackle Foe
+2: Panther Dance
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Armor Eater - HP:896/1594 Shields:2
+2: Blood Remnant - HP:2178/2779 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Heatcore no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Heatcore no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Heatcore no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Heatcore usa Shackle Foe
+Armor Eater tendrá Decreased Physical Attack durante 4 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3882/4002 SP:498/504 BP:2
+B-Heatcore - HP:2822/2822 SP:334/342 BP:0
+C-Olberic - HP:5781/5781 SP:291/291 BP:3
+D-Castti - HP:5336/5336 SP:451/476 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:896/1594 Shields:2
+B-Blood Remnant - HP:2178/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Primrose
+3.Blood Remnant
+4.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Heatcore
+3.Castti
+4.Primrose
+5.Blood Remnant
+6.Armor Eater
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3882/4002 SP:498/504 BP:2
+B-Heatcore - HP:2822/2822 SP:334/342 BP:0
+C-Olberic - HP:5781/5781 SP:291/291 BP:3
+D-Castti - HP:5336/5336 SP:451/476 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:896/1594 Shields:2
+B-Blood Remnant - HP:2178/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Blood Remnant
+3.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Olberic
+3.Heatcore
+4.Primrose
+5.Blood Remnant
+6.Armor Eater
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Sheltering Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Primrose - HP:3882/4002 SP:498/504 BP:2
+2: Heatcore - HP:2822/2822 SP:334/342 BP:0
+3: Olberic - HP:5781/5781 SP:291/291 BP:3
+4: Castti - HP:5336/5336 SP:451/476 BP:1
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Primrose usa Sheltering Veil
+Heatcore tendrá Increased Elemental Defense durante 4 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3882/4002 SP:492/504 BP:1
+B-Heatcore - HP:2822/2822 SP:334/342 BP:0
+C-Olberic - HP:5781/5781 SP:291/291 BP:3
+D-Castti - HP:5336/5336 SP:451/476 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:896/1594 Shields:2
+B-Blood Remnant - HP:2178/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Blood Remnant
+2.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Olberic
+3.Heatcore
+4.Primrose
+5.Blood Remnant
+6.Armor Eater
+----------------------------------------
+Blood Remnant usa Double Bite
+Primrose recibe 45 de daño físico
+Primrose recibe 45 de daño físico
+Primrose termina con HP:3792
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3792/4002 SP:492/504 BP:1
+B-Heatcore - HP:2822/2822 SP:334/342 BP:0
+C-Olberic - HP:5781/5781 SP:291/291 BP:3
+D-Castti - HP:5336/5336 SP:451/476 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:896/1594 Shields:2
+B-Blood Remnant - HP:2178/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Olberic
+3.Heatcore
+4.Primrose
+5.Blood Remnant
+6.Armor Eater
+----------------------------------------
+Armor Eater usa Consume Armor
+Castti tendrá Decreased Physical Defense durante 2 rondas
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3792/4002 SP:492/504 BP:1
+B-Heatcore - HP:2822/2822 SP:334/342 BP:0
+C-Olberic - HP:5781/5781 SP:291/291 BP:4
+D-Castti - HP:5336/5336 SP:451/476 BP:2
+Equipo del enemigo
+A-Armor Eater - HP:896/1594 Shields:2
+B-Blood Remnant - HP:2178/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Olberic
+3.Heatcore
+4.Primrose
+5.Blood Remnant
+6.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Castti
+3.Primrose
+4.Olberic
+5.Blood Remnant
+6.Armor Eater
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Starsong
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Primrose - HP:3792/4002 SP:492/504 BP:1
+2: Heatcore - HP:2822/2822 SP:334/342 BP:0
+3: Olberic - HP:5781/5781 SP:291/291 BP:4
+4: Castti - HP:5336/5336 SP:451/476 BP:2
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Starsong
+Primrose tendrá Increased Physical Defense durante 2 rondas
+Primrose tendrá Increased Elemental Defense durante 2 rondas
+Primrose tendrá Increased Speed durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3792/4002 SP:492/504 BP:1
+B-Heatcore - HP:2822/2822 SP:334/342 BP:0
+C-Olberic - HP:5781/5781 SP:291/291 BP:4
+D-Castti - HP:5336/5336 SP:426/476 BP:2
+Equipo del enemigo
+A-Armor Eater - HP:896/1594 Shields:2
+B-Blood Remnant - HP:2178/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Primrose
+3.Heatcore
+4.Blood Remnant
+5.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Heatcore
+3.Castti
+4.Olberic
+5.Blood Remnant
+6.Armor Eater
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Fire Storm
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Olberic usa Fire Storm
+Armor Eater recibe 1053 de daño de tipo Fire
+Armor Eater recibe 1053 de daño de tipo Fire
+Blood Remnant recibe 1090 de daño de tipo Fire
+Blood Remnant recibe 1090 de daño de tipo Fire
+Armor Eater termina con HP:0
+Blood Remnant termina con HP:0
+----------------------------------------
+Gana equipo del jugador

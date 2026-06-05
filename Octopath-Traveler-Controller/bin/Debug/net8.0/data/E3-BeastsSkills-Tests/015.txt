@@ -1,0 +1,400 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+INPUT: 14
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+Equipo del enemigo
+A-Forest Fox - HP:1380/1380 Shields:2
+B-Remnant - HP:2779/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Olberic
+3.Remnant
+4.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Olberic
+3.Remnant
+4.Forest Fox
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Forest Fox - HP:1380/1380 Shields:2
+2: Remnant - HP:2779/2779 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Forest Fox recibe 245 de daño de tipo Axe
+Forest Fox termina con HP:1135
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+Equipo del enemigo
+A-Forest Fox - HP:1135/1380 Shields:2
+B-Remnant - HP:2779/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Remnant
+3.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Olberic
+3.Remnant
+4.Forest Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Forest Fox - HP:1135/1380 Shields:2
+2: Remnant - HP:2779/2779 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Forest Fox recibe 293 de daño de tipo Sword
+Forest Fox termina con HP:842
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+Equipo del enemigo
+A-Forest Fox - HP:842/1380 Shields:2
+B-Remnant - HP:2779/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Remnant
+2.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Olberic
+3.Remnant
+4.Forest Fox
+----------------------------------------
+Remnant usa Double Bite
+Z'aanta recibe 37 de daño físico
+Z'aanta recibe 37 de daño físico
+Z'aanta termina con HP:3148
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Z'aanta - HP:3148/3222 SP:371/371 BP:1
+Equipo del enemigo
+A-Forest Fox - HP:842/1380 Shields:2
+B-Remnant - HP:2779/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Olberic
+3.Remnant
+4.Forest Fox
+----------------------------------------
+Forest Fox usa Double Bite
+Z'aanta recibe 246 de daño físico
+Z'aanta recibe 246 de daño físico
+Z'aanta termina con HP:2656
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:2
+B-Z'aanta - HP:2656/3222 SP:371/371 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:842/1380 Shields:2
+B-Remnant - HP:2779/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Olberic
+3.Remnant
+4.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Olberic
+3.Remnant
+4.Forest Fox
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:2
+B-Z'aanta - HP:2656/3222 SP:371/371 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:842/1380 Shields:2
+B-Remnant - HP:2779/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Remnant
+3.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Olberic
+3.Remnant
+4.Forest Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Forest Fox - HP:842/1380 Shields:2
+2: Remnant - HP:2779/2779 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Forest Fox recibe 293 de daño de tipo Sword
+Forest Fox termina con HP:549
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:2
+B-Z'aanta - HP:2656/3222 SP:371/371 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:549/1380 Shields:2
+B-Remnant - HP:2779/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Remnant
+2.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Olberic
+3.Remnant
+4.Forest Fox
+----------------------------------------
+Remnant usa Double Bite
+Z'aanta se defiende
+Z'aanta recibe 18 de daño físico
+Z'aanta recibe 18 de daño físico
+Z'aanta termina con HP:2620
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:2
+B-Z'aanta - HP:2620/3222 SP:371/371 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:549/1380 Shields:2
+B-Remnant - HP:2779/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Olberic
+3.Remnant
+4.Forest Fox
+----------------------------------------
+Forest Fox usa Double Bite
+Z'aanta se defiende
+Z'aanta recibe 123 de daño físico
+Z'aanta recibe 123 de daño físico
+Z'aanta termina con HP:2374
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:3
+B-Z'aanta - HP:2374/3222 SP:371/371 BP:3
+Equipo del enemigo
+A-Forest Fox - HP:549/1380 Shields:2
+B-Remnant - HP:2779/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Olberic
+3.Remnant
+4.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Olberic
+3.Remnant
+4.Forest Fox
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:3
+B-Z'aanta - HP:2374/3222 SP:371/371 BP:3
+Equipo del enemigo
+A-Forest Fox - HP:549/1380 Shields:2
+B-Remnant - HP:2779/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Remnant
+3.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Olberic
+3.Remnant
+4.Forest Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:3
+B-Z'aanta - HP:2374/3222 SP:371/371 BP:3
+Equipo del enemigo
+A-Forest Fox - HP:549/1380 Shields:2
+B-Remnant - HP:2779/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Remnant
+2.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Olberic
+3.Remnant
+4.Forest Fox
+----------------------------------------
+Remnant usa Double Bite
+Z'aanta se defiende
+Z'aanta recibe 18 de daño físico
+Z'aanta recibe 18 de daño físico
+Z'aanta termina con HP:2338
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:3
+B-Z'aanta - HP:2338/3222 SP:371/371 BP:3
+Equipo del enemigo
+A-Forest Fox - HP:549/1380 Shields:2
+B-Remnant - HP:2779/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Olberic
+3.Remnant
+4.Forest Fox
+----------------------------------------
+Forest Fox usa Double Bite
+Z'aanta se defiende
+Z'aanta recibe 123 de daño físico
+Z'aanta recibe 123 de daño físico
+Z'aanta termina con HP:2092
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:4
+B-Z'aanta - HP:2092/3222 SP:371/371 BP:4
+Equipo del enemigo
+A-Forest Fox - HP:549/1380 Shields:2
+B-Remnant - HP:2779/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Olberic
+3.Remnant
+4.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Olberic
+3.Remnant
+4.Forest Fox
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo

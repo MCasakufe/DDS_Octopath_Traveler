@@ -1,0 +1,246 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+INPUT: 18
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-High Wolf - HP:1458/1458 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+C-Wanderweed - HP:1533/1533 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.High Wolf
+2.Osvald
+3.Wanderweed
+4.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.High Wolf
+2.Osvald
+3.Wanderweed
+4.War Wolf
+----------------------------------------
+High Wolf usa Attack
+Osvald recibe 50 de daño físico
+Osvald termina con HP:3507
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:3507/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-High Wolf - HP:1458/1458 Shields:2
+B-War Wolf - HP:3548/3548 Shields:2
+C-Wanderweed - HP:1533/1533 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Wanderweed
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.High Wolf
+2.Osvald
+3.Wanderweed
+4.War Wolf
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Tonitrus Canere
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Tonitrus Canere
+High Wolf recibe 500 de daño de tipo Lightning
+High Wolf recibe 500 de daño de tipo Lightning
+High Wolf recibe 500 de daño de tipo Lightning
+War Wolf recibe 463 de daño de tipo Lightning
+War Wolf recibe 463 de daño de tipo Lightning
+War Wolf recibe 463 de daño de tipo Lightning
+Wanderweed recibe 464 de daño de tipo Lightning
+Wanderweed recibe 464 de daño de tipo Lightning
+Wanderweed recibe 464 de daño de tipo Lightning
+High Wolf termina con HP:0
+War Wolf termina con HP:2159
+Wanderweed termina con HP:141
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:3507/3557 SP:505/541 BP:1
+Equipo del enemigo
+A-High Wolf - HP:0/1458 Shields:2
+B-War Wolf - HP:2159/3548 Shields:2
+C-Wanderweed - HP:141/1533 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Wanderweed
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Wanderweed
+3.War Wolf
+----------------------------------------
+Wanderweed usa Attack
+Osvald recibe 13 de daño físico
+Osvald termina con HP:3494
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:3494/3557 SP:505/541 BP:1
+Equipo del enemigo
+A-High Wolf - HP:0/1458 Shields:2
+B-War Wolf - HP:2159/3548 Shields:2
+C-Wanderweed - HP:141/1533 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Wanderweed
+3.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Osvald recibe 131 de daño físico
+Osvald termina con HP:3363
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:3363/3557 SP:505/541 BP:2
+Equipo del enemigo
+A-High Wolf - HP:0/1458 Shields:2
+B-War Wolf - HP:2159/3548 Shields:2
+C-Wanderweed - HP:141/1533 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Wanderweed
+3.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Wanderweed
+3.War Wolf
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Tonitrus Canere
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Tonitrus Canere
+War Wolf recibe 463 de daño de tipo Lightning
+War Wolf recibe 463 de daño de tipo Lightning
+War Wolf recibe 463 de daño de tipo Lightning
+Wanderweed recibe 464 de daño de tipo Lightning
+Wanderweed recibe 464 de daño de tipo Lightning
+Wanderweed recibe 464 de daño de tipo Lightning
+War Wolf termina con HP:770
+Wanderweed termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:3363/3557 SP:469/541 BP:2
+Equipo del enemigo
+A-High Wolf - HP:0/1458 Shields:2
+B-War Wolf - HP:770/3548 Shields:2
+C-Wanderweed - HP:0/1533 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.War Wolf
+----------------------------------------
+War Wolf usa Attack
+Osvald recibe 131 de daño físico
+Osvald termina con HP:3232
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:3232/3557 SP:469/541 BP:3
+Equipo del enemigo
+A-High Wolf - HP:0/1458 Shields:2
+B-War Wolf - HP:770/3548 Shields:2
+C-Wanderweed - HP:0/1533 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.War Wolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.War Wolf
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Tonitrus Canere
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Tonitrus Canere
+War Wolf recibe 463 de daño de tipo Lightning
+War Wolf recibe 463 de daño de tipo Lightning
+War Wolf recibe 463 de daño de tipo Lightning
+War Wolf termina con HP:0
+----------------------------------------
+Gana equipo del jugador

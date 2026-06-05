@@ -1,0 +1,465 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+INPUT: 6
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Flame Guardian - HP:1470/1470 Shields:3
+B-Thunder Guardian - HP:1971/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Flame Guardian
+3.Thunder Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Flame Guardian
+3.Thunder Guardian
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Flame Guardian - HP:1470/1470 Shields:3
+2: Thunder Guardian - HP:1971/1971 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Flame Guardian recibe 427 de daño de tipo Sword con debilidad
+Flame Guardian termina con HP:1043
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Flame Guardian - HP:1043/1470 Shields:2
+B-Thunder Guardian - HP:1971/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Flame Guardian
+2.Thunder Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Flame Guardian
+3.Thunder Guardian
+----------------------------------------
+Flame Guardian usa Attack
+Olberic recibe 93 de daño físico
+Olberic termina con HP:5688
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5688/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Flame Guardian - HP:1043/1470 Shields:2
+B-Thunder Guardian - HP:1971/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Thunder Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Flame Guardian
+3.Thunder Guardian
+----------------------------------------
+Thunder Guardian usa Attack
+Olberic recibe 49 de daño físico
+Olberic termina con HP:5639
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5639/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Flame Guardian - HP:1043/1470 Shields:2
+B-Thunder Guardian - HP:1971/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Flame Guardian
+3.Thunder Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Flame Guardian
+3.Thunder Guardian
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Flame Guardian - HP:1043/1470 Shields:2
+2: Thunder Guardian - HP:1971/1971 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Flame Guardian recibe 285 de daño de tipo Spear
+Flame Guardian termina con HP:758
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5639/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Flame Guardian - HP:758/1470 Shields:2
+B-Thunder Guardian - HP:1971/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Flame Guardian
+2.Thunder Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Flame Guardian
+3.Thunder Guardian
+----------------------------------------
+Flame Guardian usa Attack
+Olberic recibe 93 de daño físico
+Olberic termina con HP:5546
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5546/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Flame Guardian - HP:758/1470 Shields:2
+B-Thunder Guardian - HP:1971/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Thunder Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Flame Guardian
+3.Thunder Guardian
+----------------------------------------
+Thunder Guardian usa Attack
+Olberic recibe 49 de daño físico
+Olberic termina con HP:5497
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5497/5781 SP:291/291 BP:3
+Equipo del enemigo
+A-Flame Guardian - HP:758/1470 Shields:2
+B-Thunder Guardian - HP:1971/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Flame Guardian
+3.Thunder Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Flame Guardian
+3.Thunder Guardian
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Brand's Thunder
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Flame Guardian - HP:758/1470 Shields:2
+2: Thunder Guardian - HP:1971/1971 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Olberic usa Brand's Thunder
+Flame Guardian recibe 4138 de daño de tipo Sword con debilidad
+Flame Guardian termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5497/5781 SP:261/291 BP:0
+Equipo del enemigo
+A-Flame Guardian - HP:0/1470 Shields:1
+B-Thunder Guardian - HP:1971/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Thunder Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Thunder Guardian
+----------------------------------------
+Thunder Guardian usa Attack
+Olberic recibe 49 de daño físico
+Olberic termina con HP:5448
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5448/5781 SP:261/291 BP:0
+Equipo del enemigo
+A-Flame Guardian - HP:0/1470 Shields:1
+B-Thunder Guardian - HP:1971/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Thunder Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Thunder Guardian
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Thunder Guardian - HP:1971/1971 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Olberic ataca
+Thunder Guardian recibe 305 de daño de tipo Spear
+Thunder Guardian termina con HP:1666
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5448/5781 SP:261/291 BP:0
+Equipo del enemigo
+A-Flame Guardian - HP:0/1470 Shields:1
+B-Thunder Guardian - HP:1666/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Thunder Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Thunder Guardian
+----------------------------------------
+Thunder Guardian usa Attack
+Olberic recibe 49 de daño físico
+Olberic termina con HP:5399
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5399/5781 SP:261/291 BP:1
+Equipo del enemigo
+A-Flame Guardian - HP:0/1470 Shields:1
+B-Thunder Guardian - HP:1666/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Thunder Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Thunder Guardian
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Thunder Guardian - HP:1666/1971 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Thunder Guardian recibe 305 de daño de tipo Spear
+Thunder Guardian termina con HP:1361
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5399/5781 SP:261/291 BP:1
+Equipo del enemigo
+A-Flame Guardian - HP:0/1470 Shields:1
+B-Thunder Guardian - HP:1361/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Thunder Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Thunder Guardian
+----------------------------------------
+Thunder Guardian usa Attack
+Olberic recibe 49 de daño físico
+Olberic termina con HP:5350
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5350/5781 SP:261/291 BP:2
+Equipo del enemigo
+A-Flame Guardian - HP:0/1470 Shields:1
+B-Thunder Guardian - HP:1361/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Thunder Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Thunder Guardian
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Thunder Guardian - HP:1361/1971 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Thunder Guardian recibe 305 de daño de tipo Spear
+Thunder Guardian termina con HP:1056
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5350/5781 SP:261/291 BP:2
+Equipo del enemigo
+A-Flame Guardian - HP:0/1470 Shields:1
+B-Thunder Guardian - HP:1056/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Thunder Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Thunder Guardian
+----------------------------------------
+Thunder Guardian usa Attack
+Olberic recibe 49 de daño físico
+Olberic termina con HP:5301
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5301/5781 SP:261/291 BP:3
+Equipo del enemigo
+A-Flame Guardian - HP:0/1470 Shields:1
+B-Thunder Guardian - HP:1056/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Thunder Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Thunder Guardian
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Brand's Thunder
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Thunder Guardian - HP:1056/1971 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Olberic usa Brand's Thunder
+Thunder Guardian recibe 4168 de daño de tipo Sword con debilidad
+Thunder Guardian termina con HP:0
+----------------------------------------
+Gana equipo del jugador

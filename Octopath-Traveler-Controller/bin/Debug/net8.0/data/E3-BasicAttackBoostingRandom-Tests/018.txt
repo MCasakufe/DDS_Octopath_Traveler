@@ -1,0 +1,4451 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+INPUT: 17
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:1
+C-Partitio - HP:4891/4891 SP:314/314 BP:1
+D-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:2002/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Temenos
+3.Partitio
+4.Osvald
+5.Frost Fox
+6.Devil Deer
+7.Dark Elemental
+8.Wind Elemental
+9.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Temenos
+3.Partitio
+4.Osvald
+5.Frost Fox
+6.Devil Deer
+7.Dark Elemental
+8.Wind Elemental
+9.Light Wisp
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Light Wisp - HP:972/972 Shields:1
+2: Dark Elemental - HP:1822/1822 Shields:4
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Frost Fox - HP:1302/1302 Shields:2
+5: Devil Deer - HP:2002/2002 Shields:5
+6: Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Z'aanta no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Z'aanta ataca
+Devil Deer recibe 90 de daño de tipo Axe con debilidad
+Devil Deer recibe 90 de daño de tipo Axe con debilidad
+Devil Deer termina con HP:1822
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:0
+B-Temenos - HP:4002/4002 SP:432/432 BP:1
+C-Partitio - HP:4891/4891 SP:314/314 BP:1
+D-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Temenos
+3.Partitio
+4.Osvald
+5.Frost Fox
+6.Devil Deer
+7.Dark Elemental
+8.Wind Elemental
+9.Light Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Light Wisp - HP:972/972 Shields:1
+2: Dark Elemental - HP:1822/1822 Shields:4
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Frost Fox - HP:1302/1302 Shields:2
+5: Devil Deer - HP:1822/2002 Shields:3
+6: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Temenos ataca
+Frost Fox recibe 0 de daño de tipo Stave
+Frost Fox recibe 0 de daño de tipo Stave
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:0
+B-Temenos - HP:4002/4002 SP:432/432 BP:0
+C-Partitio - HP:4891/4891 SP:314/314 BP:1
+D-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Osvald
+3.Frost Fox
+4.Devil Deer
+5.Dark Elemental
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Temenos
+3.Partitio
+4.Osvald
+5.Frost Fox
+6.Devil Deer
+7.Dark Elemental
+8.Wind Elemental
+9.Light Wisp
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:0
+B-Temenos - HP:4002/4002 SP:432/432 BP:0
+C-Partitio - HP:4891/4891 SP:314/314 BP:1
+D-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Frost Fox
+3.Devil Deer
+4.Dark Elemental
+5.Wind Elemental
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Z'aanta
+3.Temenos
+4.Osvald
+5.Frost Fox
+6.Devil Deer
+7.Dark Elemental
+8.Wind Elemental
+9.Light Wisp
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Light Wisp - HP:972/972 Shields:1
+2: Dark Elemental - HP:1822/1822 Shields:4
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Frost Fox - HP:1302/1302 Shields:2
+5: Devil Deer - HP:1822/2002 Shields:3
+6: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Osvald ataca
+Wind Elemental recibe 0 de daño de tipo Stave
+Wind Elemental recibe 0 de daño de tipo Stave
+Wind Elemental termina con HP:2496
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:0
+B-Temenos - HP:4002/4002 SP:432/432 BP:0
+C-Partitio - HP:4891/4891 SP:314/314 BP:1
+D-Osvald - HP:3557/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Devil Deer
+3.Dark Elemental
+4.Wind Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Z'aanta
+3.Temenos
+4.Osvald
+5.Frost Fox
+6.Devil Deer
+7.Dark Elemental
+8.Wind Elemental
+9.Light Wisp
+----------------------------------------
+Frost Fox usa Ice blast
+Z'aanta recibe 300 de daño elemental
+Temenos recibe 134 de daño elemental
+Partitio se defiende
+Partitio recibe 124 de daño elemental
+Osvald recibe 203 de daño elemental
+Z'aanta termina con HP:2922
+Temenos termina con HP:3868
+Partitio termina con HP:4767
+Osvald termina con HP:3354
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2922/3222 SP:371/371 BP:0
+B-Temenos - HP:3868/4002 SP:432/432 BP:0
+C-Partitio - HP:4767/4891 SP:314/314 BP:1
+D-Osvald - HP:3354/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Dark Elemental
+3.Wind Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Z'aanta
+3.Temenos
+4.Osvald
+5.Frost Fox
+6.Devil Deer
+7.Dark Elemental
+8.Wind Elemental
+9.Light Wisp
+----------------------------------------
+Devil Deer usa Boar Rush
+Z'aanta recibe 612 de daño físico
+Z'aanta termina con HP:2310
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2310/3222 SP:371/371 BP:0
+B-Temenos - HP:3868/4002 SP:432/432 BP:0
+C-Partitio - HP:4767/4891 SP:314/314 BP:1
+D-Osvald - HP:3354/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Wind Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Z'aanta
+3.Temenos
+4.Osvald
+5.Frost Fox
+6.Devil Deer
+7.Dark Elemental
+8.Wind Elemental
+9.Light Wisp
+----------------------------------------
+Dark Elemental usa Shadowshot
+Z'aanta recibe 257 de daño elemental
+Z'aanta termina con HP:2053
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2053/3222 SP:371/371 BP:0
+B-Temenos - HP:3868/4002 SP:432/432 BP:0
+C-Partitio - HP:4767/4891 SP:314/314 BP:1
+D-Osvald - HP:3354/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Z'aanta
+3.Temenos
+4.Osvald
+5.Frost Fox
+6.Devil Deer
+7.Dark Elemental
+8.Wind Elemental
+9.Light Wisp
+----------------------------------------
+Wind Elemental usa Windshot
+Z'aanta recibe 194 de daño elemental
+Z'aanta termina con HP:1859
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1859/3222 SP:371/371 BP:0
+B-Temenos - HP:3868/4002 SP:432/432 BP:0
+C-Partitio - HP:4767/4891 SP:314/314 BP:1
+D-Osvald - HP:3354/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Z'aanta
+3.Temenos
+4.Osvald
+5.Frost Fox
+6.Devil Deer
+7.Dark Elemental
+8.Wind Elemental
+9.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Z'aanta recibe 160 de daño elemental
+Z'aanta termina con HP:1699
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1699/3222 SP:371/371 BP:0
+B-Temenos - HP:3868/4002 SP:432/432 BP:0
+C-Partitio - HP:4767/4891 SP:314/314 BP:2
+D-Osvald - HP:3354/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Z'aanta
+3.Temenos
+4.Osvald
+5.Frost Fox
+6.Devil Deer
+7.Dark Elemental
+8.Wind Elemental
+9.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Temenos
+3.Partitio
+4.Osvald
+5.Frost Fox
+6.Devil Deer
+7.Dark Elemental
+8.Wind Elemental
+9.Light Wisp
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Light Wisp - HP:972/972 Shields:1
+2: Dark Elemental - HP:1822/1822 Shields:4
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Frost Fox - HP:1302/1302 Shields:2
+5: Devil Deer - HP:1822/2002 Shields:3
+6: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Partitio ataca
+Dark Elemental recibe 0 de daño de tipo Bow
+Dark Elemental recibe 0 de daño de tipo Bow
+Dark Elemental termina con HP:1822
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1699/3222 SP:371/371 BP:0
+B-Temenos - HP:3868/4002 SP:432/432 BP:0
+C-Partitio - HP:4767/4891 SP:314/314 BP:1
+D-Osvald - HP:3354/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Temenos
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Temenos
+3.Partitio
+4.Osvald
+5.Frost Fox
+6.Devil Deer
+7.Dark Elemental
+8.Wind Elemental
+9.Light Wisp
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1699/3222 SP:371/371 BP:0
+B-Temenos - HP:3868/4002 SP:432/432 BP:0
+C-Partitio - HP:4767/4891 SP:314/314 BP:1
+D-Osvald - HP:3354/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Osvald
+3.Frost Fox
+4.Devil Deer
+5.Dark Elemental
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Temenos
+3.Partitio
+4.Osvald
+5.Frost Fox
+6.Devil Deer
+7.Dark Elemental
+8.Wind Elemental
+9.Light Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1699/3222 SP:371/371 BP:0
+B-Temenos - HP:3868/4002 SP:432/432 BP:0
+C-Partitio - HP:4767/4891 SP:314/314 BP:1
+D-Osvald - HP:3354/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Frost Fox
+3.Devil Deer
+4.Dark Elemental
+5.Wind Elemental
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Temenos
+3.Partitio
+4.Osvald
+5.Frost Fox
+6.Devil Deer
+7.Dark Elemental
+8.Wind Elemental
+9.Light Wisp
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Light Wisp - HP:972/972 Shields:1
+2: Dark Elemental - HP:1822/1822 Shields:4
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Frost Fox - HP:1302/1302 Shields:2
+5: Devil Deer - HP:1822/2002 Shields:3
+6: Cancelar
+INPUT: 4
+----------------------------------------
+Osvald ataca
+Frost Fox recibe 0 de daño de tipo Stave
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1699/3222 SP:371/371 BP:0
+B-Temenos - HP:3868/4002 SP:432/432 BP:0
+C-Partitio - HP:4767/4891 SP:314/314 BP:1
+D-Osvald - HP:3354/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Devil Deer
+3.Dark Elemental
+4.Wind Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Temenos
+3.Partitio
+4.Osvald
+5.Frost Fox
+6.Devil Deer
+7.Dark Elemental
+8.Wind Elemental
+9.Light Wisp
+----------------------------------------
+Frost Fox usa Ice blast
+Z'aanta se defiende
+Z'aanta recibe 150 de daño elemental
+Temenos se defiende
+Temenos recibe 67 de daño elemental
+Partitio recibe 248 de daño elemental
+Osvald recibe 203 de daño elemental
+Z'aanta termina con HP:1549
+Temenos termina con HP:3801
+Partitio termina con HP:4519
+Osvald termina con HP:3151
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1549/3222 SP:371/371 BP:0
+B-Temenos - HP:3801/4002 SP:432/432 BP:0
+C-Partitio - HP:4519/4891 SP:314/314 BP:1
+D-Osvald - HP:3151/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Dark Elemental
+3.Wind Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Temenos
+3.Partitio
+4.Osvald
+5.Frost Fox
+6.Devil Deer
+7.Dark Elemental
+8.Wind Elemental
+9.Light Wisp
+----------------------------------------
+Devil Deer usa Boar Rush
+Z'aanta se defiende
+Z'aanta recibe 306 de daño físico
+Z'aanta termina con HP:1243
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1243/3222 SP:371/371 BP:0
+B-Temenos - HP:3801/4002 SP:432/432 BP:0
+C-Partitio - HP:4519/4891 SP:314/314 BP:1
+D-Osvald - HP:3151/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Wind Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Temenos
+3.Partitio
+4.Osvald
+5.Frost Fox
+6.Devil Deer
+7.Dark Elemental
+8.Wind Elemental
+9.Light Wisp
+----------------------------------------
+Dark Elemental usa Shadowshot
+Z'aanta se defiende
+Z'aanta recibe 128 de daño elemental
+Z'aanta termina con HP:1115
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1115/3222 SP:371/371 BP:0
+B-Temenos - HP:3801/4002 SP:432/432 BP:0
+C-Partitio - HP:4519/4891 SP:314/314 BP:1
+D-Osvald - HP:3151/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Temenos
+3.Partitio
+4.Osvald
+5.Frost Fox
+6.Devil Deer
+7.Dark Elemental
+8.Wind Elemental
+9.Light Wisp
+----------------------------------------
+Wind Elemental usa Windshot
+Z'aanta se defiende
+Z'aanta recibe 97 de daño elemental
+Z'aanta termina con HP:1018
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1018/3222 SP:371/371 BP:0
+B-Temenos - HP:3801/4002 SP:432/432 BP:0
+C-Partitio - HP:4519/4891 SP:314/314 BP:1
+D-Osvald - HP:3151/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Temenos
+3.Partitio
+4.Osvald
+5.Frost Fox
+6.Devil Deer
+7.Dark Elemental
+8.Wind Elemental
+9.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Z'aanta se defiende
+Z'aanta recibe 80 de daño elemental
+Z'aanta termina con HP:938
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:938/3222 SP:371/371 BP:1
+B-Temenos - HP:3801/4002 SP:432/432 BP:1
+C-Partitio - HP:4519/4891 SP:314/314 BP:1
+D-Osvald - HP:3151/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Temenos
+3.Partitio
+4.Osvald
+5.Frost Fox
+6.Devil Deer
+7.Dark Elemental
+8.Wind Elemental
+9.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Temenos
+3.Partitio
+4.Osvald
+5.Frost Fox
+6.Devil Deer
+7.Dark Elemental
+8.Wind Elemental
+9.Light Wisp
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Light Wisp - HP:972/972 Shields:1
+2: Dark Elemental - HP:1822/1822 Shields:4
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Frost Fox - HP:1302/1302 Shields:2
+5: Devil Deer - HP:1822/2002 Shields:3
+6: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Z'aanta no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Z'aanta no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Z'aanta no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Z'aanta no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Z'aanta ataca
+Dark Elemental recibe 0 de daño de tipo Bow
+Dark Elemental recibe 0 de daño de tipo Bow
+Dark Elemental termina con HP:1822
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:938/3222 SP:371/371 BP:0
+B-Temenos - HP:3801/4002 SP:432/432 BP:1
+C-Partitio - HP:4519/4891 SP:314/314 BP:1
+D-Osvald - HP:3151/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Temenos
+3.Partitio
+4.Osvald
+5.Frost Fox
+6.Devil Deer
+7.Dark Elemental
+8.Wind Elemental
+9.Light Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:938/3222 SP:371/371 BP:0
+B-Temenos - HP:3801/4002 SP:432/432 BP:1
+C-Partitio - HP:4519/4891 SP:314/314 BP:1
+D-Osvald - HP:3151/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Osvald
+3.Frost Fox
+4.Devil Deer
+5.Dark Elemental
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Z'aanta
+3.Partitio
+4.Osvald
+5.Frost Fox
+6.Devil Deer
+7.Dark Elemental
+8.Wind Elemental
+9.Light Wisp
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:938/3222 SP:371/371 BP:0
+B-Temenos - HP:3801/4002 SP:432/432 BP:1
+C-Partitio - HP:4519/4891 SP:314/314 BP:1
+D-Osvald - HP:3151/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Frost Fox
+3.Devil Deer
+4.Dark Elemental
+5.Wind Elemental
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Z'aanta
+4.Osvald
+5.Frost Fox
+6.Devil Deer
+7.Dark Elemental
+8.Wind Elemental
+9.Light Wisp
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:938/3222 SP:371/371 BP:0
+B-Temenos - HP:3801/4002 SP:432/432 BP:1
+C-Partitio - HP:4519/4891 SP:314/314 BP:1
+D-Osvald - HP:3151/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Devil Deer
+3.Dark Elemental
+4.Wind Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Z'aanta
+5.Frost Fox
+6.Devil Deer
+7.Dark Elemental
+8.Wind Elemental
+9.Light Wisp
+----------------------------------------
+Frost Fox usa Ice blast
+Z'aanta recibe 300 de daño elemental
+Temenos se defiende
+Temenos recibe 67 de daño elemental
+Partitio se defiende
+Partitio recibe 124 de daño elemental
+Osvald se defiende
+Osvald recibe 101 de daño elemental
+Z'aanta termina con HP:638
+Temenos termina con HP:3734
+Partitio termina con HP:4395
+Osvald termina con HP:3050
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:638/3222 SP:371/371 BP:0
+B-Temenos - HP:3734/4002 SP:432/432 BP:1
+C-Partitio - HP:4395/4891 SP:314/314 BP:1
+D-Osvald - HP:3050/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Dark Elemental
+3.Wind Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Z'aanta
+5.Frost Fox
+6.Devil Deer
+7.Dark Elemental
+8.Wind Elemental
+9.Light Wisp
+----------------------------------------
+Devil Deer usa Boar Rush
+Z'aanta recibe 612 de daño físico
+Z'aanta termina con HP:26
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:26/3222 SP:371/371 BP:0
+B-Temenos - HP:3734/4002 SP:432/432 BP:1
+C-Partitio - HP:4395/4891 SP:314/314 BP:1
+D-Osvald - HP:3050/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Wind Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Z'aanta
+5.Frost Fox
+6.Devil Deer
+7.Dark Elemental
+8.Wind Elemental
+9.Light Wisp
+----------------------------------------
+Dark Elemental usa Shadowshot
+Z'aanta recibe 257 de daño elemental
+Z'aanta termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:3734/4002 SP:432/432 BP:1
+C-Partitio - HP:4395/4891 SP:314/314 BP:1
+D-Osvald - HP:3050/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Wind Elemental usa Windshot
+Partitio se defiende
+Partitio recibe 71 de daño elemental
+Partitio termina con HP:4324
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:3734/4002 SP:432/432 BP:1
+C-Partitio - HP:4324/4891 SP:314/314 BP:1
+D-Osvald - HP:3050/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Temenos se defiende
+Temenos recibe 0 de daño elemental
+Temenos termina con HP:3734
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:3734/4002 SP:432/432 BP:2
+C-Partitio - HP:4324/4891 SP:314/314 BP:2
+D-Osvald - HP:3050/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:3734/4002 SP:432/432 BP:2
+C-Partitio - HP:4324/4891 SP:314/314 BP:2
+D-Osvald - HP:3050/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Osvald
+3.Frost Fox
+4.Devil Deer
+5.Dark Elemental
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:3734/4002 SP:432/432 BP:2
+C-Partitio - HP:4324/4891 SP:314/314 BP:2
+D-Osvald - HP:3050/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Frost Fox
+3.Devil Deer
+4.Dark Elemental
+5.Wind Elemental
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Light Wisp - HP:972/972 Shields:1
+2: Dark Elemental - HP:1822/1822 Shields:4
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Frost Fox - HP:1302/1302 Shields:2
+5: Devil Deer - HP:1822/2002 Shields:3
+6: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Osvald ataca
+Wind Elemental recibe 0 de daño de tipo Stave
+Wind Elemental recibe 0 de daño de tipo Stave
+Wind Elemental recibe 0 de daño de tipo Stave
+Wind Elemental termina con HP:2496
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:3734/4002 SP:432/432 BP:2
+C-Partitio - HP:4324/4891 SP:314/314 BP:2
+D-Osvald - HP:3050/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Devil Deer
+3.Dark Elemental
+4.Wind Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Frost Fox usa Ice blast
+Temenos se defiende
+Temenos recibe 67 de daño elemental
+Partitio se defiende
+Partitio recibe 124 de daño elemental
+Osvald recibe 203 de daño elemental
+Temenos termina con HP:3667
+Partitio termina con HP:4200
+Osvald termina con HP:2847
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:3667/4002 SP:432/432 BP:2
+C-Partitio - HP:4200/4891 SP:314/314 BP:2
+D-Osvald - HP:2847/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Dark Elemental
+3.Wind Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Devil Deer usa Boar Rush
+Temenos se defiende
+Temenos recibe 274 de daño físico
+Temenos termina con HP:3393
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:3393/4002 SP:432/432 BP:2
+C-Partitio - HP:4200/4891 SP:314/314 BP:2
+D-Osvald - HP:2847/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Wind Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Dark Elemental usa Shadowshot
+Partitio se defiende
+Partitio recibe 102 de daño elemental
+Partitio termina con HP:4098
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:3393/4002 SP:432/432 BP:2
+C-Partitio - HP:4098/4891 SP:314/314 BP:2
+D-Osvald - HP:2847/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Wind Elemental usa Windshot
+Partitio se defiende
+Partitio recibe 71 de daño elemental
+Partitio termina con HP:4027
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:3393/4002 SP:432/432 BP:2
+C-Partitio - HP:4027/4891 SP:314/314 BP:2
+D-Osvald - HP:2847/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Temenos se defiende
+Temenos recibe 0 de daño elemental
+Temenos termina con HP:3393
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:3393/4002 SP:432/432 BP:3
+C-Partitio - HP:4027/4891 SP:314/314 BP:3
+D-Osvald - HP:2847/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:3393/4002 SP:432/432 BP:3
+C-Partitio - HP:4027/4891 SP:314/314 BP:3
+D-Osvald - HP:2847/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Osvald
+3.Frost Fox
+4.Devil Deer
+5.Dark Elemental
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Light Wisp - HP:972/972 Shields:1
+2: Dark Elemental - HP:1822/1822 Shields:4
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Frost Fox - HP:1302/1302 Shields:2
+5: Devil Deer - HP:1822/2002 Shields:3
+6: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Partitio ataca
+Light Wisp recibe 187 de daño de tipo Bow
+Light Wisp recibe 187 de daño de tipo Bow
+Light Wisp termina con HP:598
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:3393/4002 SP:432/432 BP:3
+C-Partitio - HP:4027/4891 SP:314/314 BP:2
+D-Osvald - HP:2847/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:598/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Frost Fox
+3.Devil Deer
+4.Dark Elemental
+5.Wind Elemental
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Light Wisp - HP:598/972 Shields:1
+2: Dark Elemental - HP:1822/1822 Shields:4
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Frost Fox - HP:1302/1302 Shields:2
+5: Devil Deer - HP:1822/2002 Shields:3
+6: Cancelar
+INPUT: 3
+----------------------------------------
+Osvald ataca
+Wind Elemental recibe 0 de daño de tipo Stave
+Wind Elemental termina con HP:2496
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:3393/4002 SP:432/432 BP:3
+C-Partitio - HP:4027/4891 SP:314/314 BP:2
+D-Osvald - HP:2847/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:598/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Devil Deer
+3.Dark Elemental
+4.Wind Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Frost Fox usa Ice blast
+Temenos se defiende
+Temenos recibe 67 de daño elemental
+Partitio recibe 248 de daño elemental
+Osvald recibe 203 de daño elemental
+Temenos termina con HP:3326
+Partitio termina con HP:3779
+Osvald termina con HP:2644
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:3326/4002 SP:432/432 BP:3
+C-Partitio - HP:3779/4891 SP:314/314 BP:2
+D-Osvald - HP:2644/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:598/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Dark Elemental
+3.Wind Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Devil Deer usa Boar Rush
+Temenos se defiende
+Temenos recibe 274 de daño físico
+Temenos termina con HP:3052
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:3052/4002 SP:432/432 BP:3
+C-Partitio - HP:3779/4891 SP:314/314 BP:2
+D-Osvald - HP:2644/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:598/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Wind Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Dark Elemental usa Shadowshot
+Partitio recibe 205 de daño elemental
+Partitio termina con HP:3574
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:3052/4002 SP:432/432 BP:3
+C-Partitio - HP:3574/4891 SP:314/314 BP:2
+D-Osvald - HP:2644/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:598/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Wind Elemental usa Windshot
+Partitio recibe 142 de daño elemental
+Partitio termina con HP:3432
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:3052/4002 SP:432/432 BP:3
+C-Partitio - HP:3432/4891 SP:314/314 BP:2
+D-Osvald - HP:2644/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:598/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Temenos se defiende
+Temenos recibe 0 de daño elemental
+Temenos termina con HP:3052
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:3052/4002 SP:432/432 BP:4
+C-Partitio - HP:3432/4891 SP:314/314 BP:2
+D-Osvald - HP:2644/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:598/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:3052/4002 SP:432/432 BP:4
+C-Partitio - HP:3432/4891 SP:314/314 BP:2
+D-Osvald - HP:2644/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:598/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Osvald
+3.Frost Fox
+4.Devil Deer
+5.Dark Elemental
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Light Wisp - HP:598/972 Shields:1
+2: Dark Elemental - HP:1822/1822 Shields:4
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Frost Fox - HP:1302/1302 Shields:2
+5: Devil Deer - HP:1822/2002 Shields:3
+6: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Partitio no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Partitio ataca
+Wind Elemental recibe 96 de daño de tipo Bow
+Wind Elemental recibe 96 de daño de tipo Bow
+Wind Elemental recibe 96 de daño de tipo Bow
+Wind Elemental termina con HP:2208
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:3052/4002 SP:432/432 BP:4
+C-Partitio - HP:3432/4891 SP:314/314 BP:0
+D-Osvald - HP:2644/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:598/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Frost Fox
+3.Devil Deer
+4.Dark Elemental
+5.Wind Elemental
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:3052/4002 SP:432/432 BP:4
+C-Partitio - HP:3432/4891 SP:314/314 BP:0
+D-Osvald - HP:2644/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:598/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Devil Deer
+3.Dark Elemental
+4.Wind Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Osvald
+3.Partitio
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Frost Fox usa Ice blast
+Temenos se defiende
+Temenos recibe 67 de daño elemental
+Partitio recibe 248 de daño elemental
+Osvald se defiende
+Osvald recibe 101 de daño elemental
+Temenos termina con HP:2985
+Partitio termina con HP:3184
+Osvald termina con HP:2543
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:2985/4002 SP:432/432 BP:4
+C-Partitio - HP:3184/4891 SP:314/314 BP:0
+D-Osvald - HP:2543/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:598/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Dark Elemental
+3.Wind Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Osvald
+3.Partitio
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Devil Deer usa Boar Rush
+Temenos se defiende
+Temenos recibe 274 de daño físico
+Temenos termina con HP:2711
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:2711/4002 SP:432/432 BP:4
+C-Partitio - HP:3184/4891 SP:314/314 BP:0
+D-Osvald - HP:2543/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:598/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Wind Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Osvald
+3.Partitio
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Dark Elemental usa Shadowshot
+Partitio recibe 205 de daño elemental
+Partitio termina con HP:2979
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:2711/4002 SP:432/432 BP:4
+C-Partitio - HP:2979/4891 SP:314/314 BP:0
+D-Osvald - HP:2543/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:598/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Osvald
+3.Partitio
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Wind Elemental usa Windshot
+Partitio recibe 142 de daño elemental
+Partitio termina con HP:2837
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:2711/4002 SP:432/432 BP:4
+C-Partitio - HP:2837/4891 SP:314/314 BP:0
+D-Osvald - HP:2543/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:598/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Osvald
+3.Partitio
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Temenos se defiende
+Temenos recibe 0 de daño elemental
+Temenos termina con HP:2711
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:2711/4002 SP:432/432 BP:5
+C-Partitio - HP:2837/4891 SP:314/314 BP:0
+D-Osvald - HP:2543/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:598/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Osvald
+3.Partitio
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:2711/4002 SP:432/432 BP:5
+C-Partitio - HP:2837/4891 SP:314/314 BP:0
+D-Osvald - HP:2543/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:598/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Partitio
+3.Frost Fox
+4.Devil Deer
+5.Dark Elemental
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:2711/4002 SP:432/432 BP:5
+C-Partitio - HP:2837/4891 SP:314/314 BP:0
+D-Osvald - HP:2543/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:598/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Frost Fox
+3.Devil Deer
+4.Dark Elemental
+5.Wind Elemental
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Osvald
+3.Partitio
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:2711/4002 SP:432/432 BP:5
+C-Partitio - HP:2837/4891 SP:314/314 BP:0
+D-Osvald - HP:2543/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:598/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Devil Deer
+3.Dark Elemental
+4.Wind Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Frost Fox usa Ice blast
+Temenos se defiende
+Temenos recibe 67 de daño elemental
+Partitio se defiende
+Partitio recibe 124 de daño elemental
+Osvald se defiende
+Osvald recibe 101 de daño elemental
+Temenos termina con HP:2644
+Partitio termina con HP:2713
+Osvald termina con HP:2442
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:2644/4002 SP:432/432 BP:5
+C-Partitio - HP:2713/4891 SP:314/314 BP:0
+D-Osvald - HP:2442/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:598/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Dark Elemental
+3.Wind Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Devil Deer usa Boar Rush
+Temenos se defiende
+Temenos recibe 274 de daño físico
+Temenos termina con HP:2370
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:2370/4002 SP:432/432 BP:5
+C-Partitio - HP:2713/4891 SP:314/314 BP:0
+D-Osvald - HP:2442/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:598/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Wind Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Dark Elemental usa Shadowshot
+Partitio se defiende
+Partitio recibe 102 de daño elemental
+Partitio termina con HP:2611
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:2370/4002 SP:432/432 BP:5
+C-Partitio - HP:2611/4891 SP:314/314 BP:0
+D-Osvald - HP:2442/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:598/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Wind Elemental usa Windshot
+Partitio se defiende
+Partitio recibe 71 de daño elemental
+Partitio termina con HP:2540
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:2370/4002 SP:432/432 BP:5
+C-Partitio - HP:2540/4891 SP:314/314 BP:0
+D-Osvald - HP:2442/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:598/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Temenos se defiende
+Temenos recibe 0 de daño elemental
+Temenos termina con HP:2370
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:2370/4002 SP:432/432 BP:5
+C-Partitio - HP:2540/4891 SP:314/314 BP:1
+D-Osvald - HP:2442/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:598/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Light Wisp - HP:598/972 Shields:1
+2: Dark Elemental - HP:1822/1822 Shields:4
+3: Wind Elemental - HP:2208/2496 Shields:4
+4: Frost Fox - HP:1302/1302 Shields:2
+5: Devil Deer - HP:1822/2002 Shields:3
+6: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Temenos ataca
+Dark Elemental recibe 0 de daño de tipo Stave
+Dark Elemental recibe 0 de daño de tipo Stave
+Dark Elemental recibe 0 de daño de tipo Stave
+Dark Elemental recibe 0 de daño de tipo Stave
+Dark Elemental termina con HP:1822
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:2370/4002 SP:432/432 BP:2
+C-Partitio - HP:2540/4891 SP:314/314 BP:1
+D-Osvald - HP:2442/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:598/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Osvald
+3.Frost Fox
+4.Devil Deer
+5.Dark Elemental
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Light Wisp - HP:598/972 Shields:1
+2: Dark Elemental - HP:1822/1822 Shields:4
+3: Wind Elemental - HP:2208/2496 Shields:4
+4: Frost Fox - HP:1302/1302 Shields:2
+5: Devil Deer - HP:1822/2002 Shields:3
+6: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Partitio no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Partitio no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Partitio ataca
+Light Wisp recibe 187 de daño de tipo Spear
+Light Wisp recibe 187 de daño de tipo Spear
+Light Wisp termina con HP:224
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:2370/4002 SP:432/432 BP:2
+C-Partitio - HP:2540/4891 SP:314/314 BP:0
+D-Osvald - HP:2442/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:224/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Frost Fox
+3.Devil Deer
+4.Dark Elemental
+5.Wind Elemental
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Light Wisp - HP:224/972 Shields:1
+2: Dark Elemental - HP:1822/1822 Shields:4
+3: Wind Elemental - HP:2208/2496 Shields:4
+4: Frost Fox - HP:1302/1302 Shields:2
+5: Devil Deer - HP:1822/2002 Shields:3
+6: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Osvald ataca
+Dark Elemental recibe 0 de daño de tipo Stave
+Dark Elemental recibe 0 de daño de tipo Stave
+Dark Elemental termina con HP:1822
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:2370/4002 SP:432/432 BP:2
+C-Partitio - HP:2540/4891 SP:314/314 BP:0
+D-Osvald - HP:2442/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:224/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Devil Deer
+3.Dark Elemental
+4.Wind Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Frost Fox usa Ice blast
+Temenos recibe 134 de daño elemental
+Partitio recibe 248 de daño elemental
+Osvald recibe 203 de daño elemental
+Temenos termina con HP:2236
+Partitio termina con HP:2292
+Osvald termina con HP:2239
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:2236/4002 SP:432/432 BP:2
+C-Partitio - HP:2292/4891 SP:314/314 BP:0
+D-Osvald - HP:2239/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:224/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Dark Elemental
+3.Wind Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Devil Deer usa Boar Rush
+Temenos recibe 548 de daño físico
+Temenos termina con HP:1688
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:1688/4002 SP:432/432 BP:2
+C-Partitio - HP:2292/4891 SP:314/314 BP:0
+D-Osvald - HP:2239/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:224/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Wind Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Dark Elemental usa Shadowshot
+Partitio recibe 205 de daño elemental
+Partitio termina con HP:2087
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:1688/4002 SP:432/432 BP:2
+C-Partitio - HP:2087/4891 SP:314/314 BP:0
+D-Osvald - HP:2239/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:224/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Wind Elemental usa Windshot
+Partitio recibe 142 de daño elemental
+Partitio termina con HP:1945
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:1688/4002 SP:432/432 BP:2
+C-Partitio - HP:1945/4891 SP:314/314 BP:0
+D-Osvald - HP:2239/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:224/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Temenos recibe 0 de daño elemental
+Temenos termina con HP:1688
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:1688/4002 SP:432/432 BP:2
+C-Partitio - HP:1945/4891 SP:314/314 BP:0
+D-Osvald - HP:2239/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:224/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Light Wisp - HP:224/972 Shields:1
+2: Dark Elemental - HP:1822/1822 Shields:4
+3: Wind Elemental - HP:2208/2496 Shields:4
+4: Frost Fox - HP:1302/1302 Shields:2
+5: Devil Deer - HP:1822/2002 Shields:3
+6: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Temenos ataca
+Frost Fox recibe 0 de daño de tipo Stave
+Frost Fox recibe 0 de daño de tipo Stave
+Frost Fox recibe 0 de daño de tipo Stave
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:1688/4002 SP:432/432 BP:0
+C-Partitio - HP:1945/4891 SP:314/314 BP:0
+D-Osvald - HP:2239/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:224/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Osvald
+3.Frost Fox
+4.Devil Deer
+5.Dark Elemental
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:1688/4002 SP:432/432 BP:0
+C-Partitio - HP:1945/4891 SP:314/314 BP:0
+D-Osvald - HP:2239/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:224/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Frost Fox
+3.Devil Deer
+4.Dark Elemental
+5.Wind Elemental
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Temenos
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:1688/4002 SP:432/432 BP:0
+C-Partitio - HP:1945/4891 SP:314/314 BP:0
+D-Osvald - HP:2239/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:224/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Devil Deer
+3.Dark Elemental
+4.Wind Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Osvald
+3.Temenos
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Frost Fox usa Ice blast
+Temenos recibe 134 de daño elemental
+Partitio se defiende
+Partitio recibe 124 de daño elemental
+Osvald se defiende
+Osvald recibe 101 de daño elemental
+Temenos termina con HP:1554
+Partitio termina con HP:1821
+Osvald termina con HP:2138
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:1554/4002 SP:432/432 BP:0
+C-Partitio - HP:1821/4891 SP:314/314 BP:0
+D-Osvald - HP:2138/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:224/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Dark Elemental
+3.Wind Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Osvald
+3.Temenos
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Devil Deer usa Boar Rush
+Temenos recibe 548 de daño físico
+Temenos termina con HP:1006
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:1006/4002 SP:432/432 BP:0
+C-Partitio - HP:1821/4891 SP:314/314 BP:0
+D-Osvald - HP:2138/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:224/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Wind Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Osvald
+3.Temenos
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Dark Elemental usa Shadowshot
+Partitio se defiende
+Partitio recibe 102 de daño elemental
+Partitio termina con HP:1719
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:1006/4002 SP:432/432 BP:0
+C-Partitio - HP:1719/4891 SP:314/314 BP:0
+D-Osvald - HP:2138/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:224/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Osvald
+3.Temenos
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Wind Elemental usa Windshot
+Partitio se defiende
+Partitio recibe 71 de daño elemental
+Partitio termina con HP:1648
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:1006/4002 SP:432/432 BP:0
+C-Partitio - HP:1648/4891 SP:314/314 BP:0
+D-Osvald - HP:2138/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:224/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Osvald
+3.Temenos
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Temenos recibe 0 de daño elemental
+Temenos termina con HP:1006
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:1006/4002 SP:432/432 BP:0
+C-Partitio - HP:1648/4891 SP:314/314 BP:1
+D-Osvald - HP:2138/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:224/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Osvald
+3.Temenos
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:1006/4002 SP:432/432 BP:0
+C-Partitio - HP:1648/4891 SP:314/314 BP:1
+D-Osvald - HP:2138/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:224/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Temenos
+3.Frost Fox
+4.Devil Deer
+5.Dark Elemental
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Temenos
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Light Wisp - HP:224/972 Shields:1
+2: Dark Elemental - HP:1822/1822 Shields:4
+3: Wind Elemental - HP:2208/2496 Shields:4
+4: Frost Fox - HP:1302/1302 Shields:2
+5: Devil Deer - HP:1822/2002 Shields:3
+6: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Osvald ataca
+Frost Fox recibe 0 de daño de tipo Stave
+Frost Fox recibe 0 de daño de tipo Stave
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:1006/4002 SP:432/432 BP:0
+C-Partitio - HP:1648/4891 SP:314/314 BP:1
+D-Osvald - HP:2138/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:224/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Frost Fox
+3.Devil Deer
+4.Dark Elemental
+5.Wind Elemental
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Temenos
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Light Wisp - HP:224/972 Shields:1
+2: Dark Elemental - HP:1822/1822 Shields:4
+3: Wind Elemental - HP:2208/2496 Shields:4
+4: Frost Fox - HP:1302/1302 Shields:2
+5: Devil Deer - HP:1822/2002 Shields:3
+6: Cancelar
+INPUT: 5
+----------------------------------------
+Temenos ataca
+Devil Deer recibe 0 de daño de tipo Stave con debilidad
+Devil Deer termina con HP:1822
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:1006/4002 SP:432/432 BP:0
+C-Partitio - HP:1648/4891 SP:314/314 BP:1
+D-Osvald - HP:2138/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:224/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Devil Deer
+3.Dark Elemental
+4.Wind Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Temenos
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Frost Fox usa Ice blast
+Temenos recibe 134 de daño elemental
+Partitio se defiende
+Partitio recibe 124 de daño elemental
+Osvald recibe 203 de daño elemental
+Temenos termina con HP:872
+Partitio termina con HP:1524
+Osvald termina con HP:1935
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:872/4002 SP:432/432 BP:0
+C-Partitio - HP:1524/4891 SP:314/314 BP:1
+D-Osvald - HP:1935/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:224/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Dark Elemental
+3.Wind Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Temenos
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Devil Deer usa Boar Rush
+Temenos recibe 548 de daño físico
+Temenos termina con HP:324
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:324/4002 SP:432/432 BP:0
+C-Partitio - HP:1524/4891 SP:314/314 BP:1
+D-Osvald - HP:1935/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:224/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Wind Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Temenos
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Dark Elemental usa Shadowshot
+Partitio se defiende
+Partitio recibe 102 de daño elemental
+Partitio termina con HP:1422
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:324/4002 SP:432/432 BP:0
+C-Partitio - HP:1422/4891 SP:314/314 BP:1
+D-Osvald - HP:1935/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:224/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Temenos
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Wind Elemental usa Windshot
+Partitio se defiende
+Partitio recibe 71 de daño elemental
+Partitio termina con HP:1351
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:324/4002 SP:432/432 BP:0
+C-Partitio - HP:1351/4891 SP:314/314 BP:1
+D-Osvald - HP:1935/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:224/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Temenos
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Temenos recibe 0 de daño elemental
+Temenos termina con HP:324
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:324/4002 SP:432/432 BP:1
+C-Partitio - HP:1351/4891 SP:314/314 BP:2
+D-Osvald - HP:1935/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:224/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Temenos
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Partitio
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:324/4002 SP:432/432 BP:1
+C-Partitio - HP:1351/4891 SP:314/314 BP:2
+D-Osvald - HP:1935/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:224/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Osvald
+3.Frost Fox
+4.Devil Deer
+5.Dark Elemental
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Temenos
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Light Wisp - HP:224/972 Shields:1
+2: Dark Elemental - HP:1822/1822 Shields:4
+3: Wind Elemental - HP:2208/2496 Shields:4
+4: Frost Fox - HP:1302/1302 Shields:2
+5: Devil Deer - HP:1822/2002 Shields:3
+6: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Temenos ataca
+Wind Elemental recibe 0 de daño de tipo Stave
+Wind Elemental recibe 0 de daño de tipo Stave
+Wind Elemental termina con HP:2208
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:324/4002 SP:432/432 BP:0
+C-Partitio - HP:1351/4891 SP:314/314 BP:2
+D-Osvald - HP:1935/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:224/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Frost Fox
+3.Devil Deer
+4.Dark Elemental
+5.Wind Elemental
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Temenos
+3.Osvald
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:324/4002 SP:432/432 BP:0
+C-Partitio - HP:1351/4891 SP:314/314 BP:2
+D-Osvald - HP:1935/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:224/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Devil Deer
+3.Dark Elemental
+4.Wind Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Osvald
+3.Temenos
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Frost Fox usa Ice blast
+Temenos recibe 134 de daño elemental
+Partitio se defiende
+Partitio recibe 124 de daño elemental
+Osvald se defiende
+Osvald recibe 101 de daño elemental
+Temenos termina con HP:190
+Partitio termina con HP:1227
+Osvald termina con HP:1834
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:190/4002 SP:432/432 BP:0
+C-Partitio - HP:1227/4891 SP:314/314 BP:2
+D-Osvald - HP:1834/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:224/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Dark Elemental
+3.Wind Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Osvald
+3.Temenos
+4.Frost Fox
+5.Devil Deer
+6.Dark Elemental
+7.Wind Elemental
+8.Light Wisp
+----------------------------------------
+Devil Deer usa Boar Rush
+Temenos recibe 548 de daño físico
+Temenos termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:0/4002 SP:432/432 BP:0
+C-Partitio - HP:1227/4891 SP:314/314 BP:2
+D-Osvald - HP:1834/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:224/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Wind Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Osvald
+3.Frost Fox
+4.Devil Deer
+5.Dark Elemental
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Dark Elemental usa Shadowshot
+Partitio se defiende
+Partitio recibe 102 de daño elemental
+Partitio termina con HP:1125
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:0/4002 SP:432/432 BP:0
+C-Partitio - HP:1125/4891 SP:314/314 BP:2
+D-Osvald - HP:1834/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:224/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Osvald
+3.Frost Fox
+4.Devil Deer
+5.Dark Elemental
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Wind Elemental usa Windshot
+Partitio se defiende
+Partitio recibe 71 de daño elemental
+Partitio termina con HP:1054
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:0/4002 SP:432/432 BP:0
+C-Partitio - HP:1054/4891 SP:314/314 BP:2
+D-Osvald - HP:1834/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:224/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Osvald
+3.Frost Fox
+4.Devil Deer
+5.Dark Elemental
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Partitio se defiende
+Partitio recibe 54 de daño elemental
+Partitio termina con HP:1000
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:0/4002 SP:432/432 BP:0
+C-Partitio - HP:1000/4891 SP:314/314 BP:3
+D-Osvald - HP:1834/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:224/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Osvald
+3.Frost Fox
+4.Devil Deer
+5.Dark Elemental
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Osvald
+3.Frost Fox
+4.Devil Deer
+5.Dark Elemental
+6.Wind Elemental
+7.Light Wisp
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Light Wisp - HP:224/972 Shields:1
+2: Dark Elemental - HP:1822/1822 Shields:4
+3: Wind Elemental - HP:2208/2496 Shields:4
+4: Frost Fox - HP:1302/1302 Shields:2
+5: Devil Deer - HP:1822/2002 Shields:3
+6: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Partitio ataca
+Light Wisp recibe 187 de daño de tipo Spear
+Light Wisp recibe 187 de daño de tipo Spear
+Light Wisp recibe 187 de daño de tipo Spear
+Light Wisp recibe 187 de daño de tipo Spear
+Light Wisp termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:0/4002 SP:432/432 BP:0
+C-Partitio - HP:1000/4891 SP:314/314 BP:0
+D-Osvald - HP:1834/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Frost Fox
+3.Devil Deer
+4.Dark Elemental
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Osvald
+3.Frost Fox
+4.Devil Deer
+5.Dark Elemental
+6.Wind Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:0/4002 SP:432/432 BP:0
+C-Partitio - HP:1000/4891 SP:314/314 BP:0
+D-Osvald - HP:1834/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Devil Deer
+3.Dark Elemental
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Partitio
+3.Frost Fox
+4.Devil Deer
+5.Dark Elemental
+6.Wind Elemental
+----------------------------------------
+Frost Fox usa Ice blast
+Partitio recibe 248 de daño elemental
+Osvald se defiende
+Osvald recibe 101 de daño elemental
+Partitio termina con HP:752
+Osvald termina con HP:1733
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:0/4002 SP:432/432 BP:0
+C-Partitio - HP:752/4891 SP:314/314 BP:0
+D-Osvald - HP:1733/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Dark Elemental
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Partitio
+3.Frost Fox
+4.Devil Deer
+5.Dark Elemental
+6.Wind Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+Osvald se defiende
+Osvald recibe 264 de daño físico
+Osvald termina con HP:1469
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:0/4002 SP:432/432 BP:0
+C-Partitio - HP:752/4891 SP:314/314 BP:0
+D-Osvald - HP:1469/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Partitio
+3.Frost Fox
+4.Devil Deer
+5.Dark Elemental
+6.Wind Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Partitio recibe 205 de daño elemental
+Partitio termina con HP:547
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:0/4002 SP:432/432 BP:0
+C-Partitio - HP:547/4891 SP:314/314 BP:0
+D-Osvald - HP:1469/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Partitio
+3.Frost Fox
+4.Devil Deer
+5.Dark Elemental
+6.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Partitio recibe 142 de daño elemental
+Partitio termina con HP:405
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:0/4002 SP:432/432 BP:0
+C-Partitio - HP:405/4891 SP:314/314 BP:0
+D-Osvald - HP:1469/3557 SP:541/541 BP:4
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Partitio
+3.Frost Fox
+4.Devil Deer
+5.Dark Elemental
+6.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Osvald
+3.Frost Fox
+4.Devil Deer
+5.Dark Elemental
+6.Wind Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Dark Elemental - HP:1822/1822 Shields:4
+2: Wind Elemental - HP:2208/2496 Shields:4
+3: Frost Fox - HP:1302/1302 Shields:2
+4: Devil Deer - HP:1822/2002 Shields:3
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Osvald ataca
+Wind Elemental recibe 0 de daño de tipo Stave
+Wind Elemental recibe 0 de daño de tipo Stave
+Wind Elemental termina con HP:2208
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:0/4002 SP:432/432 BP:0
+C-Partitio - HP:405/4891 SP:314/314 BP:0
+D-Osvald - HP:1469/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Frost Fox
+3.Devil Deer
+4.Dark Elemental
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Osvald
+3.Frost Fox
+4.Devil Deer
+5.Dark Elemental
+6.Wind Elemental
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Dark Elemental - HP:1822/1822 Shields:4
+2: Wind Elemental - HP:2208/2496 Shields:4
+3: Frost Fox - HP:1302/1302 Shields:2
+4: Devil Deer - HP:1822/2002 Shields:3
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Partitio ataca
+Frost Fox recibe 156 de daño de tipo Spear
+Frost Fox termina con HP:1146
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:0/4002 SP:432/432 BP:0
+C-Partitio - HP:405/4891 SP:314/314 BP:0
+D-Osvald - HP:1469/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1146/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Devil Deer
+3.Dark Elemental
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Osvald
+3.Frost Fox
+4.Devil Deer
+5.Dark Elemental
+6.Wind Elemental
+----------------------------------------
+Frost Fox usa Ice blast
+Partitio recibe 248 de daño elemental
+Osvald recibe 203 de daño elemental
+Partitio termina con HP:157
+Osvald termina con HP:1266
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:0/4002 SP:432/432 BP:0
+C-Partitio - HP:157/4891 SP:314/314 BP:0
+D-Osvald - HP:1266/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1146/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Dark Elemental
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Osvald
+3.Frost Fox
+4.Devil Deer
+5.Dark Elemental
+6.Wind Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+Osvald recibe 529 de daño físico
+Osvald termina con HP:737
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:0/4002 SP:432/432 BP:0
+C-Partitio - HP:157/4891 SP:314/314 BP:0
+D-Osvald - HP:737/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1146/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Osvald
+3.Frost Fox
+4.Devil Deer
+5.Dark Elemental
+6.Wind Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Partitio recibe 205 de daño elemental
+Partitio termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:0/4002 SP:432/432 BP:0
+C-Partitio - HP:0/4891 SP:314/314 BP:0
+D-Osvald - HP:737/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1146/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Frost Fox
+3.Devil Deer
+4.Dark Elemental
+5.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Osvald recibe 97 de daño elemental
+Osvald termina con HP:640
+----------------------------------------
+INICIA RONDA 14
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:0/4002 SP:432/432 BP:0
+C-Partitio - HP:0/4891 SP:314/314 BP:0
+D-Osvald - HP:640/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1146/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Frost Fox
+3.Devil Deer
+4.Dark Elemental
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Frost Fox
+3.Devil Deer
+4.Dark Elemental
+5.Wind Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Dark Elemental - HP:1822/1822 Shields:4
+2: Wind Elemental - HP:2208/2496 Shields:4
+3: Frost Fox - HP:1146/1302 Shields:2
+4: Devil Deer - HP:1822/2002 Shields:3
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Osvald ataca
+Devil Deer recibe 0 de daño de tipo Stave con debilidad
+Devil Deer recibe 0 de daño de tipo Stave con debilidad
+Devil Deer recibe 0 de daño de tipo Stave con debilidad
+Devil Deer recibe 0 de daño de tipo Stave con debilidad
+Devil Deer termina con HP:1822
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:0/4002 SP:432/432 BP:0
+C-Partitio - HP:0/4891 SP:314/314 BP:0
+D-Osvald - HP:640/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1146/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Devil Deer
+3.Dark Elemental
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Frost Fox
+3.Devil Deer
+4.Dark Elemental
+5.Wind Elemental
+----------------------------------------
+Frost Fox usa Ice blast
+Osvald recibe 203 de daño elemental
+Osvald termina con HP:437
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:0/3222 SP:371/371 BP:0
+B-Temenos - HP:0/4002 SP:432/432 BP:0
+C-Partitio - HP:0/4891 SP:314/314 BP:0
+D-Osvald - HP:437/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Elemental - HP:2208/2496 Shields:4
+D-Frost Fox - HP:1146/1302 Shields:2
+E-Devil Deer - HP:1822/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Dark Elemental
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Frost Fox
+3.Devil Deer
+4.Dark Elemental
+5.Wind Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+Osvald recibe 529 de daño físico
+Osvald termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

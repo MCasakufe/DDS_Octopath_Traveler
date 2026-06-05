@@ -1,0 +1,898 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+INPUT: 50
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+C-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Cyrus
+3.Olberic
+4.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Olberic
+4.Devourer of Dreams
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Devourer of Dreams - HP:7500/7500 Shields:10
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Devourer of Dreams recibe 0 de daño de tipo Stave
+Devourer of Dreams termina con HP:7500
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+C-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Olberic
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Olberic
+4.Devourer of Dreams
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Devourer of Dreams - HP:7500/7500 Shields:10
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Devourer of Dreams recibe 0 de daño de tipo Stave
+Devourer of Dreams termina con HP:7500
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+C-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Olberic
+4.Devourer of Dreams
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Devourer of Dreams - HP:7500/7500 Shields:10
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Devourer of Dreams recibe 246 de daño de tipo Sword con debilidad
+Devourer of Dreams termina con HP:7254
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+C-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:7254/7500 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Olberic
+4.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Ophilia recibe 2001 de daño
+Cyrus recibe 1779 de daño
+Olberic recibe 2891 de daño
+Ophilia termina con HP:2001
+Cyrus termina con HP:1778
+Olberic termina con HP:2890
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2001/4002 SP:470/470 BP:2
+B-Cyrus - HP:1778/3557 SP:582/582 BP:2
+C-Olberic - HP:2890/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:7254/7500 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Cyrus
+3.Olberic
+4.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Olberic
+4.Devourer of Dreams
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Heal Wounds
+Cyrus recupera 598 de vida
+Olberic recupera 598 de vida
+Ophilia recupera 598 de vida
+Cyrus termina con HP:2376
+Olberic termina con HP:3488
+Ophilia termina con HP:2599
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2599/4002 SP:464/470 BP:2
+B-Cyrus - HP:2376/3557 SP:582/582 BP:2
+C-Olberic - HP:3488/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:7254/7500 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Olberic
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Olberic
+4.Devourer of Dreams
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Devourer of Dreams - HP:7254/7500 Shields:9
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Devourer of Dreams recibe 0 de daño de tipo Stave
+Devourer of Dreams termina con HP:7254
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2599/4002 SP:464/470 BP:2
+B-Cyrus - HP:2376/3557 SP:582/582 BP:2
+C-Olberic - HP:3488/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:7254/7500 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Olberic
+4.Devourer of Dreams
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Devourer of Dreams - HP:7254/7500 Shields:9
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Devourer of Dreams recibe 246 de daño de tipo Sword con debilidad
+Devourer of Dreams termina con HP:7008
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2599/4002 SP:464/470 BP:2
+B-Cyrus - HP:2376/3557 SP:582/582 BP:2
+C-Olberic - HP:3488/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:7008/7500 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Olberic
+4.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Ophilia recibe 1300 de daño
+Cyrus recibe 1188 de daño
+Olberic recibe 1744 de daño
+Ophilia termina con HP:1299
+Cyrus termina con HP:1188
+Olberic termina con HP:1744
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1299/4002 SP:464/470 BP:3
+B-Cyrus - HP:1188/3557 SP:582/582 BP:3
+C-Olberic - HP:1744/5781 SP:291/291 BP:3
+Equipo del enemigo
+A-Devourer of Dreams - HP:7008/7500 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Cyrus
+3.Olberic
+4.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Olberic
+4.Devourer of Dreams
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Devourer of Dreams - HP:7008/7500 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Devourer of Dreams recibe 0 de daño de tipo Stave
+Devourer of Dreams termina con HP:7008
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1299/4002 SP:464/470 BP:3
+B-Cyrus - HP:1188/3557 SP:582/582 BP:3
+C-Olberic - HP:1744/5781 SP:291/291 BP:3
+Equipo del enemigo
+A-Devourer of Dreams - HP:7008/7500 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Olberic
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Olberic
+4.Devourer of Dreams
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Devourer of Dreams - HP:7008/7500 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Devourer of Dreams recibe 0 de daño de tipo Stave
+Devourer of Dreams termina con HP:7008
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1299/4002 SP:464/470 BP:3
+B-Cyrus - HP:1188/3557 SP:582/582 BP:3
+C-Olberic - HP:1744/5781 SP:291/291 BP:3
+Equipo del enemigo
+A-Devourer of Dreams - HP:7008/7500 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Olberic
+4.Devourer of Dreams
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Devourer of Dreams - HP:7008/7500 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Devourer of Dreams recibe 246 de daño de tipo Sword con debilidad
+Devourer of Dreams termina con HP:6762
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1299/4002 SP:464/470 BP:3
+B-Cyrus - HP:1188/3557 SP:582/582 BP:3
+C-Olberic - HP:1744/5781 SP:291/291 BP:3
+Equipo del enemigo
+A-Devourer of Dreams - HP:6762/7500 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Olberic
+4.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Ophilia recibe 650 de daño
+Cyrus recibe 594 de daño
+Olberic recibe 872 de daño
+Ophilia termina con HP:649
+Cyrus termina con HP:594
+Olberic termina con HP:872
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:649/4002 SP:464/470 BP:4
+B-Cyrus - HP:594/3557 SP:582/582 BP:4
+C-Olberic - HP:872/5781 SP:291/291 BP:4
+Equipo del enemigo
+A-Devourer of Dreams - HP:6762/7500 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Cyrus
+3.Olberic
+4.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Olberic
+4.Devourer of Dreams
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Ophilia usa Heal Wounds
+Cyrus recupera 1197 de vida
+Olberic recupera 1197 de vida
+Ophilia recupera 1197 de vida
+Cyrus termina con HP:1791
+Olberic termina con HP:2069
+Ophilia termina con HP:1846
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1846/4002 SP:458/470 BP:1
+B-Cyrus - HP:1791/3557 SP:582/582 BP:4
+C-Olberic - HP:2069/5781 SP:291/291 BP:4
+Equipo del enemigo
+A-Devourer of Dreams - HP:6762/7500 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Olberic
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Olberic
+4.Devourer of Dreams
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Devourer of Dreams - HP:6762/7500 Shields:7
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Devourer of Dreams recibe 0 de daño de tipo Stave
+Devourer of Dreams termina con HP:6762
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1846/4002 SP:458/470 BP:1
+B-Cyrus - HP:1791/3557 SP:582/582 BP:4
+C-Olberic - HP:2069/5781 SP:291/291 BP:4
+Equipo del enemigo
+A-Devourer of Dreams - HP:6762/7500 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Olberic
+4.Devourer of Dreams
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Devourer of Dreams - HP:6762/7500 Shields:7
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Devourer of Dreams recibe 246 de daño de tipo Sword con debilidad
+Devourer of Dreams termina con HP:6516
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1846/4002 SP:458/470 BP:1
+B-Cyrus - HP:1791/3557 SP:582/582 BP:4
+C-Olberic - HP:2069/5781 SP:291/291 BP:4
+Equipo del enemigo
+A-Devourer of Dreams - HP:6516/7500 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Olberic
+4.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Ophilia recibe 923 de daño
+Cyrus recibe 896 de daño
+Olberic recibe 1035 de daño
+Ophilia termina con HP:923
+Cyrus termina con HP:895
+Olberic termina con HP:1034
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:923/4002 SP:458/470 BP:1
+B-Cyrus - HP:895/3557 SP:582/582 BP:5
+C-Olberic - HP:1034/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:6516/7500 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Cyrus
+3.Olberic
+4.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Olberic
+4.Devourer of Dreams
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Devourer of Dreams - HP:6516/7500 Shields:6
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Devourer of Dreams recibe 0 de daño de tipo Stave
+Devourer of Dreams termina con HP:6516
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:923/4002 SP:458/470 BP:1
+B-Cyrus - HP:895/3557 SP:582/582 BP:5
+C-Olberic - HP:1034/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:6516/7500 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Olberic
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Olberic
+4.Devourer of Dreams
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Devourer of Dreams - HP:6516/7500 Shields:6
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Devourer of Dreams recibe 0 de daño de tipo Stave
+Devourer of Dreams termina con HP:6516
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:923/4002 SP:458/470 BP:1
+B-Cyrus - HP:895/3557 SP:582/582 BP:5
+C-Olberic - HP:1034/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:6516/7500 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Olberic
+4.Devourer of Dreams
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Devourer of Dreams - HP:6516/7500 Shields:6
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Devourer of Dreams recibe 246 de daño de tipo Sword con debilidad
+Devourer of Dreams termina con HP:6270
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:923/4002 SP:458/470 BP:1
+B-Cyrus - HP:895/3557 SP:582/582 BP:5
+C-Olberic - HP:1034/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:6270/7500 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Olberic
+4.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Ophilia recibe 462 de daño
+Cyrus recibe 448 de daño
+Olberic recibe 517 de daño
+Ophilia termina con HP:461
+Cyrus termina con HP:447
+Olberic termina con HP:517
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:461/4002 SP:458/470 BP:2
+B-Cyrus - HP:447/3557 SP:582/582 BP:5
+C-Olberic - HP:517/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:6270/7500 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Cyrus
+3.Olberic
+4.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Olberic
+4.Devourer of Dreams
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Ophilia usa Heal Wounds
+Cyrus recupera 997 de vida
+Olberic recupera 997 de vida
+Ophilia recupera 997 de vida
+Cyrus termina con HP:1444
+Olberic termina con HP:1514
+Ophilia termina con HP:1458
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1458/4002 SP:452/470 BP:0
+B-Cyrus - HP:1444/3557 SP:582/582 BP:5
+C-Olberic - HP:1514/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:6270/7500 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Olberic
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Olberic
+4.Devourer of Dreams
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo

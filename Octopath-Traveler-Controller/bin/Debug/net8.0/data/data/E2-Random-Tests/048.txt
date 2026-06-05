@@ -1,0 +1,4455 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 47
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4502/4502 SP:554/554 BP:1
+B-Throné - HP:4447/4447 SP:332/332 BP:1
+C-Castti - HP:5336/5336 SP:426/426 BP:1
+Equipo del enemigo
+A-Heavenwing - HP:6900/6900 Shields:7
+B-Ice Elemental - HP:2160/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Wildfire
+2: Night Ode
+3: Fireball
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné usa Night Ode
+Heavenwing recibe 47 de daño de tipo Dark con debilidad
+Ice Elemental recibe 265 de daño de tipo Dark
+Heavenwing termina con HP:6853
+Ice Elemental termina con HP:1895
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4502/4502 SP:554/554 BP:1
+B-Throné - HP:4447/4447 SP:322/332 BP:1
+C-Castti - HP:5336/5336 SP:426/426 BP:1
+Equipo del enemigo
+A-Heavenwing - HP:6853/6900 Shields:6
+B-Ice Elemental - HP:1895/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Heavenwing - HP:6853/6900 Shields:6
+2: Ice Elemental - HP:1895/2160 Shields:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Ice Elemental recibe 0 de daño de tipo Dagger
+Ice Elemental termina con HP:1895
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4502/4502 SP:554/554 BP:1
+B-Throné - HP:4447/4447 SP:322/332 BP:1
+C-Castti - HP:5336/5336 SP:426/426 BP:1
+Equipo del enemigo
+A-Heavenwing - HP:6853/6900 Shields:6
+B-Ice Elemental - HP:1895/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Heal Wounds
+Agnea recupera 492 de vida
+Throné recupera 492 de vida
+Castti recupera 492 de vida
+Agnea termina con HP:4502
+Throné termina con HP:4447
+Castti termina con HP:5336
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4502/4502 SP:554/554 BP:1
+B-Throné - HP:4447/4447 SP:322/332 BP:1
+C-Castti - HP:5336/5336 SP:420/426 BP:1
+Equipo del enemigo
+A-Heavenwing - HP:6853/6900 Shields:6
+B-Ice Elemental - HP:1895/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea recibe 343 de daño elemental
+Throné recibe 447 de daño elemental
+Castti recibe 347 de daño elemental
+Agnea termina con HP:4159
+Throné termina con HP:4000
+Castti termina con HP:4989
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4159/4502 SP:554/554 BP:1
+B-Throné - HP:4000/4447 SP:322/332 BP:1
+C-Castti - HP:4989/5336 SP:420/426 BP:1
+Equipo del enemigo
+A-Heavenwing - HP:6853/6900 Shields:6
+B-Ice Elemental - HP:1895/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Throné recibe 247 de daño elemental
+Throné termina con HP:3753
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4159/4502 SP:554/554 BP:2
+B-Throné - HP:3753/4447 SP:322/332 BP:2
+C-Castti - HP:4989/5336 SP:420/426 BP:2
+Equipo del enemigo
+A-Heavenwing - HP:6853/6900 Shields:6
+B-Ice Elemental - HP:1895/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4159/4502 SP:554/554 BP:2
+B-Throné - HP:3753/4447 SP:322/332 BP:2
+C-Castti - HP:4989/5336 SP:420/426 BP:2
+Equipo del enemigo
+A-Heavenwing - HP:6853/6900 Shields:6
+B-Ice Elemental - HP:1895/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Revive
+2: Mercy Strike
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Revive
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4159/4502 SP:504/554 BP:2
+B-Throné - HP:3753/4447 SP:322/332 BP:2
+C-Castti - HP:4989/5336 SP:420/426 BP:2
+Equipo del enemigo
+A-Heavenwing - HP:6853/6900 Shields:6
+B-Ice Elemental - HP:1895/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Heavenwing - HP:6853/6900 Shields:6
+2: Ice Elemental - HP:1895/2160 Shields:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Ice Elemental recibe 90 de daño de tipo Axe
+Ice Elemental termina con HP:1805
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4159/4502 SP:504/554 BP:2
+B-Throné - HP:3753/4447 SP:322/332 BP:2
+C-Castti - HP:4989/5336 SP:420/426 BP:2
+Equipo del enemigo
+A-Heavenwing - HP:6853/6900 Shields:6
+B-Ice Elemental - HP:1805/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea recibe 343 de daño elemental
+Throné se defiende
+Throné recibe 223 de daño elemental
+Castti recibe 347 de daño elemental
+Agnea termina con HP:3816
+Throné termina con HP:3530
+Castti termina con HP:4642
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3816/4502 SP:504/554 BP:2
+B-Throné - HP:3530/4447 SP:322/332 BP:2
+C-Castti - HP:4642/5336 SP:420/426 BP:2
+Equipo del enemigo
+A-Heavenwing - HP:6853/6900 Shields:6
+B-Ice Elemental - HP:1805/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Throné se defiende
+Throné recibe 123 de daño elemental
+Throné termina con HP:3407
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3816/4502 SP:504/554 BP:3
+B-Throné - HP:3407/4447 SP:322/332 BP:3
+C-Castti - HP:4642/5336 SP:420/426 BP:3
+Equipo del enemigo
+A-Heavenwing - HP:6853/6900 Shields:6
+B-Ice Elemental - HP:1805/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Wildfire
+2: Night Ode
+3: Fireball
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné usa Night Ode
+Heavenwing recibe 47 de daño de tipo Dark con debilidad
+Ice Elemental recibe 265 de daño de tipo Dark
+Heavenwing termina con HP:6806
+Ice Elemental termina con HP:1540
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3816/4502 SP:504/554 BP:3
+B-Throné - HP:3407/4447 SP:312/332 BP:3
+C-Castti - HP:4642/5336 SP:420/426 BP:3
+Equipo del enemigo
+A-Heavenwing - HP:6806/6900 Shields:5
+B-Ice Elemental - HP:1540/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3816/4502 SP:504/554 BP:3
+B-Throné - HP:3407/4447 SP:312/332 BP:3
+C-Castti - HP:4642/5336 SP:420/426 BP:3
+Equipo del enemigo
+A-Heavenwing - HP:6806/6900 Shields:5
+B-Ice Elemental - HP:1540/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Throné
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3816/4502 SP:504/554 BP:3
+B-Throné - HP:3407/4447 SP:312/332 BP:3
+C-Castti - HP:4642/5336 SP:420/426 BP:3
+Equipo del enemigo
+A-Heavenwing - HP:6806/6900 Shields:5
+B-Ice Elemental - HP:1540/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Throné
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea se defiende
+Agnea recibe 171 de daño elemental
+Throné recibe 447 de daño elemental
+Castti se defiende
+Castti recibe 173 de daño elemental
+Agnea termina con HP:3645
+Throné termina con HP:2960
+Castti termina con HP:4469
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3645/4502 SP:504/554 BP:3
+B-Throné - HP:2960/4447 SP:312/332 BP:3
+C-Castti - HP:4469/5336 SP:420/426 BP:3
+Equipo del enemigo
+A-Heavenwing - HP:6806/6900 Shields:5
+B-Ice Elemental - HP:1540/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Throné
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Throné recibe 247 de daño elemental
+Throné termina con HP:2713
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3645/4502 SP:504/554 BP:4
+B-Throné - HP:2713/4447 SP:312/332 BP:4
+C-Castti - HP:4469/5336 SP:420/426 BP:4
+Equipo del enemigo
+A-Heavenwing - HP:6806/6900 Shields:5
+B-Ice Elemental - HP:1540/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Castti
+3.Throné
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3645/4502 SP:504/554 BP:4
+B-Throné - HP:2713/4447 SP:312/332 BP:4
+C-Castti - HP:4469/5336 SP:420/426 BP:4
+Equipo del enemigo
+A-Heavenwing - HP:6806/6900 Shields:5
+B-Ice Elemental - HP:1540/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Throné
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Throné
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3645/4502 SP:504/554 BP:4
+B-Throné - HP:2713/4447 SP:312/332 BP:4
+C-Castti - HP:4469/5336 SP:420/426 BP:4
+Equipo del enemigo
+A-Heavenwing - HP:6806/6900 Shields:5
+B-Ice Elemental - HP:1540/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Throné
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Heavenwing - HP:6806/6900 Shields:5
+2: Ice Elemental - HP:1540/2160 Shields:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné ataca
+Heavenwing recibe 87 de daño de tipo Sword
+Heavenwing termina con HP:6719
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3645/4502 SP:504/554 BP:4
+B-Throné - HP:2713/4447 SP:312/332 BP:4
+C-Castti - HP:4469/5336 SP:420/426 BP:4
+Equipo del enemigo
+A-Heavenwing - HP:6719/6900 Shields:5
+B-Ice Elemental - HP:1540/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Throné
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea se defiende
+Agnea recibe 171 de daño elemental
+Throné recibe 447 de daño elemental
+Castti se defiende
+Castti recibe 173 de daño elemental
+Agnea termina con HP:3474
+Throné termina con HP:2266
+Castti termina con HP:4296
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3474/4502 SP:504/554 BP:4
+B-Throné - HP:2266/4447 SP:312/332 BP:4
+C-Castti - HP:4296/5336 SP:420/426 BP:4
+Equipo del enemigo
+A-Heavenwing - HP:6719/6900 Shields:5
+B-Ice Elemental - HP:1540/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Throné
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Throné recibe 247 de daño elemental
+Throné termina con HP:2019
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3474/4502 SP:504/554 BP:5
+B-Throné - HP:2019/4447 SP:312/332 BP:5
+C-Castti - HP:4296/5336 SP:420/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6719/6900 Shields:5
+B-Ice Elemental - HP:1540/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Castti
+3.Throné
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3474/4502 SP:504/554 BP:5
+B-Throné - HP:2019/4447 SP:312/332 BP:5
+C-Castti - HP:4296/5336 SP:420/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6719/6900 Shields:5
+B-Ice Elemental - HP:1540/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Throné
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Throné
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Heal Wounds
+Agnea recupera 492 de vida
+Throné recupera 492 de vida
+Castti recupera 492 de vida
+Agnea termina con HP:3966
+Throné termina con HP:2511
+Castti termina con HP:4788
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3966/4502 SP:504/554 BP:5
+B-Throné - HP:2511/4447 SP:312/332 BP:5
+C-Castti - HP:4788/5336 SP:414/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6719/6900 Shields:5
+B-Ice Elemental - HP:1540/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Throné
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Heavenwing - HP:6719/6900 Shields:5
+2: Ice Elemental - HP:1540/2160 Shields:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné ataca
+Ice Elemental recibe 48 de daño de tipo Sword
+Ice Elemental termina con HP:1492
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3966/4502 SP:504/554 BP:5
+B-Throné - HP:2511/4447 SP:312/332 BP:5
+C-Castti - HP:4788/5336 SP:414/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6719/6900 Shields:5
+B-Ice Elemental - HP:1492/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Throné
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea se defiende
+Agnea recibe 171 de daño elemental
+Throné recibe 447 de daño elemental
+Castti recibe 347 de daño elemental
+Agnea termina con HP:3795
+Throné termina con HP:2064
+Castti termina con HP:4441
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3795/4502 SP:504/554 BP:5
+B-Throné - HP:2064/4447 SP:312/332 BP:5
+C-Castti - HP:4441/5336 SP:414/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6719/6900 Shields:5
+B-Ice Elemental - HP:1492/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Throné
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Throné recibe 247 de daño elemental
+Throné termina con HP:1817
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3795/4502 SP:504/554 BP:5
+B-Throné - HP:1817/4447 SP:312/332 BP:5
+C-Castti - HP:4441/5336 SP:414/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6719/6900 Shields:5
+B-Ice Elemental - HP:1492/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Throné
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3795/4502 SP:504/554 BP:5
+B-Throné - HP:1817/4447 SP:312/332 BP:5
+C-Castti - HP:4441/5336 SP:414/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6719/6900 Shields:5
+B-Ice Elemental - HP:1492/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Throné
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Wildfire
+2: Night Ode
+3: Fireball
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Heavenwing - HP:6719/6900 Shields:5
+2: Ice Elemental - HP:1492/2160 Shields:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné usa Wildfire
+Ice Elemental recibe 398 de daño de tipo Fire con debilidad
+Ice Elemental termina con HP:1094
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3795/4502 SP:504/554 BP:5
+B-Throné - HP:1817/4447 SP:305/332 BP:5
+C-Castti - HP:4441/5336 SP:414/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6719/6900 Shields:5
+B-Ice Elemental - HP:1094/2160 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Throné
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Heavenwing - HP:6719/6900 Shields:5
+2: Ice Elemental - HP:1094/2160 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Heavenwing recibe 129 de daño de tipo Axe
+Heavenwing termina con HP:6590
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3795/4502 SP:504/554 BP:5
+B-Throné - HP:1817/4447 SP:305/332 BP:5
+C-Castti - HP:4441/5336 SP:414/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6590/6900 Shields:5
+B-Ice Elemental - HP:1094/2160 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Throné
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea se defiende
+Agnea recibe 171 de daño elemental
+Throné recibe 447 de daño elemental
+Castti recibe 347 de daño elemental
+Agnea termina con HP:3624
+Throné termina con HP:1370
+Castti termina con HP:4094
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3624/4502 SP:504/554 BP:5
+B-Throné - HP:1370/4447 SP:305/332 BP:5
+C-Castti - HP:4094/5336 SP:414/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6590/6900 Shields:5
+B-Ice Elemental - HP:1094/2160 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Throné
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Throné recibe 247 de daño elemental
+Throné termina con HP:1123
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3624/4502 SP:504/554 BP:5
+B-Throné - HP:1123/4447 SP:305/332 BP:5
+C-Castti - HP:4094/5336 SP:414/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6590/6900 Shields:5
+B-Ice Elemental - HP:1094/2160 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Throné
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3624/4502 SP:504/554 BP:5
+B-Throné - HP:1123/4447 SP:305/332 BP:5
+C-Castti - HP:4094/5336 SP:414/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6590/6900 Shields:5
+B-Ice Elemental - HP:1094/2160 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Throné
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Wildfire
+2: Night Ode
+3: Fireball
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné usa Fireball
+Heavenwing recibe 1 de daño de tipo Fire
+Ice Elemental recibe 353 de daño de tipo Fire con debilidad
+Heavenwing termina con HP:6589
+Ice Elemental termina con HP:741
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3624/4502 SP:504/554 BP:5
+B-Throné - HP:1123/4447 SP:297/332 BP:5
+C-Castti - HP:4094/5336 SP:414/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6589/6900 Shields:5
+B-Ice Elemental - HP:741/2160 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Throné
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Heavenwing - HP:6589/6900 Shields:5
+2: Ice Elemental - HP:741/2160 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Heavenwing recibe 129 de daño de tipo Axe
+Heavenwing termina con HP:6460
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3624/4502 SP:504/554 BP:5
+B-Throné - HP:1123/4447 SP:297/332 BP:5
+C-Castti - HP:4094/5336 SP:414/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6460/6900 Shields:5
+B-Ice Elemental - HP:741/2160 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Throné
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea se defiende
+Agnea recibe 171 de daño elemental
+Throné recibe 447 de daño elemental
+Castti recibe 347 de daño elemental
+Agnea termina con HP:3453
+Throné termina con HP:676
+Castti termina con HP:3747
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3453/4502 SP:504/554 BP:5
+B-Throné - HP:676/4447 SP:297/332 BP:5
+C-Castti - HP:3747/5336 SP:414/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6460/6900 Shields:5
+B-Ice Elemental - HP:741/2160 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Throné
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Throné recibe 247 de daño elemental
+Throné termina con HP:429
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3453/4502 SP:504/554 BP:5
+B-Throné - HP:429/4447 SP:297/332 BP:5
+C-Castti - HP:3747/5336 SP:414/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6460/6900 Shields:5
+B-Ice Elemental - HP:741/2160 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Throné
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Heavenwing - HP:6460/6900 Shields:5
+2: Ice Elemental - HP:741/2160 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Heavenwing recibe 0 de daño de tipo Dagger
+Heavenwing termina con HP:6460
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3453/4502 SP:504/554 BP:5
+B-Throné - HP:429/4447 SP:297/332 BP:5
+C-Castti - HP:3747/5336 SP:414/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6460/6900 Shields:5
+B-Ice Elemental - HP:741/2160 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Wildfire
+2: Night Ode
+3: Fireball
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné usa Fireball
+Heavenwing recibe 1 de daño de tipo Fire
+Ice Elemental recibe 353 de daño de tipo Fire con debilidad
+Heavenwing termina con HP:6459
+Ice Elemental termina con HP:388
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3453/4502 SP:504/554 BP:5
+B-Throné - HP:429/4447 SP:289/332 BP:5
+C-Castti - HP:3747/5336 SP:414/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6459/6900 Shields:5
+B-Ice Elemental - HP:388/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Heal Wounds
+Agnea recupera 492 de vida
+Throné recupera 492 de vida
+Castti recupera 492 de vida
+Agnea termina con HP:3945
+Throné termina con HP:921
+Castti termina con HP:4239
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3945/4502 SP:504/554 BP:5
+B-Throné - HP:921/4447 SP:289/332 BP:5
+C-Castti - HP:4239/5336 SP:408/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6459/6900 Shields:5
+B-Ice Elemental - HP:388/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea recibe 343 de daño elemental
+Throné recibe 447 de daño elemental
+Castti recibe 347 de daño elemental
+Agnea termina con HP:3602
+Throné termina con HP:474
+Castti termina con HP:3892
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3602/4502 SP:504/554 BP:5
+B-Throné - HP:474/4447 SP:289/332 BP:5
+C-Castti - HP:3892/5336 SP:408/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6459/6900 Shields:5
+B-Ice Elemental - HP:388/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Throné recibe 247 de daño elemental
+Throné termina con HP:227
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3602/4502 SP:504/554 BP:5
+B-Throné - HP:227/4447 SP:289/332 BP:5
+C-Castti - HP:3892/5336 SP:408/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6459/6900 Shields:5
+B-Ice Elemental - HP:388/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3602/4502 SP:504/554 BP:5
+B-Throné - HP:227/4447 SP:289/332 BP:5
+C-Castti - HP:3892/5336 SP:408/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6459/6900 Shields:5
+B-Ice Elemental - HP:388/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3602/4502 SP:504/554 BP:5
+B-Throné - HP:227/4447 SP:289/332 BP:5
+C-Castti - HP:3892/5336 SP:408/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6459/6900 Shields:5
+B-Ice Elemental - HP:388/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Heal Wounds
+Agnea recupera 492 de vida
+Throné recupera 492 de vida
+Castti recupera 492 de vida
+Agnea termina con HP:4094
+Throné termina con HP:719
+Castti termina con HP:4384
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4094/4502 SP:504/554 BP:5
+B-Throné - HP:719/4447 SP:289/332 BP:5
+C-Castti - HP:4384/5336 SP:402/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6459/6900 Shields:5
+B-Ice Elemental - HP:388/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea se defiende
+Agnea recibe 171 de daño elemental
+Throné se defiende
+Throné recibe 223 de daño elemental
+Castti recibe 347 de daño elemental
+Agnea termina con HP:3923
+Throné termina con HP:496
+Castti termina con HP:4037
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3923/4502 SP:504/554 BP:5
+B-Throné - HP:496/4447 SP:289/332 BP:5
+C-Castti - HP:4037/5336 SP:402/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6459/6900 Shields:5
+B-Ice Elemental - HP:388/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Throné se defiende
+Throné recibe 123 de daño elemental
+Throné termina con HP:373
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3923/4502 SP:504/554 BP:5
+B-Throné - HP:373/4447 SP:289/332 BP:5
+C-Castti - HP:4037/5336 SP:402/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6459/6900 Shields:5
+B-Ice Elemental - HP:388/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3923/4502 SP:504/554 BP:5
+B-Throné - HP:373/4447 SP:289/332 BP:5
+C-Castti - HP:4037/5336 SP:402/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6459/6900 Shields:5
+B-Ice Elemental - HP:388/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3923/4502 SP:504/554 BP:5
+B-Throné - HP:373/4447 SP:289/332 BP:5
+C-Castti - HP:4037/5336 SP:402/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6459/6900 Shields:5
+B-Ice Elemental - HP:388/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Heal Wounds
+Agnea recupera 492 de vida
+Throné recupera 492 de vida
+Castti recupera 492 de vida
+Agnea termina con HP:4415
+Throné termina con HP:865
+Castti termina con HP:4529
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4415/4502 SP:504/554 BP:5
+B-Throné - HP:865/4447 SP:289/332 BP:5
+C-Castti - HP:4529/5336 SP:396/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6459/6900 Shields:5
+B-Ice Elemental - HP:388/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea se defiende
+Agnea recibe 171 de daño elemental
+Throné se defiende
+Throné recibe 223 de daño elemental
+Castti recibe 347 de daño elemental
+Agnea termina con HP:4244
+Throné termina con HP:642
+Castti termina con HP:4182
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4244/4502 SP:504/554 BP:5
+B-Throné - HP:642/4447 SP:289/332 BP:5
+C-Castti - HP:4182/5336 SP:396/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6459/6900 Shields:5
+B-Ice Elemental - HP:388/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Throné se defiende
+Throné recibe 123 de daño elemental
+Throné termina con HP:519
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4244/4502 SP:504/554 BP:5
+B-Throné - HP:519/4447 SP:289/332 BP:5
+C-Castti - HP:4182/5336 SP:396/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6459/6900 Shields:5
+B-Ice Elemental - HP:388/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Heavenwing - HP:6459/6900 Shields:5
+2: Ice Elemental - HP:388/2160 Shields:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné ataca
+Ice Elemental recibe 48 de daño de tipo Sword
+Ice Elemental termina con HP:340
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4244/4502 SP:504/554 BP:5
+B-Throné - HP:519/4447 SP:289/332 BP:5
+C-Castti - HP:4182/5336 SP:396/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6459/6900 Shields:5
+B-Ice Elemental - HP:340/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Revive
+2: Mercy Strike
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Revive
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4244/4502 SP:454/554 BP:5
+B-Throné - HP:519/4447 SP:289/332 BP:5
+C-Castti - HP:4182/5336 SP:396/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6459/6900 Shields:5
+B-Ice Elemental - HP:340/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4244/4502 SP:454/554 BP:5
+B-Throné - HP:519/4447 SP:289/332 BP:5
+C-Castti - HP:4182/5336 SP:396/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6459/6900 Shields:5
+B-Ice Elemental - HP:340/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Throné
+3.Agnea
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea recibe 343 de daño elemental
+Throné recibe 447 de daño elemental
+Castti se defiende
+Castti recibe 173 de daño elemental
+Agnea termina con HP:3901
+Throné termina con HP:72
+Castti termina con HP:4009
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3901/4502 SP:454/554 BP:5
+B-Throné - HP:72/4447 SP:289/332 BP:5
+C-Castti - HP:4009/5336 SP:396/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6459/6900 Shields:5
+B-Ice Elemental - HP:340/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Throné
+3.Agnea
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Throné recibe 247 de daño elemental
+Throné termina con HP:0
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3901/4502 SP:454/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:4009/5336 SP:396/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6459/6900 Shields:5
+B-Ice Elemental - HP:340/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Agnea
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Heal Wounds
+Agnea recupera 492 de vida
+Castti recupera 492 de vida
+Agnea termina con HP:4393
+Castti termina con HP:4501
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4393/4502 SP:454/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:4501/5336 SP:390/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6459/6900 Shields:5
+B-Ice Elemental - HP:340/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Heavenwing - HP:6459/6900 Shields:5
+2: Ice Elemental - HP:340/2160 Shields:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Ice Elemental recibe 0 de daño de tipo Dagger
+Ice Elemental termina con HP:340
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4393/4502 SP:454/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:4501/5336 SP:390/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6459/6900 Shields:5
+B-Ice Elemental - HP:340/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea recibe 343 de daño elemental
+Castti recibe 347 de daño elemental
+Agnea termina con HP:4050
+Castti termina con HP:4154
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4050/4502 SP:454/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:4154/5336 SP:390/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6459/6900 Shields:5
+B-Ice Elemental - HP:340/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Castti recibe 147 de daño elemental
+Castti termina con HP:4007
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4050/4502 SP:454/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:4007/5336 SP:390/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6459/6900 Shields:5
+B-Ice Elemental - HP:340/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4050/4502 SP:454/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:4007/5336 SP:390/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6459/6900 Shields:5
+B-Ice Elemental - HP:340/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Heal Wounds
+Agnea recupera 492 de vida
+Castti recupera 492 de vida
+Agnea termina con HP:4502
+Castti termina con HP:4499
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4502/4502 SP:454/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:4499/5336 SP:384/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6459/6900 Shields:5
+B-Ice Elemental - HP:340/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea se defiende
+Agnea recibe 171 de daño elemental
+Castti recibe 347 de daño elemental
+Agnea termina con HP:4331
+Castti termina con HP:4152
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4331/4502 SP:454/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:4152/5336 SP:384/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6459/6900 Shields:5
+B-Ice Elemental - HP:340/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Castti recibe 147 de daño elemental
+Castti termina con HP:4005
+----------------------------------------
+INICIA RONDA 14
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4331/4502 SP:454/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:4005/5336 SP:384/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6459/6900 Shields:5
+B-Ice Elemental - HP:340/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4331/4502 SP:454/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:4005/5336 SP:384/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6459/6900 Shields:5
+B-Ice Elemental - HP:340/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Heavenwing - HP:6459/6900 Shields:5
+2: Ice Elemental - HP:340/2160 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Heavenwing recibe 129 de daño de tipo Axe
+Heavenwing termina con HP:6330
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4331/4502 SP:454/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:4005/5336 SP:384/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6330/6900 Shields:5
+B-Ice Elemental - HP:340/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea se defiende
+Agnea recibe 171 de daño elemental
+Castti recibe 347 de daño elemental
+Agnea termina con HP:4160
+Castti termina con HP:3658
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4160/4502 SP:454/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:3658/5336 SP:384/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6330/6900 Shields:5
+B-Ice Elemental - HP:340/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Castti recibe 147 de daño elemental
+Castti termina con HP:3511
+----------------------------------------
+INICIA RONDA 15
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4160/4502 SP:454/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:3511/5336 SP:384/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6330/6900 Shields:5
+B-Ice Elemental - HP:340/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4160/4502 SP:454/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:3511/5336 SP:384/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6330/6900 Shields:5
+B-Ice Elemental - HP:340/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Heavenwing - HP:6330/6900 Shields:5
+2: Ice Elemental - HP:340/2160 Shields:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Ice Elemental recibe 90 de daño de tipo Axe
+Ice Elemental termina con HP:250
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4160/4502 SP:454/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:3511/5336 SP:384/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6330/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea se defiende
+Agnea recibe 171 de daño elemental
+Castti recibe 347 de daño elemental
+Agnea termina con HP:3989
+Castti termina con HP:3164
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3989/4502 SP:454/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:3164/5336 SP:384/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6330/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Castti recibe 147 de daño elemental
+Castti termina con HP:3017
+----------------------------------------
+INICIA RONDA 16
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3989/4502 SP:454/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:3017/5336 SP:384/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6330/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Revive
+2: Mercy Strike
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Revive
+Throné revive
+Throné termina con HP:1
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3989/4502 SP:404/554 BP:5
+B-Throné - HP:1/4447 SP:289/332 BP:5
+C-Castti - HP:3017/5336 SP:384/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6330/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Heavenwing - HP:6330/6900 Shields:5
+2: Ice Elemental - HP:250/2160 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Heavenwing recibe 129 de daño de tipo Axe
+Heavenwing termina con HP:6201
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3989/4502 SP:404/554 BP:5
+B-Throné - HP:1/4447 SP:289/332 BP:5
+C-Castti - HP:3017/5336 SP:384/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6201/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea recibe 343 de daño elemental
+Throné recibe 447 de daño elemental
+Castti recibe 347 de daño elemental
+Agnea termina con HP:3646
+Throné termina con HP:0
+Castti termina con HP:2670
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3646/4502 SP:404/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:2670/5336 SP:384/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6201/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Castti recibe 147 de daño elemental
+Castti termina con HP:2523
+----------------------------------------
+INICIA RONDA 17
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3646/4502 SP:404/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:2523/5336 SP:384/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6201/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3646/4502 SP:404/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:2523/5336 SP:384/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6201/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3646/4502 SP:404/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:2523/5336 SP:384/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6201/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea se defiende
+Agnea recibe 171 de daño elemental
+Castti se defiende
+Castti recibe 173 de daño elemental
+Agnea termina con HP:3475
+Castti termina con HP:2350
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3475/4502 SP:404/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:2350/5336 SP:384/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6201/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Castti se defiende
+Castti recibe 73 de daño elemental
+Castti termina con HP:2277
+----------------------------------------
+INICIA RONDA 18
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3475/4502 SP:404/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:2277/5336 SP:384/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6201/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Revive
+2: Mercy Strike
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Revive
+Throné revive
+Throné termina con HP:1
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3475/4502 SP:354/554 BP:5
+B-Throné - HP:1/4447 SP:289/332 BP:5
+C-Castti - HP:2277/5336 SP:384/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6201/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3475/4502 SP:354/554 BP:5
+B-Throné - HP:1/4447 SP:289/332 BP:5
+C-Castti - HP:2277/5336 SP:384/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6201/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Throné
+3.Agnea
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea recibe 343 de daño elemental
+Throné recibe 447 de daño elemental
+Castti se defiende
+Castti recibe 173 de daño elemental
+Agnea termina con HP:3132
+Throné termina con HP:0
+Castti termina con HP:2104
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3132/4502 SP:354/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:2104/5336 SP:384/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6201/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Agnea
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Castti se defiende
+Castti recibe 73 de daño elemental
+Castti termina con HP:2031
+----------------------------------------
+INICIA RONDA 19
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3132/4502 SP:354/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:2031/5336 SP:384/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6201/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Agnea
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Heal Wounds
+Agnea recupera 492 de vida
+Castti recupera 492 de vida
+Agnea termina con HP:3624
+Castti termina con HP:2523
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3624/4502 SP:354/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:2523/5336 SP:378/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6201/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Revive
+2: Mercy Strike
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Heavenwing - HP:6201/6900 Shields:5
+2: Ice Elemental - HP:250/2160 Shields:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Mercy Strike
+Ice Elemental recibe 0 de daño de tipo Bow
+Ice Elemental termina con HP:250
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3624/4502 SP:350/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:2523/5336 SP:378/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6201/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea recibe 343 de daño elemental
+Castti recibe 347 de daño elemental
+Agnea termina con HP:3281
+Castti termina con HP:2176
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3281/4502 SP:350/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:2176/5336 SP:378/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6201/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Castti recibe 147 de daño elemental
+Castti termina con HP:2029
+----------------------------------------
+INICIA RONDA 20
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3281/4502 SP:350/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:2029/5336 SP:378/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6201/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3281/4502 SP:350/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:2029/5336 SP:378/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6201/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3281/4502 SP:350/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:2029/5336 SP:378/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6201/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea se defiende
+Agnea recibe 171 de daño elemental
+Castti se defiende
+Castti recibe 173 de daño elemental
+Agnea termina con HP:3110
+Castti termina con HP:1856
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3110/4502 SP:350/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:1856/5336 SP:378/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6201/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Castti se defiende
+Castti recibe 73 de daño elemental
+Castti termina con HP:1783
+----------------------------------------
+INICIA RONDA 21
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3110/4502 SP:350/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:1783/5336 SP:378/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6201/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3110/4502 SP:350/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:1783/5336 SP:378/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6201/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3110/4502 SP:350/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:1783/5336 SP:378/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6201/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea se defiende
+Agnea recibe 171 de daño elemental
+Castti se defiende
+Castti recibe 173 de daño elemental
+Agnea termina con HP:2939
+Castti termina con HP:1610
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2939/4502 SP:350/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:1610/5336 SP:378/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6201/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Castti se defiende
+Castti recibe 73 de daño elemental
+Castti termina con HP:1537
+----------------------------------------
+INICIA RONDA 22
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2939/4502 SP:350/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:1537/5336 SP:378/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6201/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2939/4502 SP:350/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:1537/5336 SP:378/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6201/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2939/4502 SP:350/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:1537/5336 SP:378/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6201/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea se defiende
+Agnea recibe 171 de daño elemental
+Castti se defiende
+Castti recibe 173 de daño elemental
+Agnea termina con HP:2768
+Castti termina con HP:1364
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2768/4502 SP:350/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:1364/5336 SP:378/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6201/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Castti se defiende
+Castti recibe 73 de daño elemental
+Castti termina con HP:1291
+----------------------------------------
+INICIA RONDA 23
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2768/4502 SP:350/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:1291/5336 SP:378/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6201/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2768/4502 SP:350/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:1291/5336 SP:378/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6201/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Heavenwing - HP:6201/6900 Shields:5
+2: Ice Elemental - HP:250/2160 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Heavenwing recibe 129 de daño de tipo Axe
+Heavenwing termina con HP:6072
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2768/4502 SP:350/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:1291/5336 SP:378/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6072/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea se defiende
+Agnea recibe 171 de daño elemental
+Castti recibe 347 de daño elemental
+Agnea termina con HP:2597
+Castti termina con HP:944
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2597/4502 SP:350/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:944/5336 SP:378/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6072/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Castti recibe 147 de daño elemental
+Castti termina con HP:797
+----------------------------------------
+INICIA RONDA 24
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2597/4502 SP:350/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:797/5336 SP:378/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6072/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2597/4502 SP:350/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:797/5336 SP:378/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:6072/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Heavenwing - HP:6072/6900 Shields:5
+2: Ice Elemental - HP:250/2160 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Heavenwing recibe 129 de daño de tipo Axe
+Heavenwing termina con HP:5943
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2597/4502 SP:350/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:797/5336 SP:378/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5943/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea se defiende
+Agnea recibe 171 de daño elemental
+Castti recibe 347 de daño elemental
+Agnea termina con HP:2426
+Castti termina con HP:450
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2426/4502 SP:350/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:450/5336 SP:378/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5943/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Castti recibe 147 de daño elemental
+Castti termina con HP:303
+----------------------------------------
+INICIA RONDA 25
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2426/4502 SP:350/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:303/5336 SP:378/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5943/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Revive
+2: Mercy Strike
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Revive
+Throné revive
+Throné termina con HP:1
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2426/4502 SP:300/554 BP:5
+B-Throné - HP:1/4447 SP:289/332 BP:5
+C-Castti - HP:303/5336 SP:378/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5943/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Heal Wounds
+Agnea recupera 492 de vida
+Throné recupera 492 de vida
+Castti recupera 492 de vida
+Agnea termina con HP:2918
+Throné termina con HP:493
+Castti termina con HP:795
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2918/4502 SP:300/554 BP:5
+B-Throné - HP:493/4447 SP:289/332 BP:5
+C-Castti - HP:795/5336 SP:372/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5943/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea recibe 343 de daño elemental
+Throné recibe 447 de daño elemental
+Castti recibe 347 de daño elemental
+Agnea termina con HP:2575
+Throné termina con HP:46
+Castti termina con HP:448
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2575/4502 SP:300/554 BP:5
+B-Throné - HP:46/4447 SP:289/332 BP:5
+C-Castti - HP:448/5336 SP:372/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5943/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Throné recibe 247 de daño elemental
+Throné termina con HP:0
+----------------------------------------
+INICIA RONDA 26
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2575/4502 SP:300/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:448/5336 SP:372/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5943/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2575/4502 SP:300/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:448/5336 SP:372/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5943/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2575/4502 SP:300/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:448/5336 SP:372/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5943/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea se defiende
+Agnea recibe 171 de daño elemental
+Castti se defiende
+Castti recibe 173 de daño elemental
+Agnea termina con HP:2404
+Castti termina con HP:275
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2404/4502 SP:300/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:275/5336 SP:372/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5943/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Castti se defiende
+Castti recibe 73 de daño elemental
+Castti termina con HP:202
+----------------------------------------
+INICIA RONDA 27
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2404/4502 SP:300/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:202/5336 SP:372/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5943/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Revive
+2: Mercy Strike
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Revive
+Throné revive
+Throné termina con HP:1
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2404/4502 SP:250/554 BP:5
+B-Throné - HP:1/4447 SP:289/332 BP:5
+C-Castti - HP:202/5336 SP:372/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5943/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Heal Wounds
+Agnea recupera 492 de vida
+Throné recupera 492 de vida
+Castti recupera 492 de vida
+Agnea termina con HP:2896
+Throné termina con HP:493
+Castti termina con HP:694
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2896/4502 SP:250/554 BP:5
+B-Throné - HP:493/4447 SP:289/332 BP:5
+C-Castti - HP:694/5336 SP:366/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5943/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea recibe 343 de daño elemental
+Throné recibe 447 de daño elemental
+Castti recibe 347 de daño elemental
+Agnea termina con HP:2553
+Throné termina con HP:46
+Castti termina con HP:347
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2553/4502 SP:250/554 BP:5
+B-Throné - HP:46/4447 SP:289/332 BP:5
+C-Castti - HP:347/5336 SP:366/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5943/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Throné recibe 247 de daño elemental
+Throné termina con HP:0
+----------------------------------------
+INICIA RONDA 28
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2553/4502 SP:250/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:347/5336 SP:366/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5943/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2553/4502 SP:250/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:347/5336 SP:366/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5943/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2553/4502 SP:250/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:347/5336 SP:366/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5943/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea se defiende
+Agnea recibe 171 de daño elemental
+Castti se defiende
+Castti recibe 173 de daño elemental
+Agnea termina con HP:2382
+Castti termina con HP:174
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2382/4502 SP:250/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:174/5336 SP:366/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5943/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Castti se defiende
+Castti recibe 73 de daño elemental
+Castti termina con HP:101
+----------------------------------------
+INICIA RONDA 29
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2382/4502 SP:250/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:101/5336 SP:366/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5943/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2382/4502 SP:250/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:101/5336 SP:366/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5943/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2382/4502 SP:250/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:101/5336 SP:366/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5943/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Castti
+3.Heavenwing
+4.Ice Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea se defiende
+Agnea recibe 171 de daño elemental
+Castti se defiende
+Castti recibe 173 de daño elemental
+Agnea termina con HP:2211
+Castti termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2211/4502 SP:250/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:0/5336 SP:366/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5943/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Agnea se defiende
+Agnea recibe 71 de daño elemental
+Agnea termina con HP:2140
+----------------------------------------
+INICIA RONDA 30
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2140/4502 SP:250/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:0/5336 SP:366/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5943/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Heavenwing - HP:5943/6900 Shields:5
+2: Ice Elemental - HP:250/2160 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Heavenwing recibe 0 de daño de tipo Dagger
+Heavenwing termina con HP:5943
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2140/4502 SP:250/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:0/5336 SP:366/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5943/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea recibe 343 de daño elemental
+Agnea termina con HP:1797
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1797/4502 SP:250/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:0/5336 SP:366/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5943/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Agnea recibe 143 de daño elemental
+Agnea termina con HP:1654
+----------------------------------------
+INICIA RONDA 31
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1654/4502 SP:250/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:0/5336 SP:366/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5943/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1654/4502 SP:250/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:0/5336 SP:366/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5943/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea se defiende
+Agnea recibe 171 de daño elemental
+Agnea termina con HP:1483
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1483/4502 SP:250/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:0/5336 SP:366/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5943/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Agnea se defiende
+Agnea recibe 71 de daño elemental
+Agnea termina con HP:1412
+----------------------------------------
+INICIA RONDA 32
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1412/4502 SP:250/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:0/5336 SP:366/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5943/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Revive
+2: Mercy Strike
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Revive
+Throné revive
+Castti revive
+Throné termina con HP:1
+Castti termina con HP:1
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1412/4502 SP:200/554 BP:5
+B-Throné - HP:1/4447 SP:289/332 BP:5
+C-Castti - HP:1/5336 SP:366/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5943/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Castti
+4.Heavenwing
+5.Ice Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea recibe 343 de daño elemental
+Throné recibe 447 de daño elemental
+Castti recibe 347 de daño elemental
+Agnea termina con HP:1069
+Throné termina con HP:0
+Castti termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1069/4502 SP:200/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:0/5336 SP:366/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5943/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Agnea recibe 143 de daño elemental
+Agnea termina con HP:926
+----------------------------------------
+INICIA RONDA 33
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:926/4502 SP:200/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:0/5336 SP:366/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5943/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Revive
+2: Mercy Strike
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Heavenwing - HP:5943/6900 Shields:5
+2: Ice Elemental - HP:250/2160 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Mercy Strike
+Heavenwing recibe 0 de daño de tipo Bow con debilidad
+Heavenwing termina con HP:5943
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:926/4502 SP:196/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:0/5336 SP:366/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5943/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea recibe 343 de daño elemental
+Agnea termina con HP:583
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:583/4502 SP:196/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:0/5336 SP:366/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5943/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Agnea recibe 143 de daño elemental
+Agnea termina con HP:440
+----------------------------------------
+INICIA RONDA 34
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:440/4502 SP:196/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:0/5336 SP:366/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5943/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Revive
+2: Mercy Strike
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Heavenwing - HP:5943/6900 Shields:5
+2: Ice Elemental - HP:250/2160 Shields:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Mercy Strike
+Ice Elemental recibe 0 de daño de tipo Bow
+Ice Elemental termina con HP:250
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:440/4502 SP:192/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:0/5336 SP:366/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5943/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Heavenwing usa Incinerate
+Agnea recibe 343 de daño elemental
+Agnea termina con HP:97
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:97/4502 SP:192/554 BP:5
+B-Throné - HP:0/4447 SP:289/332 BP:5
+C-Castti - HP:0/5336 SP:366/426 BP:5
+Equipo del enemigo
+A-Heavenwing - HP:5943/6900 Shields:5
+B-Ice Elemental - HP:250/2160 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Heavenwing
+3.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Agnea recibe 143 de daño elemental
+Agnea termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

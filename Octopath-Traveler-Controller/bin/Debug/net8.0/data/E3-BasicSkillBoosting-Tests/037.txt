@@ -1,0 +1,158 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+INPUT: 36
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Devil Deer - HP:2002/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Devil Deer
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Qilin's Horn
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Devil Deer - HP:2002/2002 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Qilin's Horn
+Devil Deer recibe 455 de daño de tipo Spear
+Devil Deer termina con HP:1547
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:256/291 BP:1
+Equipo del enemigo
+A-Devil Deer - HP:1547/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Devil Deer
+----------------------------------------
+Devil Deer usa Boar Rush
+Olberic recibe 472 de daño físico
+Olberic termina con HP:5309
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5309/5781 SP:256/291 BP:2
+Equipo del enemigo
+A-Devil Deer - HP:1547/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Devil Deer
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Qilin's Horn
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Devil Deer - HP:1547/2002 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Olberic usa Qilin's Horn
+Devil Deer recibe 2278 de daño de tipo Spear
+Devil Deer termina con HP:0
+----------------------------------------
+Gana equipo del jugador

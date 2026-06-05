@@ -1,0 +1,1167 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+INPUT: 37
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Hikari - HP:5781/5781 SP:317/317 BP:1
+C-Therion - HP:4447/4447 SP:382/382 BP:1
+D-Temenos - HP:4002/4002 SP:432/432 BP:1
+Equipo del enemigo
+A-Army Ant - HP:502/502 Shields:1
+B-Curator - HP:1530/1530 Shields:3
+C-Ice Elemental - HP:2160/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Hikari
+3.Temenos
+4.Olberic
+5.Army Ant
+6.Curator
+7.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Hikari
+3.Temenos
+4.Olberic
+5.Army Ant
+6.Curator
+7.Ice Elemental
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Hikari - HP:5781/5781 SP:317/317 BP:1
+C-Therion - HP:4447/4447 SP:382/382 BP:1
+D-Temenos - HP:4002/4002 SP:432/432 BP:1
+Equipo del enemigo
+A-Army Ant - HP:502/502 Shields:1
+B-Curator - HP:1530/1530 Shields:3
+C-Ice Elemental - HP:2160/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Temenos
+3.Olberic
+4.Army Ant
+5.Curator
+6.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Hikari
+3.Temenos
+4.Olberic
+5.Army Ant
+6.Curator
+7.Ice Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Steal SP
+2: HP Thief
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Army Ant - HP:502/502 Shields:1
+2: Curator - HP:1530/1530 Shields:3
+3: Ice Elemental - HP:2160/2160 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Hikari no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Hikari no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Hikari no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa HP Thief
+Ice Elemental recibe 209 de daño de tipo Dagger
+Ice Elemental recibe 209 de daño de tipo Dagger
+Hikari recupera 209 de vida
+Ice Elemental termina con HP:1742
+Hikari termina con HP:5781
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Hikari - HP:5781/5781 SP:311/317 BP:1
+C-Therion - HP:4447/4447 SP:382/382 BP:1
+D-Temenos - HP:4002/4002 SP:432/432 BP:1
+Equipo del enemigo
+A-Army Ant - HP:502/502 Shields:1
+B-Curator - HP:1530/1530 Shields:3
+C-Ice Elemental - HP:1742/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Olberic
+3.Army Ant
+4.Curator
+5.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Hikari
+3.Temenos
+4.Olberic
+5.Army Ant
+6.Curator
+7.Ice Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Luminescence
+2: Abide
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Temenos no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Temenos no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Temenos no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Temenos no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Temenos no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Temenos no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Temenos no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Temenos no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos usa Luminescence
+Army Ant recibe 475 de daño de tipo Light
+Curator recibe 337 de daño de tipo Light
+Ice Elemental recibe 351 de daño de tipo Light
+Army Ant termina con HP:27
+Curator termina con HP:1193
+Ice Elemental termina con HP:1391
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Hikari - HP:5781/5781 SP:311/317 BP:1
+C-Therion - HP:4447/4447 SP:382/382 BP:1
+D-Temenos - HP:4002/4002 SP:423/432 BP:1
+Equipo del enemigo
+A-Army Ant - HP:27/502 Shields:1
+B-Curator - HP:1193/1530 Shields:3
+C-Ice Elemental - HP:1391/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Army Ant
+3.Curator
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Hikari
+3.Temenos
+4.Olberic
+5.Army Ant
+6.Curator
+7.Ice Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Army Ant - HP:27/502 Shields:1
+2: Curator - HP:1193/1530 Shields:3
+3: Ice Elemental - HP:1391/2160 Shields:4
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Army Ant recibe 483 de daño de tipo Spear
+Army Ant termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Hikari - HP:5781/5781 SP:311/317 BP:1
+C-Therion - HP:4447/4447 SP:382/382 BP:1
+D-Temenos - HP:4002/4002 SP:423/432 BP:1
+Equipo del enemigo
+A-Army Ant - HP:0/502 Shields:1
+B-Curator - HP:1193/1530 Shields:3
+C-Ice Elemental - HP:1391/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Curator
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Hikari
+3.Temenos
+4.Olberic
+5.Curator
+6.Ice Elemental
+----------------------------------------
+Curator usa Augmented Magic
+Ice Elemental tendrá Increased Elemental Attack durante 2 rondas
+Ice Elemental tendrá Increased Elemental Defense durante 2 rondas
+Curator tendrá Increased Elemental Attack durante 2 rondas
+Curator tendrá Increased Elemental Defense durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Hikari - HP:5781/5781 SP:311/317 BP:1
+C-Therion - HP:4447/4447 SP:382/382 BP:1
+D-Temenos - HP:4002/4002 SP:423/432 BP:1
+Equipo del enemigo
+A-Army Ant - HP:0/502 Shields:1
+B-Curator - HP:1193/1530 Shields:3
+C-Ice Elemental - HP:1391/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Hikari
+3.Temenos
+4.Olberic
+5.Curator
+6.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Therion se defiende
+Therion recibe 185 de daño elemental
+Therion termina con HP:4262
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:2
+B-Hikari - HP:5781/5781 SP:311/317 BP:2
+C-Therion - HP:4262/4447 SP:382/382 BP:2
+D-Temenos - HP:4002/4002 SP:423/432 BP:2
+Equipo del enemigo
+A-Army Ant - HP:0/502 Shields:1
+B-Curator - HP:1193/1530 Shields:3
+C-Ice Elemental - HP:1391/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Hikari
+3.Temenos
+4.Olberic
+5.Curator
+6.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Hikari
+3.Temenos
+4.Olberic
+5.Curator
+6.Ice Elemental
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Curator - HP:1193/1530 Shields:3
+2: Ice Elemental - HP:1391/2160 Shields:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Therion ataca
+Ice Elemental recibe 0 de daño de tipo Sword
+Ice Elemental recibe 0 de daño de tipo Sword
+Ice Elemental termina con HP:1391
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:2
+B-Hikari - HP:5781/5781 SP:311/317 BP:2
+C-Therion - HP:4262/4447 SP:382/382 BP:1
+D-Temenos - HP:4002/4002 SP:423/432 BP:2
+Equipo del enemigo
+A-Army Ant - HP:0/502 Shields:1
+B-Curator - HP:1193/1530 Shields:3
+C-Ice Elemental - HP:1391/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Temenos
+3.Olberic
+4.Curator
+5.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Hikari
+3.Temenos
+4.Olberic
+5.Curator
+6.Ice Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Curator - HP:1193/1530 Shields:3
+2: Ice Elemental - HP:1391/2160 Shields:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Curator recibe 364 de daño de tipo Sword
+Curator termina con HP:829
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:2
+B-Hikari - HP:5781/5781 SP:311/317 BP:2
+C-Therion - HP:4262/4447 SP:382/382 BP:1
+D-Temenos - HP:4002/4002 SP:423/432 BP:2
+Equipo del enemigo
+A-Army Ant - HP:0/502 Shields:1
+B-Curator - HP:829/1530 Shields:3
+C-Ice Elemental - HP:1391/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Olberic
+3.Curator
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Hikari
+3.Temenos
+4.Olberic
+5.Curator
+6.Ice Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:2
+B-Hikari - HP:5781/5781 SP:311/317 BP:2
+C-Therion - HP:4262/4447 SP:382/382 BP:1
+D-Temenos - HP:4002/4002 SP:423/432 BP:2
+Equipo del enemigo
+A-Army Ant - HP:0/502 Shields:1
+B-Curator - HP:829/1530 Shields:3
+C-Ice Elemental - HP:1391/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Curator
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Therion
+3.Hikari
+4.Olberic
+5.Curator
+6.Ice Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:2
+B-Hikari - HP:5781/5781 SP:311/317 BP:2
+C-Therion - HP:4262/4447 SP:382/382 BP:1
+D-Temenos - HP:4002/4002 SP:423/432 BP:2
+Equipo del enemigo
+A-Army Ant - HP:0/502 Shields:1
+B-Curator - HP:829/1530 Shields:3
+C-Ice Elemental - HP:1391/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Curator
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Olberic
+3.Therion
+4.Hikari
+5.Curator
+6.Ice Elemental
+----------------------------------------
+Curator usa Augmented Magic
+Ice Elemental tendrá Increased Elemental Attack durante 2 rondas
+Ice Elemental tendrá Increased Elemental Defense durante 2 rondas
+Curator tendrá Increased Elemental Attack durante 2 rondas
+Curator tendrá Increased Elemental Defense durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:2
+B-Hikari - HP:5781/5781 SP:311/317 BP:2
+C-Therion - HP:4262/4447 SP:382/382 BP:1
+D-Temenos - HP:4002/4002 SP:423/432 BP:2
+Equipo del enemigo
+A-Army Ant - HP:0/502 Shields:1
+B-Curator - HP:829/1530 Shields:3
+C-Ice Elemental - HP:1391/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Olberic
+3.Therion
+4.Hikari
+5.Curator
+6.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Therion recibe 371 de daño elemental
+Therion termina con HP:3891
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:3
+B-Hikari - HP:5781/5781 SP:311/317 BP:3
+C-Therion - HP:3891/4447 SP:382/382 BP:1
+D-Temenos - HP:4002/4002 SP:423/432 BP:3
+Equipo del enemigo
+A-Army Ant - HP:0/502 Shields:1
+B-Curator - HP:829/1530 Shields:3
+C-Ice Elemental - HP:1391/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Olberic
+3.Therion
+4.Hikari
+5.Curator
+6.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Hikari
+3.Temenos
+4.Olberic
+5.Curator
+6.Ice Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:3
+B-Hikari - HP:5781/5781 SP:311/317 BP:3
+C-Therion - HP:3891/4447 SP:382/382 BP:1
+D-Temenos - HP:4002/4002 SP:423/432 BP:3
+Equipo del enemigo
+A-Army Ant - HP:0/502 Shields:1
+B-Curator - HP:829/1530 Shields:3
+C-Ice Elemental - HP:1391/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Therion
+3.Hikari
+4.Curator
+5.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Therion
+3.Hikari
+4.Olberic
+5.Curator
+6.Ice Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Vivify
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Curator - HP:829/1530 Shields:3
+2: Ice Elemental - HP:1391/2160 Shields:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Olberic ataca
+Ice Elemental recibe 95 de daño de tipo Spear
+Ice Elemental recibe 95 de daño de tipo Spear
+Ice Elemental termina con HP:1201
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:2
+B-Hikari - HP:5781/5781 SP:311/317 BP:3
+C-Therion - HP:3891/4447 SP:382/382 BP:1
+D-Temenos - HP:4002/4002 SP:423/432 BP:3
+Equipo del enemigo
+A-Army Ant - HP:0/502 Shields:1
+B-Curator - HP:829/1530 Shields:3
+C-Ice Elemental - HP:1201/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Hikari
+3.Curator
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Therion
+3.Hikari
+4.Olberic
+5.Curator
+6.Ice Elemental
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Curator - HP:829/1530 Shields:3
+2: Ice Elemental - HP:1201/2160 Shields:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Ice Elemental recibe 0 de daño de tipo Dagger
+Ice Elemental termina con HP:1201
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:2
+B-Hikari - HP:5781/5781 SP:311/317 BP:3
+C-Therion - HP:3891/4447 SP:382/382 BP:1
+D-Temenos - HP:4002/4002 SP:423/432 BP:3
+Equipo del enemigo
+A-Army Ant - HP:0/502 Shields:1
+B-Curator - HP:829/1530 Shields:3
+C-Ice Elemental - HP:1201/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Curator
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Therion
+3.Hikari
+4.Olberic
+5.Curator
+6.Ice Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Steal SP
+2: HP Thief
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Curator - HP:829/1530 Shields:3
+2: Ice Elemental - HP:1201/2160 Shields:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Hikari usa Steal SP
+Curator recibe 1449 de daño de tipo Dagger con debilidad
+Curator recibe 1449 de daño de tipo Dagger con debilidad
+Hikari recupera 144 SP
+Curator termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:2
+B-Hikari - HP:5781/5781 SP:317/317 BP:2
+C-Therion - HP:3891/4447 SP:382/382 BP:1
+D-Temenos - HP:4002/4002 SP:423/432 BP:3
+Equipo del enemigo
+A-Army Ant - HP:0/502 Shields:1
+B-Curator - HP:0/1530 Shields:1
+C-Ice Elemental - HP:1201/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Therion
+3.Hikari
+4.Olberic
+5.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Therion recibe 371 de daño elemental
+Therion termina con HP:3520
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:2
+B-Hikari - HP:5781/5781 SP:317/317 BP:2
+C-Therion - HP:3520/4447 SP:382/382 BP:2
+D-Temenos - HP:4002/4002 SP:423/432 BP:4
+Equipo del enemigo
+A-Army Ant - HP:0/502 Shields:1
+B-Curator - HP:0/1530 Shields:1
+C-Ice Elemental - HP:1201/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Therion
+3.Hikari
+4.Olberic
+5.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Hikari
+3.Temenos
+4.Olberic
+5.Ice Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:2
+B-Hikari - HP:5781/5781 SP:317/317 BP:2
+C-Therion - HP:3520/4447 SP:382/382 BP:2
+D-Temenos - HP:4002/4002 SP:423/432 BP:4
+Equipo del enemigo
+A-Army Ant - HP:0/502 Shields:1
+B-Curator - HP:0/1530 Shields:1
+C-Ice Elemental - HP:1201/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Hikari
+3.Olberic
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Therion
+3.Hikari
+4.Olberic
+5.Ice Elemental
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Lion Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Olberic - HP:5781/5781 SP:291/291 BP:2
+2: Hikari - HP:5781/5781 SP:317/317 BP:2
+3: Therion - HP:3520/4447 SP:382/382 BP:2
+4: Temenos - HP:4002/4002 SP:423/432 BP:4
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Lion Dance
+Olberic tendrá Increased Physical Attack durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:2
+B-Hikari - HP:5781/5781 SP:317/317 BP:2
+C-Therion - HP:3520/4447 SP:378/382 BP:2
+D-Temenos - HP:4002/4002 SP:423/432 BP:4
+Equipo del enemigo
+A-Army Ant - HP:0/502 Shields:1
+B-Curator - HP:0/1530 Shields:1
+C-Ice Elemental - HP:1201/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Olberic
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Therion
+3.Hikari
+4.Olberic
+5.Ice Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:2
+B-Hikari - HP:5781/5781 SP:317/317 BP:2
+C-Therion - HP:3520/4447 SP:378/382 BP:2
+D-Temenos - HP:4002/4002 SP:423/432 BP:4
+Equipo del enemigo
+A-Army Ant - HP:0/502 Shields:1
+B-Curator - HP:0/1530 Shields:1
+C-Ice Elemental - HP:1201/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Temenos
+3.Therion
+4.Olberic
+5.Ice Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:2
+B-Hikari - HP:5781/5781 SP:317/317 BP:2
+C-Therion - HP:3520/4447 SP:378/382 BP:2
+D-Temenos - HP:4002/4002 SP:423/432 BP:4
+Equipo del enemigo
+A-Army Ant - HP:0/502 Shields:1
+B-Curator - HP:0/1530 Shields:1
+C-Ice Elemental - HP:1201/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Temenos
+3.Olberic
+4.Therion
+5.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Therion recibe 371 de daño elemental
+Therion termina con HP:3149
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:3
+B-Hikari - HP:5781/5781 SP:317/317 BP:3
+C-Therion - HP:3149/4447 SP:378/382 BP:3
+D-Temenos - HP:4002/4002 SP:423/432 BP:5
+Equipo del enemigo
+A-Army Ant - HP:0/502 Shields:1
+B-Curator - HP:0/1530 Shields:1
+C-Ice Elemental - HP:1201/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Temenos
+3.Olberic
+4.Therion
+5.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Hikari
+3.Temenos
+4.Olberic
+5.Ice Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Ice Elemental - HP:1201/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Hikari ataca
+Ice Elemental recibe 82 de daño de tipo Sword
+Ice Elemental recibe 82 de daño de tipo Sword
+Ice Elemental termina con HP:1037
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:3
+B-Hikari - HP:5781/5781 SP:317/317 BP:2
+C-Therion - HP:3149/4447 SP:378/382 BP:3
+D-Temenos - HP:4002/4002 SP:423/432 BP:5
+Equipo del enemigo
+A-Army Ant - HP:0/502 Shields:1
+B-Curator - HP:0/1530 Shields:1
+C-Ice Elemental - HP:1037/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Olberic
+3.Therion
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Hikari
+3.Temenos
+4.Olberic
+5.Ice Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Luminescence
+2: Abide
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Temenos usa Luminescence
+Ice Elemental recibe 1881 de daño de tipo Light
+Ice Elemental termina con HP:0
+----------------------------------------
+Gana equipo del jugador

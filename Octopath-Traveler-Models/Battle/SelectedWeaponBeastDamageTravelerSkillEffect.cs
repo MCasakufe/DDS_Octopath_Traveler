@@ -9,7 +9,7 @@ internal sealed class SelectedWeaponBeastDamageTravelerSkillEffect : TravelerSki
             return;
 
         string weaponType = effectContext.TurnOutcome.SelectedWeapon;
-        TravelerSkillDamageProfile damageProfile = new(weaponType, effectContext.Skill.Modifier);
+        TravelerSkillDamageProfile damageProfile = BuildSkillDamageProfile(effectContext, weaponType);
         BeastDamageResolution damageResolution = ResolveStandardBeastDamage(
             effectContext,
             target,

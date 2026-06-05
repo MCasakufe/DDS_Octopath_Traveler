@@ -1,0 +1,5046 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+INPUT: 29
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4891/4891 SP:314/314 BP:2
+B-Castti - HP:5336/5336 SP:426/426 BP:2
+C-Heatcore - HP:2822/2822 SP:342/342 BP:2
+D-Alfyn - HP:5336/5336 SP:383/383 BP:2
+Equipo del enemigo
+A-Lord of the Flies - HP:5590/5590 Shields:3
+B-Ice Elemental - HP:2160/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Castti
+3.Alfyn
+4.Behemoth
+5.Partitio
+6.Frost Fox
+7.Lord of the Flies
+8.Ice Elemental
+9.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Castti
+3.Alfyn
+4.Behemoth
+5.Partitio
+6.Frost Fox
+7.Lord of the Flies
+8.Ice Elemental
+9.Dark Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Lord of the Flies - HP:5590/5590 Shields:3
+2: Ice Elemental - HP:2160/2160 Shields:4
+3: Dark Elemental - HP:1822/1822 Shields:4
+4: Frost Fox - HP:1302/1302 Shields:2
+5: Behemoth - HP:12690/12690 Shields:8
+6: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore ataca
+Lord of the Flies recibe 0 de daño de tipo Axe
+Lord of the Flies termina con HP:5590
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4891/4891 SP:314/314 BP:2
+B-Castti - HP:5336/5336 SP:426/426 BP:2
+C-Heatcore - HP:2822/2822 SP:342/342 BP:2
+D-Alfyn - HP:5336/5336 SP:383/383 BP:2
+Equipo del enemigo
+A-Lord of the Flies - HP:5590/5590 Shields:3
+B-Ice Elemental - HP:2160/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Alfyn
+3.Behemoth
+4.Partitio
+5.Frost Fox
+6.Lord of the Flies
+7.Ice Elemental
+8.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Castti
+3.Alfyn
+4.Behemoth
+5.Partitio
+6.Frost Fox
+7.Lord of the Flies
+8.Ice Elemental
+9.Dark Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Lord of the Flies - HP:5590/5590 Shields:3
+2: Ice Elemental - HP:2160/2160 Shields:4
+3: Dark Elemental - HP:1822/1822 Shields:4
+4: Frost Fox - HP:1302/1302 Shields:2
+5: Behemoth - HP:12690/12690 Shields:8
+6: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Ice Elemental recibe 25 de daño de tipo Axe
+Ice Elemental termina con HP:2135
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4891/4891 SP:314/314 BP:2
+B-Castti - HP:5336/5336 SP:426/426 BP:2
+C-Heatcore - HP:2822/2822 SP:342/342 BP:2
+D-Alfyn - HP:5336/5336 SP:383/383 BP:2
+Equipo del enemigo
+A-Lord of the Flies - HP:5590/5590 Shields:3
+B-Ice Elemental - HP:2135/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Behemoth
+3.Partitio
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Castti
+3.Alfyn
+4.Behemoth
+5.Partitio
+6.Frost Fox
+7.Lord of the Flies
+8.Ice Elemental
+9.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4891/4891 SP:314/314 BP:2
+B-Castti - HP:5336/5336 SP:426/426 BP:2
+C-Heatcore - HP:2822/2822 SP:342/342 BP:2
+D-Alfyn - HP:5336/5336 SP:383/383 BP:2
+Equipo del enemigo
+A-Lord of the Flies - HP:5590/5590 Shields:3
+B-Ice Elemental - HP:2135/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Partitio
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Heatcore
+3.Castti
+4.Behemoth
+5.Partitio
+6.Frost Fox
+7.Lord of the Flies
+8.Ice Elemental
+9.Dark Elemental
+----------------------------------------
+Behemoth usa Stampede
+Partitio recibe 687 de daño físico
+Castti recibe 568 de daño físico
+Heatcore recibe 740 de daño físico
+Alfyn se defiende
+Alfyn recibe 314 de daño físico
+Partitio termina con HP:4204
+Castti termina con HP:4768
+Heatcore termina con HP:2082
+Alfyn termina con HP:5022
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4204/4891 SP:314/314 BP:2
+B-Castti - HP:4768/5336 SP:426/426 BP:2
+C-Heatcore - HP:2082/2822 SP:342/342 BP:2
+D-Alfyn - HP:5022/5336 SP:383/383 BP:2
+Equipo del enemigo
+A-Lord of the Flies - HP:5590/5590 Shields:3
+B-Ice Elemental - HP:2135/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Frost Fox
+3.Lord of the Flies
+4.Ice Elemental
+5.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Heatcore
+3.Castti
+4.Behemoth
+5.Partitio
+6.Frost Fox
+7.Lord of the Flies
+8.Ice Elemental
+9.Dark Elemental
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4204/4891 SP:314/314 BP:2
+B-Castti - HP:4768/5336 SP:426/426 BP:2
+C-Heatcore - HP:2082/2822 SP:342/342 BP:2
+D-Alfyn - HP:5022/5336 SP:383/383 BP:2
+Equipo del enemigo
+A-Lord of the Flies - HP:5590/5590 Shields:3
+B-Ice Elemental - HP:2135/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Lord of the Flies
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Partitio
+3.Heatcore
+4.Castti
+5.Behemoth
+6.Frost Fox
+7.Lord of the Flies
+8.Ice Elemental
+9.Dark Elemental
+----------------------------------------
+Frost Fox usa Ice blast
+Partitio se defiende
+Partitio recibe 124 de daño elemental
+Castti recibe 205 de daño elemental
+Heatcore recibe 280 de daño elemental
+Alfyn se defiende
+Alfyn recibe 147 de daño elemental
+Partitio termina con HP:4080
+Castti termina con HP:4563
+Heatcore termina con HP:1802
+Alfyn termina con HP:4875
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4080/4891 SP:314/314 BP:2
+B-Castti - HP:4563/5336 SP:426/426 BP:2
+C-Heatcore - HP:1802/2822 SP:342/342 BP:2
+D-Alfyn - HP:4875/5336 SP:383/383 BP:2
+Equipo del enemigo
+A-Lord of the Flies - HP:5590/5590 Shields:3
+B-Ice Elemental - HP:2135/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Partitio
+3.Heatcore
+4.Castti
+5.Behemoth
+6.Frost Fox
+7.Lord of the Flies
+8.Ice Elemental
+9.Dark Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Partitio se defiende
+Partitio recibe 128 de daño físico
+Partitio termina con HP:3952
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3952/4891 SP:314/314 BP:2
+B-Castti - HP:4563/5336 SP:426/426 BP:2
+C-Heatcore - HP:1802/2822 SP:342/342 BP:2
+D-Alfyn - HP:4875/5336 SP:383/383 BP:2
+Equipo del enemigo
+A-Lord of the Flies - HP:5590/5590 Shields:3
+B-Ice Elemental - HP:2135/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Partitio
+3.Heatcore
+4.Castti
+5.Behemoth
+6.Frost Fox
+7.Lord of the Flies
+8.Ice Elemental
+9.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Alfyn se defiende
+Alfyn recibe 118 de daño elemental
+Alfyn termina con HP:4757
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3952/4891 SP:314/314 BP:2
+B-Castti - HP:4563/5336 SP:426/426 BP:2
+C-Heatcore - HP:1802/2822 SP:342/342 BP:2
+D-Alfyn - HP:4757/5336 SP:383/383 BP:2
+Equipo del enemigo
+A-Lord of the Flies - HP:5590/5590 Shields:3
+B-Ice Elemental - HP:2135/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Partitio
+3.Heatcore
+4.Castti
+5.Behemoth
+6.Frost Fox
+7.Lord of the Flies
+8.Ice Elemental
+9.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Alfyn se defiende
+Alfyn recibe 126 de daño elemental
+Alfyn termina con HP:4631
+----------------------------------------
+Partitio obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3952/4891 SP:314/314 BP:2
+B-Castti - HP:4563/5336 SP:426/426 BP:2
+C-Heatcore - HP:1802/2822 SP:342/342 BP:2
+D-Alfyn - HP:4631/5336 SP:383/383 BP:2
+Equipo del enemigo
+A-Lord of the Flies - HP:5590/5590 Shields:3
+B-Ice Elemental - HP:2135/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Partitio
+3.Heatcore
+4.Castti
+5.Behemoth
+6.Frost Fox
+7.Lord of the Flies
+8.Ice Elemental
+9.Dark Elemental
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Lord of the Flies - HP:5590/5590 Shields:3
+2: Ice Elemental - HP:2135/2160 Shields:4
+3: Dark Elemental - HP:1822/1822 Shields:4
+4: Frost Fox - HP:1302/1302 Shields:2
+5: Behemoth - HP:12690/12690 Shields:8
+6: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Lord of the Flies recibe 79 de daño de tipo Spear con debilidad
+Lord of the Flies termina con HP:5511
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3952/4891 SP:314/314 BP:3
+B-Castti - HP:5096/5336 SP:426/426 BP:3
+C-Heatcore - HP:1802/2822 SP:342/342 BP:3
+D-Alfyn - HP:5164/5336 SP:383/383 BP:3
+Equipo del enemigo
+A-Lord of the Flies - HP:5511/5590 Shields:2
+B-Ice Elemental - HP:2135/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Partitio
+3.Heatcore
+4.Castti
+5.Behemoth
+6.Frost Fox
+7.Lord of the Flies
+8.Ice Elemental
+9.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Castti
+3.Alfyn
+4.Behemoth
+5.Partitio
+6.Frost Fox
+7.Lord of the Flies
+8.Ice Elemental
+9.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3952/4891 SP:314/314 BP:3
+B-Castti - HP:5096/5336 SP:426/426 BP:3
+C-Heatcore - HP:1802/2822 SP:342/342 BP:3
+D-Alfyn - HP:5164/5336 SP:383/383 BP:3
+Equipo del enemigo
+A-Lord of the Flies - HP:5511/5590 Shields:2
+B-Ice Elemental - HP:2135/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Heatcore
+3.Castti
+4.Behemoth
+5.Frost Fox
+6.Lord of the Flies
+7.Ice Elemental
+8.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Heatcore
+3.Castti
+4.Behemoth
+5.Partitio
+6.Frost Fox
+7.Lord of the Flies
+8.Ice Elemental
+9.Dark Elemental
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3952/4891 SP:314/314 BP:3
+B-Castti - HP:5096/5336 SP:426/426 BP:3
+C-Heatcore - HP:1802/2822 SP:342/342 BP:3
+D-Alfyn - HP:5164/5336 SP:383/383 BP:3
+Equipo del enemigo
+A-Lord of the Flies - HP:5511/5590 Shields:2
+B-Ice Elemental - HP:2135/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Castti
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Partitio
+3.Heatcore
+4.Castti
+5.Behemoth
+6.Frost Fox
+7.Lord of the Flies
+8.Ice Elemental
+9.Dark Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Leghold Trap
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Lord of the Flies - HP:5511/5590 Shields:2
+2: Ice Elemental - HP:2135/2160 Shields:4
+3: Dark Elemental - HP:1822/1822 Shields:4
+4: Frost Fox - HP:1302/1302 Shields:2
+5: Behemoth - HP:12690/12690 Shields:8
+6: Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore usa Leghold Trap
+Behemoth tendrá menor prioridad de turno durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3952/4891 SP:314/314 BP:3
+B-Castti - HP:5096/5336 SP:426/426 BP:3
+C-Heatcore - HP:1802/2822 SP:336/342 BP:3
+D-Alfyn - HP:5164/5336 SP:383/383 BP:3
+Equipo del enemigo
+A-Lord of the Flies - HP:5511/5590 Shields:2
+B-Ice Elemental - HP:2135/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Frost Fox
+3.Lord of the Flies
+4.Ice Elemental
+5.Dark Elemental
+6.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Partitio
+3.Heatcore
+4.Castti
+5.Frost Fox
+6.Lord of the Flies
+7.Ice Elemental
+8.Dark Elemental
+9.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Lord of the Flies - HP:5511/5590 Shields:2
+2: Ice Elemental - HP:2135/2160 Shields:4
+3: Dark Elemental - HP:1822/1822 Shields:4
+4: Frost Fox - HP:1302/1302 Shields:2
+5: Behemoth - HP:12690/12690 Shields:8
+6: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Dark Elemental recibe 0 de daño de tipo Axe
+Dark Elemental termina con HP:1822
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3952/4891 SP:314/314 BP:3
+B-Castti - HP:5096/5336 SP:426/426 BP:3
+C-Heatcore - HP:1802/2822 SP:336/342 BP:3
+D-Alfyn - HP:5164/5336 SP:383/383 BP:3
+Equipo del enemigo
+A-Lord of the Flies - HP:5511/5590 Shields:2
+B-Ice Elemental - HP:2135/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Lord of the Flies
+3.Ice Elemental
+4.Dark Elemental
+5.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Partitio
+3.Heatcore
+4.Castti
+5.Frost Fox
+6.Lord of the Flies
+7.Ice Elemental
+8.Dark Elemental
+9.Behemoth
+----------------------------------------
+Frost Fox usa Ice blast
+Partitio se defiende
+Partitio recibe 124 de daño elemental
+Castti recibe 205 de daño elemental
+Heatcore recibe 280 de daño elemental
+Alfyn se defiende
+Alfyn recibe 147 de daño elemental
+Partitio termina con HP:3828
+Castti termina con HP:4891
+Heatcore termina con HP:1522
+Alfyn termina con HP:5017
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3828/4891 SP:314/314 BP:3
+B-Castti - HP:4891/5336 SP:426/426 BP:3
+C-Heatcore - HP:1522/2822 SP:336/342 BP:3
+D-Alfyn - HP:5017/5336 SP:383/383 BP:3
+Equipo del enemigo
+A-Lord of the Flies - HP:5511/5590 Shields:2
+B-Ice Elemental - HP:2135/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Ice Elemental
+3.Dark Elemental
+4.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Partitio
+3.Heatcore
+4.Castti
+5.Frost Fox
+6.Lord of the Flies
+7.Ice Elemental
+8.Dark Elemental
+9.Behemoth
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Partitio se defiende
+Partitio recibe 128 de daño físico
+Partitio termina con HP:3700
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3700/4891 SP:314/314 BP:3
+B-Castti - HP:4891/5336 SP:426/426 BP:3
+C-Heatcore - HP:1522/2822 SP:336/342 BP:3
+D-Alfyn - HP:5017/5336 SP:383/383 BP:3
+Equipo del enemigo
+A-Lord of the Flies - HP:5511/5590 Shields:2
+B-Ice Elemental - HP:2135/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Partitio
+3.Heatcore
+4.Castti
+5.Frost Fox
+6.Lord of the Flies
+7.Ice Elemental
+8.Dark Elemental
+9.Behemoth
+----------------------------------------
+Ice Elemental usa Iceshot
+Alfyn se defiende
+Alfyn recibe 118 de daño elemental
+Alfyn termina con HP:4899
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3700/4891 SP:314/314 BP:3
+B-Castti - HP:4891/5336 SP:426/426 BP:3
+C-Heatcore - HP:1522/2822 SP:336/342 BP:3
+D-Alfyn - HP:4899/5336 SP:383/383 BP:3
+Equipo del enemigo
+A-Lord of the Flies - HP:5511/5590 Shields:2
+B-Ice Elemental - HP:2135/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Partitio
+3.Heatcore
+4.Castti
+5.Frost Fox
+6.Lord of the Flies
+7.Ice Elemental
+8.Dark Elemental
+9.Behemoth
+----------------------------------------
+Dark Elemental usa Shadowshot
+Alfyn se defiende
+Alfyn recibe 126 de daño elemental
+Alfyn termina con HP:4773
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3700/4891 SP:314/314 BP:3
+B-Castti - HP:4891/5336 SP:426/426 BP:3
+C-Heatcore - HP:1522/2822 SP:336/342 BP:3
+D-Alfyn - HP:4773/5336 SP:383/383 BP:3
+Equipo del enemigo
+A-Lord of the Flies - HP:5511/5590 Shields:2
+B-Ice Elemental - HP:2135/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Partitio
+3.Heatcore
+4.Castti
+5.Frost Fox
+6.Lord of the Flies
+7.Ice Elemental
+8.Dark Elemental
+9.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Partitio se defiende
+Partitio recibe 343 de daño físico
+Castti recibe 568 de daño físico
+Heatcore recibe 740 de daño físico
+Alfyn se defiende
+Alfyn recibe 314 de daño físico
+Partitio termina con HP:3357
+Castti termina con HP:4323
+Heatcore termina con HP:782
+Alfyn termina con HP:4459
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3357/4891 SP:314/314 BP:4
+B-Castti - HP:4856/5336 SP:426/426 BP:4
+C-Heatcore - HP:782/2822 SP:342/342 BP:4
+D-Alfyn - HP:4992/5336 SP:383/383 BP:4
+Equipo del enemigo
+A-Lord of the Flies - HP:5511/5590 Shields:2
+B-Ice Elemental - HP:2135/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Partitio
+3.Heatcore
+4.Castti
+5.Frost Fox
+6.Lord of the Flies
+7.Ice Elemental
+8.Dark Elemental
+9.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Castti
+3.Alfyn
+4.Behemoth
+5.Partitio
+6.Frost Fox
+7.Lord of the Flies
+8.Ice Elemental
+9.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3357/4891 SP:314/314 BP:4
+B-Castti - HP:4856/5336 SP:426/426 BP:4
+C-Heatcore - HP:782/2822 SP:342/342 BP:4
+D-Alfyn - HP:4992/5336 SP:383/383 BP:4
+Equipo del enemigo
+A-Lord of the Flies - HP:5511/5590 Shields:2
+B-Ice Elemental - HP:2135/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:1302/1302 Shields:2
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Heatcore
+3.Castti
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+8.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Heatcore
+3.Castti
+4.Behemoth
+5.Partitio
+6.Frost Fox
+7.Lord of the Flies
+8.Ice Elemental
+9.Dark Elemental
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Lord of the Flies - HP:5511/5590 Shields:2
+2: Ice Elemental - HP:2135/2160 Shields:4
+3: Dark Elemental - HP:1822/1822 Shields:4
+4: Frost Fox - HP:1302/1302 Shields:2
+5: Behemoth - HP:12690/12690 Shields:8
+6: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Frost Fox recibe 156 de daño de tipo Spear
+Frost Fox termina con HP:1146
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3357/4891 SP:314/314 BP:4
+B-Castti - HP:4856/5336 SP:426/426 BP:4
+C-Heatcore - HP:782/2822 SP:342/342 BP:4
+D-Alfyn - HP:4992/5336 SP:383/383 BP:4
+Equipo del enemigo
+A-Lord of the Flies - HP:5511/5590 Shields:2
+B-Ice Elemental - HP:2135/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:1146/1302 Shields:2
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Castti
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+7.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Heatcore
+3.Castti
+4.Behemoth
+5.Partitio
+6.Frost Fox
+7.Lord of the Flies
+8.Ice Elemental
+9.Dark Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Lord of the Flies - HP:5511/5590 Shields:2
+2: Ice Elemental - HP:2135/2160 Shields:4
+3: Dark Elemental - HP:1822/1822 Shields:4
+4: Frost Fox - HP:1146/1302 Shields:2
+5: Behemoth - HP:12690/12690 Shields:8
+6: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore ataca
+Frost Fox recibe 105 de daño de tipo Bow con debilidad
+Frost Fox termina con HP:1041
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3357/4891 SP:314/314 BP:4
+B-Castti - HP:4856/5336 SP:426/426 BP:4
+C-Heatcore - HP:782/2822 SP:342/342 BP:4
+D-Alfyn - HP:4992/5336 SP:383/383 BP:4
+Equipo del enemigo
+A-Lord of the Flies - HP:5511/5590 Shields:2
+B-Ice Elemental - HP:2135/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:1041/1302 Shields:1
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Frost Fox
+3.Lord of the Flies
+4.Ice Elemental
+5.Dark Elemental
+6.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Heatcore
+3.Castti
+4.Behemoth
+5.Partitio
+6.Frost Fox
+7.Lord of the Flies
+8.Ice Elemental
+9.Dark Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Lord of the Flies - HP:5511/5590 Shields:2
+2: Ice Elemental - HP:2135/2160 Shields:4
+3: Dark Elemental - HP:1822/1822 Shields:4
+4: Frost Fox - HP:1041/1302 Shields:1
+5: Behemoth - HP:12690/12690 Shields:8
+6: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Ice Elemental recibe 25 de daño de tipo Axe
+Ice Elemental termina con HP:2110
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3357/4891 SP:314/314 BP:4
+B-Castti - HP:4856/5336 SP:426/426 BP:4
+C-Heatcore - HP:782/2822 SP:342/342 BP:4
+D-Alfyn - HP:4992/5336 SP:383/383 BP:4
+Equipo del enemigo
+A-Lord of the Flies - HP:5511/5590 Shields:2
+B-Ice Elemental - HP:2110/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:1041/1302 Shields:1
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Lord of the Flies
+3.Ice Elemental
+4.Dark Elemental
+5.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Heatcore
+3.Castti
+4.Behemoth
+5.Partitio
+6.Frost Fox
+7.Lord of the Flies
+8.Ice Elemental
+9.Dark Elemental
+----------------------------------------
+Frost Fox usa Ice blast
+Partitio recibe 248 de daño elemental
+Castti recibe 205 de daño elemental
+Heatcore recibe 280 de daño elemental
+Alfyn se defiende
+Alfyn recibe 147 de daño elemental
+Partitio termina con HP:3109
+Castti termina con HP:4651
+Heatcore termina con HP:502
+Alfyn termina con HP:4845
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3109/4891 SP:314/314 BP:4
+B-Castti - HP:4651/5336 SP:426/426 BP:4
+C-Heatcore - HP:502/2822 SP:342/342 BP:4
+D-Alfyn - HP:4845/5336 SP:383/383 BP:4
+Equipo del enemigo
+A-Lord of the Flies - HP:5511/5590 Shields:2
+B-Ice Elemental - HP:2110/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:1041/1302 Shields:1
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Ice Elemental
+3.Dark Elemental
+4.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Heatcore
+3.Castti
+4.Behemoth
+5.Partitio
+6.Frost Fox
+7.Lord of the Flies
+8.Ice Elemental
+9.Dark Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Partitio recibe 257 de daño físico
+Partitio termina con HP:2852
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2852/4891 SP:314/314 BP:4
+B-Castti - HP:4651/5336 SP:426/426 BP:4
+C-Heatcore - HP:502/2822 SP:342/342 BP:4
+D-Alfyn - HP:4845/5336 SP:383/383 BP:4
+Equipo del enemigo
+A-Lord of the Flies - HP:5511/5590 Shields:2
+B-Ice Elemental - HP:2110/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:1041/1302 Shields:1
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Heatcore
+3.Castti
+4.Behemoth
+5.Partitio
+6.Frost Fox
+7.Lord of the Flies
+8.Ice Elemental
+9.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Alfyn se defiende
+Alfyn recibe 118 de daño elemental
+Alfyn termina con HP:4727
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2852/4891 SP:314/314 BP:4
+B-Castti - HP:4651/5336 SP:426/426 BP:4
+C-Heatcore - HP:502/2822 SP:342/342 BP:4
+D-Alfyn - HP:4727/5336 SP:383/383 BP:4
+Equipo del enemigo
+A-Lord of the Flies - HP:5511/5590 Shields:2
+B-Ice Elemental - HP:2110/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:1041/1302 Shields:1
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Heatcore
+3.Castti
+4.Behemoth
+5.Partitio
+6.Frost Fox
+7.Lord of the Flies
+8.Ice Elemental
+9.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Alfyn se defiende
+Alfyn recibe 126 de daño elemental
+Alfyn termina con HP:4601
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2852/4891 SP:314/314 BP:4
+B-Castti - HP:4651/5336 SP:426/426 BP:4
+C-Heatcore - HP:502/2822 SP:342/342 BP:4
+D-Alfyn - HP:4601/5336 SP:383/383 BP:4
+Equipo del enemigo
+A-Lord of the Flies - HP:5511/5590 Shields:2
+B-Ice Elemental - HP:2110/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:1041/1302 Shields:1
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Heatcore
+3.Castti
+4.Behemoth
+5.Partitio
+6.Frost Fox
+7.Lord of the Flies
+8.Ice Elemental
+9.Dark Elemental
+----------------------------------------
+Behemoth usa Stampede
+Partitio recibe 687 de daño físico
+Castti recibe 568 de daño físico
+Heatcore recibe 740 de daño físico
+Alfyn se defiende
+Alfyn recibe 314 de daño físico
+Partitio termina con HP:2165
+Castti termina con HP:4083
+Heatcore termina con HP:0
+Alfyn termina con HP:4287
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2165/4891 SP:314/314 BP:5
+B-Castti - HP:4616/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:4820/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5511/5590 Shields:2
+B-Ice Elemental - HP:2110/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:1041/1302 Shields:1
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Castti
+3.Behemoth
+4.Partitio
+5.Frost Fox
+6.Lord of the Flies
+7.Ice Elemental
+8.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Behemoth
+4.Partitio
+5.Frost Fox
+6.Lord of the Flies
+7.Ice Elemental
+8.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2165/4891 SP:314/314 BP:5
+B-Castti - HP:4616/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:4820/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5511/5590 Shields:2
+B-Ice Elemental - HP:2110/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:1041/1302 Shields:1
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+3.Partitio
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Castti
+3.Behemoth
+4.Partitio
+5.Frost Fox
+6.Lord of the Flies
+7.Ice Elemental
+8.Dark Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2165/4891 SP:314/314 BP:5
+B-Castti - HP:4616/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:4820/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5511/5590 Shields:2
+B-Ice Elemental - HP:2110/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:1041/1302 Shields:1
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Partitio
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Behemoth
+4.Partitio
+5.Frost Fox
+6.Lord of the Flies
+7.Ice Elemental
+8.Dark Elemental
+----------------------------------------
+Behemoth usa Stampede
+Partitio recibe 687 de daño físico
+Castti se defiende
+Castti recibe 284 de daño físico
+Alfyn se defiende
+Alfyn recibe 314 de daño físico
+Partitio termina con HP:1478
+Castti termina con HP:4332
+Alfyn termina con HP:4506
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:1478/4891 SP:314/314 BP:5
+B-Castti - HP:4332/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:4506/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5511/5590 Shields:2
+B-Ice Elemental - HP:2110/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:1041/1302 Shields:1
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Frost Fox
+3.Lord of the Flies
+4.Ice Elemental
+5.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Behemoth
+4.Partitio
+5.Frost Fox
+6.Lord of the Flies
+7.Ice Elemental
+8.Dark Elemental
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Lord of the Flies - HP:5511/5590 Shields:2
+2: Ice Elemental - HP:2110/2160 Shields:4
+3: Dark Elemental - HP:1822/1822 Shields:4
+4: Frost Fox - HP:1041/1302 Shields:1
+5: Behemoth - HP:12690/12690 Shields:8
+6: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Frost Fox recibe 156 de daño de tipo Spear
+Frost Fox termina con HP:885
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:1478/4891 SP:314/314 BP:5
+B-Castti - HP:4332/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:4506/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5511/5590 Shields:2
+B-Ice Elemental - HP:2110/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:885/1302 Shields:1
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Lord of the Flies
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Behemoth
+4.Partitio
+5.Frost Fox
+6.Lord of the Flies
+7.Ice Elemental
+8.Dark Elemental
+----------------------------------------
+Frost Fox usa Ice blast
+Partitio recibe 248 de daño elemental
+Castti se defiende
+Castti recibe 102 de daño elemental
+Alfyn se defiende
+Alfyn recibe 147 de daño elemental
+Partitio termina con HP:1230
+Castti termina con HP:4230
+Alfyn termina con HP:4359
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:1230/4891 SP:314/314 BP:5
+B-Castti - HP:4230/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:4359/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5511/5590 Shields:2
+B-Ice Elemental - HP:2110/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:885/1302 Shields:1
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Behemoth
+4.Partitio
+5.Frost Fox
+6.Lord of the Flies
+7.Ice Elemental
+8.Dark Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Partitio recibe 257 de daño físico
+Partitio termina con HP:973
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:973/4891 SP:314/314 BP:5
+B-Castti - HP:4230/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:4359/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5511/5590 Shields:2
+B-Ice Elemental - HP:2110/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:885/1302 Shields:1
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Behemoth
+4.Partitio
+5.Frost Fox
+6.Lord of the Flies
+7.Ice Elemental
+8.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Alfyn se defiende
+Alfyn recibe 118 de daño elemental
+Alfyn termina con HP:4241
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:973/4891 SP:314/314 BP:5
+B-Castti - HP:4230/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:4241/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5511/5590 Shields:2
+B-Ice Elemental - HP:2110/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:885/1302 Shields:1
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Behemoth
+4.Partitio
+5.Frost Fox
+6.Lord of the Flies
+7.Ice Elemental
+8.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Alfyn se defiende
+Alfyn recibe 126 de daño elemental
+Alfyn termina con HP:4115
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:973/4891 SP:314/314 BP:5
+B-Castti - HP:4763/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:4648/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5511/5590 Shields:2
+B-Ice Elemental - HP:2110/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:885/1302 Shields:1
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Alfyn
+3.Behemoth
+4.Partitio
+5.Frost Fox
+6.Lord of the Flies
+7.Ice Elemental
+8.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Behemoth
+4.Partitio
+5.Frost Fox
+6.Lord of the Flies
+7.Ice Elemental
+8.Dark Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:973/4891 SP:314/314 BP:5
+B-Castti - HP:4763/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:4648/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5511/5590 Shields:2
+B-Ice Elemental - HP:2110/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:885/1302 Shields:1
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Behemoth
+3.Partitio
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Behemoth
+4.Partitio
+5.Frost Fox
+6.Lord of the Flies
+7.Ice Elemental
+8.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:973/4891 SP:314/314 BP:5
+B-Castti - HP:4763/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:4648/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5511/5590 Shields:2
+B-Ice Elemental - HP:2110/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:885/1302 Shields:1
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Partitio
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Behemoth
+4.Partitio
+5.Frost Fox
+6.Lord of the Flies
+7.Ice Elemental
+8.Dark Elemental
+----------------------------------------
+Behemoth usa Stampede
+Partitio recibe 687 de daño físico
+Castti se defiende
+Castti recibe 284 de daño físico
+Alfyn se defiende
+Alfyn recibe 314 de daño físico
+Partitio termina con HP:286
+Castti termina con HP:4479
+Alfyn termina con HP:4334
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:286/4891 SP:314/314 BP:5
+B-Castti - HP:4479/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:4334/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5511/5590 Shields:2
+B-Ice Elemental - HP:2110/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:885/1302 Shields:1
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Frost Fox
+3.Lord of the Flies
+4.Ice Elemental
+5.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Behemoth
+4.Partitio
+5.Frost Fox
+6.Lord of the Flies
+7.Ice Elemental
+8.Dark Elemental
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:286/4891 SP:314/314 BP:5
+B-Castti - HP:4479/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:4334/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5511/5590 Shields:2
+B-Ice Elemental - HP:2110/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:885/1302 Shields:1
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Lord of the Flies
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Partitio
+4.Behemoth
+5.Frost Fox
+6.Lord of the Flies
+7.Ice Elemental
+8.Dark Elemental
+----------------------------------------
+Frost Fox usa Ice blast
+Partitio se defiende
+Partitio recibe 124 de daño elemental
+Castti se defiende
+Castti recibe 102 de daño elemental
+Alfyn se defiende
+Alfyn recibe 147 de daño elemental
+Partitio termina con HP:162
+Castti termina con HP:4377
+Alfyn termina con HP:4187
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:162/4891 SP:314/314 BP:5
+B-Castti - HP:4377/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:4187/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5511/5590 Shields:2
+B-Ice Elemental - HP:2110/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:885/1302 Shields:1
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Partitio
+4.Behemoth
+5.Frost Fox
+6.Lord of the Flies
+7.Ice Elemental
+8.Dark Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Partitio se defiende
+Partitio recibe 128 de daño físico
+Partitio termina con HP:34
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:34/4891 SP:314/314 BP:5
+B-Castti - HP:4377/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:4187/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5511/5590 Shields:2
+B-Ice Elemental - HP:2110/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:885/1302 Shields:1
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Partitio
+4.Behemoth
+5.Frost Fox
+6.Lord of the Flies
+7.Ice Elemental
+8.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Alfyn se defiende
+Alfyn recibe 118 de daño elemental
+Alfyn termina con HP:4069
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:34/4891 SP:314/314 BP:5
+B-Castti - HP:4377/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:4069/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5511/5590 Shields:2
+B-Ice Elemental - HP:2110/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:885/1302 Shields:1
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Partitio
+4.Behemoth
+5.Frost Fox
+6.Lord of the Flies
+7.Ice Elemental
+8.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Alfyn se defiende
+Alfyn recibe 126 de daño elemental
+Alfyn termina con HP:3943
+----------------------------------------
+Partitio obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:34/4891 SP:314/314 BP:5
+B-Castti - HP:4377/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:3943/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5511/5590 Shields:2
+B-Ice Elemental - HP:2110/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:885/1302 Shields:1
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Partitio
+4.Behemoth
+5.Frost Fox
+6.Lord of the Flies
+7.Ice Elemental
+8.Dark Elemental
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Lord of the Flies - HP:5511/5590 Shields:2
+2: Ice Elemental - HP:2110/2160 Shields:4
+3: Dark Elemental - HP:1822/1822 Shields:4
+4: Frost Fox - HP:885/1302 Shields:1
+5: Behemoth - HP:12690/12690 Shields:8
+6: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Frost Fox recibe 234 de daño de tipo Bow con debilidad
+Frost Fox entra en Breaking Point
+Frost Fox termina con HP:651
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:34/4891 SP:314/314 BP:5
+B-Castti - HP:4910/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:4476/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5511/5590 Shields:2
+B-Ice Elemental - HP:2110/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:651/1302 Shields:0
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Alfyn
+3.Partitio
+4.Behemoth
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Frost Fox
+2.Castti
+3.Alfyn
+4.Behemoth
+5.Partitio
+6.Lord of the Flies
+7.Ice Elemental
+8.Dark Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:34/4891 SP:314/314 BP:5
+B-Castti - HP:4910/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:4476/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5511/5590 Shields:2
+B-Ice Elemental - HP:2110/2160 Shields:4
+C-Dark Elemental - HP:1822/1822 Shields:4
+D-Frost Fox - HP:651/1302 Shields:0
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Partitio
+3.Behemoth
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Frost Fox
+2.Castti
+3.Alfyn
+4.Behemoth
+5.Partitio
+6.Lord of the Flies
+7.Ice Elemental
+8.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Lightning Bolt
+2: Leghold Trap
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Lightning Bolt
+Lord of the Flies recibe 7 de daño de tipo Lightning
+Ice Elemental recibe 319 de daño de tipo Lightning con debilidad
+Dark Elemental recibe 200 de daño de tipo Lightning
+Frost Fox recibe 224 de daño de tipo Lightning con debilidad
+Behemoth recibe 0 de daño de tipo Lightning
+Lord of the Flies termina con HP:5504
+Ice Elemental termina con HP:1791
+Dark Elemental termina con HP:1622
+Frost Fox termina con HP:427
+Behemoth termina con HP:12690
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:34/4891 SP:314/314 BP:5
+B-Castti - HP:4910/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:4476/5336 SP:375/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5504/5590 Shields:2
+B-Ice Elemental - HP:1791/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:427/1302 Shields:0
+E-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Behemoth
+3.Lord of the Flies
+4.Ice Elemental
+5.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Frost Fox
+2.Castti
+3.Alfyn
+4.Behemoth
+5.Partitio
+6.Lord of the Flies
+7.Ice Elemental
+8.Dark Elemental
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Lord of the Flies - HP:5504/5590 Shields:2
+2: Ice Elemental - HP:1791/2160 Shields:3
+3: Dark Elemental - HP:1622/1822 Shields:4
+4: Frost Fox - HP:427/1302 Shields:0
+5: Behemoth - HP:12690/12690 Shields:8
+6: Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Behemoth recibe 132 de daño de tipo Bow con debilidad
+Behemoth termina con HP:12558
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:34/4891 SP:314/314 BP:5
+B-Castti - HP:4910/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:4476/5336 SP:375/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5504/5590 Shields:2
+B-Ice Elemental - HP:1791/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:427/1302 Shields:0
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Lord of the Flies
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Frost Fox
+2.Castti
+3.Alfyn
+4.Behemoth
+5.Partitio
+6.Lord of the Flies
+7.Ice Elemental
+8.Dark Elemental
+----------------------------------------
+Behemoth usa Stampede
+Partitio recibe 687 de daño físico
+Castti se defiende
+Castti recibe 284 de daño físico
+Alfyn recibe 628 de daño físico
+Partitio termina con HP:0
+Castti termina con HP:4626
+Alfyn termina con HP:3848
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:4626/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:3848/5336 SP:375/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5504/5590 Shields:2
+B-Ice Elemental - HP:1791/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:427/1302 Shields:0
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Frost Fox
+2.Castti
+3.Alfyn
+4.Behemoth
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Alfyn recibe 198 de daño físico
+Alfyn termina con HP:3650
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:4626/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:3650/5336 SP:375/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5504/5590 Shields:2
+B-Ice Elemental - HP:1791/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:427/1302 Shields:0
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Frost Fox
+2.Castti
+3.Alfyn
+4.Behemoth
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Alfyn recibe 237 de daño elemental
+Alfyn termina con HP:3413
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:4626/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:3413/5336 SP:375/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5504/5590 Shields:2
+B-Ice Elemental - HP:1791/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:427/1302 Shields:0
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Frost Fox
+2.Castti
+3.Alfyn
+4.Behemoth
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Alfyn recibe 252 de daño elemental
+Alfyn termina con HP:3161
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:5159/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:3694/5336 SP:375/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5504/5590 Shields:2
+B-Ice Elemental - HP:1791/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:427/1302 Shields:2
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Castti
+3.Alfyn
+4.Behemoth
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Frost Fox usa Ice blast
+Castti recibe 205 de daño elemental
+Alfyn recibe 295 de daño elemental
+Castti termina con HP:4954
+Alfyn termina con HP:3399
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:4954/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:3399/5336 SP:375/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5504/5590 Shields:2
+B-Ice Elemental - HP:1791/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:427/1302 Shields:2
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Alfyn
+3.Behemoth
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:4954/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:3399/5336 SP:375/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5504/5590 Shields:2
+B-Ice Elemental - HP:1791/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:427/1302 Shields:2
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Behemoth
+3.Lord of the Flies
+4.Ice Elemental
+5.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Lightning Bolt
+2: Leghold Trap
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Lord of the Flies - HP:5504/5590 Shields:2
+2: Ice Elemental - HP:1791/2160 Shields:3
+3: Dark Elemental - HP:1622/1822 Shields:4
+4: Frost Fox - HP:427/1302 Shields:2
+5: Behemoth - HP:12558/12690 Shields:7
+6: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Leghold Trap
+Dark Elemental tendrá menor prioridad de turno durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:4954/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:3399/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5504/5590 Shields:2
+B-Ice Elemental - HP:1791/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:427/1302 Shields:2
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Lord of the Flies
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Behemoth usa Stampede
+Castti se defiende
+Castti recibe 284 de daño físico
+Alfyn recibe 628 de daño físico
+Castti termina con HP:4670
+Alfyn termina con HP:2771
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:4670/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:2771/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5504/5590 Shields:2
+B-Ice Elemental - HP:1791/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:427/1302 Shields:2
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Alfyn recibe 198 de daño físico
+Alfyn termina con HP:2573
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:4670/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:2573/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5504/5590 Shields:2
+B-Ice Elemental - HP:1791/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:427/1302 Shields:2
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Alfyn recibe 237 de daño elemental
+Alfyn termina con HP:2336
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:4670/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:2336/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5504/5590 Shields:2
+B-Ice Elemental - HP:1791/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:427/1302 Shields:2
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Alfyn recibe 252 de daño elemental
+Alfyn termina con HP:2084
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:5203/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:2617/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5504/5590 Shields:2
+B-Ice Elemental - HP:1791/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:427/1302 Shields:2
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Alfyn
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Holy Light
+2: Icewind
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Lord of the Flies - HP:5504/5590 Shields:2
+2: Ice Elemental - HP:1791/2160 Shields:3
+3: Dark Elemental - HP:1622/1822 Shields:4
+4: Frost Fox - HP:427/1302 Shields:2
+5: Behemoth - HP:12558/12690 Shields:7
+6: Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Holy Light
+Behemoth recibe 0 de daño de tipo Light
+Behemoth termina con HP:12558
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:5203/5336 SP:420/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:2617/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5504/5590 Shields:2
+B-Ice Elemental - HP:1791/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:427/1302 Shields:2
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:5203/5336 SP:420/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:2617/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5504/5590 Shields:2
+B-Ice Elemental - HP:1791/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:427/1302 Shields:2
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Frost Fox
+3.Lord of the Flies
+4.Ice Elemental
+5.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Castti
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 568 de daño físico
+Alfyn se defiende
+Alfyn recibe 314 de daño físico
+Castti termina con HP:4635
+Alfyn termina con HP:2303
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:4635/5336 SP:420/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:2303/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5504/5590 Shields:2
+B-Ice Elemental - HP:1791/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:427/1302 Shields:2
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Lord of the Flies
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Castti
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Frost Fox usa Ice blast
+Castti recibe 205 de daño elemental
+Alfyn se defiende
+Alfyn recibe 147 de daño elemental
+Castti termina con HP:4430
+Alfyn termina con HP:2156
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:4430/5336 SP:420/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:2156/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5504/5590 Shields:2
+B-Ice Elemental - HP:1791/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:427/1302 Shields:2
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Castti
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Alfyn se defiende
+Alfyn recibe 99 de daño físico
+Alfyn termina con HP:2057
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:4430/5336 SP:420/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:2057/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5504/5590 Shields:2
+B-Ice Elemental - HP:1791/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:427/1302 Shields:2
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Castti
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Alfyn se defiende
+Alfyn recibe 118 de daño elemental
+Alfyn termina con HP:1939
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:4430/5336 SP:420/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:1939/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5504/5590 Shields:2
+B-Ice Elemental - HP:1791/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:427/1302 Shields:2
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Castti
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Alfyn se defiende
+Alfyn recibe 126 de daño elemental
+Alfyn termina con HP:1813
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:4963/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:2346/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5504/5590 Shields:2
+B-Ice Elemental - HP:1791/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:427/1302 Shields:2
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Castti
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:4963/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:2346/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5504/5590 Shields:2
+B-Ice Elemental - HP:1791/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:427/1302 Shields:2
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Castti
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Lord of the Flies - HP:5504/5590 Shields:2
+2: Ice Elemental - HP:1791/2160 Shields:3
+3: Dark Elemental - HP:1622/1822 Shields:4
+4: Frost Fox - HP:427/1302 Shields:2
+5: Behemoth - HP:12558/12690 Shields:7
+6: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Frost Fox recibe 112 de daño de tipo Axe
+Frost Fox termina con HP:315
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:4963/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:2346/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5504/5590 Shields:2
+B-Ice Elemental - HP:1791/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:315/1302 Shields:2
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Frost Fox
+3.Lord of the Flies
+4.Ice Elemental
+5.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Castti
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 568 de daño físico
+Alfyn se defiende
+Alfyn recibe 314 de daño físico
+Castti termina con HP:4395
+Alfyn termina con HP:2032
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:4395/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:2032/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5504/5590 Shields:2
+B-Ice Elemental - HP:1791/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:315/1302 Shields:2
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Lord of the Flies
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Castti
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Frost Fox usa Ice blast
+Castti recibe 205 de daño elemental
+Alfyn se defiende
+Alfyn recibe 147 de daño elemental
+Castti termina con HP:4190
+Alfyn termina con HP:1885
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:4190/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:1885/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5504/5590 Shields:2
+B-Ice Elemental - HP:1791/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:315/1302 Shields:2
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Castti
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Alfyn se defiende
+Alfyn recibe 99 de daño físico
+Alfyn termina con HP:1786
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:4190/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:1786/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5504/5590 Shields:2
+B-Ice Elemental - HP:1791/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:315/1302 Shields:2
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Castti
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Alfyn se defiende
+Alfyn recibe 118 de daño elemental
+Alfyn termina con HP:1668
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:4190/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:1668/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5504/5590 Shields:2
+B-Ice Elemental - HP:1791/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:315/1302 Shields:2
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Castti
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Alfyn se defiende
+Alfyn recibe 126 de daño elemental
+Alfyn termina con HP:1542
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:4723/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:2075/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5504/5590 Shields:2
+B-Ice Elemental - HP:1791/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:315/1302 Shields:2
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Castti
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:4723/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:2075/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5504/5590 Shields:2
+B-Ice Elemental - HP:1791/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:315/1302 Shields:2
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Castti
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Lord of the Flies - HP:5504/5590 Shields:2
+2: Ice Elemental - HP:1791/2160 Shields:3
+3: Dark Elemental - HP:1622/1822 Shields:4
+4: Frost Fox - HP:315/1302 Shields:2
+5: Behemoth - HP:12558/12690 Shields:7
+6: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Dark Elemental recibe 0 de daño de tipo Axe
+Dark Elemental termina con HP:1622
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:4723/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:2075/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5504/5590 Shields:2
+B-Ice Elemental - HP:1791/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:315/1302 Shields:2
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Frost Fox
+3.Lord of the Flies
+4.Ice Elemental
+5.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Castti
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 568 de daño físico
+Alfyn se defiende
+Alfyn recibe 314 de daño físico
+Castti termina con HP:4155
+Alfyn termina con HP:1761
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:4155/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:1761/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5504/5590 Shields:2
+B-Ice Elemental - HP:1791/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:315/1302 Shields:2
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Lord of the Flies
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Castti
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Frost Fox usa Ice blast
+Castti recibe 205 de daño elemental
+Alfyn se defiende
+Alfyn recibe 147 de daño elemental
+Castti termina con HP:3950
+Alfyn termina con HP:1614
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:3950/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:1614/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5504/5590 Shields:2
+B-Ice Elemental - HP:1791/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:315/1302 Shields:2
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Castti
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Alfyn se defiende
+Alfyn recibe 99 de daño físico
+Alfyn termina con HP:1515
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:3950/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:1515/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5504/5590 Shields:2
+B-Ice Elemental - HP:1791/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:315/1302 Shields:2
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Castti
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Alfyn se defiende
+Alfyn recibe 118 de daño elemental
+Alfyn termina con HP:1397
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:3950/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:1397/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5504/5590 Shields:2
+B-Ice Elemental - HP:1791/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:315/1302 Shields:2
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Castti
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Alfyn se defiende
+Alfyn recibe 126 de daño elemental
+Alfyn termina con HP:1271
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:4483/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:1804/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5504/5590 Shields:2
+B-Ice Elemental - HP:1791/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:315/1302 Shields:2
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Castti
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Lord of the Flies - HP:5504/5590 Shields:2
+2: Ice Elemental - HP:1791/2160 Shields:3
+3: Dark Elemental - HP:1622/1822 Shields:4
+4: Frost Fox - HP:315/1302 Shields:2
+5: Behemoth - HP:12558/12690 Shields:7
+6: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies termina con HP:5495
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:4483/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:1804/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5495/5590 Shields:2
+B-Ice Elemental - HP:1791/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:315/1302 Shields:2
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Lord of the Flies - HP:5495/5590 Shields:2
+2: Ice Elemental - HP:1791/2160 Shields:3
+3: Dark Elemental - HP:1622/1822 Shields:4
+4: Frost Fox - HP:315/1302 Shields:2
+5: Behemoth - HP:12558/12690 Shields:7
+6: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Ice Elemental recibe 25 de daño de tipo Axe
+Ice Elemental termina con HP:1766
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:4483/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:1804/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5495/5590 Shields:2
+B-Ice Elemental - HP:1766/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:315/1302 Shields:2
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Frost Fox
+3.Lord of the Flies
+4.Ice Elemental
+5.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 568 de daño físico
+Alfyn recibe 628 de daño físico
+Castti termina con HP:3915
+Alfyn termina con HP:1176
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:3915/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:1176/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5495/5590 Shields:2
+B-Ice Elemental - HP:1766/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:315/1302 Shields:2
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Lord of the Flies
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Frost Fox usa Ice blast
+Castti recibe 205 de daño elemental
+Alfyn recibe 295 de daño elemental
+Castti termina con HP:3710
+Alfyn termina con HP:881
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:3710/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:881/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5495/5590 Shields:2
+B-Ice Elemental - HP:1766/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:315/1302 Shields:2
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Alfyn recibe 198 de daño físico
+Alfyn termina con HP:683
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:3710/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:683/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5495/5590 Shields:2
+B-Ice Elemental - HP:1766/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:315/1302 Shields:2
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Alfyn recibe 237 de daño elemental
+Alfyn termina con HP:446
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:3710/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:446/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5495/5590 Shields:2
+B-Ice Elemental - HP:1766/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:315/1302 Shields:2
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Alfyn recibe 252 de daño elemental
+Alfyn termina con HP:194
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:4243/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:727/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5495/5590 Shields:2
+B-Ice Elemental - HP:1766/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:315/1302 Shields:2
+E-Behemoth - HP:12558/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Alfyn
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Lord of the Flies - HP:5495/5590 Shields:2
+2: Ice Elemental - HP:1766/2160 Shields:3
+3: Dark Elemental - HP:1622/1822 Shields:4
+4: Frost Fox - HP:315/1302 Shields:2
+5: Behemoth - HP:12558/12690 Shields:7
+6: Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Behemoth recibe 66 de daño de tipo Axe con debilidad
+Behemoth termina con HP:12492
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:4243/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:727/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5495/5590 Shields:2
+B-Ice Elemental - HP:1766/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:315/1302 Shields:2
+E-Behemoth - HP:12492/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Lord of the Flies - HP:5495/5590 Shields:2
+2: Ice Elemental - HP:1766/2160 Shields:3
+3: Dark Elemental - HP:1622/1822 Shields:4
+4: Frost Fox - HP:315/1302 Shields:2
+5: Behemoth - HP:12492/12690 Shields:6
+6: Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Behemoth recibe 66 de daño de tipo Axe con debilidad
+Behemoth termina con HP:12426
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:4243/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:727/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5495/5590 Shields:2
+B-Ice Elemental - HP:1766/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:315/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Frost Fox
+3.Lord of the Flies
+4.Ice Elemental
+5.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 568 de daño físico
+Alfyn recibe 628 de daño físico
+Castti termina con HP:3675
+Alfyn termina con HP:99
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:3675/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:99/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5495/5590 Shields:2
+B-Ice Elemental - HP:1766/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:315/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Lord of the Flies
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Behemoth
+4.Frost Fox
+5.Lord of the Flies
+6.Ice Elemental
+7.Dark Elemental
+----------------------------------------
+Frost Fox usa Ice blast
+Castti recibe 205 de daño elemental
+Alfyn recibe 295 de daño elemental
+Castti termina con HP:3470
+Alfyn termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:3470/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5495/5590 Shields:2
+B-Ice Elemental - HP:1766/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:315/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 138 de daño físico
+Castti termina con HP:3332
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:3332/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5495/5590 Shields:2
+B-Ice Elemental - HP:1766/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:315/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Castti recibe 147 de daño elemental
+Castti termina con HP:3185
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:3185/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5495/5590 Shields:2
+B-Ice Elemental - HP:1766/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:315/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Castti recibe 162 de daño elemental
+Castti termina con HP:3023
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:3556/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5495/5590 Shields:2
+B-Ice Elemental - HP:1766/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:315/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:3556/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5495/5590 Shields:2
+B-Ice Elemental - HP:1766/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:315/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Frost Fox
+3.Lord of the Flies
+4.Ice Elemental
+5.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Behemoth usa Stampede
+Castti se defiende
+Castti recibe 284 de daño físico
+Castti termina con HP:3272
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:3272/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5495/5590 Shields:2
+B-Ice Elemental - HP:1766/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:315/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Lord of the Flies
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Frost Fox usa Ice blast
+Castti se defiende
+Castti recibe 102 de daño elemental
+Castti termina con HP:3170
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:3170/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5495/5590 Shields:2
+B-Ice Elemental - HP:1766/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:315/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti se defiende
+Castti recibe 69 de daño físico
+Castti termina con HP:3101
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:3101/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5495/5590 Shields:2
+B-Ice Elemental - HP:1766/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:315/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Castti se defiende
+Castti recibe 73 de daño elemental
+Castti termina con HP:3028
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:3028/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5495/5590 Shields:2
+B-Ice Elemental - HP:1766/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:315/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Castti se defiende
+Castti recibe 81 de daño elemental
+Castti termina con HP:2947
+----------------------------------------
+INICIA RONDA 14
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:3480/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5495/5590 Shields:2
+B-Ice Elemental - HP:1766/2160 Shields:3
+C-Dark Elemental - HP:1622/1822 Shields:4
+D-Frost Fox - HP:315/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Holy Light
+2: Icewind
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Icewind
+Lord of the Flies recibe 2 de daño de tipo Ice
+Ice Elemental recibe 208 de daño de tipo Ice
+Dark Elemental recibe 195 de daño de tipo Ice
+Frost Fox recibe 107 de daño de tipo Ice
+Behemoth recibe 0 de daño de tipo Ice con debilidad
+Lord of the Flies termina con HP:5493
+Ice Elemental termina con HP:1558
+Dark Elemental termina con HP:1427
+Frost Fox termina con HP:208
+Behemoth termina con HP:12426
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:3480/5336 SP:418/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5493/5590 Shields:2
+B-Ice Elemental - HP:1558/2160 Shields:3
+C-Dark Elemental - HP:1427/1822 Shields:4
+D-Frost Fox - HP:208/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Frost Fox
+3.Lord of the Flies
+4.Ice Elemental
+5.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 568 de daño físico
+Castti termina con HP:2912
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:2912/5336 SP:418/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5493/5590 Shields:2
+B-Ice Elemental - HP:1558/2160 Shields:3
+C-Dark Elemental - HP:1427/1822 Shields:4
+D-Frost Fox - HP:208/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Lord of the Flies
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Frost Fox usa Ice blast
+Castti recibe 205 de daño elemental
+Castti termina con HP:2707
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:2707/5336 SP:418/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5493/5590 Shields:2
+B-Ice Elemental - HP:1558/2160 Shields:3
+C-Dark Elemental - HP:1427/1822 Shields:4
+D-Frost Fox - HP:208/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 138 de daño físico
+Castti termina con HP:2569
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:2569/5336 SP:418/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5493/5590 Shields:2
+B-Ice Elemental - HP:1558/2160 Shields:3
+C-Dark Elemental - HP:1427/1822 Shields:4
+D-Frost Fox - HP:208/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Castti recibe 147 de daño elemental
+Castti termina con HP:2422
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:2422/5336 SP:418/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5493/5590 Shields:2
+B-Ice Elemental - HP:1558/2160 Shields:3
+C-Dark Elemental - HP:1427/1822 Shields:4
+D-Frost Fox - HP:208/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Castti recibe 162 de daño elemental
+Castti termina con HP:2260
+----------------------------------------
+INICIA RONDA 15
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:2793/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5493/5590 Shields:2
+B-Ice Elemental - HP:1558/2160 Shields:3
+C-Dark Elemental - HP:1427/1822 Shields:4
+D-Frost Fox - HP:208/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Holy Light
+2: Icewind
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Lord of the Flies - HP:5493/5590 Shields:2
+2: Ice Elemental - HP:1558/2160 Shields:3
+3: Dark Elemental - HP:1427/1822 Shields:4
+4: Frost Fox - HP:208/1302 Shields:2
+5: Behemoth - HP:12426/12690 Shields:5
+6: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Holy Light
+Ice Elemental recibe 208 de daño de tipo Light
+Ice Elemental termina con HP:1350
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:2793/5336 SP:420/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5493/5590 Shields:2
+B-Ice Elemental - HP:1350/2160 Shields:3
+C-Dark Elemental - HP:1427/1822 Shields:4
+D-Frost Fox - HP:208/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Frost Fox
+3.Lord of the Flies
+4.Ice Elemental
+5.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 568 de daño físico
+Castti termina con HP:2225
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:2225/5336 SP:420/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5493/5590 Shields:2
+B-Ice Elemental - HP:1350/2160 Shields:3
+C-Dark Elemental - HP:1427/1822 Shields:4
+D-Frost Fox - HP:208/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Lord of the Flies
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Frost Fox usa Ice blast
+Castti recibe 205 de daño elemental
+Castti termina con HP:2020
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:2020/5336 SP:420/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5493/5590 Shields:2
+B-Ice Elemental - HP:1350/2160 Shields:3
+C-Dark Elemental - HP:1427/1822 Shields:4
+D-Frost Fox - HP:208/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 138 de daño físico
+Castti termina con HP:1882
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:1882/5336 SP:420/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5493/5590 Shields:2
+B-Ice Elemental - HP:1350/2160 Shields:3
+C-Dark Elemental - HP:1427/1822 Shields:4
+D-Frost Fox - HP:208/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Castti recibe 147 de daño elemental
+Castti termina con HP:1735
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:1735/5336 SP:420/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5493/5590 Shields:2
+B-Ice Elemental - HP:1350/2160 Shields:3
+C-Dark Elemental - HP:1427/1822 Shields:4
+D-Frost Fox - HP:208/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Castti recibe 162 de daño elemental
+Castti termina con HP:1573
+----------------------------------------
+INICIA RONDA 16
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:2106/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5493/5590 Shields:2
+B-Ice Elemental - HP:1350/2160 Shields:3
+C-Dark Elemental - HP:1427/1822 Shields:4
+D-Frost Fox - HP:208/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:2106/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5493/5590 Shields:2
+B-Ice Elemental - HP:1350/2160 Shields:3
+C-Dark Elemental - HP:1427/1822 Shields:4
+D-Frost Fox - HP:208/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Frost Fox
+3.Lord of the Flies
+4.Ice Elemental
+5.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Behemoth usa Stampede
+Castti se defiende
+Castti recibe 284 de daño físico
+Castti termina con HP:1822
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:1822/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5493/5590 Shields:2
+B-Ice Elemental - HP:1350/2160 Shields:3
+C-Dark Elemental - HP:1427/1822 Shields:4
+D-Frost Fox - HP:208/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Lord of the Flies
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Frost Fox usa Ice blast
+Castti se defiende
+Castti recibe 102 de daño elemental
+Castti termina con HP:1720
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:1720/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5493/5590 Shields:2
+B-Ice Elemental - HP:1350/2160 Shields:3
+C-Dark Elemental - HP:1427/1822 Shields:4
+D-Frost Fox - HP:208/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti se defiende
+Castti recibe 69 de daño físico
+Castti termina con HP:1651
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:1651/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5493/5590 Shields:2
+B-Ice Elemental - HP:1350/2160 Shields:3
+C-Dark Elemental - HP:1427/1822 Shields:4
+D-Frost Fox - HP:208/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Castti se defiende
+Castti recibe 73 de daño elemental
+Castti termina con HP:1578
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:1578/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5493/5590 Shields:2
+B-Ice Elemental - HP:1350/2160 Shields:3
+C-Dark Elemental - HP:1427/1822 Shields:4
+D-Frost Fox - HP:208/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Castti se defiende
+Castti recibe 81 de daño elemental
+Castti termina con HP:1497
+----------------------------------------
+INICIA RONDA 17
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:2030/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5493/5590 Shields:2
+B-Ice Elemental - HP:1350/2160 Shields:3
+C-Dark Elemental - HP:1427/1822 Shields:4
+D-Frost Fox - HP:208/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Holy Light
+2: Icewind
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Icewind
+Lord of the Flies recibe 2 de daño de tipo Ice
+Ice Elemental recibe 208 de daño de tipo Ice
+Dark Elemental recibe 195 de daño de tipo Ice
+Frost Fox recibe 107 de daño de tipo Ice
+Behemoth recibe 0 de daño de tipo Ice con debilidad
+Lord of the Flies termina con HP:5491
+Ice Elemental termina con HP:1142
+Dark Elemental termina con HP:1232
+Frost Fox termina con HP:101
+Behemoth termina con HP:12426
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:2030/5336 SP:418/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5491/5590 Shields:2
+B-Ice Elemental - HP:1142/2160 Shields:3
+C-Dark Elemental - HP:1232/1822 Shields:4
+D-Frost Fox - HP:101/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Frost Fox
+3.Lord of the Flies
+4.Ice Elemental
+5.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 568 de daño físico
+Castti termina con HP:1462
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:1462/5336 SP:418/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5491/5590 Shields:2
+B-Ice Elemental - HP:1142/2160 Shields:3
+C-Dark Elemental - HP:1232/1822 Shields:4
+D-Frost Fox - HP:101/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Lord of the Flies
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Frost Fox usa Ice blast
+Castti recibe 205 de daño elemental
+Castti termina con HP:1257
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:1257/5336 SP:418/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5491/5590 Shields:2
+B-Ice Elemental - HP:1142/2160 Shields:3
+C-Dark Elemental - HP:1232/1822 Shields:4
+D-Frost Fox - HP:101/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 138 de daño físico
+Castti termina con HP:1119
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:1119/5336 SP:418/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5491/5590 Shields:2
+B-Ice Elemental - HP:1142/2160 Shields:3
+C-Dark Elemental - HP:1232/1822 Shields:4
+D-Frost Fox - HP:101/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Castti recibe 147 de daño elemental
+Castti termina con HP:972
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:972/5336 SP:418/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5491/5590 Shields:2
+B-Ice Elemental - HP:1142/2160 Shields:3
+C-Dark Elemental - HP:1232/1822 Shields:4
+D-Frost Fox - HP:101/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Castti recibe 162 de daño elemental
+Castti termina con HP:810
+----------------------------------------
+INICIA RONDA 18
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:1343/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5491/5590 Shields:2
+B-Ice Elemental - HP:1142/2160 Shields:3
+C-Dark Elemental - HP:1232/1822 Shields:4
+D-Frost Fox - HP:101/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Lord of the Flies - HP:5491/5590 Shields:2
+2: Ice Elemental - HP:1142/2160 Shields:3
+3: Dark Elemental - HP:1232/1822 Shields:4
+4: Frost Fox - HP:101/1302 Shields:2
+5: Behemoth - HP:12426/12690 Shields:5
+6: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Ice Elemental recibe 25 de daño de tipo Axe
+Ice Elemental termina con HP:1117
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:1343/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5491/5590 Shields:2
+B-Ice Elemental - HP:1117/2160 Shields:3
+C-Dark Elemental - HP:1232/1822 Shields:4
+D-Frost Fox - HP:101/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Frost Fox
+3.Lord of the Flies
+4.Ice Elemental
+5.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 568 de daño físico
+Castti termina con HP:775
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:775/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5491/5590 Shields:2
+B-Ice Elemental - HP:1117/2160 Shields:3
+C-Dark Elemental - HP:1232/1822 Shields:4
+D-Frost Fox - HP:101/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Lord of the Flies
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Frost Fox usa Ice blast
+Castti recibe 205 de daño elemental
+Castti termina con HP:570
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:570/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5491/5590 Shields:2
+B-Ice Elemental - HP:1117/2160 Shields:3
+C-Dark Elemental - HP:1232/1822 Shields:4
+D-Frost Fox - HP:101/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 138 de daño físico
+Castti termina con HP:432
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:432/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5491/5590 Shields:2
+B-Ice Elemental - HP:1117/2160 Shields:3
+C-Dark Elemental - HP:1232/1822 Shields:4
+D-Frost Fox - HP:101/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Castti recibe 147 de daño elemental
+Castti termina con HP:285
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:285/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5491/5590 Shields:2
+B-Ice Elemental - HP:1117/2160 Shields:3
+C-Dark Elemental - HP:1232/1822 Shields:4
+D-Frost Fox - HP:101/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Castti recibe 162 de daño elemental
+Castti termina con HP:123
+----------------------------------------
+INICIA RONDA 19
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:656/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5491/5590 Shields:2
+B-Ice Elemental - HP:1117/2160 Shields:3
+C-Dark Elemental - HP:1232/1822 Shields:4
+D-Frost Fox - HP:101/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Lord of the Flies - HP:5491/5590 Shields:2
+2: Ice Elemental - HP:1117/2160 Shields:3
+3: Dark Elemental - HP:1232/1822 Shields:4
+4: Frost Fox - HP:101/1302 Shields:2
+5: Behemoth - HP:12426/12690 Shields:5
+6: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Dark Elemental recibe 0 de daño de tipo Axe
+Dark Elemental termina con HP:1232
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:656/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5491/5590 Shields:2
+B-Ice Elemental - HP:1117/2160 Shields:3
+C-Dark Elemental - HP:1232/1822 Shields:4
+D-Frost Fox - HP:101/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Frost Fox
+3.Lord of the Flies
+4.Ice Elemental
+5.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 568 de daño físico
+Castti termina con HP:88
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:0/4891 SP:314/314 BP:5
+B-Castti - HP:88/5336 SP:426/426 BP:5
+C-Heatcore - HP:0/2822 SP:342/342 BP:4
+D-Alfyn - HP:0/5336 SP:369/383 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5491/5590 Shields:2
+B-Ice Elemental - HP:1117/2160 Shields:3
+C-Dark Elemental - HP:1232/1822 Shields:4
+D-Frost Fox - HP:101/1302 Shields:2
+E-Behemoth - HP:12426/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Lord of the Flies
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Ice Elemental
+6.Dark Elemental
+----------------------------------------
+Frost Fox usa Ice blast
+Castti recibe 205 de daño elemental
+Castti termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

@@ -1,0 +1,1170 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+INPUT: 8
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:1
+C-Ophilia - HP:4002/4002 SP:470/470 BP:1
+D-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-War Wolf - HP:3548/3548 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+C-Red Fox - HP:1451/1451 Shields:3
+D-Thunder Guardian - HP:1971/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.Ophilia
+4.Cyrus
+5.War Wolf
+6.Shaggy Meep
+7.Thunder Guardian
+8.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Ophilia
+4.Cyrus
+5.War Wolf
+6.Shaggy Meep
+7.Thunder Guardian
+8.Red Fox
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: War Wolf - HP:3548/3548 Shields:2
+2: Shaggy Meep - HP:1036/1036 Shields:3
+3: Red Fox - HP:1451/1451 Shields:3
+4: Thunder Guardian - HP:1971/1971 Shields:3
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+War Wolf recibe 254 de daño de tipo Dagger
+War Wolf termina con HP:3294
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:1
+C-Ophilia - HP:4002/4002 SP:470/470 BP:1
+D-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-War Wolf - HP:3294/3548 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+C-Red Fox - HP:1451/1451 Shields:3
+D-Thunder Guardian - HP:1971/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ophilia
+3.Cyrus
+4.War Wolf
+5.Shaggy Meep
+6.Thunder Guardian
+7.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Ophilia
+4.Cyrus
+5.War Wolf
+6.Shaggy Meep
+7.Thunder Guardian
+8.Red Fox
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: War Wolf - HP:3294/3548 Shields:2
+2: Shaggy Meep - HP:1036/1036 Shields:3
+3: Red Fox - HP:1451/1451 Shields:3
+4: Thunder Guardian - HP:1971/1971 Shields:3
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+War Wolf recibe 75 de daño de tipo Dagger
+War Wolf termina con HP:3219
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:1
+C-Ophilia - HP:4002/4002 SP:470/470 BP:1
+D-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-War Wolf - HP:3219/3548 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+C-Red Fox - HP:1451/1451 Shields:3
+D-Thunder Guardian - HP:1971/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Cyrus
+3.War Wolf
+4.Shaggy Meep
+5.Thunder Guardian
+6.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Ophilia
+4.Cyrus
+5.War Wolf
+6.Shaggy Meep
+7.Thunder Guardian
+8.Red Fox
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: War Wolf - HP:3219/3548 Shields:2
+2: Shaggy Meep - HP:1036/1036 Shields:3
+3: Red Fox - HP:1451/1451 Shields:3
+4: Thunder Guardian - HP:1971/1971 Shields:3
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+War Wolf recibe 89 de daño de tipo Stave
+War Wolf termina con HP:3130
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:1
+C-Ophilia - HP:4002/4002 SP:470/470 BP:1
+D-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-War Wolf - HP:3130/3548 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+C-Red Fox - HP:1451/1451 Shields:3
+D-Thunder Guardian - HP:1971/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.War Wolf
+3.Shaggy Meep
+4.Thunder Guardian
+5.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Ophilia
+4.Cyrus
+5.War Wolf
+6.Shaggy Meep
+7.Thunder Guardian
+8.Red Fox
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: War Wolf - HP:3130/3548 Shields:2
+2: Shaggy Meep - HP:1036/1036 Shields:3
+3: Red Fox - HP:1451/1451 Shields:3
+4: Thunder Guardian - HP:1971/1971 Shields:3
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+War Wolf recibe 69 de daño de tipo Stave
+War Wolf termina con HP:3061
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:1
+C-Ophilia - HP:4002/4002 SP:470/470 BP:1
+D-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-War Wolf - HP:3061/3548 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+C-Red Fox - HP:1451/1451 Shields:3
+D-Thunder Guardian - HP:1971/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+2.Shaggy Meep
+3.Thunder Guardian
+4.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Ophilia
+4.Cyrus
+5.War Wolf
+6.Shaggy Meep
+7.Thunder Guardian
+8.Red Fox
+----------------------------------------
+War Wolf usa Attack
+Therion recibe 197 de daño físico
+Therion termina con HP:4250
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Therion - HP:4250/4447 SP:332/332 BP:1
+C-Ophilia - HP:4002/4002 SP:470/470 BP:1
+D-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-War Wolf - HP:3061/3548 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+C-Red Fox - HP:1451/1451 Shields:3
+D-Thunder Guardian - HP:1971/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Shaggy Meep
+2.Thunder Guardian
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Ophilia
+4.Cyrus
+5.War Wolf
+6.Shaggy Meep
+7.Thunder Guardian
+8.Red Fox
+----------------------------------------
+Shaggy Meep usa Attack
+Therion recibe 184 de daño físico
+Therion termina con HP:4066
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Therion - HP:4066/4447 SP:332/332 BP:1
+C-Ophilia - HP:4002/4002 SP:470/470 BP:1
+D-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-War Wolf - HP:3061/3548 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+C-Red Fox - HP:1451/1451 Shields:3
+D-Thunder Guardian - HP:1971/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Thunder Guardian
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Ophilia
+4.Cyrus
+5.War Wolf
+6.Shaggy Meep
+7.Thunder Guardian
+8.Red Fox
+----------------------------------------
+Thunder Guardian usa Attack
+Therion recibe 172 de daño físico
+Therion termina con HP:3894
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Therion - HP:3894/4447 SP:332/332 BP:1
+C-Ophilia - HP:4002/4002 SP:470/470 BP:1
+D-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-War Wolf - HP:3061/3548 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+C-Red Fox - HP:1451/1451 Shields:3
+D-Thunder Guardian - HP:1971/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Ophilia
+4.Cyrus
+5.War Wolf
+6.Shaggy Meep
+7.Thunder Guardian
+8.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Primrose recibe 213 de daño físico
+Primrose termina con HP:3789
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3789/4002 SP:504/504 BP:2
+B-Therion - HP:3894/4447 SP:332/332 BP:2
+C-Ophilia - HP:4002/4002 SP:470/470 BP:2
+D-Cyrus - HP:3557/3557 SP:582/582 BP:2
+Equipo del enemigo
+A-War Wolf - HP:3061/3548 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+C-Red Fox - HP:1451/1451 Shields:3
+D-Thunder Guardian - HP:1971/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.Ophilia
+4.Cyrus
+5.War Wolf
+6.Shaggy Meep
+7.Thunder Guardian
+8.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Ophilia
+4.Cyrus
+5.War Wolf
+6.Shaggy Meep
+7.Thunder Guardian
+8.Red Fox
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: War Wolf - HP:3061/3548 Shields:2
+2: Shaggy Meep - HP:1036/1036 Shields:3
+3: Red Fox - HP:1451/1451 Shields:3
+4: Thunder Guardian - HP:1971/1971 Shields:3
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+War Wolf recibe 254 de daño de tipo Dagger
+War Wolf termina con HP:2807
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3789/4002 SP:504/504 BP:2
+B-Therion - HP:3894/4447 SP:332/332 BP:2
+C-Ophilia - HP:4002/4002 SP:470/470 BP:2
+D-Cyrus - HP:3557/3557 SP:582/582 BP:2
+Equipo del enemigo
+A-War Wolf - HP:2807/3548 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+C-Red Fox - HP:1451/1451 Shields:3
+D-Thunder Guardian - HP:1971/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ophilia
+3.Cyrus
+4.War Wolf
+5.Shaggy Meep
+6.Thunder Guardian
+7.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Ophilia
+4.Cyrus
+5.War Wolf
+6.Shaggy Meep
+7.Thunder Guardian
+8.Red Fox
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: War Wolf - HP:2807/3548 Shields:2
+2: Shaggy Meep - HP:1036/1036 Shields:3
+3: Red Fox - HP:1451/1451 Shields:3
+4: Thunder Guardian - HP:1971/1971 Shields:3
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+War Wolf recibe 75 de daño de tipo Dagger
+War Wolf termina con HP:2732
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3789/4002 SP:504/504 BP:2
+B-Therion - HP:3894/4447 SP:332/332 BP:2
+C-Ophilia - HP:4002/4002 SP:470/470 BP:2
+D-Cyrus - HP:3557/3557 SP:582/582 BP:2
+Equipo del enemigo
+A-War Wolf - HP:2732/3548 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+C-Red Fox - HP:1451/1451 Shields:3
+D-Thunder Guardian - HP:1971/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Cyrus
+3.War Wolf
+4.Shaggy Meep
+5.Thunder Guardian
+6.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Ophilia
+4.Cyrus
+5.War Wolf
+6.Shaggy Meep
+7.Thunder Guardian
+8.Red Fox
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: War Wolf - HP:2732/3548 Shields:2
+2: Shaggy Meep - HP:1036/1036 Shields:3
+3: Red Fox - HP:1451/1451 Shields:3
+4: Thunder Guardian - HP:1971/1971 Shields:3
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+War Wolf recibe 89 de daño de tipo Stave
+War Wolf termina con HP:2643
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3789/4002 SP:504/504 BP:2
+B-Therion - HP:3894/4447 SP:332/332 BP:2
+C-Ophilia - HP:4002/4002 SP:470/470 BP:2
+D-Cyrus - HP:3557/3557 SP:582/582 BP:2
+Equipo del enemigo
+A-War Wolf - HP:2643/3548 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+C-Red Fox - HP:1451/1451 Shields:3
+D-Thunder Guardian - HP:1971/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.War Wolf
+3.Shaggy Meep
+4.Thunder Guardian
+5.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Ophilia
+4.Cyrus
+5.War Wolf
+6.Shaggy Meep
+7.Thunder Guardian
+8.Red Fox
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: War Wolf - HP:2643/3548 Shields:2
+2: Shaggy Meep - HP:1036/1036 Shields:3
+3: Red Fox - HP:1451/1451 Shields:3
+4: Thunder Guardian - HP:1971/1971 Shields:3
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+War Wolf recibe 69 de daño de tipo Stave
+War Wolf termina con HP:2574
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3789/4002 SP:504/504 BP:2
+B-Therion - HP:3894/4447 SP:332/332 BP:2
+C-Ophilia - HP:4002/4002 SP:470/470 BP:2
+D-Cyrus - HP:3557/3557 SP:582/582 BP:2
+Equipo del enemigo
+A-War Wolf - HP:2574/3548 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+C-Red Fox - HP:1451/1451 Shields:3
+D-Thunder Guardian - HP:1971/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+2.Shaggy Meep
+3.Thunder Guardian
+4.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Ophilia
+4.Cyrus
+5.War Wolf
+6.Shaggy Meep
+7.Thunder Guardian
+8.Red Fox
+----------------------------------------
+War Wolf usa Attack
+Ophilia recibe 160 de daño físico
+Ophilia termina con HP:3842
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3789/4002 SP:504/504 BP:2
+B-Therion - HP:3894/4447 SP:332/332 BP:2
+C-Ophilia - HP:3842/4002 SP:470/470 BP:2
+D-Cyrus - HP:3557/3557 SP:582/582 BP:2
+Equipo del enemigo
+A-War Wolf - HP:2574/3548 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+C-Red Fox - HP:1451/1451 Shields:3
+D-Thunder Guardian - HP:1971/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Shaggy Meep
+2.Thunder Guardian
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Ophilia
+4.Cyrus
+5.War Wolf
+6.Shaggy Meep
+7.Thunder Guardian
+8.Red Fox
+----------------------------------------
+Shaggy Meep usa Attack
+Therion recibe 184 de daño físico
+Therion termina con HP:3710
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3789/4002 SP:504/504 BP:2
+B-Therion - HP:3710/4447 SP:332/332 BP:2
+C-Ophilia - HP:3842/4002 SP:470/470 BP:2
+D-Cyrus - HP:3557/3557 SP:582/582 BP:2
+Equipo del enemigo
+A-War Wolf - HP:2574/3548 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+C-Red Fox - HP:1451/1451 Shields:3
+D-Thunder Guardian - HP:1971/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Thunder Guardian
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Ophilia
+4.Cyrus
+5.War Wolf
+6.Shaggy Meep
+7.Thunder Guardian
+8.Red Fox
+----------------------------------------
+Thunder Guardian usa Attack
+Ophilia recibe 135 de daño físico
+Ophilia termina con HP:3707
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3789/4002 SP:504/504 BP:2
+B-Therion - HP:3710/4447 SP:332/332 BP:2
+C-Ophilia - HP:3707/4002 SP:470/470 BP:2
+D-Cyrus - HP:3557/3557 SP:582/582 BP:2
+Equipo del enemigo
+A-War Wolf - HP:2574/3548 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+C-Red Fox - HP:1451/1451 Shields:3
+D-Thunder Guardian - HP:1971/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Ophilia
+4.Cyrus
+5.War Wolf
+6.Shaggy Meep
+7.Thunder Guardian
+8.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Primrose recibe 213 de daño físico
+Primrose termina con HP:3576
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3576/4002 SP:504/504 BP:3
+B-Therion - HP:3710/4447 SP:332/332 BP:3
+C-Ophilia - HP:3707/4002 SP:470/470 BP:3
+D-Cyrus - HP:3557/3557 SP:582/582 BP:3
+Equipo del enemigo
+A-War Wolf - HP:2574/3548 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+C-Red Fox - HP:1451/1451 Shields:3
+D-Thunder Guardian - HP:1971/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.Ophilia
+4.Cyrus
+5.War Wolf
+6.Shaggy Meep
+7.Thunder Guardian
+8.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Ophilia
+4.Cyrus
+5.War Wolf
+6.Shaggy Meep
+7.Thunder Guardian
+8.Red Fox
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: War Wolf - HP:2574/3548 Shields:2
+2: Shaggy Meep - HP:1036/1036 Shields:3
+3: Red Fox - HP:1451/1451 Shields:3
+4: Thunder Guardian - HP:1971/1971 Shields:3
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+War Wolf recibe 254 de daño de tipo Dagger
+War Wolf termina con HP:2320
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3576/4002 SP:504/504 BP:3
+B-Therion - HP:3710/4447 SP:332/332 BP:3
+C-Ophilia - HP:3707/4002 SP:470/470 BP:3
+D-Cyrus - HP:3557/3557 SP:582/582 BP:3
+Equipo del enemigo
+A-War Wolf - HP:2320/3548 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+C-Red Fox - HP:1451/1451 Shields:3
+D-Thunder Guardian - HP:1971/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ophilia
+3.Cyrus
+4.War Wolf
+5.Shaggy Meep
+6.Thunder Guardian
+7.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Ophilia
+4.Cyrus
+5.War Wolf
+6.Shaggy Meep
+7.Thunder Guardian
+8.Red Fox
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: War Wolf - HP:2320/3548 Shields:2
+2: Shaggy Meep - HP:1036/1036 Shields:3
+3: Red Fox - HP:1451/1451 Shields:3
+4: Thunder Guardian - HP:1971/1971 Shields:3
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+War Wolf recibe 75 de daño de tipo Dagger
+War Wolf termina con HP:2245
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3576/4002 SP:504/504 BP:3
+B-Therion - HP:3710/4447 SP:332/332 BP:3
+C-Ophilia - HP:3707/4002 SP:470/470 BP:3
+D-Cyrus - HP:3557/3557 SP:582/582 BP:3
+Equipo del enemigo
+A-War Wolf - HP:2245/3548 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+C-Red Fox - HP:1451/1451 Shields:3
+D-Thunder Guardian - HP:1971/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Cyrus
+3.War Wolf
+4.Shaggy Meep
+5.Thunder Guardian
+6.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Ophilia
+4.Cyrus
+5.War Wolf
+6.Shaggy Meep
+7.Thunder Guardian
+8.Red Fox
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: War Wolf - HP:2245/3548 Shields:2
+2: Shaggy Meep - HP:1036/1036 Shields:3
+3: Red Fox - HP:1451/1451 Shields:3
+4: Thunder Guardian - HP:1971/1971 Shields:3
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+War Wolf recibe 89 de daño de tipo Stave
+War Wolf termina con HP:2156
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3576/4002 SP:504/504 BP:3
+B-Therion - HP:3710/4447 SP:332/332 BP:3
+C-Ophilia - HP:3707/4002 SP:470/470 BP:3
+D-Cyrus - HP:3557/3557 SP:582/582 BP:3
+Equipo del enemigo
+A-War Wolf - HP:2156/3548 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+C-Red Fox - HP:1451/1451 Shields:3
+D-Thunder Guardian - HP:1971/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.War Wolf
+3.Shaggy Meep
+4.Thunder Guardian
+5.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Ophilia
+4.Cyrus
+5.War Wolf
+6.Shaggy Meep
+7.Thunder Guardian
+8.Red Fox
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: War Wolf - HP:2156/3548 Shields:2
+2: Shaggy Meep - HP:1036/1036 Shields:3
+3: Red Fox - HP:1451/1451 Shields:3
+4: Thunder Guardian - HP:1971/1971 Shields:3
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+War Wolf recibe 69 de daño de tipo Stave
+War Wolf termina con HP:2087
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3576/4002 SP:504/504 BP:3
+B-Therion - HP:3710/4447 SP:332/332 BP:3
+C-Ophilia - HP:3707/4002 SP:470/470 BP:3
+D-Cyrus - HP:3557/3557 SP:582/582 BP:3
+Equipo del enemigo
+A-War Wolf - HP:2087/3548 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+C-Red Fox - HP:1451/1451 Shields:3
+D-Thunder Guardian - HP:1971/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.War Wolf
+2.Shaggy Meep
+3.Thunder Guardian
+4.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Ophilia
+4.Cyrus
+5.War Wolf
+6.Shaggy Meep
+7.Thunder Guardian
+8.Red Fox
+----------------------------------------
+War Wolf usa Attack
+Therion recibe 197 de daño físico
+Therion termina con HP:3513
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3576/4002 SP:504/504 BP:3
+B-Therion - HP:3513/4447 SP:332/332 BP:3
+C-Ophilia - HP:3707/4002 SP:470/470 BP:3
+D-Cyrus - HP:3557/3557 SP:582/582 BP:3
+Equipo del enemigo
+A-War Wolf - HP:2087/3548 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+C-Red Fox - HP:1451/1451 Shields:3
+D-Thunder Guardian - HP:1971/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Shaggy Meep
+2.Thunder Guardian
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Ophilia
+4.Cyrus
+5.War Wolf
+6.Shaggy Meep
+7.Thunder Guardian
+8.Red Fox
+----------------------------------------
+Shaggy Meep usa Attack
+Ophilia recibe 147 de daño físico
+Ophilia termina con HP:3560
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3576/4002 SP:504/504 BP:3
+B-Therion - HP:3513/4447 SP:332/332 BP:3
+C-Ophilia - HP:3560/4002 SP:470/470 BP:3
+D-Cyrus - HP:3557/3557 SP:582/582 BP:3
+Equipo del enemigo
+A-War Wolf - HP:2087/3548 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+C-Red Fox - HP:1451/1451 Shields:3
+D-Thunder Guardian - HP:1971/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Thunder Guardian
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Ophilia
+4.Cyrus
+5.War Wolf
+6.Shaggy Meep
+7.Thunder Guardian
+8.Red Fox
+----------------------------------------
+Thunder Guardian usa Attack
+Primrose recibe 197 de daño físico
+Primrose termina con HP:3379
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3379/4002 SP:504/504 BP:3
+B-Therion - HP:3513/4447 SP:332/332 BP:3
+C-Ophilia - HP:3560/4002 SP:470/470 BP:3
+D-Cyrus - HP:3557/3557 SP:582/582 BP:3
+Equipo del enemigo
+A-War Wolf - HP:2087/3548 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+C-Red Fox - HP:1451/1451 Shields:3
+D-Thunder Guardian - HP:1971/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Ophilia
+4.Cyrus
+5.War Wolf
+6.Shaggy Meep
+7.Thunder Guardian
+8.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Ophilia recibe 151 de daño físico
+Ophilia termina con HP:3409
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3379/4002 SP:504/504 BP:4
+B-Therion - HP:3513/4447 SP:332/332 BP:4
+C-Ophilia - HP:3409/4002 SP:470/470 BP:4
+D-Cyrus - HP:3557/3557 SP:582/582 BP:4
+Equipo del enemigo
+A-War Wolf - HP:2087/3548 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+C-Red Fox - HP:1451/1451 Shields:3
+D-Thunder Guardian - HP:1971/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.Ophilia
+4.Cyrus
+5.War Wolf
+6.Shaggy Meep
+7.Thunder Guardian
+8.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Ophilia
+4.Cyrus
+5.War Wolf
+6.Shaggy Meep
+7.Thunder Guardian
+8.Red Fox
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: War Wolf - HP:2087/3548 Shields:2
+2: Shaggy Meep - HP:1036/1036 Shields:3
+3: Red Fox - HP:1451/1451 Shields:3
+4: Thunder Guardian - HP:1971/1971 Shields:3
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+War Wolf recibe 254 de daño de tipo Dagger
+War Wolf termina con HP:1833
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3379/4002 SP:504/504 BP:4
+B-Therion - HP:3513/4447 SP:332/332 BP:4
+C-Ophilia - HP:3409/4002 SP:470/470 BP:4
+D-Cyrus - HP:3557/3557 SP:582/582 BP:4
+Equipo del enemigo
+A-War Wolf - HP:1833/3548 Shields:2
+B-Shaggy Meep - HP:1036/1036 Shields:3
+C-Red Fox - HP:1451/1451 Shields:3
+D-Thunder Guardian - HP:1971/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ophilia
+3.Cyrus
+4.War Wolf
+5.Shaggy Meep
+6.Thunder Guardian
+7.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Ophilia
+4.Cyrus
+5.War Wolf
+6.Shaggy Meep
+7.Thunder Guardian
+8.Red Fox
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Steorra's Prophecy
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Primrose usa Steorra's Prophecy
+War Wolf recibe 4510 de daño de tipo Dark
+Shaggy Meep recibe 4549 de daño de tipo Dark
+Red Fox recibe 4554 de daño de tipo Dark
+Thunder Guardian recibe 4570 de daño de tipo Dark
+War Wolf termina con HP:0
+Shaggy Meep termina con HP:0
+Red Fox termina con HP:0
+Thunder Guardian termina con HP:0
+----------------------------------------
+Gana equipo del jugador

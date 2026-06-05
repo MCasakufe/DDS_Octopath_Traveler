@@ -1,0 +1,127 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+INPUT: 13
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Horse Fly - HP:2857/2857 Shields:2
+C-River Fly - HP:1010/1010 Shields:2
+D-Wolf - HP:1577/1577 Shields:2
+E-Ice Guardian - HP:1471/1471 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Wolf
+2.Tressa
+3.Meep
+4.River Fly
+5.Horse Fly
+6.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wolf
+2.Tressa
+3.Meep
+4.River Fly
+5.Horse Fly
+6.Ice Guardian
+----------------------------------------
+Wolf usa Attack
+Tressa recibe 112 de daño físico
+Tressa termina con HP:4779
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4779/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Horse Fly - HP:2857/2857 Shields:2
+C-River Fly - HP:1010/1010 Shields:2
+D-Wolf - HP:1577/1577 Shields:2
+E-Ice Guardian - HP:1471/1471 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Meep
+3.River Fly
+4.Horse Fly
+5.Ice Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wolf
+2.Tressa
+3.Meep
+4.River Fly
+5.Horse Fly
+6.Ice Guardian
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Ventus Saltare
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa usa Ventus Saltare
+Meep recibe 840 de daño de tipo Wind
+Meep recibe 840 de daño de tipo Wind
+Meep recibe 840 de daño de tipo Wind
+Horse Fly recibe 1052 de daño de tipo Wind con debilidad
+Horse Fly recibe 1052 de daño de tipo Wind con debilidad
+Horse Fly entra en Breaking Point
+Horse Fly recibe 1402 de daño de tipo Wind con debilidad
+River Fly recibe 1215 de daño de tipo Wind con debilidad
+River Fly recibe 1215 de daño de tipo Wind con debilidad
+River Fly entra en Breaking Point
+River Fly recibe 1620 de daño de tipo Wind con debilidad
+Wolf recibe 1232 de daño de tipo Wind con debilidad
+Wolf recibe 1232 de daño de tipo Wind con debilidad
+Wolf entra en Breaking Point
+Wolf recibe 1642 de daño de tipo Wind con debilidad
+Ice Guardian recibe 740 de daño de tipo Wind
+Ice Guardian recibe 740 de daño de tipo Wind
+Ice Guardian recibe 740 de daño de tipo Wind
+Meep termina con HP:0
+Horse Fly termina con HP:0
+River Fly termina con HP:0
+Wolf termina con HP:0
+Ice Guardian termina con HP:0
+----------------------------------------
+Gana equipo del jugador

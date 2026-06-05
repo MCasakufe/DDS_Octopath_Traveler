@@ -12,5 +12,5 @@ public sealed class TravelerFleeTurnCommand
     }
 
     internal void Execute()
-        => _battleConsoleView.PrintEnemyWinnerAfterFlee();
+        => _battleConsoleView.WriteEnemyWinnerAfterFlee();
 }

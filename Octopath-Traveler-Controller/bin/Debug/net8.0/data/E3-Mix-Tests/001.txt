@@ -1,0 +1,306 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+INPUT: 0
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:1
+B-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Devourer of Men - HP:7500/7500 Shields:8
+B-Meep - HP:1016/1016 Shields:2
+C-Guardian - HP:1201/1201 Shields:3
+D-Forest Fox - HP:1380/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Olberic
+3.Meep
+4.Devourer of Men
+5.Forest Fox
+6.Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Olberic
+3.Meep
+4.Devourer of Men
+5.Forest Fox
+6.Guardian
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Ignis Ardere
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore usa Ignis Ardere
+Devourer of Men recibe 415 de daño de tipo Fire con debilidad
+Devourer of Men recibe 415 de daño de tipo Fire con debilidad
+Devourer of Men recibe 415 de daño de tipo Fire con debilidad
+Meep recibe 302 de daño de tipo Fire
+Meep recibe 302 de daño de tipo Fire
+Meep recibe 302 de daño de tipo Fire
+Guardian recibe 286 de daño de tipo Fire
+Guardian recibe 286 de daño de tipo Fire
+Guardian recibe 286 de daño de tipo Fire
+Forest Fox recibe 418 de daño de tipo Fire con debilidad
+Forest Fox recibe 418 de daño de tipo Fire con debilidad
+Forest Fox entra en Breaking Point
+Forest Fox recibe 557 de daño de tipo Fire con debilidad
+Devourer of Men termina con HP:6255
+Meep termina con HP:110
+Guardian termina con HP:343
+Forest Fox termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:306/342 BP:1
+B-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Devourer of Men - HP:6255/7500 Shields:5
+B-Meep - HP:110/1016 Shields:2
+C-Guardian - HP:343/1201 Shields:3
+D-Forest Fox - HP:0/1380 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Devourer of Men
+4.Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Olberic
+3.Meep
+4.Devourer of Men
+5.Guardian
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Devourer of Men - HP:6255/7500 Shields:5
+2: Meep - HP:110/1016 Shields:2
+3: Guardian - HP:343/1201 Shields:3
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Devourer of Men recibe 246 de daño de tipo Spear con debilidad
+Devourer of Men termina con HP:6009
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:306/342 BP:1
+B-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Devourer of Men - HP:6009/7500 Shields:4
+B-Meep - HP:110/1016 Shields:2
+C-Guardian - HP:343/1201 Shields:3
+D-Forest Fox - HP:0/1380 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Devourer of Men
+3.Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Olberic
+3.Meep
+4.Devourer of Men
+5.Guardian
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:5641
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:306/342 BP:1
+B-Olberic - HP:5641/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Devourer of Men - HP:6009/7500 Shields:4
+B-Meep - HP:110/1016 Shields:2
+C-Guardian - HP:343/1201 Shields:3
+D-Forest Fox - HP:0/1380 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Men
+2.Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Olberic
+3.Meep
+4.Devourer of Men
+5.Guardian
+----------------------------------------
+Devourer of Men usa Shadow Magic
+Heatcore recibe 407 de daño elemental
+Heatcore recibe 407 de daño elemental
+Olberic recibe 389 de daño elemental
+Olberic recibe 389 de daño elemental
+Heatcore termina con HP:2008
+Olberic termina con HP:4863
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2008/2822 SP:306/342 BP:1
+B-Olberic - HP:4863/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Devourer of Men - HP:6009/7500 Shields:4
+B-Meep - HP:110/1016 Shields:2
+C-Guardian - HP:343/1201 Shields:3
+D-Forest Fox - HP:0/1380 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Olberic
+3.Meep
+4.Devourer of Men
+5.Guardian
+----------------------------------------
+Guardian usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:4863
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2008/2822 SP:306/342 BP:2
+B-Olberic - HP:4863/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Devourer of Men - HP:6009/7500 Shields:4
+B-Meep - HP:110/1016 Shields:2
+C-Guardian - HP:343/1201 Shields:3
+D-Forest Fox - HP:0/1380 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Olberic
+3.Meep
+4.Devourer of Men
+5.Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Olberic
+3.Meep
+4.Devourer of Men
+5.Guardian
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Ignis Ardere
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Heatcore usa Ignis Ardere
+Devourer of Men recibe 1918 de daño de tipo Fire con debilidad
+Devourer of Men recibe 1918 de daño de tipo Fire con debilidad
+Devourer of Men recibe 1918 de daño de tipo Fire con debilidad
+Meep recibe 1305 de daño de tipo Fire
+Meep recibe 1305 de daño de tipo Fire
+Meep recibe 1305 de daño de tipo Fire
+Guardian recibe 1289 de daño de tipo Fire
+Guardian recibe 1289 de daño de tipo Fire
+Guardian recibe 1289 de daño de tipo Fire
+Devourer of Men termina con HP:255
+Meep termina con HP:0
+Guardian termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2008/2822 SP:270/342 BP:0
+B-Olberic - HP:4863/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Devourer of Men - HP:255/7500 Shields:1
+B-Meep - HP:0/1016 Shields:2
+C-Guardian - HP:0/1201 Shields:3
+D-Forest Fox - HP:0/1380 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Devourer of Men
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Olberic
+3.Devourer of Men
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Devourer of Men - HP:255/7500 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Olberic ataca
+Devourer of Men recibe 246 de daño de tipo Sword con debilidad
+Devourer of Men entra en Breaking Point
+Devourer of Men recibe 328 de daño de tipo Sword con debilidad
+Devourer of Men recibe 328 de daño de tipo Sword con debilidad
+Devourer of Men termina con HP:0
+----------------------------------------
+Gana equipo del jugador

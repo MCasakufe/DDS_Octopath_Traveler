@@ -1,0 +1,1909 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 42
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4891/4891 SP:364/364 BP:1
+B-Temenos - HP:4502/4502 SP:482/482 BP:1
+C-Throné - HP:4947/4947 SP:332/332 BP:1
+D-Ochette - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Monarch - HP:6740/6740 Shields:8
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Wisp - HP:1740/1740 Shields:1
+D-Behemoth - HP:12690/12690 Shields:8
+E-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Ochette
+3.Temenos
+4.Behemoth
+5.Partitio
+6.Lord of the Flies
+7.Monarch
+8.Wind Wisp
+9.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Ochette
+3.Temenos
+4.Behemoth
+5.Partitio
+6.Lord of the Flies
+7.Monarch
+8.Wind Wisp
+9.Dark Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Monarch - HP:6740/6740 Shields:8
+2: Dark Elemental - HP:1822/1822 Shields:4
+3: Wind Wisp - HP:1740/1740 Shields:1
+4: Behemoth - HP:12690/12690 Shields:8
+5: Lord of the Flies - HP:5590/5590 Shields:3
+6: Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné ataca
+Lord of the Flies recibe 32 de daño de tipo Dagger
+Lord of the Flies termina con HP:5558
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4891/4891 SP:364/364 BP:1
+B-Temenos - HP:4502/4502 SP:482/482 BP:1
+C-Throné - HP:4947/4947 SP:332/332 BP:1
+D-Ochette - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Monarch - HP:6740/6740 Shields:8
+B-Dark Elemental - HP:1822/1822 Shields:4
+C-Wind Wisp - HP:1740/1740 Shields:1
+D-Behemoth - HP:12690/12690 Shields:8
+E-Lord of the Flies - HP:5558/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Temenos
+3.Behemoth
+4.Partitio
+5.Lord of the Flies
+6.Monarch
+7.Wind Wisp
+8.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Ochette
+3.Temenos
+4.Behemoth
+5.Partitio
+6.Lord of the Flies
+7.Monarch
+8.Wind Wisp
+9.Dark Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Yatagarasu
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette usa Yatagarasu
+Monarch recibe 467 de daño de tipo Dagger
+Dark Elemental recibe 163 de daño de tipo Dagger
+Wind Wisp recibe 274 de daño de tipo Dagger
+Behemoth recibe 359 de daño de tipo Dagger
+Lord of the Flies recibe 324 de daño de tipo Dagger
+Monarch termina con HP:6273
+Dark Elemental termina con HP:1659
+Wind Wisp termina con HP:1466
+Behemoth termina con HP:12331
+Lord of the Flies termina con HP:5234
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4891/4891 SP:364/364 BP:1
+B-Temenos - HP:4502/4502 SP:482/482 BP:1
+C-Throné - HP:4947/4947 SP:332/332 BP:1
+D-Ochette - HP:4447/4447 SP:334/369 BP:1
+Equipo del enemigo
+A-Monarch - HP:6273/6740 Shields:8
+B-Dark Elemental - HP:1659/1822 Shields:4
+C-Wind Wisp - HP:1466/1740 Shields:1
+D-Behemoth - HP:12331/12690 Shields:8
+E-Lord of the Flies - HP:5234/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Behemoth
+3.Partitio
+4.Lord of the Flies
+5.Monarch
+6.Wind Wisp
+7.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Ochette
+3.Temenos
+4.Behemoth
+5.Partitio
+6.Lord of the Flies
+7.Monarch
+8.Wind Wisp
+9.Dark Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Spearhead
+2: Icicle
+3: Amputation
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Monarch - HP:6273/6740 Shields:8
+2: Dark Elemental - HP:1659/1822 Shields:4
+3: Wind Wisp - HP:1466/1740 Shields:1
+4: Behemoth - HP:12331/12690 Shields:8
+5: Lord of the Flies - HP:5234/5590 Shields:3
+6: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos usa Spearhead
+Monarch recibe 126 de daño de tipo Spear con debilidad
+Monarch termina con HP:6147
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4891/4891 SP:364/364 BP:1
+B-Temenos - HP:4502/4502 SP:476/482 BP:1
+C-Throné - HP:4947/4947 SP:332/332 BP:1
+D-Ochette - HP:4447/4447 SP:334/369 BP:1
+Equipo del enemigo
+A-Monarch - HP:6147/6740 Shields:7
+B-Dark Elemental - HP:1659/1822 Shields:4
+C-Wind Wisp - HP:1466/1740 Shields:1
+D-Behemoth - HP:12331/12690 Shields:8
+E-Lord of the Flies - HP:5234/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Partitio
+3.Lord of the Flies
+4.Monarch
+5.Wind Wisp
+6.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Throné
+3.Ochette
+4.Behemoth
+5.Partitio
+6.Lord of the Flies
+7.Monarch
+8.Wind Wisp
+9.Dark Elemental
+----------------------------------------
+Behemoth usa Stampede
+Partitio recibe 687 de daño físico
+Temenos recibe 718 de daño físico
+Throné recibe 785 de daño físico
+Ochette recibe 809 de daño físico
+Partitio termina con HP:4204
+Temenos termina con HP:3784
+Throné termina con HP:4162
+Ochette termina con HP:3638
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4204/4891 SP:364/364 BP:1
+B-Temenos - HP:3784/4502 SP:476/482 BP:1
+C-Throné - HP:4162/4947 SP:332/332 BP:1
+D-Ochette - HP:3638/4447 SP:334/369 BP:1
+Equipo del enemigo
+A-Monarch - HP:6147/6740 Shields:7
+B-Dark Elemental - HP:1659/1822 Shields:4
+C-Wind Wisp - HP:1466/1740 Shields:1
+D-Behemoth - HP:12331/12690 Shields:8
+E-Lord of the Flies - HP:5234/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Lord of the Flies
+3.Monarch
+4.Wind Wisp
+5.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Throné
+3.Ochette
+4.Behemoth
+5.Partitio
+6.Lord of the Flies
+7.Monarch
+8.Wind Wisp
+9.Dark Elemental
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Monarch - HP:6147/6740 Shields:7
+2: Dark Elemental - HP:1659/1822 Shields:4
+3: Wind Wisp - HP:1466/1740 Shields:1
+4: Behemoth - HP:12331/12690 Shields:8
+5: Lord of the Flies - HP:5234/5590 Shields:3
+6: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Behemoth recibe 229 de daño de tipo Bow con debilidad
+Behemoth termina con HP:12102
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4204/4891 SP:364/364 BP:1
+B-Temenos - HP:3784/4502 SP:476/482 BP:1
+C-Throné - HP:4162/4947 SP:332/332 BP:1
+D-Ochette - HP:3638/4447 SP:334/369 BP:1
+Equipo del enemigo
+A-Monarch - HP:6147/6740 Shields:7
+B-Dark Elemental - HP:1659/1822 Shields:4
+C-Wind Wisp - HP:1466/1740 Shields:1
+D-Behemoth - HP:12102/12690 Shields:7
+E-Lord of the Flies - HP:5234/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Monarch
+3.Wind Wisp
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Throné
+3.Ochette
+4.Behemoth
+5.Partitio
+6.Lord of the Flies
+7.Monarch
+8.Wind Wisp
+9.Dark Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Temenos recibe 288 de daño físico
+Temenos termina con HP:3496
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4204/4891 SP:364/364 BP:1
+B-Temenos - HP:3496/4502 SP:476/482 BP:1
+C-Throné - HP:4162/4947 SP:332/332 BP:1
+D-Ochette - HP:3638/4447 SP:334/369 BP:1
+Equipo del enemigo
+A-Monarch - HP:6147/6740 Shields:7
+B-Dark Elemental - HP:1659/1822 Shields:4
+C-Wind Wisp - HP:1466/1740 Shields:1
+D-Behemoth - HP:12102/12690 Shields:7
+E-Lord of the Flies - HP:5234/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Wind Wisp
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Throné
+3.Ochette
+4.Behemoth
+5.Partitio
+6.Lord of the Flies
+7.Monarch
+8.Wind Wisp
+9.Dark Elemental
+----------------------------------------
+Monarch usa Galestorm
+Partitio recibe 361 de daño elemental
+Temenos recibe 247 de daño elemental
+Throné recibe 418 de daño elemental
+Ochette recibe 411 de daño elemental
+Partitio termina con HP:3843
+Temenos termina con HP:3249
+Throné termina con HP:3744
+Ochette termina con HP:3227
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3843/4891 SP:364/364 BP:1
+B-Temenos - HP:3249/4502 SP:476/482 BP:1
+C-Throné - HP:3744/4947 SP:332/332 BP:1
+D-Ochette - HP:3227/4447 SP:334/369 BP:1
+Equipo del enemigo
+A-Monarch - HP:6147/6740 Shields:7
+B-Dark Elemental - HP:1659/1822 Shields:4
+C-Wind Wisp - HP:1466/1740 Shields:1
+D-Behemoth - HP:12102/12690 Shields:7
+E-Lord of the Flies - HP:5234/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Throné
+3.Ochette
+4.Behemoth
+5.Partitio
+6.Lord of the Flies
+7.Monarch
+8.Wind Wisp
+9.Dark Elemental
+----------------------------------------
+Wind Wisp usa Wind slash
+Throné recibe 487 de daño elemental
+Throné termina con HP:3257
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3843/4891 SP:364/364 BP:1
+B-Temenos - HP:3249/4502 SP:476/482 BP:1
+C-Throné - HP:3257/4947 SP:332/332 BP:1
+D-Ochette - HP:3227/4447 SP:334/369 BP:1
+Equipo del enemigo
+A-Monarch - HP:6147/6740 Shields:7
+B-Dark Elemental - HP:1659/1822 Shields:4
+C-Wind Wisp - HP:1466/1740 Shields:1
+D-Behemoth - HP:12102/12690 Shields:7
+E-Lord of the Flies - HP:5234/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Throné
+3.Ochette
+4.Behemoth
+5.Partitio
+6.Lord of the Flies
+7.Monarch
+8.Wind Wisp
+9.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Throné recibe 262 de daño elemental
+Throné termina con HP:2995
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3843/4891 SP:364/364 BP:2
+B-Temenos - HP:3249/4502 SP:476/482 BP:2
+C-Throné - HP:2995/4947 SP:332/332 BP:2
+D-Ochette - HP:3227/4447 SP:334/369 BP:2
+Equipo del enemigo
+A-Monarch - HP:6147/6740 Shields:7
+B-Dark Elemental - HP:1659/1822 Shields:4
+C-Wind Wisp - HP:1466/1740 Shields:1
+D-Behemoth - HP:12102/12690 Shields:7
+E-Lord of the Flies - HP:5234/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Throné
+3.Ochette
+4.Behemoth
+5.Partitio
+6.Lord of the Flies
+7.Monarch
+8.Wind Wisp
+9.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Ochette
+3.Temenos
+4.Behemoth
+5.Partitio
+6.Lord of the Flies
+7.Monarch
+8.Wind Wisp
+9.Dark Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Spearhead
+2: Icicle
+3: Amputation
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Monarch - HP:6147/6740 Shields:7
+2: Dark Elemental - HP:1659/1822 Shields:4
+3: Wind Wisp - HP:1466/1740 Shields:1
+4: Behemoth - HP:12102/12690 Shields:7
+5: Lord of the Flies - HP:5234/5590 Shields:3
+6: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos usa Icicle
+Behemoth recibe 175 de daño de tipo Ice con debilidad
+Behemoth termina con HP:11927
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3843/4891 SP:364/364 BP:2
+B-Temenos - HP:3249/4502 SP:469/482 BP:2
+C-Throné - HP:2995/4947 SP:332/332 BP:2
+D-Ochette - HP:3227/4447 SP:334/369 BP:2
+Equipo del enemigo
+A-Monarch - HP:6147/6740 Shields:7
+B-Dark Elemental - HP:1659/1822 Shields:4
+C-Wind Wisp - HP:1466/1740 Shields:1
+D-Behemoth - HP:11927/12690 Shields:6
+E-Lord of the Flies - HP:5234/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Ochette
+3.Behemoth
+4.Partitio
+5.Lord of the Flies
+6.Monarch
+7.Wind Wisp
+8.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Ochette
+3.Temenos
+4.Behemoth
+5.Partitio
+6.Lord of the Flies
+7.Monarch
+8.Wind Wisp
+9.Dark Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Monarch - HP:6147/6740 Shields:7
+2: Dark Elemental - HP:1659/1822 Shields:4
+3: Wind Wisp - HP:1466/1740 Shields:1
+4: Behemoth - HP:11927/12690 Shields:6
+5: Lord of the Flies - HP:5234/5590 Shields:3
+6: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné ataca
+Wind Wisp recibe 0 de daño de tipo Dagger
+Wind Wisp termina con HP:1466
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3843/4891 SP:364/364 BP:2
+B-Temenos - HP:3249/4502 SP:469/482 BP:2
+C-Throné - HP:2995/4947 SP:332/332 BP:2
+D-Ochette - HP:3227/4447 SP:334/369 BP:2
+Equipo del enemigo
+A-Monarch - HP:6147/6740 Shields:7
+B-Dark Elemental - HP:1659/1822 Shields:4
+C-Wind Wisp - HP:1466/1740 Shields:1
+D-Behemoth - HP:11927/12690 Shields:6
+E-Lord of the Flies - HP:5234/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Behemoth
+3.Partitio
+4.Lord of the Flies
+5.Monarch
+6.Wind Wisp
+7.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Ochette
+3.Temenos
+4.Behemoth
+5.Partitio
+6.Lord of the Flies
+7.Monarch
+8.Wind Wisp
+9.Dark Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Yatagarasu
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette usa Yatagarasu
+Monarch recibe 467 de daño de tipo Dagger
+Dark Elemental recibe 163 de daño de tipo Dagger
+Wind Wisp recibe 274 de daño de tipo Dagger
+Behemoth recibe 359 de daño de tipo Dagger
+Lord of the Flies recibe 324 de daño de tipo Dagger
+Monarch termina con HP:5680
+Dark Elemental termina con HP:1496
+Wind Wisp termina con HP:1192
+Behemoth termina con HP:11568
+Lord of the Flies termina con HP:4910
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3843/4891 SP:364/364 BP:2
+B-Temenos - HP:3249/4502 SP:469/482 BP:2
+C-Throné - HP:2995/4947 SP:332/332 BP:2
+D-Ochette - HP:3227/4447 SP:299/369 BP:2
+Equipo del enemigo
+A-Monarch - HP:5680/6740 Shields:7
+B-Dark Elemental - HP:1496/1822 Shields:4
+C-Wind Wisp - HP:1192/1740 Shields:1
+D-Behemoth - HP:11568/12690 Shields:6
+E-Lord of the Flies - HP:4910/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Partitio
+3.Lord of the Flies
+4.Monarch
+5.Wind Wisp
+6.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Ochette
+3.Temenos
+4.Behemoth
+5.Partitio
+6.Lord of the Flies
+7.Monarch
+8.Wind Wisp
+9.Dark Elemental
+----------------------------------------
+Behemoth usa Stampede
+Partitio recibe 687 de daño físico
+Temenos recibe 718 de daño físico
+Throné recibe 785 de daño físico
+Ochette recibe 809 de daño físico
+Partitio termina con HP:3156
+Temenos termina con HP:2531
+Throné termina con HP:2210
+Ochette termina con HP:2418
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3156/4891 SP:364/364 BP:2
+B-Temenos - HP:2531/4502 SP:469/482 BP:2
+C-Throné - HP:2210/4947 SP:332/332 BP:2
+D-Ochette - HP:2418/4447 SP:299/369 BP:2
+Equipo del enemigo
+A-Monarch - HP:5680/6740 Shields:7
+B-Dark Elemental - HP:1496/1822 Shields:4
+C-Wind Wisp - HP:1192/1740 Shields:1
+D-Behemoth - HP:11568/12690 Shields:6
+E-Lord of the Flies - HP:4910/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Lord of the Flies
+3.Monarch
+4.Wind Wisp
+5.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Ochette
+3.Temenos
+4.Behemoth
+5.Partitio
+6.Lord of the Flies
+7.Monarch
+8.Wind Wisp
+9.Dark Elemental
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Monarch - HP:5680/6740 Shields:7
+2: Dark Elemental - HP:1496/1822 Shields:4
+3: Wind Wisp - HP:1192/1740 Shields:1
+4: Behemoth - HP:11568/12690 Shields:6
+5: Lord of the Flies - HP:4910/5590 Shields:3
+6: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Monarch recibe 391 de daño de tipo Spear con debilidad
+Monarch termina con HP:5289
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3156/4891 SP:364/364 BP:2
+B-Temenos - HP:2531/4502 SP:469/482 BP:2
+C-Throné - HP:2210/4947 SP:332/332 BP:2
+D-Ochette - HP:2418/4447 SP:299/369 BP:2
+Equipo del enemigo
+A-Monarch - HP:5289/6740 Shields:6
+B-Dark Elemental - HP:1496/1822 Shields:4
+C-Wind Wisp - HP:1192/1740 Shields:1
+D-Behemoth - HP:11568/12690 Shields:6
+E-Lord of the Flies - HP:4910/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Monarch
+3.Wind Wisp
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Ochette
+3.Temenos
+4.Behemoth
+5.Partitio
+6.Lord of the Flies
+7.Monarch
+8.Wind Wisp
+9.Dark Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Temenos recibe 288 de daño físico
+Temenos termina con HP:2243
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3156/4891 SP:364/364 BP:2
+B-Temenos - HP:2243/4502 SP:469/482 BP:2
+C-Throné - HP:2210/4947 SP:332/332 BP:2
+D-Ochette - HP:2418/4447 SP:299/369 BP:2
+Equipo del enemigo
+A-Monarch - HP:5289/6740 Shields:6
+B-Dark Elemental - HP:1496/1822 Shields:4
+C-Wind Wisp - HP:1192/1740 Shields:1
+D-Behemoth - HP:11568/12690 Shields:6
+E-Lord of the Flies - HP:4910/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Wind Wisp
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Ochette
+3.Temenos
+4.Behemoth
+5.Partitio
+6.Lord of the Flies
+7.Monarch
+8.Wind Wisp
+9.Dark Elemental
+----------------------------------------
+Monarch usa Galestorm
+Partitio recibe 361 de daño elemental
+Temenos recibe 247 de daño elemental
+Throné recibe 418 de daño elemental
+Ochette recibe 411 de daño elemental
+Partitio termina con HP:2795
+Temenos termina con HP:1996
+Throné termina con HP:1792
+Ochette termina con HP:2007
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2795/4891 SP:364/364 BP:2
+B-Temenos - HP:1996/4502 SP:469/482 BP:2
+C-Throné - HP:1792/4947 SP:332/332 BP:2
+D-Ochette - HP:2007/4447 SP:299/369 BP:2
+Equipo del enemigo
+A-Monarch - HP:5289/6740 Shields:6
+B-Dark Elemental - HP:1496/1822 Shields:4
+C-Wind Wisp - HP:1192/1740 Shields:1
+D-Behemoth - HP:11568/12690 Shields:6
+E-Lord of the Flies - HP:4910/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Ochette
+3.Temenos
+4.Behemoth
+5.Partitio
+6.Lord of the Flies
+7.Monarch
+8.Wind Wisp
+9.Dark Elemental
+----------------------------------------
+Wind Wisp usa Wind slash
+Throné recibe 487 de daño elemental
+Throné termina con HP:1305
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2795/4891 SP:364/364 BP:2
+B-Temenos - HP:1996/4502 SP:469/482 BP:2
+C-Throné - HP:1305/4947 SP:332/332 BP:2
+D-Ochette - HP:2007/4447 SP:299/369 BP:2
+Equipo del enemigo
+A-Monarch - HP:5289/6740 Shields:6
+B-Dark Elemental - HP:1496/1822 Shields:4
+C-Wind Wisp - HP:1192/1740 Shields:1
+D-Behemoth - HP:11568/12690 Shields:6
+E-Lord of the Flies - HP:4910/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Ochette
+3.Temenos
+4.Behemoth
+5.Partitio
+6.Lord of the Flies
+7.Monarch
+8.Wind Wisp
+9.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Throné recibe 262 de daño elemental
+Throné termina con HP:1043
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2795/4891 SP:364/364 BP:3
+B-Temenos - HP:1996/4502 SP:469/482 BP:3
+C-Throné - HP:1043/4947 SP:332/332 BP:3
+D-Ochette - HP:2007/4447 SP:299/369 BP:3
+Equipo del enemigo
+A-Monarch - HP:5289/6740 Shields:6
+B-Dark Elemental - HP:1496/1822 Shields:4
+C-Wind Wisp - HP:1192/1740 Shields:1
+D-Behemoth - HP:11568/12690 Shields:6
+E-Lord of the Flies - HP:4910/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Ochette
+3.Temenos
+4.Behemoth
+5.Partitio
+6.Lord of the Flies
+7.Monarch
+8.Wind Wisp
+9.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Ochette
+3.Temenos
+4.Behemoth
+5.Partitio
+6.Lord of the Flies
+7.Monarch
+8.Wind Wisp
+9.Dark Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Vivify
+2: Heal More
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Vivify
+2: Heal More
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Monarch - HP:5289/6740 Shields:6
+2: Dark Elemental - HP:1496/1822 Shields:4
+3: Wind Wisp - HP:1192/1740 Shields:1
+4: Behemoth - HP:11568/12690 Shields:6
+5: Lord of the Flies - HP:4910/5590 Shields:3
+6: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné ataca
+Dark Elemental recibe 0 de daño de tipo Sword
+Dark Elemental termina con HP:1496
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2795/4891 SP:364/364 BP:3
+B-Temenos - HP:1996/4502 SP:469/482 BP:3
+C-Throné - HP:1043/4947 SP:332/332 BP:3
+D-Ochette - HP:2007/4447 SP:299/369 BP:3
+Equipo del enemigo
+A-Monarch - HP:5289/6740 Shields:6
+B-Dark Elemental - HP:1496/1822 Shields:4
+C-Wind Wisp - HP:1192/1740 Shields:1
+D-Behemoth - HP:11568/12690 Shields:6
+E-Lord of the Flies - HP:4910/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Temenos
+3.Behemoth
+4.Partitio
+5.Lord of the Flies
+6.Monarch
+7.Wind Wisp
+8.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Ochette
+3.Temenos
+4.Behemoth
+5.Partitio
+6.Lord of the Flies
+7.Monarch
+8.Wind Wisp
+9.Dark Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Monarch - HP:5289/6740 Shields:6
+2: Dark Elemental - HP:1496/1822 Shields:4
+3: Wind Wisp - HP:1192/1740 Shields:1
+4: Behemoth - HP:11568/12690 Shields:6
+5: Lord of the Flies - HP:4910/5590 Shields:3
+6: Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette ataca
+Lord of the Flies recibe 68 de daño de tipo Axe
+Lord of the Flies termina con HP:4842
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2795/4891 SP:364/364 BP:3
+B-Temenos - HP:1996/4502 SP:469/482 BP:3
+C-Throné - HP:1043/4947 SP:332/332 BP:3
+D-Ochette - HP:2007/4447 SP:299/369 BP:3
+Equipo del enemigo
+A-Monarch - HP:5289/6740 Shields:6
+B-Dark Elemental - HP:1496/1822 Shields:4
+C-Wind Wisp - HP:1192/1740 Shields:1
+D-Behemoth - HP:11568/12690 Shields:6
+E-Lord of the Flies - HP:4842/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Behemoth
+3.Partitio
+4.Lord of the Flies
+5.Monarch
+6.Wind Wisp
+7.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Ochette
+3.Temenos
+4.Behemoth
+5.Partitio
+6.Lord of the Flies
+7.Monarch
+8.Wind Wisp
+9.Dark Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Spearhead
+2: Icicle
+3: Amputation
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Monarch - HP:5289/6740 Shields:6
+2: Dark Elemental - HP:1496/1822 Shields:4
+3: Wind Wisp - HP:1192/1740 Shields:1
+4: Behemoth - HP:11568/12690 Shields:6
+5: Lord of the Flies - HP:4842/5590 Shields:3
+6: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos usa Amputation
+Behemoth recibe 49 de daño de tipo Axe con debilidad
+Behemoth termina con HP:11519
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2795/4891 SP:364/364 BP:3
+B-Temenos - HP:1996/4502 SP:461/482 BP:3
+C-Throné - HP:1043/4947 SP:332/332 BP:3
+D-Ochette - HP:2007/4447 SP:299/369 BP:3
+Equipo del enemigo
+A-Monarch - HP:5289/6740 Shields:6
+B-Dark Elemental - HP:1496/1822 Shields:4
+C-Wind Wisp - HP:1192/1740 Shields:1
+D-Behemoth - HP:11519/12690 Shields:5
+E-Lord of the Flies - HP:4842/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Partitio
+3.Lord of the Flies
+4.Monarch
+5.Wind Wisp
+6.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Ochette
+3.Temenos
+4.Behemoth
+5.Partitio
+6.Lord of the Flies
+7.Monarch
+8.Wind Wisp
+9.Dark Elemental
+----------------------------------------
+Behemoth usa Stampede
+Partitio recibe 687 de daño físico
+Temenos recibe 718 de daño físico
+Throné recibe 785 de daño físico
+Ochette recibe 809 de daño físico
+Partitio termina con HP:2108
+Temenos termina con HP:1278
+Throné termina con HP:258
+Ochette termina con HP:1198
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2108/4891 SP:364/364 BP:3
+B-Temenos - HP:1278/4502 SP:461/482 BP:3
+C-Throné - HP:258/4947 SP:332/332 BP:3
+D-Ochette - HP:1198/4447 SP:299/369 BP:3
+Equipo del enemigo
+A-Monarch - HP:5289/6740 Shields:6
+B-Dark Elemental - HP:1496/1822 Shields:4
+C-Wind Wisp - HP:1192/1740 Shields:1
+D-Behemoth - HP:11519/12690 Shields:5
+E-Lord of the Flies - HP:4842/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Lord of the Flies
+3.Monarch
+4.Wind Wisp
+5.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Ochette
+3.Temenos
+4.Behemoth
+5.Partitio
+6.Lord of the Flies
+7.Monarch
+8.Wind Wisp
+9.Dark Elemental
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Revive
+2: Heal More
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio usa Heal More
+Temenos recupera 570 de vida
+Throné recupera 570 de vida
+Ochette recupera 570 de vida
+Partitio recupera 570 de vida
+Temenos termina con HP:1848
+Throné termina con HP:828
+Ochette termina con HP:1768
+Partitio termina con HP:2678
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2678/4891 SP:339/364 BP:3
+B-Temenos - HP:1848/4502 SP:461/482 BP:3
+C-Throné - HP:828/4947 SP:332/332 BP:3
+D-Ochette - HP:1768/4447 SP:299/369 BP:3
+Equipo del enemigo
+A-Monarch - HP:5289/6740 Shields:6
+B-Dark Elemental - HP:1496/1822 Shields:4
+C-Wind Wisp - HP:1192/1740 Shields:1
+D-Behemoth - HP:11519/12690 Shields:5
+E-Lord of the Flies - HP:4842/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Monarch
+3.Wind Wisp
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Ochette
+3.Temenos
+4.Behemoth
+5.Partitio
+6.Lord of the Flies
+7.Monarch
+8.Wind Wisp
+9.Dark Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Temenos recibe 288 de daño físico
+Temenos termina con HP:1560
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2678/4891 SP:339/364 BP:3
+B-Temenos - HP:1560/4502 SP:461/482 BP:3
+C-Throné - HP:828/4947 SP:332/332 BP:3
+D-Ochette - HP:1768/4447 SP:299/369 BP:3
+Equipo del enemigo
+A-Monarch - HP:5289/6740 Shields:6
+B-Dark Elemental - HP:1496/1822 Shields:4
+C-Wind Wisp - HP:1192/1740 Shields:1
+D-Behemoth - HP:11519/12690 Shields:5
+E-Lord of the Flies - HP:4842/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Wind Wisp
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Ochette
+3.Temenos
+4.Behemoth
+5.Partitio
+6.Lord of the Flies
+7.Monarch
+8.Wind Wisp
+9.Dark Elemental
+----------------------------------------
+Monarch usa Galestorm
+Partitio recibe 361 de daño elemental
+Temenos recibe 247 de daño elemental
+Throné recibe 418 de daño elemental
+Ochette recibe 411 de daño elemental
+Partitio termina con HP:2317
+Temenos termina con HP:1313
+Throné termina con HP:410
+Ochette termina con HP:1357
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2317/4891 SP:339/364 BP:3
+B-Temenos - HP:1313/4502 SP:461/482 BP:3
+C-Throné - HP:410/4947 SP:332/332 BP:3
+D-Ochette - HP:1357/4447 SP:299/369 BP:3
+Equipo del enemigo
+A-Monarch - HP:5289/6740 Shields:6
+B-Dark Elemental - HP:1496/1822 Shields:4
+C-Wind Wisp - HP:1192/1740 Shields:1
+D-Behemoth - HP:11519/12690 Shields:5
+E-Lord of the Flies - HP:4842/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Ochette
+3.Temenos
+4.Behemoth
+5.Partitio
+6.Lord of the Flies
+7.Monarch
+8.Wind Wisp
+9.Dark Elemental
+----------------------------------------
+Wind Wisp usa Wind slash
+Throné recibe 487 de daño elemental
+Throné termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2317/4891 SP:339/364 BP:3
+B-Temenos - HP:1313/4502 SP:461/482 BP:3
+C-Throné - HP:0/4947 SP:332/332 BP:3
+D-Ochette - HP:1357/4447 SP:299/369 BP:3
+Equipo del enemigo
+A-Monarch - HP:5289/6740 Shields:6
+B-Dark Elemental - HP:1496/1822 Shields:4
+C-Wind Wisp - HP:1192/1740 Shields:1
+D-Behemoth - HP:11519/12690 Shields:5
+E-Lord of the Flies - HP:4842/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Behemoth
+4.Partitio
+5.Lord of the Flies
+6.Monarch
+7.Wind Wisp
+8.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Ochette recibe 255 de daño elemental
+Ochette termina con HP:1102
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2317/4891 SP:339/364 BP:4
+B-Temenos - HP:1313/4502 SP:461/482 BP:4
+C-Throné - HP:0/4947 SP:332/332 BP:3
+D-Ochette - HP:1102/4447 SP:299/369 BP:4
+Equipo del enemigo
+A-Monarch - HP:5289/6740 Shields:6
+B-Dark Elemental - HP:1496/1822 Shields:4
+C-Wind Wisp - HP:1192/1740 Shields:1
+D-Behemoth - HP:11519/12690 Shields:5
+E-Lord of the Flies - HP:4842/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Temenos
+3.Behemoth
+4.Partitio
+5.Lord of the Flies
+6.Monarch
+7.Wind Wisp
+8.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Behemoth
+4.Partitio
+5.Lord of the Flies
+6.Monarch
+7.Wind Wisp
+8.Dark Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Yatagarasu
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette usa Yatagarasu
+Monarch recibe 467 de daño de tipo Dagger
+Dark Elemental recibe 163 de daño de tipo Dagger
+Wind Wisp recibe 274 de daño de tipo Dagger
+Behemoth recibe 359 de daño de tipo Dagger
+Lord of the Flies recibe 324 de daño de tipo Dagger
+Monarch termina con HP:4822
+Dark Elemental termina con HP:1333
+Wind Wisp termina con HP:918
+Behemoth termina con HP:11160
+Lord of the Flies termina con HP:4518
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2317/4891 SP:339/364 BP:4
+B-Temenos - HP:1313/4502 SP:461/482 BP:4
+C-Throné - HP:0/4947 SP:332/332 BP:3
+D-Ochette - HP:1102/4447 SP:264/369 BP:4
+Equipo del enemigo
+A-Monarch - HP:4822/6740 Shields:6
+B-Dark Elemental - HP:1333/1822 Shields:4
+C-Wind Wisp - HP:918/1740 Shields:1
+D-Behemoth - HP:11160/12690 Shields:5
+E-Lord of the Flies - HP:4518/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Behemoth
+3.Partitio
+4.Lord of the Flies
+5.Monarch
+6.Wind Wisp
+7.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Behemoth
+4.Partitio
+5.Lord of the Flies
+6.Monarch
+7.Wind Wisp
+8.Dark Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Spearhead
+2: Icicle
+3: Amputation
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Monarch - HP:4822/6740 Shields:6
+2: Dark Elemental - HP:1333/1822 Shields:4
+3: Wind Wisp - HP:918/1740 Shields:1
+4: Behemoth - HP:11160/12690 Shields:5
+5: Lord of the Flies - HP:4518/5590 Shields:3
+6: Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos usa Icicle
+Lord of the Flies recibe 145 de daño de tipo Ice
+Lord of the Flies termina con HP:4373
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2317/4891 SP:339/364 BP:4
+B-Temenos - HP:1313/4502 SP:454/482 BP:4
+C-Throné - HP:0/4947 SP:332/332 BP:3
+D-Ochette - HP:1102/4447 SP:264/369 BP:4
+Equipo del enemigo
+A-Monarch - HP:4822/6740 Shields:6
+B-Dark Elemental - HP:1333/1822 Shields:4
+C-Wind Wisp - HP:918/1740 Shields:1
+D-Behemoth - HP:11160/12690 Shields:5
+E-Lord of the Flies - HP:4373/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Partitio
+3.Lord of the Flies
+4.Monarch
+5.Wind Wisp
+6.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Behemoth
+4.Partitio
+5.Lord of the Flies
+6.Monarch
+7.Wind Wisp
+8.Dark Elemental
+----------------------------------------
+Behemoth usa Stampede
+Partitio recibe 687 de daño físico
+Temenos recibe 718 de daño físico
+Ochette recibe 809 de daño físico
+Partitio termina con HP:1630
+Temenos termina con HP:595
+Ochette termina con HP:293
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:1630/4891 SP:339/364 BP:4
+B-Temenos - HP:595/4502 SP:454/482 BP:4
+C-Throné - HP:0/4947 SP:332/332 BP:3
+D-Ochette - HP:293/4447 SP:264/369 BP:4
+Equipo del enemigo
+A-Monarch - HP:4822/6740 Shields:6
+B-Dark Elemental - HP:1333/1822 Shields:4
+C-Wind Wisp - HP:918/1740 Shields:1
+D-Behemoth - HP:11160/12690 Shields:5
+E-Lord of the Flies - HP:4373/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Lord of the Flies
+3.Monarch
+4.Wind Wisp
+5.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Behemoth
+4.Partitio
+5.Lord of the Flies
+6.Monarch
+7.Wind Wisp
+8.Dark Elemental
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:1630/4891 SP:339/364 BP:4
+B-Temenos - HP:595/4502 SP:454/482 BP:4
+C-Throné - HP:0/4947 SP:332/332 BP:3
+D-Ochette - HP:293/4447 SP:264/369 BP:4
+Equipo del enemigo
+A-Monarch - HP:4822/6740 Shields:6
+B-Dark Elemental - HP:1333/1822 Shields:4
+C-Wind Wisp - HP:918/1740 Shields:1
+D-Behemoth - HP:11160/12690 Shields:5
+E-Lord of the Flies - HP:4373/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Monarch
+3.Wind Wisp
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Ochette
+3.Temenos
+4.Behemoth
+5.Lord of the Flies
+6.Monarch
+7.Wind Wisp
+8.Dark Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Temenos recibe 288 de daño físico
+Temenos termina con HP:307
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:1630/4891 SP:339/364 BP:4
+B-Temenos - HP:307/4502 SP:454/482 BP:4
+C-Throné - HP:0/4947 SP:332/332 BP:3
+D-Ochette - HP:293/4447 SP:264/369 BP:4
+Equipo del enemigo
+A-Monarch - HP:4822/6740 Shields:6
+B-Dark Elemental - HP:1333/1822 Shields:4
+C-Wind Wisp - HP:918/1740 Shields:1
+D-Behemoth - HP:11160/12690 Shields:5
+E-Lord of the Flies - HP:4373/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Wind Wisp
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Ochette
+3.Temenos
+4.Behemoth
+5.Lord of the Flies
+6.Monarch
+7.Wind Wisp
+8.Dark Elemental
+----------------------------------------
+Monarch usa Galestorm
+Partitio se defiende
+Partitio recibe 180 de daño elemental
+Temenos recibe 247 de daño elemental
+Ochette recibe 411 de daño elemental
+Partitio termina con HP:1450
+Temenos termina con HP:60
+Ochette termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:1450/4891 SP:339/364 BP:4
+B-Temenos - HP:60/4502 SP:454/482 BP:4
+C-Throné - HP:0/4947 SP:332/332 BP:3
+D-Ochette - HP:0/4447 SP:264/369 BP:4
+Equipo del enemigo
+A-Monarch - HP:4822/6740 Shields:6
+B-Dark Elemental - HP:1333/1822 Shields:4
+C-Wind Wisp - HP:918/1740 Shields:1
+D-Behemoth - HP:11160/12690 Shields:5
+E-Lord of the Flies - HP:4373/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Temenos
+3.Behemoth
+4.Lord of the Flies
+5.Monarch
+6.Wind Wisp
+7.Dark Elemental
+----------------------------------------
+Wind Wisp usa Wind slash
+Temenos recibe 316 de daño elemental
+Temenos termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:1450/4891 SP:339/364 BP:4
+B-Temenos - HP:0/4502 SP:454/482 BP:4
+C-Throné - HP:0/4947 SP:332/332 BP:3
+D-Ochette - HP:0/4447 SP:264/369 BP:4
+Equipo del enemigo
+A-Monarch - HP:4822/6740 Shields:6
+B-Dark Elemental - HP:1333/1822 Shields:4
+C-Wind Wisp - HP:918/1740 Shields:1
+D-Behemoth - HP:11160/12690 Shields:5
+E-Lord of the Flies - HP:4373/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Behemoth
+3.Lord of the Flies
+4.Monarch
+5.Wind Wisp
+6.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Partitio se defiende
+Partitio recibe 102 de daño elemental
+Partitio termina con HP:1348
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:1348/4891 SP:339/364 BP:5
+B-Temenos - HP:0/4502 SP:454/482 BP:4
+C-Throné - HP:0/4947 SP:332/332 BP:3
+D-Ochette - HP:0/4447 SP:264/369 BP:4
+Equipo del enemigo
+A-Monarch - HP:4822/6740 Shields:6
+B-Dark Elemental - HP:1333/1822 Shields:4
+C-Wind Wisp - HP:918/1740 Shields:1
+D-Behemoth - HP:11160/12690 Shields:5
+E-Lord of the Flies - HP:4373/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Behemoth
+3.Lord of the Flies
+4.Monarch
+5.Wind Wisp
+6.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Partitio
+3.Lord of the Flies
+4.Monarch
+5.Wind Wisp
+6.Dark Elemental
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Revive
+2: Heal More
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio usa Heal More
+Partitio recupera 570 de vida
+Partitio termina con HP:1918
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:1918/4891 SP:314/364 BP:5
+B-Temenos - HP:0/4502 SP:454/482 BP:4
+C-Throné - HP:0/4947 SP:332/332 BP:3
+D-Ochette - HP:0/4447 SP:264/369 BP:4
+Equipo del enemigo
+A-Monarch - HP:4822/6740 Shields:6
+B-Dark Elemental - HP:1333/1822 Shields:4
+C-Wind Wisp - HP:918/1740 Shields:1
+D-Behemoth - HP:11160/12690 Shields:5
+E-Lord of the Flies - HP:4373/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Lord of the Flies
+3.Monarch
+4.Wind Wisp
+5.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Partitio
+3.Lord of the Flies
+4.Monarch
+5.Wind Wisp
+6.Dark Elemental
+----------------------------------------
+Behemoth usa Stampede
+Partitio recibe 687 de daño físico
+Partitio termina con HP:1231
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:1231/4891 SP:314/364 BP:5
+B-Temenos - HP:0/4502 SP:454/482 BP:4
+C-Throné - HP:0/4947 SP:332/332 BP:3
+D-Ochette - HP:0/4447 SP:264/369 BP:4
+Equipo del enemigo
+A-Monarch - HP:4822/6740 Shields:6
+B-Dark Elemental - HP:1333/1822 Shields:4
+C-Wind Wisp - HP:918/1740 Shields:1
+D-Behemoth - HP:11160/12690 Shields:5
+E-Lord of the Flies - HP:4373/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Monarch
+3.Wind Wisp
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Partitio
+3.Lord of the Flies
+4.Monarch
+5.Wind Wisp
+6.Dark Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Partitio recibe 257 de daño físico
+Partitio termina con HP:974
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:974/4891 SP:314/364 BP:5
+B-Temenos - HP:0/4502 SP:454/482 BP:4
+C-Throné - HP:0/4947 SP:332/332 BP:3
+D-Ochette - HP:0/4447 SP:264/369 BP:4
+Equipo del enemigo
+A-Monarch - HP:4822/6740 Shields:6
+B-Dark Elemental - HP:1333/1822 Shields:4
+C-Wind Wisp - HP:918/1740 Shields:1
+D-Behemoth - HP:11160/12690 Shields:5
+E-Lord of the Flies - HP:4373/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Wind Wisp
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Partitio
+3.Lord of the Flies
+4.Monarch
+5.Wind Wisp
+6.Dark Elemental
+----------------------------------------
+Monarch usa Galestorm
+Partitio recibe 361 de daño elemental
+Partitio termina con HP:613
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:613/4891 SP:314/364 BP:5
+B-Temenos - HP:0/4502 SP:454/482 BP:4
+C-Throné - HP:0/4947 SP:332/332 BP:3
+D-Ochette - HP:0/4447 SP:264/369 BP:4
+Equipo del enemigo
+A-Monarch - HP:4822/6740 Shields:6
+B-Dark Elemental - HP:1333/1822 Shields:4
+C-Wind Wisp - HP:918/1740 Shields:1
+D-Behemoth - HP:11160/12690 Shields:5
+E-Lord of the Flies - HP:4373/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Partitio
+3.Lord of the Flies
+4.Monarch
+5.Wind Wisp
+6.Dark Elemental
+----------------------------------------
+Wind Wisp usa Wind slash
+Partitio recibe 430 de daño elemental
+Partitio termina con HP:183
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:183/4891 SP:314/364 BP:5
+B-Temenos - HP:0/4502 SP:454/482 BP:4
+C-Throné - HP:0/4947 SP:332/332 BP:3
+D-Ochette - HP:0/4447 SP:264/369 BP:4
+Equipo del enemigo
+A-Monarch - HP:4822/6740 Shields:6
+B-Dark Elemental - HP:1333/1822 Shields:4
+C-Wind Wisp - HP:918/1740 Shields:1
+D-Behemoth - HP:11160/12690 Shields:5
+E-Lord of the Flies - HP:4373/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Partitio
+3.Lord of the Flies
+4.Monarch
+5.Wind Wisp
+6.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Partitio recibe 205 de daño elemental
+Partitio termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

@@ -1,0 +1,168 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+INPUT: 19
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Shaggy Meep - HP:1036/1036 Shields:3
+B-Snow Fox - HP:2600/2600 Shields:1
+C-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Snow Fox
+2.Mad Ratkin
+3.Osvald
+4.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Mad Ratkin
+3.Osvald
+4.Shaggy Meep
+----------------------------------------
+Snow Fox usa Attack
+Osvald recibe 374 de daño físico
+Osvald termina con HP:3183
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:3183/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Shaggy Meep - HP:1036/1036 Shields:3
+B-Snow Fox - HP:2600/2600 Shields:1
+C-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Osvald
+3.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Mad Ratkin
+3.Osvald
+4.Shaggy Meep
+----------------------------------------
+Mad Ratkin usa Stab
+Osvald recibe 288 de daño físico
+Osvald termina con HP:2895
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:2895/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Shaggy Meep - HP:1036/1036 Shields:3
+B-Snow Fox - HP:2600/2600 Shields:1
+C-Mad Ratkin - HP:1233/1233 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Shaggy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Mad Ratkin
+3.Osvald
+4.Shaggy Meep
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Tonitrus Canere
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Tonitrus Canere
+Shaggy Meep recibe 753 de daño de tipo Lightning con debilidad
+Shaggy Meep recibe 753 de daño de tipo Lightning con debilidad
+Shaggy Meep recibe 753 de daño de tipo Lightning con debilidad
+Shaggy Meep entra en Breaking Point
+Snow Fox recibe 458 de daño de tipo Lightning con debilidad
+Snow Fox entra en Breaking Point
+Snow Fox recibe 610 de daño de tipo Lightning con debilidad
+Snow Fox recibe 610 de daño de tipo Lightning con debilidad
+Mad Ratkin recibe 629 de daño de tipo Lightning con debilidad
+Mad Ratkin entra en Breaking Point
+Mad Ratkin recibe 838 de daño de tipo Lightning con debilidad
+Mad Ratkin recibe 838 de daño de tipo Lightning con debilidad
+Shaggy Meep termina con HP:0
+Snow Fox termina con HP:922
+Mad Ratkin termina con HP:0
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:2895/3557 SP:505/541 BP:2
+Equipo del enemigo
+A-Shaggy Meep - HP:0/1036 Shields:0
+B-Snow Fox - HP:922/2600 Shields:0
+C-Mad Ratkin - HP:0/1233 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Osvald
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Tonitrus Canere
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Tonitrus Canere
+Snow Fox recibe 610 de daño de tipo Lightning con debilidad
+Snow Fox recibe 610 de daño de tipo Lightning con debilidad
+Snow Fox recibe 610 de daño de tipo Lightning con debilidad
+Snow Fox termina con HP:0
+----------------------------------------
+Gana equipo del jugador

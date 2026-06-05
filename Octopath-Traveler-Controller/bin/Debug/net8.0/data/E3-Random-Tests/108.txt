@@ -1,0 +1,1279 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+INPUT: 107
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:332/332 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:1
+Equipo del enemigo
+A-Flying Fish - HP:649/649 Shields:4
+B-Dark Remnant - HP:2779/2779 Shields:3
+C-Frost Bear - HP:1197/1197 Shields:3
+D-Behemoth - HP:12690/12690 Shields:8
+E-Cait - HP:500/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Throné
+3.Temenos
+4.Behemoth
+5.Flying Fish
+6.Dark Remnant
+7.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Throné
+3.Temenos
+4.Behemoth
+5.Flying Fish
+6.Dark Remnant
+7.Frost Bear
+----------------------------------------
+Cait usa Attack
+Throné recibe 0 de daño físico
+Throné termina con HP:4447
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:332/332 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:1
+Equipo del enemigo
+A-Flying Fish - HP:649/649 Shields:4
+B-Dark Remnant - HP:2779/2779 Shields:3
+C-Frost Bear - HP:1197/1197 Shields:3
+D-Behemoth - HP:12690/12690 Shields:8
+E-Cait - HP:500/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Temenos
+3.Behemoth
+4.Flying Fish
+5.Dark Remnant
+6.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Throné
+3.Temenos
+4.Behemoth
+5.Flying Fish
+6.Dark Remnant
+7.Frost Bear
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Flying Fish - HP:649/649 Shields:4
+2: Dark Remnant - HP:2779/2779 Shields:3
+3: Frost Bear - HP:1197/1197 Shields:3
+4: Behemoth - HP:12690/12690 Shields:8
+5: Cait - HP:500/500 Shields:2
+6: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Throné no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Throné no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Throné ataca
+Behemoth recibe 67 de daño de tipo Sword
+Behemoth recibe 67 de daño de tipo Sword
+Behemoth termina con HP:12556
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:332/332 BP:0
+B-Temenos - HP:4002/4002 SP:432/432 BP:1
+Equipo del enemigo
+A-Flying Fish - HP:649/649 Shields:4
+B-Dark Remnant - HP:2779/2779 Shields:3
+C-Frost Bear - HP:1197/1197 Shields:3
+D-Behemoth - HP:12556/12690 Shields:8
+E-Cait - HP:500/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Behemoth
+3.Flying Fish
+4.Dark Remnant
+5.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Throné
+3.Temenos
+4.Behemoth
+5.Flying Fish
+6.Dark Remnant
+7.Frost Bear
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Flying Fish - HP:649/649 Shields:4
+2: Dark Remnant - HP:2779/2779 Shields:3
+3: Frost Bear - HP:1197/1197 Shields:3
+4: Behemoth - HP:12556/12690 Shields:8
+5: Cait - HP:500/500 Shields:2
+6: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Temenos ataca
+Dark Remnant recibe 164 de daño de tipo Stave
+Dark Remnant recibe 164 de daño de tipo Stave
+Dark Remnant termina con HP:2451
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:332/332 BP:0
+B-Temenos - HP:4002/4002 SP:432/432 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:649/649 Shields:4
+B-Dark Remnant - HP:2451/2779 Shields:3
+C-Frost Bear - HP:1197/1197 Shields:3
+D-Behemoth - HP:12556/12690 Shields:8
+E-Cait - HP:500/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Flying Fish
+3.Dark Remnant
+4.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Throné
+3.Temenos
+4.Behemoth
+5.Flying Fish
+6.Dark Remnant
+7.Frost Bear
+----------------------------------------
+Behemoth usa Stampede
+Throné recibe 785 de daño físico
+Temenos recibe 718 de daño físico
+Throné termina con HP:3662
+Temenos termina con HP:3284
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:3662/4447 SP:332/332 BP:0
+B-Temenos - HP:3284/4002 SP:432/432 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:649/649 Shields:4
+B-Dark Remnant - HP:2451/2779 Shields:3
+C-Frost Bear - HP:1197/1197 Shields:3
+D-Behemoth - HP:12556/12690 Shields:8
+E-Cait - HP:500/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Flying Fish
+2.Dark Remnant
+3.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Throné
+3.Temenos
+4.Behemoth
+5.Flying Fish
+6.Dark Remnant
+7.Frost Bear
+----------------------------------------
+Flying Fish usa Attack
+Throné recibe 339 de daño físico
+Throné termina con HP:3323
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:3323/4447 SP:332/332 BP:0
+B-Temenos - HP:3284/4002 SP:432/432 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:649/649 Shields:4
+B-Dark Remnant - HP:2451/2779 Shields:3
+C-Frost Bear - HP:1197/1197 Shields:3
+D-Behemoth - HP:12556/12690 Shields:8
+E-Cait - HP:500/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Dark Remnant
+2.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Throné
+3.Temenos
+4.Behemoth
+5.Flying Fish
+6.Dark Remnant
+7.Frost Bear
+----------------------------------------
+Dark Remnant usa Double Bite
+Throné recibe 40 de daño físico
+Throné recibe 40 de daño físico
+Throné termina con HP:3243
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:3243/4447 SP:332/332 BP:0
+B-Temenos - HP:3284/4002 SP:432/432 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:649/649 Shields:4
+B-Dark Remnant - HP:2451/2779 Shields:3
+C-Frost Bear - HP:1197/1197 Shields:3
+D-Behemoth - HP:12556/12690 Shields:8
+E-Cait - HP:500/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Throné
+3.Temenos
+4.Behemoth
+5.Flying Fish
+6.Dark Remnant
+7.Frost Bear
+----------------------------------------
+Frost Bear usa Attack
+Temenos recibe 0 de daño físico
+Temenos termina con HP:3284
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:3243/4447 SP:332/332 BP:0
+B-Temenos - HP:3284/4002 SP:432/432 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:649/649 Shields:4
+B-Dark Remnant - HP:2451/2779 Shields:3
+C-Frost Bear - HP:1197/1197 Shields:3
+D-Behemoth - HP:12556/12690 Shields:8
+E-Cait - HP:500/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Throné
+3.Temenos
+4.Behemoth
+5.Flying Fish
+6.Dark Remnant
+7.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Throné
+3.Temenos
+4.Behemoth
+5.Flying Fish
+6.Dark Remnant
+7.Frost Bear
+----------------------------------------
+Cait usa Attack
+Temenos recibe 0 de daño físico
+Temenos termina con HP:3284
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:3243/4447 SP:332/332 BP:0
+B-Temenos - HP:3284/4002 SP:432/432 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:649/649 Shields:4
+B-Dark Remnant - HP:2451/2779 Shields:3
+C-Frost Bear - HP:1197/1197 Shields:3
+D-Behemoth - HP:12556/12690 Shields:8
+E-Cait - HP:500/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Temenos
+3.Behemoth
+4.Flying Fish
+5.Dark Remnant
+6.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Throné
+3.Temenos
+4.Behemoth
+5.Flying Fish
+6.Dark Remnant
+7.Frost Bear
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Ignis Ardere
+2: Icewind
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Throné usa Ignis Ardere
+Flying Fish recibe 112 de daño de tipo Fire
+Flying Fish recibe 112 de daño de tipo Fire
+Flying Fish recibe 112 de daño de tipo Fire
+Dark Remnant recibe 252 de daño de tipo Fire
+Dark Remnant recibe 252 de daño de tipo Fire
+Dark Remnant recibe 252 de daño de tipo Fire
+Frost Bear recibe 326 de daño de tipo Fire
+Frost Bear recibe 326 de daño de tipo Fire
+Frost Bear recibe 326 de daño de tipo Fire
+Behemoth recibe 31 de daño de tipo Fire
+Behemoth recibe 31 de daño de tipo Fire
+Behemoth recibe 31 de daño de tipo Fire
+Cait recibe 81 de daño de tipo Fire
+Cait recibe 81 de daño de tipo Fire
+Cait recibe 81 de daño de tipo Fire
+Flying Fish termina con HP:313
+Dark Remnant termina con HP:1695
+Frost Bear termina con HP:219
+Behemoth termina con HP:12463
+Cait termina con HP:257
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:3243/4447 SP:296/332 BP:0
+B-Temenos - HP:3284/4002 SP:432/432 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:313/649 Shields:4
+B-Dark Remnant - HP:1695/2779 Shields:3
+C-Frost Bear - HP:219/1197 Shields:3
+D-Behemoth - HP:12463/12690 Shields:8
+E-Cait - HP:257/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Behemoth
+3.Flying Fish
+4.Dark Remnant
+5.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Throné
+3.Temenos
+4.Behemoth
+5.Flying Fish
+6.Dark Remnant
+7.Frost Bear
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Flying Fish - HP:313/649 Shields:4
+2: Dark Remnant - HP:1695/2779 Shields:3
+3: Frost Bear - HP:219/1197 Shields:3
+4: Behemoth - HP:12463/12690 Shields:8
+5: Cait - HP:257/500 Shields:2
+6: Cancelar
+INPUT: 1
+----------------------------------------
+Temenos ataca
+Flying Fish recibe 0 de daño de tipo Stave
+Flying Fish termina con HP:313
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:3243/4447 SP:296/332 BP:0
+B-Temenos - HP:3284/4002 SP:432/432 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:313/649 Shields:4
+B-Dark Remnant - HP:1695/2779 Shields:3
+C-Frost Bear - HP:219/1197 Shields:3
+D-Behemoth - HP:12463/12690 Shields:8
+E-Cait - HP:257/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Flying Fish
+3.Dark Remnant
+4.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Throné
+3.Temenos
+4.Behemoth
+5.Flying Fish
+6.Dark Remnant
+7.Frost Bear
+----------------------------------------
+Behemoth usa Stampede
+Throné recibe 785 de daño físico
+Temenos recibe 718 de daño físico
+Throné termina con HP:2458
+Temenos termina con HP:2566
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:2458/4447 SP:296/332 BP:0
+B-Temenos - HP:2566/4002 SP:432/432 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:313/649 Shields:4
+B-Dark Remnant - HP:1695/2779 Shields:3
+C-Frost Bear - HP:219/1197 Shields:3
+D-Behemoth - HP:12463/12690 Shields:8
+E-Cait - HP:257/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Flying Fish
+2.Dark Remnant
+3.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Throné
+3.Temenos
+4.Behemoth
+5.Flying Fish
+6.Dark Remnant
+7.Frost Bear
+----------------------------------------
+Flying Fish usa Attack
+Temenos recibe 272 de daño físico
+Temenos termina con HP:2294
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:2458/4447 SP:296/332 BP:0
+B-Temenos - HP:2294/4002 SP:432/432 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:313/649 Shields:4
+B-Dark Remnant - HP:1695/2779 Shields:3
+C-Frost Bear - HP:219/1197 Shields:3
+D-Behemoth - HP:12463/12690 Shields:8
+E-Cait - HP:257/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Dark Remnant
+2.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Throné
+3.Temenos
+4.Behemoth
+5.Flying Fish
+6.Dark Remnant
+7.Frost Bear
+----------------------------------------
+Dark Remnant usa Double Bite
+Throné recibe 40 de daño físico
+Throné recibe 40 de daño físico
+Throné termina con HP:2378
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:2378/4447 SP:296/332 BP:0
+B-Temenos - HP:2294/4002 SP:432/432 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:313/649 Shields:4
+B-Dark Remnant - HP:1695/2779 Shields:3
+C-Frost Bear - HP:219/1197 Shields:3
+D-Behemoth - HP:12463/12690 Shields:8
+E-Cait - HP:257/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Throné
+3.Temenos
+4.Behemoth
+5.Flying Fish
+6.Dark Remnant
+7.Frost Bear
+----------------------------------------
+Frost Bear usa Attack
+Throné recibe 61 de daño físico
+Throné termina con HP:2317
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:2317/4447 SP:296/332 BP:1
+B-Temenos - HP:2294/4002 SP:432/432 BP:1
+Equipo del enemigo
+A-Flying Fish - HP:313/649 Shields:4
+B-Dark Remnant - HP:1695/2779 Shields:3
+C-Frost Bear - HP:219/1197 Shields:3
+D-Behemoth - HP:12463/12690 Shields:8
+E-Cait - HP:257/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Throné
+3.Temenos
+4.Behemoth
+5.Flying Fish
+6.Dark Remnant
+7.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Throné
+3.Temenos
+4.Behemoth
+5.Flying Fish
+6.Dark Remnant
+7.Frost Bear
+----------------------------------------
+Cait usa Attack
+Throné recibe 0 de daño físico
+Throné termina con HP:2317
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:2317/4447 SP:296/332 BP:1
+B-Temenos - HP:2294/4002 SP:432/432 BP:1
+Equipo del enemigo
+A-Flying Fish - HP:313/649 Shields:4
+B-Dark Remnant - HP:1695/2779 Shields:3
+C-Frost Bear - HP:219/1197 Shields:3
+D-Behemoth - HP:12463/12690 Shields:8
+E-Cait - HP:257/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Temenos
+3.Behemoth
+4.Flying Fish
+5.Dark Remnant
+6.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Throné
+3.Temenos
+4.Behemoth
+5.Flying Fish
+6.Dark Remnant
+7.Frost Bear
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Ignis Ardere
+2: Icewind
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Throné no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Throné no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Throné no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Throné no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Throné no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Throné no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Throné no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné usa Icewind
+Flying Fish recibe 82 de daño de tipo Ice
+Dark Remnant recibe 222 de daño de tipo Ice
+Frost Bear recibe 296 de daño de tipo Ice
+Behemoth recibe 2 de daño de tipo Ice con debilidad
+Cait recibe 51 de daño de tipo Ice
+Flying Fish termina con HP:231
+Dark Remnant termina con HP:1473
+Frost Bear termina con HP:0
+Behemoth termina con HP:12461
+Cait termina con HP:206
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:2317/4447 SP:288/332 BP:1
+B-Temenos - HP:2294/4002 SP:432/432 BP:1
+Equipo del enemigo
+A-Flying Fish - HP:231/649 Shields:4
+B-Dark Remnant - HP:1473/2779 Shields:3
+C-Frost Bear - HP:0/1197 Shields:3
+D-Behemoth - HP:12461/12690 Shields:7
+E-Cait - HP:206/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Behemoth
+3.Flying Fish
+4.Dark Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Throné
+3.Temenos
+4.Behemoth
+5.Flying Fish
+6.Dark Remnant
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:2317/4447 SP:288/332 BP:1
+B-Temenos - HP:2294/4002 SP:432/432 BP:1
+Equipo del enemigo
+A-Flying Fish - HP:231/649 Shields:4
+B-Dark Remnant - HP:1473/2779 Shields:3
+C-Frost Bear - HP:0/1197 Shields:3
+D-Behemoth - HP:12461/12690 Shields:7
+E-Cait - HP:206/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Flying Fish
+3.Dark Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Cait
+3.Throné
+4.Behemoth
+5.Flying Fish
+6.Dark Remnant
+----------------------------------------
+Behemoth usa Stampede
+Throné recibe 785 de daño físico
+Temenos se defiende
+Temenos recibe 359 de daño físico
+Throné termina con HP:1532
+Temenos termina con HP:1935
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:1532/4447 SP:288/332 BP:1
+B-Temenos - HP:1935/4002 SP:432/432 BP:1
+Equipo del enemigo
+A-Flying Fish - HP:231/649 Shields:4
+B-Dark Remnant - HP:1473/2779 Shields:3
+C-Frost Bear - HP:0/1197 Shields:3
+D-Behemoth - HP:12461/12690 Shields:7
+E-Cait - HP:206/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Flying Fish
+2.Dark Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Cait
+3.Throné
+4.Behemoth
+5.Flying Fish
+6.Dark Remnant
+----------------------------------------
+Flying Fish usa Attack
+Temenos se defiende
+Temenos recibe 136 de daño físico
+Temenos termina con HP:1799
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:1532/4447 SP:288/332 BP:1
+B-Temenos - HP:1799/4002 SP:432/432 BP:1
+Equipo del enemigo
+A-Flying Fish - HP:231/649 Shields:4
+B-Dark Remnant - HP:1473/2779 Shields:3
+C-Frost Bear - HP:0/1197 Shields:3
+D-Behemoth - HP:12461/12690 Shields:7
+E-Cait - HP:206/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Dark Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Cait
+3.Throné
+4.Behemoth
+5.Flying Fish
+6.Dark Remnant
+----------------------------------------
+Dark Remnant usa Double Bite
+Throné recibe 40 de daño físico
+Throné recibe 40 de daño físico
+Throné termina con HP:1452
+----------------------------------------
+Throné obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:1452/4447 SP:288/332 BP:1
+B-Temenos - HP:1799/4002 SP:432/432 BP:1
+Equipo del enemigo
+A-Flying Fish - HP:231/649 Shields:4
+B-Dark Remnant - HP:1473/2779 Shields:3
+C-Frost Bear - HP:0/1197 Shields:3
+D-Behemoth - HP:12461/12690 Shields:7
+E-Cait - HP:206/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Throné
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Cait
+3.Throné
+4.Behemoth
+5.Flying Fish
+6.Dark Remnant
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Ignis Ardere
+2: Icewind
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné usa Icewind
+Flying Fish recibe 82 de daño de tipo Ice
+Dark Remnant recibe 222 de daño de tipo Ice
+Behemoth recibe 2 de daño de tipo Ice con debilidad
+Cait recibe 51 de daño de tipo Ice
+Flying Fish termina con HP:149
+Dark Remnant termina con HP:1251
+Behemoth termina con HP:12459
+Cait termina con HP:155
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:1452/4447 SP:280/332 BP:2
+B-Temenos - HP:1799/4002 SP:432/432 BP:2
+Equipo del enemigo
+A-Flying Fish - HP:149/649 Shields:4
+B-Dark Remnant - HP:1251/2779 Shields:3
+C-Frost Bear - HP:0/1197 Shields:3
+D-Behemoth - HP:12459/12690 Shields:6
+E-Cait - HP:155/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Cait
+3.Throné
+4.Behemoth
+5.Flying Fish
+6.Dark Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Throné
+3.Temenos
+4.Behemoth
+5.Flying Fish
+6.Dark Remnant
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Flying Fish - HP:149/649 Shields:4
+2: Dark Remnant - HP:1251/2779 Shields:3
+3: Behemoth - HP:12459/12690 Shields:6
+4: Cait - HP:155/500 Shields:2
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Dark Remnant recibe 164 de daño de tipo Stave
+Dark Remnant termina con HP:1087
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:1452/4447 SP:280/332 BP:2
+B-Temenos - HP:1799/4002 SP:432/432 BP:2
+Equipo del enemigo
+A-Flying Fish - HP:149/649 Shields:4
+B-Dark Remnant - HP:1087/2779 Shields:3
+C-Frost Bear - HP:0/1197 Shields:3
+D-Behemoth - HP:12459/12690 Shields:6
+E-Cait - HP:155/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Throné
+3.Behemoth
+4.Flying Fish
+5.Dark Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Throné
+3.Temenos
+4.Behemoth
+5.Flying Fish
+6.Dark Remnant
+----------------------------------------
+Cait usa Attack
+Temenos recibe 0 de daño físico
+Temenos termina con HP:1799
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:1452/4447 SP:280/332 BP:2
+B-Temenos - HP:1799/4002 SP:432/432 BP:2
+Equipo del enemigo
+A-Flying Fish - HP:149/649 Shields:4
+B-Dark Remnant - HP:1087/2779 Shields:3
+C-Frost Bear - HP:0/1197 Shields:3
+D-Behemoth - HP:12459/12690 Shields:6
+E-Cait - HP:155/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Behemoth
+3.Flying Fish
+4.Dark Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Throné
+3.Temenos
+4.Behemoth
+5.Flying Fish
+6.Dark Remnant
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Ignis Ardere
+2: Icewind
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Throné no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Throné usa Ignis Ardere
+Flying Fish recibe 546 de daño de tipo Fire
+Flying Fish recibe 546 de daño de tipo Fire
+Flying Fish recibe 546 de daño de tipo Fire
+Dark Remnant recibe 686 de daño de tipo Fire
+Dark Remnant recibe 686 de daño de tipo Fire
+Dark Remnant recibe 686 de daño de tipo Fire
+Behemoth recibe 465 de daño de tipo Fire
+Behemoth recibe 465 de daño de tipo Fire
+Behemoth recibe 465 de daño de tipo Fire
+Cait recibe 515 de daño de tipo Fire
+Cait recibe 515 de daño de tipo Fire
+Cait recibe 515 de daño de tipo Fire
+Flying Fish termina con HP:0
+Dark Remnant termina con HP:0
+Behemoth termina con HP:11064
+Cait termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:1452/4447 SP:244/332 BP:1
+B-Temenos - HP:1799/4002 SP:432/432 BP:2
+Equipo del enemigo
+A-Flying Fish - HP:0/649 Shields:4
+B-Dark Remnant - HP:0/2779 Shields:3
+C-Frost Bear - HP:0/1197 Shields:3
+D-Behemoth - HP:11064/12690 Shields:6
+E-Cait - HP:0/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Temenos
+3.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Throné recibe 785 de daño físico
+Temenos recibe 718 de daño físico
+Throné termina con HP:667
+Temenos termina con HP:1081
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:667/4447 SP:244/332 BP:1
+B-Temenos - HP:1081/4002 SP:432/432 BP:3
+Equipo del enemigo
+A-Flying Fish - HP:0/649 Shields:4
+B-Dark Remnant - HP:0/2779 Shields:3
+C-Frost Bear - HP:0/1197 Shields:3
+D-Behemoth - HP:11064/12690 Shields:6
+E-Cait - HP:0/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Temenos
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Temenos
+3.Behemoth
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Ignis Ardere
+2: Icewind
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Throné no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné usa Icewind
+Behemoth recibe 2 de daño de tipo Ice con debilidad
+Behemoth termina con HP:11062
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:667/4447 SP:236/332 BP:1
+B-Temenos - HP:1081/4002 SP:432/432 BP:3
+Equipo del enemigo
+A-Flying Fish - HP:0/649 Shields:4
+B-Dark Remnant - HP:0/2779 Shields:3
+C-Frost Bear - HP:0/1197 Shields:3
+D-Behemoth - HP:11062/12690 Shields:5
+E-Cait - HP:0/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Temenos
+3.Behemoth
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Blizzard
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Temenos usa Blizzard
+Behemoth recibe 2681 de daño de tipo Ice con debilidad
+Behemoth recibe 2681 de daño de tipo Ice con debilidad
+Behemoth termina con HP:5700
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:667/4447 SP:236/332 BP:1
+B-Temenos - HP:1081/4002 SP:410/432 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:0/649 Shields:4
+B-Dark Remnant - HP:0/2779 Shields:3
+C-Frost Bear - HP:0/1197 Shields:3
+D-Behemoth - HP:5700/12690 Shields:3
+E-Cait - HP:0/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Temenos
+3.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Throné recibe 785 de daño físico
+Temenos recibe 718 de daño físico
+Throné termina con HP:0
+Temenos termina con HP:363
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4447 SP:236/332 BP:1
+B-Temenos - HP:363/4002 SP:410/432 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:0/649 Shields:4
+B-Dark Remnant - HP:0/2779 Shields:3
+C-Frost Bear - HP:0/1197 Shields:3
+D-Behemoth - HP:5700/12690 Shields:3
+E-Cait - HP:0/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Behemoth
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Blizzard
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Temenos usa Blizzard
+Behemoth recibe 232 de daño de tipo Ice con debilidad
+Behemoth recibe 232 de daño de tipo Ice con debilidad
+Behemoth termina con HP:5236
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4447 SP:236/332 BP:1
+B-Temenos - HP:363/4002 SP:388/432 BP:0
+Equipo del enemigo
+A-Flying Fish - HP:0/649 Shields:4
+B-Dark Remnant - HP:0/2779 Shields:3
+C-Frost Bear - HP:0/1197 Shields:3
+D-Behemoth - HP:5236/12690 Shields:1
+E-Cait - HP:0/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Temenos recibe 718 de daño físico
+Temenos termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

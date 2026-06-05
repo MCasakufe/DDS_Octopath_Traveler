@@ -1,0 +1,203 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+INPUT: 21
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Frost Bear - HP:1197/1197 Shields:3
+B-Horned Fly - HP:1205/1205 Shields:2
+C-Horse Fly - HP:2857/2857 Shields:2
+D-Thunder Guardian - HP:1971/1971 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Horse Fly
+3.Horned Fly
+4.Thunder Guardian
+5.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Horse Fly
+3.Horned Fly
+4.Thunder Guardian
+5.Frost Bear
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Ventus Saltare
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Ventus Saltare
+Frost Bear recibe 631 de daño de tipo Wind con debilidad
+Frost Bear recibe 631 de daño de tipo Wind con debilidad
+Frost Bear recibe 631 de daño de tipo Wind con debilidad
+Frost Bear entra en Breaking Point
+Horned Fly recibe 337 de daño de tipo Wind con debilidad
+Horned Fly recibe 337 de daño de tipo Wind con debilidad
+Horned Fly entra en Breaking Point
+Horned Fly recibe 450 de daño de tipo Wind con debilidad
+Horse Fly recibe 274 de daño de tipo Wind con debilidad
+Horse Fly recibe 274 de daño de tipo Wind con debilidad
+Horse Fly entra en Breaking Point
+Horse Fly recibe 366 de daño de tipo Wind con debilidad
+Thunder Guardian recibe 559 de daño de tipo Wind con debilidad
+Thunder Guardian recibe 559 de daño de tipo Wind con debilidad
+Thunder Guardian recibe 559 de daño de tipo Wind con debilidad
+Thunder Guardian entra en Breaking Point
+Frost Bear termina con HP:0
+Horned Fly termina con HP:81
+Horse Fly termina con HP:1943
+Thunder Guardian termina con HP:294
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:321/357 BP:2
+Equipo del enemigo
+A-Frost Bear - HP:0/1197 Shields:0
+B-Horned Fly - HP:81/1205 Shields:0
+C-Horse Fly - HP:1943/2857 Shields:0
+D-Thunder Guardian - HP:294/1971 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Horse Fly
+2.Horned Fly
+3.Thunder Guardian
+4.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Ventus Saltare
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Ventus Saltare
+Horned Fly recibe 450 de daño de tipo Wind con debilidad
+Horned Fly recibe 450 de daño de tipo Wind con debilidad
+Horned Fly recibe 450 de daño de tipo Wind con debilidad
+Horse Fly recibe 366 de daño de tipo Wind con debilidad
+Horse Fly recibe 366 de daño de tipo Wind con debilidad
+Horse Fly recibe 366 de daño de tipo Wind con debilidad
+Thunder Guardian recibe 746 de daño de tipo Wind con debilidad
+Thunder Guardian recibe 746 de daño de tipo Wind con debilidad
+Thunder Guardian recibe 746 de daño de tipo Wind con debilidad
+Horned Fly termina con HP:0
+Horse Fly termina con HP:845
+Thunder Guardian termina con HP:0
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:285/357 BP:3
+Equipo del enemigo
+A-Frost Bear - HP:0/1197 Shields:0
+B-Horned Fly - HP:0/1205 Shields:0
+C-Horse Fly - HP:845/2857 Shields:2
+D-Thunder Guardian - HP:0/1971 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Horse Fly
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Horse Fly
+----------------------------------------
+Horse Fly usa Attack
+Tressa recibe 207 de daño físico
+Tressa termina con HP:4684
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4684/4891 SP:285/357 BP:3
+Equipo del enemigo
+A-Frost Bear - HP:0/1197 Shields:0
+B-Horned Fly - HP:0/1205 Shields:0
+C-Horse Fly - HP:845/2857 Shields:2
+D-Thunder Guardian - HP:0/1971 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Horse Fly
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Ventus Saltare
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Ventus Saltare
+Horse Fly recibe 274 de daño de tipo Wind con debilidad
+Horse Fly recibe 274 de daño de tipo Wind con debilidad
+Horse Fly entra en Breaking Point
+Horse Fly recibe 366 de daño de tipo Wind con debilidad
+Horse Fly termina con HP:0
+----------------------------------------
+Gana equipo del jugador

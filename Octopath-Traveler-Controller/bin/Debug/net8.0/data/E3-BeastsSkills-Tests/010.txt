@@ -1,0 +1,396 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+INPUT: 9
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Army Ant - HP:502/502 Shields:1
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Osvald
+3.Frost Fox
+4.Army Ant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Osvald
+3.Frost Fox
+4.Army Ant
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Army Ant - HP:502/502 Shields:1
+2: Frost Fox - HP:1302/1302 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Army Ant recibe 231 de daño de tipo Dagger
+Army Ant termina con HP:271
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Army Ant - HP:271/502 Shields:1
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Frost Fox
+3.Army Ant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Osvald
+3.Frost Fox
+4.Army Ant
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Army Ant - HP:271/502 Shields:1
+2: Frost Fox - HP:1302/1302 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Frost Fox recibe 0 de daño de tipo Stave
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Army Ant - HP:271/502 Shields:1
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Army Ant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Osvald
+3.Frost Fox
+4.Army Ant
+----------------------------------------
+Frost Fox usa Ice blast
+Primrose recibe 201 de daño elemental
+Osvald recibe 203 de daño elemental
+Primrose termina con HP:3801
+Osvald termina con HP:3354
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3801/4002 SP:504/504 BP:1
+B-Osvald - HP:3354/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Army Ant - HP:271/502 Shields:1
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Army Ant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Osvald
+3.Frost Fox
+4.Army Ant
+----------------------------------------
+Army Ant usa Acid Spray
+Primrose tendrá Decreased Physical Defense durante 2 rondas
+Primrose tendrá Decreased Elemental Defense durante 2 rondas
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3801/4002 SP:504/504 BP:2
+B-Osvald - HP:3354/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Army Ant - HP:271/502 Shields:1
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Osvald
+3.Frost Fox
+4.Army Ant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Osvald
+3.Frost Fox
+4.Army Ant
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Army Ant - HP:271/502 Shields:1
+2: Frost Fox - HP:1302/1302 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Army Ant recibe 231 de daño de tipo Dagger
+Army Ant termina con HP:40
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3801/4002 SP:504/504 BP:2
+B-Osvald - HP:3354/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Army Ant - HP:40/502 Shields:1
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Frost Fox
+3.Army Ant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Osvald
+3.Frost Fox
+4.Army Ant
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Army Ant - HP:40/502 Shields:1
+2: Frost Fox - HP:1302/1302 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Army Ant recibe 436 de daño de tipo Stave con debilidad
+Army Ant entra en Breaking Point
+Army Ant termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3801/4002 SP:504/504 BP:2
+B-Osvald - HP:3354/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Army Ant - HP:0/502 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Osvald
+3.Frost Fox
+----------------------------------------
+Frost Fox usa Ice blast
+Primrose recibe 301 de daño elemental
+Osvald recibe 203 de daño elemental
+Primrose termina con HP:3500
+Osvald termina con HP:3151
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3500/4002 SP:504/504 BP:3
+B-Osvald - HP:3151/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Army Ant - HP:0/502 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Osvald
+3.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Osvald
+3.Frost Fox
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Frost Fox - HP:1302/1302 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3500/4002 SP:504/504 BP:3
+B-Osvald - HP:3151/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Army Ant - HP:0/502 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Osvald
+3.Frost Fox
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Frost Fox - HP:1302/1302 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Frost Fox recibe 0 de daño de tipo Stave
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3500/4002 SP:504/504 BP:3
+B-Osvald - HP:3151/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Army Ant - HP:0/502 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Osvald
+3.Frost Fox
+----------------------------------------
+Frost Fox usa Ice blast
+Primrose recibe 201 de daño elemental
+Osvald recibe 203 de daño elemental
+Primrose termina con HP:3299
+Osvald termina con HP:2948
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3299/4002 SP:504/504 BP:4
+B-Osvald - HP:2948/3557 SP:541/541 BP:4
+Equipo del enemigo
+A-Army Ant - HP:0/502 Shields:0
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Osvald
+3.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Osvald
+3.Frost Fox
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo

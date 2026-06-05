@@ -1,0 +1,480 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+INPUT: 8
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+Equipo del enemigo
+A-Shaggy Meep - HP:1036/1036 Shields:3
+B-Red Fox - HP:1451/1451 Shields:3
+C-Frost Bear - HP:1197/1197 Shields:3
+D-Chubby Cait - HP:800/800 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Chubby Cait
+2.Ophilia
+3.Shaggy Meep
+4.Red Fox
+5.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Chubby Cait
+2.Ophilia
+3.Shaggy Meep
+4.Red Fox
+5.Frost Bear
+----------------------------------------
+Chubby Cait usa Attack
+Ophilia recibe 0 de daño físico
+Ophilia termina con HP:4002
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+Equipo del enemigo
+A-Shaggy Meep - HP:1036/1036 Shields:3
+B-Red Fox - HP:1451/1451 Shields:3
+C-Frost Bear - HP:1197/1197 Shields:3
+D-Chubby Cait - HP:800/800 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Shaggy Meep
+3.Red Fox
+4.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Chubby Cait
+2.Ophilia
+3.Shaggy Meep
+4.Red Fox
+5.Frost Bear
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Luminescence
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Luminescence
+Shaggy Meep recibe 346 de daño de tipo Light
+Red Fox recibe 351 de daño de tipo Light
+Frost Bear recibe 415 de daño de tipo Light
+Chubby Cait recibe 20 de daño de tipo Light
+Shaggy Meep termina con HP:690
+Red Fox termina con HP:1100
+Frost Bear termina con HP:782
+Chubby Cait termina con HP:780
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:461/470 BP:1
+Equipo del enemigo
+A-Shaggy Meep - HP:690/1036 Shields:3
+B-Red Fox - HP:1100/1451 Shields:3
+C-Frost Bear - HP:782/1197 Shields:3
+D-Chubby Cait - HP:780/800 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Shaggy Meep
+2.Red Fox
+3.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Chubby Cait
+2.Ophilia
+3.Shaggy Meep
+4.Red Fox
+5.Frost Bear
+----------------------------------------
+Shaggy Meep usa Attack
+Ophilia recibe 147 de daño físico
+Ophilia termina con HP:3855
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3855/4002 SP:461/470 BP:1
+Equipo del enemigo
+A-Shaggy Meep - HP:690/1036 Shields:3
+B-Red Fox - HP:1100/1451 Shields:3
+C-Frost Bear - HP:782/1197 Shields:3
+D-Chubby Cait - HP:780/800 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+2.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Chubby Cait
+2.Ophilia
+3.Shaggy Meep
+4.Red Fox
+5.Frost Bear
+----------------------------------------
+Red Fox usa Attack
+Ophilia recibe 151 de daño físico
+Ophilia termina con HP:3704
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3704/4002 SP:461/470 BP:1
+Equipo del enemigo
+A-Shaggy Meep - HP:690/1036 Shields:3
+B-Red Fox - HP:1100/1451 Shields:3
+C-Frost Bear - HP:782/1197 Shields:3
+D-Chubby Cait - HP:780/800 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Chubby Cait
+2.Ophilia
+3.Shaggy Meep
+4.Red Fox
+5.Frost Bear
+----------------------------------------
+Frost Bear usa Attack
+Ophilia recibe 4 de daño físico
+Ophilia termina con HP:3700
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3700/4002 SP:461/470 BP:2
+Equipo del enemigo
+A-Shaggy Meep - HP:690/1036 Shields:3
+B-Red Fox - HP:1100/1451 Shields:3
+C-Frost Bear - HP:782/1197 Shields:3
+D-Chubby Cait - HP:780/800 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Chubby Cait
+2.Ophilia
+3.Shaggy Meep
+4.Red Fox
+5.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Chubby Cait
+2.Ophilia
+3.Shaggy Meep
+4.Red Fox
+5.Frost Bear
+----------------------------------------
+Chubby Cait usa Attack
+Ophilia recibe 0 de daño físico
+Ophilia termina con HP:3700
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3700/4002 SP:461/470 BP:2
+Equipo del enemigo
+A-Shaggy Meep - HP:690/1036 Shields:3
+B-Red Fox - HP:1100/1451 Shields:3
+C-Frost Bear - HP:782/1197 Shields:3
+D-Chubby Cait - HP:780/800 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Shaggy Meep
+3.Red Fox
+4.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Chubby Cait
+2.Ophilia
+3.Shaggy Meep
+4.Red Fox
+5.Frost Bear
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Luminescence
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Luminescence
+Shaggy Meep recibe 346 de daño de tipo Light
+Red Fox recibe 351 de daño de tipo Light
+Frost Bear recibe 415 de daño de tipo Light
+Chubby Cait recibe 20 de daño de tipo Light
+Shaggy Meep termina con HP:344
+Red Fox termina con HP:749
+Frost Bear termina con HP:367
+Chubby Cait termina con HP:760
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3700/4002 SP:452/470 BP:2
+Equipo del enemigo
+A-Shaggy Meep - HP:344/1036 Shields:3
+B-Red Fox - HP:749/1451 Shields:3
+C-Frost Bear - HP:367/1197 Shields:3
+D-Chubby Cait - HP:760/800 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Shaggy Meep
+2.Red Fox
+3.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Chubby Cait
+2.Ophilia
+3.Shaggy Meep
+4.Red Fox
+5.Frost Bear
+----------------------------------------
+Shaggy Meep usa Attack
+Ophilia recibe 147 de daño físico
+Ophilia termina con HP:3553
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3553/4002 SP:452/470 BP:2
+Equipo del enemigo
+A-Shaggy Meep - HP:344/1036 Shields:3
+B-Red Fox - HP:749/1451 Shields:3
+C-Frost Bear - HP:367/1197 Shields:3
+D-Chubby Cait - HP:760/800 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+2.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Chubby Cait
+2.Ophilia
+3.Shaggy Meep
+4.Red Fox
+5.Frost Bear
+----------------------------------------
+Red Fox usa Attack
+Ophilia recibe 151 de daño físico
+Ophilia termina con HP:3402
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3402/4002 SP:452/470 BP:2
+Equipo del enemigo
+A-Shaggy Meep - HP:344/1036 Shields:3
+B-Red Fox - HP:749/1451 Shields:3
+C-Frost Bear - HP:367/1197 Shields:3
+D-Chubby Cait - HP:760/800 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Chubby Cait
+2.Ophilia
+3.Shaggy Meep
+4.Red Fox
+5.Frost Bear
+----------------------------------------
+Frost Bear usa Attack
+Ophilia recibe 4 de daño físico
+Ophilia termina con HP:3398
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3398/4002 SP:452/470 BP:3
+Equipo del enemigo
+A-Shaggy Meep - HP:344/1036 Shields:3
+B-Red Fox - HP:749/1451 Shields:3
+C-Frost Bear - HP:367/1197 Shields:3
+D-Chubby Cait - HP:760/800 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Chubby Cait
+2.Ophilia
+3.Shaggy Meep
+4.Red Fox
+5.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Chubby Cait
+2.Ophilia
+3.Shaggy Meep
+4.Red Fox
+5.Frost Bear
+----------------------------------------
+Chubby Cait usa Attack
+Ophilia recibe 0 de daño físico
+Ophilia termina con HP:3398
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3398/4002 SP:452/470 BP:3
+Equipo del enemigo
+A-Shaggy Meep - HP:344/1036 Shields:3
+B-Red Fox - HP:749/1451 Shields:3
+C-Frost Bear - HP:367/1197 Shields:3
+D-Chubby Cait - HP:760/800 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Shaggy Meep
+3.Red Fox
+4.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Chubby Cait
+2.Ophilia
+3.Shaggy Meep
+4.Red Fox
+5.Frost Bear
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Luminescence
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Ophilia usa Luminescence
+Shaggy Meep recibe 859 de daño de tipo Light
+Red Fox recibe 864 de daño de tipo Light
+Frost Bear recibe 928 de daño de tipo Light
+Chubby Cait recibe 533 de daño de tipo Light
+Shaggy Meep termina con HP:0
+Red Fox termina con HP:0
+Frost Bear termina con HP:0
+Chubby Cait termina con HP:227
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3398/4002 SP:443/470 BP:2
+Equipo del enemigo
+A-Shaggy Meep - HP:0/1036 Shields:3
+B-Red Fox - HP:0/1451 Shields:3
+C-Frost Bear - HP:0/1197 Shields:3
+D-Chubby Cait - HP:227/800 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Chubby Cait
+2.Ophilia
+----------------------------------------
+Turnos de la siguiente ronda
+1.Chubby Cait
+2.Ophilia
+----------------------------------------
+Chubby Cait usa Attack
+Ophilia recibe 0 de daño físico
+Ophilia termina con HP:3398
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3398/4002 SP:443/470 BP:2
+Equipo del enemigo
+A-Shaggy Meep - HP:0/1036 Shields:3
+B-Red Fox - HP:0/1451 Shields:3
+C-Frost Bear - HP:0/1197 Shields:3
+D-Chubby Cait - HP:227/800 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+----------------------------------------
+Turnos de la siguiente ronda
+1.Chubby Cait
+2.Ophilia
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Luminescence
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Ophilia usa Luminescence
+Chubby Cait recibe 1046 de daño de tipo Light
+Chubby Cait termina con HP:0
+----------------------------------------
+Gana equipo del jugador

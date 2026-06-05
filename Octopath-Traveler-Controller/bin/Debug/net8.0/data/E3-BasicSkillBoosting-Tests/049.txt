@@ -1,0 +1,363 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+INPUT: 48
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Horse Fly - HP:2857/2857 Shields:2
+B-River Fly - HP:1010/1010 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.River Fly
+3.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.River Fly
+3.Horse Fly
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Horse Fly - HP:2857/2857 Shields:2
+2: River Fly - HP:1010/1010 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Tradewinds
+Horse Fly recibe 220 de daño de tipo Wind con debilidad
+Horse Fly termina con HP:2637
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:350/357 BP:1
+Equipo del enemigo
+A-Horse Fly - HP:2637/2857 Shields:1
+B-River Fly - HP:1010/1010 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.River Fly
+2.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.River Fly
+3.Horse Fly
+----------------------------------------
+River Fly usa Attack
+Tressa recibe 119 de daño físico
+Tressa termina con HP:4772
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4772/4891 SP:350/357 BP:1
+Equipo del enemigo
+A-Horse Fly - HP:2637/2857 Shields:1
+B-River Fly - HP:1010/1010 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.River Fly
+3.Horse Fly
+----------------------------------------
+Horse Fly usa Attack
+Tressa recibe 207 de daño físico
+Tressa termina con HP:4565
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4565/4891 SP:350/357 BP:2
+Equipo del enemigo
+A-Horse Fly - HP:2637/2857 Shields:1
+B-River Fly - HP:1010/1010 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.River Fly
+3.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.River Fly
+3.Horse Fly
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Horse Fly - HP:2637/2857 Shields:1
+2: River Fly - HP:1010/1010 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Tradewinds
+River Fly recibe 384 de daño de tipo Wind con debilidad
+River Fly termina con HP:626
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4565/4891 SP:343/357 BP:2
+Equipo del enemigo
+A-Horse Fly - HP:2637/2857 Shields:1
+B-River Fly - HP:626/1010 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.River Fly
+2.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.River Fly
+3.Horse Fly
+----------------------------------------
+River Fly usa Attack
+Tressa recibe 119 de daño físico
+Tressa termina con HP:4446
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4446/4891 SP:343/357 BP:2
+Equipo del enemigo
+A-Horse Fly - HP:2637/2857 Shields:1
+B-River Fly - HP:626/1010 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.River Fly
+3.Horse Fly
+----------------------------------------
+Horse Fly usa Attack
+Tressa recibe 207 de daño físico
+Tressa termina con HP:4239
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4239/4891 SP:343/357 BP:3
+Equipo del enemigo
+A-Horse Fly - HP:2637/2857 Shields:1
+B-River Fly - HP:626/1010 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.River Fly
+3.Horse Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.River Fly
+3.Horse Fly
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Horse Fly - HP:2637/2857 Shields:1
+2: River Fly - HP:626/1010 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa usa Tradewinds
+Horse Fly recibe 2650 de daño de tipo Wind con debilidad
+Horse Fly entra en Breaking Point
+Horse Fly termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4239/4891 SP:336/357 BP:0
+Equipo del enemigo
+A-Horse Fly - HP:0/2857 Shields:0
+B-River Fly - HP:626/1010 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.River Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.River Fly
+----------------------------------------
+River Fly usa Attack
+Tressa recibe 119 de daño físico
+Tressa termina con HP:4120
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4120/4891 SP:336/357 BP:0
+Equipo del enemigo
+A-Horse Fly - HP:0/2857 Shields:0
+B-River Fly - HP:626/1010 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.River Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.River Fly
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: River Fly - HP:626/1010 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+River Fly recibe 259 de daño de tipo Spear con debilidad
+River Fly entra en Breaking Point
+River Fly termina con HP:367
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4120/4891 SP:336/357 BP:1
+Equipo del enemigo
+A-Horse Fly - HP:0/2857 Shields:0
+B-River Fly - HP:367/1010 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.River Fly
+2.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: River Fly - HP:367/1010 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa usa Tradewinds
+River Fly recibe 1592 de daño de tipo Wind con debilidad
+River Fly termina con HP:0
+----------------------------------------
+Gana equipo del jugador

@@ -1,0 +1,652 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+INPUT: 14
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Alfyn - HP:5336/5336 SP:383/383 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Alfyn
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Alfyn
+3.Devourer of Dreams
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Devourer of Dreams - HP:7500/7500 Shields:10
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Devourer of Dreams recibe 0 de daño de tipo Dagger
+Devourer of Dreams termina con HP:7500
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Alfyn - HP:5336/5336 SP:383/383 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Alfyn
+3.Devourer of Dreams
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Devourer of Dreams - HP:7500/7500 Shields:10
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Devourer of Dreams recibe 94 de daño de tipo Axe
+Devourer of Dreams termina con HP:7406
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Alfyn - HP:5336/5336 SP:383/383 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:7406/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Alfyn
+3.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Primrose recibe 2001 de daño
+Alfyn recibe 2668 de daño
+Primrose termina con HP:2001
+Alfyn termina con HP:2668
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2001/4002 SP:504/504 BP:2
+B-Alfyn - HP:2668/5336 SP:383/383 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:7406/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Alfyn
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Alfyn
+3.Devourer of Dreams
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Devourer of Dreams - HP:7406/7500 Shields:10
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Devourer of Dreams recibe 0 de daño de tipo Dagger
+Devourer of Dreams termina con HP:7406
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2001/4002 SP:504/504 BP:2
+B-Alfyn - HP:2668/5336 SP:383/383 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:7406/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Alfyn
+3.Devourer of Dreams
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: First Aid
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Primrose - HP:2001/4002 SP:504/504 BP:2
+2: Alfyn - HP:2668/5336 SP:383/383 BP:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa First Aid
+Primrose recupera 357 de vida
+Primrose termina con HP:2358
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2358/4002 SP:504/504 BP:2
+B-Alfyn - HP:2668/5336 SP:379/383 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:7406/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Alfyn
+3.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Primrose recibe 1179 de daño
+Alfyn recibe 1334 de daño
+Primrose termina con HP:1179
+Alfyn termina con HP:1334
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1179/4002 SP:504/504 BP:3
+B-Alfyn - HP:1334/5336 SP:379/383 BP:3
+Equipo del enemigo
+A-Devourer of Dreams - HP:7406/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Alfyn
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Alfyn
+3.Devourer of Dreams
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Sealticge's Seduction
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Primrose - HP:1179/4002 SP:504/504 BP:3
+2: Alfyn - HP:1334/5336 SP:379/383 BP:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Primrose usa Sealticge's Seduction
+Alfyn modificará sus targets durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1179/4002 SP:474/504 BP:0
+B-Alfyn - HP:1334/5336 SP:379/383 BP:3
+Equipo del enemigo
+A-Devourer of Dreams - HP:7406/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Alfyn
+3.Devourer of Dreams
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: First Aid
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa First Aid
+Primrose recupera 357 de vida
+Alfyn recupera 357 de vida
+Primrose termina con HP:1536
+Alfyn termina con HP:1691
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1536/4002 SP:474/504 BP:0
+B-Alfyn - HP:1691/5336 SP:375/383 BP:3
+Equipo del enemigo
+A-Devourer of Dreams - HP:7406/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Alfyn
+3.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Primrose recibe 768 de daño
+Alfyn recibe 846 de daño
+Primrose termina con HP:768
+Alfyn termina con HP:845
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:768/4002 SP:474/504 BP:0
+B-Alfyn - HP:845/5336 SP:375/383 BP:4
+Equipo del enemigo
+A-Devourer of Dreams - HP:7406/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Alfyn
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Alfyn
+3.Devourer of Dreams
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Devourer of Dreams - HP:7406/7500 Shields:10
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Primrose ataca
+Devourer of Dreams recibe 0 de daño de tipo Dagger
+Devourer of Dreams termina con HP:7406
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:768/4002 SP:474/504 BP:0
+B-Alfyn - HP:845/5336 SP:375/383 BP:4
+Equipo del enemigo
+A-Devourer of Dreams - HP:7406/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Alfyn
+3.Devourer of Dreams
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: First Aid
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa First Aid
+Primrose recupera 357 de vida
+Alfyn recupera 357 de vida
+Primrose termina con HP:1125
+Alfyn termina con HP:1202
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1125/4002 SP:474/504 BP:0
+B-Alfyn - HP:1202/5336 SP:371/383 BP:4
+Equipo del enemigo
+A-Devourer of Dreams - HP:7406/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Alfyn
+3.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Primrose recibe 563 de daño
+Alfyn recibe 601 de daño
+Primrose termina con HP:562
+Alfyn termina con HP:601
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:562/4002 SP:474/504 BP:1
+B-Alfyn - HP:601/5336 SP:371/383 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:7406/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Alfyn
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Alfyn
+3.Devourer of Dreams
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Devourer of Dreams - HP:7406/7500 Shields:10
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Devourer of Dreams recibe 0 de daño de tipo Dagger
+Devourer of Dreams termina con HP:7406
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:562/4002 SP:474/504 BP:1
+B-Alfyn - HP:601/5336 SP:371/383 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:7406/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Alfyn
+3.Devourer of Dreams
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: First Aid
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa First Aid
+Primrose recupera 357 de vida
+Alfyn recupera 357 de vida
+Primrose termina con HP:919
+Alfyn termina con HP:958
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:919/4002 SP:474/504 BP:1
+B-Alfyn - HP:958/5336 SP:367/383 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:7406/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Alfyn
+3.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Primrose recibe 460 de daño
+Alfyn recibe 479 de daño
+Primrose termina con HP:459
+Alfyn termina con HP:479
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:459/4002 SP:474/504 BP:2
+B-Alfyn - HP:479/5336 SP:367/383 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:7406/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Alfyn
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Alfyn
+3.Devourer of Dreams
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Devourer of Dreams - HP:7406/7500 Shields:10
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Devourer of Dreams recibe 0 de daño de tipo Dagger
+Devourer of Dreams termina con HP:7406
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:459/4002 SP:474/504 BP:2
+B-Alfyn - HP:479/5336 SP:367/383 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:7406/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Alfyn
+3.Devourer of Dreams
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: First Aid
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Primrose - HP:459/4002 SP:474/504 BP:2
+2: Alfyn - HP:479/5336 SP:367/383 BP:5
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa First Aid
+Primrose recupera 357 de vida
+Primrose termina con HP:816
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:816/4002 SP:474/504 BP:2
+B-Alfyn - HP:479/5336 SP:363/383 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:7406/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Alfyn
+3.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Primrose recibe 408 de daño
+Alfyn recibe 240 de daño
+Primrose termina con HP:408
+Alfyn termina con HP:239
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:408/4002 SP:474/504 BP:3
+B-Alfyn - HP:239/5336 SP:363/383 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:7406/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Alfyn
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Alfyn
+3.Devourer of Dreams
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo

@@ -1,0 +1,559 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+INPUT: 1
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Snow Fox - HP:2600/2600 Shields:1
+B-Flying Fish - HP:649/649 Shields:4
+C-Cait - HP:500/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Snow Fox
+3.Flying Fish
+4.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Snow Fox
+3.Flying Fish
+4.Osvald
+----------------------------------------
+Cait usa Attack
+Osvald recibe 0 de daño físico
+Osvald termina con HP:3557
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Snow Fox - HP:2600/2600 Shields:1
+B-Flying Fish - HP:649/649 Shields:4
+C-Cait - HP:500/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Snow Fox
+2.Flying Fish
+3.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Snow Fox
+3.Flying Fish
+4.Osvald
+----------------------------------------
+Snow Fox usa Attack
+Osvald recibe 374 de daño físico
+Osvald termina con HP:3183
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:3183/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Snow Fox - HP:2600/2600 Shields:1
+B-Flying Fish - HP:649/649 Shields:4
+C-Cait - HP:500/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Flying Fish
+2.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Snow Fox
+3.Flying Fish
+4.Osvald
+----------------------------------------
+Flying Fish usa Attack
+Osvald recibe 253 de daño físico
+Osvald termina con HP:2930
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:2930/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Snow Fox - HP:2600/2600 Shields:1
+B-Flying Fish - HP:649/649 Shields:4
+C-Cait - HP:500/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Snow Fox
+3.Flying Fish
+4.Osvald
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Icewind
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Icewind
+Snow Fox recibe 260 de daño de tipo Ice
+Flying Fish recibe 312 de daño de tipo Ice
+Cait recibe 281 de daño de tipo Ice
+Snow Fox termina con HP:2340
+Flying Fish termina con HP:337
+Cait termina con HP:219
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:2930/3557 SP:533/541 BP:2
+Equipo del enemigo
+A-Snow Fox - HP:2340/2600 Shields:1
+B-Flying Fish - HP:337/649 Shields:4
+C-Cait - HP:219/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Snow Fox
+3.Flying Fish
+4.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Snow Fox
+3.Flying Fish
+4.Osvald
+----------------------------------------
+Cait usa Attack
+Osvald recibe 0 de daño físico
+Osvald termina con HP:2930
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:2930/3557 SP:533/541 BP:2
+Equipo del enemigo
+A-Snow Fox - HP:2340/2600 Shields:1
+B-Flying Fish - HP:337/649 Shields:4
+C-Cait - HP:219/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Snow Fox
+2.Flying Fish
+3.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Snow Fox
+3.Flying Fish
+4.Osvald
+----------------------------------------
+Snow Fox usa Attack
+Osvald recibe 374 de daño físico
+Osvald termina con HP:2556
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:2556/3557 SP:533/541 BP:2
+Equipo del enemigo
+A-Snow Fox - HP:2340/2600 Shields:1
+B-Flying Fish - HP:337/649 Shields:4
+C-Cait - HP:219/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Flying Fish
+2.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Snow Fox
+3.Flying Fish
+4.Osvald
+----------------------------------------
+Flying Fish usa Attack
+Osvald recibe 253 de daño físico
+Osvald termina con HP:2303
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:2303/3557 SP:533/541 BP:2
+Equipo del enemigo
+A-Snow Fox - HP:2340/2600 Shields:1
+B-Flying Fish - HP:337/649 Shields:4
+C-Cait - HP:219/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Snow Fox
+3.Flying Fish
+4.Osvald
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Icewind
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Icewind
+Snow Fox recibe 260 de daño de tipo Ice
+Flying Fish recibe 312 de daño de tipo Ice
+Cait recibe 281 de daño de tipo Ice
+Snow Fox termina con HP:2080
+Flying Fish termina con HP:25
+Cait termina con HP:0
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:2303/3557 SP:525/541 BP:3
+Equipo del enemigo
+A-Snow Fox - HP:2080/2600 Shields:1
+B-Flying Fish - HP:25/649 Shields:4
+C-Cait - HP:0/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Snow Fox
+2.Flying Fish
+3.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Flying Fish
+3.Osvald
+----------------------------------------
+Snow Fox usa Attack
+Osvald recibe 374 de daño físico
+Osvald termina con HP:1929
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:1929/3557 SP:525/541 BP:3
+Equipo del enemigo
+A-Snow Fox - HP:2080/2600 Shields:1
+B-Flying Fish - HP:25/649 Shields:4
+C-Cait - HP:0/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Flying Fish
+2.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Flying Fish
+3.Osvald
+----------------------------------------
+Flying Fish usa Attack
+Osvald recibe 253 de daño físico
+Osvald termina con HP:1676
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:1676/3557 SP:525/541 BP:3
+Equipo del enemigo
+A-Snow Fox - HP:2080/2600 Shields:1
+B-Flying Fish - HP:25/649 Shields:4
+C-Cait - HP:0/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Flying Fish
+3.Osvald
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Icewind
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Icewind
+Snow Fox recibe 260 de daño de tipo Ice
+Flying Fish recibe 312 de daño de tipo Ice
+Snow Fox termina con HP:1820
+Flying Fish termina con HP:0
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:1676/3557 SP:517/541 BP:4
+Equipo del enemigo
+A-Snow Fox - HP:1820/2600 Shields:1
+B-Flying Fish - HP:0/649 Shields:4
+C-Cait - HP:0/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Snow Fox
+2.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Osvald
+----------------------------------------
+Snow Fox usa Attack
+Osvald recibe 374 de daño físico
+Osvald termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:1302/3557 SP:517/541 BP:4
+Equipo del enemigo
+A-Snow Fox - HP:1820/2600 Shields:1
+B-Flying Fish - HP:0/649 Shields:4
+C-Cait - HP:0/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Osvald
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Icewind
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Icewind
+Snow Fox recibe 260 de daño de tipo Ice
+Snow Fox termina con HP:1560
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:1302/3557 SP:509/541 BP:5
+Equipo del enemigo
+A-Snow Fox - HP:1560/2600 Shields:1
+B-Flying Fish - HP:0/649 Shields:4
+C-Cait - HP:0/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Snow Fox
+2.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Osvald
+----------------------------------------
+Snow Fox usa Attack
+Osvald recibe 374 de daño físico
+Osvald termina con HP:928
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:928/3557 SP:509/541 BP:5
+Equipo del enemigo
+A-Snow Fox - HP:1560/2600 Shields:1
+B-Flying Fish - HP:0/649 Shields:4
+C-Cait - HP:0/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Osvald
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Icewind
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Icewind
+Snow Fox recibe 260 de daño de tipo Ice
+Snow Fox termina con HP:1300
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:928/3557 SP:501/541 BP:5
+Equipo del enemigo
+A-Snow Fox - HP:1300/2600 Shields:1
+B-Flying Fish - HP:0/649 Shields:4
+C-Cait - HP:0/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Snow Fox
+2.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Osvald
+----------------------------------------
+Snow Fox usa Attack
+Osvald recibe 374 de daño físico
+Osvald termina con HP:554
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:554/3557 SP:501/541 BP:5
+Equipo del enemigo
+A-Snow Fox - HP:1300/2600 Shields:1
+B-Flying Fish - HP:0/649 Shields:4
+C-Cait - HP:0/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Osvald
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Icewind
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Icewind
+Snow Fox recibe 260 de daño de tipo Ice
+Snow Fox termina con HP:1040
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:554/3557 SP:493/541 BP:5
+Equipo del enemigo
+A-Snow Fox - HP:1040/2600 Shields:1
+B-Flying Fish - HP:0/649 Shields:4
+C-Cait - HP:0/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Snow Fox
+2.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Osvald
+----------------------------------------
+Snow Fox usa Attack
+Osvald recibe 374 de daño físico
+Osvald termina con HP:180
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:180/3557 SP:493/541 BP:5
+Equipo del enemigo
+A-Snow Fox - HP:1040/2600 Shields:1
+B-Flying Fish - HP:0/649 Shields:4
+C-Cait - HP:0/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Osvald
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Icewind
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Icewind
+Snow Fox recibe 260 de daño de tipo Ice
+Snow Fox termina con HP:780
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:180/3557 SP:485/541 BP:5
+Equipo del enemigo
+A-Snow Fox - HP:780/2600 Shields:1
+B-Flying Fish - HP:0/649 Shields:4
+C-Cait - HP:0/500 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Snow Fox
+2.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Osvald
+----------------------------------------
+Snow Fox usa Attack
+Osvald recibe 374 de daño físico
+Osvald termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

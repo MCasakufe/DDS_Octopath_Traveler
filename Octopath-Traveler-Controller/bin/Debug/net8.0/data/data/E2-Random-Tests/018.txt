@@ -1,0 +1,5231 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 17
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4947/4947 SP:332/332 BP:1
+B-Osvald - HP:3557/3557 SP:591/591 BP:1
+C-Cyrus - HP:4057/4057 SP:582/582 BP:1
+Equipo del enemigo
+A-Lord of the Flies - HP:5590/5590 Shields:3
+B-Devil Deer - HP:2002/2002 Shields:5
+C-Wind Elemental - HP:2496/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Lord of the Flies - HP:5590/5590 Shields:3
+2: Devil Deer - HP:2002/2002 Shields:5
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné ataca
+Devil Deer recibe 61 de daño de tipo Sword
+Devil Deer termina con HP:1941
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4947/4947 SP:332/332 BP:1
+B-Osvald - HP:3557/3557 SP:591/591 BP:1
+C-Cyrus - HP:4057/4057 SP:582/582 BP:1
+Equipo del enemigo
+A-Lord of the Flies - HP:5590/5590 Shields:3
+B-Devil Deer - HP:1941/2002 Shields:5
+C-Wind Elemental - HP:2496/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Heal More
+Throné recupera 660 de vida
+Osvald recupera 660 de vida
+Cyrus recupera 660 de vida
+Throné termina con HP:4947
+Osvald termina con HP:3557
+Cyrus termina con HP:4057
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4947/4947 SP:332/332 BP:1
+B-Osvald - HP:3557/3557 SP:591/591 BP:1
+C-Cyrus - HP:4057/4057 SP:557/582 BP:1
+Equipo del enemigo
+A-Lord of the Flies - HP:5590/5590 Shields:3
+B-Devil Deer - HP:1941/2002 Shields:5
+C-Wind Elemental - HP:2496/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4947/4947 SP:332/332 BP:1
+B-Osvald - HP:3557/3557 SP:591/591 BP:1
+C-Cyrus - HP:4057/4057 SP:557/582 BP:1
+Equipo del enemigo
+A-Lord of the Flies - HP:5590/5590 Shields:3
+B-Devil Deer - HP:1941/2002 Shields:5
+C-Wind Elemental - HP:2496/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Devil Deer
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Throné
+3.Cyrus
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald se defiende
+Osvald recibe 134 de daño físico
+Osvald termina con HP:3423
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4947/4947 SP:332/332 BP:1
+B-Osvald - HP:3423/3557 SP:591/591 BP:1
+C-Cyrus - HP:4057/4057 SP:557/582 BP:1
+Equipo del enemigo
+A-Lord of the Flies - HP:5590/5590 Shields:3
+B-Devil Deer - HP:1941/2002 Shields:5
+C-Wind Elemental - HP:2496/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Throné
+3.Cyrus
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+Throné recibe 615 de daño físico
+Throné termina con HP:4332
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4332/4947 SP:332/332 BP:1
+B-Osvald - HP:3423/3557 SP:591/591 BP:1
+C-Cyrus - HP:4057/4057 SP:557/582 BP:1
+Equipo del enemigo
+A-Lord of the Flies - HP:5590/5590 Shields:3
+B-Devil Deer - HP:1941/2002 Shields:5
+C-Wind Elemental - HP:2496/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Throné
+3.Cyrus
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Throné recibe 199 de daño elemental
+Throné termina con HP:4133
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4133/4947 SP:332/332 BP:2
+B-Osvald - HP:3423/3557 SP:591/591 BP:2
+C-Cyrus - HP:4057/4057 SP:557/582 BP:2
+Equipo del enemigo
+A-Lord of the Flies - HP:5590/5590 Shields:3
+B-Devil Deer - HP:1941/2002 Shields:5
+C-Wind Elemental - HP:2496/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Throné
+3.Cyrus
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Lord of the Flies - HP:5590/5590 Shields:3
+2: Devil Deer - HP:1941/2002 Shields:5
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies termina con HP:5590
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4133/4947 SP:332/332 BP:2
+B-Osvald - HP:3423/3557 SP:591/591 BP:2
+C-Cyrus - HP:4057/4057 SP:557/582 BP:2
+Equipo del enemigo
+A-Lord of the Flies - HP:5590/5590 Shields:3
+B-Devil Deer - HP:1941/2002 Shields:5
+C-Wind Elemental - HP:2496/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Cyrus
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Fox Spirit
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné usa Fox Spirit
+Lord of the Flies recibe 271 de daño de tipo Stave
+Devil Deer recibe 450 de daño de tipo Stave con debilidad
+Wind Elemental recibe 314 de daño de tipo Stave
+Lord of the Flies termina con HP:5319
+Devil Deer termina con HP:1491
+Wind Elemental termina con HP:2182
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4133/4947 SP:297/332 BP:2
+B-Osvald - HP:3423/3557 SP:591/591 BP:2
+C-Cyrus - HP:4057/4057 SP:557/582 BP:2
+Equipo del enemigo
+A-Lord of the Flies - HP:5319/5590 Shields:3
+B-Devil Deer - HP:1491/2002 Shields:4
+C-Wind Elemental - HP:2182/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Heal More
+Throné recupera 660 de vida
+Osvald recupera 660 de vida
+Cyrus recupera 660 de vida
+Throné termina con HP:4793
+Osvald termina con HP:3557
+Cyrus termina con HP:4057
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4793/4947 SP:297/332 BP:2
+B-Osvald - HP:3557/3557 SP:591/591 BP:2
+C-Cyrus - HP:4057/4057 SP:532/582 BP:2
+Equipo del enemigo
+A-Lord of the Flies - HP:5319/5590 Shields:3
+B-Devil Deer - HP:1491/2002 Shields:4
+C-Wind Elemental - HP:2182/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Devil Deer
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald recibe 269 de daño físico
+Osvald termina con HP:3288
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4793/4947 SP:297/332 BP:2
+B-Osvald - HP:3288/3557 SP:591/591 BP:2
+C-Cyrus - HP:4057/4057 SP:532/582 BP:2
+Equipo del enemigo
+A-Lord of the Flies - HP:5319/5590 Shields:3
+B-Devil Deer - HP:1491/2002 Shields:4
+C-Wind Elemental - HP:2182/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+Throné recibe 615 de daño físico
+Throné termina con HP:4178
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4178/4947 SP:297/332 BP:2
+B-Osvald - HP:3288/3557 SP:591/591 BP:2
+C-Cyrus - HP:4057/4057 SP:532/582 BP:2
+Equipo del enemigo
+A-Lord of the Flies - HP:5319/5590 Shields:3
+B-Devil Deer - HP:1491/2002 Shields:4
+C-Wind Elemental - HP:2182/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Throné recibe 199 de daño elemental
+Throné termina con HP:3979
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:3979/4947 SP:297/332 BP:3
+B-Osvald - HP:3288/3557 SP:591/591 BP:3
+C-Cyrus - HP:4057/4057 SP:532/582 BP:3
+Equipo del enemigo
+A-Lord of the Flies - HP:5319/5590 Shields:3
+B-Devil Deer - HP:1491/2002 Shields:4
+C-Wind Elemental - HP:2182/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Fox Spirit
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné usa Fox Spirit
+Lord of the Flies recibe 271 de daño de tipo Stave
+Devil Deer recibe 450 de daño de tipo Stave con debilidad
+Wind Elemental recibe 314 de daño de tipo Stave
+Lord of the Flies termina con HP:5048
+Devil Deer termina con HP:1041
+Wind Elemental termina con HP:1868
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:3979/4947 SP:262/332 BP:3
+B-Osvald - HP:3288/3557 SP:591/591 BP:3
+C-Cyrus - HP:4057/4057 SP:532/582 BP:3
+Equipo del enemigo
+A-Lord of the Flies - HP:5048/5590 Shields:3
+B-Devil Deer - HP:1041/2002 Shields:3
+C-Wind Elemental - HP:1868/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Lord of the Flies - HP:5048/5590 Shields:3
+2: Devil Deer - HP:1041/2002 Shields:3
+3: Wind Elemental - HP:1868/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Devil Deer recibe 0 de daño de tipo Stave con debilidad
+Devil Deer termina con HP:1041
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:3979/4947 SP:262/332 BP:3
+B-Osvald - HP:3288/3557 SP:591/591 BP:3
+C-Cyrus - HP:4057/4057 SP:532/582 BP:3
+Equipo del enemigo
+A-Lord of the Flies - HP:5048/5590 Shields:3
+B-Devil Deer - HP:1041/2002 Shields:3
+C-Wind Elemental - HP:1868/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Last Stand
+2: Mercy Strike
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Last Stand
+Lord of the Flies recibe 0 de daño de tipo Axe
+Devil Deer recibe 0 de daño de tipo Axe con debilidad
+Wind Elemental recibe 0 de daño de tipo Axe
+Lord of the Flies termina con HP:5048
+Devil Deer termina con HP:1041
+Wind Elemental termina con HP:1868
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:3979/4947 SP:262/332 BP:3
+B-Osvald - HP:3288/3557 SP:575/591 BP:3
+C-Cyrus - HP:4057/4057 SP:532/582 BP:3
+Equipo del enemigo
+A-Lord of the Flies - HP:5048/5590 Shields:3
+B-Devil Deer - HP:1041/2002 Shields:3
+C-Wind Elemental - HP:1868/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Devil Deer
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald recibe 269 de daño físico
+Osvald termina con HP:3019
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:3979/4947 SP:262/332 BP:3
+B-Osvald - HP:3019/3557 SP:575/591 BP:3
+C-Cyrus - HP:4057/4057 SP:532/582 BP:3
+Equipo del enemigo
+A-Lord of the Flies - HP:5048/5590 Shields:3
+B-Devil Deer - HP:1041/2002 Shields:3
+C-Wind Elemental - HP:1868/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+Throné recibe 615 de daño físico
+Throné termina con HP:3364
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:3364/4947 SP:262/332 BP:3
+B-Osvald - HP:3019/3557 SP:575/591 BP:3
+C-Cyrus - HP:4057/4057 SP:532/582 BP:3
+Equipo del enemigo
+A-Lord of the Flies - HP:5048/5590 Shields:3
+B-Devil Deer - HP:1041/2002 Shields:3
+C-Wind Elemental - HP:1868/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Throné recibe 199 de daño elemental
+Throné termina con HP:3165
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:3165/4947 SP:262/332 BP:4
+B-Osvald - HP:3019/3557 SP:575/591 BP:4
+C-Cyrus - HP:4057/4057 SP:532/582 BP:4
+Equipo del enemigo
+A-Lord of the Flies - HP:5048/5590 Shields:3
+B-Devil Deer - HP:1041/2002 Shields:3
+C-Wind Elemental - HP:1868/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Lord of the Flies - HP:5048/5590 Shields:3
+2: Devil Deer - HP:1041/2002 Shields:3
+3: Wind Elemental - HP:1868/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné ataca
+Devil Deer recibe 61 de daño de tipo Dagger
+Devil Deer termina con HP:980
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:3165/4947 SP:262/332 BP:4
+B-Osvald - HP:3019/3557 SP:575/591 BP:4
+C-Cyrus - HP:4057/4057 SP:532/582 BP:4
+Equipo del enemigo
+A-Lord of the Flies - HP:5048/5590 Shields:3
+B-Devil Deer - HP:980/2002 Shields:3
+C-Wind Elemental - HP:1868/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Heal More
+Throné recupera 660 de vida
+Osvald recupera 660 de vida
+Cyrus recupera 660 de vida
+Throné termina con HP:3825
+Osvald termina con HP:3557
+Cyrus termina con HP:4057
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:3825/4947 SP:262/332 BP:4
+B-Osvald - HP:3557/3557 SP:575/591 BP:4
+C-Cyrus - HP:4057/4057 SP:507/582 BP:4
+Equipo del enemigo
+A-Lord of the Flies - HP:5048/5590 Shields:3
+B-Devil Deer - HP:980/2002 Shields:3
+C-Wind Elemental - HP:1868/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Lord of the Flies - HP:5048/5590 Shields:3
+2: Devil Deer - HP:980/2002 Shields:3
+3: Wind Elemental - HP:1868/2496 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Wind Elemental recibe 0 de daño de tipo Stave
+Wind Elemental termina con HP:1868
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:3825/4947 SP:262/332 BP:4
+B-Osvald - HP:3557/3557 SP:575/591 BP:4
+C-Cyrus - HP:4057/4057 SP:507/582 BP:4
+Equipo del enemigo
+A-Lord of the Flies - HP:5048/5590 Shields:3
+B-Devil Deer - HP:980/2002 Shields:3
+C-Wind Elemental - HP:1868/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Devil Deer
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald recibe 269 de daño físico
+Osvald termina con HP:3288
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:3825/4947 SP:262/332 BP:4
+B-Osvald - HP:3288/3557 SP:575/591 BP:4
+C-Cyrus - HP:4057/4057 SP:507/582 BP:4
+Equipo del enemigo
+A-Lord of the Flies - HP:5048/5590 Shields:3
+B-Devil Deer - HP:980/2002 Shields:3
+C-Wind Elemental - HP:1868/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+Throné recibe 615 de daño físico
+Throné termina con HP:3210
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:3210/4947 SP:262/332 BP:4
+B-Osvald - HP:3288/3557 SP:575/591 BP:4
+C-Cyrus - HP:4057/4057 SP:507/582 BP:4
+Equipo del enemigo
+A-Lord of the Flies - HP:5048/5590 Shields:3
+B-Devil Deer - HP:980/2002 Shields:3
+C-Wind Elemental - HP:1868/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Throné recibe 199 de daño elemental
+Throné termina con HP:3011
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:3011/4947 SP:262/332 BP:5
+B-Osvald - HP:3288/3557 SP:575/591 BP:5
+C-Cyrus - HP:4057/4057 SP:507/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5048/5590 Shields:3
+B-Devil Deer - HP:980/2002 Shields:3
+C-Wind Elemental - HP:1868/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Lord of the Flies - HP:5048/5590 Shields:3
+2: Devil Deer - HP:980/2002 Shields:3
+3: Wind Elemental - HP:1868/2496 Shields:4
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné ataca
+Lord of the Flies recibe 32 de daño de tipo Dagger
+Lord of the Flies termina con HP:5016
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:3011/4947 SP:262/332 BP:5
+B-Osvald - HP:3288/3557 SP:575/591 BP:5
+C-Cyrus - HP:4057/4057 SP:507/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5016/5590 Shields:3
+B-Devil Deer - HP:980/2002 Shields:3
+C-Wind Elemental - HP:1868/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Lord of the Flies - HP:5016/5590 Shields:3
+2: Devil Deer - HP:980/2002 Shields:3
+3: Wind Elemental - HP:1868/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Devil Deer recibe 0 de daño de tipo Stave con debilidad
+Devil Deer termina con HP:980
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:3011/4947 SP:262/332 BP:5
+B-Osvald - HP:3288/3557 SP:575/591 BP:5
+C-Cyrus - HP:4057/4057 SP:507/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5016/5590 Shields:3
+B-Devil Deer - HP:980/2002 Shields:3
+C-Wind Elemental - HP:1868/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Last Stand
+2: Mercy Strike
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Last Stand
+Lord of the Flies recibe 0 de daño de tipo Axe
+Devil Deer recibe 0 de daño de tipo Axe con debilidad
+Wind Elemental recibe 0 de daño de tipo Axe
+Lord of the Flies termina con HP:5016
+Devil Deer termina con HP:980
+Wind Elemental termina con HP:1868
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:3011/4947 SP:262/332 BP:5
+B-Osvald - HP:3288/3557 SP:559/591 BP:5
+C-Cyrus - HP:4057/4057 SP:507/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5016/5590 Shields:3
+B-Devil Deer - HP:980/2002 Shields:3
+C-Wind Elemental - HP:1868/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Devil Deer
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald recibe 269 de daño físico
+Osvald termina con HP:3019
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:3011/4947 SP:262/332 BP:5
+B-Osvald - HP:3019/3557 SP:559/591 BP:5
+C-Cyrus - HP:4057/4057 SP:507/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5016/5590 Shields:3
+B-Devil Deer - HP:980/2002 Shields:3
+C-Wind Elemental - HP:1868/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+Throné recibe 615 de daño físico
+Throné termina con HP:2396
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:2396/4947 SP:262/332 BP:5
+B-Osvald - HP:3019/3557 SP:559/591 BP:5
+C-Cyrus - HP:4057/4057 SP:507/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5016/5590 Shields:3
+B-Devil Deer - HP:980/2002 Shields:3
+C-Wind Elemental - HP:1868/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Throné recibe 199 de daño elemental
+Throné termina con HP:2197
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:2197/4947 SP:262/332 BP:5
+B-Osvald - HP:3019/3557 SP:559/591 BP:5
+C-Cyrus - HP:4057/4057 SP:507/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5016/5590 Shields:3
+B-Devil Deer - HP:980/2002 Shields:3
+C-Wind Elemental - HP:1868/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Lord of the Flies - HP:5016/5590 Shields:3
+2: Devil Deer - HP:980/2002 Shields:3
+3: Wind Elemental - HP:1868/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné ataca
+Devil Deer recibe 61 de daño de tipo Dagger
+Devil Deer termina con HP:919
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:2197/4947 SP:262/332 BP:5
+B-Osvald - HP:3019/3557 SP:559/591 BP:5
+C-Cyrus - HP:4057/4057 SP:507/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5016/5590 Shields:3
+B-Devil Deer - HP:919/2002 Shields:3
+C-Wind Elemental - HP:1868/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Heal More
+Throné recupera 660 de vida
+Osvald recupera 660 de vida
+Cyrus recupera 660 de vida
+Throné termina con HP:2857
+Osvald termina con HP:3557
+Cyrus termina con HP:4057
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:2857/4947 SP:262/332 BP:5
+B-Osvald - HP:3557/3557 SP:559/591 BP:5
+C-Cyrus - HP:4057/4057 SP:482/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5016/5590 Shields:3
+B-Devil Deer - HP:919/2002 Shields:3
+C-Wind Elemental - HP:1868/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:2857/4947 SP:262/332 BP:5
+B-Osvald - HP:3557/3557 SP:559/591 BP:5
+C-Cyrus - HP:4057/4057 SP:482/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5016/5590 Shields:3
+B-Devil Deer - HP:919/2002 Shields:3
+C-Wind Elemental - HP:1868/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Devil Deer
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Throné
+3.Cyrus
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald se defiende
+Osvald recibe 134 de daño físico
+Osvald termina con HP:3423
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:2857/4947 SP:262/332 BP:5
+B-Osvald - HP:3423/3557 SP:559/591 BP:5
+C-Cyrus - HP:4057/4057 SP:482/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5016/5590 Shields:3
+B-Devil Deer - HP:919/2002 Shields:3
+C-Wind Elemental - HP:1868/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Throné
+3.Cyrus
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+Throné recibe 615 de daño físico
+Throné termina con HP:2242
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:2242/4947 SP:262/332 BP:5
+B-Osvald - HP:3423/3557 SP:559/591 BP:5
+C-Cyrus - HP:4057/4057 SP:482/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5016/5590 Shields:3
+B-Devil Deer - HP:919/2002 Shields:3
+C-Wind Elemental - HP:1868/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Throné
+3.Cyrus
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Throné recibe 199 de daño elemental
+Throné termina con HP:2043
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:2043/4947 SP:262/332 BP:5
+B-Osvald - HP:3423/3557 SP:559/591 BP:5
+C-Cyrus - HP:4057/4057 SP:482/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5016/5590 Shields:3
+B-Devil Deer - HP:919/2002 Shields:3
+C-Wind Elemental - HP:1868/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Throné
+3.Cyrus
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Last Stand
+2: Mercy Strike
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Last Stand
+Lord of the Flies recibe 0 de daño de tipo Axe
+Devil Deer recibe 0 de daño de tipo Axe con debilidad
+Wind Elemental recibe 0 de daño de tipo Axe
+Lord of the Flies termina con HP:5016
+Devil Deer termina con HP:919
+Wind Elemental termina con HP:1868
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:2043/4947 SP:262/332 BP:5
+B-Osvald - HP:3423/3557 SP:543/591 BP:5
+C-Cyrus - HP:4057/4057 SP:482/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:5016/5590 Shields:3
+B-Devil Deer - HP:919/2002 Shields:3
+C-Wind Elemental - HP:1868/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Cyrus
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Fox Spirit
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné usa Fox Spirit
+Lord of the Flies recibe 271 de daño de tipo Stave
+Devil Deer recibe 450 de daño de tipo Stave con debilidad
+Wind Elemental recibe 314 de daño de tipo Stave
+Lord of the Flies termina con HP:4745
+Devil Deer termina con HP:469
+Wind Elemental termina con HP:1554
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:2043/4947 SP:227/332 BP:5
+B-Osvald - HP:3423/3557 SP:543/591 BP:5
+C-Cyrus - HP:4057/4057 SP:482/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:469/2002 Shields:2
+C-Wind Elemental - HP:1554/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Heal More
+Throné recupera 660 de vida
+Osvald recupera 660 de vida
+Cyrus recupera 660 de vida
+Throné termina con HP:2703
+Osvald termina con HP:3557
+Cyrus termina con HP:4057
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:2703/4947 SP:227/332 BP:5
+B-Osvald - HP:3557/3557 SP:543/591 BP:5
+C-Cyrus - HP:4057/4057 SP:457/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:469/2002 Shields:2
+C-Wind Elemental - HP:1554/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Devil Deer
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald recibe 269 de daño físico
+Osvald termina con HP:3288
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:2703/4947 SP:227/332 BP:5
+B-Osvald - HP:3288/3557 SP:543/591 BP:5
+C-Cyrus - HP:4057/4057 SP:457/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:469/2002 Shields:2
+C-Wind Elemental - HP:1554/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+Throné recibe 615 de daño físico
+Throné termina con HP:2088
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:2088/4947 SP:227/332 BP:5
+B-Osvald - HP:3288/3557 SP:543/591 BP:5
+C-Cyrus - HP:4057/4057 SP:457/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:469/2002 Shields:2
+C-Wind Elemental - HP:1554/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Throné recibe 199 de daño elemental
+Throné termina con HP:1889
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:1889/4947 SP:227/332 BP:5
+B-Osvald - HP:3288/3557 SP:543/591 BP:5
+C-Cyrus - HP:4057/4057 SP:457/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:469/2002 Shields:2
+C-Wind Elemental - HP:1554/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Lord of the Flies - HP:4745/5590 Shields:3
+2: Devil Deer - HP:469/2002 Shields:2
+3: Wind Elemental - HP:1554/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné ataca
+Devil Deer recibe 61 de daño de tipo Sword
+Devil Deer termina con HP:408
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:1889/4947 SP:227/332 BP:5
+B-Osvald - HP:3288/3557 SP:543/591 BP:5
+C-Cyrus - HP:4057/4057 SP:457/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:408/2002 Shields:2
+C-Wind Elemental - HP:1554/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Lord of the Flies - HP:4745/5590 Shields:3
+2: Devil Deer - HP:408/2002 Shields:2
+3: Wind Elemental - HP:1554/2496 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Wind Elemental recibe 0 de daño de tipo Stave
+Wind Elemental termina con HP:1554
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:1889/4947 SP:227/332 BP:5
+B-Osvald - HP:3288/3557 SP:543/591 BP:5
+C-Cyrus - HP:4057/4057 SP:457/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:408/2002 Shields:2
+C-Wind Elemental - HP:1554/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Lord of the Flies - HP:4745/5590 Shields:3
+2: Devil Deer - HP:408/2002 Shields:2
+3: Wind Elemental - HP:1554/2496 Shields:4
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies termina con HP:4745
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:1889/4947 SP:227/332 BP:5
+B-Osvald - HP:3288/3557 SP:543/591 BP:5
+C-Cyrus - HP:4057/4057 SP:457/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:408/2002 Shields:2
+C-Wind Elemental - HP:1554/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Devil Deer
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald recibe 269 de daño físico
+Osvald termina con HP:3019
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:1889/4947 SP:227/332 BP:5
+B-Osvald - HP:3019/3557 SP:543/591 BP:5
+C-Cyrus - HP:4057/4057 SP:457/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:408/2002 Shields:2
+C-Wind Elemental - HP:1554/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+Throné recibe 615 de daño físico
+Throné termina con HP:1274
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:1274/4947 SP:227/332 BP:5
+B-Osvald - HP:3019/3557 SP:543/591 BP:5
+C-Cyrus - HP:4057/4057 SP:457/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:408/2002 Shields:2
+C-Wind Elemental - HP:1554/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Throné recibe 199 de daño elemental
+Throné termina con HP:1075
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:1075/4947 SP:227/332 BP:5
+B-Osvald - HP:3019/3557 SP:543/591 BP:5
+C-Cyrus - HP:4057/4057 SP:457/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:408/2002 Shields:2
+C-Wind Elemental - HP:1554/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Lord of the Flies - HP:4745/5590 Shields:3
+2: Devil Deer - HP:408/2002 Shields:2
+3: Wind Elemental - HP:1554/2496 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné ataca
+Wind Elemental recibe 75 de daño de tipo Sword
+Wind Elemental termina con HP:1479
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:1075/4947 SP:227/332 BP:5
+B-Osvald - HP:3019/3557 SP:543/591 BP:5
+C-Cyrus - HP:4057/4057 SP:457/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:408/2002 Shields:2
+C-Wind Elemental - HP:1479/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Heal More
+Throné recupera 660 de vida
+Osvald recupera 660 de vida
+Cyrus recupera 660 de vida
+Throné termina con HP:1735
+Osvald termina con HP:3557
+Cyrus termina con HP:4057
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:1735/4947 SP:227/332 BP:5
+B-Osvald - HP:3557/3557 SP:543/591 BP:5
+C-Cyrus - HP:4057/4057 SP:432/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:408/2002 Shields:2
+C-Wind Elemental - HP:1479/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Last Stand
+2: Mercy Strike
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Last Stand
+Lord of the Flies recibe 0 de daño de tipo Axe
+Devil Deer recibe 0 de daño de tipo Axe con debilidad
+Wind Elemental recibe 0 de daño de tipo Axe
+Lord of the Flies termina con HP:4745
+Devil Deer termina con HP:408
+Wind Elemental termina con HP:1479
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:1735/4947 SP:227/332 BP:5
+B-Osvald - HP:3557/3557 SP:527/591 BP:5
+C-Cyrus - HP:4057/4057 SP:432/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:408/2002 Shields:2
+C-Wind Elemental - HP:1479/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Devil Deer
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald recibe 269 de daño físico
+Osvald termina con HP:3288
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:1735/4947 SP:227/332 BP:5
+B-Osvald - HP:3288/3557 SP:527/591 BP:5
+C-Cyrus - HP:4057/4057 SP:432/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:408/2002 Shields:2
+C-Wind Elemental - HP:1479/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+Throné recibe 615 de daño físico
+Throné termina con HP:1120
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:1120/4947 SP:227/332 BP:5
+B-Osvald - HP:3288/3557 SP:527/591 BP:5
+C-Cyrus - HP:4057/4057 SP:432/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:408/2002 Shields:2
+C-Wind Elemental - HP:1479/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Throné recibe 199 de daño elemental
+Throné termina con HP:921
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:921/4947 SP:227/332 BP:5
+B-Osvald - HP:3288/3557 SP:527/591 BP:5
+C-Cyrus - HP:4057/4057 SP:432/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:408/2002 Shields:2
+C-Wind Elemental - HP:1479/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Lord of the Flies - HP:4745/5590 Shields:3
+2: Devil Deer - HP:408/2002 Shields:2
+3: Wind Elemental - HP:1479/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné ataca
+Devil Deer recibe 61 de daño de tipo Dagger
+Devil Deer termina con HP:347
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:921/4947 SP:227/332 BP:5
+B-Osvald - HP:3288/3557 SP:527/591 BP:5
+C-Cyrus - HP:4057/4057 SP:432/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1479/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Lord of the Flies - HP:4745/5590 Shields:3
+2: Devil Deer - HP:347/2002 Shields:2
+3: Wind Elemental - HP:1479/2496 Shields:4
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies termina con HP:4745
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:921/4947 SP:227/332 BP:5
+B-Osvald - HP:3288/3557 SP:527/591 BP:5
+C-Cyrus - HP:4057/4057 SP:432/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1479/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Last Stand
+2: Mercy Strike
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Last Stand
+Lord of the Flies recibe 0 de daño de tipo Axe
+Devil Deer recibe 0 de daño de tipo Axe con debilidad
+Wind Elemental recibe 0 de daño de tipo Axe
+Lord of the Flies termina con HP:4745
+Devil Deer termina con HP:347
+Wind Elemental termina con HP:1479
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:921/4947 SP:227/332 BP:5
+B-Osvald - HP:3288/3557 SP:511/591 BP:5
+C-Cyrus - HP:4057/4057 SP:432/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1479/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Devil Deer
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald recibe 269 de daño físico
+Osvald termina con HP:3019
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:921/4947 SP:227/332 BP:5
+B-Osvald - HP:3019/3557 SP:511/591 BP:5
+C-Cyrus - HP:4057/4057 SP:432/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1479/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+Throné recibe 615 de daño físico
+Throné termina con HP:306
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:306/4947 SP:227/332 BP:5
+B-Osvald - HP:3019/3557 SP:511/591 BP:5
+C-Cyrus - HP:4057/4057 SP:432/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1479/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Throné recibe 199 de daño elemental
+Throné termina con HP:107
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:107/4947 SP:227/332 BP:5
+B-Osvald - HP:3019/3557 SP:511/591 BP:5
+C-Cyrus - HP:4057/4057 SP:432/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1479/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Lord of the Flies - HP:4745/5590 Shields:3
+2: Devil Deer - HP:347/2002 Shields:2
+3: Wind Elemental - HP:1479/2496 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné ataca
+Wind Elemental recibe 75 de daño de tipo Dagger
+Wind Elemental termina con HP:1404
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:107/4947 SP:227/332 BP:5
+B-Osvald - HP:3019/3557 SP:511/591 BP:5
+C-Cyrus - HP:4057/4057 SP:432/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Heal More
+Throné recupera 660 de vida
+Osvald recupera 660 de vida
+Cyrus recupera 660 de vida
+Throné termina con HP:767
+Osvald termina con HP:3557
+Cyrus termina con HP:4057
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:767/4947 SP:227/332 BP:5
+B-Osvald - HP:3557/3557 SP:511/591 BP:5
+C-Cyrus - HP:4057/4057 SP:407/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Osvald
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:767/4947 SP:227/332 BP:5
+B-Osvald - HP:3557/3557 SP:511/591 BP:5
+C-Cyrus - HP:4057/4057 SP:407/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Devil Deer
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Throné
+3.Cyrus
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald se defiende
+Osvald recibe 134 de daño físico
+Osvald termina con HP:3423
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:767/4947 SP:227/332 BP:5
+B-Osvald - HP:3423/3557 SP:511/591 BP:5
+C-Cyrus - HP:4057/4057 SP:407/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Throné
+3.Cyrus
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+Throné recibe 615 de daño físico
+Throné termina con HP:152
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:152/4947 SP:227/332 BP:5
+B-Osvald - HP:3423/3557 SP:511/591 BP:5
+C-Cyrus - HP:4057/4057 SP:407/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Throné
+3.Cyrus
+4.Lord of the Flies
+5.Devil Deer
+6.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Throné recibe 199 de daño elemental
+Throné termina con HP:0
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:3423/3557 SP:511/591 BP:5
+C-Cyrus - HP:4057/4057 SP:407/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Cyrus
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Lord of the Flies - HP:4745/5590 Shields:3
+2: Devil Deer - HP:347/2002 Shields:2
+3: Wind Elemental - HP:1404/2496 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Wind Elemental recibe 0 de daño de tipo Stave
+Wind Elemental termina con HP:1404
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:3423/3557 SP:511/591 BP:5
+C-Cyrus - HP:4057/4057 SP:407/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Lord of the Flies - HP:4745/5590 Shields:3
+2: Devil Deer - HP:347/2002 Shields:2
+3: Wind Elemental - HP:1404/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Devil Deer recibe 0 de daño de tipo Stave con debilidad
+Devil Deer termina con HP:347
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:3423/3557 SP:511/591 BP:5
+C-Cyrus - HP:4057/4057 SP:407/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Devil Deer
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald recibe 269 de daño físico
+Osvald termina con HP:3154
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:3154/3557 SP:511/591 BP:5
+C-Cyrus - HP:4057/4057 SP:407/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+Cyrus recibe 569 de daño físico
+Cyrus termina con HP:3488
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:3154/3557 SP:511/591 BP:5
+C-Cyrus - HP:3488/4057 SP:407/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Osvald recibe 97 de daño elemental
+Osvald termina con HP:3057
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:3057/3557 SP:511/591 BP:5
+C-Cyrus - HP:3488/4057 SP:407/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Lord of the Flies - HP:4745/5590 Shields:3
+2: Devil Deer - HP:347/2002 Shields:2
+3: Wind Elemental - HP:1404/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Devil Deer recibe 0 de daño de tipo Stave con debilidad
+Devil Deer termina con HP:347
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:3057/3557 SP:511/591 BP:5
+C-Cyrus - HP:3488/4057 SP:407/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Lord of the Flies - HP:4745/5590 Shields:3
+2: Devil Deer - HP:347/2002 Shields:2
+3: Wind Elemental - HP:1404/2496 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Wind Elemental recibe 0 de daño de tipo Stave
+Wind Elemental termina con HP:1404
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:3057/3557 SP:511/591 BP:5
+C-Cyrus - HP:3488/4057 SP:407/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Devil Deer
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald recibe 269 de daño físico
+Osvald termina con HP:2788
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2788/3557 SP:511/591 BP:5
+C-Cyrus - HP:3488/4057 SP:407/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+Cyrus recibe 569 de daño físico
+Cyrus termina con HP:2919
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2788/3557 SP:511/591 BP:5
+C-Cyrus - HP:2919/4057 SP:407/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Osvald recibe 97 de daño elemental
+Osvald termina con HP:2691
+----------------------------------------
+INICIA RONDA 14
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2691/3557 SP:511/591 BP:5
+C-Cyrus - HP:2919/4057 SP:407/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Heal More
+Osvald recupera 660 de vida
+Cyrus recupera 660 de vida
+Osvald termina con HP:3351
+Cyrus termina con HP:3579
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:3351/3557 SP:511/591 BP:5
+C-Cyrus - HP:3579/4057 SP:382/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:3351/3557 SP:511/591 BP:5
+C-Cyrus - HP:3579/4057 SP:382/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Devil Deer
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Cyrus
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald se defiende
+Osvald recibe 134 de daño físico
+Osvald termina con HP:3217
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:3217/3557 SP:511/591 BP:5
+C-Cyrus - HP:3579/4057 SP:382/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Cyrus
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+Cyrus recibe 569 de daño físico
+Cyrus termina con HP:3010
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:3217/3557 SP:511/591 BP:5
+C-Cyrus - HP:3010/4057 SP:382/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Cyrus
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Osvald se defiende
+Osvald recibe 48 de daño elemental
+Osvald termina con HP:3169
+----------------------------------------
+INICIA RONDA 15
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:3169/3557 SP:511/591 BP:5
+C-Cyrus - HP:3010/4057 SP:382/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Cyrus
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Lord of the Flies - HP:4745/5590 Shields:3
+2: Devil Deer - HP:347/2002 Shields:2
+3: Wind Elemental - HP:1404/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Devil Deer recibe 0 de daño de tipo Stave con debilidad
+Devil Deer termina con HP:347
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:3169/3557 SP:511/591 BP:5
+C-Cyrus - HP:3010/4057 SP:382/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Lord of the Flies - HP:4745/5590 Shields:3
+2: Devil Deer - HP:347/2002 Shields:2
+3: Wind Elemental - HP:1404/2496 Shields:4
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies termina con HP:4745
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:3169/3557 SP:511/591 BP:5
+C-Cyrus - HP:3010/4057 SP:382/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Devil Deer
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald recibe 269 de daño físico
+Osvald termina con HP:2900
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2900/3557 SP:511/591 BP:5
+C-Cyrus - HP:3010/4057 SP:382/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+Cyrus recibe 569 de daño físico
+Cyrus termina con HP:2441
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2900/3557 SP:511/591 BP:5
+C-Cyrus - HP:2441/4057 SP:382/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Osvald recibe 97 de daño elemental
+Osvald termina con HP:2803
+----------------------------------------
+INICIA RONDA 16
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2803/3557 SP:511/591 BP:5
+C-Cyrus - HP:2441/4057 SP:382/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2803/3557 SP:511/591 BP:5
+C-Cyrus - HP:2441/4057 SP:382/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Lord of the Flies - HP:4745/5590 Shields:3
+2: Devil Deer - HP:347/2002 Shields:2
+3: Wind Elemental - HP:1404/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Devil Deer recibe 0 de daño de tipo Stave con debilidad
+Devil Deer termina con HP:347
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2803/3557 SP:511/591 BP:5
+C-Cyrus - HP:2441/4057 SP:382/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Devil Deer
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald recibe 269 de daño físico
+Osvald termina con HP:2534
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2534/3557 SP:511/591 BP:5
+C-Cyrus - HP:2441/4057 SP:382/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+Cyrus se defiende
+Cyrus recibe 284 de daño físico
+Cyrus termina con HP:2157
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2534/3557 SP:511/591 BP:5
+C-Cyrus - HP:2157/4057 SP:382/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Osvald recibe 97 de daño elemental
+Osvald termina con HP:2437
+----------------------------------------
+INICIA RONDA 17
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2437/3557 SP:511/591 BP:5
+C-Cyrus - HP:2157/4057 SP:382/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Lord of the Flies - HP:4745/5590 Shields:3
+2: Devil Deer - HP:347/2002 Shields:2
+3: Wind Elemental - HP:1404/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Devil Deer recibe 0 de daño de tipo Stave con debilidad
+Devil Deer termina con HP:347
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2437/3557 SP:511/591 BP:5
+C-Cyrus - HP:2157/4057 SP:382/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2437/3557 SP:511/591 BP:5
+C-Cyrus - HP:2157/4057 SP:382/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Devil Deer
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Cyrus
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald se defiende
+Osvald recibe 134 de daño físico
+Osvald termina con HP:2303
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2303/3557 SP:511/591 BP:5
+C-Cyrus - HP:2157/4057 SP:382/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Cyrus
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+Cyrus recibe 569 de daño físico
+Cyrus termina con HP:1588
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2303/3557 SP:511/591 BP:5
+C-Cyrus - HP:1588/4057 SP:382/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Cyrus
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Osvald se defiende
+Osvald recibe 48 de daño elemental
+Osvald termina con HP:2255
+----------------------------------------
+INICIA RONDA 18
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2255/3557 SP:511/591 BP:5
+C-Cyrus - HP:1588/4057 SP:382/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Cyrus
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Lord of the Flies - HP:4745/5590 Shields:3
+2: Devil Deer - HP:347/2002 Shields:2
+3: Wind Elemental - HP:1404/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Devil Deer recibe 0 de daño de tipo Stave con debilidad
+Devil Deer termina con HP:347
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2255/3557 SP:511/591 BP:5
+C-Cyrus - HP:1588/4057 SP:382/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Heal More
+Osvald recupera 660 de vida
+Cyrus recupera 660 de vida
+Osvald termina con HP:2915
+Cyrus termina con HP:2248
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2915/3557 SP:511/591 BP:5
+C-Cyrus - HP:2248/4057 SP:357/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Devil Deer
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald recibe 269 de daño físico
+Osvald termina con HP:2646
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2646/3557 SP:511/591 BP:5
+C-Cyrus - HP:2248/4057 SP:357/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+Cyrus recibe 569 de daño físico
+Cyrus termina con HP:1679
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2646/3557 SP:511/591 BP:5
+C-Cyrus - HP:1679/4057 SP:357/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Osvald recibe 97 de daño elemental
+Osvald termina con HP:2549
+----------------------------------------
+INICIA RONDA 19
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2549/3557 SP:511/591 BP:5
+C-Cyrus - HP:1679/4057 SP:357/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2549/3557 SP:511/591 BP:5
+C-Cyrus - HP:1679/4057 SP:357/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2549/3557 SP:511/591 BP:5
+C-Cyrus - HP:1679/4057 SP:357/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Devil Deer
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald se defiende
+Osvald recibe 134 de daño físico
+Osvald termina con HP:2415
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2415/3557 SP:511/591 BP:5
+C-Cyrus - HP:1679/4057 SP:357/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+Cyrus se defiende
+Cyrus recibe 284 de daño físico
+Cyrus termina con HP:1395
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2415/3557 SP:511/591 BP:5
+C-Cyrus - HP:1395/4057 SP:357/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Osvald se defiende
+Osvald recibe 48 de daño elemental
+Osvald termina con HP:2367
+----------------------------------------
+INICIA RONDA 20
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2367/3557 SP:511/591 BP:5
+C-Cyrus - HP:1395/4057 SP:357/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Heal More
+Osvald recupera 660 de vida
+Cyrus recupera 660 de vida
+Osvald termina con HP:3027
+Cyrus termina con HP:2055
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:3027/3557 SP:511/591 BP:5
+C-Cyrus - HP:2055/4057 SP:332/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Last Stand
+2: Mercy Strike
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Lord of the Flies - HP:4745/5590 Shields:3
+2: Devil Deer - HP:347/2002 Shields:2
+3: Wind Elemental - HP:1404/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Mercy Strike
+Devil Deer recibe 0 de daño de tipo Bow
+Devil Deer termina con HP:347
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:3027/3557 SP:507/591 BP:5
+C-Cyrus - HP:2055/4057 SP:332/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Devil Deer
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald recibe 269 de daño físico
+Osvald termina con HP:2758
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2758/3557 SP:507/591 BP:5
+C-Cyrus - HP:2055/4057 SP:332/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+Cyrus recibe 569 de daño físico
+Cyrus termina con HP:1486
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2758/3557 SP:507/591 BP:5
+C-Cyrus - HP:1486/4057 SP:332/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Osvald recibe 97 de daño elemental
+Osvald termina con HP:2661
+----------------------------------------
+INICIA RONDA 21
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2661/3557 SP:507/591 BP:5
+C-Cyrus - HP:1486/4057 SP:332/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2661/3557 SP:507/591 BP:5
+C-Cyrus - HP:1486/4057 SP:332/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Lord of the Flies - HP:4745/5590 Shields:3
+2: Devil Deer - HP:347/2002 Shields:2
+3: Wind Elemental - HP:1404/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Devil Deer recibe 0 de daño de tipo Stave con debilidad
+Devil Deer termina con HP:347
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2661/3557 SP:507/591 BP:5
+C-Cyrus - HP:1486/4057 SP:332/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Devil Deer
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald recibe 269 de daño físico
+Osvald termina con HP:2392
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2392/3557 SP:507/591 BP:5
+C-Cyrus - HP:1486/4057 SP:332/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+Cyrus se defiende
+Cyrus recibe 284 de daño físico
+Cyrus termina con HP:1202
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2392/3557 SP:507/591 BP:5
+C-Cyrus - HP:1202/4057 SP:332/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Osvald recibe 97 de daño elemental
+Osvald termina con HP:2295
+----------------------------------------
+INICIA RONDA 22
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2295/3557 SP:507/591 BP:5
+C-Cyrus - HP:1202/4057 SP:332/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Heal More
+Osvald recupera 660 de vida
+Cyrus recupera 660 de vida
+Osvald termina con HP:2955
+Cyrus termina con HP:1862
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2955/3557 SP:507/591 BP:5
+C-Cyrus - HP:1862/4057 SP:307/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2955/3557 SP:507/591 BP:5
+C-Cyrus - HP:1862/4057 SP:307/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Devil Deer
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Cyrus
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald se defiende
+Osvald recibe 134 de daño físico
+Osvald termina con HP:2821
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2821/3557 SP:507/591 BP:5
+C-Cyrus - HP:1862/4057 SP:307/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Cyrus
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+Cyrus recibe 569 de daño físico
+Cyrus termina con HP:1293
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2821/3557 SP:507/591 BP:5
+C-Cyrus - HP:1293/4057 SP:307/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Cyrus
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Osvald se defiende
+Osvald recibe 48 de daño elemental
+Osvald termina con HP:2773
+----------------------------------------
+INICIA RONDA 23
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2773/3557 SP:507/591 BP:5
+C-Cyrus - HP:1293/4057 SP:307/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Cyrus
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Lord of the Flies - HP:4745/5590 Shields:3
+2: Devil Deer - HP:347/2002 Shields:2
+3: Wind Elemental - HP:1404/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Devil Deer recibe 0 de daño de tipo Stave con debilidad
+Devil Deer termina con HP:347
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2773/3557 SP:507/591 BP:5
+C-Cyrus - HP:1293/4057 SP:307/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Lord of the Flies - HP:4745/5590 Shields:3
+2: Devil Deer - HP:347/2002 Shields:2
+3: Wind Elemental - HP:1404/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Devil Deer recibe 0 de daño de tipo Stave con debilidad
+Devil Deer termina con HP:347
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2773/3557 SP:507/591 BP:5
+C-Cyrus - HP:1293/4057 SP:307/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Devil Deer
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald recibe 269 de daño físico
+Osvald termina con HP:2504
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2504/3557 SP:507/591 BP:5
+C-Cyrus - HP:1293/4057 SP:307/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+Cyrus recibe 569 de daño físico
+Cyrus termina con HP:724
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2504/3557 SP:507/591 BP:5
+C-Cyrus - HP:724/4057 SP:307/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Osvald recibe 97 de daño elemental
+Osvald termina con HP:2407
+----------------------------------------
+INICIA RONDA 24
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2407/3557 SP:507/591 BP:5
+C-Cyrus - HP:724/4057 SP:307/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Heal More
+Osvald recupera 660 de vida
+Cyrus recupera 660 de vida
+Osvald termina con HP:3067
+Cyrus termina con HP:1384
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:3067/3557 SP:507/591 BP:5
+C-Cyrus - HP:1384/4057 SP:282/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Lord of the Flies - HP:4745/5590 Shields:3
+2: Devil Deer - HP:347/2002 Shields:2
+3: Wind Elemental - HP:1404/2496 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Wind Elemental recibe 0 de daño de tipo Stave
+Wind Elemental termina con HP:1404
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:3067/3557 SP:507/591 BP:5
+C-Cyrus - HP:1384/4057 SP:282/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Devil Deer
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald recibe 269 de daño físico
+Osvald termina con HP:2798
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2798/3557 SP:507/591 BP:5
+C-Cyrus - HP:1384/4057 SP:282/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+Cyrus recibe 569 de daño físico
+Cyrus termina con HP:815
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2798/3557 SP:507/591 BP:5
+C-Cyrus - HP:815/4057 SP:282/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Osvald recibe 97 de daño elemental
+Osvald termina con HP:2701
+----------------------------------------
+INICIA RONDA 25
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2701/3557 SP:507/591 BP:5
+C-Cyrus - HP:815/4057 SP:282/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2701/3557 SP:507/591 BP:5
+C-Cyrus - HP:815/4057 SP:282/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Last Stand
+2: Mercy Strike
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Last Stand
+Lord of the Flies recibe 0 de daño de tipo Axe
+Devil Deer recibe 0 de daño de tipo Axe con debilidad
+Wind Elemental recibe 0 de daño de tipo Axe
+Lord of the Flies termina con HP:4745
+Devil Deer termina con HP:347
+Wind Elemental termina con HP:1404
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2701/3557 SP:491/591 BP:5
+C-Cyrus - HP:815/4057 SP:282/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Devil Deer
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald recibe 269 de daño físico
+Osvald termina con HP:2432
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2432/3557 SP:491/591 BP:5
+C-Cyrus - HP:815/4057 SP:282/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+Cyrus se defiende
+Cyrus recibe 284 de daño físico
+Cyrus termina con HP:531
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2432/3557 SP:491/591 BP:5
+C-Cyrus - HP:531/4057 SP:282/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Osvald recibe 97 de daño elemental
+Osvald termina con HP:2335
+----------------------------------------
+INICIA RONDA 26
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2335/3557 SP:491/591 BP:5
+C-Cyrus - HP:531/4057 SP:282/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Lord of the Flies - HP:4745/5590 Shields:3
+2: Devil Deer - HP:347/2002 Shields:2
+3: Wind Elemental - HP:1404/2496 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Wind Elemental recibe 0 de daño de tipo Stave
+Wind Elemental termina con HP:1404
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2335/3557 SP:491/591 BP:5
+C-Cyrus - HP:531/4057 SP:282/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Last Stand
+2: Mercy Strike
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Lord of the Flies - HP:4745/5590 Shields:3
+2: Devil Deer - HP:347/2002 Shields:2
+3: Wind Elemental - HP:1404/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Mercy Strike
+Devil Deer recibe 0 de daño de tipo Bow
+Devil Deer termina con HP:347
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2335/3557 SP:487/591 BP:5
+C-Cyrus - HP:531/4057 SP:282/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Devil Deer
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald recibe 269 de daño físico
+Osvald termina con HP:2066
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2066/3557 SP:487/591 BP:5
+C-Cyrus - HP:531/4057 SP:282/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Osvald
+3.Lord of the Flies
+4.Devil Deer
+5.Wind Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+Cyrus recibe 569 de daño físico
+Cyrus termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:2066/3557 SP:487/591 BP:5
+C-Cyrus - HP:0/4057 SP:282/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Osvald recibe 97 de daño elemental
+Osvald termina con HP:1969
+----------------------------------------
+INICIA RONDA 27
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:1969/3557 SP:487/591 BP:5
+C-Cyrus - HP:0/4057 SP:282/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Last Stand
+2: Mercy Strike
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Lord of the Flies - HP:4745/5590 Shields:3
+2: Devil Deer - HP:347/2002 Shields:2
+3: Wind Elemental - HP:1404/2496 Shields:4
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Mercy Strike
+Lord of the Flies recibe 0 de daño de tipo Bow con debilidad
+Lord of the Flies termina con HP:4745
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:1969/3557 SP:483/591 BP:5
+C-Cyrus - HP:0/4057 SP:282/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Devil Deer
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald recibe 269 de daño físico
+Osvald termina con HP:1700
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:1700/3557 SP:483/591 BP:5
+C-Cyrus - HP:0/4057 SP:282/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+Osvald recibe 529 de daño físico
+Osvald termina con HP:1171
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:1171/3557 SP:483/591 BP:5
+C-Cyrus - HP:0/4057 SP:282/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Osvald recibe 97 de daño elemental
+Osvald termina con HP:1074
+----------------------------------------
+INICIA RONDA 28
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:1074/3557 SP:483/591 BP:5
+C-Cyrus - HP:0/4057 SP:282/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Last Stand
+2: Mercy Strike
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Lord of the Flies - HP:4745/5590 Shields:3
+2: Devil Deer - HP:347/2002 Shields:2
+3: Wind Elemental - HP:1404/2496 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Mercy Strike
+Wind Elemental recibe 0 de daño de tipo Bow
+Wind Elemental termina con HP:1404
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:1074/3557 SP:479/591 BP:5
+C-Cyrus - HP:0/4057 SP:282/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Devil Deer
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald recibe 269 de daño físico
+Osvald termina con HP:805
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:805/3557 SP:479/591 BP:5
+C-Cyrus - HP:0/4057 SP:282/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+Osvald recibe 529 de daño físico
+Osvald termina con HP:276
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:276/3557 SP:479/591 BP:5
+C-Cyrus - HP:0/4057 SP:282/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Osvald recibe 97 de daño elemental
+Osvald termina con HP:179
+----------------------------------------
+INICIA RONDA 29
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:179/3557 SP:479/591 BP:5
+C-Cyrus - HP:0/4057 SP:282/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:179/3557 SP:479/591 BP:5
+C-Cyrus - HP:0/4057 SP:282/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Devil Deer
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald se defiende
+Osvald recibe 134 de daño físico
+Osvald termina con HP:45
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:0/4947 SP:227/332 BP:5
+B-Osvald - HP:45/3557 SP:479/591 BP:5
+C-Cyrus - HP:0/4057 SP:282/582 BP:5
+Equipo del enemigo
+A-Lord of the Flies - HP:4745/5590 Shields:3
+B-Devil Deer - HP:347/2002 Shields:2
+C-Wind Elemental - HP:1404/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Lord of the Flies
+3.Devil Deer
+4.Wind Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+Osvald se defiende
+Osvald recibe 264 de daño físico
+Osvald termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

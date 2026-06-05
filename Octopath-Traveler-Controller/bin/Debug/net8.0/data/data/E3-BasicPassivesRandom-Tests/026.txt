@@ -1,0 +1,664 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+INPUT: 25
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-Lord of the Flies - HP:5590/5590 Shields:3
+C-Behemoth - HP:12690/12690 Shields:8
+D-Fire Wisp - HP:972/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Fire Wisp
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-Lord of the Flies - HP:5590/5590 Shields:3
+C-Behemoth - HP:12690/12690 Shields:8
+D-Fire Wisp - HP:972/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Frost Fox
+3.Lord of the Flies
+4.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Fire Wisp
+----------------------------------------
+Behemoth usa Stampede
+Agnea se defiende
+Agnea recibe 395 de daño físico
+Agnea termina con HP:3607
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3607/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-Lord of the Flies - HP:5590/5590 Shields:3
+C-Behemoth - HP:12690/12690 Shields:8
+D-Fire Wisp - HP:972/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Lord of the Flies
+3.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Fire Wisp
+----------------------------------------
+Frost Fox usa Ice blast
+Agnea se defiende
+Agnea recibe 100 de daño elemental
+Agnea termina con HP:3507
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3507/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-Lord of the Flies - HP:5590/5590 Shields:3
+C-Behemoth - HP:12690/12690 Shields:8
+D-Fire Wisp - HP:972/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Fire Wisp
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Agnea se defiende
+Agnea recibe 180 de daño físico
+Agnea termina con HP:3327
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3327/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-Lord of the Flies - HP:5590/5590 Shields:3
+C-Behemoth - HP:12690/12690 Shields:8
+D-Fire Wisp - HP:972/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Fire Wisp
+----------------------------------------
+Fire Wisp usa Meteor Storm
+Agnea se defiende
+Agnea recibe 30 de daño elemental
+Agnea termina con HP:3297
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3697/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-Lord of the Flies - HP:5590/5590 Shields:3
+C-Behemoth - HP:12690/12690 Shields:8
+D-Fire Wisp - HP:972/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Fire Wisp
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Frost Fox - HP:1302/1302 Shields:2
+2: Lord of the Flies - HP:5590/5590 Shields:3
+3: Behemoth - HP:12690/12690 Shields:8
+4: Fire Wisp - HP:972/972 Shields:1
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Behemoth recibe 136 de daño de tipo Dagger
+Behemoth termina con HP:12554
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:3697/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-Lord of the Flies - HP:5590/5590 Shields:3
+C-Behemoth - HP:12554/12690 Shields:8
+D-Fire Wisp - HP:972/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Frost Fox
+3.Lord of the Flies
+4.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Fire Wisp
+----------------------------------------
+Behemoth usa Stampede
+Agnea recibe 790 de daño físico
+Agnea termina con HP:2907
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2907/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-Lord of the Flies - HP:5590/5590 Shields:3
+C-Behemoth - HP:12554/12690 Shields:8
+D-Fire Wisp - HP:972/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Lord of the Flies
+3.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Fire Wisp
+----------------------------------------
+Frost Fox usa Ice blast
+Agnea recibe 201 de daño elemental
+Agnea termina con HP:2706
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2706/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-Lord of the Flies - HP:5590/5590 Shields:3
+C-Behemoth - HP:12554/12690 Shields:8
+D-Fire Wisp - HP:972/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Fire Wisp
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Agnea recibe 360 de daño físico
+Agnea termina con HP:2346
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2346/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-Lord of the Flies - HP:5590/5590 Shields:3
+C-Behemoth - HP:12554/12690 Shields:8
+D-Fire Wisp - HP:972/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Fire Wisp
+----------------------------------------
+Fire Wisp usa Meteor Storm
+Agnea recibe 61 de daño elemental
+Agnea termina con HP:2285
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2685/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-Lord of the Flies - HP:5590/5590 Shields:3
+C-Behemoth - HP:12554/12690 Shields:8
+D-Fire Wisp - HP:972/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Fire Wisp
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Lightning Bolt
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Lightning Bolt
+Frost Fox recibe 53 de daño de tipo Lightning con debilidad
+Lord of the Flies recibe 0 de daño de tipo Lightning
+Behemoth recibe 0 de daño de tipo Lightning
+Fire Wisp recibe 198 de daño de tipo Lightning
+Frost Fox termina con HP:1249
+Lord of the Flies termina con HP:5590
+Behemoth termina con HP:12554
+Fire Wisp termina con HP:774
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:2685/4002 SP:496/504 BP:3
+Equipo del enemigo
+A-Frost Fox - HP:1249/1302 Shields:1
+B-Lord of the Flies - HP:5590/5590 Shields:3
+C-Behemoth - HP:12554/12690 Shields:8
+D-Fire Wisp - HP:774/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Frost Fox
+3.Lord of the Flies
+4.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Fire Wisp
+----------------------------------------
+Behemoth usa Stampede
+Agnea recibe 790 de daño físico
+Agnea termina con HP:1895
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1895/4002 SP:496/504 BP:3
+Equipo del enemigo
+A-Frost Fox - HP:1249/1302 Shields:1
+B-Lord of the Flies - HP:5590/5590 Shields:3
+C-Behemoth - HP:12554/12690 Shields:8
+D-Fire Wisp - HP:774/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Lord of the Flies
+3.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Fire Wisp
+----------------------------------------
+Frost Fox usa Ice blast
+Agnea recibe 201 de daño elemental
+Agnea termina con HP:1694
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1694/4002 SP:496/504 BP:3
+Equipo del enemigo
+A-Frost Fox - HP:1249/1302 Shields:1
+B-Lord of the Flies - HP:5590/5590 Shields:3
+C-Behemoth - HP:12554/12690 Shields:8
+D-Fire Wisp - HP:774/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Fire Wisp
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Agnea recibe 360 de daño físico
+Agnea termina con HP:1334
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1334/4002 SP:496/504 BP:3
+Equipo del enemigo
+A-Frost Fox - HP:1249/1302 Shields:1
+B-Lord of the Flies - HP:5590/5590 Shields:3
+C-Behemoth - HP:12554/12690 Shields:8
+D-Fire Wisp - HP:774/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Fire Wisp
+----------------------------------------
+Fire Wisp usa Meteor Storm
+Agnea recibe 61 de daño elemental
+Agnea termina con HP:1273
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1673/4002 SP:496/504 BP:4
+Equipo del enemigo
+A-Frost Fox - HP:1249/1302 Shields:1
+B-Lord of the Flies - HP:5590/5590 Shields:3
+C-Behemoth - HP:12554/12690 Shields:8
+D-Fire Wisp - HP:774/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Behemoth
+3.Frost Fox
+4.Lord of the Flies
+5.Fire Wisp
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Lightning Bolt
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Lightning Bolt
+Frost Fox recibe 53 de daño de tipo Lightning con debilidad
+Frost Fox entra en Breaking Point
+Lord of the Flies recibe 0 de daño de tipo Lightning
+Behemoth recibe 0 de daño de tipo Lightning
+Fire Wisp recibe 198 de daño de tipo Lightning
+Frost Fox termina con HP:1196
+Lord of the Flies termina con HP:5590
+Behemoth termina con HP:12554
+Fire Wisp termina con HP:576
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:1673/4002 SP:488/504 BP:4
+Equipo del enemigo
+A-Frost Fox - HP:1196/1302 Shields:0
+B-Lord of the Flies - HP:5590/5590 Shields:3
+C-Behemoth - HP:12554/12690 Shields:8
+D-Fire Wisp - HP:576/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Lord of the Flies
+3.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Behemoth
+3.Lord of the Flies
+4.Fire Wisp
+----------------------------------------
+Behemoth usa Stampede
+Agnea recibe 790 de daño físico
+Agnea termina con HP:883
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:883/4002 SP:488/504 BP:4
+Equipo del enemigo
+A-Frost Fox - HP:1196/1302 Shields:0
+B-Lord of the Flies - HP:5590/5590 Shields:3
+C-Behemoth - HP:12554/12690 Shields:8
+D-Fire Wisp - HP:576/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Behemoth
+3.Lord of the Flies
+4.Fire Wisp
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Agnea recibe 360 de daño físico
+Agnea termina con HP:523
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:523/4002 SP:488/504 BP:4
+Equipo del enemigo
+A-Frost Fox - HP:1196/1302 Shields:0
+B-Lord of the Flies - HP:5590/5590 Shields:3
+C-Behemoth - HP:12554/12690 Shields:8
+D-Fire Wisp - HP:576/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Behemoth
+3.Lord of the Flies
+4.Fire Wisp
+----------------------------------------
+Fire Wisp usa Meteor Storm
+Agnea recibe 61 de daño elemental
+Agnea termina con HP:462
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:862/4002 SP:488/504 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1196/1302 Shields:0
+B-Lord of the Flies - HP:5590/5590 Shields:3
+C-Behemoth - HP:12554/12690 Shields:8
+D-Fire Wisp - HP:576/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Behemoth
+3.Lord of the Flies
+4.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Frost Fox
+2.Agnea
+3.Behemoth
+4.Lord of the Flies
+5.Fire Wisp
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Frost Fox - HP:1196/1302 Shields:0
+2: Lord of the Flies - HP:5590/5590 Shields:3
+3: Behemoth - HP:12554/12690 Shields:8
+4: Fire Wisp - HP:576/972 Shields:1
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Behemoth recibe 136 de daño de tipo Dagger
+Behemoth termina con HP:12418
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:862/4002 SP:488/504 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1196/1302 Shields:0
+B-Lord of the Flies - HP:5590/5590 Shields:3
+C-Behemoth - HP:12418/12690 Shields:8
+D-Fire Wisp - HP:576/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Lord of the Flies
+3.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Frost Fox
+2.Agnea
+3.Behemoth
+4.Lord of the Flies
+5.Fire Wisp
+----------------------------------------
+Behemoth usa Stampede
+Agnea recibe 790 de daño físico
+Agnea termina con HP:72
+----------------------------------------
+Equipo del jugador
+A-Agnea - HP:72/4002 SP:488/504 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:1196/1302 Shields:0
+B-Lord of the Flies - HP:5590/5590 Shields:3
+C-Behemoth - HP:12418/12690 Shields:8
+D-Fire Wisp - HP:576/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Fire Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Frost Fox
+2.Agnea
+3.Behemoth
+4.Lord of the Flies
+5.Fire Wisp
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Agnea recibe 360 de daño físico
+Agnea termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

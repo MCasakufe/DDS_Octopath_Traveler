@@ -1,0 +1,1909 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+INPUT: 14
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4447/4447 SP:369/369 BP:2
+B-Castti - HP:5336/5336 SP:426/426 BP:1
+C-Cyrus - HP:3557/3557 SP:582/582 BP:1
+D-Partitio - HP:4891/4891 SP:314/314 BP:1
+Equipo del enemigo
+A-Forest Ratkin I - HP:1348/1348 Shields:1
+B-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Castti
+3.Behemoth
+4.Cyrus
+5.Partitio
+6.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Castti
+3.Behemoth
+4.Cyrus
+5.Partitio
+6.Forest Ratkin I
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit usa Fireball
+Forest Ratkin I recibe 281 de daño de tipo Fire
+Behemoth recibe 40 de daño de tipo Fire
+Forest Ratkin I termina con HP:1067
+Behemoth termina con HP:12650
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4447/4447 SP:361/369 BP:2
+B-Castti - HP:5336/5336 SP:426/426 BP:1
+C-Cyrus - HP:3557/3557 SP:582/582 BP:1
+D-Partitio - HP:4891/4891 SP:314/314 BP:1
+Equipo del enemigo
+A-Forest Ratkin I - HP:1067/1348 Shields:1
+B-Behemoth - HP:12650/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+3.Cyrus
+4.Partitio
+5.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Castti
+3.Behemoth
+4.Cyrus
+5.Partitio
+6.Forest Ratkin I
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4447/4447 SP:361/369 BP:2
+B-Castti - HP:5336/5336 SP:426/426 BP:1
+C-Cyrus - HP:3557/3557 SP:582/582 BP:1
+D-Partitio - HP:4891/4891 SP:314/314 BP:1
+Equipo del enemigo
+A-Forest Ratkin I - HP:1067/1348 Shields:1
+B-Behemoth - HP:12650/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Cyrus
+3.Partitio
+4.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.H'aanit
+3.Behemoth
+4.Cyrus
+5.Partitio
+6.Forest Ratkin I
+----------------------------------------
+Behemoth usa Stampede
+H'aanit recibe 789 de daño físico
+Castti se defiende
+Castti recibe 284 de daño físico
+Cyrus recibe 739 de daño físico
+Partitio recibe 687 de daño físico
+H'aanit termina con HP:3658
+Castti termina con HP:5052
+Cyrus termina con HP:2818
+Partitio termina con HP:4204
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3658/4447 SP:361/369 BP:2
+B-Castti - HP:5052/5336 SP:426/426 BP:1
+C-Cyrus - HP:2818/3557 SP:582/582 BP:1
+D-Partitio - HP:4204/4891 SP:314/314 BP:1
+Equipo del enemigo
+A-Forest Ratkin I - HP:1067/1348 Shields:1
+B-Behemoth - HP:12650/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Partitio
+3.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.H'aanit
+3.Behemoth
+4.Cyrus
+5.Partitio
+6.Forest Ratkin I
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Spearhead
+2: Icewind
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Forest Ratkin I - HP:1067/1348 Shields:1
+2: Behemoth - HP:12650/12690 Shields:8
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Spearhead
+Forest Ratkin I recibe 471 de daño de tipo Spear
+Forest Ratkin I termina con HP:596
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3658/4447 SP:361/369 BP:2
+B-Castti - HP:5052/5336 SP:426/426 BP:1
+C-Cyrus - HP:2818/3557 SP:576/582 BP:1
+D-Partitio - HP:4204/4891 SP:314/314 BP:1
+Equipo del enemigo
+A-Forest Ratkin I - HP:596/1348 Shields:1
+B-Behemoth - HP:12650/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.H'aanit
+4.Behemoth
+5.Partitio
+6.Forest Ratkin I
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Icewind
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio usa Icewind
+Forest Ratkin I recibe 412 de daño de tipo Ice
+Behemoth recibe 256 de daño de tipo Ice con debilidad
+Forest Ratkin I termina con HP:184
+Behemoth termina con HP:12394
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3658/4447 SP:361/369 BP:2
+B-Castti - HP:5052/5336 SP:426/426 BP:1
+C-Cyrus - HP:2818/3557 SP:576/582 BP:1
+D-Partitio - HP:4204/4891 SP:306/314 BP:1
+Equipo del enemigo
+A-Forest Ratkin I - HP:184/1348 Shields:1
+B-Behemoth - HP:12394/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.H'aanit
+4.Behemoth
+5.Partitio
+6.Forest Ratkin I
+----------------------------------------
+Forest Ratkin I usa Stab
+H'aanit recibe 151 de daño físico
+H'aanit termina con HP:3507
+----------------------------------------
+Partitio obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3507/4447 SP:361/369 BP:2
+B-Castti - HP:5052/5336 SP:426/426 BP:1
+C-Cyrus - HP:2818/3557 SP:576/582 BP:1
+D-Partitio - HP:4204/4891 SP:306/314 BP:1
+Equipo del enemigo
+A-Forest Ratkin I - HP:184/1348 Shields:1
+B-Behemoth - HP:12394/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.H'aanit
+4.Behemoth
+5.Partitio
+6.Forest Ratkin I
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Icewind
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio usa Icewind
+Forest Ratkin I recibe 412 de daño de tipo Ice
+Behemoth recibe 256 de daño de tipo Ice con debilidad
+Forest Ratkin I termina con HP:0
+Behemoth termina con HP:12138
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3507/4447 SP:369/369 BP:3
+B-Castti - HP:5052/5336 SP:426/426 BP:2
+C-Cyrus - HP:3173/3557 SP:582/582 BP:2
+D-Partitio - HP:4204/4891 SP:298/314 BP:2
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:12138/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Cyrus
+3.H'aanit
+4.Behemoth
+5.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Castti
+3.Behemoth
+4.Cyrus
+5.Partitio
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:12138/12690 Shields:6
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Behemoth recibe 0 de daño de tipo Axe con debilidad
+Behemoth termina con HP:12138
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3507/4447 SP:369/369 BP:3
+B-Castti - HP:5052/5336 SP:426/426 BP:2
+C-Cyrus - HP:3173/3557 SP:582/582 BP:2
+D-Partitio - HP:4204/4891 SP:298/314 BP:2
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:12138/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.H'aanit
+3.Behemoth
+4.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Castti
+3.Behemoth
+4.Cyrus
+5.Partitio
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Behemoth - HP:12138/12690 Shields:6
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Behemoth recibe 140 de daño de tipo Stave
+Behemoth termina con HP:11998
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3507/4447 SP:369/369 BP:3
+B-Castti - HP:5052/5336 SP:426/426 BP:2
+C-Cyrus - HP:3173/3557 SP:582/582 BP:2
+D-Partitio - HP:4204/4891 SP:298/314 BP:2
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:11998/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Behemoth
+3.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Castti
+3.Behemoth
+4.Cyrus
+5.Partitio
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit usa Fireball
+Behemoth recibe 40 de daño de tipo Fire
+Behemoth termina con HP:11958
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3507/4447 SP:361/369 BP:3
+B-Castti - HP:5052/5336 SP:426/426 BP:2
+C-Cyrus - HP:3173/3557 SP:582/582 BP:2
+D-Partitio - HP:4204/4891 SP:298/314 BP:2
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:11958/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Castti
+3.Behemoth
+4.Cyrus
+5.Partitio
+----------------------------------------
+Behemoth usa Stampede
+H'aanit recibe 789 de daño físico
+Castti recibe 568 de daño físico
+Cyrus recibe 739 de daño físico
+Partitio recibe 687 de daño físico
+H'aanit termina con HP:2718
+Castti termina con HP:4484
+Cyrus termina con HP:2434
+Partitio termina con HP:3517
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:2718/4447 SP:361/369 BP:3
+B-Castti - HP:4484/5336 SP:426/426 BP:2
+C-Cyrus - HP:2434/3557 SP:582/582 BP:2
+D-Partitio - HP:3517/4891 SP:298/314 BP:2
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:11958/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Castti
+3.Behemoth
+4.Cyrus
+5.Partitio
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:2718/4447 SP:369/369 BP:4
+B-Castti - HP:4484/5336 SP:426/426 BP:3
+C-Cyrus - HP:2789/3557 SP:582/582 BP:3
+D-Partitio - HP:3517/4891 SP:298/314 BP:3
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:11958/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.H'aanit
+3.Castti
+4.Behemoth
+5.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Castti
+3.Behemoth
+4.Cyrus
+5.Partitio
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Behemoth - HP:11958/12690 Shields:6
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Behemoth recibe 0 de daño de tipo Bow con debilidad
+Behemoth termina con HP:11958
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:2718/4447 SP:369/369 BP:4
+B-Castti - HP:4484/5336 SP:426/426 BP:3
+C-Cyrus - HP:2789/3557 SP:582/582 BP:3
+D-Partitio - HP:3517/4891 SP:298/314 BP:3
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:11958/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Castti
+3.Behemoth
+4.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Castti
+3.Behemoth
+4.Cyrus
+5.Partitio
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit usa Fireball
+Behemoth recibe 40 de daño de tipo Fire
+Behemoth termina con HP:11918
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:2718/4447 SP:361/369 BP:4
+B-Castti - HP:4484/5336 SP:426/426 BP:3
+C-Cyrus - HP:2789/3557 SP:582/582 BP:3
+D-Partitio - HP:3517/4891 SP:298/314 BP:3
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:11918/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+3.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Castti
+3.Behemoth
+4.Cyrus
+5.Partitio
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:11918/12690 Shields:6
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Behemoth recibe 0 de daño de tipo Axe con debilidad
+Behemoth termina con HP:11918
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:2718/4447 SP:361/369 BP:4
+B-Castti - HP:4484/5336 SP:426/426 BP:3
+C-Cyrus - HP:2789/3557 SP:582/582 BP:3
+D-Partitio - HP:3517/4891 SP:298/314 BP:3
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:11918/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Castti
+3.Behemoth
+4.Cyrus
+5.Partitio
+----------------------------------------
+Behemoth usa Stampede
+H'aanit recibe 789 de daño físico
+Castti recibe 568 de daño físico
+Cyrus recibe 739 de daño físico
+Partitio recibe 687 de daño físico
+H'aanit termina con HP:1929
+Castti termina con HP:3916
+Cyrus termina con HP:2050
+Partitio termina con HP:2830
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:1929/4447 SP:361/369 BP:4
+B-Castti - HP:3916/5336 SP:426/426 BP:3
+C-Cyrus - HP:2050/3557 SP:582/582 BP:3
+D-Partitio - HP:2830/4891 SP:298/314 BP:3
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:11918/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Castti
+3.Behemoth
+4.Cyrus
+5.Partitio
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Partitio obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:1929/4447 SP:361/369 BP:4
+B-Castti - HP:3916/5336 SP:426/426 BP:3
+C-Cyrus - HP:2050/3557 SP:582/582 BP:3
+D-Partitio - HP:2830/4891 SP:298/314 BP:3
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:11918/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.H'aanit
+3.Castti
+4.Behemoth
+5.Partitio
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Behemoth - HP:11918/12690 Shields:6
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Behemoth recibe 0 de daño de tipo Bow con debilidad
+Behemoth termina con HP:11918
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:1929/4447 SP:369/369 BP:5
+B-Castti - HP:3916/5336 SP:426/426 BP:4
+C-Cyrus - HP:2405/3557 SP:582/582 BP:4
+D-Partitio - HP:2830/4891 SP:298/314 BP:4
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:11918/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.H'aanit
+3.Castti
+4.Behemoth
+5.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Castti
+3.Behemoth
+4.Cyrus
+5.Partitio
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:1929/4447 SP:369/369 BP:5
+B-Castti - HP:3916/5336 SP:426/426 BP:4
+C-Cyrus - HP:2405/3557 SP:582/582 BP:4
+D-Partitio - HP:2830/4891 SP:298/314 BP:4
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:11918/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Castti
+3.Behemoth
+4.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.H'aanit
+3.Castti
+4.Behemoth
+5.Partitio
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Behemoth - HP:11918/12690 Shields:6
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Behemoth recibe 81 de daño de tipo Axe con debilidad
+Behemoth termina con HP:11837
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:1929/4447 SP:369/369 BP:5
+B-Castti - HP:3916/5336 SP:426/426 BP:4
+C-Cyrus - HP:2405/3557 SP:582/582 BP:4
+D-Partitio - HP:2830/4891 SP:298/314 BP:4
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:11837/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+3.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.H'aanit
+3.Castti
+4.Behemoth
+5.Partitio
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Holy Light
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:11837/12690 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Holy Light
+Behemoth recibe 120 de daño de tipo Light
+Behemoth termina con HP:11717
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:1929/4447 SP:369/369 BP:5
+B-Castti - HP:3916/5336 SP:420/426 BP:4
+C-Cyrus - HP:2405/3557 SP:582/582 BP:4
+D-Partitio - HP:2830/4891 SP:298/314 BP:4
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:11717/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.H'aanit
+3.Castti
+4.Behemoth
+5.Partitio
+----------------------------------------
+Behemoth usa Stampede
+H'aanit recibe 789 de daño físico
+Castti recibe 568 de daño físico
+Cyrus se defiende
+Cyrus recibe 369 de daño físico
+Partitio recibe 687 de daño físico
+H'aanit termina con HP:1140
+Castti termina con HP:3348
+Cyrus termina con HP:2036
+Partitio termina con HP:2143
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:1140/4447 SP:369/369 BP:5
+B-Castti - HP:3348/5336 SP:420/426 BP:4
+C-Cyrus - HP:2036/3557 SP:582/582 BP:4
+D-Partitio - HP:2143/4891 SP:298/314 BP:4
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:11717/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.H'aanit
+3.Castti
+4.Behemoth
+5.Partitio
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Behemoth - HP:11717/12690 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Behemoth recibe 0 de daño de tipo Bow con debilidad
+Behemoth termina con HP:11717
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:1140/4447 SP:369/369 BP:5
+B-Castti - HP:3348/5336 SP:420/426 BP:5
+C-Cyrus - HP:2391/3557 SP:582/582 BP:5
+D-Partitio - HP:2143/4891 SP:298/314 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:11717/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.H'aanit
+3.Castti
+4.Behemoth
+5.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Castti
+3.Behemoth
+4.Cyrus
+5.Partitio
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Behemoth - HP:11717/12690 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Behemoth recibe 140 de daño de tipo Stave
+Behemoth termina con HP:11577
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:1140/4447 SP:369/369 BP:5
+B-Castti - HP:3348/5336 SP:420/426 BP:5
+C-Cyrus - HP:2391/3557 SP:582/582 BP:5
+D-Partitio - HP:2143/4891 SP:298/314 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:11577/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Castti
+3.Behemoth
+4.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Castti
+3.Behemoth
+4.Cyrus
+5.Partitio
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit usa Fireball
+Behemoth recibe 40 de daño de tipo Fire
+Behemoth termina con HP:11537
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:1140/4447 SP:361/369 BP:5
+B-Castti - HP:3348/5336 SP:420/426 BP:5
+C-Cyrus - HP:2391/3557 SP:582/582 BP:5
+D-Partitio - HP:2143/4891 SP:298/314 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:11537/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+3.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Castti
+3.Behemoth
+4.Cyrus
+5.Partitio
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:11537/12690 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Behemoth recibe 0 de daño de tipo Axe con debilidad
+Behemoth termina con HP:11537
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:1140/4447 SP:361/369 BP:5
+B-Castti - HP:3348/5336 SP:420/426 BP:5
+C-Cyrus - HP:2391/3557 SP:582/582 BP:5
+D-Partitio - HP:2143/4891 SP:298/314 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:11537/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Castti
+3.Behemoth
+4.Cyrus
+5.Partitio
+----------------------------------------
+Behemoth usa Stampede
+H'aanit recibe 789 de daño físico
+Castti recibe 568 de daño físico
+Cyrus recibe 739 de daño físico
+Partitio recibe 687 de daño físico
+H'aanit termina con HP:351
+Castti termina con HP:2780
+Cyrus termina con HP:1652
+Partitio termina con HP:1456
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:351/4447 SP:361/369 BP:5
+B-Castti - HP:2780/5336 SP:420/426 BP:5
+C-Cyrus - HP:1652/3557 SP:582/582 BP:5
+D-Partitio - HP:1456/4891 SP:298/314 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:11537/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Castti
+3.Behemoth
+4.Cyrus
+5.Partitio
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Icewind
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio usa Icewind
+Behemoth recibe 256 de daño de tipo Ice con debilidad
+Behemoth termina con HP:11281
+----------------------------------------
+Partitio obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:351/4447 SP:361/369 BP:5
+B-Castti - HP:2780/5336 SP:420/426 BP:5
+C-Cyrus - HP:1652/3557 SP:582/582 BP:5
+D-Partitio - HP:1456/4891 SP:290/314 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:11281/12690 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Castti
+3.Behemoth
+4.Cyrus
+5.Partitio
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Icewind
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio usa Icewind
+Behemoth recibe 256 de daño de tipo Ice con debilidad
+Behemoth termina con HP:11025
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:351/4447 SP:369/369 BP:5
+B-Castti - HP:2780/5336 SP:420/426 BP:5
+C-Cyrus - HP:2007/3557 SP:582/582 BP:5
+D-Partitio - HP:1456/4891 SP:282/314 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:11025/12690 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Castti
+3.Behemoth
+4.Cyrus
+5.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Castti
+3.Behemoth
+4.Cyrus
+5.Partitio
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:351/4447 SP:369/369 BP:5
+B-Castti - HP:2780/5336 SP:420/426 BP:5
+C-Cyrus - HP:2007/3557 SP:582/582 BP:5
+D-Partitio - HP:1456/4891 SP:282/314 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:11025/12690 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+3.Cyrus
+4.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Castti
+3.Behemoth
+4.Cyrus
+5.Partitio
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Holy Light
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:11025/12690 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Holy Light
+Behemoth recibe 120 de daño de tipo Light
+Behemoth termina con HP:10905
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:351/4447 SP:369/369 BP:5
+B-Castti - HP:2780/5336 SP:414/426 BP:5
+C-Cyrus - HP:2007/3557 SP:582/582 BP:5
+D-Partitio - HP:1456/4891 SP:282/314 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:10905/12690 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Cyrus
+3.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Castti
+3.Behemoth
+4.Cyrus
+5.Partitio
+----------------------------------------
+Behemoth usa Stampede
+H'aanit se defiende
+H'aanit recibe 394 de daño físico
+Castti recibe 568 de daño físico
+Cyrus recibe 739 de daño físico
+Partitio recibe 687 de daño físico
+H'aanit termina con HP:0
+Castti termina con HP:2212
+Cyrus termina con HP:1268
+Partitio termina con HP:769
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:369/369 BP:5
+B-Castti - HP:2212/5336 SP:414/426 BP:5
+C-Cyrus - HP:1268/3557 SP:582/582 BP:5
+D-Partitio - HP:769/4891 SP:282/314 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:10905/12690 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Cyrus
+4.Partitio
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Spearhead
+2: Icewind
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Behemoth - HP:10905/12690 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Spearhead
+Behemoth recibe 346 de daño de tipo Spear con debilidad
+Behemoth termina con HP:10559
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:369/369 BP:5
+B-Castti - HP:2212/5336 SP:414/426 BP:5
+C-Cyrus - HP:1268/3557 SP:576/582 BP:5
+D-Partitio - HP:769/4891 SP:282/314 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:10559/12690 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Castti
+3.Behemoth
+4.Partitio
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:369/369 BP:5
+B-Castti - HP:2212/5336 SP:414/426 BP:5
+C-Cyrus - HP:1623/3557 SP:582/582 BP:5
+D-Partitio - HP:769/4891 SP:282/314 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:10559/12690 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Cyrus
+3.Castti
+4.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Cyrus
+4.Partitio
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:369/369 BP:5
+B-Castti - HP:2212/5336 SP:414/426 BP:5
+C-Cyrus - HP:1623/3557 SP:582/582 BP:5
+D-Partitio - HP:769/4891 SP:282/314 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:10559/12690 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Castti
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Castti
+3.Behemoth
+4.Cyrus
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Spearhead
+2: Icewind
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Icewind
+Behemoth recibe 0 de daño de tipo Ice con debilidad
+Behemoth termina con HP:10559
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:369/369 BP:5
+B-Castti - HP:2212/5336 SP:414/426 BP:5
+C-Cyrus - HP:1623/3557 SP:574/582 BP:5
+D-Partitio - HP:769/4891 SP:282/314 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:10559/12690 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Castti
+3.Behemoth
+4.Cyrus
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Holy Light
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:10559/12690 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Holy Light
+Behemoth recibe 120 de daño de tipo Light
+Behemoth termina con HP:10439
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:369/369 BP:5
+B-Castti - HP:2212/5336 SP:408/426 BP:5
+C-Cyrus - HP:1623/3557 SP:574/582 BP:5
+D-Partitio - HP:769/4891 SP:282/314 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:10439/12690 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Castti
+3.Behemoth
+4.Cyrus
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 568 de daño físico
+Cyrus recibe 739 de daño físico
+Partitio se defiende
+Partitio recibe 343 de daño físico
+Castti termina con HP:1644
+Cyrus termina con HP:884
+Partitio termina con HP:426
+----------------------------------------
+Partitio obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:369/369 BP:5
+B-Castti - HP:1644/5336 SP:408/426 BP:5
+C-Cyrus - HP:884/3557 SP:574/582 BP:5
+D-Partitio - HP:426/4891 SP:282/314 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:10439/12690 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Castti
+3.Behemoth
+4.Cyrus
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:369/369 BP:5
+B-Castti - HP:1644/5336 SP:408/426 BP:5
+C-Cyrus - HP:1239/3557 SP:582/582 BP:5
+D-Partitio - HP:426/4891 SP:282/314 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:10439/12690 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Castti
+3.Behemoth
+4.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Cyrus
+4.Partitio
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:369/369 BP:5
+B-Castti - HP:1644/5336 SP:408/426 BP:5
+C-Cyrus - HP:1239/3557 SP:582/582 BP:5
+D-Partitio - HP:426/4891 SP:282/314 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:10439/12690 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+3.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Castti
+3.Behemoth
+4.Cyrus
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:369/369 BP:5
+B-Castti - HP:1644/5336 SP:408/426 BP:5
+C-Cyrus - HP:1239/3557 SP:582/582 BP:5
+D-Partitio - HP:426/4891 SP:282/314 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:10439/12690 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Partitio
+3.Behemoth
+4.Cyrus
+----------------------------------------
+Behemoth usa Stampede
+Castti se defiende
+Castti recibe 284 de daño físico
+Cyrus recibe 739 de daño físico
+Partitio se defiende
+Partitio recibe 343 de daño físico
+Castti termina con HP:1360
+Cyrus termina con HP:500
+Partitio termina con HP:83
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:369/369 BP:5
+B-Castti - HP:1360/5336 SP:408/426 BP:5
+C-Cyrus - HP:500/3557 SP:582/582 BP:5
+D-Partitio - HP:83/4891 SP:282/314 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:10439/12690 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Partitio
+3.Behemoth
+4.Cyrus
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:369/369 BP:5
+B-Castti - HP:1360/5336 SP:408/426 BP:5
+C-Cyrus - HP:855/3557 SP:582/582 BP:5
+D-Partitio - HP:83/4891 SP:282/314 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:10439/12690 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Cyrus
+3.Partitio
+4.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Cyrus
+4.Partitio
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:369/369 BP:5
+B-Castti - HP:1360/5336 SP:408/426 BP:5
+C-Cyrus - HP:855/3557 SP:582/582 BP:5
+D-Partitio - HP:83/4891 SP:282/314 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:10439/12690 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Partitio
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Cyrus
+4.Partitio
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Behemoth - HP:10439/12690 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Behemoth recibe 140 de daño de tipo Stave
+Behemoth termina con HP:10299
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:369/369 BP:5
+B-Castti - HP:1360/5336 SP:408/426 BP:5
+C-Cyrus - HP:855/3557 SP:582/582 BP:5
+D-Partitio - HP:83/4891 SP:282/314 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:10299/12690 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Cyrus
+4.Partitio
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Behemoth - HP:10299/12690 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Behemoth recibe 0 de daño de tipo Bow con debilidad
+Behemoth termina con HP:10299
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:369/369 BP:5
+B-Castti - HP:1360/5336 SP:408/426 BP:5
+C-Cyrus - HP:855/3557 SP:582/582 BP:5
+D-Partitio - HP:83/4891 SP:282/314 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:10299/12690 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Cyrus
+4.Partitio
+----------------------------------------
+Behemoth usa Stampede
+Castti se defiende
+Castti recibe 284 de daño físico
+Cyrus recibe 739 de daño físico
+Partitio recibe 687 de daño físico
+Castti termina con HP:1076
+Cyrus termina con HP:116
+Partitio termina con HP:0
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:369/369 BP:5
+B-Castti - HP:1076/5336 SP:408/426 BP:5
+C-Cyrus - HP:471/3557 SP:582/582 BP:5
+D-Partitio - HP:0/4891 SP:282/314 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:10299/12690 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+3.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Cyrus
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:10299/12690 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Behemoth recibe 0 de daño de tipo Axe con debilidad
+Behemoth termina con HP:10299
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:369/369 BP:5
+B-Castti - HP:1076/5336 SP:408/426 BP:5
+C-Cyrus - HP:471/3557 SP:582/582 BP:5
+D-Partitio - HP:0/4891 SP:282/314 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:10299/12690 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Cyrus
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 568 de daño físico
+Cyrus recibe 739 de daño físico
+Castti termina con HP:508
+Cyrus termina con HP:0
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:369/369 BP:5
+B-Castti - HP:508/5336 SP:408/426 BP:5
+C-Cyrus - HP:0/3557 SP:582/582 BP:5
+D-Partitio - HP:0/4891 SP:282/314 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:10299/12690 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Holy Light
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:10299/12690 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Holy Light
+Behemoth recibe 120 de daño de tipo Light
+Behemoth termina con HP:10179
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:369/369 BP:5
+B-Castti - HP:508/5336 SP:402/426 BP:5
+C-Cyrus - HP:0/3557 SP:582/582 BP:5
+D-Partitio - HP:0/4891 SP:282/314 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Behemoth - HP:10179/12690 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 568 de daño físico
+Castti termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

@@ -1,0 +1,760 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 22
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:407/407 BP:1
+B-Throné - HP:4947/4947 SP:382/382 BP:1
+C-Agnea - HP:4502/4502 SP:504/504 BP:1
+D-Olberic - HP:6281/6281 SP:341/341 BP:1
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Agnea
+3.Olberic
+4.Tressa
+5.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Olberic
+4.Tressa
+5.Hoary Bear
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Icewind
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné usa Icewind
+Hoary Bear recibe 223 de daño de tipo Ice
+Hoary Bear termina con HP:2465
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:407/407 BP:1
+B-Throné - HP:4947/4947 SP:374/382 BP:1
+C-Agnea - HP:4502/4502 SP:504/504 BP:1
+D-Olberic - HP:6281/6281 SP:341/341 BP:1
+Equipo del enemigo
+A-Hoary Bear - HP:2465/2688 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Olberic
+3.Tressa
+4.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Olberic
+4.Tressa
+5.Hoary Bear
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:407/407 BP:1
+B-Throné - HP:4947/4947 SP:374/382 BP:1
+C-Agnea - HP:4502/4502 SP:504/504 BP:1
+D-Olberic - HP:6281/6281 SP:341/341 BP:1
+Equipo del enemigo
+A-Hoary Bear - HP:2465/2688 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Tressa
+3.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Throné
+3.Olberic
+4.Tressa
+5.Hoary Bear
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Hoary Bear - HP:2465/2688 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Hoary Bear recibe 269 de daño de tipo Sword
+Hoary Bear termina con HP:2196
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:407/407 BP:1
+B-Throné - HP:4947/4947 SP:374/382 BP:1
+C-Agnea - HP:4502/4502 SP:504/504 BP:1
+D-Olberic - HP:6281/6281 SP:341/341 BP:1
+Equipo del enemigo
+A-Hoary Bear - HP:2196/2688 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Throné
+3.Olberic
+4.Tressa
+5.Hoary Bear
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Hoary Bear - HP:2196/2688 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Hoary Bear recibe 306 de daño de tipo Spear con debilidad
+Hoary Bear termina con HP:1890
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:407/407 BP:1
+B-Throné - HP:4947/4947 SP:374/382 BP:1
+C-Agnea - HP:4502/4502 SP:504/504 BP:1
+D-Olberic - HP:6281/6281 SP:341/341 BP:1
+Equipo del enemigo
+A-Hoary Bear - HP:1890/2688 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Throné
+3.Olberic
+4.Tressa
+5.Hoary Bear
+----------------------------------------
+Hoary Bear usa Rampage
+Tressa recibe 208 de daño físico
+Throné recibe 306 de daño físico
+Agnea se defiende
+Agnea recibe 155 de daño físico
+Olberic recibe 163 de daño físico
+Tressa termina con HP:5183
+Throné termina con HP:4641
+Agnea termina con HP:4347
+Olberic termina con HP:6118
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5183/5391 SP:407/407 BP:2
+B-Throné - HP:4641/4947 SP:374/382 BP:2
+C-Agnea - HP:4347/4502 SP:504/504 BP:2
+D-Olberic - HP:6118/6281 SP:341/341 BP:2
+Equipo del enemigo
+A-Hoary Bear - HP:1890/2688 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Throné
+3.Olberic
+4.Tressa
+5.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Olberic
+4.Tressa
+5.Hoary Bear
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Night Ode
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Night Ode
+Hoary Bear recibe 498 de daño de tipo Dark
+Hoary Bear termina con HP:1392
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5183/5391 SP:407/407 BP:2
+B-Throné - HP:4641/4947 SP:374/382 BP:2
+C-Agnea - HP:4347/4502 SP:494/504 BP:2
+D-Olberic - HP:6118/6281 SP:341/341 BP:2
+Equipo del enemigo
+A-Hoary Bear - HP:1392/2688 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Olberic
+3.Tressa
+4.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Olberic
+4.Tressa
+5.Hoary Bear
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Icewind
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné usa Icewind
+Hoary Bear recibe 223 de daño de tipo Ice
+Hoary Bear termina con HP:1169
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5183/5391 SP:407/407 BP:2
+B-Throné - HP:4641/4947 SP:366/382 BP:2
+C-Agnea - HP:4347/4502 SP:494/504 BP:2
+D-Olberic - HP:6118/6281 SP:341/341 BP:2
+Equipo del enemigo
+A-Hoary Bear - HP:1169/2688 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Tressa
+3.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Olberic
+4.Tressa
+5.Hoary Bear
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5183/5391 SP:407/407 BP:2
+B-Throné - HP:4641/4947 SP:366/382 BP:2
+C-Agnea - HP:4347/4502 SP:494/504 BP:2
+D-Olberic - HP:6118/6281 SP:341/341 BP:2
+Equipo del enemigo
+A-Hoary Bear - HP:1169/2688 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Throné
+3.Agnea
+4.Tressa
+5.Hoary Bear
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Hoary Bear - HP:1169/2688 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Hoary Bear recibe 306 de daño de tipo Spear con debilidad
+Hoary Bear termina con HP:863
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5183/5391 SP:407/407 BP:2
+B-Throné - HP:4641/4947 SP:366/382 BP:2
+C-Agnea - HP:4347/4502 SP:494/504 BP:2
+D-Olberic - HP:6118/6281 SP:341/341 BP:2
+Equipo del enemigo
+A-Hoary Bear - HP:863/2688 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Throné
+3.Agnea
+4.Tressa
+5.Hoary Bear
+----------------------------------------
+Hoary Bear usa Rampage
+Tressa recibe 208 de daño físico
+Throné recibe 306 de daño físico
+Agnea recibe 311 de daño físico
+Olberic se defiende
+Olberic recibe 81 de daño físico
+Tressa termina con HP:4975
+Throné termina con HP:4335
+Agnea termina con HP:4036
+Olberic termina con HP:6037
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4975/5391 SP:407/407 BP:3
+B-Throné - HP:4335/4947 SP:366/382 BP:3
+C-Agnea - HP:4036/4502 SP:494/504 BP:3
+D-Olberic - HP:6037/6281 SP:341/341 BP:3
+Equipo del enemigo
+A-Hoary Bear - HP:863/2688 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Throné
+3.Agnea
+4.Tressa
+5.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Olberic
+4.Tressa
+5.Hoary Bear
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Hoary Bear - HP:863/2688 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Hoary Bear recibe 269 de daño de tipo Sword
+Hoary Bear termina con HP:594
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4975/5391 SP:407/407 BP:3
+B-Throné - HP:4335/4947 SP:366/382 BP:3
+C-Agnea - HP:4036/4502 SP:494/504 BP:3
+D-Olberic - HP:6037/6281 SP:341/341 BP:3
+Equipo del enemigo
+A-Hoary Bear - HP:594/2688 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Agnea
+3.Tressa
+4.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Olberic
+4.Tressa
+5.Hoary Bear
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Hoary Bear - HP:594/2688 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné ataca
+Hoary Bear recibe 222 de daño de tipo Dagger
+Hoary Bear termina con HP:372
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4975/5391 SP:407/407 BP:3
+B-Throné - HP:4335/4947 SP:366/382 BP:3
+C-Agnea - HP:4036/4502 SP:494/504 BP:3
+D-Olberic - HP:6037/6281 SP:341/341 BP:3
+Equipo del enemigo
+A-Hoary Bear - HP:372/2688 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Tressa
+3.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Olberic
+4.Tressa
+5.Hoary Bear
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4975/5391 SP:407/407 BP:3
+B-Throné - HP:4335/4947 SP:366/382 BP:3
+C-Agnea - HP:4036/4502 SP:494/504 BP:3
+D-Olberic - HP:6037/6281 SP:341/341 BP:3
+Equipo del enemigo
+A-Hoary Bear - HP:372/2688 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Throné
+3.Olberic
+4.Tressa
+5.Hoary Bear
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Mercy Strike
+2: Vivify
+3: Level Slash
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Hoary Bear - HP:372/2688 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Mercy Strike
+Hoary Bear recibe 281 de daño de tipo Bow
+Hoary Bear termina con HP:91
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4975/5391 SP:403/407 BP:3
+B-Throné - HP:4335/4947 SP:366/382 BP:3
+C-Agnea - HP:4036/4502 SP:494/504 BP:3
+D-Olberic - HP:6037/6281 SP:341/341 BP:3
+Equipo del enemigo
+A-Hoary Bear - HP:91/2688 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Throné
+3.Olberic
+4.Tressa
+5.Hoary Bear
+----------------------------------------
+Hoary Bear usa Rampage
+Tressa recibe 208 de daño físico
+Throné recibe 306 de daño físico
+Agnea se defiende
+Agnea recibe 155 de daño físico
+Olberic recibe 163 de daño físico
+Tressa termina con HP:4767
+Throné termina con HP:4029
+Agnea termina con HP:3881
+Olberic termina con HP:5874
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4767/5391 SP:403/407 BP:4
+B-Throné - HP:4029/4947 SP:366/382 BP:4
+C-Agnea - HP:3881/4502 SP:494/504 BP:4
+D-Olberic - HP:5874/6281 SP:341/341 BP:4
+Equipo del enemigo
+A-Hoary Bear - HP:91/2688 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Throné
+3.Olberic
+4.Tressa
+5.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Olberic
+4.Tressa
+5.Hoary Bear
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Hoary Bear - HP:91/2688 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Hoary Bear recibe 10 de daño de tipo Dagger
+Hoary Bear termina con HP:81
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4767/5391 SP:403/407 BP:4
+B-Throné - HP:4029/4947 SP:366/382 BP:4
+C-Agnea - HP:3881/4502 SP:494/504 BP:4
+D-Olberic - HP:5874/6281 SP:341/341 BP:4
+Equipo del enemigo
+A-Hoary Bear - HP:81/2688 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Olberic
+3.Tressa
+4.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Olberic
+4.Tressa
+5.Hoary Bear
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Icewind
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné usa Icewind
+Hoary Bear recibe 223 de daño de tipo Ice
+Hoary Bear termina con HP:0
+----------------------------------------
+Gana equipo del jugador

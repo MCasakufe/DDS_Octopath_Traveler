@@ -1,0 +1,204 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+INPUT: 8
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Meep
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Heal More
+Olberic recupera 542 de vida
+Olberic termina con HP:5781
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:266/291 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Meep
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:5641
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5641/5781 SP:266/291 BP:2
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Meep
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Meep - HP:1016/1016 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Meep recibe 132 de daño de tipo Sword
+Olberic recupera 1 SP
+Meep termina con HP:884
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5641/5781 SP:267/291 BP:2
+Equipo del enemigo
+A-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Meep
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:5501
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5501/5781 SP:267/291 BP:3
+Equipo del enemigo
+A-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Meep
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Meep - HP:884/1016 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Meep recibe 132 de daño de tipo Sword
+Olberic recupera 1 SP
+Meep termina con HP:752
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5501/5781 SP:268/291 BP:3
+Equipo del enemigo
+A-Meep - HP:752/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Meep
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:5361
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5361/5781 SP:268/291 BP:4
+Equipo del enemigo
+A-Meep - HP:752/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Meep
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo

@@ -1,0 +1,2305 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+INPUT: 19
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+C-Ochette - HP:4447/4447 SP:369/369 BP:2
+D-Heatcore - HP:2822/2822 SP:342/342 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Light Elemental - HP:1880/1880 Shields:4
+C-Behemoth - HP:12690/12690 Shields:8
+D-Devil Deer - HP:2002/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Ochette
+3.Ophilia
+4.Behemoth
+5.Cyrus
+6.Devil Deer
+7.Light Elemental
+8.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Ochette
+3.Ophilia
+4.Behemoth
+5.Cyrus
+6.Devil Deer
+7.Light Elemental
+8.Light Wisp
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Leghold Trap
+2: Icewind
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Light Wisp - HP:972/972 Shields:1
+2: Light Elemental - HP:1880/1880 Shields:4
+3: Behemoth - HP:12690/12690 Shields:8
+4: Devil Deer - HP:2002/2002 Shields:5
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore usa Leghold Trap
+Devil Deer tendrá menor prioridad de turno durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+C-Ochette - HP:4447/4447 SP:369/369 BP:2
+D-Heatcore - HP:2822/2822 SP:336/342 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Light Elemental - HP:1880/1880 Shields:4
+C-Behemoth - HP:12690/12690 Shields:8
+D-Devil Deer - HP:2002/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Ophilia
+3.Behemoth
+4.Cyrus
+5.Light Elemental
+6.Light Wisp
+7.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Ochette
+3.Ophilia
+4.Behemoth
+5.Cyrus
+6.Light Elemental
+7.Light Wisp
+8.Devil Deer
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Light Wisp - HP:972/972 Shields:1
+2: Light Elemental - HP:1880/1880 Shields:4
+3: Behemoth - HP:12690/12690 Shields:8
+4: Devil Deer - HP:2002/2002 Shields:5
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette ataca
+Light Elemental recibe 180 de daño de tipo Bow
+Light Elemental termina con HP:1700
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+C-Ochette - HP:4447/4447 SP:369/369 BP:2
+D-Heatcore - HP:2822/2822 SP:336/342 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Light Elemental - HP:1700/1880 Shields:4
+C-Behemoth - HP:12690/12690 Shields:8
+D-Devil Deer - HP:2002/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Behemoth
+3.Cyrus
+4.Light Elemental
+5.Light Wisp
+6.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Ochette
+3.Ophilia
+4.Behemoth
+5.Cyrus
+6.Light Elemental
+7.Light Wisp
+8.Devil Deer
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Light Wisp - HP:972/972 Shields:1
+2: Light Elemental - HP:1700/1880 Shields:4
+3: Behemoth - HP:12690/12690 Shields:8
+4: Devil Deer - HP:2002/2002 Shields:5
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Light Elemental recibe 0 de daño de tipo Stave
+Light Elemental termina con HP:1700
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+C-Ochette - HP:4447/4447 SP:369/369 BP:2
+D-Heatcore - HP:2822/2822 SP:336/342 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Light Elemental - HP:1700/1880 Shields:4
+C-Behemoth - HP:12690/12690 Shields:8
+D-Devil Deer - HP:2002/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Cyrus
+3.Light Elemental
+4.Light Wisp
+5.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Ochette
+3.Ophilia
+4.Behemoth
+5.Cyrus
+6.Light Elemental
+7.Light Wisp
+8.Devil Deer
+----------------------------------------
+Behemoth usa Stampede
+Ophilia recibe 728 de daño físico
+Cyrus recibe 739 de daño físico
+Ochette recibe 809 de daño físico
+Heatcore recibe 740 de daño físico
+Ophilia termina con HP:3274
+Cyrus termina con HP:2818
+Ochette termina con HP:3638
+Heatcore termina con HP:2082
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3274/4002 SP:470/470 BP:1
+B-Cyrus - HP:2818/3557 SP:582/582 BP:1
+C-Ochette - HP:3638/4447 SP:369/369 BP:2
+D-Heatcore - HP:2082/2822 SP:336/342 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Light Elemental - HP:1700/1880 Shields:4
+C-Behemoth - HP:12690/12690 Shields:8
+D-Devil Deer - HP:2002/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Light Elemental
+3.Light Wisp
+4.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Ochette
+3.Ophilia
+4.Behemoth
+5.Cyrus
+6.Light Elemental
+7.Light Wisp
+8.Devil Deer
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Leghold Trap
+2: Fireball
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Fireball
+Light Wisp recibe 521 de daño de tipo Fire
+Light Elemental recibe 524 de daño de tipo Fire
+Behemoth recibe 231 de daño de tipo Fire
+Devil Deer recibe 179 de daño de tipo Fire
+Light Wisp termina con HP:451
+Light Elemental termina con HP:1176
+Behemoth termina con HP:12459
+Devil Deer termina con HP:1823
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3274/4002 SP:470/470 BP:1
+B-Cyrus - HP:2818/3557 SP:574/582 BP:1
+C-Ochette - HP:3638/4447 SP:369/369 BP:2
+D-Heatcore - HP:2082/2822 SP:336/342 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Light Elemental - HP:1176/1880 Shields:4
+C-Behemoth - HP:12459/12690 Shields:8
+D-Devil Deer - HP:1823/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+2.Light Wisp
+3.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Ochette
+3.Ophilia
+4.Behemoth
+5.Cyrus
+6.Light Elemental
+7.Light Wisp
+8.Devil Deer
+----------------------------------------
+Light Elemental usa Lightshot
+Ochette recibe 142 de daño elemental
+Ochette termina con HP:3496
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3274/4002 SP:470/470 BP:1
+B-Cyrus - HP:2818/3557 SP:574/582 BP:1
+C-Ochette - HP:3496/4447 SP:369/369 BP:2
+D-Heatcore - HP:2082/2822 SP:336/342 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Light Elemental - HP:1176/1880 Shields:4
+C-Behemoth - HP:12459/12690 Shields:8
+D-Devil Deer - HP:1823/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+2.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Ochette
+3.Ophilia
+4.Behemoth
+5.Cyrus
+6.Light Elemental
+7.Light Wisp
+8.Devil Deer
+----------------------------------------
+Light Wisp usa Luminescence
+Heatcore recibe 140 de daño elemental
+Heatcore termina con HP:1942
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3274/4002 SP:470/470 BP:1
+B-Cyrus - HP:2818/3557 SP:574/582 BP:1
+C-Ochette - HP:3496/4447 SP:369/369 BP:2
+D-Heatcore - HP:1942/2822 SP:336/342 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Light Elemental - HP:1176/1880 Shields:4
+C-Behemoth - HP:12459/12690 Shields:8
+D-Devil Deer - HP:1823/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Ochette
+3.Ophilia
+4.Behemoth
+5.Cyrus
+6.Light Elemental
+7.Light Wisp
+8.Devil Deer
+----------------------------------------
+Devil Deer usa Boar Rush
+Ochette recibe 639 de daño físico
+Ochette termina con HP:2857
+----------------------------------------
+Ophilia obtiene un turno adicional
+----------------------------------------
+Cyrus obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3274/4002 SP:470/470 BP:1
+B-Cyrus - HP:2818/3557 SP:574/582 BP:1
+C-Ochette - HP:2857/4447 SP:369/369 BP:2
+D-Heatcore - HP:1942/2822 SP:336/342 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Light Elemental - HP:1176/1880 Shields:4
+C-Behemoth - HP:12459/12690 Shields:8
+D-Devil Deer - HP:1823/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Ochette
+3.Ophilia
+4.Behemoth
+5.Cyrus
+6.Light Elemental
+7.Light Wisp
+8.Devil Deer
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Light Wisp - HP:451/972 Shields:1
+2: Light Elemental - HP:1176/1880 Shields:4
+3: Behemoth - HP:12459/12690 Shields:8
+4: Devil Deer - HP:1823/2002 Shields:5
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Light Wisp recibe 0 de daño de tipo Stave
+Light Wisp termina con HP:451
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3274/4002 SP:470/470 BP:1
+B-Cyrus - HP:2818/3557 SP:574/582 BP:1
+C-Ochette - HP:2857/4447 SP:369/369 BP:2
+D-Heatcore - HP:1942/2822 SP:336/342 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:451/972 Shields:1
+B-Light Elemental - HP:1176/1880 Shields:4
+C-Behemoth - HP:12459/12690 Shields:8
+D-Devil Deer - HP:1823/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Ochette
+3.Ophilia
+4.Behemoth
+5.Cyrus
+6.Light Elemental
+7.Light Wisp
+8.Devil Deer
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Leghold Trap
+2: Fireball
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Fireball
+Light Wisp recibe 521 de daño de tipo Fire
+Light Elemental recibe 524 de daño de tipo Fire
+Behemoth recibe 231 de daño de tipo Fire
+Devil Deer recibe 179 de daño de tipo Fire
+Light Wisp termina con HP:0
+Light Elemental termina con HP:652
+Behemoth termina con HP:12228
+Devil Deer termina con HP:1644
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3674/4002 SP:470/470 BP:2
+B-Cyrus - HP:3173/3557 SP:566/582 BP:2
+C-Ochette - HP:2857/4447 SP:369/369 BP:3
+D-Heatcore - HP:1942/2822 SP:336/342 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:652/1880 Shields:4
+C-Behemoth - HP:12228/12690 Shields:8
+D-Devil Deer - HP:1644/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Ochette
+3.Ophilia
+4.Behemoth
+5.Cyrus
+6.Light Elemental
+7.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Ochette
+3.Ophilia
+4.Behemoth
+5.Cyrus
+6.Devil Deer
+7.Light Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Leghold Trap
+2: Icewind
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Light Elemental - HP:652/1880 Shields:4
+2: Behemoth - HP:12228/12690 Shields:8
+3: Devil Deer - HP:1644/2002 Shields:5
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore usa Leghold Trap
+Light Elemental tendrá menor prioridad de turno durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3674/4002 SP:470/470 BP:2
+B-Cyrus - HP:3173/3557 SP:566/582 BP:2
+C-Ochette - HP:2857/4447 SP:369/369 BP:3
+D-Heatcore - HP:1942/2822 SP:330/342 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:652/1880 Shields:4
+C-Behemoth - HP:12228/12690 Shields:8
+D-Devil Deer - HP:1644/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Ophilia
+3.Behemoth
+4.Cyrus
+5.Devil Deer
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Ochette
+3.Ophilia
+4.Behemoth
+5.Cyrus
+6.Devil Deer
+7.Light Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Spearhead
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Light Elemental - HP:652/1880 Shields:4
+2: Behemoth - HP:12228/12690 Shields:8
+3: Devil Deer - HP:1644/2002 Shields:5
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette usa Spearhead
+Light Elemental recibe 266 de daño de tipo Spear
+Light Elemental termina con HP:386
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3674/4002 SP:470/470 BP:2
+B-Cyrus - HP:3173/3557 SP:566/582 BP:2
+C-Ochette - HP:2857/4447 SP:363/369 BP:3
+D-Heatcore - HP:1942/2822 SP:330/342 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:386/1880 Shields:4
+C-Behemoth - HP:12228/12690 Shields:8
+D-Devil Deer - HP:1644/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Behemoth
+3.Cyrus
+4.Devil Deer
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Heatcore
+3.Ophilia
+4.Behemoth
+5.Cyrus
+6.Devil Deer
+7.Light Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3674/4002 SP:470/470 BP:2
+B-Cyrus - HP:3173/3557 SP:566/582 BP:2
+C-Ochette - HP:2857/4447 SP:363/369 BP:3
+D-Heatcore - HP:1942/2822 SP:330/342 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:386/1880 Shields:4
+C-Behemoth - HP:12228/12690 Shields:8
+D-Devil Deer - HP:1644/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Cyrus
+3.Devil Deer
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Ochette
+3.Heatcore
+4.Behemoth
+5.Cyrus
+6.Devil Deer
+7.Light Elemental
+----------------------------------------
+Behemoth usa Stampede
+Ophilia se defiende
+Ophilia recibe 364 de daño físico
+Cyrus recibe 739 de daño físico
+Ochette recibe 809 de daño físico
+Heatcore recibe 740 de daño físico
+Ophilia termina con HP:3310
+Cyrus termina con HP:2434
+Ochette termina con HP:2048
+Heatcore termina con HP:1202
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3310/4002 SP:470/470 BP:2
+B-Cyrus - HP:2434/3557 SP:566/582 BP:2
+C-Ochette - HP:2048/4447 SP:363/369 BP:3
+D-Heatcore - HP:1202/2822 SP:330/342 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:386/1880 Shields:4
+C-Behemoth - HP:12228/12690 Shields:8
+D-Devil Deer - HP:1644/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Devil Deer
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Ochette
+3.Heatcore
+4.Behemoth
+5.Cyrus
+6.Devil Deer
+7.Light Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Light Elemental - HP:386/1880 Shields:4
+2: Behemoth - HP:12228/12690 Shields:8
+3: Devil Deer - HP:1644/2002 Shields:5
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Behemoth recibe 0 de daño de tipo Stave
+Behemoth termina con HP:12228
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3310/4002 SP:470/470 BP:2
+B-Cyrus - HP:2434/3557 SP:566/582 BP:2
+C-Ochette - HP:2048/4447 SP:363/369 BP:3
+D-Heatcore - HP:1202/2822 SP:330/342 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:386/1880 Shields:4
+C-Behemoth - HP:12228/12690 Shields:8
+D-Devil Deer - HP:1644/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Ochette
+3.Heatcore
+4.Behemoth
+5.Cyrus
+6.Devil Deer
+7.Light Elemental
+----------------------------------------
+Devil Deer usa Boar Rush
+Ochette recibe 639 de daño físico
+Ochette termina con HP:1409
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3310/4002 SP:470/470 BP:2
+B-Cyrus - HP:2434/3557 SP:566/582 BP:2
+C-Ochette - HP:1409/4447 SP:363/369 BP:3
+D-Heatcore - HP:1202/2822 SP:330/342 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:386/1880 Shields:4
+C-Behemoth - HP:12228/12690 Shields:8
+D-Devil Deer - HP:1644/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Ochette
+3.Heatcore
+4.Behemoth
+5.Cyrus
+6.Devil Deer
+7.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Ochette recibe 142 de daño elemental
+Ochette termina con HP:1267
+----------------------------------------
+Ophilia obtiene un turno adicional
+----------------------------------------
+Cyrus obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3310/4002 SP:470/470 BP:2
+B-Cyrus - HP:2434/3557 SP:566/582 BP:2
+C-Ochette - HP:1267/4447 SP:363/369 BP:3
+D-Heatcore - HP:1202/2822 SP:330/342 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:386/1880 Shields:4
+C-Behemoth - HP:12228/12690 Shields:8
+D-Devil Deer - HP:1644/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Ochette
+3.Heatcore
+4.Behemoth
+5.Cyrus
+6.Devil Deer
+7.Light Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Light Elemental - HP:386/1880 Shields:4
+2: Behemoth - HP:12228/12690 Shields:8
+3: Devil Deer - HP:1644/2002 Shields:5
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Light Elemental recibe 0 de daño de tipo Stave
+Light Elemental termina con HP:386
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3310/4002 SP:470/470 BP:2
+B-Cyrus - HP:2434/3557 SP:566/582 BP:2
+C-Ochette - HP:1267/4447 SP:363/369 BP:3
+D-Heatcore - HP:1202/2822 SP:330/342 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:386/1880 Shields:4
+C-Behemoth - HP:12228/12690 Shields:8
+D-Devil Deer - HP:1644/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Ochette
+3.Heatcore
+4.Behemoth
+5.Cyrus
+6.Devil Deer
+7.Light Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Leghold Trap
+2: Fireball
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Fireball
+Light Elemental recibe 524 de daño de tipo Fire
+Behemoth recibe 231 de daño de tipo Fire
+Devil Deer recibe 179 de daño de tipo Fire
+Light Elemental termina con HP:0
+Behemoth termina con HP:11997
+Devil Deer termina con HP:1465
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3710/4002 SP:470/470 BP:3
+B-Cyrus - HP:2789/3557 SP:558/582 BP:3
+C-Ochette - HP:1267/4447 SP:369/369 BP:4
+D-Heatcore - HP:1202/2822 SP:330/342 BP:4
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11997/12690 Shields:8
+D-Devil Deer - HP:1465/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Ochette
+3.Heatcore
+4.Behemoth
+5.Cyrus
+6.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Ochette
+3.Ophilia
+4.Behemoth
+5.Cyrus
+6.Devil Deer
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Behemoth - HP:11997/12690 Shields:8
+2: Devil Deer - HP:1465/2002 Shields:5
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Devil Deer recibe 0 de daño de tipo Stave con debilidad
+Devil Deer termina con HP:1465
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3710/4002 SP:470/470 BP:3
+B-Cyrus - HP:2789/3557 SP:558/582 BP:3
+C-Ochette - HP:1267/4447 SP:369/369 BP:4
+D-Heatcore - HP:1202/2822 SP:330/342 BP:4
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11997/12690 Shields:8
+D-Devil Deer - HP:1465/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Heatcore
+3.Behemoth
+4.Cyrus
+5.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Ochette
+3.Ophilia
+4.Behemoth
+5.Cyrus
+6.Devil Deer
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3710/4002 SP:470/470 BP:3
+B-Cyrus - HP:2789/3557 SP:558/582 BP:3
+C-Ochette - HP:1267/4447 SP:369/369 BP:4
+D-Heatcore - HP:1202/2822 SP:330/342 BP:4
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11997/12690 Shields:8
+D-Devil Deer - HP:1465/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Behemoth
+3.Cyrus
+4.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Heatcore
+3.Ophilia
+4.Behemoth
+5.Cyrus
+6.Devil Deer
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Leghold Trap
+2: Icewind
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore usa Icewind
+Behemoth recibe 0 de daño de tipo Ice con debilidad
+Devil Deer recibe 0 de daño de tipo Ice
+Behemoth termina con HP:11997
+Devil Deer termina con HP:1465
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3710/4002 SP:470/470 BP:3
+B-Cyrus - HP:2789/3557 SP:558/582 BP:3
+C-Ochette - HP:1267/4447 SP:369/369 BP:4
+D-Heatcore - HP:1202/2822 SP:322/342 BP:4
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11997/12690 Shields:8
+D-Devil Deer - HP:1465/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Cyrus
+3.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Heatcore
+3.Ophilia
+4.Behemoth
+5.Cyrus
+6.Devil Deer
+----------------------------------------
+Behemoth usa Stampede
+Ophilia recibe 728 de daño físico
+Cyrus recibe 739 de daño físico
+Ochette se defiende
+Ochette recibe 404 de daño físico
+Heatcore recibe 740 de daño físico
+Ophilia termina con HP:2982
+Cyrus termina con HP:2050
+Ochette termina con HP:863
+Heatcore termina con HP:462
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2982/4002 SP:470/470 BP:3
+B-Cyrus - HP:2050/3557 SP:558/582 BP:3
+C-Ochette - HP:863/4447 SP:369/369 BP:4
+D-Heatcore - HP:462/2822 SP:322/342 BP:4
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11997/12690 Shields:8
+D-Devil Deer - HP:1465/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Heatcore
+3.Ophilia
+4.Behemoth
+5.Cyrus
+6.Devil Deer
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Behemoth - HP:11997/12690 Shields:8
+2: Devil Deer - HP:1465/2002 Shields:5
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Devil Deer recibe 0 de daño de tipo Stave con debilidad
+Devil Deer termina con HP:1465
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2982/4002 SP:470/470 BP:3
+B-Cyrus - HP:2050/3557 SP:558/582 BP:3
+C-Ochette - HP:863/4447 SP:369/369 BP:4
+D-Heatcore - HP:462/2822 SP:322/342 BP:4
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11997/12690 Shields:8
+D-Devil Deer - HP:1465/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Heatcore
+3.Ophilia
+4.Behemoth
+5.Cyrus
+6.Devil Deer
+----------------------------------------
+Devil Deer usa Boar Rush
+Ochette se defiende
+Ochette recibe 319 de daño físico
+Ochette termina con HP:544
+----------------------------------------
+Ophilia obtiene un turno adicional
+----------------------------------------
+Cyrus obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2982/4002 SP:470/470 BP:3
+B-Cyrus - HP:2050/3557 SP:558/582 BP:3
+C-Ochette - HP:544/4447 SP:369/369 BP:4
+D-Heatcore - HP:462/2822 SP:322/342 BP:4
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11997/12690 Shields:8
+D-Devil Deer - HP:1465/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Heatcore
+3.Ophilia
+4.Behemoth
+5.Cyrus
+6.Devil Deer
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2982/4002 SP:470/470 BP:3
+B-Cyrus - HP:2050/3557 SP:558/582 BP:3
+C-Ochette - HP:544/4447 SP:369/369 BP:4
+D-Heatcore - HP:462/2822 SP:322/342 BP:4
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11997/12690 Shields:8
+D-Devil Deer - HP:1465/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Heatcore
+4.Behemoth
+5.Cyrus
+6.Devil Deer
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3382/4002 SP:470/470 BP:4
+B-Cyrus - HP:2405/3557 SP:558/582 BP:4
+C-Ochette - HP:544/4447 SP:369/369 BP:5
+D-Heatcore - HP:462/2822 SP:322/342 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11997/12690 Shields:8
+D-Devil Deer - HP:1465/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Ophilia
+3.Cyrus
+4.Heatcore
+5.Behemoth
+6.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Ochette
+3.Ophilia
+4.Behemoth
+5.Cyrus
+6.Devil Deer
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Behemoth - HP:11997/12690 Shields:8
+2: Devil Deer - HP:1465/2002 Shields:5
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette ataca
+Behemoth recibe 155 de daño de tipo Axe con debilidad
+Behemoth termina con HP:11842
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3382/4002 SP:470/470 BP:4
+B-Cyrus - HP:2405/3557 SP:558/582 BP:4
+C-Ochette - HP:544/4447 SP:369/369 BP:5
+D-Heatcore - HP:462/2822 SP:322/342 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11842/12690 Shields:7
+D-Devil Deer - HP:1465/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Cyrus
+3.Heatcore
+4.Behemoth
+5.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Ochette
+3.Ophilia
+4.Behemoth
+5.Cyrus
+6.Devil Deer
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Behemoth - HP:11842/12690 Shields:7
+2: Devil Deer - HP:1465/2002 Shields:5
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Devil Deer recibe 0 de daño de tipo Stave con debilidad
+Devil Deer termina con HP:1465
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3382/4002 SP:470/470 BP:4
+B-Cyrus - HP:2405/3557 SP:558/582 BP:4
+C-Ochette - HP:544/4447 SP:369/369 BP:5
+D-Heatcore - HP:462/2822 SP:322/342 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11842/12690 Shields:7
+D-Devil Deer - HP:1465/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Heatcore
+3.Behemoth
+4.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Ochette
+3.Ophilia
+4.Behemoth
+5.Cyrus
+6.Devil Deer
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Leghold Trap
+2: Fireball
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Fireball
+Behemoth recibe 231 de daño de tipo Fire
+Devil Deer recibe 179 de daño de tipo Fire
+Behemoth termina con HP:11611
+Devil Deer termina con HP:1286
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3382/4002 SP:470/470 BP:4
+B-Cyrus - HP:2405/3557 SP:550/582 BP:4
+C-Ochette - HP:544/4447 SP:369/369 BP:5
+D-Heatcore - HP:462/2822 SP:322/342 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11611/12690 Shields:7
+D-Devil Deer - HP:1286/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Behemoth
+3.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Ochette
+3.Ophilia
+4.Behemoth
+5.Cyrus
+6.Devil Deer
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Behemoth - HP:11611/12690 Shields:7
+2: Devil Deer - HP:1286/2002 Shields:5
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore ataca
+Devil Deer recibe 0 de daño de tipo Axe con debilidad
+Devil Deer termina con HP:1286
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3382/4002 SP:470/470 BP:4
+B-Cyrus - HP:2405/3557 SP:550/582 BP:4
+C-Ochette - HP:544/4447 SP:369/369 BP:5
+D-Heatcore - HP:462/2822 SP:322/342 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11611/12690 Shields:7
+D-Devil Deer - HP:1286/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Ochette
+3.Ophilia
+4.Behemoth
+5.Cyrus
+6.Devil Deer
+----------------------------------------
+Behemoth usa Stampede
+Ophilia recibe 728 de daño físico
+Cyrus recibe 739 de daño físico
+Ochette recibe 809 de daño físico
+Heatcore recibe 740 de daño físico
+Ophilia termina con HP:2654
+Cyrus termina con HP:1666
+Ochette termina con HP:0
+Heatcore termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2654/4002 SP:470/470 BP:4
+B-Cyrus - HP:1666/3557 SP:550/582 BP:4
+C-Ochette - HP:0/4447 SP:369/369 BP:5
+D-Heatcore - HP:0/2822 SP:322/342 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11611/12690 Shields:7
+D-Devil Deer - HP:1286/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Behemoth
+3.Cyrus
+4.Devil Deer
+----------------------------------------
+Devil Deer usa Boar Rush
+Cyrus recibe 569 de daño físico
+Cyrus termina con HP:1097
+----------------------------------------
+Ophilia obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2654/4002 SP:470/470 BP:4
+B-Cyrus - HP:1097/3557 SP:550/582 BP:4
+C-Ochette - HP:0/4447 SP:369/369 BP:5
+D-Heatcore - HP:0/2822 SP:322/342 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11611/12690 Shields:7
+D-Devil Deer - HP:1286/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Behemoth
+3.Cyrus
+4.Devil Deer
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3054/4002 SP:470/470 BP:5
+B-Cyrus - HP:1452/3557 SP:550/582 BP:5
+C-Ochette - HP:0/4447 SP:369/369 BP:5
+D-Heatcore - HP:0/2822 SP:322/342 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11611/12690 Shields:7
+D-Devil Deer - HP:1286/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Behemoth
+3.Cyrus
+4.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Behemoth
+3.Cyrus
+4.Devil Deer
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3054/4002 SP:470/470 BP:5
+B-Cyrus - HP:1452/3557 SP:550/582 BP:5
+C-Ochette - HP:0/4447 SP:369/369 BP:5
+D-Heatcore - HP:0/2822 SP:322/342 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11611/12690 Shields:7
+D-Devil Deer - HP:1286/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Cyrus
+3.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Behemoth
+3.Cyrus
+4.Devil Deer
+----------------------------------------
+Behemoth usa Stampede
+Ophilia se defiende
+Ophilia recibe 364 de daño físico
+Cyrus recibe 739 de daño físico
+Ophilia termina con HP:2690
+Cyrus termina con HP:713
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2690/4002 SP:470/470 BP:5
+B-Cyrus - HP:713/3557 SP:550/582 BP:5
+C-Ochette - HP:0/4447 SP:369/369 BP:5
+D-Heatcore - HP:0/2822 SP:322/342 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11611/12690 Shields:7
+D-Devil Deer - HP:1286/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Behemoth
+3.Cyrus
+4.Devil Deer
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Leghold Trap
+2: Fireball
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Behemoth - HP:11611/12690 Shields:7
+2: Devil Deer - HP:1286/2002 Shields:5
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Leghold Trap
+Behemoth tendrá menor prioridad de turno durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2690/4002 SP:470/470 BP:5
+B-Cyrus - HP:713/3557 SP:544/582 BP:5
+C-Ochette - HP:0/4447 SP:369/369 BP:5
+D-Heatcore - HP:0/2822 SP:322/342 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11611/12690 Shields:7
+D-Devil Deer - HP:1286/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Devil Deer
+4.Behemoth
+----------------------------------------
+Devil Deer usa Boar Rush
+Cyrus recibe 569 de daño físico
+Cyrus termina con HP:144
+----------------------------------------
+Ophilia obtiene un turno adicional
+----------------------------------------
+Cyrus obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2690/4002 SP:470/470 BP:5
+B-Cyrus - HP:144/3557 SP:544/582 BP:5
+C-Ochette - HP:0/4447 SP:369/369 BP:5
+D-Heatcore - HP:0/2822 SP:322/342 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11611/12690 Shields:7
+D-Devil Deer - HP:1286/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Devil Deer
+4.Behemoth
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2690/4002 SP:470/470 BP:5
+B-Cyrus - HP:144/3557 SP:544/582 BP:5
+C-Ochette - HP:0/4447 SP:369/369 BP:5
+D-Heatcore - HP:0/2822 SP:322/342 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11611/12690 Shields:7
+D-Devil Deer - HP:1286/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Devil Deer
+4.Behemoth
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3090/4002 SP:470/470 BP:5
+B-Cyrus - HP:499/3557 SP:544/582 BP:5
+C-Ochette - HP:0/4447 SP:369/369 BP:5
+D-Heatcore - HP:0/2822 SP:322/342 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11611/12690 Shields:7
+D-Devil Deer - HP:1286/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Cyrus
+3.Devil Deer
+4.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Behemoth
+3.Cyrus
+4.Devil Deer
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Behemoth - HP:11611/12690 Shields:7
+2: Devil Deer - HP:1286/2002 Shields:5
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Devil Deer recibe 0 de daño de tipo Stave con debilidad
+Devil Deer termina con HP:1286
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3090/4002 SP:470/470 BP:5
+B-Cyrus - HP:499/3557 SP:544/582 BP:5
+C-Ochette - HP:0/4447 SP:369/369 BP:5
+D-Heatcore - HP:0/2822 SP:322/342 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11611/12690 Shields:7
+D-Devil Deer - HP:1286/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Devil Deer
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Behemoth
+3.Cyrus
+4.Devil Deer
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Leghold Trap
+2: Fireball
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Fireball
+Behemoth recibe 231 de daño de tipo Fire
+Devil Deer recibe 179 de daño de tipo Fire
+Behemoth termina con HP:11380
+Devil Deer termina con HP:1107
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3090/4002 SP:470/470 BP:5
+B-Cyrus - HP:499/3557 SP:536/582 BP:5
+C-Ochette - HP:0/4447 SP:369/369 BP:5
+D-Heatcore - HP:0/2822 SP:322/342 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11380/12690 Shields:7
+D-Devil Deer - HP:1107/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Behemoth
+3.Cyrus
+4.Devil Deer
+----------------------------------------
+Devil Deer usa Boar Rush
+Cyrus recibe 569 de daño físico
+Cyrus termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3090/4002 SP:470/470 BP:5
+B-Cyrus - HP:0/3557 SP:536/582 BP:5
+C-Ochette - HP:0/4447 SP:369/369 BP:5
+D-Heatcore - HP:0/2822 SP:322/342 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11380/12690 Shields:7
+D-Devil Deer - HP:1107/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Behemoth
+3.Devil Deer
+----------------------------------------
+Behemoth usa Stampede
+Ophilia recibe 728 de daño físico
+Ophilia termina con HP:2362
+----------------------------------------
+Ophilia obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2362/4002 SP:470/470 BP:5
+B-Cyrus - HP:0/3557 SP:536/582 BP:5
+C-Ochette - HP:0/4447 SP:369/369 BP:5
+D-Heatcore - HP:0/2822 SP:322/342 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11380/12690 Shields:7
+D-Devil Deer - HP:1107/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Behemoth
+3.Devil Deer
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Behemoth - HP:11380/12690 Shields:7
+2: Devil Deer - HP:1107/2002 Shields:5
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Devil Deer recibe 0 de daño de tipo Stave con debilidad
+Devil Deer termina con HP:1107
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2762/4002 SP:470/470 BP:5
+B-Cyrus - HP:0/3557 SP:536/582 BP:5
+C-Ochette - HP:0/4447 SP:369/369 BP:5
+D-Heatcore - HP:0/2822 SP:322/342 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11380/12690 Shields:7
+D-Devil Deer - HP:1107/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Behemoth
+3.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Behemoth
+3.Devil Deer
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Behemoth - HP:11380/12690 Shields:7
+2: Devil Deer - HP:1107/2002 Shields:5
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Devil Deer recibe 0 de daño de tipo Stave con debilidad
+Devil Deer termina con HP:1107
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2762/4002 SP:470/470 BP:5
+B-Cyrus - HP:0/3557 SP:536/582 BP:5
+C-Ochette - HP:0/4447 SP:369/369 BP:5
+D-Heatcore - HP:0/2822 SP:322/342 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11380/12690 Shields:7
+D-Devil Deer - HP:1107/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Behemoth
+3.Devil Deer
+----------------------------------------
+Behemoth usa Stampede
+Ophilia recibe 728 de daño físico
+Ophilia termina con HP:2034
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2034/4002 SP:470/470 BP:5
+B-Cyrus - HP:0/3557 SP:536/582 BP:5
+C-Ochette - HP:0/4447 SP:369/369 BP:5
+D-Heatcore - HP:0/2822 SP:322/342 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11380/12690 Shields:7
+D-Devil Deer - HP:1107/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Behemoth
+3.Devil Deer
+----------------------------------------
+Devil Deer usa Boar Rush
+Ophilia recibe 558 de daño físico
+Ophilia termina con HP:1476
+----------------------------------------
+Ophilia obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1476/4002 SP:470/470 BP:5
+B-Cyrus - HP:0/3557 SP:536/582 BP:5
+C-Ochette - HP:0/4447 SP:369/369 BP:5
+D-Heatcore - HP:0/2822 SP:322/342 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11380/12690 Shields:7
+D-Devil Deer - HP:1107/2002 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Behemoth
+3.Devil Deer
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Lightning Bolt
+2: Leghold Trap
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Lightning Bolt
+Behemoth recibe 120 de daño de tipo Lightning
+Devil Deer recibe 102 de daño de tipo Lightning con debilidad
+Behemoth termina con HP:11260
+Devil Deer termina con HP:1005
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1876/4002 SP:462/470 BP:5
+B-Cyrus - HP:0/3557 SP:536/582 BP:5
+C-Ochette - HP:0/4447 SP:369/369 BP:5
+D-Heatcore - HP:0/2822 SP:322/342 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11260/12690 Shields:7
+D-Devil Deer - HP:1005/2002 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Behemoth
+3.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Behemoth
+3.Devil Deer
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Behemoth - HP:11260/12690 Shields:7
+2: Devil Deer - HP:1005/2002 Shields:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Devil Deer recibe 0 de daño de tipo Stave con debilidad
+Devil Deer termina con HP:1005
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1876/4002 SP:462/470 BP:5
+B-Cyrus - HP:0/3557 SP:536/582 BP:5
+C-Ochette - HP:0/4447 SP:369/369 BP:5
+D-Heatcore - HP:0/2822 SP:322/342 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11260/12690 Shields:7
+D-Devil Deer - HP:1005/2002 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Behemoth
+3.Devil Deer
+----------------------------------------
+Behemoth usa Stampede
+Ophilia recibe 728 de daño físico
+Ophilia termina con HP:1148
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1148/4002 SP:462/470 BP:5
+B-Cyrus - HP:0/3557 SP:536/582 BP:5
+C-Ochette - HP:0/4447 SP:369/369 BP:5
+D-Heatcore - HP:0/2822 SP:322/342 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11260/12690 Shields:7
+D-Devil Deer - HP:1005/2002 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Behemoth
+3.Devil Deer
+----------------------------------------
+Devil Deer usa Boar Rush
+Ophilia recibe 558 de daño físico
+Ophilia termina con HP:590
+----------------------------------------
+Ophilia obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:590/4002 SP:462/470 BP:5
+B-Cyrus - HP:0/3557 SP:536/582 BP:5
+C-Ochette - HP:0/4447 SP:369/369 BP:5
+D-Heatcore - HP:0/2822 SP:322/342 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11260/12690 Shields:7
+D-Devil Deer - HP:1005/2002 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Behemoth
+3.Devil Deer
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Behemoth - HP:11260/12690 Shields:7
+2: Devil Deer - HP:1005/2002 Shields:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Behemoth recibe 0 de daño de tipo Stave
+Behemoth termina con HP:11260
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:990/4002 SP:462/470 BP:5
+B-Cyrus - HP:0/3557 SP:536/582 BP:5
+C-Ochette - HP:0/4447 SP:369/369 BP:5
+D-Heatcore - HP:0/2822 SP:322/342 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11260/12690 Shields:7
+D-Devil Deer - HP:1005/2002 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Behemoth
+3.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Behemoth
+3.Devil Deer
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:990/4002 SP:462/470 BP:5
+B-Cyrus - HP:0/3557 SP:536/582 BP:5
+C-Ochette - HP:0/4447 SP:369/369 BP:5
+D-Heatcore - HP:0/2822 SP:322/342 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11260/12690 Shields:7
+D-Devil Deer - HP:1005/2002 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Behemoth
+3.Devil Deer
+----------------------------------------
+Behemoth usa Stampede
+Ophilia se defiende
+Ophilia recibe 364 de daño físico
+Ophilia termina con HP:626
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:626/4002 SP:462/470 BP:5
+B-Cyrus - HP:0/3557 SP:536/582 BP:5
+C-Ochette - HP:0/4447 SP:369/369 BP:5
+D-Heatcore - HP:0/2822 SP:322/342 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11260/12690 Shields:7
+D-Devil Deer - HP:1005/2002 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Behemoth
+3.Devil Deer
+----------------------------------------
+Devil Deer usa Boar Rush
+Ophilia se defiende
+Ophilia recibe 279 de daño físico
+Ophilia termina con HP:347
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:747/4002 SP:462/470 BP:5
+B-Cyrus - HP:0/3557 SP:536/582 BP:5
+C-Ochette - HP:0/4447 SP:369/369 BP:5
+D-Heatcore - HP:0/2822 SP:322/342 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11260/12690 Shields:7
+D-Devil Deer - HP:1005/2002 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Behemoth
+3.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Behemoth
+3.Devil Deer
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Lightning Bolt
+2: Leghold Trap
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Lightning Bolt
+Behemoth recibe 120 de daño de tipo Lightning
+Devil Deer recibe 102 de daño de tipo Lightning con debilidad
+Behemoth termina con HP:11140
+Devil Deer termina con HP:903
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:747/4002 SP:454/470 BP:5
+B-Cyrus - HP:0/3557 SP:536/582 BP:5
+C-Ochette - HP:0/4447 SP:369/369 BP:5
+D-Heatcore - HP:0/2822 SP:322/342 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11140/12690 Shields:7
+D-Devil Deer - HP:903/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Behemoth
+3.Devil Deer
+----------------------------------------
+Behemoth usa Stampede
+Ophilia recibe 728 de daño físico
+Ophilia termina con HP:19
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:19/4002 SP:454/470 BP:5
+B-Cyrus - HP:0/3557 SP:536/582 BP:5
+C-Ochette - HP:0/4447 SP:369/369 BP:5
+D-Heatcore - HP:0/2822 SP:322/342 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:1
+B-Light Elemental - HP:0/1880 Shields:4
+C-Behemoth - HP:11140/12690 Shields:7
+D-Devil Deer - HP:903/2002 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Devil Deer
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Behemoth
+3.Devil Deer
+----------------------------------------
+Devil Deer usa Boar Rush
+Ophilia recibe 558 de daño físico
+Ophilia termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

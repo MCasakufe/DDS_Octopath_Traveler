@@ -1,0 +1,544 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+INPUT: 8
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:369/369 BP:1
+B-Castti - HP:5336/5336 SP:426/426 BP:1
+C-Temenos - HP:4002/4002 SP:432/432 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:801/801 Shields:1
+B-Frost Bear - HP:1197/1197 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Castti
+3.Temenos
+4.Ice Wisp
+5.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Castti
+3.Temenos
+4.Ice Wisp
+5.Frost Bear
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Ice Wisp - HP:801/801 Shields:1
+2: Frost Bear - HP:1197/1197 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette ataca
+Frost Bear recibe 390 de daño de tipo Bow
+Frost Bear termina con HP:807
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:369/369 BP:1
+B-Castti - HP:5336/5336 SP:426/426 BP:1
+C-Temenos - HP:4002/4002 SP:432/432 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:801/801 Shields:1
+B-Frost Bear - HP:807/1197 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Temenos
+3.Ice Wisp
+4.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Castti
+3.Temenos
+4.Ice Wisp
+5.Frost Bear
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Ice Wisp - HP:801/801 Shields:1
+2: Frost Bear - HP:807/1197 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Ice Wisp recibe 192 de daño de tipo Axe
+Ice Wisp termina con HP:609
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:369/369 BP:1
+B-Castti - HP:5336/5336 SP:426/426 BP:1
+C-Temenos - HP:4002/4002 SP:432/432 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:609/801 Shields:1
+B-Frost Bear - HP:807/1197 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Ice Wisp
+3.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Castti
+3.Temenos
+4.Ice Wisp
+5.Frost Bear
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Ice Wisp - HP:609/801 Shields:1
+2: Frost Bear - HP:807/1197 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Frost Bear recibe 206 de daño de tipo Stave
+Frost Bear termina con HP:601
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:369/369 BP:1
+B-Castti - HP:5336/5336 SP:426/426 BP:1
+C-Temenos - HP:4002/4002 SP:432/432 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:609/801 Shields:1
+B-Frost Bear - HP:601/1197 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ice Wisp
+2.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Castti
+3.Temenos
+4.Ice Wisp
+5.Frost Bear
+----------------------------------------
+Ice Wisp usa Freeze
+Ochette recibe 153 de daño elemental
+Ochette termina con HP:4294
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4294/4447 SP:369/369 BP:1
+B-Castti - HP:5336/5336 SP:426/426 BP:1
+C-Temenos - HP:4002/4002 SP:432/432 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:609/801 Shields:1
+B-Frost Bear - HP:601/1197 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Castti
+3.Temenos
+4.Ice Wisp
+5.Frost Bear
+----------------------------------------
+Frost Bear usa Attack
+Castti recibe 0 de daño físico
+Castti termina con HP:5336
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4294/4447 SP:369/369 BP:2
+B-Castti - HP:5336/5336 SP:426/426 BP:2
+C-Temenos - HP:4002/4002 SP:432/432 BP:2
+Equipo del enemigo
+A-Ice Wisp - HP:609/801 Shields:1
+B-Frost Bear - HP:601/1197 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Castti
+3.Temenos
+4.Ice Wisp
+5.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Castti
+3.Temenos
+4.Ice Wisp
+5.Frost Bear
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Ice Wisp - HP:609/801 Shields:1
+2: Frost Bear - HP:601/1197 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette ataca
+Frost Bear recibe 390 de daño de tipo Bow
+Frost Bear termina con HP:211
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4294/4447 SP:369/369 BP:2
+B-Castti - HP:5336/5336 SP:426/426 BP:2
+C-Temenos - HP:4002/4002 SP:432/432 BP:2
+Equipo del enemigo
+A-Ice Wisp - HP:609/801 Shields:1
+B-Frost Bear - HP:211/1197 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Temenos
+3.Ice Wisp
+4.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Castti
+3.Temenos
+4.Ice Wisp
+5.Frost Bear
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Ice Wisp - HP:609/801 Shields:1
+2: Frost Bear - HP:211/1197 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Ice Wisp recibe 192 de daño de tipo Axe
+Ice Wisp termina con HP:417
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4294/4447 SP:369/369 BP:2
+B-Castti - HP:5336/5336 SP:426/426 BP:2
+C-Temenos - HP:4002/4002 SP:432/432 BP:2
+Equipo del enemigo
+A-Ice Wisp - HP:417/801 Shields:1
+B-Frost Bear - HP:211/1197 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Ice Wisp
+3.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Castti
+3.Temenos
+4.Ice Wisp
+5.Frost Bear
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Ice Wisp - HP:417/801 Shields:1
+2: Frost Bear - HP:211/1197 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Frost Bear recibe 206 de daño de tipo Stave
+Frost Bear termina con HP:5
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4294/4447 SP:369/369 BP:2
+B-Castti - HP:5336/5336 SP:426/426 BP:2
+C-Temenos - HP:4002/4002 SP:432/432 BP:2
+Equipo del enemigo
+A-Ice Wisp - HP:417/801 Shields:1
+B-Frost Bear - HP:5/1197 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ice Wisp
+2.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Castti
+3.Temenos
+4.Ice Wisp
+5.Frost Bear
+----------------------------------------
+Ice Wisp usa Freeze
+Ochette recibe 153 de daño elemental
+Ochette termina con HP:4141
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4141/4447 SP:369/369 BP:2
+B-Castti - HP:5336/5336 SP:426/426 BP:2
+C-Temenos - HP:4002/4002 SP:432/432 BP:2
+Equipo del enemigo
+A-Ice Wisp - HP:417/801 Shields:1
+B-Frost Bear - HP:5/1197 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Castti
+3.Temenos
+4.Ice Wisp
+5.Frost Bear
+----------------------------------------
+Frost Bear usa Attack
+Castti recibe 0 de daño físico
+Castti termina con HP:5336
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4141/4447 SP:369/369 BP:3
+B-Castti - HP:5336/5336 SP:426/426 BP:3
+C-Temenos - HP:4002/4002 SP:432/432 BP:3
+Equipo del enemigo
+A-Ice Wisp - HP:417/801 Shields:1
+B-Frost Bear - HP:5/1197 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Castti
+3.Temenos
+4.Ice Wisp
+5.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Castti
+3.Temenos
+4.Ice Wisp
+5.Frost Bear
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Ice Wisp - HP:417/801 Shields:1
+2: Frost Bear - HP:5/1197 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette ataca
+Ice Wisp recibe 251 de daño de tipo Bow
+Ice Wisp termina con HP:166
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4141/4447 SP:369/369 BP:3
+B-Castti - HP:5336/5336 SP:426/426 BP:3
+C-Temenos - HP:4002/4002 SP:432/432 BP:3
+Equipo del enemigo
+A-Ice Wisp - HP:166/801 Shields:1
+B-Frost Bear - HP:5/1197 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Temenos
+3.Ice Wisp
+4.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Castti
+3.Temenos
+4.Ice Wisp
+5.Frost Bear
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Ice Wisp - HP:166/801 Shields:1
+2: Frost Bear - HP:5/1197 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Ice Wisp recibe 192 de daño de tipo Axe
+Ice Wisp termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4141/4447 SP:369/369 BP:3
+B-Castti - HP:5336/5336 SP:426/426 BP:3
+C-Temenos - HP:4002/4002 SP:432/432 BP:3
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Frost Bear - HP:5/1197 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Frost Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Castti
+3.Temenos
+4.Frost Bear
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Frost Bear - HP:5/1197 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Frost Bear recibe 206 de daño de tipo Stave
+Frost Bear termina con HP:0
+----------------------------------------
+Gana equipo del jugador

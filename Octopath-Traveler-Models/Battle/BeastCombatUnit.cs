@@ -6,6 +6,10 @@ public sealed class BeastCombatUnit
     : Unit
 {
     private const int NoShields = 0;
+    private const int NoRounds = 0;
+    private const int MinimumDamage = 0;
+    private const int ShieldConsumptionPerWeakHit = 1;
+    private const int RoundCountdownStep = 1;
 
     public BeastCombatUnit(
         BeastDefinition beastDefinition,
@@ -58,7 +62,7 @@ public sealed class BeastCombatUnit
 
     public void ApplyDecreasedPriorityRounds(int rounds)
     {
-        if (rounds <= 0)
+        if (rounds <= NoRounds)
             return;
 
         RemainingDecreasedPriorityRounds += rounds;
@@ -66,8 +70,8 @@ public sealed class BeastCombatUnit
 
     public void ReceiveDamage(int damage)
     {
-        int normalizedDamage = Math.Max(0, damage);
-        CurrentHp = Math.Max(0, CurrentHp - normalizedDamage);
+        int normalizedDamage = Math.Max(MinimumDamage, damage);
+        CurrentHp = Math.Max(MinimumDamage, CurrentHp - normalizedDamage);
     }
 
     public void ConsumeShield()
@@ -75,7 +79,7 @@ public sealed class BeastCombatUnit
         if (CurrentShields <= NoShields)
             return;
 
-        CurrentShields -= 1;
+        CurrentShields -= ShieldConsumptionPerWeakHit;
     }
 
     public bool HasNoShieldsRemaining()
@@ -93,15 +97,16 @@ public sealed class BeastCombatUnit
         HasRecoveryPriorityCurrentRound = false;
         DecreaseBreakingRoundsAndRecoverShieldsIfNeeded();
         DecreasePriorityPenalty();
+        DecreaseStatusEffectDurationsForNextRound();
     }
 
     private void DecreaseBreakingRoundsAndRecoverShieldsIfNeeded()
     {
-        if (RemainingBreakingRounds <= 0)
+        if (RemainingBreakingRounds <= NoRounds)
             return;
 
-        RemainingBreakingRounds -= 1;
-        if (RemainingBreakingRounds == 0 && IsAlive)
+        RemainingBreakingRounds -= RoundCountdownStep;
+        if (RemainingBreakingRounds == NoRounds && IsAlive)
         {
             CurrentShields = MaxShields;
             HasRecoveryPriorityCurrentRound = true;
@@ -110,7 +115,7 @@ public sealed class BeastCombatUnit
 
     private void DecreasePriorityPenalty()
     {
-        if (RemainingDecreasedPriorityRounds > 0)
-            RemainingDecreasedPriorityRounds -= 1;
+        if (RemainingDecreasedPriorityRounds > NoRounds)
+            RemainingDecreasedPriorityRounds -= RoundCountdownStep;
     }
 }

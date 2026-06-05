@@ -1,0 +1,602 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+INPUT: 12
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:369/369 BP:2
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Forest Fox - HP:1380/1380 Shields:2
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Behemoth
+3.Cyrus
+4.Meep
+5.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Behemoth
+3.Cyrus
+4.Meep
+5.Forest Fox
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Meep - HP:1016/1016 Shields:2
+2: Forest Fox - HP:1380/1380 Shields:2
+3: Behemoth - HP:12690/12690 Shields:8
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette ataca
+Forest Fox recibe 282 de daño de tipo Axe
+Forest Fox termina con HP:1098
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:369/369 BP:2
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Forest Fox - HP:1098/1380 Shields:2
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Cyrus
+3.Meep
+4.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Behemoth
+3.Cyrus
+4.Meep
+5.Forest Fox
+----------------------------------------
+Behemoth usa Stampede
+Ochette recibe 809 de daño físico
+Cyrus recibe 739 de daño físico
+Ochette termina con HP:3638
+Cyrus termina con HP:2818
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:3638/4447 SP:369/369 BP:2
+B-Cyrus - HP:2818/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Forest Fox - HP:1098/1380 Shields:2
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Meep
+3.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Behemoth
+3.Cyrus
+4.Meep
+5.Forest Fox
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Fire Storm
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Fire Storm
+Meep recibe 472 de daño de tipo Fire
+Meep recibe 472 de daño de tipo Fire
+Forest Fox recibe 672 de daño de tipo Fire con debilidad
+Forest Fox recibe 672 de daño de tipo Fire con debilidad
+Forest Fox entra en Breaking Point
+Behemoth recibe 276 de daño de tipo Fire
+Behemoth recibe 276 de daño de tipo Fire
+Meep termina con HP:72
+Forest Fox termina con HP:0
+Behemoth termina con HP:12138
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:3638/4447 SP:369/369 BP:2
+B-Cyrus - HP:2818/3557 SP:560/582 BP:1
+Equipo del enemigo
+A-Meep - HP:72/1016 Shields:2
+B-Forest Fox - HP:0/1380 Shields:0
+C-Behemoth - HP:12138/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Behemoth
+3.Cyrus
+4.Meep
+----------------------------------------
+Meep usa Attack
+Ochette recibe 307 de daño físico
+Ochette termina con HP:3331
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:3331/4447 SP:369/369 BP:3
+B-Cyrus - HP:2818/3557 SP:560/582 BP:2
+Equipo del enemigo
+A-Meep - HP:72/1016 Shields:2
+B-Forest Fox - HP:0/1380 Shields:0
+C-Behemoth - HP:12138/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Behemoth
+3.Cyrus
+4.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Behemoth
+3.Cyrus
+4.Meep
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Meep - HP:72/1016 Shields:2
+2: Behemoth - HP:12138/12690 Shields:8
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette ataca
+Behemoth recibe 155 de daño de tipo Axe con debilidad
+Behemoth termina con HP:11983
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:3331/4447 SP:369/369 BP:3
+B-Cyrus - HP:2818/3557 SP:560/582 BP:2
+Equipo del enemigo
+A-Meep - HP:72/1016 Shields:2
+B-Forest Fox - HP:0/1380 Shields:0
+C-Behemoth - HP:11983/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Cyrus
+3.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Behemoth
+3.Cyrus
+4.Meep
+----------------------------------------
+Behemoth usa Stampede
+Ochette recibe 809 de daño físico
+Cyrus recibe 739 de daño físico
+Ochette termina con HP:2522
+Cyrus termina con HP:2079
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:2522/4447 SP:369/369 BP:3
+B-Cyrus - HP:2079/3557 SP:560/582 BP:2
+Equipo del enemigo
+A-Meep - HP:72/1016 Shields:2
+B-Forest Fox - HP:0/1380 Shields:0
+C-Behemoth - HP:11983/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Behemoth
+3.Cyrus
+4.Meep
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Meep - HP:72/1016 Shields:2
+2: Behemoth - HP:11983/12690 Shields:7
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Behemoth recibe 0 de daño de tipo Stave
+Behemoth termina con HP:11983
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:2522/4447 SP:369/369 BP:3
+B-Cyrus - HP:2079/3557 SP:560/582 BP:2
+Equipo del enemigo
+A-Meep - HP:72/1016 Shields:2
+B-Forest Fox - HP:0/1380 Shields:0
+C-Behemoth - HP:11983/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Behemoth
+3.Cyrus
+4.Meep
+----------------------------------------
+Meep usa Attack
+Ochette recibe 307 de daño físico
+Ochette termina con HP:2215
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:2215/4447 SP:369/369 BP:4
+B-Cyrus - HP:2079/3557 SP:560/582 BP:3
+Equipo del enemigo
+A-Meep - HP:72/1016 Shields:2
+B-Forest Fox - HP:0/1380 Shields:0
+C-Behemoth - HP:11983/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Behemoth
+3.Cyrus
+4.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Behemoth
+3.Cyrus
+4.Meep
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Aelfric's Auspices
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Ochette - HP:2215/4447 SP:369/369 BP:4
+2: Cyrus - HP:2079/3557 SP:560/582 BP:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Ochette usa Aelfric's Auspices
+Cyrus activará sus habilidades 2 veces durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:2215/4447 SP:339/369 BP:1
+B-Cyrus - HP:2079/3557 SP:560/582 BP:3
+Equipo del enemigo
+A-Meep - HP:72/1016 Shields:2
+B-Forest Fox - HP:0/1380 Shields:0
+C-Behemoth - HP:11983/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Cyrus
+3.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Behemoth
+3.Cyrus
+4.Meep
+----------------------------------------
+Behemoth usa Stampede
+Ochette recibe 809 de daño físico
+Cyrus recibe 739 de daño físico
+Ochette termina con HP:1406
+Cyrus termina con HP:1340
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:1406/4447 SP:339/369 BP:1
+B-Cyrus - HP:1340/3557 SP:560/582 BP:3
+Equipo del enemigo
+A-Meep - HP:72/1016 Shields:2
+B-Forest Fox - HP:0/1380 Shields:0
+C-Behemoth - HP:11983/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Behemoth
+3.Cyrus
+4.Meep
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Fire Storm
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Cyrus usa Fire Storm
+Meep recibe 1779 de daño de tipo Fire
+Meep recibe 1779 de daño de tipo Fire
+Meep recibe 1779 de daño de tipo Fire
+Meep recibe 1779 de daño de tipo Fire
+Behemoth recibe 1583 de daño de tipo Fire
+Behemoth recibe 1583 de daño de tipo Fire
+Behemoth recibe 1583 de daño de tipo Fire
+Behemoth recibe 1583 de daño de tipo Fire
+Meep termina con HP:0
+Behemoth termina con HP:5651
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:1406/4447 SP:339/369 BP:1
+B-Cyrus - HP:1340/3557 SP:538/582 BP:1
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:2
+B-Forest Fox - HP:0/1380 Shields:0
+C-Behemoth - HP:5651/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Behemoth
+3.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Behemoth
+3.Cyrus
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Behemoth - HP:5651/12690 Shields:7
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette ataca
+Behemoth recibe 155 de daño de tipo Axe con debilidad
+Behemoth termina con HP:5496
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:1406/4447 SP:339/369 BP:1
+B-Cyrus - HP:1340/3557 SP:538/582 BP:1
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:2
+B-Forest Fox - HP:0/1380 Shields:0
+C-Behemoth - HP:5496/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Behemoth
+3.Cyrus
+----------------------------------------
+Behemoth usa Stampede
+Ochette recibe 809 de daño físico
+Cyrus recibe 739 de daño físico
+Ochette termina con HP:597
+Cyrus termina con HP:601
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:597/4447 SP:339/369 BP:1
+B-Cyrus - HP:601/3557 SP:538/582 BP:1
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:2
+B-Forest Fox - HP:0/1380 Shields:0
+C-Behemoth - HP:5496/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Behemoth
+3.Cyrus
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Fire Storm
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Fire Storm
+Behemoth recibe 276 de daño de tipo Fire
+Behemoth recibe 276 de daño de tipo Fire
+Behemoth recibe 276 de daño de tipo Fire
+Behemoth recibe 276 de daño de tipo Fire
+Behemoth termina con HP:4392
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:597/4447 SP:339/369 BP:2
+B-Cyrus - HP:601/3557 SP:516/582 BP:2
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:2
+B-Forest Fox - HP:0/1380 Shields:0
+C-Behemoth - HP:4392/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Behemoth
+3.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Behemoth
+3.Cyrus
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Behemoth - HP:4392/12690 Shields:6
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette ataca
+Behemoth recibe 155 de daño de tipo Axe con debilidad
+Behemoth termina con HP:4237
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:597/4447 SP:339/369 BP:2
+B-Cyrus - HP:601/3557 SP:516/582 BP:2
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:2
+B-Forest Fox - HP:0/1380 Shields:0
+C-Behemoth - HP:4237/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Behemoth
+3.Cyrus
+----------------------------------------
+Behemoth usa Stampede
+Ochette recibe 809 de daño físico
+Cyrus recibe 739 de daño físico
+Ochette termina con HP:0
+Cyrus termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

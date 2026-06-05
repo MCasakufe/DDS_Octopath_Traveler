@@ -1,0 +1,354 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+INPUT: 0
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Mossy Meep - HP:1060/1060 Shields:3
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Meep
+3.Mossy Meep
+4.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Meep
+3.Mossy Meep
+4.Red Fox
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Fireball
+Meep recibe 427 de daño de tipo Fire
+Mossy Meep recibe 0 de daño de tipo Fire
+Red Fox recibe 462 de daño de tipo Fire
+Meep termina con HP:589
+Mossy Meep termina con HP:1060
+Red Fox termina con HP:989
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:574/582 BP:1
+Equipo del enemigo
+A-Meep - HP:589/1016 Shields:2
+B-Mossy Meep - HP:1060/1060 Shields:3
+C-Red Fox - HP:989/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Mossy Meep
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Meep
+3.Mossy Meep
+4.Red Fox
+----------------------------------------
+Meep usa Attack
+Cyrus recibe 237 de daño físico
+Cyrus termina con HP:3320
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3320/3557 SP:574/582 BP:1
+Equipo del enemigo
+A-Meep - HP:589/1016 Shields:2
+B-Mossy Meep - HP:1060/1060 Shields:3
+C-Red Fox - HP:989/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Meep
+3.Mossy Meep
+4.Red Fox
+----------------------------------------
+Mossy Meep usa Attack
+Cyrus recibe 254 de daño físico
+Cyrus termina con HP:3066
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3066/3557 SP:574/582 BP:1
+Equipo del enemigo
+A-Meep - HP:589/1016 Shields:2
+B-Mossy Meep - HP:1060/1060 Shields:3
+C-Red Fox - HP:989/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Meep
+3.Mossy Meep
+4.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Cyrus recibe 162 de daño físico
+Cyrus termina con HP:2904
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2904/3557 SP:574/582 BP:2
+Equipo del enemigo
+A-Meep - HP:589/1016 Shields:2
+B-Mossy Meep - HP:1060/1060 Shields:3
+C-Red Fox - HP:989/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Meep
+3.Mossy Meep
+4.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Meep
+3.Mossy Meep
+4.Red Fox
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Fireball
+Meep recibe 427 de daño de tipo Fire
+Mossy Meep recibe 0 de daño de tipo Fire
+Red Fox recibe 462 de daño de tipo Fire
+Meep termina con HP:162
+Mossy Meep termina con HP:1060
+Red Fox termina con HP:527
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2904/3557 SP:566/582 BP:2
+Equipo del enemigo
+A-Meep - HP:162/1016 Shields:2
+B-Mossy Meep - HP:1060/1060 Shields:3
+C-Red Fox - HP:527/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Mossy Meep
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Meep
+3.Mossy Meep
+4.Red Fox
+----------------------------------------
+Meep usa Attack
+Cyrus recibe 237 de daño físico
+Cyrus termina con HP:2667
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2667/3557 SP:566/582 BP:2
+Equipo del enemigo
+A-Meep - HP:162/1016 Shields:2
+B-Mossy Meep - HP:1060/1060 Shields:3
+C-Red Fox - HP:527/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Meep
+3.Mossy Meep
+4.Red Fox
+----------------------------------------
+Mossy Meep usa Attack
+Cyrus recibe 254 de daño físico
+Cyrus termina con HP:2413
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2413/3557 SP:566/582 BP:2
+Equipo del enemigo
+A-Meep - HP:162/1016 Shields:2
+B-Mossy Meep - HP:1060/1060 Shields:3
+C-Red Fox - HP:527/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Meep
+3.Mossy Meep
+4.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Cyrus recibe 162 de daño físico
+Cyrus termina con HP:2251
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2251/3557 SP:566/582 BP:3
+Equipo del enemigo
+A-Meep - HP:162/1016 Shields:2
+B-Mossy Meep - HP:1060/1060 Shields:3
+C-Red Fox - HP:527/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Meep
+3.Mossy Meep
+4.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Meep
+3.Mossy Meep
+4.Red Fox
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Fireball
+Meep recibe 427 de daño de tipo Fire
+Mossy Meep recibe 0 de daño de tipo Fire
+Red Fox recibe 462 de daño de tipo Fire
+Meep termina con HP:0
+Mossy Meep termina con HP:1060
+Red Fox termina con HP:65
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2251/3557 SP:558/582 BP:3
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:2
+B-Mossy Meep - HP:1060/1060 Shields:3
+C-Red Fox - HP:65/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Mossy Meep
+3.Red Fox
+----------------------------------------
+Mossy Meep usa Attack
+Cyrus recibe 254 de daño físico
+Cyrus termina con HP:1997
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1997/3557 SP:558/582 BP:3
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:2
+B-Mossy Meep - HP:1060/1060 Shields:3
+C-Red Fox - HP:65/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Mossy Meep
+3.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Cyrus recibe 162 de daño físico
+Cyrus termina con HP:1835
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1835/3557 SP:558/582 BP:4
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:2
+B-Mossy Meep - HP:1060/1060 Shields:3
+C-Red Fox - HP:65/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Mossy Meep
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Mossy Meep
+3.Red Fox
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo

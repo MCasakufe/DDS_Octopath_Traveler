@@ -1,0 +1,3206 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 31
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:357/357 BP:1
+B-Olberic - HP:5781/5781 SP:341/341 BP:1
+C-Temenos - HP:4502/4502 SP:482/482 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+5.Light Wisp
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:357/357 BP:1
+B-Olberic - HP:5781/5781 SP:341/341 BP:1
+C-Temenos - HP:4502/4502 SP:482/482 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Tressa
+3.Lord of the Flies
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+5.Light Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:357/357 BP:1
+B-Olberic - HP:5781/5781 SP:341/341 BP:1
+C-Temenos - HP:4502/4502 SP:482/482 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+B-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Lord of the Flies
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+5.Light Wisp
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Light Wisp - HP:972/972 Shields:1
+2: Lord of the Flies - HP:5590/5590 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Tradewinds
+Light Wisp recibe 380 de daño de tipo Wind
+Light Wisp termina con HP:592
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:350/357 BP:1
+B-Olberic - HP:5781/5781 SP:341/341 BP:1
+C-Temenos - HP:4502/4502 SP:482/482 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:592/972 Shields:1
+B-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+5.Light Wisp
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Temenos se defiende
+Temenos recibe 144 de daño físico
+Temenos termina con HP:4358
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:350/357 BP:1
+B-Olberic - HP:5781/5781 SP:341/341 BP:1
+C-Temenos - HP:4358/4502 SP:482/482 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:592/972 Shields:1
+B-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+5.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Olberic se defiende
+Olberic recibe 61 de daño elemental
+Olberic termina con HP:5720
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:350/357 BP:2
+B-Olberic - HP:5720/5781 SP:341/341 BP:2
+C-Temenos - HP:4358/4502 SP:482/482 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:592/972 Shields:1
+B-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+5.Light Wisp
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Trade Tempest
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Trade Tempest
+Light Wisp recibe 270 de daño de tipo Wind
+Lord of the Flies recibe 12 de daño de tipo Wind con debilidad
+Light Wisp termina con HP:322
+Lord of the Flies termina con HP:5578
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:350/357 BP:2
+B-Olberic - HP:5720/5781 SP:331/341 BP:2
+C-Temenos - HP:4358/4502 SP:482/482 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:322/972 Shields:1
+B-Lord of the Flies - HP:5578/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Tressa
+3.Lord of the Flies
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+5.Light Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Leghold Trap
+2: Mercy Strike
+3: Icewind
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos usa Icewind
+Light Wisp recibe 610 de daño de tipo Ice con debilidad
+Light Wisp entra en Breaking Point
+Lord of the Flies recibe 145 de daño de tipo Ice
+Light Wisp termina con HP:0
+Lord of the Flies termina con HP:5433
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:350/357 BP:2
+B-Olberic - HP:5720/5781 SP:331/341 BP:2
+C-Temenos - HP:4358/4502 SP:474/482 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:5433/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Lord of the Flies - HP:5433/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Tradewinds
+Lord of the Flies recibe 177 de daño de tipo Wind con debilidad
+Lord of the Flies termina con HP:5256
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:343/357 BP:2
+B-Olberic - HP:5720/5781 SP:331/341 BP:2
+C-Temenos - HP:4358/4502 SP:474/482 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:5256/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Temenos recibe 288 de daño físico
+Temenos termina con HP:4070
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:343/357 BP:3
+B-Olberic - HP:5720/5781 SP:331/341 BP:3
+C-Temenos - HP:4070/4502 SP:474/482 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:5256/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:343/357 BP:3
+B-Olberic - HP:5720/5781 SP:331/341 BP:3
+C-Temenos - HP:4070/4502 SP:474/482 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:5256/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Tressa
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Leghold Trap
+2: Mercy Strike
+3: Icewind
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos usa Icewind
+Lord of the Flies recibe 145 de daño de tipo Ice
+Lord of the Flies termina con HP:5111
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:343/357 BP:3
+B-Olberic - HP:5720/5781 SP:331/341 BP:3
+C-Temenos - HP:4070/4502 SP:466/482 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:5111/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Lord of the Flies - HP:5111/5590 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Tradewinds
+Lord of the Flies recibe 177 de daño de tipo Wind con debilidad
+Lord of the Flies entra en Breaking Point
+Lord of the Flies termina con HP:4934
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:336/357 BP:4
+B-Olberic - HP:5720/5781 SP:331/341 BP:4
+C-Temenos - HP:4070/4502 SP:466/482 BP:4
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:4934/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Temenos
+3.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Olberic
+3.Temenos
+4.Tressa
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Lord of the Flies - HP:4934/5590 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Lord of the Flies recibe 118 de daño de tipo Sword
+Lord of the Flies termina con HP:4816
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:336/357 BP:4
+B-Olberic - HP:5720/5781 SP:331/341 BP:4
+C-Temenos - HP:4070/4502 SP:466/482 BP:4
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:4816/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Olberic
+3.Temenos
+4.Tressa
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Leghold Trap
+2: Mercy Strike
+3: Icewind
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Lord of the Flies - HP:4816/5590 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos usa Mercy Strike
+Lord of the Flies recibe 32 de daño de tipo Bow con debilidad
+Lord of the Flies termina con HP:4784
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:336/357 BP:4
+B-Olberic - HP:5720/5781 SP:331/341 BP:4
+C-Temenos - HP:4070/4502 SP:462/482 BP:4
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:4784/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Olberic
+3.Temenos
+4.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Lord of the Flies - HP:4784/5590 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Lord of the Flies recibe 28 de daño de tipo Spear con debilidad
+Lord of the Flies termina con HP:4756
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:336/357 BP:5
+B-Olberic - HP:5720/5781 SP:331/341 BP:5
+C-Temenos - HP:4070/4502 SP:462/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:4756/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Olberic
+3.Temenos
+4.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Temenos recibe 288 de daño físico
+Temenos termina con HP:3782
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:336/357 BP:5
+B-Olberic - HP:5720/5781 SP:331/341 BP:5
+C-Temenos - HP:3782/4502 SP:462/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:4756/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Temenos
+3.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Trade Tempest
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Trade Tempest
+Lord of the Flies recibe 12 de daño de tipo Wind con debilidad
+Lord of the Flies termina con HP:4744
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:336/357 BP:5
+B-Olberic - HP:5720/5781 SP:321/341 BP:5
+C-Temenos - HP:3782/4502 SP:462/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:4744/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:336/357 BP:5
+B-Olberic - HP:5720/5781 SP:321/341 BP:5
+C-Temenos - HP:3782/4502 SP:462/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:4744/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Olberic
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Lord of the Flies - HP:4744/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Lord of the Flies recibe 21 de daño de tipo Bow con debilidad
+Lord of the Flies termina con HP:4723
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:336/357 BP:5
+B-Olberic - HP:5720/5781 SP:321/341 BP:5
+C-Temenos - HP:3782/4502 SP:462/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:4723/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Olberic
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Leghold Trap
+2: Mercy Strike
+3: Icewind
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos usa Icewind
+Lord of the Flies recibe 145 de daño de tipo Ice
+Lord of the Flies termina con HP:4578
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:336/357 BP:5
+B-Olberic - HP:5720/5781 SP:321/341 BP:5
+C-Temenos - HP:3782/4502 SP:454/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:4578/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Tressa
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Trade Tempest
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Trade Tempest
+Lord of the Flies recibe 12 de daño de tipo Wind con debilidad
+Lord of the Flies entra en Breaking Point
+Lord of the Flies termina con HP:4566
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:336/357 BP:5
+B-Olberic - HP:5720/5781 SP:311/341 BP:5
+C-Temenos - HP:3782/4502 SP:454/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:4566/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Lord of the Flies - HP:4566/5590 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Tradewinds
+Lord of the Flies recibe 236 de daño de tipo Wind con debilidad
+Lord of the Flies termina con HP:4330
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:329/357 BP:5
+B-Olberic - HP:5720/5781 SP:311/341 BP:5
+C-Temenos - HP:3782/4502 SP:454/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:4330/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Temenos
+3.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Olberic
+3.Temenos
+4.Tressa
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Lord of the Flies - HP:4330/5590 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Lord of the Flies recibe 118 de daño de tipo Sword
+Lord of the Flies termina con HP:4212
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:329/357 BP:5
+B-Olberic - HP:5720/5781 SP:311/341 BP:5
+C-Temenos - HP:3782/4502 SP:454/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:4212/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Olberic
+3.Temenos
+4.Tressa
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Lord of the Flies - HP:4212/5590 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies termina con HP:4212
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:329/357 BP:5
+B-Olberic - HP:5720/5781 SP:311/341 BP:5
+C-Temenos - HP:3782/4502 SP:454/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:4212/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Olberic
+3.Temenos
+4.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Lord of the Flies - HP:4212/5590 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Lord of the Flies recibe 28 de daño de tipo Spear con debilidad
+Lord of the Flies termina con HP:4184
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:329/357 BP:5
+B-Olberic - HP:5720/5781 SP:311/341 BP:5
+C-Temenos - HP:3782/4502 SP:454/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:4184/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Olberic
+3.Temenos
+4.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Temenos recibe 288 de daño físico
+Temenos termina con HP:3494
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:329/357 BP:5
+B-Olberic - HP:5720/5781 SP:311/341 BP:5
+C-Temenos - HP:3494/4502 SP:454/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:4184/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Temenos
+3.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:329/357 BP:5
+B-Olberic - HP:5720/5781 SP:311/341 BP:5
+C-Temenos - HP:3494/4502 SP:454/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:4184/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:329/357 BP:5
+B-Olberic - HP:5720/5781 SP:311/341 BP:5
+C-Temenos - HP:3494/4502 SP:454/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:4184/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Lord of the Flies - HP:4184/5590 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Tradewinds
+Lord of the Flies recibe 177 de daño de tipo Wind con debilidad
+Lord of the Flies termina con HP:4007
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:322/357 BP:5
+B-Olberic - HP:5720/5781 SP:311/341 BP:5
+C-Temenos - HP:3494/4502 SP:454/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:4007/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Trade Tempest
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Trade Tempest
+Lord of the Flies recibe 12 de daño de tipo Wind con debilidad
+Lord of the Flies termina con HP:3995
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:322/357 BP:5
+B-Olberic - HP:5720/5781 SP:301/341 BP:5
+C-Temenos - HP:3494/4502 SP:454/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:3995/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Tressa
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:322/357 BP:5
+B-Olberic - HP:5720/5781 SP:301/341 BP:5
+C-Temenos - HP:3494/4502 SP:454/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:3995/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Olberic
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Lord of the Flies - HP:3995/5590 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Lord of the Flies recibe 21 de daño de tipo Bow con debilidad
+Lord of the Flies entra en Breaking Point
+Lord of the Flies termina con HP:3974
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:322/357 BP:5
+B-Olberic - HP:5720/5781 SP:301/341 BP:5
+C-Temenos - HP:3494/4502 SP:454/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:3974/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Olberic
+3.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Olberic
+3.Temenos
+4.Tressa
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Leghold Trap
+2: Mercy Strike
+3: Icewind
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos usa Icewind
+Lord of the Flies recibe 217 de daño de tipo Ice
+Lord of the Flies termina con HP:3757
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:322/357 BP:5
+B-Olberic - HP:5720/5781 SP:301/341 BP:5
+C-Temenos - HP:3494/4502 SP:446/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:3757/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Olberic
+3.Temenos
+4.Tressa
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:322/357 BP:5
+B-Olberic - HP:5720/5781 SP:301/341 BP:5
+C-Temenos - HP:3494/4502 SP:446/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:3757/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Olberic
+3.Temenos
+4.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Lord of the Flies - HP:3757/5590 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Tradewinds
+Lord of the Flies recibe 236 de daño de tipo Wind con debilidad
+Lord of the Flies termina con HP:3521
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:315/357 BP:5
+B-Olberic - HP:5720/5781 SP:301/341 BP:5
+C-Temenos - HP:3494/4502 SP:446/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:3521/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Olberic
+3.Temenos
+4.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Temenos recibe 288 de daño físico
+Temenos termina con HP:3206
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:315/357 BP:5
+B-Olberic - HP:5720/5781 SP:301/341 BP:5
+C-Temenos - HP:3206/4502 SP:446/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:3521/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Temenos
+3.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Trade Tempest
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Trade Tempest
+Lord of the Flies recibe 12 de daño de tipo Wind con debilidad
+Lord of the Flies termina con HP:3509
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:315/357 BP:5
+B-Olberic - HP:5720/5781 SP:291/341 BP:5
+C-Temenos - HP:3206/4502 SP:446/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:3509/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:315/357 BP:5
+B-Olberic - HP:5720/5781 SP:291/341 BP:5
+C-Temenos - HP:3206/4502 SP:446/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:3509/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Olberic
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Lord of the Flies - HP:3509/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Tradewinds
+Lord of the Flies recibe 177 de daño de tipo Wind con debilidad
+Lord of the Flies termina con HP:3332
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:308/357 BP:5
+B-Olberic - HP:5720/5781 SP:291/341 BP:5
+C-Temenos - HP:3206/4502 SP:446/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:3332/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Olberic
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:308/357 BP:5
+B-Olberic - HP:5720/5781 SP:291/341 BP:5
+C-Temenos - HP:3206/4502 SP:446/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:3332/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Tressa
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Olberic
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Trade Tempest
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Trade Tempest
+Lord of the Flies recibe 12 de daño de tipo Wind con debilidad
+Lord of the Flies entra en Breaking Point
+Lord of the Flies termina con HP:3320
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:308/357 BP:5
+B-Olberic - HP:5720/5781 SP:281/341 BP:5
+C-Temenos - HP:3206/4502 SP:446/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:3320/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Olberic
+3.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Lord of the Flies - HP:3320/5590 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Tradewinds
+Lord of the Flies recibe 236 de daño de tipo Wind con debilidad
+Lord of the Flies termina con HP:3084
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:301/357 BP:5
+B-Olberic - HP:5720/5781 SP:281/341 BP:5
+C-Temenos - HP:3206/4502 SP:446/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:3084/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Olberic
+3.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Olberic
+3.Temenos
+4.Tressa
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:301/357 BP:5
+B-Olberic - HP:5720/5781 SP:281/341 BP:5
+C-Temenos - HP:3206/4502 SP:446/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:3084/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Temenos
+3.Olberic
+4.Tressa
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Lord of the Flies - HP:3084/5590 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Lord of the Flies recibe 158 de daño de tipo Spear con debilidad
+Lord of the Flies termina con HP:2926
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:301/357 BP:5
+B-Olberic - HP:5720/5781 SP:281/341 BP:5
+C-Temenos - HP:3206/4502 SP:446/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:2926/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Temenos
+3.Olberic
+4.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Lord of the Flies - HP:2926/5590 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Tradewinds
+Lord of the Flies recibe 236 de daño de tipo Wind con debilidad
+Lord of the Flies termina con HP:2690
+----------------------------------------
+INICIA RONDA 14
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:294/357 BP:5
+B-Olberic - HP:5720/5781 SP:281/341 BP:5
+C-Temenos - HP:3206/4502 SP:446/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:2690/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Temenos
+3.Olberic
+4.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Temenos recibe 288 de daño físico
+Temenos termina con HP:2918
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:294/357 BP:5
+B-Olberic - HP:5720/5781 SP:281/341 BP:5
+C-Temenos - HP:2918/4502 SP:446/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:2690/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Olberic
+3.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Lord of the Flies - HP:2690/5590 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies termina con HP:2690
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:294/357 BP:5
+B-Olberic - HP:5720/5781 SP:281/341 BP:5
+C-Temenos - HP:2918/4502 SP:446/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:2690/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Lord of the Flies - HP:2690/5590 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Lord of the Flies recibe 118 de daño de tipo Spear con debilidad
+Lord of the Flies termina con HP:2572
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:294/357 BP:5
+B-Olberic - HP:5720/5781 SP:281/341 BP:5
+C-Temenos - HP:2918/4502 SP:446/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:2572/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Lord of the Flies - HP:2572/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Lord of the Flies recibe 21 de daño de tipo Bow con debilidad
+Lord of the Flies termina con HP:2551
+----------------------------------------
+INICIA RONDA 15
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:294/357 BP:5
+B-Olberic - HP:5720/5781 SP:281/341 BP:5
+C-Temenos - HP:2918/4502 SP:446/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:2551/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Trade Tempest
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Trade Tempest
+Lord of the Flies recibe 12 de daño de tipo Wind con debilidad
+Lord of the Flies entra en Breaking Point
+Lord of the Flies termina con HP:2539
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:294/357 BP:5
+B-Olberic - HP:5720/5781 SP:271/341 BP:5
+C-Temenos - HP:2918/4502 SP:446/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:2539/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Lord of the Flies - HP:2539/5590 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies termina con HP:2539
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:294/357 BP:5
+B-Olberic - HP:5720/5781 SP:271/341 BP:5
+C-Temenos - HP:2918/4502 SP:446/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:2539/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Lord of the Flies - HP:2539/5590 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Tradewinds
+Lord of the Flies recibe 236 de daño de tipo Wind con debilidad
+Lord of the Flies termina con HP:2303
+----------------------------------------
+INICIA RONDA 16
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:287/357 BP:5
+B-Olberic - HP:5720/5781 SP:271/341 BP:5
+C-Temenos - HP:2918/4502 SP:446/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:2303/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Temenos
+3.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Olberic
+3.Temenos
+4.Tressa
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:287/357 BP:5
+B-Olberic - HP:5720/5781 SP:271/341 BP:5
+C-Temenos - HP:2918/4502 SP:446/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:2303/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Olberic
+3.Temenos
+4.Tressa
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Lord of the Flies - HP:2303/5590 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies termina con HP:2303
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:287/357 BP:5
+B-Olberic - HP:5720/5781 SP:271/341 BP:5
+C-Temenos - HP:2918/4502 SP:446/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:2303/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Olberic
+3.Temenos
+4.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Lord of the Flies - HP:2303/5590 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Tradewinds
+Lord of the Flies recibe 236 de daño de tipo Wind con debilidad
+Lord of the Flies termina con HP:2067
+----------------------------------------
+INICIA RONDA 17
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:280/357 BP:5
+B-Olberic - HP:5720/5781 SP:271/341 BP:5
+C-Temenos - HP:2918/4502 SP:446/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:2067/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Olberic
+3.Temenos
+4.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Temenos recibe 288 de daño físico
+Temenos termina con HP:2630
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:280/357 BP:5
+B-Olberic - HP:5720/5781 SP:271/341 BP:5
+C-Temenos - HP:2630/4502 SP:446/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:2067/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Temenos
+3.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Lord of the Flies - HP:2067/5590 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Lord of the Flies recibe 118 de daño de tipo Spear con debilidad
+Lord of the Flies termina con HP:1949
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:280/357 BP:5
+B-Olberic - HP:5720/5781 SP:271/341 BP:5
+C-Temenos - HP:2630/4502 SP:446/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:1949/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Lord of the Flies - HP:1949/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies termina con HP:1949
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:280/357 BP:5
+B-Olberic - HP:5720/5781 SP:271/341 BP:5
+C-Temenos - HP:2630/4502 SP:446/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:1949/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 18
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:280/357 BP:5
+B-Olberic - HP:5720/5781 SP:271/341 BP:5
+C-Temenos - HP:2630/4502 SP:446/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:1949/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Olberic
+3.Temenos
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Lord of the Flies - HP:1949/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Tradewinds
+Lord of the Flies recibe 177 de daño de tipo Wind con debilidad
+Lord of the Flies termina con HP:1772
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:273/357 BP:5
+B-Olberic - HP:5720/5781 SP:271/341 BP:5
+C-Temenos - HP:2630/4502 SP:446/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:1772/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Temenos
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Trade Tempest
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Trade Tempest
+Lord of the Flies recibe 12 de daño de tipo Wind con debilidad
+Lord of the Flies entra en Breaking Point
+Lord of the Flies termina con HP:1760
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:273/357 BP:5
+B-Olberic - HP:5720/5781 SP:261/341 BP:5
+C-Temenos - HP:2630/4502 SP:446/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:1760/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Lord of the Flies - HP:1760/5590 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies termina con HP:1760
+----------------------------------------
+INICIA RONDA 19
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:273/357 BP:5
+B-Olberic - HP:5720/5781 SP:261/341 BP:5
+C-Temenos - HP:2630/4502 SP:446/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:1760/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Temenos
+3.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Olberic
+3.Temenos
+4.Tressa
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Lord of the Flies - HP:1760/5590 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Lord of the Flies recibe 118 de daño de tipo Sword
+Lord of the Flies termina con HP:1642
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:273/357 BP:5
+B-Olberic - HP:5720/5781 SP:261/341 BP:5
+C-Temenos - HP:2630/4502 SP:446/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:1642/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Olberic
+3.Temenos
+4.Tressa
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Leghold Trap
+2: Mercy Strike
+3: Icewind
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos usa Icewind
+Lord of the Flies recibe 217 de daño de tipo Ice
+Lord of the Flies termina con HP:1425
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:273/357 BP:5
+B-Olberic - HP:5720/5781 SP:261/341 BP:5
+C-Temenos - HP:2630/4502 SP:438/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:1425/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Olberic
+3.Temenos
+4.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 20
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:273/357 BP:5
+B-Olberic - HP:5720/5781 SP:261/341 BP:5
+C-Temenos - HP:2630/4502 SP:438/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:1425/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Tressa
+3.Olberic
+4.Temenos
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Temenos recibe 288 de daño físico
+Temenos termina con HP:2342
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:273/357 BP:5
+B-Olberic - HP:5720/5781 SP:261/341 BP:5
+C-Temenos - HP:2342/4502 SP:438/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:1425/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Olberic
+3.Temenos
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Lord of the Flies - HP:1425/5590 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Lord of the Flies recibe 21 de daño de tipo Spear con debilidad
+Lord of the Flies termina con HP:1404
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:273/357 BP:5
+B-Olberic - HP:5720/5781 SP:261/341 BP:5
+C-Temenos - HP:2342/4502 SP:438/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:1404/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Temenos
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Lord of the Flies - HP:1404/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Lord of the Flies recibe 118 de daño de tipo Spear con debilidad
+Lord of the Flies termina con HP:1286
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:273/357 BP:5
+B-Olberic - HP:5720/5781 SP:261/341 BP:5
+C-Temenos - HP:2342/4502 SP:438/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:1286/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 21
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:273/357 BP:5
+B-Olberic - HP:5720/5781 SP:261/341 BP:5
+C-Temenos - HP:2342/4502 SP:438/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:1286/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Olberic
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Leghold Trap
+2: Mercy Strike
+3: Icewind
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Lord of the Flies - HP:1286/5590 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos usa Mercy Strike
+Lord of the Flies recibe 24 de daño de tipo Bow con debilidad
+Lord of the Flies entra en Breaking Point
+Lord of the Flies termina con HP:1262
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:273/357 BP:5
+B-Olberic - HP:5720/5781 SP:261/341 BP:5
+C-Temenos - HP:2342/4502 SP:434/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:1262/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Lord of the Flies - HP:1262/5590 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Lord of the Flies recibe 118 de daño de tipo Sword
+Lord of the Flies termina con HP:1144
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:273/357 BP:5
+B-Olberic - HP:5720/5781 SP:261/341 BP:5
+C-Temenos - HP:2342/4502 SP:434/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:1144/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Lord of the Flies - HP:1144/5590 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Tradewinds
+Lord of the Flies recibe 236 de daño de tipo Wind con debilidad
+Lord of the Flies termina con HP:908
+----------------------------------------
+INICIA RONDA 22
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:266/357 BP:5
+B-Olberic - HP:5720/5781 SP:261/341 BP:5
+C-Temenos - HP:2342/4502 SP:434/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:908/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Temenos
+3.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Olberic
+3.Temenos
+4.Tressa
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Trade Tempest
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Trade Tempest
+Lord of the Flies recibe 17 de daño de tipo Wind con debilidad
+Lord of the Flies termina con HP:891
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:266/357 BP:5
+B-Olberic - HP:5720/5781 SP:251/341 BP:5
+C-Temenos - HP:2342/4502 SP:434/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:891/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Olberic
+3.Temenos
+4.Tressa
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Leghold Trap
+2: Mercy Strike
+3: Icewind
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos usa Icewind
+Lord of the Flies recibe 217 de daño de tipo Ice
+Lord of the Flies termina con HP:674
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:266/357 BP:5
+B-Olberic - HP:5720/5781 SP:251/341 BP:5
+C-Temenos - HP:2342/4502 SP:426/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:674/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Olberic
+3.Temenos
+4.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 23
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:266/357 BP:5
+B-Olberic - HP:5720/5781 SP:251/341 BP:5
+C-Temenos - HP:2342/4502 SP:426/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:674/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Tressa
+3.Olberic
+4.Temenos
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Temenos recibe 288 de daño físico
+Temenos termina con HP:2054
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:266/357 BP:5
+B-Olberic - HP:5720/5781 SP:251/341 BP:5
+C-Temenos - HP:2054/4502 SP:426/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:674/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Olberic
+3.Temenos
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Lord of the Flies - HP:674/5590 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Lord of the Flies recibe 21 de daño de tipo Bow con debilidad
+Lord of the Flies termina con HP:653
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:266/357 BP:5
+B-Olberic - HP:5720/5781 SP:251/341 BP:5
+C-Temenos - HP:2054/4502 SP:426/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:653/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Temenos
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Lord of the Flies - HP:653/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Lord of the Flies recibe 79 de daño de tipo Sword
+Lord of the Flies termina con HP:574
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:266/357 BP:5
+B-Olberic - HP:5720/5781 SP:251/341 BP:5
+C-Temenos - HP:2054/4502 SP:426/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:574/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 24
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:266/357 BP:5
+B-Olberic - HP:5720/5781 SP:251/341 BP:5
+C-Temenos - HP:2054/4502 SP:426/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:574/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Olberic
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Temenos
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:266/357 BP:5
+B-Olberic - HP:5720/5781 SP:251/341 BP:5
+C-Temenos - HP:2054/4502 SP:426/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:574/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Tressa
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Olberic
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Trade Tempest
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Trade Tempest
+Lord of the Flies recibe 12 de daño de tipo Wind con debilidad
+Lord of the Flies termina con HP:562
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:266/357 BP:5
+B-Olberic - HP:5720/5781 SP:241/341 BP:5
+C-Temenos - HP:2054/4502 SP:426/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:562/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Olberic
+3.Tressa
+4.Lord of the Flies
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Lord of the Flies - HP:562/5590 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Tradewinds
+Lord of the Flies recibe 177 de daño de tipo Wind con debilidad
+Lord of the Flies entra en Breaking Point
+Lord of the Flies termina con HP:385
+----------------------------------------
+INICIA RONDA 25
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:259/357 BP:5
+B-Olberic - HP:5720/5781 SP:241/341 BP:5
+C-Temenos - HP:2054/4502 SP:426/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:385/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Olberic
+3.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Olberic
+3.Temenos
+4.Tressa
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Leghold Trap
+2: Mercy Strike
+3: Icewind
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos usa Icewind
+Lord of the Flies recibe 217 de daño de tipo Ice
+Lord of the Flies termina con HP:168
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:259/357 BP:5
+B-Olberic - HP:5720/5781 SP:241/341 BP:5
+C-Temenos - HP:2054/4502 SP:418/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:168/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Olberic
+3.Temenos
+4.Tressa
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5391/5391 SP:259/357 BP:5
+B-Olberic - HP:5720/5781 SP:241/341 BP:5
+C-Temenos - HP:2054/4502 SP:418/482 BP:5
+Equipo del enemigo
+A-Light Wisp - HP:0/972 Shields:0
+B-Lord of the Flies - HP:168/5590 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Lord of the Flies
+2.Olberic
+3.Temenos
+4.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Tradewinds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Lord of the Flies - HP:168/5590 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Tradewinds
+Lord of the Flies recibe 236 de daño de tipo Wind con debilidad
+Lord of the Flies termina con HP:0
+----------------------------------------
+Gana equipo del jugador

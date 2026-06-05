@@ -1,0 +1,208 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+INPUT: 1
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Snow Fox - HP:2600/2600 Shields:1
+B-Lightning Elemental - HP:2133/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Snow Fox
+2.Cyrus
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Cyrus
+3.Lightning Elemental
+----------------------------------------
+Snow Fox usa Attack
+Cyrus recibe 414 de daño físico
+Cyrus termina con HP:3143
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3143/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Snow Fox - HP:2600/2600 Shields:1
+B-Lightning Elemental - HP:2133/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Cyrus
+3.Lightning Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Fire Storm
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Fire Storm
+Snow Fox recibe 458 de daño de tipo Fire con debilidad
+Snow Fox entra en Breaking Point
+Snow Fox recibe 610 de daño de tipo Fire con debilidad
+Lightning Elemental recibe 566 de daño de tipo Fire con debilidad
+Lightning Elemental recibe 566 de daño de tipo Fire con debilidad
+Snow Fox termina con HP:1532
+Lightning Elemental termina con HP:1001
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3143/3557 SP:560/582 BP:1
+Equipo del enemigo
+A-Snow Fox - HP:1532/2600 Shields:0
+B-Lightning Elemental - HP:1001/2133 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Cyrus recibe 78 de daño elemental
+Cyrus termina con HP:3065
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3065/3557 SP:560/582 BP:2
+Equipo del enemigo
+A-Snow Fox - HP:1532/2600 Shields:0
+B-Lightning Elemental - HP:1001/2133 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Cyrus
+3.Lightning Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Fire Storm
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Fire Storm
+Snow Fox recibe 610 de daño de tipo Fire con debilidad
+Snow Fox recibe 610 de daño de tipo Fire con debilidad
+Lightning Elemental recibe 566 de daño de tipo Fire con debilidad
+Lightning Elemental recibe 566 de daño de tipo Fire con debilidad
+Lightning Elemental entra en Breaking Point
+Snow Fox termina con HP:312
+Lightning Elemental termina con HP:0
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3065/3557 SP:538/582 BP:3
+Equipo del enemigo
+A-Snow Fox - HP:312/2600 Shields:1
+B-Lightning Elemental - HP:0/2133 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Snow Fox
+2.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Cyrus
+----------------------------------------
+Snow Fox usa Attack
+Cyrus recibe 414 de daño físico
+Cyrus termina con HP:2651
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2651/3557 SP:538/582 BP:3
+Equipo del enemigo
+A-Snow Fox - HP:312/2600 Shields:1
+B-Lightning Elemental - HP:0/2133 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+----------------------------------------
+Turnos de la siguiente ronda
+1.Snow Fox
+2.Cyrus
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Fire Storm
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Fire Storm
+Snow Fox recibe 458 de daño de tipo Fire con debilidad
+Snow Fox entra en Breaking Point
+Snow Fox recibe 610 de daño de tipo Fire con debilidad
+Snow Fox termina con HP:0
+----------------------------------------
+Gana equipo del jugador

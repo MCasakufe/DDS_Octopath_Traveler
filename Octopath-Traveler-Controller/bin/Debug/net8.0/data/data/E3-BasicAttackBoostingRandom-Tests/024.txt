@@ -1,0 +1,1140 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+INPUT: 23
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4891/4891 SP:314/314 BP:1
+B-Ochette - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Monarch - HP:6740/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Partitio
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Partitio
+3.Monarch
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4891/4891 SP:314/314 BP:1
+B-Ochette - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Monarch - HP:6740/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Partitio
+3.Monarch
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Monarch - HP:6740/6740 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Partitio no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Partitio no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Partitio no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Partitio ataca
+Monarch recibe 294 de daño de tipo Bow con debilidad
+Monarch recibe 294 de daño de tipo Bow con debilidad
+Monarch termina con HP:6152
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4891/4891 SP:314/314 BP:0
+B-Ochette - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Monarch - HP:6152/6740 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Partitio
+3.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Partitio recibe 361 de daño elemental
+Ochette se defiende
+Ochette recibe 205 de daño elemental
+Partitio termina con HP:4530
+Ochette termina con HP:4242
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4530/4891 SP:314/314 BP:0
+B-Ochette - HP:4242/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Monarch - HP:6152/6740 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Partitio
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Partitio
+3.Monarch
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4530/4891 SP:314/314 BP:0
+B-Ochette - HP:4242/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Monarch - HP:6152/6740 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Partitio
+3.Monarch
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Monarch - HP:6152/6740 Shields:6
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Partitio ataca
+Monarch recibe 294 de daño de tipo Spear con debilidad
+Monarch termina con HP:5858
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4530/4891 SP:314/314 BP:0
+B-Ochette - HP:4242/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Monarch - HP:5858/6740 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Partitio
+3.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Partitio recibe 361 de daño elemental
+Ochette se defiende
+Ochette recibe 205 de daño elemental
+Partitio termina con HP:4169
+Ochette termina con HP:4037
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4169/4891 SP:314/314 BP:1
+B-Ochette - HP:4037/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Monarch - HP:5858/6740 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Partitio
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Partitio
+3.Monarch
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Monarch - HP:5858/6740 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Ochette ataca
+Monarch recibe 211 de daño de tipo Axe
+Monarch recibe 211 de daño de tipo Axe
+Monarch termina con HP:5436
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4169/4891 SP:314/314 BP:1
+B-Ochette - HP:4037/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Monarch - HP:5436/6740 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Partitio
+3.Monarch
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Monarch - HP:5436/6740 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Partitio no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Partitio no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Partitio ataca
+Monarch recibe 294 de daño de tipo Spear con debilidad
+Monarch recibe 294 de daño de tipo Spear con debilidad
+Monarch termina con HP:4848
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:4169/4891 SP:314/314 BP:0
+B-Ochette - HP:4037/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Monarch - HP:4848/6740 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Partitio
+3.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Partitio recibe 361 de daño elemental
+Ochette recibe 411 de daño elemental
+Partitio termina con HP:3808
+Ochette termina con HP:3626
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3808/4891 SP:314/314 BP:0
+B-Ochette - HP:3626/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Monarch - HP:4848/6740 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Partitio
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Partitio
+3.Monarch
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3808/4891 SP:314/314 BP:0
+B-Ochette - HP:3626/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Monarch - HP:4848/6740 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Partitio
+3.Monarch
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Monarch - HP:4848/6740 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Partitio ataca
+Monarch recibe 294 de daño de tipo Spear con debilidad
+Monarch termina con HP:4554
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3808/4891 SP:314/314 BP:0
+B-Ochette - HP:3626/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Monarch - HP:4554/6740 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Partitio
+3.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Partitio recibe 361 de daño elemental
+Ochette se defiende
+Ochette recibe 205 de daño elemental
+Partitio termina con HP:3447
+Ochette termina con HP:3421
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3447/4891 SP:314/314 BP:1
+B-Ochette - HP:3421/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Monarch - HP:4554/6740 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Partitio
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Partitio
+3.Monarch
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Monarch - HP:4554/6740 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Ochette ataca
+Monarch recibe 211 de daño de tipo Axe
+Monarch recibe 211 de daño de tipo Axe
+Monarch recibe 211 de daño de tipo Axe
+Monarch termina con HP:3921
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3447/4891 SP:314/314 BP:1
+B-Ochette - HP:3421/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Monarch - HP:3921/6740 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Partitio
+3.Monarch
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Monarch - HP:3921/6740 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Partitio ataca
+Monarch recibe 294 de daño de tipo Bow con debilidad
+Monarch recibe 294 de daño de tipo Bow con debilidad
+Monarch entra en Breaking Point
+Monarch termina con HP:3333
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3447/4891 SP:314/314 BP:0
+B-Ochette - HP:3421/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Monarch - HP:3333/6740 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Monarch
+2.Ochette
+3.Partitio
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Monarch - HP:3333/6740 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Ochette no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Ochette no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Ochette no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Ochette no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Ochette no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Ochette ataca
+Monarch recibe 423 de daño de tipo Bow con debilidad
+Monarch recibe 423 de daño de tipo Bow con debilidad
+Monarch termina con HP:2487
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3447/4891 SP:314/314 BP:0
+B-Ochette - HP:3421/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Monarch - HP:2487/6740 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+----------------------------------------
+Turnos de la siguiente ronda
+1.Monarch
+2.Ochette
+3.Partitio
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3447/4891 SP:314/314 BP:1
+B-Ochette - HP:3421/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Monarch - HP:2487/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Partitio
+3.Ochette
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Partitio
+3.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Partitio recibe 361 de daño elemental
+Ochette recibe 411 de daño elemental
+Partitio termina con HP:3086
+Ochette termina con HP:3010
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3086/4891 SP:314/314 BP:1
+B-Ochette - HP:3010/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Monarch - HP:2487/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Ochette
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Partitio
+3.Monarch
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3086/4891 SP:314/314 BP:1
+B-Ochette - HP:3010/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Monarch - HP:2487/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Ochette
+3.Monarch
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3086/4891 SP:314/314 BP:2
+B-Ochette - HP:3010/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Monarch - HP:2487/6740 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Partitio
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Partitio
+3.Monarch
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Monarch - HP:2487/6740 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Ochette no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Ochette no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Ochette no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Ochette no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Ochette ataca
+Monarch recibe 317 de daño de tipo Bow con debilidad
+Monarch recibe 317 de daño de tipo Bow con debilidad
+Monarch termina con HP:1853
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3086/4891 SP:314/314 BP:2
+B-Ochette - HP:3010/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Monarch - HP:1853/6740 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Partitio
+3.Monarch
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:3086/4891 SP:314/314 BP:2
+B-Ochette - HP:3010/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Monarch - HP:1853/6740 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Ochette
+3.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Partitio se defiende
+Partitio recibe 180 de daño elemental
+Ochette recibe 411 de daño elemental
+Partitio termina con HP:2906
+Ochette termina con HP:2599
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2906/4891 SP:314/314 BP:3
+B-Ochette - HP:2599/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Monarch - HP:1853/6740 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Ochette
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Partitio
+3.Monarch
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Monarch - HP:1853/6740 Shields:6
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Partitio ataca
+Monarch recibe 294 de daño de tipo Bow con debilidad
+Monarch recibe 294 de daño de tipo Bow con debilidad
+Monarch termina con HP:1265
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2906/4891 SP:314/314 BP:2
+B-Ochette - HP:2599/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Monarch - HP:1265/6740 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Partitio
+3.Monarch
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Monarch - HP:1265/6740 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Ochette ataca
+Monarch recibe 211 de daño de tipo Axe
+Monarch termina con HP:1054
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2906/4891 SP:314/314 BP:2
+B-Ochette - HP:2599/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-Monarch - HP:1054/6740 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Partitio
+3.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Partitio recibe 361 de daño elemental
+Ochette recibe 411 de daño elemental
+Partitio termina con HP:2545
+Ochette termina con HP:2188
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2545/4891 SP:314/314 BP:2
+B-Ochette - HP:2188/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Monarch - HP:1054/6740 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Partitio
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Partitio
+3.Monarch
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2545/4891 SP:314/314 BP:2
+B-Ochette - HP:2188/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Monarch - HP:1054/6740 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Partitio
+3.Monarch
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Monarch - HP:1054/6740 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Partitio ataca
+Monarch recibe 294 de daño de tipo Spear con debilidad
+Monarch recibe 294 de daño de tipo Spear con debilidad
+Monarch recibe 294 de daño de tipo Spear con debilidad
+Monarch termina con HP:172
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2545/4891 SP:314/314 BP:0
+B-Ochette - HP:2188/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Monarch - HP:172/6740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Partitio
+3.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Partitio recibe 361 de daño elemental
+Ochette se defiende
+Ochette recibe 205 de daño elemental
+Partitio termina con HP:2184
+Ochette termina con HP:1983
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2184/4891 SP:314/314 BP:0
+B-Ochette - HP:1983/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Monarch - HP:172/6740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Partitio
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Partitio
+3.Monarch
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Partitio - HP:2184/4891 SP:314/314 BP:0
+B-Ochette - HP:1983/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Monarch - HP:172/6740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Partitio
+3.Monarch
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Monarch - HP:172/6740 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Partitio ataca
+Monarch recibe 294 de daño de tipo Bow con debilidad
+Monarch entra en Breaking Point
+Monarch termina con HP:0
+----------------------------------------
+Gana equipo del jugador

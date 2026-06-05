@@ -1,0 +1,6311 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+INPUT: 17
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+4.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+4.Armor Eater
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:5336/5336 SP:426/426 BP:1
+2: Cyrus - HP:3557/3557 SP:582/582 BP:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Mole Dance
+Cyrus tendrá Increased Physical Defense durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:422/426 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Lord of the Flies
+3.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+4.Armor Eater
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:422/426 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Castti
+3.Lord of the Flies
+4.Armor Eater
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Cyrus se defiende
+Cyrus recibe 103 de daño físico
+Cyrus termina con HP:3454
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:422/426 BP:1
+B-Cyrus - HP:3454/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Castti
+3.Lord of the Flies
+4.Armor Eater
+----------------------------------------
+Armor Eater usa Consume Armor
+Castti tendrá Decreased Physical Defense durante 2 rondas
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:422/426 BP:2
+B-Cyrus - HP:3454/3557 SP:582/582 BP:2
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Castti
+3.Lord of the Flies
+4.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+4.Armor Eater
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:422/426 BP:2
+B-Cyrus - HP:3454/3557 SP:582/582 BP:2
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+3.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Castti
+3.Lord of the Flies
+4.Armor Eater
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Armor Eater - HP:1594/1594 Shields:4
+2: Lord of the Flies - HP:5590/5590 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti ataca
+Armor Eater recibe 349 de daño de tipo Axe con debilidad
+Armor Eater recibe 349 de daño de tipo Axe con debilidad
+Armor Eater termina con HP:896
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:422/426 BP:1
+B-Cyrus - HP:3454/3557 SP:582/582 BP:2
+Equipo del enemigo
+A-Armor Eater - HP:896/1594 Shields:2
+B-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Castti
+3.Lord of the Flies
+4.Armor Eater
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Cyrus se defiende
+Cyrus recibe 103 de daño físico
+Cyrus termina con HP:3351
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:422/426 BP:1
+B-Cyrus - HP:3351/3557 SP:582/582 BP:2
+Equipo del enemigo
+A-Armor Eater - HP:896/1594 Shields:2
+B-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Castti
+3.Lord of the Flies
+4.Armor Eater
+----------------------------------------
+Armor Eater usa Consume Armor
+Castti tendrá Decreased Physical Defense durante 2 rondas
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:422/426 BP:1
+B-Cyrus - HP:3351/3557 SP:582/582 BP:3
+Equipo del enemigo
+A-Armor Eater - HP:896/1594 Shields:2
+B-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Castti
+3.Lord of the Flies
+4.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+4.Armor Eater
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Draefendi's Rage
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Cyrus usa Draefendi's Rage
+Armor Eater recibe 1391 de daño de tipo Bow
+Lord of the Flies recibe 1750 de daño de tipo Bow con debilidad
+Armor Eater termina con HP:0
+Lord of the Flies termina con HP:3840
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:422/426 BP:1
+B-Cyrus - HP:3351/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3840/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:5336/5336 SP:422/426 BP:1
+2: Cyrus - HP:3351/3557 SP:552/582 BP:0
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Mole Dance
+Cyrus tendrá Increased Physical Defense durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:418/426 BP:1
+B-Cyrus - HP:3351/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3840/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Cyrus recibe 206 de daño físico
+Cyrus termina con HP:3145
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:418/426 BP:2
+B-Cyrus - HP:3145/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3840/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:5336/5336 SP:418/426 BP:2
+2: Cyrus - HP:3145/3557 SP:552/582 BP:0
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti usa Mole Dance
+Castti tendrá Increased Physical Defense durante 5 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:414/426 BP:1
+B-Cyrus - HP:3145/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3840/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Lord of the Flies - HP:3840/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Cyrus ataca
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies termina con HP:3840
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:414/426 BP:1
+B-Cyrus - HP:3145/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3840/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Cyrus recibe 206 de daño físico
+Cyrus termina con HP:2939
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:414/426 BP:1
+B-Cyrus - HP:2939/3557 SP:552/582 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3840/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:5336/5336 SP:414/426 BP:1
+2: Cyrus - HP:2939/3557 SP:552/582 BP:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti usa Mole Dance
+Cyrus tendrá Increased Physical Defense durante 5 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:410/426 BP:0
+B-Cyrus - HP:2939/3557 SP:552/582 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3840/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Lord of the Flies - HP:3840/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Cyrus no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Cyrus no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Cyrus no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Cyrus ataca
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies termina con HP:3840
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:410/426 BP:0
+B-Cyrus - HP:2939/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3840/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Cyrus recibe 206 de daño físico
+Cyrus termina con HP:2733
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:410/426 BP:0
+B-Cyrus - HP:2733/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3840/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:5336/5336 SP:410/426 BP:0
+2: Cyrus - HP:2733/3557 SP:552/582 BP:0
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Castti usa Mole Dance
+Cyrus tendrá Increased Physical Defense durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:406/426 BP:0
+B-Cyrus - HP:2733/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3840/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Lord of the Flies - HP:3840/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Cyrus ataca
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies termina con HP:3840
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:406/426 BP:0
+B-Cyrus - HP:2733/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3840/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Cyrus recibe 206 de daño físico
+Cyrus termina con HP:2527
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:406/426 BP:1
+B-Cyrus - HP:2527/3557 SP:552/582 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3840/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Lord of the Flies - HP:3840/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti ataca
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies termina con HP:3822
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:406/426 BP:0
+B-Cyrus - HP:2527/3557 SP:552/582 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3822/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Lord of the Flies - HP:3822/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Cyrus no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies termina con HP:3822
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:406/426 BP:0
+B-Cyrus - HP:2527/3557 SP:552/582 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3822/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Cyrus recibe 206 de daño físico
+Cyrus termina con HP:2321
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:406/426 BP:0
+B-Cyrus - HP:2321/3557 SP:552/582 BP:2
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3822/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:5336/5336 SP:406/426 BP:0
+2: Cyrus - HP:2321/3557 SP:552/582 BP:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Castti usa Mole Dance
+Cyrus tendrá Increased Physical Defense durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:402/426 BP:0
+B-Cyrus - HP:2321/3557 SP:552/582 BP:2
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3822/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Lord of the Flies - HP:3822/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Cyrus no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Cyrus ataca
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies termina con HP:3822
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:402/426 BP:0
+B-Cyrus - HP:2321/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3822/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Cyrus recibe 206 de daño físico
+Cyrus termina con HP:2115
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:402/426 BP:1
+B-Cyrus - HP:2115/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3822/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Lord of the Flies - HP:3822/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies termina con HP:3813
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:402/426 BP:1
+B-Cyrus - HP:2115/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3813/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:402/426 BP:1
+B-Cyrus - HP:2115/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3813/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Castti
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Cyrus se defiende
+Cyrus recibe 103 de daño físico
+Cyrus termina con HP:2012
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:402/426 BP:2
+B-Cyrus - HP:2012/3557 SP:552/582 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3813/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Castti
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Lord of the Flies - HP:3813/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies termina con HP:3813
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:402/426 BP:2
+B-Cyrus - HP:2012/3557 SP:552/582 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3813/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:5336/5336 SP:402/426 BP:2
+2: Cyrus - HP:2012/3557 SP:552/582 BP:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti usa Mole Dance
+Castti tendrá Increased Physical Defense durante 7 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:398/426 BP:0
+B-Cyrus - HP:2012/3557 SP:552/582 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3813/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Cyrus recibe 206 de daño físico
+Cyrus termina con HP:1806
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:398/426 BP:0
+B-Cyrus - HP:1806/3557 SP:552/582 BP:2
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3813/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:5336/5336 SP:398/426 BP:0
+2: Cyrus - HP:1806/3557 SP:552/582 BP:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Castti usa Mole Dance
+Cyrus tendrá Increased Physical Defense durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:394/426 BP:0
+B-Cyrus - HP:1806/3557 SP:552/582 BP:2
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3813/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Lord of the Flies - HP:3813/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Cyrus ataca
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies termina con HP:3813
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:394/426 BP:0
+B-Cyrus - HP:1806/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3813/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Cyrus recibe 206 de daño físico
+Cyrus termina con HP:1600
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:394/426 BP:1
+B-Cyrus - HP:1600/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3813/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:5336/5336 SP:394/426 BP:1
+2: Cyrus - HP:1600/3557 SP:552/582 BP:0
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti usa Mole Dance
+Cyrus tendrá Increased Physical Defense durante 5 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:390/426 BP:0
+B-Cyrus - HP:1600/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3813/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:390/426 BP:0
+B-Cyrus - HP:1600/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3813/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Castti
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Cyrus se defiende
+Cyrus recibe 103 de daño físico
+Cyrus termina con HP:1497
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:390/426 BP:0
+B-Cyrus - HP:1497/3557 SP:552/582 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3813/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Castti
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:390/426 BP:0
+B-Cyrus - HP:1497/3557 SP:552/582 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3813/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Castti
+3.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Lord of the Flies - HP:3813/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Castti ataca
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies termina con HP:3804
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:390/426 BP:0
+B-Cyrus - HP:1497/3557 SP:552/582 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3804/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Castti
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Cyrus se defiende
+Cyrus recibe 103 de daño físico
+Cyrus termina con HP:1394
+----------------------------------------
+INICIA RONDA 14
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:390/426 BP:1
+B-Cyrus - HP:1394/3557 SP:552/582 BP:2
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3804/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Castti
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Lord of the Flies - HP:3804/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Cyrus ataca
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies termina con HP:3804
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:390/426 BP:1
+B-Cyrus - HP:1394/3557 SP:552/582 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3804/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:5336/5336 SP:390/426 BP:1
+2: Cyrus - HP:1394/3557 SP:552/582 BP:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Mole Dance
+Castti tendrá Increased Physical Defense durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:386/426 BP:1
+B-Cyrus - HP:1394/3557 SP:552/582 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3804/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Cyrus recibe 206 de daño físico
+Cyrus termina con HP:1188
+----------------------------------------
+INICIA RONDA 15
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:386/426 BP:2
+B-Cyrus - HP:1188/3557 SP:552/582 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3804/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:5336/5336 SP:386/426 BP:2
+2: Cyrus - HP:1188/3557 SP:552/582 BP:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Mole Dance
+Cyrus tendrá Increased Physical Defense durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:382/426 BP:2
+B-Cyrus - HP:1188/3557 SP:552/582 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3804/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:382/426 BP:2
+B-Cyrus - HP:1188/3557 SP:552/582 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3804/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Castti
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Cyrus se defiende
+Cyrus recibe 103 de daño físico
+Cyrus termina con HP:1085
+----------------------------------------
+INICIA RONDA 16
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:382/426 BP:3
+B-Cyrus - HP:1085/3557 SP:552/582 BP:2
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3804/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Castti
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Lord of the Flies - HP:3804/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Cyrus ataca
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies termina con HP:3804
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:382/426 BP:3
+B-Cyrus - HP:1085/3557 SP:552/582 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3804/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:5336/5336 SP:382/426 BP:3
+2: Cyrus - HP:1085/3557 SP:552/582 BP:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti usa Mole Dance
+Castti tendrá Increased Physical Defense durante 9 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:378/426 BP:0
+B-Cyrus - HP:1085/3557 SP:552/582 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3804/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Cyrus recibe 206 de daño físico
+Cyrus termina con HP:879
+----------------------------------------
+INICIA RONDA 17
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:378/426 BP:0
+B-Cyrus - HP:879/3557 SP:552/582 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3804/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:5336/5336 SP:378/426 BP:0
+2: Cyrus - HP:879/3557 SP:552/582 BP:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Castti usa Mole Dance
+Cyrus tendrá Increased Physical Defense durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:374/426 BP:0
+B-Cyrus - HP:879/3557 SP:552/582 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3804/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:374/426 BP:0
+B-Cyrus - HP:879/3557 SP:552/582 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3804/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Castti
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Cyrus se defiende
+Cyrus recibe 103 de daño físico
+Cyrus termina con HP:776
+----------------------------------------
+INICIA RONDA 18
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:374/426 BP:1
+B-Cyrus - HP:776/3557 SP:552/582 BP:2
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3804/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Castti
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Lord of the Flies - HP:3804/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies termina con HP:3804
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:374/426 BP:1
+B-Cyrus - HP:776/3557 SP:552/582 BP:2
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3804/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:5336/5336 SP:374/426 BP:1
+2: Cyrus - HP:776/3557 SP:552/582 BP:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Mole Dance
+Cyrus tendrá Increased Physical Defense durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:370/426 BP:1
+B-Cyrus - HP:776/3557 SP:552/582 BP:2
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3804/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Cyrus recibe 206 de daño físico
+Cyrus termina con HP:570
+----------------------------------------
+INICIA RONDA 19
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:370/426 BP:2
+B-Cyrus - HP:570/3557 SP:552/582 BP:3
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3804/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:5336/5336 SP:370/426 BP:2
+2: Cyrus - HP:570/3557 SP:552/582 BP:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti usa Mole Dance
+Cyrus tendrá Increased Physical Defense durante 5 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:366/426 BP:1
+B-Cyrus - HP:570/3557 SP:552/582 BP:3
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3804/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Lord of the Flies - HP:3804/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Cyrus ataca
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies termina con HP:3804
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:366/426 BP:1
+B-Cyrus - HP:570/3557 SP:552/582 BP:2
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3804/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Cyrus recibe 206 de daño físico
+Cyrus termina con HP:364
+----------------------------------------
+INICIA RONDA 20
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:366/426 BP:1
+B-Cyrus - HP:364/3557 SP:552/582 BP:2
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3804/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:5336/5336 SP:366/426 BP:1
+2: Cyrus - HP:364/3557 SP:552/582 BP:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Mole Dance
+Cyrus tendrá Increased Physical Defense durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:362/426 BP:1
+B-Cyrus - HP:364/3557 SP:552/582 BP:2
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3804/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Lord of the Flies - HP:3804/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Cyrus ataca
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies termina con HP:3804
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:362/426 BP:1
+B-Cyrus - HP:364/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3804/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Cyrus recibe 206 de daño físico
+Cyrus termina con HP:158
+----------------------------------------
+INICIA RONDA 21
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:362/426 BP:2
+B-Cyrus - HP:158/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3804/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Lord of the Flies - HP:3804/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti ataca
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies termina con HP:3777
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:362/426 BP:0
+B-Cyrus - HP:158/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3777/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Lord of the Flies - HP:3777/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Cyrus ataca
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies termina con HP:3777
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:362/426 BP:0
+B-Cyrus - HP:158/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3777/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Cyrus
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Cyrus recibe 206 de daño físico
+Cyrus termina con HP:0
+----------------------------------------
+INICIA RONDA 22
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:362/426 BP:0
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3777/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Lord of the Flies - HP:3777/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Castti ataca
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies termina con HP:3768
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:362/426 BP:0
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3768/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:5244
+----------------------------------------
+INICIA RONDA 23
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5244/5336 SP:362/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3768/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:5244/5336 SP:362/426 BP:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Mole Dance
+Castti tendrá Increased Physical Defense durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5244/5336 SP:358/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3768/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:5152
+----------------------------------------
+INICIA RONDA 24
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5152/5336 SP:358/426 BP:2
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3768/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Lord of the Flies - HP:3768/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti ataca
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies termina con HP:3750
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5152/5336 SP:358/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3750/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:5060
+----------------------------------------
+INICIA RONDA 25
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5060/5336 SP:358/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3750/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:5060/5336 SP:358/426 BP:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti usa Mole Dance
+Castti tendrá Increased Physical Defense durante 5 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5060/5336 SP:354/426 BP:0
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3750/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:4968
+----------------------------------------
+INICIA RONDA 26
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4968/5336 SP:354/426 BP:0
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3750/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:4968/5336 SP:354/426 BP:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Castti usa Mole Dance
+Castti tendrá Increased Physical Defense durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4968/5336 SP:350/426 BP:0
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3750/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:4876
+----------------------------------------
+INICIA RONDA 27
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4876/5336 SP:350/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3750/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Lord of the Flies - HP:3750/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies termina con HP:3741
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4876/5336 SP:350/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3741/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:4784
+----------------------------------------
+INICIA RONDA 28
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4784/5336 SP:350/426 BP:2
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3741/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:4784/5336 SP:350/426 BP:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti usa Mole Dance
+Castti tendrá Increased Physical Defense durante 5 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4784/5336 SP:346/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3741/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:4692
+----------------------------------------
+INICIA RONDA 29
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4692/5336 SP:346/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3741/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Lord of the Flies - HP:3741/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti ataca
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies termina con HP:3723
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4692/5336 SP:346/426 BP:0
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3723/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:4600
+----------------------------------------
+INICIA RONDA 30
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4600/5336 SP:346/426 BP:0
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3723/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4600/5336 SP:346/426 BP:0
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3723/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti se defiende
+Castti recibe 46 de daño físico
+Castti termina con HP:4554
+----------------------------------------
+INICIA RONDA 31
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4554/5336 SP:346/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3723/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:4554/5336 SP:346/426 BP:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Mole Dance
+Castti tendrá Increased Physical Defense durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4554/5336 SP:342/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3723/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:4462
+----------------------------------------
+INICIA RONDA 32
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4462/5336 SP:342/426 BP:2
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3723/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4462/5336 SP:342/426 BP:2
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3723/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti se defiende
+Castti recibe 46 de daño físico
+Castti termina con HP:4416
+----------------------------------------
+INICIA RONDA 33
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4416/5336 SP:342/426 BP:3
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3723/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4416/5336 SP:342/426 BP:3
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3723/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti se defiende
+Castti recibe 46 de daño físico
+Castti termina con HP:4370
+----------------------------------------
+INICIA RONDA 34
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4370/5336 SP:342/426 BP:4
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3723/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4370/5336 SP:342/426 BP:4
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3723/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti se defiende
+Castti recibe 46 de daño físico
+Castti termina con HP:4324
+----------------------------------------
+INICIA RONDA 35
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4324/5336 SP:342/426 BP:5
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3723/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4324/5336 SP:342/426 BP:5
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3723/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti se defiende
+Castti recibe 46 de daño físico
+Castti termina con HP:4278
+----------------------------------------
+INICIA RONDA 36
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4278/5336 SP:342/426 BP:5
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3723/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Lord of the Flies - HP:3723/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies termina con HP:3714
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4278/5336 SP:342/426 BP:5
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3714/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:4186
+----------------------------------------
+INICIA RONDA 37
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4186/5336 SP:342/426 BP:5
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3714/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:4186/5336 SP:342/426 BP:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti usa Mole Dance
+Castti tendrá Increased Physical Defense durante 9 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4186/5336 SP:338/426 BP:2
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3714/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:4094
+----------------------------------------
+INICIA RONDA 38
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4094/5336 SP:338/426 BP:2
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3714/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Lord of the Flies - HP:3714/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies termina con HP:3705
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4094/5336 SP:338/426 BP:2
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3705/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:4002
+----------------------------------------
+INICIA RONDA 39
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4002/5336 SP:338/426 BP:3
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3705/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Lord of the Flies - HP:3705/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti ataca
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies termina con HP:3687
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4002/5336 SP:338/426 BP:2
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3687/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:3910
+----------------------------------------
+INICIA RONDA 40
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3910/5336 SP:338/426 BP:2
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3687/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:3910/5336 SP:338/426 BP:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti usa Mole Dance
+Castti tendrá Increased Physical Defense durante 5 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3910/5336 SP:334/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3687/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:3818
+----------------------------------------
+INICIA RONDA 41
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3818/5336 SP:334/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3687/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3818/5336 SP:334/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3687/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti se defiende
+Castti recibe 46 de daño físico
+Castti termina con HP:3772
+----------------------------------------
+INICIA RONDA 42
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3772/5336 SP:334/426 BP:2
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3687/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3772/5336 SP:334/426 BP:2
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3687/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti se defiende
+Castti recibe 46 de daño físico
+Castti termina con HP:3726
+----------------------------------------
+INICIA RONDA 43
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3726/5336 SP:334/426 BP:3
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3687/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:3726/5336 SP:334/426 BP:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti usa Mole Dance
+Castti tendrá Increased Physical Defense durante 7 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3726/5336 SP:330/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3687/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:3634
+----------------------------------------
+INICIA RONDA 44
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3634/5336 SP:330/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3687/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:3634/5336 SP:330/426 BP:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti usa Mole Dance
+Castti tendrá Increased Physical Defense durante 5 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3634/5336 SP:326/426 BP:0
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3687/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:3542
+----------------------------------------
+INICIA RONDA 45
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3542/5336 SP:326/426 BP:0
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3687/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Lord of the Flies - HP:3687/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Castti ataca
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies termina con HP:3678
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3542/5336 SP:326/426 BP:0
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3678/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:3450
+----------------------------------------
+INICIA RONDA 46
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3450/5336 SP:326/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3678/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:3450/5336 SP:326/426 BP:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Mole Dance
+Castti tendrá Increased Physical Defense durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3450/5336 SP:322/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3678/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:3358
+----------------------------------------
+INICIA RONDA 47
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3358/5336 SP:322/426 BP:2
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3678/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3358/5336 SP:322/426 BP:2
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3678/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti se defiende
+Castti recibe 46 de daño físico
+Castti termina con HP:3312
+----------------------------------------
+INICIA RONDA 48
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3312/5336 SP:322/426 BP:3
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3678/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:3312/5336 SP:322/426 BP:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti usa Mole Dance
+Castti tendrá Increased Physical Defense durante 7 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3312/5336 SP:318/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3678/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:3220
+----------------------------------------
+INICIA RONDA 49
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3220/5336 SP:318/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3678/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3220/5336 SP:318/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3678/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti se defiende
+Castti recibe 46 de daño físico
+Castti termina con HP:3174
+----------------------------------------
+INICIA RONDA 50
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3174/5336 SP:318/426 BP:2
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3678/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Lord of the Flies - HP:3678/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti ataca
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies termina con HP:3651
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3174/5336 SP:318/426 BP:0
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3651/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:3082
+----------------------------------------
+INICIA RONDA 51
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3082/5336 SP:318/426 BP:0
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3651/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:3082/5336 SP:318/426 BP:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Castti usa Mole Dance
+Castti tendrá Increased Physical Defense durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:3082/5336 SP:314/426 BP:0
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3651/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:2990
+----------------------------------------
+INICIA RONDA 52
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2990/5336 SP:314/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3651/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:2990/5336 SP:314/426 BP:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti usa Mole Dance
+Castti tendrá Increased Physical Defense durante 5 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2990/5336 SP:310/426 BP:0
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3651/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:2898
+----------------------------------------
+INICIA RONDA 53
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2898/5336 SP:310/426 BP:0
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3651/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Lord of the Flies - HP:3651/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Castti ataca
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies termina con HP:3642
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2898/5336 SP:310/426 BP:0
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3642/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:2806
+----------------------------------------
+INICIA RONDA 54
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2806/5336 SP:310/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3642/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:2806/5336 SP:310/426 BP:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti usa Mole Dance
+Castti tendrá Increased Physical Defense durante 5 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2806/5336 SP:306/426 BP:0
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3642/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:2714
+----------------------------------------
+INICIA RONDA 55
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2714/5336 SP:306/426 BP:0
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3642/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:2714/5336 SP:306/426 BP:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Castti usa Mole Dance
+Castti tendrá Increased Physical Defense durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2714/5336 SP:302/426 BP:0
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3642/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:2622
+----------------------------------------
+INICIA RONDA 56
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2622/5336 SP:302/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3642/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:2622/5336 SP:302/426 BP:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Mole Dance
+Castti tendrá Increased Physical Defense durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2622/5336 SP:298/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3642/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:2530
+----------------------------------------
+INICIA RONDA 57
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2530/5336 SP:298/426 BP:2
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3642/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:2530/5336 SP:298/426 BP:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Mole Dance
+Castti tendrá Increased Physical Defense durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2530/5336 SP:294/426 BP:2
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3642/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:2438
+----------------------------------------
+INICIA RONDA 58
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2438/5336 SP:294/426 BP:3
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3642/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:2438/5336 SP:294/426 BP:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Mole Dance
+Castti tendrá Increased Physical Defense durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2438/5336 SP:290/426 BP:3
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3642/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:2346
+----------------------------------------
+INICIA RONDA 59
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2346/5336 SP:290/426 BP:4
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3642/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2346/5336 SP:290/426 BP:4
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3642/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti se defiende
+Castti recibe 46 de daño físico
+Castti termina con HP:2300
+----------------------------------------
+INICIA RONDA 60
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2300/5336 SP:290/426 BP:5
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3642/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Lord of the Flies - HP:3642/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti ataca
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies termina con HP:3615
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2300/5336 SP:290/426 BP:3
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3615/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:2208
+----------------------------------------
+INICIA RONDA 61
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2208/5336 SP:290/426 BP:3
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3615/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Lord of the Flies - HP:3615/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies termina con HP:3606
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2208/5336 SP:290/426 BP:3
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3606/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:2116
+----------------------------------------
+INICIA RONDA 62
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2116/5336 SP:290/426 BP:4
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3606/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2116/5336 SP:290/426 BP:4
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3606/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti se defiende
+Castti recibe 46 de daño físico
+Castti termina con HP:2070
+----------------------------------------
+INICIA RONDA 63
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2070/5336 SP:290/426 BP:5
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3606/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Lord of the Flies - HP:3606/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti ataca
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies termina con HP:3579
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2070/5336 SP:290/426 BP:3
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3579/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:1978
+----------------------------------------
+INICIA RONDA 64
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1978/5336 SP:290/426 BP:3
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3579/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Lord of the Flies - HP:3579/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti ataca
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies termina con HP:3543
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1978/5336 SP:290/426 BP:0
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3543/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:1886
+----------------------------------------
+INICIA RONDA 65
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1886/5336 SP:290/426 BP:0
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3543/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:1886/5336 SP:290/426 BP:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Castti usa Mole Dance
+Castti tendrá Increased Physical Defense durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1886/5336 SP:286/426 BP:0
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3543/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:1794
+----------------------------------------
+INICIA RONDA 66
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1794/5336 SP:286/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3543/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1794/5336 SP:286/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3543/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti se defiende
+Castti recibe 46 de daño físico
+Castti termina con HP:1748
+----------------------------------------
+INICIA RONDA 67
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1748/5336 SP:286/426 BP:2
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3543/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:1748/5336 SP:286/426 BP:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti usa Mole Dance
+Castti tendrá Increased Physical Defense durante 5 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1748/5336 SP:282/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3543/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:1656
+----------------------------------------
+INICIA RONDA 68
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1656/5336 SP:282/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3543/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Lord of the Flies - HP:3543/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti ataca
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies termina con HP:3525
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1656/5336 SP:282/426 BP:0
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3525/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:1564
+----------------------------------------
+INICIA RONDA 69
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1564/5336 SP:282/426 BP:0
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3525/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:1564/5336 SP:282/426 BP:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Castti usa Mole Dance
+Castti tendrá Increased Physical Defense durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1564/5336 SP:278/426 BP:0
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3525/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:1472
+----------------------------------------
+INICIA RONDA 70
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1472/5336 SP:278/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3525/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:1472/5336 SP:278/426 BP:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Mole Dance
+Castti tendrá Increased Physical Defense durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1472/5336 SP:274/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3525/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:1380
+----------------------------------------
+INICIA RONDA 71
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1380/5336 SP:274/426 BP:2
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3525/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:1380/5336 SP:274/426 BP:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti usa Mole Dance
+Castti tendrá Increased Physical Defense durante 7 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1380/5336 SP:270/426 BP:0
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3525/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:1288
+----------------------------------------
+INICIA RONDA 72
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1288/5336 SP:270/426 BP:0
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3525/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1288/5336 SP:270/426 BP:0
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3525/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti se defiende
+Castti recibe 46 de daño físico
+Castti termina con HP:1242
+----------------------------------------
+INICIA RONDA 73
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1242/5336 SP:270/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3525/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1242/5336 SP:270/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3525/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti se defiende
+Castti recibe 46 de daño físico
+Castti termina con HP:1196
+----------------------------------------
+INICIA RONDA 74
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1196/5336 SP:270/426 BP:2
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3525/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1196/5336 SP:270/426 BP:2
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3525/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti se defiende
+Castti recibe 46 de daño físico
+Castti termina con HP:1150
+----------------------------------------
+INICIA RONDA 75
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1150/5336 SP:270/426 BP:3
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3525/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:1150/5336 SP:270/426 BP:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti usa Mole Dance
+Castti tendrá Increased Physical Defense durante 7 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1150/5336 SP:266/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3525/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:1058
+----------------------------------------
+INICIA RONDA 76
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1058/5336 SP:266/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3525/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Lord of the Flies - HP:3525/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti ataca
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies termina con HP:3507
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1058/5336 SP:266/426 BP:0
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3507/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:966
+----------------------------------------
+INICIA RONDA 77
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:966/5336 SP:266/426 BP:0
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3507/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Lord of the Flies - HP:3507/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Castti ataca
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies termina con HP:3498
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:966/5336 SP:266/426 BP:0
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3498/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:874
+----------------------------------------
+INICIA RONDA 78
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:874/5336 SP:266/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3498/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:874/5336 SP:266/426 BP:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Mole Dance
+Castti tendrá Increased Physical Defense durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:874/5336 SP:262/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3498/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:782
+----------------------------------------
+INICIA RONDA 79
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:782/5336 SP:262/426 BP:2
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3498/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:782/5336 SP:262/426 BP:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Mole Dance
+Castti tendrá Increased Physical Defense durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:782/5336 SP:258/426 BP:2
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3498/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:690
+----------------------------------------
+INICIA RONDA 80
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:690/5336 SP:258/426 BP:3
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3498/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:690/5336 SP:258/426 BP:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Mole Dance
+Castti tendrá Increased Physical Defense durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:690/5336 SP:254/426 BP:3
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3498/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:598
+----------------------------------------
+INICIA RONDA 81
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:598/5336 SP:254/426 BP:4
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3498/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Lord of the Flies - HP:3498/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti ataca
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies termina con HP:3462
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:598/5336 SP:254/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3462/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:506
+----------------------------------------
+INICIA RONDA 82
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:506/5336 SP:254/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3462/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Lord of the Flies - HP:3462/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies termina con HP:3453
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:506/5336 SP:254/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3453/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:414
+----------------------------------------
+INICIA RONDA 83
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:414/5336 SP:254/426 BP:2
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3453/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:414/5336 SP:254/426 BP:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti usa Mole Dance
+Castti tendrá Increased Physical Defense durante 5 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:414/5336 SP:250/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3453/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:322
+----------------------------------------
+INICIA RONDA 84
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:322/5336 SP:250/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3453/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Lord of the Flies - HP:3453/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti ataca
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies recibe 9 de daño de tipo Axe
+Lord of the Flies termina con HP:3435
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:322/5336 SP:250/426 BP:0
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3435/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:230
+----------------------------------------
+INICIA RONDA 85
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:230/5336 SP:250/426 BP:0
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3435/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:230/5336 SP:250/426 BP:0
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3435/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti se defiende
+Castti recibe 46 de daño físico
+Castti termina con HP:184
+----------------------------------------
+INICIA RONDA 86
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:184/5336 SP:250/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3435/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:184/5336 SP:250/426 BP:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti usa Mole Dance
+Castti tendrá Increased Physical Defense durante 5 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:184/5336 SP:246/426 BP:0
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3435/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:92
+----------------------------------------
+INICIA RONDA 87
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:92/5336 SP:246/426 BP:0
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3435/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:92/5336 SP:246/426 BP:0
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3435/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti se defiende
+Castti recibe 46 de daño físico
+Castti termina con HP:46
+----------------------------------------
+INICIA RONDA 88
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:46/5336 SP:246/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3435/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Mole Dance
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:46/5336 SP:246/426 BP:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Mole Dance
+Castti tendrá Increased Physical Defense durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:46/5336 SP:242/426 BP:1
+B-Cyrus - HP:0/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Armor Eater - HP:0/1594 Shields:2
+B-Lord of the Flies - HP:3435/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Castti recibe 92 de daño físico
+Castti termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

@@ -1,0 +1,323 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+INPUT: 76
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4502/4502 SP:470/470 BP:1
+B-Castti - HP:5836/5836 SP:426/426 BP:1
+C-Throné - HP:4447/4447 SP:332/332 BP:1
+D-Agnea - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Ice Remnant - HP:2779/2779 Shields:3
+C-Curator - HP:1530/1530 Shields:3
+D-Blood Remnant - HP:2779/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Agnea
+3.Ophilia
+4.Castti
+5.Curator
+6.Ice Elemental
+7.Ice Remnant
+8.Blood Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Ophilia
+4.Castti
+5.Curator
+6.Ice Elemental
+7.Ice Remnant
+8.Blood Remnant
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Lightning Bolt
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Throné no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné usa Lightning Bolt
+Ice Elemental recibe 353 de daño de tipo Lightning con debilidad
+Ice Remnant recibe 222 de daño de tipo Lightning
+Curator recibe 221 de daño de tipo Lightning
+Blood Remnant recibe 222 de daño de tipo Lightning
+Ice Elemental termina con HP:1807
+Ice Remnant termina con HP:2557
+Curator termina con HP:1309
+Blood Remnant termina con HP:2557
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4502/4502 SP:470/470 BP:1
+B-Castti - HP:5836/5836 SP:426/426 BP:1
+C-Throné - HP:4447/4447 SP:324/332 BP:1
+D-Agnea - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:1807/2160 Shields:3
+B-Ice Remnant - HP:2557/2779 Shields:3
+C-Curator - HP:1309/1530 Shields:3
+D-Blood Remnant - HP:2557/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Ophilia
+3.Castti
+4.Curator
+5.Ice Elemental
+6.Ice Remnant
+7.Blood Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Ophilia
+4.Castti
+5.Curator
+6.Ice Elemental
+7.Ice Remnant
+8.Blood Remnant
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Elemental Break
+2: Lightning Blast
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Agnea no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Agnea no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Agnea no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Agnea usa Lightning Blast
+Ice Elemental recibe 1732 de daño de tipo Lightning con debilidad
+Ice Elemental recibe 1732 de daño de tipo Lightning con debilidad
+Ice Remnant recibe 1142 de daño de tipo Lightning
+Ice Remnant recibe 1142 de daño de tipo Lightning
+Curator recibe 1141 de daño de tipo Lightning
+Curator recibe 1141 de daño de tipo Lightning
+Blood Remnant recibe 1142 de daño de tipo Lightning
+Blood Remnant recibe 1142 de daño de tipo Lightning
+Ice Elemental termina con HP:0
+Ice Remnant termina con HP:273
+Curator termina con HP:0
+Blood Remnant termina con HP:273
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4502/4502 SP:470/470 BP:1
+B-Castti - HP:5836/5836 SP:426/426 BP:1
+C-Throné - HP:4447/4447 SP:324/332 BP:1
+D-Agnea - HP:4002/4002 SP:482/504 BP:0
+Equipo del enemigo
+A-Ice Elemental - HP:0/2160 Shields:1
+B-Ice Remnant - HP:273/2779 Shields:3
+C-Curator - HP:0/1530 Shields:3
+D-Blood Remnant - HP:273/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Castti
+3.Ice Remnant
+4.Blood Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Agnea
+3.Ophilia
+4.Castti
+5.Ice Remnant
+6.Blood Remnant
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Glacies Claudere
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Ophilia no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Ophilia no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Glacies Claudere
+Ice Remnant recibe 379 de daño de tipo Ice
+Ice Remnant recibe 379 de daño de tipo Ice
+Ice Remnant recibe 379 de daño de tipo Ice
+Blood Remnant recibe 568 de daño de tipo Ice con debilidad
+Blood Remnant recibe 568 de daño de tipo Ice con debilidad
+Blood Remnant recibe 568 de daño de tipo Ice con debilidad
+Blood Remnant entra en Breaking Point
+Ice Remnant termina con HP:0
+Blood Remnant termina con HP:0
+----------------------------------------
+Gana equipo del jugador

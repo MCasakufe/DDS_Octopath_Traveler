@@ -1,0 +1,1152 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+INPUT: 22
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:632/632 BP:1
+B-Primrose - HP:4502/4502 SP:504/504 BP:1
+C-Tressa - HP:4891/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Mattias? - HP:5780/5780 Shields:4
+C-Heavenwing - HP:6900/6900 Shields:7
+D-Devourer of Dreams - HP:7500/7500 Shields:10
+E-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Dreadwolf
+3.Heavenwing
+4.Cyrus
+5.Tressa
+6.Mattias?
+7.Devourer of Dreams
+8.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Dreadwolf
+3.Heavenwing
+4.Cyrus
+5.Tressa
+6.Mattias?
+7.Devourer of Dreams
+8.Hoary Bear
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: First Aid
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Cyrus - HP:3557/3557 SP:632/632 BP:1
+2: Primrose - HP:4502/4502 SP:504/504 BP:1
+3: Tressa - HP:4891/4891 SP:357/357 BP:1
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Primrose no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa First Aid
+Cyrus recupera 498 de vida
+Cyrus termina con HP:3557
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:632/632 BP:1
+B-Primrose - HP:4502/4502 SP:500/504 BP:1
+C-Tressa - HP:4891/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Mattias? - HP:5780/5780 Shields:4
+C-Heavenwing - HP:6900/6900 Shields:7
+D-Devourer of Dreams - HP:7500/7500 Shields:10
+E-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Heavenwing
+3.Cyrus
+4.Tressa
+5.Mattias?
+6.Devourer of Dreams
+7.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Dreadwolf
+3.Heavenwing
+4.Cyrus
+5.Tressa
+6.Mattias?
+7.Devourer of Dreams
+8.Hoary Bear
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Primrose recibe 541 de daño físico
+Primrose termina con HP:3961
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:632/632 BP:1
+B-Primrose - HP:3961/4502 SP:500/504 BP:1
+C-Tressa - HP:4891/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Mattias? - HP:5780/5780 Shields:4
+C-Heavenwing - HP:6900/6900 Shields:7
+D-Devourer of Dreams - HP:7500/7500 Shields:10
+E-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Cyrus
+3.Tressa
+4.Mattias?
+5.Devourer of Dreams
+6.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Dreadwolf
+3.Heavenwing
+4.Cyrus
+5.Tressa
+6.Mattias?
+7.Devourer of Dreams
+8.Hoary Bear
+----------------------------------------
+Heavenwing usa Incinerate
+Cyrus recibe 345 de daño elemental
+Primrose recibe 343 de daño elemental
+Tressa recibe 260 de daño elemental
+Cyrus termina con HP:3212
+Primrose termina con HP:3618
+Tressa termina con HP:4631
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3212/3557 SP:632/632 BP:1
+B-Primrose - HP:3618/4502 SP:500/504 BP:1
+C-Tressa - HP:4631/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Mattias? - HP:5780/5780 Shields:4
+C-Heavenwing - HP:6900/6900 Shields:7
+D-Devourer of Dreams - HP:7500/7500 Shields:10
+E-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Tressa
+3.Mattias?
+4.Devourer of Dreams
+5.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Dreadwolf
+3.Heavenwing
+4.Cyrus
+5.Tressa
+6.Mattias?
+7.Devourer of Dreams
+8.Hoary Bear
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3212/3557 SP:632/632 BP:1
+B-Primrose - HP:3618/4502 SP:500/504 BP:1
+C-Tressa - HP:4631/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Mattias? - HP:5780/5780 Shields:4
+C-Heavenwing - HP:6900/6900 Shields:7
+D-Devourer of Dreams - HP:7500/7500 Shields:10
+E-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Mattias?
+3.Devourer of Dreams
+4.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Primrose
+3.Dreadwolf
+4.Heavenwing
+5.Tressa
+6.Mattias?
+7.Devourer of Dreams
+8.Hoary Bear
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3212/3557 SP:632/632 BP:1
+B-Primrose - HP:3618/4502 SP:500/504 BP:1
+C-Tressa - HP:4631/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Mattias? - HP:5780/5780 Shields:4
+C-Heavenwing - HP:6900/6900 Shields:7
+D-Devourer of Dreams - HP:7500/7500 Shields:10
+E-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Devourer of Dreams
+3.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Tressa
+3.Primrose
+4.Dreadwolf
+5.Heavenwing
+6.Mattias?
+7.Devourer of Dreams
+8.Hoary Bear
+----------------------------------------
+Mattias? usa Black Gale
+Cyrus se defiende
+Cyrus recibe 307 de daño elemental
+Primrose recibe 613 de daño elemental
+Tressa se defiende
+Tressa recibe 220 de daño elemental
+Cyrus termina con HP:2905
+Primrose termina con HP:3005
+Tressa termina con HP:4411
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2905/3557 SP:632/632 BP:1
+B-Primrose - HP:3005/4502 SP:500/504 BP:1
+C-Tressa - HP:4411/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Mattias? - HP:5780/5780 Shields:4
+C-Heavenwing - HP:6900/6900 Shields:7
+D-Devourer of Dreams - HP:7500/7500 Shields:10
+E-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Tressa
+3.Primrose
+4.Dreadwolf
+5.Heavenwing
+6.Mattias?
+7.Devourer of Dreams
+8.Hoary Bear
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Cyrus recibe 1453 de daño
+Primrose recibe 1503 de daño
+Tressa recibe 2206 de daño
+Cyrus termina con HP:1452
+Primrose termina con HP:1502
+Tressa termina con HP:2205
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1452/3557 SP:632/632 BP:1
+B-Primrose - HP:1502/4502 SP:500/504 BP:1
+C-Tressa - HP:2205/4891 SP:357/357 BP:1
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Mattias? - HP:5780/5780 Shields:4
+C-Heavenwing - HP:6900/6900 Shields:7
+D-Devourer of Dreams - HP:7500/7500 Shields:10
+E-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Tressa
+3.Primrose
+4.Dreadwolf
+5.Heavenwing
+6.Mattias?
+7.Devourer of Dreams
+8.Hoary Bear
+----------------------------------------
+Hoary Bear usa Rampage
+Cyrus se defiende
+Cyrus recibe 86 de daño físico
+Primrose recibe 207 de daño físico
+Tressa se defiende
+Tressa recibe 104 de daño físico
+Cyrus termina con HP:1366
+Primrose termina con HP:1295
+Tressa termina con HP:2101
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1366/3557 SP:632/632 BP:2
+B-Primrose - HP:1295/4502 SP:500/504 BP:2
+C-Tressa - HP:2101/4891 SP:357/357 BP:2
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Mattias? - HP:5780/5780 Shields:4
+C-Heavenwing - HP:6900/6900 Shields:7
+D-Devourer of Dreams - HP:7500/7500 Shields:10
+E-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Tressa
+3.Primrose
+4.Dreadwolf
+5.Heavenwing
+6.Mattias?
+7.Devourer of Dreams
+8.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Dreadwolf
+3.Heavenwing
+4.Cyrus
+5.Tressa
+6.Mattias?
+7.Devourer of Dreams
+8.Hoary Bear
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Heal More
+Primrose recupera 660 de vida
+Tressa recupera 660 de vida
+Cyrus recupera 660 de vida
+Primrose termina con HP:1955
+Tressa termina con HP:2761
+Cyrus termina con HP:2026
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2026/3557 SP:607/632 BP:2
+B-Primrose - HP:1955/4502 SP:500/504 BP:2
+C-Tressa - HP:2761/4891 SP:357/357 BP:2
+Equipo del enemigo
+A-Hoary Bear - HP:2688/2688 Shields:3
+B-Mattias? - HP:5780/5780 Shields:4
+C-Heavenwing - HP:6900/6900 Shields:7
+D-Devourer of Dreams - HP:7500/7500 Shields:10
+E-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Primrose
+3.Dreadwolf
+4.Heavenwing
+5.Mattias?
+6.Devourer of Dreams
+7.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Dreadwolf
+3.Heavenwing
+4.Cyrus
+5.Tressa
+6.Mattias?
+7.Devourer of Dreams
+8.Hoary Bear
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Lightning Bolt
+2: Fireball
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa usa Fireball
+Hoary Bear recibe 1813 de daño de tipo Fire
+Mattias? recibe 1339 de daño de tipo Fire
+Heavenwing recibe 1593 de daño de tipo Fire
+Devourer of Dreams recibe 1848 de daño de tipo Fire
+Dreadwolf recibe 1506 de daño de tipo Fire
+Hoary Bear termina con HP:875
+Mattias? termina con HP:4441
+Heavenwing termina con HP:5307
+Devourer of Dreams termina con HP:5652
+Dreadwolf termina con HP:6024
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2026/3557 SP:607/632 BP:2
+B-Primrose - HP:1955/4502 SP:500/504 BP:2
+C-Tressa - HP:2761/4891 SP:349/357 BP:0
+Equipo del enemigo
+A-Hoary Bear - HP:875/2688 Shields:3
+B-Mattias? - HP:4441/5780 Shields:4
+C-Heavenwing - HP:5307/6900 Shields:7
+D-Devourer of Dreams - HP:5652/7500 Shields:10
+E-Dreadwolf - HP:6024/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Dreadwolf
+3.Heavenwing
+4.Mattias?
+5.Devourer of Dreams
+6.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Dreadwolf
+3.Heavenwing
+4.Cyrus
+5.Tressa
+6.Mattias?
+7.Devourer of Dreams
+8.Hoary Bear
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: First Aid
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Cyrus - HP:2026/3557 SP:607/632 BP:2
+2: Primrose - HP:1955/4502 SP:500/504 BP:2
+3: Tressa - HP:2761/4891 SP:349/357 BP:0
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa First Aid
+Cyrus recupera 498 de vida
+Cyrus termina con HP:2524
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2524/3557 SP:607/632 BP:2
+B-Primrose - HP:1955/4502 SP:496/504 BP:2
+C-Tressa - HP:2761/4891 SP:349/357 BP:0
+Equipo del enemigo
+A-Hoary Bear - HP:875/2688 Shields:3
+B-Mattias? - HP:4441/5780 Shields:4
+C-Heavenwing - HP:5307/6900 Shields:7
+D-Devourer of Dreams - HP:5652/7500 Shields:10
+E-Dreadwolf - HP:6024/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Heavenwing
+3.Mattias?
+4.Devourer of Dreams
+5.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Dreadwolf
+3.Heavenwing
+4.Cyrus
+5.Tressa
+6.Mattias?
+7.Devourer of Dreams
+8.Hoary Bear
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Primrose recibe 541 de daño físico
+Primrose termina con HP:1414
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2524/3557 SP:607/632 BP:2
+B-Primrose - HP:1414/4502 SP:496/504 BP:2
+C-Tressa - HP:2761/4891 SP:349/357 BP:0
+Equipo del enemigo
+A-Hoary Bear - HP:875/2688 Shields:3
+B-Mattias? - HP:4441/5780 Shields:4
+C-Heavenwing - HP:5307/6900 Shields:7
+D-Devourer of Dreams - HP:5652/7500 Shields:10
+E-Dreadwolf - HP:6024/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Mattias?
+3.Devourer of Dreams
+4.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Dreadwolf
+3.Heavenwing
+4.Cyrus
+5.Tressa
+6.Mattias?
+7.Devourer of Dreams
+8.Hoary Bear
+----------------------------------------
+Heavenwing usa Incinerate
+Cyrus recibe 345 de daño elemental
+Primrose recibe 343 de daño elemental
+Tressa recibe 260 de daño elemental
+Cyrus termina con HP:2179
+Primrose termina con HP:1071
+Tressa termina con HP:2501
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2179/3557 SP:607/632 BP:2
+B-Primrose - HP:1071/4502 SP:496/504 BP:2
+C-Tressa - HP:2501/4891 SP:349/357 BP:0
+Equipo del enemigo
+A-Hoary Bear - HP:875/2688 Shields:3
+B-Mattias? - HP:4441/5780 Shields:4
+C-Heavenwing - HP:5307/6900 Shields:7
+D-Devourer of Dreams - HP:5652/7500 Shields:10
+E-Dreadwolf - HP:6024/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Devourer of Dreams
+3.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Dreadwolf
+3.Heavenwing
+4.Cyrus
+5.Tressa
+6.Mattias?
+7.Devourer of Dreams
+8.Hoary Bear
+----------------------------------------
+Mattias? usa Black Gale
+Cyrus recibe 615 de daño elemental
+Primrose recibe 613 de daño elemental
+Tressa recibe 440 de daño elemental
+Cyrus termina con HP:1564
+Primrose termina con HP:458
+Tressa termina con HP:2061
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1564/3557 SP:607/632 BP:2
+B-Primrose - HP:458/4502 SP:496/504 BP:2
+C-Tressa - HP:2061/4891 SP:349/357 BP:0
+Equipo del enemigo
+A-Hoary Bear - HP:875/2688 Shields:3
+B-Mattias? - HP:4441/5780 Shields:4
+C-Heavenwing - HP:5307/6900 Shields:7
+D-Devourer of Dreams - HP:5652/7500 Shields:10
+E-Dreadwolf - HP:6024/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Dreadwolf
+3.Heavenwing
+4.Cyrus
+5.Tressa
+6.Mattias?
+7.Devourer of Dreams
+8.Hoary Bear
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Cyrus recibe 782 de daño
+Primrose recibe 229 de daño
+Tressa recibe 1031 de daño
+Cyrus termina con HP:782
+Primrose termina con HP:229
+Tressa termina con HP:1030
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:782/3557 SP:607/632 BP:2
+B-Primrose - HP:229/4502 SP:496/504 BP:2
+C-Tressa - HP:1030/4891 SP:349/357 BP:0
+Equipo del enemigo
+A-Hoary Bear - HP:875/2688 Shields:3
+B-Mattias? - HP:4441/5780 Shields:4
+C-Heavenwing - HP:5307/6900 Shields:7
+D-Devourer of Dreams - HP:5652/7500 Shields:10
+E-Dreadwolf - HP:6024/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Dreadwolf
+3.Heavenwing
+4.Cyrus
+5.Tressa
+6.Mattias?
+7.Devourer of Dreams
+8.Hoary Bear
+----------------------------------------
+Hoary Bear usa Rampage
+Cyrus recibe 173 de daño físico
+Primrose recibe 207 de daño físico
+Tressa recibe 208 de daño físico
+Cyrus termina con HP:609
+Primrose termina con HP:22
+Tressa termina con HP:822
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:609/3557 SP:607/632 BP:3
+B-Primrose - HP:22/4502 SP:496/504 BP:3
+C-Tressa - HP:822/4891 SP:349/357 BP:0
+Equipo del enemigo
+A-Hoary Bear - HP:875/2688 Shields:3
+B-Mattias? - HP:4441/5780 Shields:4
+C-Heavenwing - HP:5307/6900 Shields:7
+D-Devourer of Dreams - HP:5652/7500 Shields:10
+E-Dreadwolf - HP:6024/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Dreadwolf
+3.Heavenwing
+4.Cyrus
+5.Tressa
+6.Mattias?
+7.Devourer of Dreams
+8.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Dreadwolf
+3.Heavenwing
+4.Cyrus
+5.Tressa
+6.Mattias?
+7.Devourer of Dreams
+8.Hoary Bear
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: First Aid
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Cyrus - HP:609/3557 SP:607/632 BP:3
+2: Primrose - HP:22/4502 SP:496/504 BP:3
+3: Tressa - HP:822/4891 SP:349/357 BP:0
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa First Aid
+Primrose recupera 498 de vida
+Primrose termina con HP:520
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:609/3557 SP:607/632 BP:3
+B-Primrose - HP:520/4502 SP:492/504 BP:3
+C-Tressa - HP:822/4891 SP:349/357 BP:0
+Equipo del enemigo
+A-Hoary Bear - HP:875/2688 Shields:3
+B-Mattias? - HP:4441/5780 Shields:4
+C-Heavenwing - HP:5307/6900 Shields:7
+D-Devourer of Dreams - HP:5652/7500 Shields:10
+E-Dreadwolf - HP:6024/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Heavenwing
+3.Cyrus
+4.Tressa
+5.Mattias?
+6.Devourer of Dreams
+7.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Dreadwolf
+3.Heavenwing
+4.Cyrus
+5.Tressa
+6.Mattias?
+7.Devourer of Dreams
+8.Hoary Bear
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Primrose recibe 541 de daño físico
+Primrose termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:609/3557 SP:607/632 BP:3
+B-Primrose - HP:0/4502 SP:492/504 BP:3
+C-Tressa - HP:822/4891 SP:349/357 BP:0
+Equipo del enemigo
+A-Hoary Bear - HP:875/2688 Shields:3
+B-Mattias? - HP:4441/5780 Shields:4
+C-Heavenwing - HP:5307/6900 Shields:7
+D-Devourer of Dreams - HP:5652/7500 Shields:10
+E-Dreadwolf - HP:6024/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Cyrus
+3.Tressa
+4.Mattias?
+5.Devourer of Dreams
+6.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Heavenwing
+3.Cyrus
+4.Tressa
+5.Mattias?
+6.Devourer of Dreams
+7.Hoary Bear
+----------------------------------------
+Heavenwing usa Incinerate
+Cyrus recibe 345 de daño elemental
+Tressa recibe 260 de daño elemental
+Cyrus termina con HP:264
+Tressa termina con HP:562
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:264/3557 SP:607/632 BP:3
+B-Primrose - HP:0/4502 SP:492/504 BP:3
+C-Tressa - HP:562/4891 SP:349/357 BP:0
+Equipo del enemigo
+A-Hoary Bear - HP:875/2688 Shields:3
+B-Mattias? - HP:4441/5780 Shields:4
+C-Heavenwing - HP:5307/6900 Shields:7
+D-Devourer of Dreams - HP:5652/7500 Shields:10
+E-Dreadwolf - HP:6024/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Tressa
+3.Mattias?
+4.Devourer of Dreams
+5.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Heavenwing
+3.Cyrus
+4.Tressa
+5.Mattias?
+6.Devourer of Dreams
+7.Hoary Bear
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Cyrus usa Heal More
+Tressa recupera 1254 de vida
+Cyrus recupera 1254 de vida
+Tressa termina con HP:1816
+Cyrus termina con HP:1518
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1518/3557 SP:582/632 BP:0
+B-Primrose - HP:0/4502 SP:492/504 BP:3
+C-Tressa - HP:1816/4891 SP:349/357 BP:0
+Equipo del enemigo
+A-Hoary Bear - HP:875/2688 Shields:3
+B-Mattias? - HP:4441/5780 Shields:4
+C-Heavenwing - HP:5307/6900 Shields:7
+D-Devourer of Dreams - HP:5652/7500 Shields:10
+E-Dreadwolf - HP:6024/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Mattias?
+3.Devourer of Dreams
+4.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Heavenwing
+3.Cyrus
+4.Tressa
+5.Mattias?
+6.Devourer of Dreams
+7.Hoary Bear
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Hoary Bear - HP:875/2688 Shields:3
+2: Mattias? - HP:4441/5780 Shields:4
+3: Heavenwing - HP:5307/6900 Shields:7
+4: Devourer of Dreams - HP:5652/7500 Shields:10
+5: Dreadwolf - HP:6024/7530 Shields:9
+6: Cancelar
+INPUT: 2
+----------------------------------------
+Tressa ataca
+Mattias? recibe 0 de daño de tipo Bow
+Mattias? termina con HP:4441
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1518/3557 SP:582/632 BP:0
+B-Primrose - HP:0/4502 SP:492/504 BP:3
+C-Tressa - HP:1816/4891 SP:349/357 BP:0
+Equipo del enemigo
+A-Hoary Bear - HP:875/2688 Shields:3
+B-Mattias? - HP:4441/5780 Shields:4
+C-Heavenwing - HP:5307/6900 Shields:7
+D-Devourer of Dreams - HP:5652/7500 Shields:10
+E-Dreadwolf - HP:6024/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Devourer of Dreams
+3.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Heavenwing
+3.Cyrus
+4.Tressa
+5.Mattias?
+6.Devourer of Dreams
+7.Hoary Bear
+----------------------------------------
+Mattias? usa Black Gale
+Cyrus recibe 615 de daño elemental
+Tressa recibe 440 de daño elemental
+Cyrus termina con HP:903
+Tressa termina con HP:1376
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:903/3557 SP:582/632 BP:0
+B-Primrose - HP:0/4502 SP:492/504 BP:3
+C-Tressa - HP:1376/4891 SP:349/357 BP:0
+Equipo del enemigo
+A-Hoary Bear - HP:875/2688 Shields:3
+B-Mattias? - HP:4441/5780 Shields:4
+C-Heavenwing - HP:5307/6900 Shields:7
+D-Devourer of Dreams - HP:5652/7500 Shields:10
+E-Dreadwolf - HP:6024/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Heavenwing
+3.Cyrus
+4.Tressa
+5.Mattias?
+6.Devourer of Dreams
+7.Hoary Bear
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Cyrus recibe 452 de daño
+Tressa recibe 688 de daño
+Cyrus termina con HP:451
+Tressa termina con HP:688
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:451/3557 SP:582/632 BP:0
+B-Primrose - HP:0/4502 SP:492/504 BP:3
+C-Tressa - HP:688/4891 SP:349/357 BP:0
+Equipo del enemigo
+A-Hoary Bear - HP:875/2688 Shields:3
+B-Mattias? - HP:4441/5780 Shields:4
+C-Heavenwing - HP:5307/6900 Shields:7
+D-Devourer of Dreams - HP:5652/7500 Shields:10
+E-Dreadwolf - HP:6024/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Heavenwing
+3.Cyrus
+4.Tressa
+5.Mattias?
+6.Devourer of Dreams
+7.Hoary Bear
+----------------------------------------
+Hoary Bear usa Rampage
+Cyrus recibe 173 de daño físico
+Tressa recibe 208 de daño físico
+Cyrus termina con HP:278
+Tressa termina con HP:480
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:278/3557 SP:582/632 BP:0
+B-Primrose - HP:0/4502 SP:492/504 BP:3
+C-Tressa - HP:480/4891 SP:349/357 BP:1
+Equipo del enemigo
+A-Hoary Bear - HP:875/2688 Shields:3
+B-Mattias? - HP:4441/5780 Shields:4
+C-Heavenwing - HP:5307/6900 Shields:7
+D-Devourer of Dreams - HP:5652/7500 Shields:10
+E-Dreadwolf - HP:6024/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Heavenwing
+3.Cyrus
+4.Tressa
+5.Mattias?
+6.Devourer of Dreams
+7.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Heavenwing
+3.Cyrus
+4.Tressa
+5.Mattias?
+6.Devourer of Dreams
+7.Hoary Bear
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Cyrus recibe 507 de daño físico
+Cyrus termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:582/632 BP:0
+B-Primrose - HP:0/4502 SP:492/504 BP:3
+C-Tressa - HP:480/4891 SP:349/357 BP:1
+Equipo del enemigo
+A-Hoary Bear - HP:875/2688 Shields:3
+B-Mattias? - HP:4441/5780 Shields:4
+C-Heavenwing - HP:5307/6900 Shields:7
+D-Devourer of Dreams - HP:5652/7500 Shields:10
+E-Dreadwolf - HP:6024/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Heavenwing
+2.Tressa
+3.Mattias?
+4.Devourer of Dreams
+5.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Heavenwing
+3.Tressa
+4.Mattias?
+5.Devourer of Dreams
+6.Hoary Bear
+----------------------------------------
+Heavenwing usa Incinerate
+Tressa recibe 260 de daño elemental
+Tressa termina con HP:220
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:582/632 BP:0
+B-Primrose - HP:0/4502 SP:492/504 BP:3
+C-Tressa - HP:220/4891 SP:349/357 BP:1
+Equipo del enemigo
+A-Hoary Bear - HP:875/2688 Shields:3
+B-Mattias? - HP:4441/5780 Shields:4
+C-Heavenwing - HP:5307/6900 Shields:7
+D-Devourer of Dreams - HP:5652/7500 Shields:10
+E-Dreadwolf - HP:6024/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Mattias?
+3.Devourer of Dreams
+4.Hoary Bear
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Heavenwing
+3.Tressa
+4.Mattias?
+5.Devourer of Dreams
+6.Hoary Bear
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Lightning Bolt
+2: Fireball
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa usa Lightning Bolt
+Hoary Bear recibe 1084 de daño de tipo Lightning
+Mattias? recibe 610 de daño de tipo Lightning
+Heavenwing recibe 864 de daño de tipo Lightning
+Devourer of Dreams recibe 1119 de daño de tipo Lightning
+Dreadwolf recibe 777 de daño de tipo Lightning
+Hoary Bear termina con HP:0
+Mattias? termina con HP:3831
+Heavenwing termina con HP:4443
+Devourer of Dreams termina con HP:4533
+Dreadwolf termina con HP:5247
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:0/3557 SP:582/632 BP:0
+B-Primrose - HP:0/4502 SP:492/504 BP:3
+C-Tressa - HP:220/4891 SP:341/357 BP:0
+Equipo del enemigo
+A-Hoary Bear - HP:0/2688 Shields:3
+B-Mattias? - HP:3831/5780 Shields:4
+C-Heavenwing - HP:4443/6900 Shields:7
+D-Devourer of Dreams - HP:4533/7500 Shields:10
+E-Dreadwolf - HP:5247/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Heavenwing
+3.Tressa
+4.Mattias?
+5.Devourer of Dreams
+----------------------------------------
+Mattias? usa Black Gale
+Tressa recibe 440 de daño elemental
+Tressa termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

@@ -1,0 +1,935 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+INPUT: 8
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:4002/4002 SP:432/432 BP:1
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Thunder Wisp - HP:947/947 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Mad Ratkin - HP:1233/1233 Shields:1
+2: Thunder Wisp - HP:947/947 Shields:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Thunder Wisp recibe 0 de daño de tipo Stave
+Thunder Wisp termina con HP:947
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:4002/4002 SP:432/432 BP:1
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Thunder Wisp - HP:947/947 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Mad Ratkin usa Stab
+Temenos recibe 307 de daño físico
+Temenos termina con HP:3695
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:3695/4002 SP:432/432 BP:1
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Thunder Wisp - HP:947/947 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Thunder Wisp usa Enshadow
+Temenos recibe 130 de daño elemental
+Temenos termina con HP:3565
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:3565/4002 SP:432/432 BP:2
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Thunder Wisp - HP:947/947 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:3565/4002 SP:432/432 BP:2
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Thunder Wisp - HP:947/947 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Mad Ratkin usa Stab
+Temenos se defiende
+Temenos recibe 153 de daño físico
+Temenos termina con HP:3412
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:3412/4002 SP:432/432 BP:2
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Thunder Wisp - HP:947/947 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Thunder Wisp usa Enshadow
+Temenos se defiende
+Temenos recibe 65 de daño elemental
+Temenos termina con HP:3347
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:3347/4002 SP:432/432 BP:3
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Thunder Wisp - HP:947/947 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Mad Ratkin - HP:1233/1233 Shields:1
+2: Thunder Wisp - HP:947/947 Shields:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Thunder Wisp recibe 0 de daño de tipo Stave
+Thunder Wisp termina con HP:947
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:3347/4002 SP:432/432 BP:3
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Thunder Wisp - HP:947/947 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Mad Ratkin usa Stab
+Temenos recibe 307 de daño físico
+Temenos termina con HP:3040
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:3040/4002 SP:432/432 BP:3
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Thunder Wisp - HP:947/947 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Thunder Wisp usa Enshadow
+Temenos recibe 130 de daño elemental
+Temenos termina con HP:2910
+----------------------------------------
+Temenos obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:2910/4002 SP:432/432 BP:3
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Thunder Wisp - HP:947/947 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:2910/4002 SP:432/432 BP:4
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Thunder Wisp - HP:947/947 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Holy Light
+2: Icewind
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos usa Icewind
+Mad Ratkin recibe 260 de daño de tipo Ice
+Thunder Wisp recibe 310 de daño de tipo Ice
+Mad Ratkin termina con HP:973
+Thunder Wisp termina con HP:637
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:2910/4002 SP:424/432 BP:4
+Equipo del enemigo
+A-Mad Ratkin - HP:973/1233 Shields:1
+B-Thunder Wisp - HP:637/947 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Mad Ratkin usa Stab
+Temenos recibe 307 de daño físico
+Temenos termina con HP:2603
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:2603/4002 SP:424/432 BP:4
+Equipo del enemigo
+A-Mad Ratkin - HP:973/1233 Shields:1
+B-Thunder Wisp - HP:637/947 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Thunder Wisp usa Enshadow
+Temenos recibe 130 de daño elemental
+Temenos termina con HP:2473
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:2473/4002 SP:424/432 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:973/1233 Shields:1
+B-Thunder Wisp - HP:637/947 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Mad Ratkin - HP:973/1233 Shields:1
+2: Thunder Wisp - HP:637/947 Shields:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Thunder Wisp recibe 0 de daño de tipo Stave
+Thunder Wisp termina con HP:637
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:2473/4002 SP:424/432 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:973/1233 Shields:1
+B-Thunder Wisp - HP:637/947 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Mad Ratkin usa Stab
+Temenos recibe 307 de daño físico
+Temenos termina con HP:2166
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:2166/4002 SP:424/432 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:973/1233 Shields:1
+B-Thunder Wisp - HP:637/947 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Thunder Wisp usa Enshadow
+Temenos recibe 130 de daño elemental
+Temenos termina con HP:2036
+----------------------------------------
+Temenos obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:2036/4002 SP:424/432 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:973/1233 Shields:1
+B-Thunder Wisp - HP:637/947 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:2036/4002 SP:424/432 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:973/1233 Shields:1
+B-Thunder Wisp - HP:637/947 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Mad Ratkin - HP:973/1233 Shields:1
+2: Thunder Wisp - HP:637/947 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Mad Ratkin recibe 0 de daño de tipo Stave
+Mad Ratkin termina con HP:973
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:2036/4002 SP:424/432 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:973/1233 Shields:1
+B-Thunder Wisp - HP:637/947 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Mad Ratkin usa Stab
+Temenos recibe 307 de daño físico
+Temenos termina con HP:1729
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:1729/4002 SP:424/432 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:973/1233 Shields:1
+B-Thunder Wisp - HP:637/947 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Thunder Wisp usa Enshadow
+Temenos recibe 130 de daño elemental
+Temenos termina con HP:1599
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:1599/4002 SP:424/432 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:973/1233 Shields:1
+B-Thunder Wisp - HP:637/947 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Mad Ratkin - HP:973/1233 Shields:1
+2: Thunder Wisp - HP:637/947 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Mad Ratkin recibe 0 de daño de tipo Stave
+Mad Ratkin termina con HP:973
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:1599/4002 SP:424/432 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:973/1233 Shields:1
+B-Thunder Wisp - HP:637/947 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Mad Ratkin usa Stab
+Temenos recibe 307 de daño físico
+Temenos termina con HP:1292
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:1292/4002 SP:424/432 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:973/1233 Shields:1
+B-Thunder Wisp - HP:637/947 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Thunder Wisp usa Enshadow
+Temenos recibe 130 de daño elemental
+Temenos termina con HP:1162
+----------------------------------------
+Temenos obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:1162/4002 SP:424/432 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:973/1233 Shields:1
+B-Thunder Wisp - HP:637/947 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:1162/4002 SP:424/432 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:973/1233 Shields:1
+B-Thunder Wisp - HP:637/947 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Holy Light
+2: Icewind
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos usa Icewind
+Mad Ratkin recibe 260 de daño de tipo Ice
+Thunder Wisp recibe 310 de daño de tipo Ice
+Mad Ratkin termina con HP:713
+Thunder Wisp termina con HP:327
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:1162/4002 SP:416/432 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:713/1233 Shields:1
+B-Thunder Wisp - HP:327/947 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Mad Ratkin usa Stab
+Temenos recibe 307 de daño físico
+Temenos termina con HP:855
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:855/4002 SP:416/432 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:713/1233 Shields:1
+B-Thunder Wisp - HP:327/947 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Thunder Wisp usa Enshadow
+Temenos recibe 130 de daño elemental
+Temenos termina con HP:725
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:725/4002 SP:416/432 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:713/1233 Shields:1
+B-Thunder Wisp - HP:327/947 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Mad Ratkin - HP:713/1233 Shields:1
+2: Thunder Wisp - HP:327/947 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Mad Ratkin recibe 0 de daño de tipo Stave
+Mad Ratkin termina con HP:713
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:725/4002 SP:416/432 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:713/1233 Shields:1
+B-Thunder Wisp - HP:327/947 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Mad Ratkin usa Stab
+Temenos recibe 307 de daño físico
+Temenos termina con HP:418
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:418/4002 SP:416/432 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:713/1233 Shields:1
+B-Thunder Wisp - HP:327/947 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Thunder Wisp usa Enshadow
+Temenos recibe 130 de daño elemental
+Temenos termina con HP:288
+----------------------------------------
+Temenos obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:288/4002 SP:416/432 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:713/1233 Shields:1
+B-Thunder Wisp - HP:327/947 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Mad Ratkin
+3.Thunder Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Holy Light
+2: Icewind
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Mad Ratkin - HP:713/1233 Shields:1
+2: Thunder Wisp - HP:327/947 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos usa Holy Light
+Mad Ratkin recibe 390 de daño de tipo Light con debilidad
+Mad Ratkin entra en Breaking Point
+Mad Ratkin termina con HP:323
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:288/4002 SP:410/432 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:323/1233 Shields:0
+B-Thunder Wisp - HP:327/947 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Temenos
+3.Thunder Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Holy Light
+2: Icewind
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos usa Icewind
+Mad Ratkin recibe 390 de daño de tipo Ice
+Thunder Wisp recibe 310 de daño de tipo Ice
+Mad Ratkin termina con HP:0
+Thunder Wisp termina con HP:17
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:288/4002 SP:402/432 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:0/1233 Shields:0
+B-Thunder Wisp - HP:17/947 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Thunder Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Thunder Wisp
+----------------------------------------
+Thunder Wisp usa Enshadow
+Temenos recibe 130 de daño elemental
+Temenos termina con HP:158
+----------------------------------------
+Temenos obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:158/4002 SP:402/432 BP:5
+Equipo del enemigo
+A-Mad Ratkin - HP:0/1233 Shields:0
+B-Thunder Wisp - HP:17/947 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Thunder Wisp
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Holy Light
+2: Icewind
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos usa Icewind
+Thunder Wisp recibe 310 de daño de tipo Ice
+Thunder Wisp termina con HP:0
+----------------------------------------
+Gana equipo del jugador

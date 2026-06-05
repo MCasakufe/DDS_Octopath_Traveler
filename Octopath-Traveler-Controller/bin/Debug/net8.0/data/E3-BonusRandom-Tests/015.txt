@@ -1,0 +1,528 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+INPUT: 14
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4502/4502 SP:470/470 BP:1
+B-Throné - HP:4447/4447 SP:332/332 BP:1
+C-Ochette - HP:4447/4447 SP:419/419 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Ochette
+3.Ophilia
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Ochette
+3.Ophilia
+4.Light Wisp
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Revive
+2: Tradewinds
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Throné usa Revive
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4502/4502 SP:470/470 BP:1
+B-Throné - HP:4447/4447 SP:282/332 BP:0
+C-Ochette - HP:4447/4447 SP:419/419 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Ophilia
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Ochette
+3.Ophilia
+4.Light Wisp
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4502/4502 SP:470/470 BP:1
+B-Throné - HP:4447/4447 SP:282/332 BP:0
+C-Ochette - HP:4447/4447 SP:419/419 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Throné
+3.Ophilia
+4.Light Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Ophilia usa Heal More
+Throné recupera 1037 de vida
+Ochette recupera 1037 de vida
+Ophilia recupera 1037 de vida
+Throné termina con HP:5484
+Ochette termina con HP:4447
+Ophilia termina con HP:4502
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4502/4502 SP:445/470 BP:0
+B-Throné - HP:5484/4447 SP:282/332 BP:0
+C-Ochette - HP:4447/4447 SP:419/419 BP:1
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Throné
+3.Ophilia
+4.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Throné recibe 165 de daño elemental
+Throné termina con HP:5319
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4502/4502 SP:445/470 BP:0
+B-Throné - HP:5319/4447 SP:282/332 BP:0
+C-Ochette - HP:4447/4447 SP:419/419 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Throné
+3.Ophilia
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Ochette
+3.Ophilia
+4.Light Wisp
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: First Aid
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Ophilia - HP:4502/4502 SP:445/470 BP:0
+2: Throné - HP:5319/4447 SP:282/332 BP:0
+3: Ochette - HP:4447/4447 SP:419/419 BP:2
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette usa First Aid
+Ochette recupera 352 de vida
+Ochette termina con HP:4447
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4502/4502 SP:445/470 BP:0
+B-Throné - HP:5319/4447 SP:282/332 BP:0
+C-Ochette - HP:4447/4447 SP:415/419 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Ophilia
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Ochette
+3.Ophilia
+4.Light Wisp
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Revive
+2: Tradewinds
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Throné usa Revive
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4502/4502 SP:445/470 BP:0
+B-Throné - HP:5319/4447 SP:232/332 BP:0
+C-Ochette - HP:4447/4447 SP:415/419 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Ochette
+3.Ophilia
+4.Light Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Light Wisp - HP:972/972 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Ophilia ataca
+Light Wisp recibe 0 de daño de tipo Stave
+Light Wisp termina con HP:972
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4502/4502 SP:445/470 BP:0
+B-Throné - HP:5319/4447 SP:232/332 BP:0
+C-Ochette - HP:4447/4447 SP:415/419 BP:2
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Ochette
+3.Ophilia
+4.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Throné recibe 165 de daño elemental
+Throné termina con HP:5154
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4502/4502 SP:445/470 BP:1
+B-Throné - HP:5154/4447 SP:232/332 BP:1
+C-Ochette - HP:4447/4447 SP:415/419 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:972/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Ochette
+3.Ophilia
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Ochette
+3.Ophilia
+4.Light Wisp
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Revive
+2: Tradewinds
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Light Wisp - HP:972/972 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Throné no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Throné usa Tradewinds
+Light Wisp recibe 743 de daño de tipo Wind
+Light Wisp termina con HP:229
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4502/4502 SP:445/470 BP:1
+B-Throné - HP:5154/4447 SP:225/332 BP:0
+C-Ochette - HP:4447/4447 SP:415/419 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:229/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Ophilia
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Ochette
+3.Ophilia
+4.Light Wisp
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Light Wisp - HP:229/972 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette ataca
+Light Wisp recibe 202 de daño de tipo Axe
+Light Wisp termina con HP:27
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4502/4502 SP:445/470 BP:1
+B-Throné - HP:5154/4447 SP:225/332 BP:0
+C-Ochette - HP:4447/4447 SP:415/419 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:27/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Ochette
+3.Ophilia
+4.Light Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4502/4502 SP:445/470 BP:1
+B-Throné - HP:5154/4447 SP:225/332 BP:0
+C-Ochette - HP:4447/4447 SP:415/419 BP:3
+Equipo del enemigo
+A-Light Wisp - HP:27/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Throné
+3.Ochette
+4.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Throné recibe 165 de daño elemental
+Throné termina con HP:4989
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4502/4502 SP:445/470 BP:2
+B-Throné - HP:4989/4447 SP:225/332 BP:0
+C-Ochette - HP:4447/4447 SP:415/419 BP:4
+Equipo del enemigo
+A-Light Wisp - HP:27/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Throné
+3.Ochette
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Ochette
+3.Ophilia
+4.Light Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Heal More
+Throné recupera 798 de vida
+Ochette recupera 798 de vida
+Ophilia recupera 798 de vida
+Throné termina con HP:5787
+Ochette termina con HP:4447
+Ophilia termina con HP:4502
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4502/4502 SP:420/470 BP:2
+B-Throné - HP:5787/4447 SP:225/332 BP:0
+C-Ochette - HP:4447/4447 SP:415/419 BP:4
+Equipo del enemigo
+A-Light Wisp - HP:27/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Ochette
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Ochette
+3.Ophilia
+4.Light Wisp
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Light Wisp - HP:27/972 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Throné ataca
+Light Wisp recibe 166 de daño de tipo Sword
+Light Wisp termina con HP:0
+----------------------------------------
+Gana equipo del jugador

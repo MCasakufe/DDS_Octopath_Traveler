@@ -1,0 +1,5279 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 1
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-Hikari - HP:5781/5781 SP:317/317 BP:1
+C-Z'aanta - HP:3722/3722 SP:371/371 BP:1
+D-Ochette - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Dark Guardian - HP:1470/1470 Shields:3
+B-River Fly - HP:1010/1010 Shields:2
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Elemental - HP:1880/1880 Shields:4
+E-Light Wisp - HP:972/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+9.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+9.Light Wisp
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Holy Light
+2: Heal Wounds
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette usa Heal Wounds
+Ophilia recupera 352 de vida
+Hikari recupera 352 de vida
+Z'aanta recupera 352 de vida
+Ochette recupera 352 de vida
+Ophilia termina con HP:4002
+Hikari termina con HP:5781
+Z'aanta termina con HP:3722
+Ochette termina con HP:4447
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-Hikari - HP:5781/5781 SP:317/317 BP:1
+C-Z'aanta - HP:3722/3722 SP:371/371 BP:1
+D-Ochette - HP:4447/4447 SP:363/369 BP:1
+Equipo del enemigo
+A-Dark Guardian - HP:1470/1470 Shields:3
+B-River Fly - HP:1010/1010 Shields:2
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Elemental - HP:1880/1880 Shields:4
+E-Light Wisp - HP:972/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Hikari
+3.Z'aanta
+4.River Fly
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+8.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+9.Light Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Spearhead
+2: Leghold Trap
+3: First Aid
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Dark Guardian - HP:1470/1470 Shields:3
+2: River Fly - HP:1010/1010 Shields:2
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Light Elemental - HP:1880/1880 Shields:4
+5: Light Wisp - HP:972/972 Shields:1
+6: Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Spearhead
+Light Wisp recibe 100 de daño de tipo Spear
+Light Wisp termina con HP:872
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:1
+B-Hikari - HP:5781/5781 SP:317/317 BP:1
+C-Z'aanta - HP:3722/3722 SP:371/371 BP:1
+D-Ochette - HP:4447/4447 SP:363/369 BP:1
+Equipo del enemigo
+A-Dark Guardian - HP:1470/1470 Shields:3
+B-River Fly - HP:1010/1010 Shields:2
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Elemental - HP:1880/1880 Shields:4
+E-Light Wisp - HP:872/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Z'aanta
+3.River Fly
+4.Dark Guardian
+5.Wind Elemental
+6.Light Elemental
+7.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Ochette
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+9.Light Wisp
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Dark Guardian - HP:1470/1470 Shields:3
+2: River Fly - HP:1010/1010 Shields:2
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Light Elemental - HP:1880/1880 Shields:4
+5: Light Wisp - HP:872/972 Shields:1
+6: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Light Elemental recibe 243 de daño de tipo Spear
+Light Elemental termina con HP:1637
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:1
+B-Hikari - HP:5781/5781 SP:317/317 BP:1
+C-Z'aanta - HP:3722/3722 SP:371/371 BP:1
+D-Ochette - HP:4447/4447 SP:363/369 BP:1
+Equipo del enemigo
+A-Dark Guardian - HP:1470/1470 Shields:3
+B-River Fly - HP:1010/1010 Shields:2
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Elemental - HP:1637/1880 Shields:4
+E-Light Wisp - HP:872/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.River Fly
+3.Dark Guardian
+4.Wind Elemental
+5.Light Elemental
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Ochette
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+9.Light Wisp
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:1
+B-Hikari - HP:5781/5781 SP:317/317 BP:1
+C-Z'aanta - HP:3722/3722 SP:371/371 BP:1
+D-Ochette - HP:4447/4447 SP:363/369 BP:1
+Equipo del enemigo
+A-Dark Guardian - HP:1470/1470 Shields:3
+B-River Fly - HP:1010/1010 Shields:2
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Elemental - HP:1637/1880 Shields:4
+E-Light Wisp - HP:872/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.River Fly
+2.Dark Guardian
+3.Wind Elemental
+4.Light Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Ophilia
+3.Ochette
+4.Hikari
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+9.Light Wisp
+----------------------------------------
+River Fly usa Attack
+Hikari recibe 74 de daño físico
+Hikari termina con HP:5707
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:1
+B-Hikari - HP:5707/5781 SP:317/317 BP:1
+C-Z'aanta - HP:3722/3722 SP:371/371 BP:1
+D-Ochette - HP:4447/4447 SP:363/369 BP:1
+Equipo del enemigo
+A-Dark Guardian - HP:1470/1470 Shields:3
+B-River Fly - HP:1010/1010 Shields:2
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Elemental - HP:1637/1880 Shields:4
+E-Light Wisp - HP:872/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dark Guardian
+2.Wind Elemental
+3.Light Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Ophilia
+3.Ochette
+4.Hikari
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+9.Light Wisp
+----------------------------------------
+Dark Guardian usa Attack
+Hikari recibe 93 de daño físico
+Hikari termina con HP:5614
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:1
+B-Hikari - HP:5614/5781 SP:317/317 BP:1
+C-Z'aanta - HP:3722/3722 SP:371/371 BP:1
+D-Ochette - HP:4447/4447 SP:363/369 BP:1
+Equipo del enemigo
+A-Dark Guardian - HP:1470/1470 Shields:3
+B-River Fly - HP:1010/1010 Shields:2
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Elemental - HP:1637/1880 Shields:4
+E-Light Wisp - HP:872/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Ophilia
+3.Ochette
+4.Hikari
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+9.Light Wisp
+----------------------------------------
+Wind Elemental usa Windshot
+Z'aanta se defiende
+Z'aanta recibe 97 de daño elemental
+Z'aanta termina con HP:3625
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:1
+B-Hikari - HP:5614/5781 SP:317/317 BP:1
+C-Z'aanta - HP:3625/3722 SP:371/371 BP:1
+D-Ochette - HP:4447/4447 SP:363/369 BP:1
+Equipo del enemigo
+A-Dark Guardian - HP:1470/1470 Shields:3
+B-River Fly - HP:1010/1010 Shields:2
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Elemental - HP:1637/1880 Shields:4
+E-Light Wisp - HP:872/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Ophilia
+3.Ochette
+4.Hikari
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+9.Light Wisp
+----------------------------------------
+Light Elemental usa Lightshot
+Z'aanta se defiende
+Z'aanta recibe 72 de daño elemental
+Z'aanta termina con HP:3553
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:1
+B-Hikari - HP:5614/5781 SP:317/317 BP:1
+C-Z'aanta - HP:3553/3722 SP:371/371 BP:1
+D-Ochette - HP:4447/4447 SP:363/369 BP:1
+Equipo del enemigo
+A-Dark Guardian - HP:1470/1470 Shields:3
+B-River Fly - HP:1010/1010 Shields:2
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Elemental - HP:1637/1880 Shields:4
+E-Light Wisp - HP:872/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Ophilia
+3.Ochette
+4.Hikari
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+9.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Ochette recibe 158 de daño elemental
+Ochette termina con HP:4289
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:2
+B-Hikari - HP:5614/5781 SP:317/317 BP:2
+C-Z'aanta - HP:3553/3722 SP:371/371 BP:2
+D-Ochette - HP:4289/4447 SP:363/369 BP:2
+Equipo del enemigo
+A-Dark Guardian - HP:1470/1470 Shields:3
+B-River Fly - HP:1010/1010 Shields:2
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Elemental - HP:1637/1880 Shields:4
+E-Light Wisp - HP:872/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Ophilia
+3.Ochette
+4.Hikari
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+9.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+9.Light Wisp
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Heal Wounds
+2: Qilin's Horn
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Dark Guardian - HP:1470/1470 Shields:3
+2: River Fly - HP:1010/1010 Shields:2
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Light Elemental - HP:1637/1880 Shields:4
+5: Light Wisp - HP:872/972 Shields:1
+6: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta usa Qilin's Horn
+Dark Guardian recibe 554 de daño de tipo Spear
+Dark Guardian termina con HP:916
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:2
+B-Hikari - HP:5614/5781 SP:317/317 BP:2
+C-Z'aanta - HP:3553/3722 SP:336/371 BP:2
+D-Ochette - HP:4289/4447 SP:363/369 BP:2
+Equipo del enemigo
+A-Dark Guardian - HP:916/1470 Shields:3
+B-River Fly - HP:1010/1010 Shields:2
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Elemental - HP:1637/1880 Shields:4
+E-Light Wisp - HP:872/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Ochette
+3.Hikari
+4.River Fly
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+8.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+9.Light Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:2
+B-Hikari - HP:5614/5781 SP:317/317 BP:2
+C-Z'aanta - HP:3553/3722 SP:336/371 BP:2
+D-Ochette - HP:4289/4447 SP:363/369 BP:2
+Equipo del enemigo
+A-Dark Guardian - HP:916/1470 Shields:3
+B-River Fly - HP:1010/1010 Shields:2
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Elemental - HP:1637/1880 Shields:4
+E-Light Wisp - HP:872/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Hikari
+3.River Fly
+4.Dark Guardian
+5.Wind Elemental
+6.Light Elemental
+7.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Ochette
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+9.Light Wisp
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Dark Guardian - HP:916/1470 Shields:3
+2: River Fly - HP:1010/1010 Shields:2
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Light Elemental - HP:1637/1880 Shields:4
+5: Light Wisp - HP:872/972 Shields:1
+6: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette ataca
+River Fly recibe 227 de daño de tipo Axe
+River Fly termina con HP:783
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:2
+B-Hikari - HP:5614/5781 SP:317/317 BP:2
+C-Z'aanta - HP:3553/3722 SP:336/371 BP:2
+D-Ochette - HP:4289/4447 SP:363/369 BP:2
+Equipo del enemigo
+A-Dark Guardian - HP:916/1470 Shields:3
+B-River Fly - HP:783/1010 Shields:2
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Elemental - HP:1637/1880 Shields:4
+E-Light Wisp - HP:872/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.River Fly
+3.Dark Guardian
+4.Wind Elemental
+5.Light Elemental
+6.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Ochette
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+9.Light Wisp
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Dark Guardian - HP:916/1470 Shields:3
+2: River Fly - HP:783/1010 Shields:2
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Light Elemental - HP:1637/1880 Shields:4
+5: Light Wisp - HP:872/972 Shields:1
+6: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+River Fly recibe 290 de daño de tipo Sword
+River Fly termina con HP:493
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:2
+B-Hikari - HP:5614/5781 SP:317/317 BP:2
+C-Z'aanta - HP:3553/3722 SP:336/371 BP:2
+D-Ochette - HP:4289/4447 SP:363/369 BP:2
+Equipo del enemigo
+A-Dark Guardian - HP:916/1470 Shields:3
+B-River Fly - HP:493/1010 Shields:2
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Elemental - HP:1637/1880 Shields:4
+E-Light Wisp - HP:872/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.River Fly
+2.Dark Guardian
+3.Wind Elemental
+4.Light Elemental
+5.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Ochette
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+9.Light Wisp
+----------------------------------------
+River Fly usa Attack
+Hikari recibe 74 de daño físico
+Hikari termina con HP:5540
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:2
+B-Hikari - HP:5540/5781 SP:317/317 BP:2
+C-Z'aanta - HP:3553/3722 SP:336/371 BP:2
+D-Ochette - HP:4289/4447 SP:363/369 BP:2
+Equipo del enemigo
+A-Dark Guardian - HP:916/1470 Shields:3
+B-River Fly - HP:493/1010 Shields:2
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Elemental - HP:1637/1880 Shields:4
+E-Light Wisp - HP:872/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dark Guardian
+2.Wind Elemental
+3.Light Elemental
+4.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Ochette
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+9.Light Wisp
+----------------------------------------
+Dark Guardian usa Attack
+Hikari recibe 93 de daño físico
+Hikari termina con HP:5447
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:2
+B-Hikari - HP:5447/5781 SP:317/317 BP:2
+C-Z'aanta - HP:3553/3722 SP:336/371 BP:2
+D-Ochette - HP:4289/4447 SP:363/369 BP:2
+Equipo del enemigo
+A-Dark Guardian - HP:916/1470 Shields:3
+B-River Fly - HP:493/1010 Shields:2
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Elemental - HP:1637/1880 Shields:4
+E-Light Wisp - HP:872/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Elemental
+3.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Ochette
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+9.Light Wisp
+----------------------------------------
+Wind Elemental usa Windshot
+Z'aanta recibe 194 de daño elemental
+Z'aanta termina con HP:3359
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:2
+B-Hikari - HP:5447/5781 SP:317/317 BP:2
+C-Z'aanta - HP:3359/3722 SP:336/371 BP:2
+D-Ochette - HP:4289/4447 SP:363/369 BP:2
+Equipo del enemigo
+A-Dark Guardian - HP:916/1470 Shields:3
+B-River Fly - HP:493/1010 Shields:2
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Elemental - HP:1637/1880 Shields:4
+E-Light Wisp - HP:872/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+2.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Ochette
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+9.Light Wisp
+----------------------------------------
+Light Elemental usa Lightshot
+Z'aanta recibe 144 de daño elemental
+Z'aanta termina con HP:3215
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:2
+B-Hikari - HP:5447/5781 SP:317/317 BP:2
+C-Z'aanta - HP:3215/3722 SP:336/371 BP:2
+D-Ochette - HP:4289/4447 SP:363/369 BP:2
+Equipo del enemigo
+A-Dark Guardian - HP:916/1470 Shields:3
+B-River Fly - HP:493/1010 Shields:2
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Elemental - HP:1637/1880 Shields:4
+E-Light Wisp - HP:872/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Ochette
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+9.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Ochette recibe 158 de daño elemental
+Ochette termina con HP:4131
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:3
+B-Hikari - HP:5447/5781 SP:317/317 BP:3
+C-Z'aanta - HP:3215/3722 SP:336/371 BP:3
+D-Ochette - HP:4131/4447 SP:363/369 BP:3
+Equipo del enemigo
+A-Dark Guardian - HP:916/1470 Shields:3
+B-River Fly - HP:493/1010 Shields:2
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Elemental - HP:1637/1880 Shields:4
+E-Light Wisp - HP:872/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Ochette
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+9.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+9.Light Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:3
+B-Hikari - HP:5447/5781 SP:317/317 BP:3
+C-Z'aanta - HP:3215/3722 SP:336/371 BP:3
+D-Ochette - HP:4131/4447 SP:363/369 BP:3
+Equipo del enemigo
+A-Dark Guardian - HP:916/1470 Shields:3
+B-River Fly - HP:493/1010 Shields:2
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Elemental - HP:1637/1880 Shields:4
+E-Light Wisp - HP:872/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Hikari
+3.Z'aanta
+4.River Fly
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+8.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Ochette
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+9.Light Wisp
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Holy Light
+2: Heal Wounds
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Dark Guardian - HP:916/1470 Shields:3
+2: River Fly - HP:493/1010 Shields:2
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Light Elemental - HP:1637/1880 Shields:4
+5: Light Wisp - HP:872/972 Shields:1
+6: Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette usa Holy Light
+Light Wisp recibe 330 de daño de tipo Light
+Light Wisp termina con HP:542
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:3
+B-Hikari - HP:5447/5781 SP:317/317 BP:3
+C-Z'aanta - HP:3215/3722 SP:336/371 BP:3
+D-Ochette - HP:4131/4447 SP:357/369 BP:3
+Equipo del enemigo
+A-Dark Guardian - HP:916/1470 Shields:3
+B-River Fly - HP:493/1010 Shields:2
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Elemental - HP:1637/1880 Shields:4
+E-Light Wisp - HP:542/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Z'aanta
+3.River Fly
+4.Dark Guardian
+5.Wind Elemental
+6.Light Elemental
+7.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Ochette
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+9.Light Wisp
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Shooting Stars
+2: Luminescence
+3: Leghold Trap
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Dark Guardian - HP:916/1470 Shields:3
+2: River Fly - HP:493/1010 Shields:2
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Light Elemental - HP:1637/1880 Shields:4
+5: Light Wisp - HP:542/972 Shields:1
+6: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Leghold Trap
+Dark Guardian tendrá menor prioridad de turno durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:3
+B-Hikari - HP:5447/5781 SP:311/317 BP:3
+C-Z'aanta - HP:3215/3722 SP:336/371 BP:3
+D-Ochette - HP:4131/4447 SP:357/369 BP:3
+Equipo del enemigo
+A-Dark Guardian - HP:916/1470 Shields:3
+B-River Fly - HP:493/1010 Shields:2
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Elemental - HP:1637/1880 Shields:4
+E-Light Wisp - HP:542/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.River Fly
+3.Wind Elemental
+4.Light Elemental
+5.Light Wisp
+6.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Ochette
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Wind Elemental
+7.Light Elemental
+8.Light Wisp
+9.Dark Guardian
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Dark Guardian - HP:916/1470 Shields:3
+2: River Fly - HP:493/1010 Shields:2
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Light Elemental - HP:1637/1880 Shields:4
+5: Light Wisp - HP:542/972 Shields:1
+6: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+River Fly recibe 285 de daño de tipo Bow con debilidad
+River Fly termina con HP:208
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:3
+B-Hikari - HP:5447/5781 SP:311/317 BP:3
+C-Z'aanta - HP:3215/3722 SP:336/371 BP:3
+D-Ochette - HP:4131/4447 SP:357/369 BP:3
+Equipo del enemigo
+A-Dark Guardian - HP:916/1470 Shields:3
+B-River Fly - HP:208/1010 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Elemental - HP:1637/1880 Shields:4
+E-Light Wisp - HP:542/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.River Fly
+2.Wind Elemental
+3.Light Elemental
+4.Light Wisp
+5.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Ochette
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Wind Elemental
+7.Light Elemental
+8.Light Wisp
+9.Dark Guardian
+----------------------------------------
+River Fly usa Attack
+Hikari recibe 74 de daño físico
+Hikari termina con HP:5373
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:3
+B-Hikari - HP:5373/5781 SP:311/317 BP:3
+C-Z'aanta - HP:3215/3722 SP:336/371 BP:3
+D-Ochette - HP:4131/4447 SP:357/369 BP:3
+Equipo del enemigo
+A-Dark Guardian - HP:916/1470 Shields:3
+B-River Fly - HP:208/1010 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Elemental - HP:1637/1880 Shields:4
+E-Light Wisp - HP:542/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Elemental
+3.Light Wisp
+4.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Ochette
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Wind Elemental
+7.Light Elemental
+8.Light Wisp
+9.Dark Guardian
+----------------------------------------
+Wind Elemental usa Windshot
+Z'aanta recibe 194 de daño elemental
+Z'aanta termina con HP:3021
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:3
+B-Hikari - HP:5373/5781 SP:311/317 BP:3
+C-Z'aanta - HP:3021/3722 SP:336/371 BP:3
+D-Ochette - HP:4131/4447 SP:357/369 BP:3
+Equipo del enemigo
+A-Dark Guardian - HP:916/1470 Shields:3
+B-River Fly - HP:208/1010 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Elemental - HP:1637/1880 Shields:4
+E-Light Wisp - HP:542/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+2.Light Wisp
+3.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Ochette
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Wind Elemental
+7.Light Elemental
+8.Light Wisp
+9.Dark Guardian
+----------------------------------------
+Light Elemental usa Lightshot
+Z'aanta recibe 144 de daño elemental
+Z'aanta termina con HP:2877
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:3
+B-Hikari - HP:5373/5781 SP:311/317 BP:3
+C-Z'aanta - HP:2877/3722 SP:336/371 BP:3
+D-Ochette - HP:4131/4447 SP:357/369 BP:3
+Equipo del enemigo
+A-Dark Guardian - HP:916/1470 Shields:3
+B-River Fly - HP:208/1010 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Elemental - HP:1637/1880 Shields:4
+E-Light Wisp - HP:542/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+2.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Ochette
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Wind Elemental
+7.Light Elemental
+8.Light Wisp
+9.Dark Guardian
+----------------------------------------
+Light Wisp usa Luminescence
+Ochette recibe 158 de daño elemental
+Ochette termina con HP:3973
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:3
+B-Hikari - HP:5373/5781 SP:311/317 BP:3
+C-Z'aanta - HP:2877/3722 SP:336/371 BP:3
+D-Ochette - HP:3973/4447 SP:357/369 BP:3
+Equipo del enemigo
+A-Dark Guardian - HP:916/1470 Shields:3
+B-River Fly - HP:208/1010 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Elemental - HP:1637/1880 Shields:4
+E-Light Wisp - HP:542/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Ochette
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Wind Elemental
+7.Light Elemental
+8.Light Wisp
+9.Dark Guardian
+----------------------------------------
+Dark Guardian usa Attack
+Hikari recibe 93 de daño físico
+Hikari termina con HP:5280
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:4
+B-Hikari - HP:5280/5781 SP:311/317 BP:4
+C-Z'aanta - HP:2877/3722 SP:336/371 BP:4
+D-Ochette - HP:3973/4447 SP:357/369 BP:4
+Equipo del enemigo
+A-Dark Guardian - HP:916/1470 Shields:3
+B-River Fly - HP:208/1010 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Elemental - HP:1637/1880 Shields:4
+E-Light Wisp - HP:542/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Ochette
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Wind Elemental
+7.Light Elemental
+8.Light Wisp
+9.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+9.Light Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Dark Guardian - HP:916/1470 Shields:3
+2: River Fly - HP:208/1010 Shields:1
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Light Elemental - HP:1637/1880 Shields:4
+5: Light Wisp - HP:542/972 Shields:1
+6: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Wind Elemental recibe 0 de daño de tipo Stave
+Wind Elemental termina con HP:2496
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:4
+B-Hikari - HP:5280/5781 SP:311/317 BP:4
+C-Z'aanta - HP:2877/3722 SP:336/371 BP:4
+D-Ochette - HP:3973/4447 SP:357/369 BP:4
+Equipo del enemigo
+A-Dark Guardian - HP:916/1470 Shields:3
+B-River Fly - HP:208/1010 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Elemental - HP:1637/1880 Shields:4
+E-Light Wisp - HP:542/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Hikari
+3.Z'aanta
+4.River Fly
+5.Wind Elemental
+6.Light Elemental
+7.Light Wisp
+8.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+9.Light Wisp
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Holy Light
+2: Heal Wounds
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette usa Heal Wounds
+Ophilia recupera 352 de vida
+Hikari recupera 352 de vida
+Z'aanta recupera 352 de vida
+Ochette recupera 352 de vida
+Ophilia termina con HP:4002
+Hikari termina con HP:5632
+Z'aanta termina con HP:3229
+Ochette termina con HP:4325
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:4
+B-Hikari - HP:5632/5781 SP:311/317 BP:4
+C-Z'aanta - HP:3229/3722 SP:336/371 BP:4
+D-Ochette - HP:4325/4447 SP:351/369 BP:4
+Equipo del enemigo
+A-Dark Guardian - HP:916/1470 Shields:3
+B-River Fly - HP:208/1010 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Elemental - HP:1637/1880 Shields:4
+E-Light Wisp - HP:542/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Z'aanta
+3.River Fly
+4.Wind Elemental
+5.Light Elemental
+6.Light Wisp
+7.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+9.Light Wisp
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:4
+B-Hikari - HP:5632/5781 SP:311/317 BP:4
+C-Z'aanta - HP:3229/3722 SP:336/371 BP:4
+D-Ochette - HP:4325/4447 SP:351/369 BP:4
+Equipo del enemigo
+A-Dark Guardian - HP:916/1470 Shields:3
+B-River Fly - HP:208/1010 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Elemental - HP:1637/1880 Shields:4
+E-Light Wisp - HP:542/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.River Fly
+3.Wind Elemental
+4.Light Elemental
+5.Light Wisp
+6.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Ochette
+3.Ophilia
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+9.Light Wisp
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:4
+B-Hikari - HP:5632/5781 SP:311/317 BP:4
+C-Z'aanta - HP:3229/3722 SP:336/371 BP:4
+D-Ochette - HP:4325/4447 SP:351/369 BP:4
+Equipo del enemigo
+A-Dark Guardian - HP:916/1470 Shields:3
+B-River Fly - HP:208/1010 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Elemental - HP:1637/1880 Shields:4
+E-Light Wisp - HP:542/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.River Fly
+2.Wind Elemental
+3.Light Elemental
+4.Light Wisp
+5.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Z'aanta
+3.Ochette
+4.Ophilia
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+9.Light Wisp
+----------------------------------------
+River Fly usa Attack
+Hikari se defiende
+Hikari recibe 37 de daño físico
+Hikari termina con HP:5595
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:4
+B-Hikari - HP:5595/5781 SP:311/317 BP:4
+C-Z'aanta - HP:3229/3722 SP:336/371 BP:4
+D-Ochette - HP:4325/4447 SP:351/369 BP:4
+Equipo del enemigo
+A-Dark Guardian - HP:916/1470 Shields:3
+B-River Fly - HP:208/1010 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Elemental - HP:1637/1880 Shields:4
+E-Light Wisp - HP:542/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Elemental
+3.Light Wisp
+4.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Z'aanta
+3.Ochette
+4.Ophilia
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+9.Light Wisp
+----------------------------------------
+Wind Elemental usa Windshot
+Z'aanta se defiende
+Z'aanta recibe 97 de daño elemental
+Z'aanta termina con HP:3132
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:4
+B-Hikari - HP:5595/5781 SP:311/317 BP:4
+C-Z'aanta - HP:3132/3722 SP:336/371 BP:4
+D-Ochette - HP:4325/4447 SP:351/369 BP:4
+Equipo del enemigo
+A-Dark Guardian - HP:916/1470 Shields:3
+B-River Fly - HP:208/1010 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Elemental - HP:1637/1880 Shields:4
+E-Light Wisp - HP:542/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+2.Light Wisp
+3.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Z'aanta
+3.Ochette
+4.Ophilia
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+9.Light Wisp
+----------------------------------------
+Light Elemental usa Lightshot
+Z'aanta se defiende
+Z'aanta recibe 72 de daño elemental
+Z'aanta termina con HP:3060
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:4
+B-Hikari - HP:5595/5781 SP:311/317 BP:4
+C-Z'aanta - HP:3060/3722 SP:336/371 BP:4
+D-Ochette - HP:4325/4447 SP:351/369 BP:4
+Equipo del enemigo
+A-Dark Guardian - HP:916/1470 Shields:3
+B-River Fly - HP:208/1010 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Elemental - HP:1637/1880 Shields:4
+E-Light Wisp - HP:542/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Wisp
+2.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Z'aanta
+3.Ochette
+4.Ophilia
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+9.Light Wisp
+----------------------------------------
+Light Wisp usa Luminescence
+Ochette recibe 158 de daño elemental
+Ochette termina con HP:4167
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:4
+B-Hikari - HP:5595/5781 SP:311/317 BP:4
+C-Z'aanta - HP:3060/3722 SP:336/371 BP:4
+D-Ochette - HP:4167/4447 SP:351/369 BP:4
+Equipo del enemigo
+A-Dark Guardian - HP:916/1470 Shields:3
+B-River Fly - HP:208/1010 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Elemental - HP:1637/1880 Shields:4
+E-Light Wisp - HP:542/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Z'aanta
+3.Ochette
+4.Ophilia
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+9.Light Wisp
+----------------------------------------
+Dark Guardian usa Attack
+Hikari se defiende
+Hikari recibe 46 de daño físico
+Hikari termina con HP:5549
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:5
+B-Hikari - HP:5549/5781 SP:311/317 BP:5
+C-Z'aanta - HP:3060/3722 SP:336/371 BP:5
+D-Ochette - HP:4167/4447 SP:351/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:916/1470 Shields:3
+B-River Fly - HP:208/1010 Shields:1
+C-Wind Elemental - HP:2496/2496 Shields:4
+D-Light Elemental - HP:1637/1880 Shields:4
+E-Light Wisp - HP:542/972 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Z'aanta
+3.Ochette
+4.Ophilia
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+9.Light Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+9.Light Wisp
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Shooting Stars
+2: Luminescence
+3: Leghold Trap
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Shooting Stars
+Dark Guardian recibe 33 de daño de tipo Wind
+Dark Guardian recibe 49 de daño de tipo Light con debilidad
+Dark Guardian recibe 33 de daño de tipo Dark
+River Fly recibe 0 de daño de tipo Wind con debilidad
+River Fly recibe 0 de daño de tipo Light
+River Fly recibe 0 de daño de tipo Dark
+Wind Elemental recibe 54 de daño de tipo Wind
+Wind Elemental recibe 54 de daño de tipo Light
+Wind Elemental recibe 54 de daño de tipo Dark
+Light Elemental recibe 74 de daño de tipo Wind
+Light Elemental recibe 74 de daño de tipo Light
+Light Elemental recibe 111 de daño de tipo Dark con debilidad
+Light Wisp recibe 71 de daño de tipo Wind
+Light Wisp recibe 71 de daño de tipo Light
+Light Wisp recibe 106 de daño de tipo Dark con debilidad
+Light Wisp entra en Breaking Point
+Dark Guardian termina con HP:801
+River Fly termina con HP:208
+Wind Elemental termina con HP:2334
+Light Elemental termina con HP:1378
+Light Wisp termina con HP:294
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:5
+B-Hikari - HP:5549/5781 SP:276/317 BP:5
+C-Z'aanta - HP:3060/3722 SP:336/371 BP:5
+D-Ochette - HP:4167/4447 SP:351/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:801/1470 Shields:2
+B-River Fly - HP:208/1010 Shields:1
+C-Wind Elemental - HP:2334/2496 Shields:4
+D-Light Elemental - HP:1378/1880 Shields:3
+E-Light Wisp - HP:294/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Ochette
+3.Ophilia
+4.River Fly
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Heal Wounds
+2: Qilin's Horn
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Dark Guardian - HP:801/1470 Shields:2
+2: River Fly - HP:208/1010 Shields:1
+3: Wind Elemental - HP:2334/2496 Shields:4
+4: Light Elemental - HP:1378/1880 Shields:3
+5: Light Wisp - HP:294/972 Shields:0
+6: Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta usa Qilin's Horn
+Light Wisp recibe 724 de daño de tipo Spear
+Light Wisp termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:5
+B-Hikari - HP:5549/5781 SP:276/317 BP:5
+C-Z'aanta - HP:3060/3722 SP:301/371 BP:5
+D-Ochette - HP:4167/4447 SP:351/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:801/1470 Shields:2
+B-River Fly - HP:208/1010 Shields:1
+C-Wind Elemental - HP:2334/2496 Shields:4
+D-Light Elemental - HP:1378/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Ophilia
+3.River Fly
+4.Dark Guardian
+5.Wind Elemental
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:5
+B-Hikari - HP:5549/5781 SP:276/317 BP:5
+C-Z'aanta - HP:3060/3722 SP:301/371 BP:5
+D-Ochette - HP:4167/4447 SP:351/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:801/1470 Shields:2
+B-River Fly - HP:208/1010 Shields:1
+C-Wind Elemental - HP:2334/2496 Shields:4
+D-Light Elemental - HP:1378/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.River Fly
+3.Dark Guardian
+4.Wind Elemental
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:5
+B-Hikari - HP:5549/5781 SP:276/317 BP:5
+C-Z'aanta - HP:3060/3722 SP:301/371 BP:5
+D-Ochette - HP:4167/4447 SP:351/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:801/1470 Shields:2
+B-River Fly - HP:208/1010 Shields:1
+C-Wind Elemental - HP:2334/2496 Shields:4
+D-Light Elemental - HP:1378/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.River Fly
+2.Dark Guardian
+3.Wind Elemental
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+----------------------------------------
+River Fly usa Attack
+Hikari recibe 74 de daño físico
+Hikari termina con HP:5475
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:5
+B-Hikari - HP:5475/5781 SP:276/317 BP:5
+C-Z'aanta - HP:3060/3722 SP:301/371 BP:5
+D-Ochette - HP:4167/4447 SP:351/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:801/1470 Shields:2
+B-River Fly - HP:208/1010 Shields:1
+C-Wind Elemental - HP:2334/2496 Shields:4
+D-Light Elemental - HP:1378/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Dark Guardian
+2.Wind Elemental
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+----------------------------------------
+Dark Guardian usa Attack
+Hikari recibe 93 de daño físico
+Hikari termina con HP:5382
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:5
+B-Hikari - HP:5382/5781 SP:276/317 BP:5
+C-Z'aanta - HP:3060/3722 SP:301/371 BP:5
+D-Ochette - HP:4167/4447 SP:351/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:801/1470 Shields:2
+B-River Fly - HP:208/1010 Shields:1
+C-Wind Elemental - HP:2334/2496 Shields:4
+D-Light Elemental - HP:1378/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Z'aanta recibe 194 de daño elemental
+Z'aanta termina con HP:2866
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:5
+B-Hikari - HP:5382/5781 SP:276/317 BP:5
+C-Z'aanta - HP:2866/3722 SP:301/371 BP:5
+D-Ochette - HP:4167/4447 SP:351/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:801/1470 Shields:2
+B-River Fly - HP:208/1010 Shields:1
+C-Wind Elemental - HP:2334/2496 Shields:4
+D-Light Elemental - HP:1378/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Z'aanta recibe 144 de daño elemental
+Z'aanta termina con HP:2722
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:5
+B-Hikari - HP:5382/5781 SP:276/317 BP:5
+C-Z'aanta - HP:2722/3722 SP:301/371 BP:5
+D-Ochette - HP:4167/4447 SP:351/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:801/1470 Shields:2
+B-River Fly - HP:208/1010 Shields:1
+C-Wind Elemental - HP:2334/2496 Shields:4
+D-Light Elemental - HP:1378/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:5
+B-Hikari - HP:5382/5781 SP:276/317 BP:5
+C-Z'aanta - HP:2722/3722 SP:301/371 BP:5
+D-Ochette - HP:4167/4447 SP:351/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:801/1470 Shields:2
+B-River Fly - HP:208/1010 Shields:1
+C-Wind Elemental - HP:2334/2496 Shields:4
+D-Light Elemental - HP:1378/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Hikari
+3.Z'aanta
+4.River Fly
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Dark Guardian - HP:801/1470 Shields:2
+2: River Fly - HP:208/1010 Shields:1
+3: Wind Elemental - HP:2334/2496 Shields:4
+4: Light Elemental - HP:1378/1880 Shields:3
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+River Fly recibe 65 de daño de tipo Stave
+River Fly termina con HP:143
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:5
+B-Hikari - HP:5382/5781 SP:276/317 BP:5
+C-Z'aanta - HP:2722/3722 SP:301/371 BP:5
+D-Ochette - HP:4167/4447 SP:351/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:801/1470 Shields:2
+B-River Fly - HP:143/1010 Shields:1
+C-Wind Elemental - HP:2334/2496 Shields:4
+D-Light Elemental - HP:1378/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Z'aanta
+3.River Fly
+4.Dark Guardian
+5.Wind Elemental
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:5
+B-Hikari - HP:5382/5781 SP:276/317 BP:5
+C-Z'aanta - HP:2722/3722 SP:301/371 BP:5
+D-Ochette - HP:4167/4447 SP:351/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:801/1470 Shields:2
+B-River Fly - HP:143/1010 Shields:1
+C-Wind Elemental - HP:2334/2496 Shields:4
+D-Light Elemental - HP:1378/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.River Fly
+3.Dark Guardian
+4.Wind Elemental
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Hikari
+3.Ophilia
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Heal Wounds
+2: Qilin's Horn
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta usa Heal Wounds
+Ophilia recupera 349 de vida
+Hikari recupera 349 de vida
+Ochette recupera 349 de vida
+Z'aanta recupera 349 de vida
+Ophilia termina con HP:4002
+Hikari termina con HP:5731
+Ochette termina con HP:4447
+Z'aanta termina con HP:3071
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:5
+B-Hikari - HP:5731/5781 SP:276/317 BP:5
+C-Z'aanta - HP:3071/3722 SP:295/371 BP:5
+D-Ochette - HP:4447/4447 SP:351/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:801/1470 Shields:2
+B-River Fly - HP:143/1010 Shields:1
+C-Wind Elemental - HP:2334/2496 Shields:4
+D-Light Elemental - HP:1378/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.River Fly
+2.Dark Guardian
+3.Wind Elemental
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Hikari
+3.Ophilia
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+----------------------------------------
+River Fly usa Attack
+Hikari se defiende
+Hikari recibe 37 de daño físico
+Hikari termina con HP:5694
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:5
+B-Hikari - HP:5694/5781 SP:276/317 BP:5
+C-Z'aanta - HP:3071/3722 SP:295/371 BP:5
+D-Ochette - HP:4447/4447 SP:351/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:801/1470 Shields:2
+B-River Fly - HP:143/1010 Shields:1
+C-Wind Elemental - HP:2334/2496 Shields:4
+D-Light Elemental - HP:1378/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Dark Guardian
+2.Wind Elemental
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Hikari
+3.Ophilia
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+----------------------------------------
+Dark Guardian usa Attack
+Hikari se defiende
+Hikari recibe 46 de daño físico
+Hikari termina con HP:5648
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:5
+B-Hikari - HP:5648/5781 SP:276/317 BP:5
+C-Z'aanta - HP:3071/3722 SP:295/371 BP:5
+D-Ochette - HP:4447/4447 SP:351/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:801/1470 Shields:2
+B-River Fly - HP:143/1010 Shields:1
+C-Wind Elemental - HP:2334/2496 Shields:4
+D-Light Elemental - HP:1378/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Hikari
+3.Ophilia
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Z'aanta recibe 194 de daño elemental
+Z'aanta termina con HP:2877
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:5
+B-Hikari - HP:5648/5781 SP:276/317 BP:5
+C-Z'aanta - HP:2877/3722 SP:295/371 BP:5
+D-Ochette - HP:4447/4447 SP:351/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:801/1470 Shields:2
+B-River Fly - HP:143/1010 Shields:1
+C-Wind Elemental - HP:2334/2496 Shields:4
+D-Light Elemental - HP:1378/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Hikari
+3.Ophilia
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Z'aanta recibe 144 de daño elemental
+Z'aanta termina con HP:2733
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:5
+B-Hikari - HP:5648/5781 SP:276/317 BP:5
+C-Z'aanta - HP:2733/3722 SP:295/371 BP:5
+D-Ochette - HP:4447/4447 SP:351/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:801/1470 Shields:2
+B-River Fly - HP:143/1010 Shields:1
+C-Wind Elemental - HP:2334/2496 Shields:4
+D-Light Elemental - HP:1378/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Hikari
+3.Ophilia
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:5
+B-Hikari - HP:5648/5781 SP:276/317 BP:5
+C-Z'aanta - HP:2733/3722 SP:295/371 BP:5
+D-Ochette - HP:4447/4447 SP:351/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:801/1470 Shields:2
+B-River Fly - HP:143/1010 Shields:1
+C-Wind Elemental - HP:2334/2496 Shields:4
+D-Light Elemental - HP:1378/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Ophilia
+3.Z'aanta
+4.River Fly
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Shooting Stars
+2: Luminescence
+3: Leghold Trap
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Dark Guardian - HP:801/1470 Shields:2
+2: River Fly - HP:143/1010 Shields:1
+3: Wind Elemental - HP:2334/2496 Shields:4
+4: Light Elemental - HP:1378/1880 Shields:3
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Leghold Trap
+Light Elemental tendrá menor prioridad de turno durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:5
+B-Hikari - HP:5648/5781 SP:270/317 BP:5
+C-Z'aanta - HP:2733/3722 SP:295/371 BP:5
+D-Ochette - HP:4447/4447 SP:351/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:801/1470 Shields:2
+B-River Fly - HP:143/1010 Shields:1
+C-Wind Elemental - HP:2334/2496 Shields:4
+D-Light Elemental - HP:1378/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Z'aanta
+3.River Fly
+4.Dark Guardian
+5.Wind Elemental
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:5
+B-Hikari - HP:5648/5781 SP:270/317 BP:5
+C-Z'aanta - HP:2733/3722 SP:295/371 BP:5
+D-Ochette - HP:4447/4447 SP:351/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:801/1470 Shields:2
+B-River Fly - HP:143/1010 Shields:1
+C-Wind Elemental - HP:2334/2496 Shields:4
+D-Light Elemental - HP:1378/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.River Fly
+3.Dark Guardian
+4.Wind Elemental
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Heal Wounds
+2: Qilin's Horn
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Dark Guardian - HP:801/1470 Shields:2
+2: River Fly - HP:143/1010 Shields:1
+3: Wind Elemental - HP:2334/2496 Shields:4
+4: Light Elemental - HP:1378/1880 Shields:3
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta usa Qilin's Horn
+Wind Elemental recibe 391 de daño de tipo Spear
+Wind Elemental termina con HP:1943
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:5
+B-Hikari - HP:5648/5781 SP:270/317 BP:5
+C-Z'aanta - HP:2733/3722 SP:260/371 BP:5
+D-Ochette - HP:4447/4447 SP:351/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:801/1470 Shields:2
+B-River Fly - HP:143/1010 Shields:1
+C-Wind Elemental - HP:1943/2496 Shields:4
+D-Light Elemental - HP:1378/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.River Fly
+2.Dark Guardian
+3.Wind Elemental
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+----------------------------------------
+River Fly usa Attack
+Hikari recibe 74 de daño físico
+Hikari termina con HP:5574
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:5
+B-Hikari - HP:5574/5781 SP:270/317 BP:5
+C-Z'aanta - HP:2733/3722 SP:260/371 BP:5
+D-Ochette - HP:4447/4447 SP:351/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:801/1470 Shields:2
+B-River Fly - HP:143/1010 Shields:1
+C-Wind Elemental - HP:1943/2496 Shields:4
+D-Light Elemental - HP:1378/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Dark Guardian
+2.Wind Elemental
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+----------------------------------------
+Dark Guardian usa Attack
+Hikari recibe 93 de daño físico
+Hikari termina con HP:5481
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:5
+B-Hikari - HP:5481/5781 SP:270/317 BP:5
+C-Z'aanta - HP:2733/3722 SP:260/371 BP:5
+D-Ochette - HP:4447/4447 SP:351/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:801/1470 Shields:2
+B-River Fly - HP:143/1010 Shields:1
+C-Wind Elemental - HP:1943/2496 Shields:4
+D-Light Elemental - HP:1378/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Z'aanta recibe 194 de daño elemental
+Z'aanta termina con HP:2539
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:5
+B-Hikari - HP:5481/5781 SP:270/317 BP:5
+C-Z'aanta - HP:2539/3722 SP:260/371 BP:5
+D-Ochette - HP:4447/4447 SP:351/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:801/1470 Shields:2
+B-River Fly - HP:143/1010 Shields:1
+C-Wind Elemental - HP:1943/2496 Shields:4
+D-Light Elemental - HP:1378/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Z'aanta recibe 144 de daño elemental
+Z'aanta termina con HP:2395
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:5
+B-Hikari - HP:5481/5781 SP:270/317 BP:5
+C-Z'aanta - HP:2395/3722 SP:260/371 BP:5
+D-Ochette - HP:4447/4447 SP:351/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:801/1470 Shields:2
+B-River Fly - HP:143/1010 Shields:1
+C-Wind Elemental - HP:1943/2496 Shields:4
+D-Light Elemental - HP:1378/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:5
+B-Hikari - HP:5481/5781 SP:270/317 BP:5
+C-Z'aanta - HP:2395/3722 SP:260/371 BP:5
+D-Ochette - HP:4447/4447 SP:351/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:801/1470 Shields:2
+B-River Fly - HP:143/1010 Shields:1
+C-Wind Elemental - HP:1943/2496 Shields:4
+D-Light Elemental - HP:1378/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Hikari
+3.Z'aanta
+4.River Fly
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Dark Guardian - HP:801/1470 Shields:2
+2: River Fly - HP:143/1010 Shields:1
+3: Wind Elemental - HP:1943/2496 Shields:4
+4: Light Elemental - HP:1378/1880 Shields:3
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Light Elemental recibe 18 de daño de tipo Stave
+Light Elemental termina con HP:1360
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:5
+B-Hikari - HP:5481/5781 SP:270/317 BP:5
+C-Z'aanta - HP:2395/3722 SP:260/371 BP:5
+D-Ochette - HP:4447/4447 SP:351/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:801/1470 Shields:2
+B-River Fly - HP:143/1010 Shields:1
+C-Wind Elemental - HP:1943/2496 Shields:4
+D-Light Elemental - HP:1360/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Z'aanta
+3.River Fly
+4.Dark Guardian
+5.Wind Elemental
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:5
+B-Hikari - HP:5481/5781 SP:270/317 BP:5
+C-Z'aanta - HP:2395/3722 SP:260/371 BP:5
+D-Ochette - HP:4447/4447 SP:351/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:801/1470 Shields:2
+B-River Fly - HP:143/1010 Shields:1
+C-Wind Elemental - HP:1943/2496 Shields:4
+D-Light Elemental - HP:1360/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.River Fly
+3.Dark Guardian
+4.Wind Elemental
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Hikari
+3.Ophilia
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Heal Wounds
+2: Qilin's Horn
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta usa Heal Wounds
+Ophilia recupera 349 de vida
+Hikari recupera 349 de vida
+Ochette recupera 349 de vida
+Z'aanta recupera 349 de vida
+Ophilia termina con HP:4002
+Hikari termina con HP:5781
+Ochette termina con HP:4447
+Z'aanta termina con HP:2744
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:5
+B-Hikari - HP:5781/5781 SP:270/317 BP:5
+C-Z'aanta - HP:2744/3722 SP:254/371 BP:5
+D-Ochette - HP:4447/4447 SP:351/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:801/1470 Shields:2
+B-River Fly - HP:143/1010 Shields:1
+C-Wind Elemental - HP:1943/2496 Shields:4
+D-Light Elemental - HP:1360/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.River Fly
+2.Dark Guardian
+3.Wind Elemental
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Hikari
+3.Ophilia
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+----------------------------------------
+River Fly usa Attack
+Hikari se defiende
+Hikari recibe 37 de daño físico
+Hikari termina con HP:5744
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:5
+B-Hikari - HP:5744/5781 SP:270/317 BP:5
+C-Z'aanta - HP:2744/3722 SP:254/371 BP:5
+D-Ochette - HP:4447/4447 SP:351/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:801/1470 Shields:2
+B-River Fly - HP:143/1010 Shields:1
+C-Wind Elemental - HP:1943/2496 Shields:4
+D-Light Elemental - HP:1360/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Dark Guardian
+2.Wind Elemental
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Hikari
+3.Ophilia
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+----------------------------------------
+Dark Guardian usa Attack
+Hikari se defiende
+Hikari recibe 46 de daño físico
+Hikari termina con HP:5698
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:5
+B-Hikari - HP:5698/5781 SP:270/317 BP:5
+C-Z'aanta - HP:2744/3722 SP:254/371 BP:5
+D-Ochette - HP:4447/4447 SP:351/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:801/1470 Shields:2
+B-River Fly - HP:143/1010 Shields:1
+C-Wind Elemental - HP:1943/2496 Shields:4
+D-Light Elemental - HP:1360/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Hikari
+3.Ophilia
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Z'aanta recibe 194 de daño elemental
+Z'aanta termina con HP:2550
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:5
+B-Hikari - HP:5698/5781 SP:270/317 BP:5
+C-Z'aanta - HP:2550/3722 SP:254/371 BP:5
+D-Ochette - HP:4447/4447 SP:351/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:801/1470 Shields:2
+B-River Fly - HP:143/1010 Shields:1
+C-Wind Elemental - HP:1943/2496 Shields:4
+D-Light Elemental - HP:1360/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Hikari
+3.Ophilia
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Z'aanta recibe 144 de daño elemental
+Z'aanta termina con HP:2406
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:5
+B-Hikari - HP:5698/5781 SP:270/317 BP:5
+C-Z'aanta - HP:2406/3722 SP:254/371 BP:5
+D-Ochette - HP:4447/4447 SP:351/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:801/1470 Shields:2
+B-River Fly - HP:143/1010 Shields:1
+C-Wind Elemental - HP:1943/2496 Shields:4
+D-Light Elemental - HP:1360/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Hikari
+3.Ophilia
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Holy Light
+2: Heal Wounds
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette usa Heal Wounds
+Ophilia recupera 352 de vida
+Hikari recupera 352 de vida
+Z'aanta recupera 352 de vida
+Ochette recupera 352 de vida
+Ophilia termina con HP:4002
+Hikari termina con HP:5781
+Z'aanta termina con HP:2758
+Ochette termina con HP:4447
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:5
+B-Hikari - HP:5781/5781 SP:270/317 BP:5
+C-Z'aanta - HP:2758/3722 SP:254/371 BP:5
+D-Ochette - HP:4447/4447 SP:345/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:801/1470 Shields:2
+B-River Fly - HP:143/1010 Shields:1
+C-Wind Elemental - HP:1943/2496 Shields:4
+D-Light Elemental - HP:1360/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Ophilia
+3.Z'aanta
+4.River Fly
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:464/470 BP:5
+B-Hikari - HP:5781/5781 SP:270/317 BP:5
+C-Z'aanta - HP:2758/3722 SP:254/371 BP:5
+D-Ochette - HP:4447/4447 SP:345/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:801/1470 Shields:2
+B-River Fly - HP:143/1010 Shields:1
+C-Wind Elemental - HP:1943/2496 Shields:4
+D-Light Elemental - HP:1360/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Z'aanta
+3.River Fly
+4.Dark Guardian
+5.Wind Elemental
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Ochette
+3.Ophilia
+4.Z'aanta
+5.River Fly
+6.Dark Guardian
+7.Wind Elemental
+8.Light Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Spearhead
+2: Leghold Trap
+3: First Aid
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Dark Guardian - HP:801/1470 Shields:2
+2: River Fly - HP:143/1010 Shields:1
+3: Wind Elemental - HP:1943/2496 Shields:4
+4: Light Elemental - HP:1360/1880 Shields:3
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Spearhead
+River Fly recibe 188 de daño de tipo Spear con debilidad
+River Fly entra en Breaking Point
+River Fly termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5781/5781 SP:270/317 BP:5
+C-Z'aanta - HP:2758/3722 SP:254/371 BP:5
+D-Ochette - HP:4447/4447 SP:345/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:801/1470 Shields:2
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1943/2496 Shields:4
+D-Light Elemental - HP:1360/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Dark Guardian
+3.Wind Elemental
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Ophilia
+3.Ochette
+4.Z'aanta
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5781/5781 SP:270/317 BP:5
+C-Z'aanta - HP:2758/3722 SP:254/371 BP:5
+D-Ochette - HP:4447/4447 SP:345/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:801/1470 Shields:2
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1943/2496 Shields:4
+D-Light Elemental - HP:1360/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Dark Guardian
+2.Wind Elemental
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Z'aanta
+3.Ophilia
+4.Ochette
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Dark Guardian usa Attack
+Hikari se defiende
+Hikari recibe 46 de daño físico
+Hikari termina con HP:5735
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5735/5781 SP:270/317 BP:5
+C-Z'aanta - HP:2758/3722 SP:254/371 BP:5
+D-Ochette - HP:4447/4447 SP:345/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:801/1470 Shields:2
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1943/2496 Shields:4
+D-Light Elemental - HP:1360/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Z'aanta
+3.Ophilia
+4.Ochette
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Z'aanta se defiende
+Z'aanta recibe 97 de daño elemental
+Z'aanta termina con HP:2661
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5735/5781 SP:270/317 BP:5
+C-Z'aanta - HP:2661/3722 SP:254/371 BP:5
+D-Ochette - HP:4447/4447 SP:345/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:801/1470 Shields:2
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1943/2496 Shields:4
+D-Light Elemental - HP:1360/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Z'aanta
+3.Ophilia
+4.Ochette
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Z'aanta se defiende
+Z'aanta recibe 72 de daño elemental
+Z'aanta termina con HP:2589
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5735/5781 SP:270/317 BP:5
+C-Z'aanta - HP:2589/3722 SP:254/371 BP:5
+D-Ochette - HP:4447/4447 SP:345/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:801/1470 Shields:2
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1943/2496 Shields:4
+D-Light Elemental - HP:1360/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Z'aanta
+3.Ophilia
+4.Ochette
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Shooting Stars
+2: Luminescence
+3: Leghold Trap
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Luminescence
+Dark Guardian recibe 281 de daño de tipo Light con debilidad
+Wind Elemental recibe 208 de daño de tipo Light
+Light Elemental recibe 228 de daño de tipo Light
+Dark Guardian termina con HP:520
+Wind Elemental termina con HP:1735
+Light Elemental termina con HP:1132
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5735/5781 SP:261/317 BP:5
+C-Z'aanta - HP:2589/3722 SP:254/371 BP:5
+D-Ochette - HP:4447/4447 SP:345/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:520/1470 Shields:1
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1735/2496 Shields:4
+D-Light Elemental - HP:1132/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Ophilia
+3.Ochette
+4.Dark Guardian
+5.Wind Elemental
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Dark Guardian - HP:520/1470 Shields:1
+2: Wind Elemental - HP:1735/2496 Shields:4
+3: Light Elemental - HP:1132/1880 Shields:3
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Dark Guardian recibe 237 de daño de tipo Axe
+Dark Guardian termina con HP:283
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5735/5781 SP:261/317 BP:5
+C-Z'aanta - HP:2589/3722 SP:254/371 BP:5
+D-Ochette - HP:4447/4447 SP:345/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:283/1470 Shields:1
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1735/2496 Shields:4
+D-Light Elemental - HP:1132/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Ochette
+3.Dark Guardian
+4.Wind Elemental
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Dark Guardian - HP:283/1470 Shields:1
+2: Wind Elemental - HP:1735/2496 Shields:4
+3: Light Elemental - HP:1132/1880 Shields:3
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Wind Elemental recibe 0 de daño de tipo Stave
+Wind Elemental termina con HP:1735
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5735/5781 SP:261/317 BP:5
+C-Z'aanta - HP:2589/3722 SP:254/371 BP:5
+D-Ochette - HP:4447/4447 SP:345/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:283/1470 Shields:1
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1735/2496 Shields:4
+D-Light Elemental - HP:1132/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Dark Guardian
+3.Wind Elemental
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Holy Light
+2: Heal Wounds
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette usa Heal Wounds
+Ophilia recupera 352 de vida
+Hikari recupera 352 de vida
+Z'aanta recupera 352 de vida
+Ochette recupera 352 de vida
+Ophilia termina con HP:4002
+Hikari termina con HP:5781
+Z'aanta termina con HP:2941
+Ochette termina con HP:4447
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5781/5781 SP:261/317 BP:5
+C-Z'aanta - HP:2941/3722 SP:254/371 BP:5
+D-Ochette - HP:4447/4447 SP:339/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:283/1470 Shields:1
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1735/2496 Shields:4
+D-Light Elemental - HP:1132/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Dark Guardian
+2.Wind Elemental
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Dark Guardian usa Attack
+Hikari recibe 93 de daño físico
+Hikari termina con HP:5688
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5688/5781 SP:261/317 BP:5
+C-Z'aanta - HP:2941/3722 SP:254/371 BP:5
+D-Ochette - HP:4447/4447 SP:339/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:283/1470 Shields:1
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1735/2496 Shields:4
+D-Light Elemental - HP:1132/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Z'aanta recibe 194 de daño elemental
+Z'aanta termina con HP:2747
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5688/5781 SP:261/317 BP:5
+C-Z'aanta - HP:2747/3722 SP:254/371 BP:5
+D-Ochette - HP:4447/4447 SP:339/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:283/1470 Shields:1
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1735/2496 Shields:4
+D-Light Elemental - HP:1132/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Z'aanta recibe 144 de daño elemental
+Z'aanta termina con HP:2603
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5688/5781 SP:261/317 BP:5
+C-Z'aanta - HP:2603/3722 SP:254/371 BP:5
+D-Ochette - HP:4447/4447 SP:339/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:283/1470 Shields:1
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1735/2496 Shields:4
+D-Light Elemental - HP:1132/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5688/5781 SP:261/317 BP:5
+C-Z'aanta - HP:2603/3722 SP:254/371 BP:5
+D-Ochette - HP:4447/4447 SP:339/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:283/1470 Shields:1
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1735/2496 Shields:4
+D-Light Elemental - HP:1132/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Hikari
+3.Z'aanta
+4.Dark Guardian
+5.Wind Elemental
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5688/5781 SP:261/317 BP:5
+C-Z'aanta - HP:2603/3722 SP:254/371 BP:5
+D-Ochette - HP:4447/4447 SP:339/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:283/1470 Shields:1
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1735/2496 Shields:4
+D-Light Elemental - HP:1132/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Z'aanta
+3.Dark Guardian
+4.Wind Elemental
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5688/5781 SP:261/317 BP:5
+C-Z'aanta - HP:2603/3722 SP:254/371 BP:5
+D-Ochette - HP:4447/4447 SP:339/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:283/1470 Shields:1
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1735/2496 Shields:4
+D-Light Elemental - HP:1132/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Dark Guardian
+3.Wind Elemental
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5688/5781 SP:261/317 BP:5
+C-Z'aanta - HP:2603/3722 SP:254/371 BP:5
+D-Ochette - HP:4447/4447 SP:339/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:283/1470 Shields:1
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1735/2496 Shields:4
+D-Light Elemental - HP:1132/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Dark Guardian
+2.Wind Elemental
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Dark Guardian usa Attack
+Hikari se defiende
+Hikari recibe 46 de daño físico
+Hikari termina con HP:5642
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5642/5781 SP:261/317 BP:5
+C-Z'aanta - HP:2603/3722 SP:254/371 BP:5
+D-Ochette - HP:4447/4447 SP:339/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:283/1470 Shields:1
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1735/2496 Shields:4
+D-Light Elemental - HP:1132/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Z'aanta se defiende
+Z'aanta recibe 97 de daño elemental
+Z'aanta termina con HP:2506
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5642/5781 SP:261/317 BP:5
+C-Z'aanta - HP:2506/3722 SP:254/371 BP:5
+D-Ochette - HP:4447/4447 SP:339/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:283/1470 Shields:1
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1735/2496 Shields:4
+D-Light Elemental - HP:1132/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Z'aanta se defiende
+Z'aanta recibe 72 de daño elemental
+Z'aanta termina con HP:2434
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5642/5781 SP:261/317 BP:5
+C-Z'aanta - HP:2434/3722 SP:254/371 BP:5
+D-Ochette - HP:4447/4447 SP:339/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:283/1470 Shields:1
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1735/2496 Shields:4
+D-Light Elemental - HP:1132/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Holy Light
+2: Heal Wounds
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Dark Guardian - HP:283/1470 Shields:1
+2: Wind Elemental - HP:1735/2496 Shields:4
+3: Light Elemental - HP:1132/1880 Shields:3
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette usa Holy Light
+Wind Elemental recibe 313 de daño de tipo Light
+Wind Elemental termina con HP:1422
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5642/5781 SP:261/317 BP:5
+C-Z'aanta - HP:2434/3722 SP:254/371 BP:5
+D-Ochette - HP:4447/4447 SP:333/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:283/1470 Shields:1
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1422/2496 Shields:4
+D-Light Elemental - HP:1132/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Hikari
+3.Z'aanta
+4.Dark Guardian
+5.Wind Elemental
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5642/5781 SP:261/317 BP:5
+C-Z'aanta - HP:2434/3722 SP:254/371 BP:5
+D-Ochette - HP:4447/4447 SP:333/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:283/1470 Shields:1
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1422/2496 Shields:4
+D-Light Elemental - HP:1132/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Z'aanta
+3.Dark Guardian
+4.Wind Elemental
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Ochette
+3.Hikari
+4.Z'aanta
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Dark Guardian - HP:283/1470 Shields:1
+2: Wind Elemental - HP:1422/2496 Shields:4
+3: Light Elemental - HP:1132/1880 Shields:3
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Light Elemental recibe 243 de daño de tipo Spear
+Light Elemental termina con HP:889
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5642/5781 SP:261/317 BP:5
+C-Z'aanta - HP:2434/3722 SP:254/371 BP:5
+D-Ochette - HP:4447/4447 SP:333/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:283/1470 Shields:1
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1422/2496 Shields:4
+D-Light Elemental - HP:889/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Dark Guardian
+3.Wind Elemental
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Ochette
+3.Hikari
+4.Z'aanta
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Heal Wounds
+2: Qilin's Horn
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta usa Heal Wounds
+Ophilia recupera 349 de vida
+Hikari recupera 349 de vida
+Ochette recupera 349 de vida
+Z'aanta recupera 349 de vida
+Ophilia termina con HP:4002
+Hikari termina con HP:5781
+Ochette termina con HP:4447
+Z'aanta termina con HP:2783
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5781/5781 SP:261/317 BP:5
+C-Z'aanta - HP:2783/3722 SP:248/371 BP:5
+D-Ochette - HP:4447/4447 SP:333/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:283/1470 Shields:1
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1422/2496 Shields:4
+D-Light Elemental - HP:889/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Dark Guardian
+2.Wind Elemental
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Ochette
+3.Hikari
+4.Z'aanta
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Dark Guardian usa Attack
+Hikari recibe 93 de daño físico
+Hikari termina con HP:5688
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5688/5781 SP:261/317 BP:5
+C-Z'aanta - HP:2783/3722 SP:248/371 BP:5
+D-Ochette - HP:4447/4447 SP:333/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:283/1470 Shields:1
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1422/2496 Shields:4
+D-Light Elemental - HP:889/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Ochette
+3.Hikari
+4.Z'aanta
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Z'aanta recibe 194 de daño elemental
+Z'aanta termina con HP:2589
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5688/5781 SP:261/317 BP:5
+C-Z'aanta - HP:2589/3722 SP:248/371 BP:5
+D-Ochette - HP:4447/4447 SP:333/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:283/1470 Shields:1
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1422/2496 Shields:4
+D-Light Elemental - HP:889/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Ochette
+3.Hikari
+4.Z'aanta
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Z'aanta recibe 144 de daño elemental
+Z'aanta termina con HP:2445
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5688/5781 SP:261/317 BP:5
+C-Z'aanta - HP:2445/3722 SP:248/371 BP:5
+D-Ochette - HP:4447/4447 SP:333/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:283/1470 Shields:1
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1422/2496 Shields:4
+D-Light Elemental - HP:889/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Ochette
+3.Hikari
+4.Z'aanta
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Dark Guardian - HP:283/1470 Shields:1
+2: Wind Elemental - HP:1422/2496 Shields:4
+3: Light Elemental - HP:889/1880 Shields:3
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Wind Elemental recibe 0 de daño de tipo Stave
+Wind Elemental termina con HP:1422
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5688/5781 SP:261/317 BP:5
+C-Z'aanta - HP:2445/3722 SP:248/371 BP:5
+D-Ochette - HP:4447/4447 SP:333/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:283/1470 Shields:1
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1422/2496 Shields:4
+D-Light Elemental - HP:889/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Hikari
+3.Z'aanta
+4.Dark Guardian
+5.Wind Elemental
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Holy Light
+2: Heal Wounds
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette usa Heal Wounds
+Ophilia recupera 352 de vida
+Hikari recupera 352 de vida
+Z'aanta recupera 352 de vida
+Ochette recupera 352 de vida
+Ophilia termina con HP:4002
+Hikari termina con HP:5781
+Z'aanta termina con HP:2797
+Ochette termina con HP:4447
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5781/5781 SP:261/317 BP:5
+C-Z'aanta - HP:2797/3722 SP:248/371 BP:5
+D-Ochette - HP:4447/4447 SP:327/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:283/1470 Shields:1
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1422/2496 Shields:4
+D-Light Elemental - HP:889/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Z'aanta
+3.Dark Guardian
+4.Wind Elemental
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Dark Guardian - HP:283/1470 Shields:1
+2: Wind Elemental - HP:1422/2496 Shields:4
+3: Light Elemental - HP:889/1880 Shields:3
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Light Elemental recibe 243 de daño de tipo Sword
+Light Elemental termina con HP:646
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5781/5781 SP:261/317 BP:5
+C-Z'aanta - HP:2797/3722 SP:248/371 BP:5
+D-Ochette - HP:4447/4447 SP:327/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:283/1470 Shields:1
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1422/2496 Shields:4
+D-Light Elemental - HP:646/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Dark Guardian
+3.Wind Elemental
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Heal Wounds
+2: Qilin's Horn
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Dark Guardian - HP:283/1470 Shields:1
+2: Wind Elemental - HP:1422/2496 Shields:4
+3: Light Elemental - HP:646/1880 Shields:3
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta usa Qilin's Horn
+Light Elemental recibe 460 de daño de tipo Spear
+Light Elemental termina con HP:186
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5781/5781 SP:261/317 BP:5
+C-Z'aanta - HP:2797/3722 SP:213/371 BP:5
+D-Ochette - HP:4447/4447 SP:327/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:283/1470 Shields:1
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1422/2496 Shields:4
+D-Light Elemental - HP:186/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Dark Guardian
+2.Wind Elemental
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Dark Guardian usa Attack
+Hikari recibe 93 de daño físico
+Hikari termina con HP:5688
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5688/5781 SP:261/317 BP:5
+C-Z'aanta - HP:2797/3722 SP:213/371 BP:5
+D-Ochette - HP:4447/4447 SP:327/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:283/1470 Shields:1
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1422/2496 Shields:4
+D-Light Elemental - HP:186/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Z'aanta recibe 194 de daño elemental
+Z'aanta termina con HP:2603
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5688/5781 SP:261/317 BP:5
+C-Z'aanta - HP:2603/3722 SP:213/371 BP:5
+D-Ochette - HP:4447/4447 SP:327/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:283/1470 Shields:1
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1422/2496 Shields:4
+D-Light Elemental - HP:186/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Z'aanta recibe 144 de daño elemental
+Z'aanta termina con HP:2459
+----------------------------------------
+INICIA RONDA 14
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5688/5781 SP:261/317 BP:5
+C-Z'aanta - HP:2459/3722 SP:213/371 BP:5
+D-Ochette - HP:4447/4447 SP:327/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:283/1470 Shields:1
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1422/2496 Shields:4
+D-Light Elemental - HP:186/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Dark Guardian
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Holy Light
+2: Heal Wounds
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Dark Guardian - HP:283/1470 Shields:1
+2: Wind Elemental - HP:1422/2496 Shields:4
+3: Light Elemental - HP:186/1880 Shields:3
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette usa Holy Light
+Dark Guardian recibe 438 de daño de tipo Light con debilidad
+Dark Guardian entra en Breaking Point
+Dark Guardian termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5688/5781 SP:261/317 BP:5
+C-Z'aanta - HP:2459/3722 SP:213/371 BP:5
+D-Ochette - HP:4447/4447 SP:321/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:0/1470 Shields:0
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1422/2496 Shields:4
+D-Light Elemental - HP:186/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Hikari
+3.Z'aanta
+4.Wind Elemental
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Wind Elemental
+6.Light Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Wind Elemental - HP:1422/2496 Shields:4
+2: Light Elemental - HP:186/1880 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Light Elemental recibe 18 de daño de tipo Stave
+Light Elemental termina con HP:168
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5688/5781 SP:261/317 BP:5
+C-Z'aanta - HP:2459/3722 SP:213/371 BP:5
+D-Ochette - HP:4447/4447 SP:321/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:0/1470 Shields:0
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1422/2496 Shields:4
+D-Light Elemental - HP:168/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Z'aanta
+3.Wind Elemental
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Wind Elemental
+6.Light Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Shooting Stars
+2: Luminescence
+3: Leghold Trap
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Wind Elemental - HP:1422/2496 Shields:4
+2: Light Elemental - HP:168/1880 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Leghold Trap
+Light Elemental tendrá menor prioridad de turno durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5688/5781 SP:255/317 BP:5
+C-Z'aanta - HP:2459/3722 SP:213/371 BP:5
+D-Ochette - HP:4447/4447 SP:321/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:0/1470 Shields:0
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1422/2496 Shields:4
+D-Light Elemental - HP:168/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Wind Elemental
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Wind Elemental
+6.Light Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Wind Elemental - HP:1422/2496 Shields:4
+2: Light Elemental - HP:168/1880 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Light Elemental recibe 143 de daño de tipo Bow
+Light Elemental termina con HP:25
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5688/5781 SP:255/317 BP:5
+C-Z'aanta - HP:2459/3722 SP:213/371 BP:5
+D-Ochette - HP:4447/4447 SP:321/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:0/1470 Shields:0
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1422/2496 Shields:4
+D-Light Elemental - HP:25/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Wind Elemental
+6.Light Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Z'aanta recibe 194 de daño elemental
+Z'aanta termina con HP:2265
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5688/5781 SP:255/317 BP:5
+C-Z'aanta - HP:2265/3722 SP:213/371 BP:5
+D-Ochette - HP:4447/4447 SP:321/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:0/1470 Shields:0
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1422/2496 Shields:4
+D-Light Elemental - HP:25/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Wind Elemental
+6.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Z'aanta recibe 144 de daño elemental
+Z'aanta termina con HP:2121
+----------------------------------------
+INICIA RONDA 15
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5688/5781 SP:255/317 BP:5
+C-Z'aanta - HP:2121/3722 SP:213/371 BP:5
+D-Ochette - HP:4447/4447 SP:321/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:0/1470 Shields:0
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1422/2496 Shields:4
+D-Light Elemental - HP:25/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Wind Elemental
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Wind Elemental
+6.Light Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Wind Elemental - HP:1422/2496 Shields:4
+2: Light Elemental - HP:25/1880 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette ataca
+Wind Elemental recibe 111 de daño de tipo Axe
+Wind Elemental termina con HP:1311
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5688/5781 SP:255/317 BP:5
+C-Z'aanta - HP:2121/3722 SP:213/371 BP:5
+D-Ochette - HP:4447/4447 SP:321/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:0/1470 Shields:0
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1311/2496 Shields:4
+D-Light Elemental - HP:25/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Hikari
+3.Z'aanta
+4.Wind Elemental
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Wind Elemental
+6.Light Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Wind Elemental - HP:1311/2496 Shields:4
+2: Light Elemental - HP:25/1880 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Wind Elemental recibe 0 de daño de tipo Stave
+Wind Elemental termina con HP:1311
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5688/5781 SP:255/317 BP:5
+C-Z'aanta - HP:2121/3722 SP:213/371 BP:5
+D-Ochette - HP:4447/4447 SP:321/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:0/1470 Shields:0
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1311/2496 Shields:4
+D-Light Elemental - HP:25/1880 Shields:3
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Z'aanta
+3.Wind Elemental
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Wind Elemental
+6.Light Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Shooting Stars
+2: Luminescence
+3: Leghold Trap
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Shooting Stars
+Wind Elemental recibe 54 de daño de tipo Wind
+Wind Elemental recibe 54 de daño de tipo Light
+Wind Elemental recibe 54 de daño de tipo Dark
+Light Elemental recibe 74 de daño de tipo Wind
+Light Elemental recibe 74 de daño de tipo Light
+Light Elemental recibe 111 de daño de tipo Dark con debilidad
+Wind Elemental termina con HP:1149
+Light Elemental termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5688/5781 SP:220/317 BP:5
+C-Z'aanta - HP:2121/3722 SP:213/371 BP:5
+D-Ochette - HP:4447/4447 SP:321/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:0/1470 Shields:0
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:1149/2496 Shields:4
+D-Light Elemental - HP:0/1880 Shields:2
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Wind Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Heal Wounds
+2: Qilin's Horn
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Wind Elemental - HP:1149/2496 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta usa Qilin's Horn
+Wind Elemental recibe 391 de daño de tipo Spear
+Wind Elemental termina con HP:758
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5688/5781 SP:220/317 BP:5
+C-Z'aanta - HP:2121/3722 SP:178/371 BP:5
+D-Ochette - HP:4447/4447 SP:321/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:0/1470 Shields:0
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:758/2496 Shields:4
+D-Light Elemental - HP:0/1880 Shields:2
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Z'aanta recibe 194 de daño elemental
+Z'aanta termina con HP:1927
+----------------------------------------
+INICIA RONDA 16
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5688/5781 SP:220/317 BP:5
+C-Z'aanta - HP:1927/3722 SP:178/371 BP:5
+D-Ochette - HP:4447/4447 SP:321/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:0/1470 Shields:0
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:758/2496 Shields:4
+D-Light Elemental - HP:0/1880 Shields:2
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Wind Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Holy Light
+2: Heal Wounds
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Wind Elemental - HP:758/2496 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette usa Holy Light
+Wind Elemental recibe 313 de daño de tipo Light
+Wind Elemental termina con HP:445
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5688/5781 SP:220/317 BP:5
+C-Z'aanta - HP:1927/3722 SP:178/371 BP:5
+D-Ochette - HP:4447/4447 SP:315/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:0/1470 Shields:0
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:445/2496 Shields:4
+D-Light Elemental - HP:0/1880 Shields:2
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Hikari
+3.Z'aanta
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Wind Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Wind Elemental - HP:445/2496 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Wind Elemental recibe 0 de daño de tipo Stave
+Wind Elemental termina con HP:445
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5688/5781 SP:220/317 BP:5
+C-Z'aanta - HP:1927/3722 SP:178/371 BP:5
+D-Ochette - HP:4447/4447 SP:315/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:0/1470 Shields:0
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:445/2496 Shields:4
+D-Light Elemental - HP:0/1880 Shields:2
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Z'aanta
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Wind Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Shooting Stars
+2: Luminescence
+3: Leghold Trap
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Luminescence
+Wind Elemental recibe 208 de daño de tipo Light
+Wind Elemental termina con HP:237
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5688/5781 SP:211/317 BP:5
+C-Z'aanta - HP:1927/3722 SP:178/371 BP:5
+D-Ochette - HP:4447/4447 SP:315/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:0/1470 Shields:0
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:237/2496 Shields:4
+D-Light Elemental - HP:0/1880 Shields:2
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Wind Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5688/5781 SP:211/317 BP:5
+C-Z'aanta - HP:1927/3722 SP:178/371 BP:5
+D-Ochette - HP:4447/4447 SP:315/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:0/1470 Shields:0
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:237/2496 Shields:4
+D-Light Elemental - HP:0/1880 Shields:2
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Ochette
+3.Ophilia
+4.Hikari
+5.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Z'aanta se defiende
+Z'aanta recibe 97 de daño elemental
+Z'aanta termina con HP:1830
+----------------------------------------
+INICIA RONDA 17
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5688/5781 SP:211/317 BP:5
+C-Z'aanta - HP:1830/3722 SP:178/371 BP:5
+D-Ochette - HP:4447/4447 SP:315/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:0/1470 Shields:0
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:237/2496 Shields:4
+D-Light Elemental - HP:0/1880 Shields:2
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Ochette
+3.Ophilia
+4.Hikari
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Wind Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5688/5781 SP:211/317 BP:5
+C-Z'aanta - HP:1830/3722 SP:178/371 BP:5
+D-Ochette - HP:4447/4447 SP:315/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:0/1470 Shields:0
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:237/2496 Shields:4
+D-Light Elemental - HP:0/1880 Shields:2
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Ochette
+3.Ophilia
+4.Hikari
+5.Wind Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Wind Elemental - HP:237/2496 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette ataca
+Wind Elemental recibe 111 de daño de tipo Bow
+Wind Elemental termina con HP:126
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:458/470 BP:5
+B-Hikari - HP:5688/5781 SP:211/317 BP:5
+C-Z'aanta - HP:1830/3722 SP:178/371 BP:5
+D-Ochette - HP:4447/4447 SP:315/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:0/1470 Shields:0
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:126/2496 Shields:4
+D-Light Elemental - HP:0/1880 Shields:2
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Hikari
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Ochette
+3.Ophilia
+4.Hikari
+5.Wind Elemental
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Spearhead
+2: Leghold Trap
+3: First Aid
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Wind Elemental - HP:126/2496 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Spearhead
+Wind Elemental recibe 9 de daño de tipo Spear
+Wind Elemental termina con HP:117
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:452/470 BP:5
+B-Hikari - HP:5688/5781 SP:211/317 BP:5
+C-Z'aanta - HP:1830/3722 SP:178/371 BP:5
+D-Ochette - HP:4447/4447 SP:315/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:0/1470 Shields:0
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:117/2496 Shields:4
+D-Light Elemental - HP:0/1880 Shields:2
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Ophilia
+3.Ochette
+4.Hikari
+5.Wind Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:452/470 BP:5
+B-Hikari - HP:5688/5781 SP:211/317 BP:5
+C-Z'aanta - HP:1830/3722 SP:178/371 BP:5
+D-Ochette - HP:4447/4447 SP:315/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:0/1470 Shields:0
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:117/2496 Shields:4
+D-Light Elemental - HP:0/1880 Shields:2
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Z'aanta
+3.Ophilia
+4.Ochette
+5.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Z'aanta se defiende
+Z'aanta recibe 97 de daño elemental
+Z'aanta termina con HP:1733
+----------------------------------------
+INICIA RONDA 18
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:452/470 BP:5
+B-Hikari - HP:5688/5781 SP:211/317 BP:5
+C-Z'aanta - HP:1733/3722 SP:178/371 BP:5
+D-Ochette - HP:4447/4447 SP:315/369 BP:5
+Equipo del enemigo
+A-Dark Guardian - HP:0/1470 Shields:0
+B-River Fly - HP:0/1010 Shields:0
+C-Wind Elemental - HP:117/2496 Shields:4
+D-Light Elemental - HP:0/1880 Shields:2
+E-Light Wisp - HP:0/972 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Z'aanta
+3.Ophilia
+4.Ochette
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Ophilia
+3.Hikari
+4.Z'aanta
+5.Wind Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Wind Elemental - HP:117/2496 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Wind Elemental recibe 174 de daño de tipo Sword
+Wind Elemental termina con HP:0
+----------------------------------------
+Gana equipo del jugador

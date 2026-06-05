@@ -1,0 +1,1986 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+INPUT: 32
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:1
+C-Z'aanta - HP:3222/3222 SP:421/421 BP:1
+D-Osvald - HP:4057/4057 SP:541/541 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Lightning Elemental - HP:2133/2133 Shields:4
+C-Ice Wisp - HP:801/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+6.Ice Wisp
+7.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+6.Ice Wisp
+7.Lightning Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Revive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Z'aanta no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Z'aanta usa Revive
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:1
+C-Z'aanta - HP:3222/3222 SP:371/421 BP:0
+D-Osvald - HP:4057/4057 SP:541/541 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Lightning Elemental - HP:2133/2133 Shields:4
+C-Ice Wisp - HP:801/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Temenos
+3.Osvald
+4.Ice Elemental
+5.Ice Wisp
+6.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+6.Ice Wisp
+7.Lightning Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Holy Light
+2: Cross Strike
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Ice Elemental - HP:2160/2160 Shields:4
+2: Lightning Elemental - HP:2133/2133 Shields:4
+3: Ice Wisp - HP:801/801 Shields:1
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Holy Light
+Lightning Elemental recibe 113 de daño de tipo Light
+Lightning Elemental termina con HP:2020
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:420/426 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:1
+C-Z'aanta - HP:3222/3222 SP:371/421 BP:0
+D-Osvald - HP:4057/4057 SP:541/541 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Lightning Elemental - HP:2020/2133 Shields:4
+C-Ice Wisp - HP:801/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Osvald
+3.Ice Elemental
+4.Ice Wisp
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+6.Ice Wisp
+7.Lightning Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Ice Elemental - HP:2160/2160 Shields:4
+2: Lightning Elemental - HP:2020/2133 Shields:4
+3: Ice Wisp - HP:801/801 Shields:1
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Ice Elemental recibe 0 de daño de tipo Stave
+Ice Elemental recibe 0 de daño de tipo Stave
+Ice Elemental termina con HP:2160
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:420/426 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:1
+C-Z'aanta - HP:3222/3222 SP:371/421 BP:0
+D-Osvald - HP:4057/4057 SP:541/541 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Lightning Elemental - HP:2020/2133 Shields:4
+C-Ice Wisp - HP:801/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Ice Elemental
+3.Ice Wisp
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+6.Ice Wisp
+7.Lightning Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Ice Elemental - HP:2160/2160 Shields:4
+2: Lightning Elemental - HP:2020/2133 Shields:4
+3: Ice Wisp - HP:801/801 Shields:1
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Lightning Elemental recibe 37 de daño de tipo Stave
+Lightning Elemental termina con HP:1983
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:420/426 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:1
+C-Z'aanta - HP:3222/3222 SP:371/421 BP:0
+D-Osvald - HP:4057/4057 SP:541/541 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Lightning Elemental - HP:1983/2133 Shields:4
+C-Ice Wisp - HP:801/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Ice Wisp
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+6.Ice Wisp
+7.Lightning Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Z'aanta recibe 242 de daño elemental
+Z'aanta termina con HP:2980
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:420/426 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:1
+C-Z'aanta - HP:2980/3222 SP:371/421 BP:0
+D-Osvald - HP:4057/4057 SP:541/541 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Lightning Elemental - HP:1983/2133 Shields:4
+C-Ice Wisp - HP:801/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Wisp
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+6.Ice Wisp
+7.Lightning Elemental
+----------------------------------------
+Ice Wisp usa Freeze
+Z'aanta recibe 155 de daño elemental
+Z'aanta termina con HP:2825
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:420/426 BP:1
+B-Temenos - HP:4002/4002 SP:432/432 BP:1
+C-Z'aanta - HP:2825/3222 SP:371/421 BP:0
+D-Osvald - HP:4057/4057 SP:541/541 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Lightning Elemental - HP:1983/2133 Shields:4
+C-Ice Wisp - HP:801/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+6.Ice Wisp
+7.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Z'aanta recibe 175 de daño elemental
+Z'aanta termina con HP:2650
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:420/426 BP:2
+B-Temenos - HP:4002/4002 SP:432/432 BP:2
+C-Z'aanta - HP:2650/3222 SP:371/421 BP:0
+D-Osvald - HP:4057/4057 SP:541/541 BP:2
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Lightning Elemental - HP:1983/2133 Shields:4
+C-Ice Wisp - HP:801/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+6.Ice Wisp
+7.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+6.Ice Wisp
+7.Lightning Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:420/426 BP:2
+B-Temenos - HP:4002/4002 SP:432/432 BP:2
+C-Z'aanta - HP:2650/3222 SP:371/421 BP:0
+D-Osvald - HP:4057/4057 SP:541/541 BP:2
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Lightning Elemental - HP:1983/2133 Shields:4
+C-Ice Wisp - HP:801/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Temenos
+3.Osvald
+4.Ice Elemental
+5.Ice Wisp
+6.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+6.Ice Wisp
+7.Lightning Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Holy Light
+2: Cross Strike
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Ice Elemental - HP:2160/2160 Shields:4
+2: Lightning Elemental - HP:1983/2133 Shields:4
+3: Ice Wisp - HP:801/801 Shields:1
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Cross Strike
+Ice Wisp recibe 965 de daño de tipo Sword
+Ice Wisp termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:408/426 BP:2
+B-Temenos - HP:4002/4002 SP:432/432 BP:2
+C-Z'aanta - HP:2650/3222 SP:371/421 BP:0
+D-Osvald - HP:4057/4057 SP:541/541 BP:2
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Lightning Elemental - HP:1983/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Osvald
+3.Ice Elemental
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+6.Lightning Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Vivify
+2: Cross Strike
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Vivify
+2: Cross Strike
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Ice Elemental - HP:2160/2160 Shields:4
+2: Lightning Elemental - HP:1983/2133 Shields:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos usa Cross Strike
+Ice Elemental recibe 20 de daño de tipo Sword
+Ice Elemental termina con HP:2140
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:408/426 BP:2
+B-Temenos - HP:4002/4002 SP:420/432 BP:2
+C-Z'aanta - HP:2650/3222 SP:371/421 BP:0
+D-Osvald - HP:4057/4057 SP:541/541 BP:2
+Equipo del enemigo
+A-Ice Elemental - HP:2140/2160 Shields:4
+B-Lightning Elemental - HP:1983/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Ice Elemental
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+6.Lightning Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Ice Elemental - HP:2140/2160 Shields:4
+2: Lightning Elemental - HP:1983/2133 Shields:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Ice Elemental recibe 0 de daño de tipo Stave
+Ice Elemental termina con HP:2140
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:408/426 BP:2
+B-Temenos - HP:4002/4002 SP:420/432 BP:2
+C-Z'aanta - HP:2650/3222 SP:371/421 BP:0
+D-Osvald - HP:4057/4057 SP:541/541 BP:2
+Equipo del enemigo
+A-Ice Elemental - HP:2140/2160 Shields:4
+B-Lightning Elemental - HP:1983/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+6.Lightning Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Z'aanta se defiende
+Z'aanta recibe 121 de daño elemental
+Z'aanta termina con HP:2529
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:408/426 BP:2
+B-Temenos - HP:4002/4002 SP:420/432 BP:2
+C-Z'aanta - HP:2529/3222 SP:371/421 BP:0
+D-Osvald - HP:4057/4057 SP:541/541 BP:2
+Equipo del enemigo
+A-Ice Elemental - HP:2140/2160 Shields:4
+B-Lightning Elemental - HP:1983/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+6.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Z'aanta se defiende
+Z'aanta recibe 87 de daño elemental
+Z'aanta termina con HP:2442
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:408/426 BP:3
+B-Temenos - HP:4002/4002 SP:420/432 BP:3
+C-Z'aanta - HP:2442/3222 SP:371/421 BP:1
+D-Osvald - HP:4057/4057 SP:541/541 BP:3
+Equipo del enemigo
+A-Ice Elemental - HP:2140/2160 Shields:4
+B-Lightning Elemental - HP:1983/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+6.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+6.Lightning Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:408/426 BP:3
+B-Temenos - HP:4002/4002 SP:420/432 BP:3
+C-Z'aanta - HP:2442/3222 SP:371/421 BP:1
+D-Osvald - HP:4057/4057 SP:541/541 BP:3
+Equipo del enemigo
+A-Ice Elemental - HP:2140/2160 Shields:4
+B-Lightning Elemental - HP:1983/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Temenos
+3.Osvald
+4.Ice Elemental
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+6.Lightning Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:408/426 BP:3
+B-Temenos - HP:4002/4002 SP:420/432 BP:3
+C-Z'aanta - HP:2442/3222 SP:371/421 BP:1
+D-Osvald - HP:4057/4057 SP:541/541 BP:3
+Equipo del enemigo
+A-Ice Elemental - HP:2140/2160 Shields:4
+B-Lightning Elemental - HP:1983/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Osvald
+3.Ice Elemental
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+6.Lightning Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Ice Elemental - HP:2140/2160 Shields:4
+2: Lightning Elemental - HP:1983/2133 Shields:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Ice Elemental recibe 0 de daño de tipo Stave
+Ice Elemental recibe 0 de daño de tipo Stave
+Ice Elemental termina con HP:2140
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:408/426 BP:3
+B-Temenos - HP:4002/4002 SP:420/432 BP:3
+C-Z'aanta - HP:2442/3222 SP:371/421 BP:1
+D-Osvald - HP:4057/4057 SP:541/541 BP:3
+Equipo del enemigo
+A-Ice Elemental - HP:2140/2160 Shields:4
+B-Lightning Elemental - HP:1983/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Ice Elemental
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+6.Lightning Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Level Slash
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Osvald usa Level Slash
+Ice Elemental recibe 732 de daño de tipo Sword
+Lightning Elemental recibe 854 de daño de tipo Sword
+Ice Elemental termina con HP:1408
+Lightning Elemental termina con HP:1129
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:408/426 BP:3
+B-Temenos - HP:4002/4002 SP:420/432 BP:3
+C-Z'aanta - HP:2442/3222 SP:371/421 BP:1
+D-Osvald - HP:4057/4057 SP:532/541 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:1408/2160 Shields:4
+B-Lightning Elemental - HP:1129/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+6.Lightning Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Z'aanta se defiende
+Z'aanta recibe 121 de daño elemental
+Z'aanta termina con HP:2321
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:408/426 BP:3
+B-Temenos - HP:4002/4002 SP:420/432 BP:3
+C-Z'aanta - HP:2321/3222 SP:371/421 BP:1
+D-Osvald - HP:4057/4057 SP:532/541 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:1408/2160 Shields:4
+B-Lightning Elemental - HP:1129/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+6.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Z'aanta se defiende
+Z'aanta recibe 87 de daño elemental
+Z'aanta termina con HP:2234
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:408/426 BP:4
+B-Temenos - HP:4002/4002 SP:420/432 BP:4
+C-Z'aanta - HP:2234/3222 SP:371/421 BP:2
+D-Osvald - HP:4057/4057 SP:532/541 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:1408/2160 Shields:4
+B-Lightning Elemental - HP:1129/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+6.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+6.Lightning Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Revive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Z'aanta usa Revive
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:408/426 BP:4
+B-Temenos - HP:4002/4002 SP:420/432 BP:4
+C-Z'aanta - HP:2234/3222 SP:321/421 BP:1
+D-Osvald - HP:4057/4057 SP:532/541 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:1408/2160 Shields:4
+B-Lightning Elemental - HP:1129/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Temenos
+3.Osvald
+4.Ice Elemental
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+6.Lightning Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Ice Elemental - HP:1408/2160 Shields:4
+2: Lightning Elemental - HP:1129/2133 Shields:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Ice Elemental recibe 135 de daño de tipo Axe
+Ice Elemental termina con HP:1273
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:408/426 BP:4
+B-Temenos - HP:4002/4002 SP:420/432 BP:4
+C-Z'aanta - HP:2234/3222 SP:321/421 BP:1
+D-Osvald - HP:4057/4057 SP:532/541 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:1273/2160 Shields:4
+B-Lightning Elemental - HP:1129/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Osvald
+3.Ice Elemental
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+6.Lightning Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Ice Elemental - HP:1273/2160 Shields:4
+2: Lightning Elemental - HP:1129/2133 Shields:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Lightning Elemental recibe 22 de daño de tipo Stave
+Lightning Elemental recibe 22 de daño de tipo Stave
+Lightning Elemental termina con HP:1085
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:408/426 BP:4
+B-Temenos - HP:4002/4002 SP:420/432 BP:4
+C-Z'aanta - HP:2234/3222 SP:321/421 BP:1
+D-Osvald - HP:4057/4057 SP:532/541 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:1273/2160 Shields:4
+B-Lightning Elemental - HP:1085/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Ice Elemental
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+6.Lightning Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Ice Elemental - HP:1273/2160 Shields:4
+2: Lightning Elemental - HP:1085/2133 Shields:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Lightning Elemental recibe 24 de daño de tipo Stave
+Lightning Elemental termina con HP:1061
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:408/426 BP:4
+B-Temenos - HP:4002/4002 SP:420/432 BP:4
+C-Z'aanta - HP:2234/3222 SP:321/421 BP:1
+D-Osvald - HP:4057/4057 SP:532/541 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:1273/2160 Shields:4
+B-Lightning Elemental - HP:1061/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+6.Lightning Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Z'aanta recibe 242 de daño elemental
+Z'aanta termina con HP:1992
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:408/426 BP:4
+B-Temenos - HP:4002/4002 SP:420/432 BP:4
+C-Z'aanta - HP:1992/3222 SP:321/421 BP:1
+D-Osvald - HP:4057/4057 SP:532/541 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:1273/2160 Shields:4
+B-Lightning Elemental - HP:1061/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+6.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Z'aanta recibe 175 de daño elemental
+Z'aanta termina con HP:1817
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:408/426 BP:5
+B-Temenos - HP:4002/4002 SP:420/432 BP:5
+C-Z'aanta - HP:1817/3222 SP:321/421 BP:1
+D-Osvald - HP:4057/4057 SP:532/541 BP:2
+Equipo del enemigo
+A-Ice Elemental - HP:1273/2160 Shields:4
+B-Lightning Elemental - HP:1061/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+6.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+6.Lightning Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Ice Elemental - HP:1273/2160 Shields:4
+2: Lightning Elemental - HP:1061/2133 Shields:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Ice Elemental recibe 47 de daño de tipo Bow
+Ice Elemental termina con HP:1226
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:408/426 BP:5
+B-Temenos - HP:4002/4002 SP:420/432 BP:5
+C-Z'aanta - HP:1817/3222 SP:321/421 BP:1
+D-Osvald - HP:4057/4057 SP:532/541 BP:2
+Equipo del enemigo
+A-Ice Elemental - HP:1226/2160 Shields:4
+B-Lightning Elemental - HP:1061/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Temenos
+3.Osvald
+4.Ice Elemental
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+6.Lightning Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:408/426 BP:5
+B-Temenos - HP:4002/4002 SP:420/432 BP:5
+C-Z'aanta - HP:1817/3222 SP:321/421 BP:1
+D-Osvald - HP:4057/4057 SP:532/541 BP:2
+Equipo del enemigo
+A-Ice Elemental - HP:1226/2160 Shields:4
+B-Lightning Elemental - HP:1061/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Osvald
+3.Ice Elemental
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Z'aanta
+3.Temenos
+4.Osvald
+5.Ice Elemental
+6.Lightning Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:408/426 BP:5
+B-Temenos - HP:4002/4002 SP:420/432 BP:5
+C-Z'aanta - HP:1817/3222 SP:321/421 BP:1
+D-Osvald - HP:4057/4057 SP:532/541 BP:2
+Equipo del enemigo
+A-Ice Elemental - HP:1226/2160 Shields:4
+B-Lightning Elemental - HP:1061/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Ice Elemental
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Temenos
+3.Z'aanta
+4.Osvald
+5.Ice Elemental
+6.Lightning Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Ice Elemental - HP:1226/2160 Shields:4
+2: Lightning Elemental - HP:1061/2133 Shields:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Ice Elemental recibe 0 de daño de tipo Stave
+Ice Elemental termina con HP:1226
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:408/426 BP:5
+B-Temenos - HP:4002/4002 SP:420/432 BP:5
+C-Z'aanta - HP:1817/3222 SP:321/421 BP:1
+D-Osvald - HP:4057/4057 SP:532/541 BP:2
+Equipo del enemigo
+A-Ice Elemental - HP:1226/2160 Shields:4
+B-Lightning Elemental - HP:1061/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Temenos
+3.Z'aanta
+4.Osvald
+5.Ice Elemental
+6.Lightning Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Z'aanta recibe 242 de daño elemental
+Z'aanta termina con HP:1575
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:408/426 BP:5
+B-Temenos - HP:4002/4002 SP:420/432 BP:5
+C-Z'aanta - HP:1575/3222 SP:321/421 BP:1
+D-Osvald - HP:4057/4057 SP:532/541 BP:2
+Equipo del enemigo
+A-Ice Elemental - HP:1226/2160 Shields:4
+B-Lightning Elemental - HP:1061/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Temenos
+3.Z'aanta
+4.Osvald
+5.Ice Elemental
+6.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Z'aanta recibe 175 de daño elemental
+Z'aanta termina con HP:1400
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:408/426 BP:5
+B-Temenos - HP:4002/4002 SP:420/432 BP:5
+C-Z'aanta - HP:1400/3222 SP:321/421 BP:2
+D-Osvald - HP:4057/4057 SP:532/541 BP:3
+Equipo del enemigo
+A-Ice Elemental - HP:1226/2160 Shields:4
+B-Lightning Elemental - HP:1061/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Temenos
+3.Z'aanta
+4.Osvald
+5.Ice Elemental
+6.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+6.Lightning Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Ice Elemental - HP:1226/2160 Shields:4
+2: Lightning Elemental - HP:1061/2133 Shields:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Lightning Elemental recibe 318 de daño de tipo Axe
+Lightning Elemental termina con HP:743
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:408/426 BP:5
+B-Temenos - HP:4002/4002 SP:420/432 BP:5
+C-Z'aanta - HP:1400/3222 SP:321/421 BP:2
+D-Osvald - HP:4057/4057 SP:532/541 BP:3
+Equipo del enemigo
+A-Ice Elemental - HP:1226/2160 Shields:4
+B-Lightning Elemental - HP:743/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Z'aanta
+3.Osvald
+4.Ice Elemental
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+6.Lightning Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Vivify
+2: Cross Strike
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:408/426 BP:5
+B-Temenos - HP:4002/4002 SP:420/432 BP:5
+C-Z'aanta - HP:1400/3222 SP:321/421 BP:2
+D-Osvald - HP:4057/4057 SP:532/541 BP:3
+Equipo del enemigo
+A-Ice Elemental - HP:1226/2160 Shields:4
+B-Lightning Elemental - HP:743/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Osvald
+3.Ice Elemental
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Z'aanta
+3.Castti
+4.Osvald
+5.Ice Elemental
+6.Lightning Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Ice Elemental - HP:1226/2160 Shields:4
+2: Lightning Elemental - HP:743/2133 Shields:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Lightning Elemental recibe 169 de daño de tipo Bow
+Lightning Elemental termina con HP:574
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:408/426 BP:5
+B-Temenos - HP:4002/4002 SP:420/432 BP:5
+C-Z'aanta - HP:1400/3222 SP:321/421 BP:2
+D-Osvald - HP:4057/4057 SP:532/541 BP:3
+Equipo del enemigo
+A-Ice Elemental - HP:1226/2160 Shields:4
+B-Lightning Elemental - HP:574/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Ice Elemental
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Z'aanta
+3.Castti
+4.Osvald
+5.Ice Elemental
+6.Lightning Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Level Slash
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Level Slash
+Ice Elemental recibe 0 de daño de tipo Sword
+Lightning Elemental recibe 82 de daño de tipo Sword
+Ice Elemental termina con HP:1226
+Lightning Elemental termina con HP:492
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:408/426 BP:5
+B-Temenos - HP:4002/4002 SP:420/432 BP:5
+C-Z'aanta - HP:1400/3222 SP:321/421 BP:2
+D-Osvald - HP:4057/4057 SP:523/541 BP:3
+Equipo del enemigo
+A-Ice Elemental - HP:1226/2160 Shields:4
+B-Lightning Elemental - HP:492/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Z'aanta
+3.Castti
+4.Osvald
+5.Ice Elemental
+6.Lightning Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Z'aanta recibe 242 de daño elemental
+Z'aanta termina con HP:1158
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:408/426 BP:5
+B-Temenos - HP:4002/4002 SP:420/432 BP:5
+C-Z'aanta - HP:1158/3222 SP:321/421 BP:2
+D-Osvald - HP:4057/4057 SP:523/541 BP:3
+Equipo del enemigo
+A-Ice Elemental - HP:1226/2160 Shields:4
+B-Lightning Elemental - HP:492/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Z'aanta
+3.Castti
+4.Osvald
+5.Ice Elemental
+6.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Z'aanta recibe 175 de daño elemental
+Z'aanta termina con HP:983
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:408/426 BP:5
+B-Temenos - HP:4002/4002 SP:420/432 BP:5
+C-Z'aanta - HP:983/3222 SP:321/421 BP:3
+D-Osvald - HP:4057/4057 SP:523/541 BP:4
+Equipo del enemigo
+A-Ice Elemental - HP:1226/2160 Shields:4
+B-Lightning Elemental - HP:492/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Z'aanta
+3.Castti
+4.Osvald
+5.Ice Elemental
+6.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+6.Lightning Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Vivify
+2: Cross Strike
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Ice Elemental - HP:1226/2160 Shields:4
+2: Lightning Elemental - HP:492/2133 Shields:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Temenos usa Cross Strike
+Lightning Elemental recibe 1101 de daño de tipo Sword
+Lightning Elemental termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:408/426 BP:5
+B-Temenos - HP:4002/4002 SP:408/432 BP:3
+C-Z'aanta - HP:983/3222 SP:321/421 BP:3
+D-Osvald - HP:4057/4057 SP:523/541 BP:4
+Equipo del enemigo
+A-Ice Elemental - HP:1226/2160 Shields:4
+B-Lightning Elemental - HP:0/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Castti
+3.Osvald
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Revive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta usa Revive
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:408/426 BP:5
+B-Temenos - HP:4002/4002 SP:408/432 BP:3
+C-Z'aanta - HP:983/3222 SP:271/421 BP:3
+D-Osvald - HP:4057/4057 SP:523/541 BP:4
+Equipo del enemigo
+A-Ice Elemental - HP:1226/2160 Shields:4
+B-Lightning Elemental - HP:0/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Osvald
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:408/426 BP:5
+B-Temenos - HP:4002/4002 SP:408/432 BP:3
+C-Z'aanta - HP:983/3222 SP:271/421 BP:3
+D-Osvald - HP:4057/4057 SP:523/541 BP:4
+Equipo del enemigo
+A-Ice Elemental - HP:1226/2160 Shields:4
+B-Lightning Elemental - HP:0/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Z'aanta
+3.Temenos
+4.Osvald
+5.Ice Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Ice Elemental - HP:1226/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Ice Elemental recibe 0 de daño de tipo Stave
+Ice Elemental termina con HP:1226
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:408/426 BP:5
+B-Temenos - HP:4002/4002 SP:408/432 BP:3
+C-Z'aanta - HP:983/3222 SP:271/421 BP:3
+D-Osvald - HP:4057/4057 SP:523/541 BP:4
+Equipo del enemigo
+A-Ice Elemental - HP:1226/2160 Shields:4
+B-Lightning Elemental - HP:0/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Z'aanta
+3.Temenos
+4.Osvald
+5.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Z'aanta recibe 242 de daño elemental
+Z'aanta termina con HP:741
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:408/426 BP:5
+B-Temenos - HP:4002/4002 SP:408/432 BP:3
+C-Z'aanta - HP:741/3222 SP:271/421 BP:4
+D-Osvald - HP:4057/4057 SP:523/541 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:1226/2160 Shields:4
+B-Lightning Elemental - HP:0/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Z'aanta
+3.Temenos
+4.Osvald
+5.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Holy Light
+2: Cross Strike
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Ice Elemental - HP:1226/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Holy Light
+Ice Elemental recibe 208 de daño de tipo Light
+Ice Elemental termina con HP:1018
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:402/426 BP:5
+B-Temenos - HP:4002/4002 SP:408/432 BP:3
+C-Z'aanta - HP:741/3222 SP:271/421 BP:4
+D-Osvald - HP:4057/4057 SP:523/541 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:1018/2160 Shields:4
+B-Lightning Elemental - HP:0/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Temenos
+3.Osvald
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:402/426 BP:5
+B-Temenos - HP:4002/4002 SP:408/432 BP:3
+C-Z'aanta - HP:741/3222 SP:271/421 BP:4
+D-Osvald - HP:4057/4057 SP:523/541 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:1018/2160 Shields:4
+B-Lightning Elemental - HP:0/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Osvald
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Vivify
+2: Cross Strike
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Ice Elemental - HP:1018/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Temenos usa Cross Strike
+Ice Elemental recibe 979 de daño de tipo Sword
+Ice Elemental termina con HP:39
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:402/426 BP:5
+B-Temenos - HP:4002/4002 SP:396/432 BP:1
+C-Z'aanta - HP:741/3222 SP:271/421 BP:4
+D-Osvald - HP:4057/4057 SP:523/541 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:39/2160 Shields:4
+B-Lightning Elemental - HP:0/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Ice Elemental - HP:39/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Ice Elemental recibe 0 de daño de tipo Stave
+Ice Elemental termina con HP:39
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:402/426 BP:5
+B-Temenos - HP:4002/4002 SP:396/432 BP:1
+C-Z'aanta - HP:741/3222 SP:271/421 BP:4
+D-Osvald - HP:4057/4057 SP:523/541 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:39/2160 Shields:4
+B-Lightning Elemental - HP:0/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Z'aanta se defiende
+Z'aanta recibe 121 de daño elemental
+Z'aanta termina con HP:620
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:402/426 BP:5
+B-Temenos - HP:4002/4002 SP:396/432 BP:1
+C-Z'aanta - HP:620/3222 SP:271/421 BP:5
+D-Osvald - HP:4057/4057 SP:523/541 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:39/2160 Shields:4
+B-Lightning Elemental - HP:0/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:402/426 BP:5
+B-Temenos - HP:4002/4002 SP:396/432 BP:1
+C-Z'aanta - HP:620/3222 SP:271/421 BP:5
+D-Osvald - HP:4057/4057 SP:523/541 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:39/2160 Shields:4
+B-Lightning Elemental - HP:0/2133 Shields:4
+C-Ice Wisp - HP:0/801 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Temenos
+3.Osvald
+4.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Temenos
+4.Osvald
+5.Ice Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Holy Light
+2: Cross Strike
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Ice Elemental - HP:39/2160 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Holy Light
+Ice Elemental recibe 208 de daño de tipo Light
+Ice Elemental termina con HP:0
+----------------------------------------
+Gana equipo del jugador

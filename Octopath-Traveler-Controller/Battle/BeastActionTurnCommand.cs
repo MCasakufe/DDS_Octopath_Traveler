@@ -20,6 +20,6 @@ public sealed class BeastActionTurnCommand
     {
         BeastAttack? attack = _beastAttackExecutor.ExecuteAttack(beast, battleState);
         if (attack is not null)
-            _battleConsoleView.PrintBeastAttack(attack);
+            _battleConsoleView.WriteBeastAttack(attack);
     }
 }

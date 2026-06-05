@@ -4,11 +4,14 @@ internal sealed record TravelerSkillTargetSelection(
     IReadOnlyList<BeastCombatUnit> BeastTargets,
     IReadOnlyList<TravelerCombatUnit> TravelerTargets)
 {
+    private const int NoTargets = 0;
+    private const int FirstTargetIndex = 0;
+
     public static TravelerSkillTargetSelection Empty { get; } = new([], []);
 
-    public BeastCombatUnit? SingleBeastTarget => BeastTargets.Count == 0 ? null : BeastTargets[0];
+    public BeastCombatUnit? SingleBeastTarget => BeastTargets.Count == NoTargets ? null : BeastTargets[FirstTargetIndex];
 
-    public TravelerCombatUnit? SingleTravelerTarget => TravelerTargets.Count == 0 ? null : TravelerTargets[0];
+    public TravelerCombatUnit? SingleTravelerTarget => TravelerTargets.Count == NoTargets ? null : TravelerTargets[FirstTargetIndex];
 
     public static TravelerSkillTargetSelection WithBeast(BeastCombatUnit beastTarget)
         => new([beastTarget], []);

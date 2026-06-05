@@ -1,0 +1,495 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+INPUT: 24
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:7500/7500 Shields:10
+B-Mattias? - HP:5780/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.Mattias?
+4.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Mattias?
+4.Devourer of Dreams
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Devourer of Dreams - HP:7500/7500 Shields:10
+2: Mattias? - HP:5780/5780 Shields:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Mattias? recibe 0 de daño de tipo Dagger
+Mattias? termina con HP:5780
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:7500/7500 Shields:10
+B-Mattias? - HP:5780/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Mattias?
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Mattias?
+4.Devourer of Dreams
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Devourer of Dreams - HP:7500/7500 Shields:10
+2: Mattias? - HP:5780/5780 Shields:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Devourer of Dreams recibe 0 de daño de tipo Dagger
+Devourer of Dreams termina con HP:7500
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:7500/7500 Shields:10
+B-Mattias? - HP:5780/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Mattias?
+4.Devourer of Dreams
+----------------------------------------
+Mattias? usa Black Gale
+Primrose recibe 613 de daño elemental
+Therion recibe 717 de daño elemental
+Primrose termina con HP:3389
+Therion termina con HP:3730
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3389/4002 SP:504/504 BP:1
+B-Therion - HP:3730/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:7500/7500 Shields:10
+B-Mattias? - HP:5780/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Mattias?
+4.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Primrose recibe 1695 de daño
+Therion recibe 1865 de daño
+Primrose termina con HP:1694
+Therion termina con HP:1865
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1694/4002 SP:504/504 BP:2
+B-Therion - HP:1865/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:7500/7500 Shields:10
+B-Mattias? - HP:5780/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.Mattias?
+4.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Mattias?
+4.Devourer of Dreams
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Devourer of Dreams - HP:7500/7500 Shields:10
+2: Mattias? - HP:5780/5780 Shields:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Devourer of Dreams recibe 91 de daño de tipo Dagger
+Devourer of Dreams termina con HP:7409
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1694/4002 SP:504/504 BP:2
+B-Therion - HP:1865/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:7409/7500 Shields:10
+B-Mattias? - HP:5780/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Mattias?
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Mattias?
+4.Devourer of Dreams
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1694/4002 SP:504/504 BP:2
+B-Therion - HP:1865/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:7409/7500 Shields:10
+B-Mattias? - HP:5780/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Therion
+3.Mattias?
+4.Devourer of Dreams
+----------------------------------------
+Mattias? usa Black Gale
+Primrose se defiende
+Primrose recibe 306 de daño elemental
+Therion recibe 717 de daño elemental
+Primrose termina con HP:1388
+Therion termina con HP:1148
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1388/4002 SP:504/504 BP:2
+B-Therion - HP:1148/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:7409/7500 Shields:10
+B-Mattias? - HP:5780/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Therion
+3.Mattias?
+4.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Primrose recibe 694 de daño
+Therion recibe 574 de daño
+Primrose termina con HP:694
+Therion termina con HP:574
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:694/4002 SP:504/504 BP:3
+B-Therion - HP:574/4447 SP:332/332 BP:3
+Equipo del enemigo
+A-Devourer of Dreams - HP:7409/7500 Shields:10
+B-Mattias? - HP:5780/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Therion
+3.Mattias?
+4.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Mattias?
+4.Devourer of Dreams
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:694/4002 SP:504/504 BP:3
+B-Therion - HP:574/4447 SP:332/332 BP:3
+Equipo del enemigo
+A-Devourer of Dreams - HP:7409/7500 Shields:10
+B-Mattias? - HP:5780/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Mattias?
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Therion
+3.Mattias?
+4.Devourer of Dreams
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:694/4002 SP:504/504 BP:3
+B-Therion - HP:574/4447 SP:332/332 BP:3
+Equipo del enemigo
+A-Devourer of Dreams - HP:7409/7500 Shields:10
+B-Mattias? - HP:5780/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Mattias?
+4.Devourer of Dreams
+----------------------------------------
+Mattias? usa Black Gale
+Primrose se defiende
+Primrose recibe 306 de daño elemental
+Therion se defiende
+Therion recibe 358 de daño elemental
+Primrose termina con HP:388
+Therion termina con HP:216
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:388/4002 SP:504/504 BP:3
+B-Therion - HP:216/4447 SP:332/332 BP:3
+Equipo del enemigo
+A-Devourer of Dreams - HP:7409/7500 Shields:10
+B-Mattias? - HP:5780/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Mattias?
+4.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Primrose recibe 194 de daño
+Therion recibe 108 de daño
+Primrose termina con HP:194
+Therion termina con HP:108
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:194/4002 SP:504/504 BP:4
+B-Therion - HP:108/4447 SP:332/332 BP:4
+Equipo del enemigo
+A-Devourer of Dreams - HP:7409/7500 Shields:10
+B-Mattias? - HP:5780/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.Mattias?
+4.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Mattias?
+4.Devourer of Dreams
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Devourer of Dreams - HP:7409/7500 Shields:10
+2: Mattias? - HP:5780/5780 Shields:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Devourer of Dreams recibe 91 de daño de tipo Dagger
+Devourer of Dreams termina con HP:7318
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:194/4002 SP:504/504 BP:4
+B-Therion - HP:108/4447 SP:332/332 BP:4
+Equipo del enemigo
+A-Devourer of Dreams - HP:7318/7500 Shields:10
+B-Mattias? - HP:5780/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Mattias?
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Mattias?
+4.Devourer of Dreams
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Devourer of Dreams - HP:7318/7500 Shields:10
+2: Mattias? - HP:5780/5780 Shields:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Devourer of Dreams recibe 0 de daño de tipo Dagger
+Devourer of Dreams termina con HP:7318
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:194/4002 SP:504/504 BP:4
+B-Therion - HP:108/4447 SP:332/332 BP:4
+Equipo del enemigo
+A-Devourer of Dreams - HP:7318/7500 Shields:10
+B-Mattias? - HP:5780/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Mattias?
+4.Devourer of Dreams
+----------------------------------------
+Mattias? usa Black Gale
+Primrose recibe 613 de daño elemental
+Therion recibe 717 de daño elemental
+Primrose termina con HP:0
+Therion termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

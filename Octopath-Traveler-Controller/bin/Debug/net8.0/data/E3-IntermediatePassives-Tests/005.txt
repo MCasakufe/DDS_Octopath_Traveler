@@ -1,0 +1,294 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+INPUT: 4
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:582/582 BP:1
+B-Ophilia - HP:4002/4002 SP:470/470 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Mossy Meep - HP:1060/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Cyrus
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Heal Wounds
+Cyrus recupera 598 de vida
+Ophilia recupera 598 de vida
+Cyrus termina con HP:3557
+Ophilia termina con HP:4002
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:582/582 BP:1
+B-Ophilia - HP:4002/4002 SP:464/470 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Mossy Meep - HP:1060/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Fireball
+Meep recibe 427 de daño de tipo Fire
+Mossy Meep recibe 0 de daño de tipo Fire
+Meep termina con HP:589
+Mossy Meep termina con HP:1060
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:578/582 BP:1
+B-Ophilia - HP:4002/4002 SP:464/470 BP:1
+Equipo del enemigo
+A-Meep - HP:589/1016 Shields:2
+B-Mossy Meep - HP:1060/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Meep usa Attack
+Ophilia recibe 226 de daño físico
+Ophilia termina con HP:3776
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:578/582 BP:1
+B-Ophilia - HP:3776/4002 SP:464/470 BP:1
+Equipo del enemigo
+A-Meep - HP:589/1016 Shields:2
+B-Mossy Meep - HP:1060/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Mossy Meep usa Attack
+Ophilia recibe 243 de daño físico
+Ophilia termina con HP:3533
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:578/582 BP:2
+B-Ophilia - HP:3533/4002 SP:464/470 BP:2
+Equipo del enemigo
+A-Meep - HP:589/1016 Shields:2
+B-Mossy Meep - HP:1060/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Cyrus
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Meep - HP:589/1016 Shields:2
+2: Mossy Meep - HP:1060/1060 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Meep recibe 0 de daño de tipo Stave con debilidad
+Meep termina con HP:589
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:578/582 BP:2
+B-Ophilia - HP:3533/4002 SP:464/470 BP:2
+Equipo del enemigo
+A-Meep - HP:589/1016 Shields:2
+B-Mossy Meep - HP:1060/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Fireball
+Meep recibe 427 de daño de tipo Fire
+Mossy Meep recibe 0 de daño de tipo Fire
+Meep termina con HP:162
+Mossy Meep termina con HP:1060
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:574/582 BP:2
+B-Ophilia - HP:3533/4002 SP:464/470 BP:2
+Equipo del enemigo
+A-Meep - HP:162/1016 Shields:2
+B-Mossy Meep - HP:1060/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Meep usa Attack
+Cyrus recibe 237 de daño físico
+Cyrus termina con HP:3320
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3320/3557 SP:574/582 BP:2
+B-Ophilia - HP:3533/4002 SP:464/470 BP:2
+Equipo del enemigo
+A-Meep - HP:162/1016 Shields:2
+B-Mossy Meep - HP:1060/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Mossy Meep usa Attack
+Ophilia recibe 243 de daño físico
+Ophilia termina con HP:3290
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3320/3557 SP:574/582 BP:3
+B-Ophilia - HP:3290/4002 SP:464/470 BP:3
+Equipo del enemigo
+A-Meep - HP:162/1016 Shields:2
+B-Mossy Meep - HP:1060/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Cyrus
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo

@@ -138,7 +138,8 @@ public sealed class TeamFileParser
         if (!segmentMatch.Success)
             return null;
 
-        return segmentMatch.Groups[1].Value;
+        Group matchedSegment = segmentMatch.Groups[1];
+        return matchedSegment.Value;
     }
 
     private static List<string> ParseSkillNameList(string segment)

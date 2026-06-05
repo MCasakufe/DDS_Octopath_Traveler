@@ -1,0 +1,2236 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+INPUT: 16
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:2
+B-Primrose - HP:4002/4002 SP:504/504 BP:2
+C-Hikari - HP:5781/5781 SP:317/317 BP:1
+D-Castti - HP:5336/5336 SP:426/426 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:801/801 Shields:1
+B-Light Elemental - HP:1880/1880 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Primrose
+3.Castti
+4.Hikari
+5.Ice Wisp
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Castti
+4.Hikari
+5.Ice Wisp
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:2
+B-Primrose - HP:4002/4002 SP:504/504 BP:2
+C-Hikari - HP:5781/5781 SP:317/317 BP:1
+D-Castti - HP:5336/5336 SP:426/426 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:801/801 Shields:1
+B-Light Elemental - HP:1880/1880 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Ice Wisp
+5.Wind Elemental
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Castti
+4.Hikari
+5.Ice Wisp
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Fireball
+2: Leghold Trap
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Ice Wisp - HP:801/801 Shields:1
+2: Light Elemental - HP:1880/1880 Shields:4
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Leghold Trap
+Wind Elemental tendrá menor prioridad de turno durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:2
+B-Primrose - HP:4002/4002 SP:498/504 BP:2
+C-Hikari - HP:5781/5781 SP:317/317 BP:1
+D-Castti - HP:5336/5336 SP:426/426 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:801/801 Shields:1
+B-Light Elemental - HP:1880/1880 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Hikari
+3.Ice Wisp
+4.Light Elemental
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Castti
+4.Hikari
+5.Ice Wisp
+6.Light Elemental
+7.Wind Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Ice Wisp - HP:801/801 Shields:1
+2: Light Elemental - HP:1880/1880 Shields:4
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Light Elemental recibe 121 de daño de tipo Axe
+Light Elemental termina con HP:1759
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:2
+B-Primrose - HP:4002/4002 SP:498/504 BP:2
+C-Hikari - HP:5781/5781 SP:317/317 BP:1
+D-Castti - HP:5336/5336 SP:426/426 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:801/801 Shields:1
+B-Light Elemental - HP:1759/1880 Shields:4
+C-Wind Elemental - HP:2496/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Ice Wisp
+3.Light Elemental
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Castti
+4.Hikari
+5.Ice Wisp
+6.Light Elemental
+7.Wind Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Ice Wisp - HP:801/801 Shields:1
+2: Light Elemental - HP:1759/1880 Shields:4
+3: Wind Elemental - HP:2496/2496 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Wind Elemental recibe 109 de daño de tipo Spear
+Wind Elemental termina con HP:2387
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:2
+B-Primrose - HP:4002/4002 SP:498/504 BP:2
+C-Hikari - HP:5781/5781 SP:317/317 BP:1
+D-Castti - HP:5336/5336 SP:426/426 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:801/801 Shields:1
+B-Light Elemental - HP:1759/1880 Shields:4
+C-Wind Elemental - HP:2387/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Wisp
+2.Light Elemental
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Castti
+4.Hikari
+5.Ice Wisp
+6.Light Elemental
+7.Wind Elemental
+----------------------------------------
+Ice Wisp usa Freeze
+Heatcore se defiende
+Heatcore recibe 67 de daño elemental
+Heatcore termina con HP:2755
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2755/2822 SP:342/342 BP:2
+B-Primrose - HP:4002/4002 SP:498/504 BP:2
+C-Hikari - HP:5781/5781 SP:317/317 BP:1
+D-Castti - HP:5336/5336 SP:426/426 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:801/801 Shields:1
+B-Light Elemental - HP:1759/1880 Shields:4
+C-Wind Elemental - HP:2387/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Castti
+4.Hikari
+5.Ice Wisp
+6.Light Elemental
+7.Wind Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Heatcore se defiende
+Heatcore recibe 62 de daño elemental
+Heatcore termina con HP:2693
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2693/2822 SP:342/342 BP:2
+B-Primrose - HP:4002/4002 SP:498/504 BP:2
+C-Hikari - HP:5781/5781 SP:317/317 BP:1
+D-Castti - HP:5336/5336 SP:426/426 BP:1
+Equipo del enemigo
+A-Ice Wisp - HP:801/801 Shields:1
+B-Light Elemental - HP:1759/1880 Shields:4
+C-Wind Elemental - HP:2387/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Castti
+4.Hikari
+5.Ice Wisp
+6.Light Elemental
+7.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Heatcore se defiende
+Heatcore recibe 87 de daño elemental
+Heatcore termina con HP:2606
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2606/2822 SP:342/342 BP:3
+B-Primrose - HP:4002/4002 SP:498/504 BP:3
+C-Hikari - HP:5781/5781 SP:317/317 BP:2
+D-Castti - HP:5336/5336 SP:426/426 BP:2
+Equipo del enemigo
+A-Ice Wisp - HP:801/801 Shields:1
+B-Light Elemental - HP:1759/1880 Shields:4
+C-Wind Elemental - HP:2387/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Primrose
+3.Castti
+4.Hikari
+5.Ice Wisp
+6.Light Elemental
+7.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Castti
+4.Hikari
+5.Ice Wisp
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Leghold Trap
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Ice Wisp - HP:801/801 Shields:1
+2: Light Elemental - HP:1759/1880 Shields:4
+3: Wind Elemental - HP:2387/2496 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore usa Leghold Trap
+Wind Elemental tendrá menor prioridad de turno durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2606/2822 SP:336/342 BP:3
+B-Primrose - HP:4002/4002 SP:498/504 BP:3
+C-Hikari - HP:5781/5781 SP:317/317 BP:2
+D-Castti - HP:5336/5336 SP:426/426 BP:2
+Equipo del enemigo
+A-Ice Wisp - HP:801/801 Shields:1
+B-Light Elemental - HP:1759/1880 Shields:4
+C-Wind Elemental - HP:2387/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Castti
+3.Hikari
+4.Ice Wisp
+5.Light Elemental
+6.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Castti
+4.Hikari
+5.Ice Wisp
+6.Light Elemental
+7.Wind Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Ice Wisp - HP:801/801 Shields:1
+2: Light Elemental - HP:1759/1880 Shields:4
+3: Wind Elemental - HP:2387/2496 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Light Elemental recibe 201 de daño de tipo Dagger
+Light Elemental termina con HP:1558
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2606/2822 SP:336/342 BP:3
+B-Primrose - HP:4002/4002 SP:498/504 BP:3
+C-Hikari - HP:5781/5781 SP:317/317 BP:2
+D-Castti - HP:5336/5336 SP:426/426 BP:2
+Equipo del enemigo
+A-Ice Wisp - HP:801/801 Shields:1
+B-Light Elemental - HP:1558/1880 Shields:4
+C-Wind Elemental - HP:2387/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Hikari
+3.Ice Wisp
+4.Light Elemental
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Castti
+4.Hikari
+5.Ice Wisp
+6.Light Elemental
+7.Wind Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2606/2822 SP:336/342 BP:3
+B-Primrose - HP:4002/4002 SP:498/504 BP:3
+C-Hikari - HP:5781/5781 SP:317/317 BP:2
+D-Castti - HP:5336/5336 SP:426/426 BP:2
+Equipo del enemigo
+A-Ice Wisp - HP:801/801 Shields:1
+B-Light Elemental - HP:1558/1880 Shields:4
+C-Wind Elemental - HP:2387/2496 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Ice Wisp
+3.Light Elemental
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heatcore
+3.Primrose
+4.Hikari
+5.Ice Wisp
+6.Light Elemental
+7.Wind Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Lightning Bolt
+2: Icewind
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Lightning Bolt
+Ice Wisp recibe 202 de daño de tipo Lightning
+Light Elemental recibe 228 de daño de tipo Lightning
+Wind Elemental recibe 312 de daño de tipo Lightning con debilidad
+Ice Wisp termina con HP:599
+Light Elemental termina con HP:1330
+Wind Elemental termina con HP:2075
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2606/2822 SP:336/342 BP:3
+B-Primrose - HP:4002/4002 SP:498/504 BP:3
+C-Hikari - HP:5781/5781 SP:309/317 BP:2
+D-Castti - HP:5336/5336 SP:426/426 BP:2
+Equipo del enemigo
+A-Ice Wisp - HP:599/801 Shields:1
+B-Light Elemental - HP:1330/1880 Shields:4
+C-Wind Elemental - HP:2075/2496 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ice Wisp
+2.Light Elemental
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heatcore
+3.Primrose
+4.Hikari
+5.Ice Wisp
+6.Light Elemental
+7.Wind Elemental
+----------------------------------------
+Ice Wisp usa Freeze
+Heatcore recibe 135 de daño elemental
+Heatcore termina con HP:2471
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2471/2822 SP:336/342 BP:3
+B-Primrose - HP:4002/4002 SP:498/504 BP:3
+C-Hikari - HP:5781/5781 SP:309/317 BP:2
+D-Castti - HP:5336/5336 SP:426/426 BP:2
+Equipo del enemigo
+A-Ice Wisp - HP:599/801 Shields:1
+B-Light Elemental - HP:1330/1880 Shields:4
+C-Wind Elemental - HP:2075/2496 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heatcore
+3.Primrose
+4.Hikari
+5.Ice Wisp
+6.Light Elemental
+7.Wind Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Heatcore recibe 124 de daño elemental
+Heatcore termina con HP:2347
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2347/2822 SP:336/342 BP:3
+B-Primrose - HP:4002/4002 SP:498/504 BP:3
+C-Hikari - HP:5781/5781 SP:309/317 BP:2
+D-Castti - HP:5336/5336 SP:426/426 BP:2
+Equipo del enemigo
+A-Ice Wisp - HP:599/801 Shields:1
+B-Light Elemental - HP:1330/1880 Shields:4
+C-Wind Elemental - HP:2075/2496 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heatcore
+3.Primrose
+4.Hikari
+5.Ice Wisp
+6.Light Elemental
+7.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Heatcore recibe 174 de daño elemental
+Heatcore termina con HP:2173
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2173/2822 SP:342/342 BP:4
+B-Primrose - HP:4002/4002 SP:498/504 BP:4
+C-Hikari - HP:5781/5781 SP:317/317 BP:3
+D-Castti - HP:5336/5336 SP:426/426 BP:3
+Equipo del enemigo
+A-Ice Wisp - HP:599/801 Shields:1
+B-Light Elemental - HP:1330/1880 Shields:4
+C-Wind Elemental - HP:2075/2496 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heatcore
+3.Primrose
+4.Hikari
+5.Ice Wisp
+6.Light Elemental
+7.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Castti
+4.Hikari
+5.Ice Wisp
+6.Light Elemental
+7.Wind Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2173/2822 SP:342/342 BP:4
+B-Primrose - HP:4002/4002 SP:498/504 BP:4
+C-Hikari - HP:5781/5781 SP:317/317 BP:3
+D-Castti - HP:5336/5336 SP:426/426 BP:3
+Equipo del enemigo
+A-Ice Wisp - HP:599/801 Shields:1
+B-Light Elemental - HP:1330/1880 Shields:4
+C-Wind Elemental - HP:2075/2496 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Primrose
+3.Hikari
+4.Ice Wisp
+5.Light Elemental
+6.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heatcore
+3.Primrose
+4.Hikari
+5.Ice Wisp
+6.Light Elemental
+7.Wind Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Leghold Trap
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Ice Wisp - HP:599/801 Shields:1
+2: Light Elemental - HP:1330/1880 Shields:4
+3: Wind Elemental - HP:2075/2496 Shields:3
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore usa Leghold Trap
+Light Elemental tendrá menor prioridad de turno durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2173/2822 SP:336/342 BP:4
+B-Primrose - HP:4002/4002 SP:498/504 BP:4
+C-Hikari - HP:5781/5781 SP:317/317 BP:3
+D-Castti - HP:5336/5336 SP:426/426 BP:3
+Equipo del enemigo
+A-Ice Wisp - HP:599/801 Shields:1
+B-Light Elemental - HP:1330/1880 Shields:4
+C-Wind Elemental - HP:2075/2496 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Hikari
+3.Ice Wisp
+4.Wind Elemental
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heatcore
+3.Primrose
+4.Hikari
+5.Ice Wisp
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Fireball
+2: Leghold Trap
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Fireball
+Ice Wisp recibe 265 de daño de tipo Fire con debilidad
+Ice Wisp entra en Breaking Point
+Light Elemental recibe 203 de daño de tipo Fire
+Wind Elemental recibe 183 de daño de tipo Fire
+Ice Wisp termina con HP:334
+Light Elemental termina con HP:1127
+Wind Elemental termina con HP:1892
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2173/2822 SP:336/342 BP:4
+B-Primrose - HP:4002/4002 SP:490/504 BP:4
+C-Hikari - HP:5781/5781 SP:317/317 BP:3
+D-Castti - HP:5336/5336 SP:426/426 BP:3
+Equipo del enemigo
+A-Ice Wisp - HP:334/801 Shields:0
+B-Light Elemental - HP:1127/1880 Shields:4
+C-Wind Elemental - HP:1892/2496 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Wind Elemental
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heatcore
+3.Primrose
+4.Hikari
+5.Wind Elemental
+6.Light Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Ice Wisp - HP:334/801 Shields:0
+2: Light Elemental - HP:1127/1880 Shields:4
+3: Wind Elemental - HP:1892/2496 Shields:3
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Light Elemental recibe 178 de daño de tipo Sword
+Light Elemental termina con HP:949
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2173/2822 SP:336/342 BP:4
+B-Primrose - HP:4002/4002 SP:490/504 BP:4
+C-Hikari - HP:5781/5781 SP:317/317 BP:3
+D-Castti - HP:5336/5336 SP:426/426 BP:3
+Equipo del enemigo
+A-Ice Wisp - HP:334/801 Shields:0
+B-Light Elemental - HP:949/1880 Shields:4
+C-Wind Elemental - HP:1892/2496 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heatcore
+3.Primrose
+4.Hikari
+5.Wind Elemental
+6.Light Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Heatcore recibe 174 de daño elemental
+Heatcore termina con HP:1999
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1999/2822 SP:336/342 BP:4
+B-Primrose - HP:4002/4002 SP:490/504 BP:4
+C-Hikari - HP:5781/5781 SP:317/317 BP:3
+D-Castti - HP:5336/5336 SP:426/426 BP:3
+Equipo del enemigo
+A-Ice Wisp - HP:334/801 Shields:0
+B-Light Elemental - HP:949/1880 Shields:4
+C-Wind Elemental - HP:1892/2496 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heatcore
+3.Primrose
+4.Hikari
+5.Wind Elemental
+6.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Heatcore recibe 124 de daño elemental
+Heatcore termina con HP:1875
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1875/2822 SP:342/342 BP:5
+B-Primrose - HP:4002/4002 SP:490/504 BP:5
+C-Hikari - HP:5781/5781 SP:317/317 BP:4
+D-Castti - HP:5336/5336 SP:426/426 BP:4
+Equipo del enemigo
+A-Ice Wisp - HP:334/801 Shields:0
+B-Light Elemental - HP:949/1880 Shields:4
+C-Wind Elemental - HP:1892/2496 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heatcore
+3.Primrose
+4.Hikari
+5.Wind Elemental
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ice Wisp
+2.Heatcore
+3.Primrose
+4.Castti
+5.Hikari
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1875/2822 SP:342/342 BP:5
+B-Primrose - HP:4002/4002 SP:490/504 BP:5
+C-Hikari - HP:5781/5781 SP:317/317 BP:4
+D-Castti - HP:5336/5336 SP:426/426 BP:4
+Equipo del enemigo
+A-Ice Wisp - HP:334/801 Shields:0
+B-Light Elemental - HP:949/1880 Shields:4
+C-Wind Elemental - HP:1892/2496 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Primrose
+3.Hikari
+4.Wind Elemental
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ice Wisp
+2.Castti
+3.Heatcore
+4.Primrose
+5.Hikari
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Ice Wisp - HP:334/801 Shields:0
+2: Light Elemental - HP:949/1880 Shields:4
+3: Wind Elemental - HP:1892/2496 Shields:3
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore ataca
+Light Elemental recibe 0 de daño de tipo Axe
+Light Elemental termina con HP:949
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1875/2822 SP:342/342 BP:5
+B-Primrose - HP:4002/4002 SP:490/504 BP:5
+C-Hikari - HP:5781/5781 SP:317/317 BP:4
+D-Castti - HP:5336/5336 SP:426/426 BP:4
+Equipo del enemigo
+A-Ice Wisp - HP:334/801 Shields:0
+B-Light Elemental - HP:949/1880 Shields:4
+C-Wind Elemental - HP:1892/2496 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Hikari
+3.Wind Elemental
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ice Wisp
+2.Castti
+3.Heatcore
+4.Primrose
+5.Hikari
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1875/2822 SP:342/342 BP:5
+B-Primrose - HP:4002/4002 SP:490/504 BP:5
+C-Hikari - HP:5781/5781 SP:317/317 BP:4
+D-Castti - HP:5336/5336 SP:426/426 BP:4
+Equipo del enemigo
+A-Ice Wisp - HP:334/801 Shields:0
+B-Light Elemental - HP:949/1880 Shields:4
+C-Wind Elemental - HP:1892/2496 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Wind Elemental
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ice Wisp
+2.Primrose
+3.Castti
+4.Heatcore
+5.Hikari
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Lightning Bolt
+2: Icewind
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Lightning Bolt
+Ice Wisp recibe 303 de daño de tipo Lightning
+Light Elemental recibe 228 de daño de tipo Lightning
+Wind Elemental recibe 312 de daño de tipo Lightning con debilidad
+Ice Wisp termina con HP:31
+Light Elemental termina con HP:721
+Wind Elemental termina con HP:1580
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1875/2822 SP:342/342 BP:5
+B-Primrose - HP:4002/4002 SP:490/504 BP:5
+C-Hikari - HP:5781/5781 SP:309/317 BP:4
+D-Castti - HP:5336/5336 SP:426/426 BP:4
+Equipo del enemigo
+A-Ice Wisp - HP:31/801 Shields:0
+B-Light Elemental - HP:721/1880 Shields:4
+C-Wind Elemental - HP:1580/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ice Wisp
+2.Primrose
+3.Castti
+4.Heatcore
+5.Hikari
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Heatcore recibe 174 de daño elemental
+Heatcore termina con HP:1701
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1701/2822 SP:342/342 BP:5
+B-Primrose - HP:4002/4002 SP:490/504 BP:5
+C-Hikari - HP:5781/5781 SP:309/317 BP:4
+D-Castti - HP:5336/5336 SP:426/426 BP:4
+Equipo del enemigo
+A-Ice Wisp - HP:31/801 Shields:0
+B-Light Elemental - HP:721/1880 Shields:4
+C-Wind Elemental - HP:1580/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ice Wisp
+2.Primrose
+3.Castti
+4.Heatcore
+5.Hikari
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Heatcore recibe 124 de daño elemental
+Heatcore termina con HP:1577
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1577/2822 SP:342/342 BP:5
+B-Primrose - HP:4002/4002 SP:490/504 BP:5
+C-Hikari - HP:5781/5781 SP:317/317 BP:5
+D-Castti - HP:5336/5336 SP:426/426 BP:5
+Equipo del enemigo
+A-Ice Wisp - HP:31/801 Shields:1
+B-Light Elemental - HP:721/1880 Shields:4
+C-Wind Elemental - HP:1580/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ice Wisp
+2.Primrose
+3.Castti
+4.Heatcore
+5.Hikari
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Castti
+4.Hikari
+5.Ice Wisp
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Ice Wisp usa Freeze
+Heatcore recibe 135 de daño elemental
+Heatcore termina con HP:1442
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1442/2822 SP:342/342 BP:5
+B-Primrose - HP:4002/4002 SP:490/504 BP:5
+C-Hikari - HP:5781/5781 SP:317/317 BP:5
+D-Castti - HP:5336/5336 SP:426/426 BP:5
+Equipo del enemigo
+A-Ice Wisp - HP:31/801 Shields:1
+B-Light Elemental - HP:721/1880 Shields:4
+C-Wind Elemental - HP:1580/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Castti
+3.Heatcore
+4.Hikari
+5.Wind Elemental
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Castti
+4.Hikari
+5.Ice Wisp
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Ice Wisp - HP:31/801 Shields:1
+2: Light Elemental - HP:721/1880 Shields:4
+3: Wind Elemental - HP:1580/2496 Shields:2
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Wind Elemental recibe 132 de daño de tipo Dagger
+Wind Elemental termina con HP:1448
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1442/2822 SP:342/342 BP:5
+B-Primrose - HP:4002/4002 SP:490/504 BP:5
+C-Hikari - HP:5781/5781 SP:317/317 BP:5
+D-Castti - HP:5336/5336 SP:426/426 BP:5
+Equipo del enemigo
+A-Ice Wisp - HP:31/801 Shields:1
+B-Light Elemental - HP:721/1880 Shields:4
+C-Wind Elemental - HP:1448/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heatcore
+3.Hikari
+4.Wind Elemental
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Castti
+4.Hikari
+5.Ice Wisp
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1442/2822 SP:342/342 BP:5
+B-Primrose - HP:4002/4002 SP:490/504 BP:5
+C-Hikari - HP:5781/5781 SP:317/317 BP:5
+D-Castti - HP:5336/5336 SP:426/426 BP:5
+Equipo del enemigo
+A-Ice Wisp - HP:31/801 Shields:1
+B-Light Elemental - HP:721/1880 Shields:4
+C-Wind Elemental - HP:1448/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Hikari
+3.Wind Elemental
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heatcore
+3.Primrose
+4.Hikari
+5.Ice Wisp
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1442/2822 SP:342/342 BP:5
+B-Primrose - HP:4002/4002 SP:490/504 BP:5
+C-Hikari - HP:5781/5781 SP:317/317 BP:5
+D-Castti - HP:5336/5336 SP:426/426 BP:5
+Equipo del enemigo
+A-Ice Wisp - HP:31/801 Shields:1
+B-Light Elemental - HP:721/1880 Shields:4
+C-Wind Elemental - HP:1448/2496 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Wind Elemental
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Castti
+3.Primrose
+4.Hikari
+5.Ice Wisp
+6.Wind Elemental
+7.Light Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Lightning Bolt
+2: Icewind
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Icewind
+Ice Wisp recibe 202 de daño de tipo Ice
+Light Elemental recibe 342 de daño de tipo Ice con debilidad
+Wind Elemental recibe 312 de daño de tipo Ice con debilidad
+Ice Wisp termina con HP:0
+Light Elemental termina con HP:379
+Wind Elemental termina con HP:1136
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1442/2822 SP:342/342 BP:5
+B-Primrose - HP:4002/4002 SP:490/504 BP:5
+C-Hikari - HP:5781/5781 SP:309/317 BP:5
+D-Castti - HP:5336/5336 SP:426/426 BP:5
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Light Elemental - HP:379/1880 Shields:3
+C-Wind Elemental - HP:1136/2496 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Castti
+3.Primrose
+4.Hikari
+5.Wind Elemental
+6.Light Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Heatcore se defiende
+Heatcore recibe 87 de daño elemental
+Heatcore termina con HP:1355
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1355/2822 SP:342/342 BP:5
+B-Primrose - HP:4002/4002 SP:490/504 BP:5
+C-Hikari - HP:5781/5781 SP:309/317 BP:5
+D-Castti - HP:5336/5336 SP:426/426 BP:5
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Light Elemental - HP:379/1880 Shields:3
+C-Wind Elemental - HP:1136/2496 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Castti
+3.Primrose
+4.Hikari
+5.Wind Elemental
+6.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Heatcore se defiende
+Heatcore recibe 62 de daño elemental
+Heatcore termina con HP:1293
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1293/2822 SP:342/342 BP:5
+B-Primrose - HP:4002/4002 SP:490/504 BP:5
+C-Hikari - HP:5781/5781 SP:317/317 BP:5
+D-Castti - HP:5336/5336 SP:426/426 BP:5
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Light Elemental - HP:379/1880 Shields:3
+C-Wind Elemental - HP:1136/2496 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Castti
+3.Primrose
+4.Hikari
+5.Wind Elemental
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Castti
+4.Hikari
+5.Wind Elemental
+6.Light Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Leghold Trap
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Light Elemental - HP:379/1880 Shields:3
+2: Wind Elemental - HP:1136/2496 Shields:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore usa Leghold Trap
+Wind Elemental tendrá menor prioridad de turno durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1293/2822 SP:336/342 BP:5
+B-Primrose - HP:4002/4002 SP:490/504 BP:5
+C-Hikari - HP:5781/5781 SP:317/317 BP:5
+D-Castti - HP:5336/5336 SP:426/426 BP:5
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Light Elemental - HP:379/1880 Shields:3
+C-Wind Elemental - HP:1136/2496 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Primrose
+3.Hikari
+4.Light Elemental
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Castti
+4.Hikari
+5.Light Elemental
+6.Wind Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Light Elemental - HP:379/1880 Shields:3
+2: Wind Elemental - HP:1136/2496 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Light Elemental recibe 121 de daño de tipo Axe
+Light Elemental termina con HP:258
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1293/2822 SP:336/342 BP:5
+B-Primrose - HP:4002/4002 SP:490/504 BP:5
+C-Hikari - HP:5781/5781 SP:317/317 BP:5
+D-Castti - HP:5336/5336 SP:426/426 BP:5
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Light Elemental - HP:258/1880 Shields:3
+C-Wind Elemental - HP:1136/2496 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Hikari
+3.Light Elemental
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Castti
+4.Hikari
+5.Light Elemental
+6.Wind Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Fireball
+2: Leghold Trap
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Fireball
+Light Elemental recibe 203 de daño de tipo Fire
+Wind Elemental recibe 183 de daño de tipo Fire
+Light Elemental termina con HP:55
+Wind Elemental termina con HP:953
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1293/2822 SP:336/342 BP:5
+B-Primrose - HP:4002/4002 SP:482/504 BP:5
+C-Hikari - HP:5781/5781 SP:317/317 BP:5
+D-Castti - HP:5336/5336 SP:426/426 BP:5
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Light Elemental - HP:55/1880 Shields:3
+C-Wind Elemental - HP:953/2496 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Light Elemental
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Castti
+4.Hikari
+5.Light Elemental
+6.Wind Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1293/2822 SP:336/342 BP:5
+B-Primrose - HP:4002/4002 SP:482/504 BP:5
+C-Hikari - HP:5781/5781 SP:317/317 BP:5
+D-Castti - HP:5336/5336 SP:426/426 BP:5
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Light Elemental - HP:55/1880 Shields:3
+C-Wind Elemental - HP:953/2496 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heatcore
+3.Primrose
+4.Castti
+5.Light Elemental
+6.Wind Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Heatcore recibe 124 de daño elemental
+Heatcore termina con HP:1169
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:1169/2822 SP:336/342 BP:5
+B-Primrose - HP:4002/4002 SP:482/504 BP:5
+C-Hikari - HP:5781/5781 SP:317/317 BP:5
+D-Castti - HP:5336/5336 SP:426/426 BP:5
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Light Elemental - HP:55/1880 Shields:3
+C-Wind Elemental - HP:953/2496 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Heatcore
+3.Primrose
+4.Castti
+5.Light Elemental
+6.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Heatcore recibe 174 de daño elemental
+Heatcore termina con HP:995
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:995/2822 SP:342/342 BP:5
+B-Primrose - HP:4002/4002 SP:482/504 BP:5
+C-Hikari - HP:5781/5781 SP:317/317 BP:5
+D-Castti - HP:5336/5336 SP:426/426 BP:5
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Light Elemental - HP:55/1880 Shields:3
+C-Wind Elemental - HP:953/2496 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Heatcore
+3.Primrose
+4.Castti
+5.Light Elemental
+6.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Castti
+4.Hikari
+5.Wind Elemental
+6.Light Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Light Elemental - HP:55/1880 Shields:3
+2: Wind Elemental - HP:953/2496 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Light Elemental recibe 178 de daño de tipo Sword
+Light Elemental termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:995/2822 SP:342/342 BP:5
+B-Primrose - HP:4002/4002 SP:482/504 BP:5
+C-Hikari - HP:5781/5781 SP:317/317 BP:5
+D-Castti - HP:5336/5336 SP:426/426 BP:5
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Light Elemental - HP:0/1880 Shields:3
+C-Wind Elemental - HP:953/2496 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Primrose
+3.Castti
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Castti
+4.Hikari
+5.Wind Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:995/2822 SP:342/342 BP:5
+B-Primrose - HP:4002/4002 SP:482/504 BP:5
+C-Hikari - HP:5781/5781 SP:317/317 BP:5
+D-Castti - HP:5336/5336 SP:426/426 BP:5
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Light Elemental - HP:0/1880 Shields:3
+C-Wind Elemental - HP:953/2496 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Castti
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Castti
+4.Hikari
+5.Wind Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Fireball
+2: Leghold Trap
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Wind Elemental - HP:953/2496 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Leghold Trap
+Wind Elemental tendrá menor prioridad de turno durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:995/2822 SP:342/342 BP:5
+B-Primrose - HP:4002/4002 SP:476/504 BP:5
+C-Hikari - HP:5781/5781 SP:317/317 BP:5
+D-Castti - HP:5336/5336 SP:426/426 BP:5
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Light Elemental - HP:0/1880 Shields:3
+C-Wind Elemental - HP:953/2496 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Castti
+4.Hikari
+5.Wind Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:995/2822 SP:342/342 BP:5
+B-Primrose - HP:4002/4002 SP:476/504 BP:5
+C-Hikari - HP:5781/5781 SP:317/317 BP:5
+D-Castti - HP:5336/5336 SP:426/426 BP:5
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Light Elemental - HP:0/1880 Shields:3
+C-Wind Elemental - HP:953/2496 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Castti
+3.Primrose
+4.Hikari
+5.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Heatcore se defiende
+Heatcore recibe 87 de daño elemental
+Heatcore termina con HP:908
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:908/2822 SP:342/342 BP:5
+B-Primrose - HP:4002/4002 SP:476/504 BP:5
+C-Hikari - HP:5781/5781 SP:317/317 BP:5
+D-Castti - HP:5336/5336 SP:426/426 BP:5
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Light Elemental - HP:0/1880 Shields:3
+C-Wind Elemental - HP:953/2496 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Castti
+3.Primrose
+4.Hikari
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Castti
+4.Hikari
+5.Wind Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Wind Elemental - HP:953/2496 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore ataca
+Wind Elemental recibe 0 de daño de tipo Bow
+Wind Elemental termina con HP:953
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:908/2822 SP:342/342 BP:5
+B-Primrose - HP:4002/4002 SP:476/504 BP:5
+C-Hikari - HP:5781/5781 SP:317/317 BP:5
+D-Castti - HP:5336/5336 SP:426/426 BP:5
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Light Elemental - HP:0/1880 Shields:3
+C-Wind Elemental - HP:953/2496 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Primrose
+3.Hikari
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Castti
+4.Hikari
+5.Wind Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Spearhead
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Wind Elemental - HP:953/2496 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Spearhead
+Wind Elemental recibe 128 de daño de tipo Spear
+Wind Elemental termina con HP:825
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:908/2822 SP:342/342 BP:5
+B-Primrose - HP:4002/4002 SP:476/504 BP:5
+C-Hikari - HP:5781/5781 SP:317/317 BP:5
+D-Castti - HP:5336/5336 SP:420/426 BP:5
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Light Elemental - HP:0/1880 Shields:3
+C-Wind Elemental - HP:825/2496 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Hikari
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heatcore
+3.Primrose
+4.Hikari
+5.Wind Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Fireball
+2: Leghold Trap
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Fireball
+Wind Elemental recibe 183 de daño de tipo Fire
+Wind Elemental termina con HP:642
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:908/2822 SP:342/342 BP:5
+B-Primrose - HP:4002/4002 SP:468/504 BP:5
+C-Hikari - HP:5781/5781 SP:317/317 BP:5
+D-Castti - HP:5336/5336 SP:420/426 BP:5
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Light Elemental - HP:0/1880 Shields:3
+C-Wind Elemental - HP:642/2496 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heatcore
+3.Primrose
+4.Hikari
+5.Wind Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Wind Elemental - HP:642/2496 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Wind Elemental recibe 109 de daño de tipo Spear
+Wind Elemental termina con HP:533
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:908/2822 SP:342/342 BP:5
+B-Primrose - HP:4002/4002 SP:468/504 BP:5
+C-Hikari - HP:5781/5781 SP:317/317 BP:5
+D-Castti - HP:5336/5336 SP:420/426 BP:5
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Light Elemental - HP:0/1880 Shields:3
+C-Wind Elemental - HP:533/2496 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Heatcore
+3.Primrose
+4.Hikari
+5.Wind Elemental
+----------------------------------------
+Wind Elemental usa Windshot
+Heatcore recibe 174 de daño elemental
+Heatcore termina con HP:734
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:734/2822 SP:342/342 BP:5
+B-Primrose - HP:4002/4002 SP:468/504 BP:5
+C-Hikari - HP:5781/5781 SP:317/317 BP:5
+D-Castti - HP:5336/5336 SP:426/426 BP:5
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Light Elemental - HP:0/1880 Shields:3
+C-Wind Elemental - HP:533/2496 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heatcore
+3.Primrose
+4.Hikari
+5.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Castti
+4.Hikari
+5.Wind Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Wind Elemental - HP:533/2496 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Wind Elemental recibe 52 de daño de tipo Axe
+Wind Elemental termina con HP:481
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:734/2822 SP:342/342 BP:5
+B-Primrose - HP:4002/4002 SP:468/504 BP:5
+C-Hikari - HP:5781/5781 SP:317/317 BP:5
+D-Castti - HP:5336/5336 SP:426/426 BP:5
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Light Elemental - HP:0/1880 Shields:3
+C-Wind Elemental - HP:481/2496 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Primrose
+3.Hikari
+4.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Castti
+4.Hikari
+5.Wind Elemental
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:734/2822 SP:342/342 BP:5
+B-Primrose - HP:4002/4002 SP:468/504 BP:5
+C-Hikari - HP:5781/5781 SP:317/317 BP:5
+D-Castti - HP:5336/5336 SP:426/426 BP:5
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Light Elemental - HP:0/1880 Shields:3
+C-Wind Elemental - HP:481/2496 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Hikari
+3.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Castti
+4.Hikari
+5.Wind Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:734/2822 SP:342/342 BP:5
+B-Primrose - HP:4002/4002 SP:468/504 BP:5
+C-Hikari - HP:5781/5781 SP:317/317 BP:5
+D-Castti - HP:5336/5336 SP:426/426 BP:5
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Light Elemental - HP:0/1880 Shields:3
+C-Wind Elemental - HP:481/2496 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Wind Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Primrose
+3.Castti
+4.Hikari
+5.Wind Elemental
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Lightning Bolt
+2: Icewind
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Lightning Bolt
+Wind Elemental recibe 312 de daño de tipo Lightning con debilidad
+Wind Elemental entra en Breaking Point
+Wind Elemental termina con HP:169
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:734/2822 SP:342/342 BP:5
+B-Primrose - HP:4002/4002 SP:468/504 BP:5
+C-Hikari - HP:5781/5781 SP:317/317 BP:5
+D-Castti - HP:5336/5336 SP:426/426 BP:5
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Light Elemental - HP:0/1880 Shields:3
+C-Wind Elemental - HP:169/2496 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Primrose
+3.Castti
+4.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wind Elemental
+2.Heatcore
+3.Primrose
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Wind Elemental - HP:169/2496 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore ataca
+Wind Elemental recibe 0 de daño de tipo Bow
+Wind Elemental termina con HP:169
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:734/2822 SP:342/342 BP:5
+B-Primrose - HP:4002/4002 SP:468/504 BP:5
+C-Hikari - HP:5781/5781 SP:317/317 BP:5
+D-Castti - HP:5336/5336 SP:426/426 BP:5
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Light Elemental - HP:0/1880 Shields:3
+C-Wind Elemental - HP:169/2496 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Castti
+3.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wind Elemental
+2.Heatcore
+3.Primrose
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:734/2822 SP:342/342 BP:5
+B-Primrose - HP:4002/4002 SP:468/504 BP:5
+C-Hikari - HP:5781/5781 SP:317/317 BP:5
+D-Castti - HP:5336/5336 SP:426/426 BP:5
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Light Elemental - HP:0/1880 Shields:3
+C-Wind Elemental - HP:169/2496 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wind Elemental
+2.Primrose
+3.Heatcore
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Wind Elemental - HP:169/2496 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Wind Elemental recibe 78 de daño de tipo Axe
+Wind Elemental termina con HP:91
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:734/2822 SP:342/342 BP:5
+B-Primrose - HP:4002/4002 SP:468/504 BP:5
+C-Hikari - HP:5781/5781 SP:317/317 BP:5
+D-Castti - HP:5336/5336 SP:426/426 BP:5
+Equipo del enemigo
+A-Ice Wisp - HP:0/801 Shields:1
+B-Light Elemental - HP:0/1880 Shields:3
+C-Wind Elemental - HP:91/2496 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Wind Elemental
+2.Primrose
+3.Heatcore
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Lightning Bolt
+2: Icewind
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Icewind
+Wind Elemental recibe 417 de daño de tipo Ice con debilidad
+Wind Elemental termina con HP:0
+----------------------------------------
+Gana equipo del jugador

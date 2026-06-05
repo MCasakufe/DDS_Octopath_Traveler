@@ -1,0 +1,315 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+INPUT: 7
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:3557/3557 SP:541/541 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Albino Bat - HP:1896/1896 Shields:4
+B-Horned Fly - HP:1205/1205 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Osvald
+3.Horned Fly
+4.Albino Bat
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Osvald
+3.Horned Fly
+4.Albino Bat
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Albino Bat - HP:1896/1896 Shields:4
+2: Horned Fly - HP:1205/1205 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Albino Bat recibe 138 de daño de tipo Dagger
+Albino Bat termina con HP:1758
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:3557/3557 SP:541/541 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Albino Bat - HP:1758/1896 Shields:4
+B-Horned Fly - HP:1205/1205 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Horned Fly
+3.Albino Bat
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Osvald
+3.Horned Fly
+4.Albino Bat
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Albino Bat - HP:1758/1896 Shields:4
+2: Horned Fly - HP:1205/1205 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Albino Bat recibe 28 de daño de tipo Stave con debilidad
+Albino Bat termina con HP:1730
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:3557/3557 SP:541/541 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Albino Bat - HP:1730/1896 Shields:3
+B-Horned Fly - HP:1205/1205 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Horned Fly
+2.Albino Bat
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Osvald
+3.Horned Fly
+4.Albino Bat
+----------------------------------------
+Horned Fly usa Attack
+Therion recibe 257 de daño físico
+Therion termina con HP:4190
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:3557/3557 SP:541/541 BP:1
+B-Therion - HP:4190/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Albino Bat - HP:1730/1896 Shields:3
+B-Horned Fly - HP:1205/1205 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Albino Bat
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Osvald
+3.Horned Fly
+4.Albino Bat
+----------------------------------------
+Albino Bat usa Flap
+Therion recibe 286 de daño físico
+Albino Bat tendrá Increased Speed durante 2 rondas
+Therion termina con HP:3904
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:3557/3557 SP:541/541 BP:2
+B-Therion - HP:3904/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Albino Bat - HP:1730/1896 Shields:3
+B-Horned Fly - HP:1205/1205 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Osvald
+3.Albino Bat
+4.Horned Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Osvald
+3.Horned Fly
+4.Albino Bat
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Albino Bat - HP:1730/1896 Shields:3
+2: Horned Fly - HP:1205/1205 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Albino Bat recibe 138 de daño de tipo Dagger
+Albino Bat termina con HP:1592
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:3557/3557 SP:541/541 BP:2
+B-Therion - HP:3904/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Albino Bat - HP:1592/1896 Shields:3
+B-Horned Fly - HP:1205/1205 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Albino Bat
+3.Horned Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Osvald
+3.Horned Fly
+4.Albino Bat
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Albino Bat - HP:1592/1896 Shields:3
+2: Horned Fly - HP:1205/1205 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Horned Fly recibe 23 de daño de tipo Stave
+Horned Fly termina con HP:1182
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:3557/3557 SP:541/541 BP:2
+B-Therion - HP:3904/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Albino Bat - HP:1592/1896 Shields:3
+B-Horned Fly - HP:1182/1205 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Albino Bat
+2.Horned Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Osvald
+3.Horned Fly
+4.Albino Bat
+----------------------------------------
+Albino Bat usa Flap
+Therion recibe 286 de daño físico
+Albino Bat tendrá Increased Speed durante 2 rondas
+Therion termina con HP:3618
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:3557/3557 SP:541/541 BP:2
+B-Therion - HP:3618/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Albino Bat - HP:1592/1896 Shields:3
+B-Horned Fly - HP:1182/1205 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Horned Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Osvald
+3.Albino Bat
+4.Horned Fly
+----------------------------------------
+Horned Fly usa Attack
+Therion recibe 257 de daño físico
+Therion termina con HP:3361
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:3557/3557 SP:541/541 BP:3
+B-Therion - HP:3361/4447 SP:332/332 BP:3
+Equipo del enemigo
+A-Albino Bat - HP:1592/1896 Shields:3
+B-Horned Fly - HP:1182/1205 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Osvald
+3.Albino Bat
+4.Horned Fly
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Osvald
+3.Albino Bat
+4.Horned Fly
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo
