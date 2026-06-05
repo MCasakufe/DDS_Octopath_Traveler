@@ -17,6 +17,11 @@ internal sealed class PassiveSkillProfileBuilder
     private bool _hasInspiration;
     private bool _hasHeightenedHealing;
     private bool _hasDivineAura;
+    private bool _hasSavingGrace;
+    private bool _hasSecondServing;
+    private bool _hasElementalEdge;
+    private bool _hasPhysicalProwess;
+    private bool _hasIntimidation;
 
     public PassiveSkillProfileBuilder(IReadOnlyDictionary<string, PassiveStatBonus> passiveBonusesByName)
     {
@@ -39,6 +44,11 @@ internal sealed class PassiveSkillProfileBuilder
         _hasInspiration = _hasInspiration || passiveSkillName == "Inspiration";
         _hasHeightenedHealing = _hasHeightenedHealing || passiveSkillName == "Heightened Healing";
         _hasDivineAura = _hasDivineAura || passiveSkillName == "Divine Aura";
+        _hasSavingGrace = _hasSavingGrace || passiveSkillName == "Saving Grace";
+        _hasSecondServing = _hasSecondServing || passiveSkillName == "Second Serving";
+        _hasElementalEdge = _hasElementalEdge || passiveSkillName == "Elemental Edge";
+        _hasPhysicalProwess = _hasPhysicalProwess || passiveSkillName == "Physical Prowess";
+        _hasIntimidation = _hasIntimidation || passiveSkillName == "Intimidation";
     }
 
     public PassiveSkillProfile Build()
@@ -56,7 +66,12 @@ internal sealed class PassiveSkillProfileBuilder
             _hasEncore,
             _hasInspiration,
             _hasHeightenedHealing,
-            _hasDivineAura);
+            _hasDivineAura,
+            _hasSavingGrace,
+            _hasSecondServing,
+            _hasElementalEdge,
+            _hasPhysicalProwess,
+            _hasIntimidation);
 
     private void AddStatBonus(string passiveSkillName)
     {

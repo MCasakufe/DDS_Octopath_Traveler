@@ -4,15 +4,24 @@ internal sealed class MercyStrikeTravelerSkillEffect : TravelerSkillEffect
 {
     public override void Apply(TravelerSkillEffectContext effectContext)
     {
-        BeastCombatUnit? target = effectContext.TargetSelection.SingleBeastTarget;
-        if (target is null)
+        IReadOnlyList<BeastCombatUnit> targets = effectContext.TargetSelection.BeastTargets;
+        if (targets.Count == 0)
             return;
 
         TravelerSkillDamageProfile damageProfile = BuildSkillDamageProfile(effectContext);
+        foreach (BeastCombatUnit target in targets)
+            ApplySkillActivations(effectContext, target, damageProfile);
+
+        AddCurrentHpLines(effectContext, targets);
+    }
+
+    private static void ApplySkillActivations(
+        TravelerSkillEffectContext effectContext,
+        BeastCombatUnit target,
+        TravelerSkillDamageProfile damageProfile)
+    {
         for (int activationIndex = 0; activationIndex < effectContext.NonDivineSkillActivationCount; activationIndex++)
             ApplyDamage(effectContext, target, damageProfile);
-
-        AddCurrentHpLines(effectContext, [target]);
     }
 
     private static void ApplyDamage(

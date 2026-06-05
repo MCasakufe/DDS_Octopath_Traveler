@@ -14,4 +14,9 @@ public sealed record PassiveSkillProfile(
     bool HasEncore,
     bool HasInspiration,
     bool HasHeightenedHealing,
-    bool HasDivineAura);
+    bool HasDivineAura,
+    bool HasSavingGrace,
+    bool HasSecondServing,
+    bool HasElementalEdge,
+    bool HasPhysicalProwess,
+    bool HasIntimidation);

@@ -84,9 +84,12 @@ internal abstract class TravelerSkillEffect
 
     protected static int CalculateHealing(TravelerSkillEffectContext effectContext)
     {
-        double rawHealing = Math.Floor(effectContext.Traveler.ElemDef * CalculateBoostedModifier(effectContext));
+        double rawHealing = Math.Floor(CalculateRawHealing(effectContext));
         return Math.Max(MinimumHealing, (int)rawHealing);
     }
+
+    protected static double CalculateRawHealing(TravelerSkillEffectContext effectContext)
+        => effectContext.Traveler.ElemDef * CalculateBoostedModifier(effectContext);
 
     protected static int CalculateMissingHpPercentage(TravelerCombatUnit traveler)
     {

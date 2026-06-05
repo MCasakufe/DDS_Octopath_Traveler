@@ -57,9 +57,13 @@ public sealed class TravelerCombatUnit
         HasInspiration = passiveSkillProfile.HasInspiration;
         HasHeightenedHealing = passiveSkillProfile.HasHeightenedHealing;
         HasDivineAura = passiveSkillProfile.HasDivineAura;
+        HasSavingGrace = passiveSkillProfile.HasSavingGrace;
+        HasSecondServing = passiveSkillProfile.HasSecondServing;
+        HasIntimidation = passiveSkillProfile.HasIntimidation;
         HasStatSwap = passiveSkillProfile.HasStatSwap;
         PhysAtkPassiveBonus = passiveSkillProfile.StatBonuses.PhysAtkBonus;
         ElemAtkPassiveBonus = passiveSkillProfile.StatBonuses.ElemAtkBonus;
+        ApplyPermanentPassiveStatuses(passiveSkillProfile);
     }
 
     public int MaxSp { get; }
@@ -105,6 +109,12 @@ public sealed class TravelerCombatUnit
     public bool HasHeightenedHealing { get; }
 
     public bool HasDivineAura { get; }
+
+    public bool HasSavingGrace { get; }
+
+    public bool HasSecondServing { get; }
+
+    public bool HasIntimidation { get; }
 
     public bool HasTriggeredEncore { get; private set; }
 
@@ -156,12 +166,21 @@ public sealed class TravelerCombatUnit
     public int RecoverHp(int healingAmount)
     {
         int normalizedHealingAmount = Math.Max(MinimumRemainingStatValue, healingAmount);
+        if (HasSavingGrace)
+        {
+            CurrentHp += normalizedHealingAmount;
+            return normalizedHealingAmount;
+        }
+
         int recoveredHp = Math.Min(normalizedHealingAmount, MaxHp - CurrentHp);
         CurrentHp += recoveredHp;
         return recoveredHp;
     }
 
     public int CalculateReceivedHealing(int healingAmount)
+        => CalculateReceivedHealing(healingAmount, healingAmount);
+
+    public int CalculateReceivedHealing(double rawHealingAmount, int healingAmount)
     {
         if (!HasHeightenedHealing)
             return healingAmount;
@@ -171,6 +190,9 @@ public sealed class TravelerCombatUnit
 
         if (healingAmount <= RoundedSmallHeightenedHealingMaximum)
             return (int)Math.Round(healingAmount * HeightenedHealingPercentage / (double)PercentageDivisor);
+
+        if (HasFractionalHealing(rawHealingAmount))
+            return (int)Math.Floor(rawHealingAmount * HeightenedHealingPercentage / PercentageDivisor);
 
         return healingAmount * HeightenedHealingPercentage / PercentageDivisor;
     }
@@ -267,6 +289,27 @@ public sealed class TravelerCombatUnit
         return skillDefinition;
     }
 
+    private void ApplyPermanentPassiveStatuses(PassiveSkillProfile passiveSkillProfile)
+    {
+        if (passiveSkillProfile.HasElementalEdge)
+            ApplyElementalEdgeStatuses();
+
+        if (passiveSkillProfile.HasPhysicalProwess)
+            ApplyPhysicalProwessStatuses();
+    }
+
+    private void ApplyElementalEdgeStatuses()
+    {
+        ApplyPermanentStatusEffect(UnitStatusEffectKind.IncreasedElementalAttack);
+        ApplyPermanentStatusEffect(UnitStatusEffectKind.IncreasedElementalDefense);
+    }
+
+    private void ApplyPhysicalProwessStatuses()
+    {
+        ApplyPermanentStatusEffect(UnitStatusEffectKind.IncreasedPhysicalAttack);
+        ApplyPermanentStatusEffect(UnitStatusEffectKind.IncreasedPhysicalDefense);
+    }
+
     private static int ResolveFinalPhysAtk(
         TravelerDefinition travelerDefinition,
         PassiveSkillProfile passiveSkillProfile)
@@ -300,4 +343,7 @@ public sealed class TravelerCombatUnit
         => currentDurationRounds > MinimumRemainingStatValue
             ? currentDurationRounds + durationRounds
             : durationRounds;
+
+    private static bool HasFractionalHealing(double rawHealingAmount)
+        => rawHealingAmount % 1 > 0;
 }

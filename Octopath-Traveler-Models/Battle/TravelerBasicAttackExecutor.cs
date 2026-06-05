@@ -3,6 +3,7 @@ namespace Octopath_Traveler_Models.Battle;
 public sealed class TravelerBasicAttackExecutor
 {
     private const int BasicAttackBaseHitCount = 1;
+    private const int SecondServingBonusHitCount = 1;
     private const int MinimumUsedBp = 0;
     private const int InspirationRecoveryPercentage = 1;
     private const int PercentageDivisor = 100;
@@ -52,7 +53,7 @@ public sealed class TravelerBasicAttackExecutor
     private IReadOnlyList<TravelerBasicAttackHit> ApplyHits(TravelerBasicAttackExecutionRequest executionRequest)
     {
         List<TravelerBasicAttackHit> hits = [];
-        for (int hitIndex = 0; hitIndex < CalculateHitCount(executionRequest.UsedBp); hitIndex++)
+        for (int hitIndex = 0; hitIndex < CalculateHitCount(executionRequest); hitIndex++)
             hits.Add(ApplyHit(executionRequest));
 
         return hits;
@@ -64,7 +65,17 @@ public sealed class TravelerBasicAttackExecutor
             executionRequest.Target,
             executionRequest.WeaponType));
 
-    private static int CalculateHitCount(int usedBp)
-        => BasicAttackBaseHitCount + Math.Max(MinimumUsedBp, usedBp);
+    private static int CalculateHitCount(TravelerBasicAttackExecutionRequest executionRequest)
+        => BasicAttackBaseHitCount
+           + Math.Max(MinimumUsedBp, executionRequest.UsedBp)
+           + CalculateSecondServingHitCount(executionRequest.Traveler);
+
+    private static int CalculateSecondServingHitCount(TravelerCombatUnit traveler)
+        => traveler.HasSecondServing && IsEven(traveler.CurrentHp)
+            ? SecondServingBonusHitCount
+            : 0;
+
+    private static bool IsEven(int value)
+        => value % 2 == 0;
 }
 

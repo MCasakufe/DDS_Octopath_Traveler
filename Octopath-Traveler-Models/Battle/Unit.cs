@@ -12,6 +12,7 @@ public abstract class Unit
     private const int PassiveDurationBonusRounds = 1;
 
     private readonly Dictionary<UnitStatusEffectKind, int> _statusEffectDurations = new();
+    private readonly HashSet<UnitStatusEffectKind> _permanentStatusEffects = new();
 
     protected Unit(
         string name,
@@ -57,6 +58,9 @@ public abstract class Unit
     public IReadOnlyList<UnitStatusEffect> ActiveStatusEffects => _statusEffectDurations
         .OrderBy(effectDuration => effectDuration.Key)
         .Select(effectDuration => new UnitStatusEffect(effectDuration.Key, effectDuration.Value))
+        .Concat(_permanentStatusEffects
+            .OrderBy(statusEffectKind => statusEffectKind)
+            .Select(statusEffectKind => new UnitStatusEffect(statusEffectKind, NoRounds)))
         .ToList();
 
     public void ApplyStatusEffect(UnitStatusEffectKind statusEffectKind, int durationRounds)
@@ -69,6 +73,9 @@ public abstract class Unit
         else
             _statusEffectDurations[statusEffectKind] = durationRounds;
     }
+
+    public void ApplyPermanentStatusEffect(UnitStatusEffectKind statusEffectKind)
+        => _permanentStatusEffects.Add(statusEffectKind);
 
     public void ApplyStatusEffect(
         UnitStatusEffectKind statusEffectKind,
@@ -90,10 +97,13 @@ public abstract class Unit
     }
 
     public bool HasStatusEffect(UnitStatusEffectKind statusEffectKind)
-        => _statusEffectDurations.ContainsKey(statusEffectKind);
+        => _statusEffectDurations.ContainsKey(statusEffectKind)
+            || _permanentStatusEffects.Contains(statusEffectKind);
 
     public int GetStatusEffectDuration(UnitStatusEffectKind statusEffectKind)
-        => _statusEffectDurations.GetValueOrDefault(statusEffectKind);
+        => _permanentStatusEffects.Contains(statusEffectKind)
+            ? NoRounds
+            : _statusEffectDurations.GetValueOrDefault(statusEffectKind);
 
     public double GetPhysicalAttackDamageMultiplier()
         => CalculateStatusDamageMultiplier(

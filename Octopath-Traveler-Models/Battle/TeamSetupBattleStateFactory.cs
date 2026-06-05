@@ -7,6 +7,7 @@ public sealed class TeamSetupBattleStateFactory
 {
     private const int InitialBattleRoundNumber = 1;
     private const int FirstBoardSlotIndex = 0;
+    private const int IntimidationDurationRounds = 2;
 
     private readonly RuntimeDataCatalogProvider _runtimeDataCatalogProvider;
     private readonly PassiveSkillProfileFactory _passiveSkillProfileFactory = new();
@@ -22,6 +23,7 @@ public sealed class TeamSetupBattleStateFactory
 
         IReadOnlyList<TravelerCombatUnit> travelerTeam = CreateTravelerTeam(teamSetup, runtimeDataCatalog);
         IReadOnlyList<BeastCombatUnit> beastTeam = CreateBeastTeam(teamSetup, runtimeDataCatalog);
+        ApplyIntimidationIfNeeded(travelerTeam, beastTeam);
         return new BattleState(InitialBattleRoundNumber, travelerTeam, beastTeam);
     }
 
@@ -81,5 +83,31 @@ public sealed class TeamSetupBattleStateFactory
 
         return beastTeam;
     }
+
+    private static void ApplyIntimidationIfNeeded(
+        IReadOnlyList<TravelerCombatUnit> travelerTeam,
+        IReadOnlyList<BeastCombatUnit> beastTeam)
+    {
+        if (!CanApplyIntimidation(travelerTeam))
+            return;
+
+        foreach (BeastCombatUnit beast in beastTeam)
+            ApplyIntimidationStatuses(beast);
+    }
+
+    private static bool CanApplyIntimidation(IReadOnlyList<TravelerCombatUnit> travelerTeam)
+        => travelerTeam.Count > FirstBoardSlotIndex
+           && travelerTeam.Any(traveler => traveler.HasIntimidation)
+           && IsEven(travelerTeam[FirstBoardSlotIndex].CurrentHp)
+           && IsEven(travelerTeam[FirstBoardSlotIndex].CurrentSp);
+
+    private static void ApplyIntimidationStatuses(BeastCombatUnit beast)
+    {
+        beast.ApplyStatusEffect(UnitStatusEffectKind.DecreasedPhysicalDefense, IntimidationDurationRounds);
+        beast.ApplyStatusEffect(UnitStatusEffectKind.DecreasedElementalDefense, IntimidationDurationRounds);
+    }
+
+    private static bool IsEven(int value)
+        => value % 2 == 0;
 }
 
