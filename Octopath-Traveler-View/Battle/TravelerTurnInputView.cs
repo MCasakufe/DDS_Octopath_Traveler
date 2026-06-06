@@ -193,7 +193,9 @@ public sealed class TravelerTurnInputView
         return selectedIndex is null ? null : selectableBeasts[selectedIndex.Value];
     }
 
-    private TravelerCombatUnit? SelectTravelerTarget(string travelerName, IReadOnlyList<TravelerCombatUnit> selectableTravelers)
+    private TravelerCombatUnit? SelectTravelerTarget(
+        string travelerName,
+        IReadOnlyList<TravelerCombatUnit> selectableTravelers)
     {
         List<string> targetOptions = BuildTravelerTargetOptions(selectableTravelers);
         WriteMenu($"Seleccione un objetivo para {travelerName}", targetOptions);
@@ -208,9 +210,14 @@ public sealed class TravelerTurnInputView
 
     private static List<string> BuildTravelerTargetOptions(IEnumerable<TravelerCombatUnit> selectableTravelers)
         => selectableTravelers
-            .Select(traveler =>
-                $"{traveler.Name} - HP:{traveler.CurrentHp}/{traveler.MaxHp} SP:{traveler.CurrentSp}/{traveler.MaxSp} BP:{traveler.CurrentBp}")
+            .Select(BuildTravelerTargetOption)
             .ToList();
+
+    private static string BuildTravelerTargetOption(TravelerCombatUnit traveler)
+        => $"{traveler.Name} - "
+           + $"HP:{traveler.CurrentHp}/{traveler.MaxHp} "
+           + $"SP:{traveler.CurrentSp}/{traveler.MaxSp} "
+           + $"BP:{traveler.CurrentBp}";
 
     private SkillDefinition? SelectSkill(TravelerCombatUnit traveler)
     {
@@ -268,13 +275,18 @@ public sealed class TravelerTurnInputView
 
             if (requestedBp > MaximumUsedBp || requestedBp > currentBp)
             {
-                _view.WriteLine(SeparatorLine);
-                _view.WriteLine($"{travelerName} no tiene {requestedBp} BP para utilizar");
+                WriteInsufficientBpMessage(travelerName, requestedBp);
                 continue;
             }
 
             return requestedBp;
         }
+    }
+
+    private void WriteInsufficientBpMessage(string travelerName, int requestedBp)
+    {
+        _view.WriteLine(SeparatorLine);
+        _view.WriteLine($"{travelerName} no tiene {requestedBp} BP para utilizar");
     }
 
     private int? TryReadMenuOption()

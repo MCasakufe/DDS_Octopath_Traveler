@@ -57,10 +57,17 @@ public sealed class BattleStateView
     }
 
     private static string BuildTravelerLine(TravelerCombatUnit traveler)
-        => $"{ConvertSlotIndexToLetter(traveler.BoardSlotIndex)}-{traveler.Name} - HP:{traveler.CurrentHp}/{traveler.MaxHp} SP:{traveler.CurrentSp}/{traveler.MaxSp} BP:{traveler.CurrentBp}";
+        => $"{BuildUnitLabel(traveler.BoardSlotIndex, traveler.Name)} - "
+           + $"HP:{traveler.CurrentHp}/{traveler.MaxHp} "
+           + $"SP:{traveler.CurrentSp}/{traveler.MaxSp} "
+           + $"BP:{traveler.CurrentBp}";
 
     private static string BuildBeastLine(BeastCombatUnit beast)
-        => $"{ConvertSlotIndexToLetter(beast.BoardSlotIndex)}-{beast.Name} - HP:{beast.CurrentHp}/{beast.MaxHp} Shields:{beast.CurrentShields}";
+        => $"{BuildUnitLabel(beast.BoardSlotIndex, beast.Name)} - "
+           + $"HP:{beast.CurrentHp}/{beast.MaxHp} Shields:{beast.CurrentShields}";
+
+    private static string BuildUnitLabel(int boardSlotIndex, string unitName)
+        => $"{ConvertSlotIndexToLetter(boardSlotIndex)}-{unitName}";
 
     private static char ConvertSlotIndexToLetter(int boardSlotIndex)
         => (char)('A' + boardSlotIndex);

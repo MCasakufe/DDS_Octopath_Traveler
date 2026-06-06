@@ -2,6 +2,8 @@ namespace Octopath_Traveler_View.TeamSelection;
 
 public sealed class TeamSelectionView
 {
+    private const string TeamFilePattern = "*.txt";
+
     private readonly View _view;
     private readonly string _teamFilesFolder;
 
@@ -31,7 +33,7 @@ public sealed class TeamSelectionView
     }
 
     private string[] GetTeamFilePaths()
-        => Directory.GetFiles(_teamFilesFolder, "*.txt", SearchOption.TopDirectoryOnly);
+        => Directory.GetFiles(_teamFilesFolder, TeamFilePattern, SearchOption.TopDirectoryOnly);
 
     private IEnumerable<string> ExtractNonEmptyFileNames(IEnumerable<string> teamFilePaths)
         => teamFilePaths

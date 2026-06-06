@@ -19,13 +19,30 @@ public sealed class Game
     private readonly BattleLoopRunner _battleLoopRunner;
 
     public Game(View view, string teamsFolder)
+        : this(
+            new MainConsoleView(view),
+            new TeamSelectionView(view, teamsFolder),
+            new TeamFileParser(),
+            new TeamSetupValidator(new JsonValidationCatalogProvider(teamsFolder)),
+            new TeamSetupBattleStateFactory(new RuntimeDataCatalogProvider(teamsFolder)),
+            BuildBattleLoopRunner(view))
     {
-        _mainConsoleView = new MainConsoleView(view);
-        _teamSelectionView = new TeamSelectionView(view, teamsFolder);
-        _teamFileParser = new TeamFileParser();
-        _teamSetupValidator = new TeamSetupValidator(new JsonValidationCatalogProvider(teamsFolder));
-        _battleStateFactory = new TeamSetupBattleStateFactory(new RuntimeDataCatalogProvider(teamsFolder));
-        _battleLoopRunner = BuildBattleLoopRunner(view);
+    }
+
+    public Game(
+        MainConsoleView mainConsoleView,
+        TeamSelectionView teamSelectionView,
+        TeamFileParser teamFileParser,
+        TeamSetupValidator teamSetupValidator,
+        TeamSetupBattleStateFactory battleStateFactory,
+        BattleLoopRunner battleLoopRunner)
+    {
+        _mainConsoleView = mainConsoleView;
+        _teamSelectionView = teamSelectionView;
+        _teamFileParser = teamFileParser;
+        _teamSetupValidator = teamSetupValidator;
+        _battleStateFactory = battleStateFactory;
+        _battleLoopRunner = battleLoopRunner;
     }
 
     public void Play()

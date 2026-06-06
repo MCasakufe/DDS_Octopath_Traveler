@@ -24,7 +24,8 @@ internal sealed class TravelerTurnSelectionPolicy
         "Vivify"
     };
 
-    private static readonly IReadOnlySet<string> AutoSelectedBeastTargetSkills = new HashSet<string>(StringComparer.Ordinal)
+    private static readonly IReadOnlySet<string> AutoSelectedBeastTargetSkills =
+        new HashSet<string>(StringComparer.Ordinal)
     {
         "Thousand Spears",
         "Rain of Arrows",

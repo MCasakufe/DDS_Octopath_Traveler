@@ -17,18 +17,36 @@ public sealed class BattleActionView
     {
         _view.WriteLine(SeparatorLine);
         _view.WriteLine($"{attack.AttackerName} ataca");
-        foreach (TravelerBasicAttackHit hit in attack.Hits)
-        {
-            string weaknessSuffix = hit.IsWeaknessHit ? " con debilidad" : string.Empty;
-            _view.WriteLine($"{attack.TargetName} recibe {hit.Damage} de da\u00f1o de tipo {attack.WeaponType}{weaknessSuffix}");
-            if (hit.EnteredBreakingPoint)
-                _view.WriteLine($"{attack.TargetName} entra en Breaking Point");
-        }
-
-        if (attack.SpRecoveryResult is not null)
-            _view.WriteLine($"{attack.SpRecoveryResult.TargetName} recupera {attack.SpRecoveryResult.RecoveredSp} SP");
-
+        WriteTravelerBasicAttackHits(attack);
+        WriteBasicAttackSpRecovery(attack.SpRecoveryResult);
         _view.WriteLine($"{attack.TargetName} termina con HP:{attack.TargetCurrentHp}");
+    }
+
+    private void WriteTravelerBasicAttackHits(TravelerBasicAttack attack)
+    {
+        foreach (TravelerBasicAttackHit hit in attack.Hits)
+            WriteTravelerBasicAttackHit(attack, hit);
+    }
+
+    private void WriteTravelerBasicAttackHit(TravelerBasicAttack attack, TravelerBasicAttackHit hit)
+    {
+        _view.WriteLine(BuildTravelerBasicAttackDamageLine(attack, hit));
+        if (hit.EnteredBreakingPoint)
+            _view.WriteLine($"{attack.TargetName} entra en Breaking Point");
+    }
+
+    private static string BuildTravelerBasicAttackDamageLine(
+        TravelerBasicAttack attack,
+        TravelerBasicAttackHit hit)
+    {
+        string weaknessSuffix = hit.IsWeaknessHit ? " con debilidad" : string.Empty;
+        return $"{attack.TargetName} recibe {hit.Damage} de da\u00f1o de tipo {attack.WeaponType}{weaknessSuffix}";
+    }
+
+    private void WriteBasicAttackSpRecovery(TravelerBasicAttackSpRecoveryResult? spRecoveryResult)
+    {
+        if (spRecoveryResult is not null)
+            _view.WriteLine($"{spRecoveryResult.TargetName} recupera {spRecoveryResult.RecoveredSp} SP");
     }
 
     public void WriteTravelerSkill(TravelerSkillAction action)
@@ -58,14 +76,13 @@ public sealed class BattleActionView
             TravelerSkillSpRecoveryResult spRecoveryResult =>
                 $"{spRecoveryResult.TargetName} recupera {spRecoveryResult.RecoveredSp} SP",
             TravelerSkillReviveResult reviveResult => $"{reviveResult.TargetName} revive",
-            TravelerSkillPriorityChangeResult priorityChangeResult =>
-                $"{priorityChangeResult.TargetName} tendr\u00e1 menor prioridad de turno durante {priorityChangeResult.DurationRounds} rondas",
+            TravelerSkillPriorityChangeResult priorityChangeResult => BuildPriorityChangeLine(priorityChangeResult),
             TravelerSkillHpRestorationStatusResult hpRestorationStatusResult =>
-                $"{hpRestorationStatusResult.TargetName} tendr\u00e1 restauraci\u00f3n de HP durante {hpRestorationStatusResult.DurationRounds} rondas",
+                BuildHpRestorationStatusLine(hpRestorationStatusResult),
             TravelerSkillActivationDuplicationStatusResult activationDuplicationStatusResult =>
-                $"{activationDuplicationStatusResult.TargetName} activar\u00e1 sus habilidades 2 veces durante {activationDuplicationStatusResult.DurationRounds} rondas",
+                BuildActivationDuplicationStatusLine(activationDuplicationStatusResult),
             TravelerSkillTargetModificationStatusResult targetModificationStatusResult =>
-                $"{targetModificationStatusResult.TargetName} modificar\u00e1 sus targets durante {targetModificationStatusResult.DurationRounds} rondas",
+                BuildTargetModificationStatusLine(targetModificationStatusResult),
             TravelerSkillStatusEffectResult statusEffectResult =>
                 BuildStatusEffectLine(
                     statusEffectResult.TargetName,
@@ -77,8 +94,28 @@ public sealed class BattleActionView
     private static string BuildDamageLine(TravelerSkillDamageResult damageResult)
     {
         string weaknessSuffix = damageResult.IsWeaknessHit ? " con debilidad" : string.Empty;
-        return $"{damageResult.TargetName} recibe {damageResult.Damage} de da\u00f1o de tipo {damageResult.DamageType}{weaknessSuffix}";
+        return $"{damageResult.TargetName} recibe {damageResult.Damage} de da\u00f1o de tipo "
+               + $"{damageResult.DamageType}{weaknessSuffix}";
     }
+
+    private static string BuildPriorityChangeLine(TravelerSkillPriorityChangeResult priorityChangeResult)
+        => $"{priorityChangeResult.TargetName} tendr\u00e1 menor prioridad de turno durante "
+           + $"{priorityChangeResult.DurationRounds} rondas";
+
+    private static string BuildHpRestorationStatusLine(
+        TravelerSkillHpRestorationStatusResult hpRestorationStatusResult)
+        => $"{hpRestorationStatusResult.TargetName} tendr\u00e1 restauraci\u00f3n de HP durante "
+           + $"{hpRestorationStatusResult.DurationRounds} rondas";
+
+    private static string BuildActivationDuplicationStatusLine(
+        TravelerSkillActivationDuplicationStatusResult activationDuplicationStatusResult)
+        => $"{activationDuplicationStatusResult.TargetName} activar\u00e1 sus habilidades 2 veces durante "
+           + $"{activationDuplicationStatusResult.DurationRounds} rondas";
+
+    private static string BuildTargetModificationStatusLine(
+        TravelerSkillTargetModificationStatusResult targetModificationStatusResult)
+        => $"{targetModificationStatusResult.TargetName} modificar\u00e1 sus targets durante "
+           + $"{targetModificationStatusResult.DurationRounds} rondas";
 
     public void WriteBeastAttack(BeastAttack attack)
     {
